@@ -1,0 +1,388 @@
+{
+  "core_info": {
+    "core_event_name": "以色列空袭叙利亚",
+    "update_time": "更新至2025年7月19日 07:40",
+    "sub_event_count": 47,
+    "scrape_time": "2025-09-11 17:34:19"
+  },
+  "sub_events": [
+    {
+      "id": "event_5",
+      "title": "美国驻土耳其大使：以色列与叙利亚已同意停火",
+      "link": "https://baijiahao.baidu.com/s?id=1838024701306732202",
+      "time": "7月19日 07:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "以军空袭叙利亚苏韦达市郊区",
+      "link": "https://baijiahao.baidu.com/s?id=1837949453018863634",
+      "time": "7月18日 10:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "叙政权领导人：以色列试图将叙利亚拖入战争",
+      "link": "https://baijiahao.baidu.com/s?id=1837883666403385042",
+      "time": "7月17日 16:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "联合国秘书长强烈谴责以色列对叙利亚袭击",
+      "link": "https://baijiahao.baidu.com/s?id=1837847339426630985&wfr=spider&for=pc",
+      "time": "7月17日 07:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "以色列袭击叙利亚政权总部及国防部门附近",
+      "link": "https://baijiahao.baidu.com/s?id=1837814208472613822&wfr=spider&for=pc",
+      "time": "7月16日 22:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "以军总参谋长下令加强以叙临时边界兵力",
+      "link": "https://baijiahao.baidu.com/s?id=1837813052207083667&wfr=spider&for=pc",
+      "time": "7月16日 22:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "以色列对叙利亚苏韦达地区进行空袭",
+      "link": "https://baijiahao.baidu.com/s?id=1837702385812276395&wfr=spider&for=pc",
+      "time": "7月15日 18:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "中方敦促以色列立即停止攻击叙利亚",
+      "link": "https://baijiahao.baidu.com/s?id=1829060347743624573&wfr=spider&for=pc",
+      "time": "4月11日 07:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "以色列空袭叙利亚南部",
+      "link": "https://baijiahao.baidu.com/s?id=1825089624702171564&wfr=spider&for=pc",
+      "time": "2月26日 11:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "以防长称以军将“无限期”维持在戈兰高地赫尔蒙山的驻军",
+      "link": "https://baijiahao.baidu.com/s?id=1822520625389180310",
+      "time": "1月29日 03:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "以军趁乱侵占叙利亚领土 被占区民众深怨“没人管”",
+      "link": "https://baijiahao.baidu.com/s?id=1820598402295322262",
+      "time": "1月7日 21:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "史上首次：内塔尼亚胡踏入叙领土",
+      "link": "https://baijiahao.baidu.com/s?id=1818757762926158002",
+      "time": "2024年12月18日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "叙人权观察组织：以色列袭击叙利亚中部军事设施",
+      "link": "https://baijiahao.baidu.com/s?id=1818305263182277131",
+      "time": "2024年12月13日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "以军摧毁叙利亚70%以上军事力量 叙过渡政府接管权力",
+      "link": "https://baijiahao.baidu.com/s?id=1818101636387748029",
+      "time": "2024年12月11日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "以媒：以军摧毁叙利亚政府军的海军舰队",
+      "link": "https://baijiahao.baidu.com/s?id=1818041207898431558&wfr=spider&for=pc",
+      "time": "2024年12月10日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "叙利亚多地遭空袭",
+      "link": "https://baijiahao.baidu.com/s?id=1818020853900601721",
+      "time": "2024年12月10日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_21",
+      "title": "以色列空袭叙利亚多个省份，美国称是“临时措施”，为了保卫边界",
+      "link": "https://baijiahao.baidu.com/s?id=1818020572894870662&wfr=spider&for=pc",
+      "time": "2024年12月10日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_22",
+      "title": "内塔尼亚胡：巴沙尔垮台是以色列的功劳",
+      "link": "https://baijiahao.baidu.com/s?id=1818015978517477134&wfr=baike",
+      "time": "2024年12月10日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_23",
+      "title": "以色列对叙利亚发动超100次袭击",
+      "link": "https://baijiahao.baidu.com/s?id=1818012626461291145&wfr=spider&for=pc",
+      "time": "2024年12月10日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_24",
+      "title": "多国谴责以色列控制戈兰高地的叙以军事缓冲区",
+      "link": "https://baijiahao.baidu.com/s?id=1818010822169873263&wfr=spider&for=pc",
+      "time": "2024年12月10日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_25",
+      "title": "叙媒称以色列袭击叙利亚西北部叙政府军海军舰队",
+      "link": "https://baijiahao.baidu.com/s?id=1817988862946883431",
+      "time": "2024年12月10日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_26",
+      "title": "以军袭击叙黎边境过境点",
+      "link": "https://baijiahao.baidu.com/s?id=1817659503708596270",
+      "time": "2024年12月6日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_27",
+      "title": "以色列空袭叙黎边境地区",
+      "link": "https://baijiahao.baidu.com/s?id=1817659840589643015",
+      "time": "2024年12月6日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_28",
+      "title": "叙利亚反政府武装大举进攻 以色列或与其联手施压叙政府",
+      "link": "https://baijiahao.baidu.com/s?id=1817285040353867800",
+      "time": "2024年12月2日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_29",
+      "title": "安理会讨论叙利亚局势 中方呼吁切实防止冲突进一步扩大蔓延",
+      "link": "https://baijiahao.baidu.com/s?id=1816387313281844026",
+      "time": "2024年11月22日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_30",
+      "title": "叙利亚中部遭以色列空袭",
+      "link": "https://baijiahao.baidu.com/s?id=1814429414355442229",
+      "time": "2024年10月31日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_31",
+      "title": "以军袭击叙利亚港口城市拉塔基亚附近武器库",
+      "link": "https://baijiahao.baidu.com/s?id=1811873513085485066",
+      "time": "2024年10月3日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_32",
+      "title": "以色列空袭叙利亚南部边境城镇 致1死5伤",
+      "link": "https://baijiahao.baidu.com/s?id=1799566473548414417",
+      "time": "2024年5月20日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_33",
+      "title": "叙利亚军方：以色列空袭叙首都大马士革市郊",
+      "link": "https://baijiahao.baidu.com/s?id=1798554114490083338",
+      "time": "2024年5月9日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_34",
+      "title": "叙利亚军方：以色列空袭叙首都周边致8人受伤",
+      "link": "https://baijiahao.baidu.com/s?id=1797984076871238869&wfr=spider&for=pc",
+      "time": "2024年5月3日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_35",
+      "title": "中方对以色列持续空袭叙利亚深表关切",
+      "link": "https://baijiahao.baidu.com/s?id=1797336056331611988",
+      "time": "2024年4月26日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_36",
+      "title": "美总统拜登签署援以法案",
+      "link": "https://baijiahao.baidu.com/s?id=1797229542832791259&wfr=spider&for=pc",
+      "time": "2024年4月24日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_37",
+      "title": "叙军方：叙南部遭以色列袭击致物资损失",
+      "link": "https://baijiahao.baidu.com/s?id=1796754759704840042",
+      "time": "2024年4月19日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_38",
+      "title": "伊朗驻叙利亚大使馆领事处重新开放仪式举行",
+      "link": "https://baijiahao.baidu.com/s?id=1795775838805274568",
+      "time": "2024年4月8日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_39",
+      "title": "叙利亚为以色列空袭伊朗驻叙使馆事件遇难人员举行葬礼",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=14030693704863170979",
+      "time": "2024年4月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_40",
+      "title": "中方谴责针对伊朗驻叙利亚使馆的袭击行为",
+      "link": "https://baijiahao.baidu.com/s?id=1795208190137866183&wfr=spider&for=pc",
+      "time": "2024年4月2日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_41",
+      "title": "以色列空袭伊朗驻叙使馆正值民众下班高峰",
+      "link": "https://haokan.baidu.com/v?vid=11287963043982298434",
+      "time": "2024年4月2日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_42",
+      "title": "以色列空袭伊朗驻叙使馆建筑致7人死亡",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=14840872534589488556",
+      "time": "2024年4月2日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_43",
+      "title": "叙利亚首都大马士革一居民楼遭以色列空袭，伤亡情况不明",
+      "link": "http://baijiahao.baidu.com/s?id=1795143391207386751",
+      "time": "2024年4月1日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_44",
+      "title": "叙利亚媒体称以军空袭大马士革居民区",
+      "link": "https://quanmin.baidu.com/v/18077375765937676533",
+      "time": "2024年1月20日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_45",
+      "title": "叙军方称以色列空袭叙利亚 造成“物质损失”",
+      "link": "https://baijiahao.baidu.com/s?id=1782861303543282741",
+      "time": "2023年11月18日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_46",
+      "title": "以色列夜晚空袭叙南部，造成部分设施损毁",
+      "link": "https://baijiahao.baidu.com/s?id=1782047409861301288",
+      "time": "2023年11月9日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_47",
+      "title": "叙利亚阿勒颇机场两周来四次遭以军空袭",
+      "link": "http://baijiahao.baidu.com/s?id=1780725319954282365",
+      "time": "2023年10月25日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_48",
+      "title": "以色列再次空袭叙利亚两座机场 致1死1伤",
+      "link": "https://baijiahao.baidu.com/s?id=1780433023293733581",
+      "time": "2023年10月22日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_49",
+      "title": "以色列空袭叙利亚机场 伊朗外长被迫改道",
+      "link": "https://baijiahao.baidu.com/s?id=1779557223479112296",
+      "time": "2023年10月12日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_50",
+      "title": "以色列空袭叙利亚大马士革国际机场以及阿勒颇机场",
+      "link": "https://baijiahao.baidu.com/s?id=1779549168443816868&wfr=spider&for=pc",
+      "time": "2023年10月12日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_51",
+      "title": "伊朗外长将访问黎巴嫩与叙利亚",
+      "link": "https://baijiahao.baidu.com/s?id=1779541336493133747&wfr=spider&for=pc",
+      "time": "2023年10月12日",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 47,
+  "scrape_time": "2025-09-11 17:34:29"
+}

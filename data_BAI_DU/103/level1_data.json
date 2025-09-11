@@ -1,0 +1,316 @@
+{
+  "core_info": {
+    "core_event_name": "外卖平台商战",
+    "update_time": "更新至2025年9月9日 15:00",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-11 18:05:17"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "市场监管总局已约谈主要外卖平台 抵制恶性补贴",
+      "link": "https://baijiahao.baidu.com/s?id=1842768769597599471&wfr=spider&for=pc",
+      "time": "9月9日 15:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "人民网三评“外卖大战”之一：谁在“卷”，“卷”了谁？",
+      "link": "https://baijiahao.baidu.com/s?id=1840773090110730768&wfr=spider&for=pc",
+      "time": "8月18日 13:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "4个月烧光几百亿，外卖大战到底谁是赢家？",
+      "link": "https://baijiahao.baidu.com/s?id=1840125716610791815",
+      "time": "8月11日 10:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "外卖大战“裹挟”商家：月入16万 一算账还亏1万",
+      "link": "https://baijiahao.baidu.com/s?id=1840045205189431976",
+      "time": "8月10日 13:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美团、饿了么、京东发文抵制恶性竞争，促进各方互利共赢",
+      "link": "https://baijiahao.baidu.com/s?id=1839231177887181062&wfr=spider&for=pc",
+      "time": "8月1日 13:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "“外卖大战”变“外卖小战”？兑换券需凑单、“0元购”有点难",
+      "link": "https://baijiahao.baidu.com/s?id=1838674226939663640&wfr=spider&for=pc&searchword=%E2%80%9C%E5%A4%96%E5%8D%96%E5%A4%A7%E6%88%98%E2%80%9D%E5%8F%98%E2%80%9C%E5%A4%96%E5%8D%96%E5%B0%8F%E6%88%98%E2%80%9D",
+      "time": "7月26日 10:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "市场监管总局约谈三家外卖平台企业 要求理性竞争",
+      "link": "https://baijiahao.baidu.com/s?id=1837986951113648386",
+      "time": "7月18日 20:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "淘宝内部人士回应：有平台“0元购”刷单但绝不是淘宝闪购",
+      "link": "https://baijiahao.baidu.com/s?id=1837982292615215024&wfr=spider&for=pc",
+      "time": "7月18日 19:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "专访中国连锁经营协会会长：防止外卖大战陷入“多输困局”",
+      "link": "https://baijiahao.baidu.com/s?id=1837977567640032370&wfr=spider&for=pc",
+      "time": "7月18日 17:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "“疯狂星期六”有多烧钱：美团单日补贴4亿，淘宝闪购超12亿",
+      "link": "https://baijiahao.baidu.com/s?id=1837951383010000576",
+      "time": "7月18日 10:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "京东回应外卖“0元购”大战",
+      "link": "https://baijiahao.baidu.com/s?id=1837891950213645173",
+      "time": "7月17日 19:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "京东回应外卖0元购称属恶性竞争未参与",
+      "link": "https://baijiahao.baidu.com/s?id=1837890939609219858&wfr=baike",
+      "time": "7月17日 18:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "美团高管回应外卖大战",
+      "link": "https://baijiahao.baidu.com/s?id=1837821192104419249&wfr=spider&for=pc",
+      "time": "7月17日 00:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "环球时报快评：“外卖大战”要警惕劣币驱逐良币",
+      "link": "https://baijiahao.baidu.com/s?id=1837814426787606356&wfr=spider&for=pc",
+      "time": "7月16日 22:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "酒旅加入外卖补贴大战，250元以下“特价酒店”上线",
+      "link": "https://baijiahao.baidu.com/s?id=1837774959451260932&wfr=baike",
+      "time": "7月16日 12:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "京东外卖全职骑手突破15万人，取消“超时20分钟免单”服务",
+      "link": "https://baijiahao.baidu.com/s?id=1837772346943164494",
+      "time": "7月16日 11:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "外卖补贴潮下奈雪再破纪录：单日售出超103万杯！",
+      "link": "https://baijiahao.baidu.com/s?id=1837766232469238915&wfr=baike",
+      "time": "7月16日 09:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "京东外卖晒出猪猪侠入职申请表",
+      "link": "https://baijiahao.baidu.com/s?id=1830550762750684499&wfr=spider&for=pc",
+      "time": "4月27日 18:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "京东小哥喊话全职外卖员“公司奖励我一台车,你们都可以做到”",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_3947249742224394921&sourceFrom=qmj",
+      "time": "4月22日 15:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "刘强东亲自送外卖？京东回应：属实",
+      "link": "https://baijiahao.baidu.com/s?id=1830014447862752188",
+      "time": "4月21日 20:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_21",
+      "title": "美团外卖将发千亿补贴，京东外卖要再招超5万“小哥”",
+      "link": "https://baijiahao.baidu.com/s?id=1829980257053169841",
+      "time": "4月21日 11:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_22",
+      "title": "京东：今日起所有超时20分钟以上的外卖订单全部免单",
+      "link": "https://baijiahao.baidu.com/s?id=1829971035058265694&wfr=spider&for=pc",
+      "time": "4月21日 08:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_23",
+      "title": "外卖小哥上社保，要把“好事”办好",
+      "link": "https://baijiahao.baidu.com/s?id=1825079239034197100&wfr=spider&for=pc",
+      "time": "2月26日 08:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_24",
+      "title": "京东：外卖骑手五险一金的所有成本，全部由京东承担",
+      "link": "https://baijiahao.baidu.com/s?id=1824932622181412448",
+      "time": "2月24日 18:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_25",
+      "title": "外卖小哥痛哭感谢刘强东：不再是“三无人员” 送外卖也有尊严",
+      "link": "https://news.pconline.com.cn/1887/18873500.html",
+      "time": "2月23日 10:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_26",
+      "title": "京东外卖骑手月薪14000高过同行",
+      "link": "https://baijiahao.baidu.com/s?id=1824544750748099650&wfr=spider&for=pc",
+      "time": "2月20日 11:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_27",
+      "title": "京东外卖上线一周订单上涨100倍，已覆盖全国39城",
+      "link": "https://baijiahao.baidu.com/s?id=1824541164706088002&wfr=spider&for=pc",
+      "time": "2月20日 10:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_28",
+      "title": "京东外卖有近20万餐饮商家申请入驻",
+      "link": "https://baijiahao.baidu.com/s?id=1824540533142594810&wfr=spider&for=pc",
+      "time": "2月20日 10:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_29",
+      "title": "京东宣布自3月1日起将为外卖骑手缴纳五险一金",
+      "link": "https://baijiahao.baidu.com/s?id=1824528766757088017&wfr=spider&for=pc",
+      "time": "2月20日 07:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_30",
+      "title": "京东外卖试水：搅局，还是陪跑？",
+      "link": "https://baijiahao.baidu.com/s?id=1823848698064566325&wfr=spider&for=pc",
+      "time": "2月12日 18:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_31",
+      "title": "京东外卖“0佣金”背后，藏着刘强东的“大棋”",
+      "link": "https://baijiahao.baidu.com/s?id=1823826582884701540&wfr=spider&for=pc",
+      "time": "2月12日 13:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_32",
+      "title": "京东：正式启动外卖服务！承诺5月1日前入驻商家，全年免佣金",
+      "link": "https://baijiahao.baidu.com/s?id=1823778592945540004&wfr=spider&for=pc",
+      "time": "2月12日 00:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_33",
+      "title": "京东冲入外卖市场，美团陷入抽佣争议",
+      "link": "https://baijiahao.baidu.com/s?id=1823665094560632751&wfr=spider&for=pc",
+      "time": "2月10日 18:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_34",
+      "title": "刘强东推动京东自营，最快9分钟送达",
+      "link": "https://baijiahao.baidu.com/s?id=1815570415150716542&wfr=spider&for=pc",
+      "time": "2024年11月13日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_35",
+      "title": "京东加码外卖业务，有品牌透露费率收取差异",
+      "link": "https://baijiahao.baidu.com/s?id=1811436941776241977&wfr=spider&for=pc",
+      "time": "2024年9月28日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_36",
+      "title": "京东加码外卖布局“轻餐饮”，巨头竞逐即时零售",
+      "link": "https://baijiahao.baidu.com/s?id=1811176819676046593&wfr=spider&for=pc",
+      "time": "2024年9月25日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_37",
+      "title": "外媒：京东入局外卖业务，餐馆老板怎么看？",
+      "link": "https://baijiahao.baidu.com/s?id=1737552540152244706&wfr=spider&for=pc",
+      "time": "2022年7月6日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_38",
+      "title": "辛利军：京东打算进军外卖领域",
+      "link": "https://baijiahao.baidu.com/s?id=1735842369139588991&wfr=spider&for=pc",
+      "time": "2022年6月17日",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 38,
+  "scrape_time": "2025-09-11 18:05:33"
+}

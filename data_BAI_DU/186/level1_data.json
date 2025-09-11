@@ -1,0 +1,92 @@
+{
+  "core_info": {
+    "core_event_name": "郑钦文复仇萨巴伦卡，马德里站红土1000赛",
+    "update_time": "更新至20250501",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-11 17:44:09"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "萨巴伦卡再进马德里半决赛,生涯第18次跻身1000赛四强",
+      "link": "http://new.qq.com/rain/a/20250501A01KP900",
+      "time": "5月1日 06:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "萨巴伦卡逆转晋级马德里站16强",
+      "link": "http://tv.cctv.com/2025/04/28/VIDEGpPk6IcBEL3f6gIyCukL250428.shtml",
+      "time": "4月28日 09:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "郑钦文:接下来的比赛一场一场去拼",
+      "link": "http://baijiahao.baidu.com/s?id=1830466361580185437&wfr=spider&for=pc",
+      "time": "4月26日 19:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "郑钦文红土赛季首站落败 止步马德里站次轮",
+      "link": "http://www.wfcmw.cn/334169/2025/04/38823193.html",
+      "time": "4月26日 09:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "萨巴伦卡2-0击败布林科娃，晋级马德里32强",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002bwpw",
+      "time": "4月25日 22:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "一场2-1逆转 郑钦文次轮对手确定 前世界第一0-2一轮游 中国莎娃0-2",
+      "link": "http://cj.sina.com.cn/articles/view/6505382853/183c043c502001ex40",
+      "time": "4月24日 14:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "郑钦文本赛季红土首秀对手确定",
+      "link": "http://baijiahao.baidu.com/s?id=1830239082146667579&wfr=spider&for=pc",
+      "time": "4月24日 07:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "巴塞罗那公开赛:鲁内夺冠",
+      "link": "http://baijiahao.baidu.com/s?id=1829990475946029302&wfr=spider&for=pc",
+      "time": "4月21日 13:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "郑钦文躲过了苦主亚历山德洛娃，但是绕不开大山萨巴伦卡",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4798169410690599077",
+      "time": "4月21日 12:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "郑钦文7战萨巴伦卡!红土赛场或能完成复仇,斯瓦泰克再遇奥胖",
+      "link": "http://baijiahao.baidu.com/s?id=1829979840226310208&wfr=spider&for=pc",
+      "time": "4月21日 11:06",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 10,
+  "scrape_time": "2025-09-11 17:44:23"
+}

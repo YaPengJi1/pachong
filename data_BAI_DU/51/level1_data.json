@@ -1,0 +1,148 @@
+{
+  "core_info": {
+    "core_event_name": "第十五届全国运动会",
+    "update_time": "更新至2025年8月6日 08:30",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-11 20:47:46"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "十五运会群众比赛乒乓球项目决赛赛程发布",
+      "link": "https://baijiahao.baidu.com/s?id=1839670167521260151&wfr=spider&for=pc",
+      "time": "8月6日 08:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "十五运会和残特奥会火炬“绽放”发布",
+      "link": "https://baijiahao.baidu.com/s?id=1839380348272359826&wfr=spider&for=pc",
+      "time": "8月3日 04:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "“同心跃”！十五运会奖牌正式发布",
+      "link": "https://baijiahao.baidu.com/s?id=1834506545798839726&wfr=spider&for=pc",
+      "time": "6月10日 10:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "全运会倒计时两百天，王府井上新特许商品",
+      "link": "https://baijiahao.baidu.com/s?id=1830184377855819085",
+      "time": "4月23日 17:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "第十五届全运会香港赛区大部分测试已顺利完成",
+      "link": "https://baijiahao.baidu.com/s?id=1830094882199952795",
+      "time": "4月22日 17:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "十五运会会徽、吉祥物诞生记",
+      "link": "https://baijiahao.baidu.com/s?id=1815322952458073006",
+      "time": "2024年11月10日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "第十五届全国运动会主题口号发布",
+      "link": "https://baijiahao.baidu.com/s?id=1815247424710797696",
+      "time": "2024年11月9日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "第十五届运动会新闻发布会在广东大厦举行",
+      "link": "https://baijiahao.baidu.com/s?id=1815162458380229385&wfr=spider&for=pc",
+      "time": "2024年11月8日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "第十五届全国运动会市场开发计划发布暨启动仪式在穗举行",
+      "link": "https://baijiahao.baidu.com/s?id=1814144634922384156&wfr=spider&for=pc",
+      "time": "2024年10月28日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "十五运公开征集志愿者服务口号和志愿者昵称",
+      "link": "https://baijiahao.baidu.com/s?id=1810604454495354744&wfr=spider&for=pc",
+      "time": "2024年9月19日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "十五运会和残特奥会开幕式主创团队亮相",
+      "link": "https://baijiahao.baidu.com/s?id=1802461643682759132&wfr=baike",
+      "time": "2024年6月21日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "十五运会组委会成立大会举行 粤港澳三地共同承办",
+      "link": "https://baijiahao.baidu.com/s?id=1796079401769466131&wfr=spider&for=pc",
+      "time": "2024年4月12日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "第十五届全运会赛期确定：开闭幕式分别在广州、深圳举行",
+      "link": "https://baijiahao.baidu.com/s?id=1796074826697012433&wfr=spider&for=pc",
+      "time": "2024年4月12日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "广州将承办十五运会开幕式、残特奥会开幕式",
+      "link": "https://baijiahao.baidu.com/s?id=1794011777908809775&wfr=baike",
+      "time": "2024年3月20日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "第十五届全国运动会群众赛事活动规程总则颁布",
+      "link": "https://baijiahao.baidu.com/s?id=1777361476542851842&wfr=baike",
+      "time": "2023年9月18日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "国办：同意广东、香港、澳门承办2025年第十五届全运会",
+      "link": "https://baijiahao.baidu.com/s?id=1709146888188897505&wfr=spider&for=pc",
+      "time": "2021年8月26日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "2025年第十五届全国运动会申办工作正式启动",
+      "link": "https://baijiahao.baidu.com/s?id=1702596824586289321&wfr=spider&for=pc",
+      "time": "2021年6月15日",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 17,
+  "scrape_time": "2025-09-11 20:48:00"
+}

@@ -1,0 +1,116 @@
+{
+  "core_info": {
+    "core_event_name": "孙菲菲被霸凌事件",
+    "update_time": "更新至2025年7月8日 13:15",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-11 17:29:46"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "反转？孙菲菲再提剧组打人事件否认蹭热度，改口称男主王阳说谎",
+      "link": "https://baijiahao.baidu.com/s?id=1837054586082686155&wfr=spider&for=pc",
+      "time": "7月8日 13:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "知名演员孙菲菲发文称：“娱乐圈的霸凌事件，我是亲历者”",
+      "link": "https://baijiahao.baidu.com/s?id=1782615372535840440&wfr=spider&for=pc",
+      "time": "2023年11月15日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "孙菲菲晒行政处罚书 再提被打事件",
+      "link": "https://weibo.com/1212612565/NhQOKye0z",
+      "time": "2023年9月5日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "孙菲菲发文怒怼张汉杰老婆",
+      "link": "https://weibo.com/1212612565/Nh9M9bdFL",
+      "time": "2023年8月31日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "孙菲菲发文解释被打原因，揭电视台和制片方内幕",
+      "link": "https://weibo.com/1212612565/Nh4B5Dok6",
+      "time": "2023年8月31日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "行政处罚书还原孙菲菲被打事件：孙菲菲理论时被二次殴打",
+      "link": "https://haokan.baidu.com/v?vid=9541507536256827686&backflow=1&pd=d_push&pagepd=d_push",
+      "time": "2023年8月30日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "孙菲菲：王阳当时不在现场，大家不要为难他",
+      "link": "https://baijiahao.baidu.com/s?id=1775654464691398472&wfr=spider&for=pc",
+      "time": "2023年8月30日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "王阳回应当年涉孙菲菲言论：表达不妥",
+      "link": "https://weibo.com/1249629725/NgZGo5OiF",
+      "time": "2023年8月30日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "王阳曾回应孙菲菲被打事件，称不在场但相信导演",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=4244877825034705524",
+      "time": "2023年8月30日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "演员孙菲菲再曝曾遭娱乐圈霸凌",
+      "link": "https://weibo.com/1212612565/NgS3xm5h8",
+      "time": "2023年8月29日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "孙菲菲忆昔日剧组遭暴打：打到我爬不起来为止",
+      "link": "https://travel.cnr.cn/list/20160516/t20160516_522147552.shtml",
+      "time": "2016年5月12日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "“打人”剧组：孙菲菲无端迟到无故罢演",
+      "link": "https://www.chinanews.com.cn/yl/2011/01-12/2783264.shtml",
+      "time": "2011年1月12日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "孙菲菲被三壮汉暴打 疑因拍戏与导演起争执被报复",
+      "link": "https://www.chinanews.com.cn/yl/2011/01-07/2771355.shtml",
+      "time": "2010年12月23日",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 13,
+  "scrape_time": "2025-09-11 17:30:00"
+}

@@ -1,0 +1,220 @@
+{
+  "core_info": {
+    "core_event_name": "湘雅二院医疗腐败事件",
+    "update_time": "更新至2025年6月13日 21:18",
+    "sub_event_count": 26,
+    "scrape_time": "2025-09-11 16:47:42"
+  },
+  "sub_events": [
+    {
+      "id": "event_4",
+      "title": "关于“罗某宇坠楼事件”的情况通报",
+      "link": "https://baijiahao.baidu.com/s?id=1834819918708784578",
+      "time": "6月13日 21:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "罗帅宇父亲发声:去年递交不服调查结论的材料,一年后才收到答复",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_4506133146935369169&sourceFrom=share",
+      "time": "6月13日 18:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "湘雅二医院实习医生罗帅宇坠楼前一天曾叮嘱两位同事",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_930859865422356484&sourceFrom=share",
+      "time": "6月13日 15:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "罗帅宇坠亡事件持续发酵，湖南省卫健委：马上就会有官方通报",
+      "link": "https://baijiahao.baidu.com/s?id=1834799421334606515",
+      "time": "6月13日 15:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "坠亡实习医生罗帅宇妈妈最新发声",
+      "link": "https://baijiahao.baidu.com/s?id=1834797660834321900",
+      "time": "6月13日 15:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "彻查罗帅宇坠亡案件，不能光让当地“自己查自己”",
+      "link": "https://baijiahao.baidu.com/s?id=1834795010540089102",
+      "time": "6月13日 14:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "怀疑罗帅宇死因另有隐情，罗帅宇亲属最新发声",
+      "link": "https://baijiahao.baidu.com/s?id=1834773566177600689&wfr=spider&for=pc&fromModule=lemma_middle-info",
+      "time": "6月13日 08:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "卫健部门回应湖南湘雅二院坠亡实习医生所涉举报材料",
+      "link": "https://baijiahao.baidu.com/s?id=1834726125808025533",
+      "time": "6月12日 20:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "湘雅二医院副主任医师刘翔峰一审获刑17年",
+      "link": "https://baijiahao.baidu.com/s?id=1814401032378565726&wfr=spider&for=pc",
+      "time": "2024年10月31日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "湘雅二院持续自查自纠：15医护人员违规被罚",
+      "link": "https://baijiahao.baidu.com/s?id=1743124031562352614&wfr=spider&for=pc",
+      "time": "2022年9月5日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "律师：刘翔峰或被终身禁业",
+      "link": "https://baijiahao.baidu.com/s?id=1742363027150791332&wfr=spider&for=pc",
+      "time": "2022年8月28日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "中纪委：坚决维护医疗领域风清气正",
+      "link": "https://baijiahao.baidu.com/s?id=1742362763827151013&wfr=spider&for=pc",
+      "time": "2022年8月28日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "湖南卫健委：刘翔峰涉嫌严重违法",
+      "link": "https://baijiahao.baidu.com/s?id=1742237380439895137&wfr=spider&for=pc",
+      "time": "2022年8月26日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "刘翔峰推荐高价蛋白粉实为固体饮料",
+      "link": "https://baijiahao.baidu.com/s?id=1742201048423482240&wfr=spider&for=pc",
+      "time": "2022年8月26日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "胡锡进：医院监管缺失十分严重",
+      "link": "https://mbd.baidu.com/newspage/data/dtlandingwise?nid=dt_3943053602119980421&sourceFrom=userkg",
+      "time": "2022年8月26日",
+      "summary": "刘翔峰事件极其恶劣。我相信这样的坏医生极少极少，但是对这件事的处理我仍然认为不应仅仅局限于对他个人的惩处，因为即便他是深藏不漏偷偷摸摸的“独狼”，湘雅二院的监管缺失也是十分严重的。作为处理这类案子的基本逻辑，相信有关部门接下来还会调查对他长期作恶未能及时制止的周遭医疗环境，湘雅二院将承担相应连带责任。这样的延伸调查和处理相信一定会发生。\n至于刘翔峰本人，等待他的一定是刑事追责。",
+      "author": "胡锡进"
+    },
+    {
+      "id": "event_19",
+      "title": "湘雅二院医生刘翔峰被查",
+      "link": "http://baijiahao.baidu.com/s?id=1742144136779010239",
+      "time": "2022年8月25日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "湘雅二医院启动专项行动改进医疗作风、规范医疗行为",
+      "link": "http://baijiahao.baidu.com/s?id=1742142509952577803",
+      "time": "2022年8月25日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_21",
+      "title": "刘翔峰被举报：患者家属称不敢不满",
+      "link": "http://baijiahao.baidu.com/s?id=1742033156114951469",
+      "time": "2022年8月24日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_22",
+      "title": "媒体：刘翔峰的回应完全是敷衍推脱",
+      "link": "https://baijiahao.baidu.com/s?id=1742009691835002780&wfr=spider&for=pc",
+      "time": "2022年8月24日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_23",
+      "title": "湘雅二医院“治疗门”医生刘翔峰发声：请联系宣传部门",
+      "link": "https://baijiahao.baidu.com/s?id=1741959961841117773&wfr=spider&for=pc",
+      "time": "2022年8月23日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_24",
+      "title": "医生被免职后举报仍不断！官媒质疑 号召彻查",
+      "link": "https://baijiahao.baidu.com/s?id=1741956471105972533",
+      "time": "2022年8月23日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_25",
+      "title": "湘雅被免医生早被举报 却一路升职",
+      "link": "https://baijiahao.baidu.com/s?id=1741916829400351301",
+      "time": "2022年8月23日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_26",
+      "title": "起底长沙被举报医生：患者没确认患癌被切除胰腺",
+      "link": "https://baijiahao.baidu.com/s?id=1741678795320203861&wfr=spider&for=pc&searchword=%E8%B5%B7%E5%BA%95%E9%95%BF%E6%B2%99%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%8C%BB%E7%94%9F",
+      "time": "2022年8月20日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_27",
+      "title": "同行称湘雅医生被举报内容令人咋舌",
+      "link": "https://baijiahao.baidu.com/s?id=1741604806343300726",
+      "time": "2022年8月19日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_28",
+      "title": "长沙湘雅二院通报网传医生作风问题：已免职",
+      "link": "https://baijiahao.baidu.com/s?id=1741482718743509711&wfr=spider&for=pc",
+      "time": "2022年8月18日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_29",
+      "title": "长沙一医生被曝医疗作风有问题 医院回应：已停职 正接受调查",
+      "link": "https://baijiahao.baidu.com/s?id=1741474289673751234&wfr=spider&for=pc",
+      "time": "2022年8月18日",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 26,
+  "scrape_time": "2025-09-11 16:47:51"
+}

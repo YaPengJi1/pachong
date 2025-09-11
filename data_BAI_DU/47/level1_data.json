@@ -1,0 +1,900 @@
+{
+  "core_info": {
+    "core_event_name": "柯文哲政治献金丑闻",
+    "update_time": "更新至2025年9月8日 17:01",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-11 19:48:12"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "柯文哲交保出狱 大骂赖清德",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_5945759188696219985",
+      "time": "9月8日 17:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "法院裁定7000万元新台币交保",
+      "link": "https://baijiahao.baidu.com/s?id=1842397308910597837",
+      "time": "9月5日 12:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "台北市前副市长妻子突然跳楼身亡",
+      "link": "https://baijiahao.baidu.com/s?id=1836415060398575330",
+      "time": "7月1日 11:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "台媒：柯文哲手术细节家属不知情，术前未住院",
+      "link": "https://baijiahao.baidu.com/s?id=1828264981836780503",
+      "time": "4月2日 12:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "台北地方法院裁定柯文哲等人羁押禁见延长2个月",
+      "link": "https://baijiahao.baidu.com/s?id=1827818386837552272",
+      "time": "3月28日 14:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "台媒：柯文哲出现血尿疑肾损伤，其律师已向法院递状申请交保停押",
+      "link": "https://baijiahao.baidu.com/s?id=1827737507368761354",
+      "time": "3月27日 17:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "台媒：民众党称柯文哲恐患急性肾损伤，有紧急就医需求",
+      "link": "https://baijiahao.baidu.com/s?id=1827730523897461515",
+      "time": "3月27日 15:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "柯文哲在庭上痛哭失声：父亲离世是一辈子的痛 无法原谅检察官",
+      "link": "https://baijiahao.baidu.com/s?id=1827248432450290563",
+      "time": "3月21日 14:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "健康出状况！柯文哲怒呛台北地检署：最希望他逃亡的就是民进党",
+      "link": "https://baijiahao.baidu.com/s?id=1827162851597170410&wfr=spider&for=pc",
+      "time": "3月21日 08:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "柯文哲：检察官曾拿“不雅影片”威胁我认罪，好险，没被唬住",
+      "link": "https://baijiahao.baidu.com/s?id=1827114902952085396",
+      "time": "3月20日 20:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "台媒：台北地方法院今日首度提讯柯文哲，柯文哲妻子、母亲旁听",
+      "link": "https://baijiahao.baidu.com/s?id=1827097318017864995",
+      "time": "3月20日 15:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "柯文哲祭拜亡父后返回看守所，妻子陈佩琪高喊“司法迫害人权”",
+      "link": "https://baijiahao.baidu.com/s?id=1826177491244297793&wfr=spider&for=pc",
+      "time": "3月10日 11:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "台媒：柯文哲申请解除“禁见”，台北地方法院开庭审理",
+      "link": "https://baijiahao.baidu.com/s?id=1825197237108040047",
+      "time": "2月27日 16:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "民众党发起游行支持柯文哲，抗议者行进路线混乱，其间爆发争执",
+      "link": "https://baijiahao.baidu.com/s?id=1820942703066919416",
+      "time": "1月11日 17:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "台湾民众党前主席柯文哲提出抗告 称无必要继续羁押",
+      "link": "https://baijiahao.baidu.com/s?id=1820837549810359725",
+      "time": "1月10日 13:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "台媒：民众党公布民调41.5%民众认为“检方起诉证据不充分”",
+      "link": "https://baijiahao.baidu.com/s?id=1820748074697980370",
+      "time": "1月9日 13:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "台湾民众党本周末发起游行支持柯文哲 朱立伦声援",
+      "link": "https://baijiahao.baidu.com/s?id=1820677485820849455",
+      "time": "1月8日 18:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "柯文哲又遭羁押 台湾民众党批民进党“政治黑手”操作不断",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_13007093160005796252&sourceFrom=share",
+      "time": "1月5日 17:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "台湾民众党前主席柯文哲所涉案件将于1月23日开庭",
+      "link": "https://baijiahao.baidu.com/s?id=1820217551494394199",
+      "time": "1月3日 16:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "柯文哲两度交保再被羁押 台湾地区司法遭诟病",
+      "link": "https://baijiahao.baidu.com/s?id=1820210690011257721",
+      "time": "1月3日 14:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_21",
+      "title": "台北地方法院裁定柯文哲等4人羁押禁见",
+      "link": "https://baijiahao.baidu.com/s?id=1820152367316824004",
+      "time": "1月2日 23:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_22",
+      "title": "台媒：法官上午11时传柯文哲下午6时开羁押庭",
+      "link": "https://baijiahao.baidu.com/s?id=1820110283026174157",
+      "time": "1月2日 12:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_23",
+      "title": "柯文哲正式请辞民众党主席后发声",
+      "link": "https://baijiahao.baidu.com/s?id=1820101124076728702",
+      "time": "1月2日 10:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_24",
+      "title": "台媒：柯文哲被曝哽咽请辞民众党主席，拒绝转任荣誉党主席",
+      "link": "https://baijiahao.baidu.com/s?id=1820041481410952836",
+      "time": "1月1日 18:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_25",
+      "title": "台湾民众党主席柯文哲正式请辞",
+      "link": "https://baijiahao.baidu.com/s?id=1820039248396236328",
+      "time": "1月1日 17:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_26",
+      "title": "民众党凑得4000万元新台币保释金",
+      "link": "https://baijiahao.baidu.com/s?id=1819850293493572749&wfr=spider&for=pc",
+      "time": "2024年12月30日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_27",
+      "title": "柯文哲保释金提高到7000万元新台币",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_9116988979062914094&sourceFrom=share",
+      "time": "2024年12月30日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_28",
+      "title": "柯文哲不必再进看守所 但必须戴电子脚镣",
+      "link": "http://baijiahao.baidu.com/s?id=1819823894232091699",
+      "time": "2024年12月30日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_29",
+      "title": "柯文哲羁押庭外，台北警方出动",
+      "link": "https://baijiahao.baidu.com/s?id=1819769519473721152&wfr=spider&for=pc",
+      "time": "2024年12月29日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_30",
+      "title": "认为有逃亡之虞,柯文哲交保遭撤销,张启楷发声:他不会害民众党",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=15374830027942377747",
+      "time": "2024年12月29日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_31",
+      "title": "台媒：台北地检署抗告成功，柯文哲等4人交保遭撤销",
+      "link": "https://baijiahao.baidu.com/s?id=1819742373212001547",
+      "time": "2024年12月29日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_32",
+      "title": "台北地检署抗告成功 柯文哲所涉案件被台湾高等法院发回更裁",
+      "link": "https://baijiahao.baidu.com/s?id=1819738011388329060",
+      "time": "2024年12月29日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_33",
+      "title": "柯文哲身陷弊案 外界质疑蓝白能否持续合作",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=11307810427791143187",
+      "time": "2024年12月28日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_34",
+      "title": "柯文哲3000万新台币交保，台北地检署不服提抗告",
+      "link": "https://baijiahao.baidu.com/s?id=1819635556659590893",
+      "time": "2024年12月28日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_35",
+      "title": "柯文哲交保回家 或被重判28年",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=5611500700847102400",
+      "time": "2024年12月27日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_36",
+      "title": "被关114天后,哽咽发声:我不是贪污图利之人",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=2261606955523730441",
+      "time": "2024年12月27日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_37",
+      "title": "台媒：柯文哲时隔逾百日交保获释，公开哽咽发声",
+      "link": "https://baijiahao.baidu.com/s?id=1819572139053704118",
+      "time": "2024年12月27日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_38",
+      "title": "柯文哲遭求刑28年6个月 其脸书粉专发文痛批台北检方",
+      "link": "http://baijiahao.baidu.com/s?id=1819555165321233698",
+      "time": "2024年12月27日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_39",
+      "title": "柯文哲案侦结，被求刑28年，或影响岛内政局",
+      "link": "http://baijiahao.baidu.com/s?id=1819546374572004942",
+      "time": "2024年12月27日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_40",
+      "title": "台北地方法院裁定柯文哲3000万元新台币交保",
+      "link": "http://baijiahao.baidu.com/s?id=1819545118642673127",
+      "time": "2024年12月27日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_41",
+      "title": "台北地检署起诉柯文哲 民众党：坚信柯文哲不会贪污受贿",
+      "link": "https://baijiahao.baidu.com/s?id=1819501988887725661",
+      "time": "2024年12月26日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_42",
+      "title": "民众党创党元老强调党主席没有第二人选:一定等柯文哲回来",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=15243023000344470101",
+      "time": "2024年12月26日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_43",
+      "title": "台媒：柯文哲被羁押禁见后社交媒体“首度更新”",
+      "link": "https://baijiahao.baidu.com/s?id=1819489721246934478",
+      "time": "2024年12月26日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_44",
+      "title": "台媒：蔡壁如请辞台中市政顾问获准，将投身民众党选举",
+      "link": "https://baijiahao.baidu.com/s?id=1819487616223056367",
+      "time": "2024年12月26日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_45",
+      "title": "柯文哲被羁押113天，全案今日侦结，检方求刑28年6个月",
+      "link": "https://baijiahao.baidu.com/s?id=1819467762601367771",
+      "time": "2024年12月26日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_46",
+      "title": "柯文哲的辞职信，是“文字游戏”？",
+      "link": "https://baijiahao.baidu.com/s?id=1819337753703081692",
+      "time": "2024年12月24日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_47",
+      "title": "民众党紧急应变小组回应柯文哲“请辞声明”：未收到请辞书",
+      "link": "https://baijiahao.baidu.com/s?id=1819106129664333486",
+      "time": "2024年12月22日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_48",
+      "title": "柯文哲急辞民众党主席处理后事，游淑慧爆：“妈宝个性”不想面对",
+      "link": "https://baijiahao.baidu.com/s?id=1819035583767647664&wfr=spider&for=pc",
+      "time": "2024年12月21日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_49",
+      "title": "民众党中央委员：若慰留柯文哲不成，黄国昌或林富男代理党主席",
+      "link": "https://baijiahao.baidu.com/s?id=1819035179720823056",
+      "time": "2024年12月21日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_50",
+      "title": "柯文哲声请交付辞职声明 台北地方法院裁准",
+      "link": "https://baijiahao.baidu.com/s?id=1818953981002735644",
+      "time": "2024年12月20日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_51",
+      "title": "柯文哲突申请“解禁通信”，媒体人质疑：真是为辞民众党主席？",
+      "link": "https://baijiahao.baidu.com/s?id=1818924874300846230",
+      "time": "2024年12月20日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_52",
+      "title": "柯文哲请辞民众党主席",
+      "link": "https://baijiahao.baidu.com/s?id=1818871118279248238&wfr=spider&for=pc",
+      "time": "2024年12月19日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_53",
+      "title": "柯文哲声请解除禁止通信 台媒推测将请辞民众党主席",
+      "link": "https://baijiahao.baidu.com/s?id=1818837674952319359&wfr=spider&for=pc",
+      "time": "2024年12月19日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_54",
+      "title": "柯文哲向法院申请“解除禁止通信”",
+      "link": "http://baijiahao.baidu.com/s?id=1818826978456808280",
+      "time": "2024年12月19日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_55",
+      "title": "民众党主席柯文哲政治献金案将侦结",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=8179382370274602808",
+      "time": "2024年12月12日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_56",
+      "title": "京华城案、政治献金案侦查即将结束，台北地检署再度提讯柯文哲",
+      "link": "https://baijiahao.baidu.com/s?id=1818132401463561435",
+      "time": "2024年12月11日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_57",
+      "title": "民众党创党元老朱蕙蓉遭传唤，曝柯文哲对不起所有支持者",
+      "link": "https://baijiahao.baidu.com/s?id=1817114129997575682",
+      "time": "2024年11月30日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_58",
+      "title": "台媒：柯文哲八大金库密帐曝光 不法金额已破亿",
+      "link": "https://baijiahao.baidu.com/s?id=1816927651374696530",
+      "time": "2024年11月28日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_59",
+      "title": "柯文哲党主席职务请假期限将至，黄国昌：支持继续请假",
+      "link": "http://baijiahao.baidu.com/s?id=1816020990098201659",
+      "time": "2024年11月18日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_60",
+      "title": "柯文哲“剃光头”出庭应讯",
+      "link": "https://baijiahao.baidu.com/s?id=1815584990765411176&wfr=spider&for=pc",
+      "time": "2024年11月13日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_61",
+      "title": "柯文哲延押不抗告，民众党干部回击：抗告有用吗",
+      "link": "http://baijiahao.baidu.com/s?id=1815479736004601573",
+      "time": "2024年11月12日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_62",
+      "title": "台媒：延长羁押2个月抗不抗告？柯文哲今天必须作出决定",
+      "link": "http://baijiahao.baidu.com/s?id=1815389893123059735",
+      "time": "2024年11月11日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_63",
+      "title": "京华城案柯文哲延押，抗告今日截止，妻陈佩琪爆料或致延押",
+      "link": "http://baijiahao.baidu.com/s?id=1815386183322303637",
+      "time": "2024年11月11日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_64",
+      "title": "批检方把柯文哲说成贪污犯，柯妻子自曝：他帮台北还债500多亿",
+      "link": "https://baijiahao.baidu.com/s?id=1815304206222055111&wfr=spider&for=pc",
+      "time": "2024年11月10日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_65",
+      "title": "柯文哲妻子又自爆，可能害柯文哲继续被关？",
+      "link": "https://baijiahao.baidu.com/s?id=1815297440876234989",
+      "time": "2024年11月10日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_66",
+      "title": "查柯文哲京华城3次便当会！黄珊珊转往台北地检署复讯，笑容满面",
+      "link": "https://baijiahao.baidu.com/s?id=1815210274457463177&wfr=spider&for=pc",
+      "time": "2024年11月9日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_67",
+      "title": "柯文哲延押后首度被提讯 面对媒体询问均不回应",
+      "link": "https://baijiahao.baidu.com/s?id=1815137952069004813",
+      "time": "2024年11月8日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_68",
+      "title": "柯文哲妻子二度约谈3.5小时被请回，名医忍不住呛亲绿名嘴一句",
+      "link": "https://baijiahao.baidu.com/s?id=1815117536053291057",
+      "time": "2024年11月8日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_69",
+      "title": "柯文哲妻子二度约谈3.5小时后请回，岛内名医忍不住呛亲绿名嘴",
+      "link": "https://baijiahao.baidu.com/s?id=1815114054139046483&wfr=spider&for=pc",
+      "time": "2024年11月8日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_70",
+      "title": "检方已找到柯文哲秘书“橘子”？黄扬明爆：橘子不愿返台",
+      "link": "http://baijiahao.baidu.com/s?id=1814751342989260698",
+      "time": "2024年11月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_71",
+      "title": "今日开延押庭！柯文哲双手上铐抵达台北地方法院",
+      "link": "https://baijiahao.baidu.com/s?id=1814486749652842128",
+      "time": "2024年11月1日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_72",
+      "title": "柯文哲被羁押日久，柯文哲案“下半场”陷入胶着",
+      "link": "http://baijiahao.baidu.com/s?id=1814236701778497781",
+      "time": "2024年10月29日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_73",
+      "title": "仍未找到柯文哲一刀毙命的证据，民众党怒批：押人取供",
+      "link": "http://baijiahao.baidu.com/s?id=1814117824006516802",
+      "time": "2024年10月28日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_74",
+      "title": "柯文哲若再延押两个月",
+      "link": "https://baijiahao.baidu.com/s?id=1813953588909235482&wfr=spider&for=pc",
+      "time": "2024年10月26日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_75",
+      "title": "台北检调机关声请延押柯文哲",
+      "link": "http://baijiahao.baidu.com/s?id=1813873683804954273",
+      "time": "2024年10月25日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_76",
+      "title": "柯文哲戴手铐赴台大医院探视病重父亲",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=11049141232738065683",
+      "time": "2024年10月21日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_77",
+      "title": "柯文哲涉“京华城案”遭羁押逾1个月 台检方或起诉三项罪名",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=10355793682693041351",
+      "time": "2024年10月16日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_78",
+      "title": "台湾检方办柯文哲案连传11人，调查1个月仍无关键证据引非议",
+      "link": "https://baijiahao.baidu.com/s?id=1812489312924300423",
+      "time": "2024年10月10日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_79",
+      "title": "台北检方原定10月1日第五次提讯柯文哲，因柯拒绝应讯突然取消",
+      "link": "http://baijiahao.baidu.com/s?id=1811684038196611412",
+      "time": "2024年10月1日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_80",
+      "title": "台媒：台北地方检察署今天第三度提讯柯文哲",
+      "link": "https://baijiahao.baidu.com/s?id=1810501652557949180",
+      "time": "2024年9月18日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_81",
+      "title": "台媒：台北地方检察署再次提讯柯文哲，柯面对媒体询问一言不发",
+      "link": "https://baijiahao.baidu.com/s?id=1810045743046019102&wfr=spider&for=pc",
+      "time": "2024年9月13日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_82",
+      "title": "柯文哲不提抗告 将被押满2个月",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=479340966318828556",
+      "time": "2024年9月10日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_83",
+      "title": "被羁押第6天，柯文哲双手上铐、穿囚服及拖鞋抵台北地检署应讯",
+      "link": "https://baijiahao.baidu.com/s?id=1809788956430433133",
+      "time": "2024年9月10日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_84",
+      "title": "柯文哲被押不抗告 外界质疑检方违反侦查不公开",
+      "link": "http://baijiahao.baidu.com/s?id=1809775839110124166",
+      "time": "2024年9月10日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_85",
+      "title": "柯文哲放弃上诉 将先羁押禁见2个月",
+      "link": "http://baijiahao.baidu.com/s?id=1809698302212528695",
+      "time": "2024年9月9日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_86",
+      "title": "各地支持者“自备粮草”北上声援柯文哲，蔡壁如：仍然相信他",
+      "link": "https://baijiahao.baidu.com/s?id=1809590986731531565",
+      "time": "2024年9月8日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_87",
+      "title": "预感到会裁定收押禁见?柯文哲被羁押前预录视频曝光",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=1497839181710363260",
+      "time": "2024年9月6日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_88",
+      "title": "柯文哲上囚车画面曝光，支持者高喊“加油”",
+      "link": "https://baijiahao.baidu.com/s?id=1809351515718034083",
+      "time": "2024年9月5日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_89",
+      "title": "台媒：柯文哲第二回合羁押庭结果逆转，法院裁定羁押禁见",
+      "link": "https://baijiahao.baidu.com/s?id=1809347894809431469&wfr=spider&for=pc",
+      "time": "2024年9月5日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_90",
+      "title": "柯文哲无保请回遭撤销，台湾“高等法院”发回重新裁定",
+      "link": "https://baijiahao.baidu.com/s?id=1809258572190343180",
+      "time": "2024年9月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_91",
+      "title": "台北检抗告 法院最快今日裁定是否羁押柯文哲",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=2808322181752607205",
+      "time": "2024年9月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_92",
+      "title": "马英九基金会指责民进党当局“追杀在野党重要人士”",
+      "link": "https://baijiahao.baidu.com/s?id=1809076701739462146&wfr=spider&for=pc",
+      "time": "2024年9月2日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_93",
+      "title": "民众党质疑检方罗织罪名 政治追杀柯文哲",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=11834532748986259710",
+      "time": "2024年9月2日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_94",
+      "title": "柯文哲被爆和妻子陈佩琪直奔黄珊珊住处",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=4816961460614973644",
+      "time": "2024年9月2日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_95",
+      "title": "台北地院裁定台湾民众党主席柯文哲无保请回",
+      "link": "https://baijiahao.baidu.com/s?id=1809057291450396531&wfr=spider&for=pc",
+      "time": "2024年9月2日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_96",
+      "title": "柯文哲获释后发声：备受压迫与凌虐",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=11690918448232958336",
+      "time": "2024年9月2日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_97",
+      "title": "台北地方法院裁定柯当庭释放",
+      "link": "https://baijiahao.baidu.com/s?id=1809030960672848930",
+      "time": "2024年9月2日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_98",
+      "title": "台北检方：查出柯文哲收贿资金往来",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=13561572188164962181",
+      "time": "2024年9月1日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_99",
+      "title": "台媒：柯文哲地下候审室过夜，法院预计1日开羁押庭",
+      "link": "https://baijiahao.baidu.com/s?id=1808958263672455469",
+      "time": "2024年9月1日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_100",
+      "title": "柯文哲申请提审被法院驳回 将继续接受侦讯",
+      "link": "https://baijiahao.baidu.com/s?id=1808883300352115759",
+      "time": "2024年8月31日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_101",
+      "title": "柯文哲被移送到台北地检署后拒夜间侦讯,被检察官当庭逮捕",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=12158061245697409353",
+      "time": "2024年8月31日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_102",
+      "title": "台民众党主席柯文哲被带走调查",
+      "link": "https://baijiahao.baidu.com/s?id=1808793773393751851&wfr=spider&for=pc",
+      "time": "2024年8月30日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_103",
+      "title": "柯文哲住处被检方搜查",
+      "link": "https://baijiahao.baidu.com/s?id=1808776207564747661&wfr=baike&fromModule=lemma_middle-info",
+      "time": "2024年8月30日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_104",
+      "title": "柯文哲因政治献金风波道歉并请假三个月",
+      "link": "https://baijiahao.baidu.com/s?id=1808771093775806642&wfr=spider&for=pc",
+      "time": "2024年8月30日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_105",
+      "title": "柯文哲承认用选举补助款购入商业办公室",
+      "link": "https://baijiahao.baidu.com/s?id=1808507733392167783&wfr=spider&for=pc",
+      "time": "2024年8月27日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_106",
+      "title": "柯文哲拿4300万补助款购房登记名下",
+      "link": "https://baijiahao.baidu.com/s?id=1808504312626191166&wfr=spider&for=pc",
+      "time": "2024年8月27日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_107",
+      "title": "柯文哲“政治献金申报”事件发酵！",
+      "link": "https://baijiahao.baidu.com/s?id=1807411919168439478&wfr=spider&for=pc",
+      "time": "2024年8月15日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_108",
+      "title": "柯文哲召开记者会，回应政治献金申报争议",
+      "link": "https://baijiahao.baidu.com/s?id=1807171397505151981&wfr=spider&for=pc",
+      "time": "2024年8月12日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_109",
+      "title": "台媒：柯文哲陷政治献金疑云",
+      "link": "https://baijiahao.baidu.com/s?id=1807162430245100327&wfr=spider&for=pc",
+      "time": "2024年8月12日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_110",
+      "title": "或被判五年，他成岛内堕落最快的政客？",
+      "link": "https://baijiahao.baidu.com/s?id=1807140977193608634&wfr=spider&for=pc",
+      "time": "2024年8月12日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_111",
+      "title": "民众党政治献金争议连环爆",
+      "link": "https://baijiahao.baidu.com/s?id=1806991316926352776&wfr=spider&for=pc",
+      "time": "2024年8月10日",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 111,
+  "scrape_time": "2025-09-11 19:48:40"
+}

@@ -1,0 +1,132 @@
+{
+  "core_info": {
+    "core_event_name": "巴萨4-3击败塞尔塔，马竞0-1遭绝杀",
+    "update_time": "更新至20250501",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-11 17:35:05"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "马库斯-图拉姆攻入欧冠联赛半决赛最快进球",
+      "link": "http://new.qq.com/rain/a/20250501A01B9Y00",
+      "time": "5月1日 03:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "阿斯:巴尔德将缺战欧冠半决赛首回合,莱万两回合都缺席",
+      "link": "http://baijiahao.baidu.com/s?id=1830735068098167405&wfr=spider&for=pc",
+      "time": "4月29日 19:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "世体:国王杯巴萨无人受伤;莱万&巴尔德赶不上战国米首回合",
+      "link": "http://www.dongqiudi.com/articles/5062522.html",
+      "time": "4月28日 18:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "亚马尔:赛前我就说即使皇马进球也没关系,今年没人能战胜巴萨",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002byua",
+      "time": "4月27日 08:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "西甲最新积分战报 射门40:4!巴萨创纪录 再次领先皇马7分",
+      "link": "http://baijiahao.baidu.com/s?id=1830147134715634140&wfr=spider&for=pc",
+      "time": "4月23日 07:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "巴萨4-3击败塞尔塔,马竞0-1遭绝杀",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8523275218381138074",
+      "time": "4月22日 22:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "西甲最新积分榜:皇马奇迹绝杀,巴萨4分优势,塞维利亚5场不胜",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3970124852972229009",
+      "time": "4月22日 12:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "巴萨浮现4大危机，欧冠半决赛悬了",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4422397937318754590",
+      "time": "4月20日 17:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "西甲|巴萨点球绝杀塞尔塔",
+      "link": "http://baijiahao.baidu.com/s?id=1829902616733741113&wfr=spider&for=pc",
+      "time": "4月20日 14:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "塞尔塔主帅:我们射门比巴萨还多,进了3球却没拿分令人难以接受",
+      "link": "http://baijiahao.baidu.com/s?id=1829891070974429098&wfr=spider&for=pc",
+      "time": "4月20日 11:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "福特不满弗里克，赛后两人未像往常一样拥抱",
+      "link": "http://baijiahao.baidu.com/s?id=1829889119804667418&wfr=spider&for=pc",
+      "time": "4月20日 11:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "巴萨大逆转，莱万受伤恐缺战皇马和国米",
+      "link": "http://baijiahao.baidu.com/s?id=1829885093925984876&wfr=spider&for=pc",
+      "time": "4月20日 09:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "巴萨三球逆转塞尔塔，CBA季后赛山西横扫广东",
+      "link": "http://www.thepaper.cn/newsDetail_forward_30689456",
+      "time": "4月20日 08:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "巴萨4-3塞尔塔7分领跑",
+      "link": "http://sports.iqilu.com/guojizuqiu/20250420/5802869.shtml",
+      "time": "4月20日 07:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "内马尔大腿不适被换下场，泪流满面",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10944645401675173097",
+      "time": "4月17日 18:29",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 15,
+  "scrape_time": "2025-09-11 17:35:20"
+}

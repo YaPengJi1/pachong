@@ -1,0 +1,1740 @@
+{
+  "core_info": {
+    "core_event_name": "美国所谓对等关税政策",
+    "update_time": "更新至2025年9月10日 15:36",
+    "sub_event_count": 216,
+    "scrape_time": "2025-09-10 19:26:31"
+  },
+  "sub_events": [
+    {
+      "id": "event_5",
+      "title": "特朗普称愿意对中印大幅加征关税，外交部回应",
+      "link": "https://baijiahao.baidu.com/s?id=1842861600543598815",
+      "time": "今天 15:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "美国或需退还半数已征关税",
+      "link": "https://baijiahao.baidu.com/s?id=1842648290236325532",
+      "time": "9月8日 07:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "特朗普签署行政令 调整关税政策生效范围",
+      "link": "https://baijiahao.baidu.com/s?id=1842470368375312995",
+      "time": "9月6日 07:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "特朗普签署行政命令 正式实施美日贸易协议",
+      "link": "https://baijiahao.baidu.com/s?id=1842368383434733131",
+      "time": "9月5日 04:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "“对等关税”被裁定违法，特朗普称将上诉至美最高法院",
+      "link": "https://baijiahao.baidu.com/s?id=1842016530773615182",
+      "time": "9月1日 07:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "美上诉法院裁定美政府大部分全球关税政策非法",
+      "link": "https://baijiahao.baidu.com/s?id=1841828386366893697&wfr=spider&for=pc",
+      "time": "8月30日 05:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "中方贸易谈判代表将赴美会见美方相关官员 商务部回应",
+      "link": "https://baijiahao.baidu.com/s?id=1841682931133879726",
+      "time": "8月28日 15:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "中方回应美威胁对华征收200%关税",
+      "link": "https://baijiahao.baidu.com/s?id=1841502425182783194",
+      "time": "8月26日 15:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "特朗普政府拟对印度商品征收50%关税",
+      "link": "https://baijiahao.baidu.com/s?id=1841472230661801754",
+      "time": "8月26日 07:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "受美关税政策影响 欧洲多个邮政公司暂停向美国发送包裹",
+      "link": "https://baijiahao.baidu.com/s?id=1841172388232404127&wfr=spider&for=pc",
+      "time": "8月23日 00:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "中方回应美方称满意对华关税水平",
+      "link": "https://baijiahao.baidu.com/s?id=1840958622128429036&wfr=spider&for=pc",
+      "time": "8月20日 15:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "美国宣布扩大对钢铁和铝进口征收50%关税的范围",
+      "link": "https://baijiahao.baidu.com/s?id=1840580789910349298",
+      "time": "8月16日 11:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "特朗普：进口半导体关税或高达300%",
+      "link": "https://baijiahao.baidu.com/s?id=1840541153715781718",
+      "time": "8月16日 00:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "外交部回应中美将关税“休战期”延长90天",
+      "link": "https://baijiahao.baidu.com/s?id=1840244324988159079",
+      "time": "8月12日 18:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "中美再次暂停实施相互24%关税90天",
+      "link": "https://baijiahao.baidu.com/s?id=1840205597165571143",
+      "time": "8月12日 08:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "特朗普称不会对进口黄金加征关税",
+      "link": "https://baijiahao.baidu.com/s?id=1840204592007220601",
+      "time": "8月12日 07:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_21",
+      "title": "台湾“四大惨业”压力剧增！",
+      "link": "https://baijiahao.baidu.com/s?id=1840118731617413207",
+      "time": "8月11日 08:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_22",
+      "title": "印度和巴西硬核表态，拟共同对抗美国关税",
+      "link": "https://baijiahao.baidu.com/s?id=1839903533844841000",
+      "time": "8月8日 23:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_23",
+      "title": "美印关税谈判破裂 莫迪强硬回应",
+      "link": "https://baijiahao.baidu.com/s?id=1839799547255880277",
+      "time": "8月7日 20:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_24",
+      "title": "特朗普：对芯片和半导体征收约100%的关税",
+      "link": "https://baijiahao.baidu.com/s?id=1839756388557904469",
+      "time": "8月7日 08:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_25",
+      "title": "特朗普对印度加征25%的额外关税",
+      "link": "http://baijiahao.baidu.com/s?id=1839715905851823269",
+      "time": "8月6日 22:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_26",
+      "title": "特朗普：将对进口药品征收小额关税  后续税率将升至250%。",
+      "link": "http://baijiahao.baidu.com/s?id=1839682750905833231",
+      "time": "8月6日 13:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_27",
+      "title": "印度深夜回击美关税威胁",
+      "link": "https://baijiahao.baidu.com/s?id=1839664929739278745&wfr=spider&for=pc",
+      "time": "8月6日 08:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_28",
+      "title": "突发：特朗普宣布将大幅提高对印度关税",
+      "link": "https://baijiahao.baidu.com/s?id=1839541583360220792&wfr=spider&for=pc",
+      "time": "8月5日 00:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_29",
+      "title": "无视特朗普惩罚威胁？印度称继续进口俄石油",
+      "link": "https://baijiahao.baidu.com/s?id=1839414416347184752&wfr=spider&for=pc",
+      "time": "8月3日 14:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_30",
+      "title": "特朗普签署行政令，台湾地区新“对等关税” 为20%",
+      "link": "https://baijiahao.baidu.com/s?id=1839211613985586761&wfr=spider&for=pc",
+      "time": "8月1日 08:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_31",
+      "title": "特朗普签署行政令 新“对等关税” 税率自10%至41%不等",
+      "link": "https://baijiahao.baidu.com/s?id=1839207648967136738",
+      "time": "8月1日 07:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_32",
+      "title": "特朗普称将对印度商品征收25%关税",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_5644016352015011735&sourceFrom=qmj",
+      "time": "7月31日 12:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_33",
+      "title": "美方威胁中国若继续买俄罗斯石油将面临更高关税，外交部回应",
+      "link": "https://baijiahao.baidu.com/s?id=1839056307086488582",
+      "time": "7月30日 15:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_34",
+      "title": "美国与欧盟达成贸易协议",
+      "link": "https://baijiahao.baidu.com/s?id=1838822455513784397",
+      "time": "7月28日 06:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_35",
+      "title": "特朗普：将对大部分国家征收15%至50%的简单关税",
+      "link": "https://baijiahao.baidu.com/s?id=1838479160765345969",
+      "time": "7月24日 06:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_36",
+      "title": "特朗普称美日达成贸易协议",
+      "link": "https://baijiahao.baidu.com/s?id=1838392246701548584",
+      "time": "7月23日 08:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_37",
+      "title": "特朗普：将很快对小体量国家发关税函 数额预计“略高于10%”",
+      "link": "https://baijiahao.baidu.com/s?id=1837758130121867080",
+      "time": "7月16日 07:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_38",
+      "title": "外交部回应美议员威胁对与俄进行贸易的中国等国征收500%关税",
+      "link": "https://baijiahao.baidu.com/s?id=1837698453406838750&wfr=spider&for=pc",
+      "time": "7月15日 15:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_39",
+      "title": "巴西成立跨部门委员会酝酿对美关税反制措施",
+      "link": "https://baijiahao.baidu.com/s?id=1837681465260709073",
+      "time": "7月15日 11:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_40",
+      "title": "特朗普威胁将对俄罗斯征收100%关税",
+      "link": "https://baijiahao.baidu.com/s?id=1837636452249737224",
+      "time": "7月14日 23:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_41",
+      "title": "特朗普自称美因关税“上月赚了250亿”",
+      "link": "https://baijiahao.baidu.com/s?id=1837616369133954428&wfr=spider&for=pc",
+      "time": "7月14日 18:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_42",
+      "title": "欧盟迅速回应！",
+      "link": "https://baijiahao.baidu.com/s?id=1837457765788361853",
+      "time": "7月13日 00:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_43",
+      "title": "特朗普称对墨西哥、欧盟征收30%关税",
+      "link": "https://baijiahao.baidu.com/s?id=1837444758765300373",
+      "time": "7月12日 20:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_44",
+      "title": "缅甸领导人敏昂莱致信特朗普 要求降低关税",
+      "link": "https://baijiahao.baidu.com/s?id=1837331694551234716",
+      "time": "7月11日 14:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_45",
+      "title": "特朗普称将对未接到关税函的国家征收15%或20%“统一关税”",
+      "link": "https://baijiahao.baidu.com/s?id=1837311560543801738",
+      "time": "7月11日 09:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_46",
+      "title": "外交部：美对铜加征关税不符合任何一方利益",
+      "link": "https://baijiahao.baidu.com/s?id=1837243517540223484",
+      "time": "7月10日 15:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_47",
+      "title": "最高50% 特朗普再宣称对8国加征关税",
+      "link": "https://baijiahao.baidu.com/s?id=1837212283832466355",
+      "time": "7月10日 08:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_48",
+      "title": "美首批新关税名单没有台湾，岛内很焦虑",
+      "link": "https://baijiahao.baidu.com/s?id=1837139915687284355&wfr=spider&for=pc",
+      "time": "7月9日 11:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_49",
+      "title": "特朗普：8月1日开始征税，不会变了！",
+      "link": "https://baijiahao.baidu.com/s?id=1837128950170202632&wfr=spider&for=pc",
+      "time": "7月9日 08:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_50",
+      "title": "巴西总统卢拉说美国关税威胁“错误且不负责任”",
+      "link": "https://baijiahao.baidu.com/s?id=1837042789099937714",
+      "time": "7月8日 10:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_51",
+      "title": "特朗普：“对等关税”生效日定于8月1日 但可有条件调整",
+      "link": "https://baijiahao.baidu.com/s?id=1837041220008487759&wfr=spider&for=pc",
+      "time": "7月8日 09:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_52",
+      "title": "特朗普宣布将对14国加征关税",
+      "link": "https://baijiahao.baidu.com/s?id=1837033037292537397",
+      "time": "7月8日 07:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_53",
+      "title": "欧盟说仍在争取与美国达成原则性贸易协议",
+      "link": "https://baijiahao.baidu.com/s?id=1837006581383849721&wfr=spider&for=pc",
+      "time": "7月8日 06:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_54",
+      "title": "特朗普:即将公布各国关税信函 税率最高70%美国关税",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_16774726527822451638&sourceFrom=share",
+      "time": "7月7日 13:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_55",
+      "title": "特朗普：美越达成贸易协议",
+      "link": "https://baijiahao.baidu.com/s?id=1836611730563134065",
+      "time": "7月3日 14:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_56",
+      "title": "加拿大“屈服”了，欧洲还在坚持，特朗普又抱怨日本不买美国大米",
+      "link": "https://baijiahao.baidu.com/s?id=1836399739963333184&wfr=spider&for=pc",
+      "time": "7月1日 07:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_57",
+      "title": "美玩具公司挑战政府关税政策 敦促最高法院尽快裁定其是否合法",
+      "link": "https://baijiahao.baidu.com/s?id=1835210906730506433",
+      "time": "6月18日 04:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_58",
+      "title": "美国宣布23日起对钢制家电加征关税 洗衣机冰箱在列",
+      "link": "https://baijiahao.baidu.com/s?id=1834759936793316668",
+      "time": "6月13日 05:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_59",
+      "title": "美政府推动对商用飞机及零部件征收新关税，六大经济体齐声反对",
+      "link": "https://baijiahao.baidu.com/s?id=1834681514885796247",
+      "time": "6月12日 08:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_60",
+      "title": "中美经贸磋商机制首次会议将继续进行",
+      "link": "https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4078972927666575197&sourceFrom=search_a",
+      "time": "6月10日 04:47",
+      "summary": "【#中美经贸磋商机制首次会议将继续进行# 】 当地时间6月9日下午，中美经贸磋商机制首次会议在英国伦敦举行。玉渊谭天了解到，当地时间6月10日，中美经贸磋商机制首次会议将继续进行。#直击中美经贸磋商机制首次会议# ​​​",
+      "author": "玉渊谭天"
+    },
+    {
+      "id": "event_61",
+      "title": "美联储高管警告：9月前降息难",
+      "link": "https://baijiahao.baidu.com/s?id=1834255989266373515",
+      "time": "6月7日 15:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_62",
+      "title": "美商务部长听证会露馅:所谓“对等贸易”实为针对中国",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_9751229716897277042&sourceFrom=share",
+      "time": "6月5日 17:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_63",
+      "title": "特朗普：钢铝关税加倍，欧盟加拿大：强烈遗憾！强烈反对！",
+      "link": "https://baijiahao.baidu.com/s?id=1833697275862675648",
+      "time": "6月1日 11:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_64",
+      "title": "美国贸易代表办公室延长对中国301条款关税的部分豁免",
+      "link": "https://baijiahao.baidu.com/s?id=1833695389581949286",
+      "time": "6月1日 11:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_65",
+      "title": "美国加州州长：美国政府“违法”关税政策后果严重",
+      "link": "https://baijiahao.baidu.com/s?id=1833614353828660596",
+      "time": "5月31日 13:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_66",
+      "title": "美上诉法院恢复实施特朗普政府关税政策",
+      "link": "https://baijiahao.baidu.com/s?id=1833495665761518986&wfr=spider&for=pc",
+      "time": "5月30日 06:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_67",
+      "title": "裁定越权 美国国际贸易法院阻止特朗普4月2日关税政策生效",
+      "link": "https://baijiahao.baidu.com/s?id=1833409661645291211",
+      "time": "5月29日 11:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_68",
+      "title": "特朗普邀功：我赢了！欧盟愿意加速谈判",
+      "link": "https://baijiahao.baidu.com/s?id=1833327402987491465",
+      "time": "5月28日 09:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_69",
+      "title": "特朗普同意将对欧盟商品征收50%关税的最后期限延至7月9日",
+      "link": "https://baijiahao.baidu.com/s?id=1833138626599897203",
+      "time": "5月26日 07:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_70",
+      "title": "美加征关税重创欧洲多个产业 保时捷、宝马很“受伤”",
+      "link": "https://baijiahao.baidu.com/s?id=1833086033176986509",
+      "time": "5月25日 18:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_71",
+      "title": "不止苹果和欧盟，三星也被点名 特朗普再挥关税大棒引强烈反应",
+      "link": "https://baijiahao.baidu.com/s?id=1832962339094725980",
+      "time": "5月24日 09:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_72",
+      "title": "美国华人跨境贸易商：积压订单恢复出货 中美跨境海运现高潮",
+      "link": "https://baijiahao.baidu.com/s?id=1832912073006697253",
+      "time": "5月23日 19:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_73",
+      "title": "欧盟希望与美国关税谈判更进一步：税率大幅低于中英",
+      "link": "https://baijiahao.baidu.com/s?id=1832236968081289962&wfr=spider&for=pc",
+      "time": "5月16日 09:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_74",
+      "title": "中方敦促美方尽快停止232关税措施",
+      "link": "https://baijiahao.baidu.com/s?id=1832174223251783054",
+      "time": "5月15日 16:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_75",
+      "title": "特朗普预告：我将签署行政令，药价立即降低30%-80%",
+      "link": "https://baijiahao.baidu.com/s?id=1831875459522786406&wfr=spider&for=pc",
+      "time": "5月12日 09:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_76",
+      "title": "降至10%不够，日本首相：寻求美方撤销汽车关税",
+      "link": "https://baijiahao.baidu.com/s?id=1831809468279284178&wfr=spider&for=pc",
+      "time": "5月11日 15:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_77",
+      "title": "德国总理默茨：美国应给予欧盟“零关税”",
+      "link": "https://baijiahao.baidu.com/s?id=1831724502903529566",
+      "time": "5月10日 17:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_78",
+      "title": "曝印度要求美国免除所有关税",
+      "link": "https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4537322938484231324",
+      "time": "5月9日 17:45",
+      "summary": "曝印度要求美国免除所有关税财联社5月9日电，据报道，在贸易谈判中，印度要求美国免除所有当前和未来的关税。印度提议在潜在贸易协议下，将与美国的关税差距从接近13%缩减至不足4%。",
+      "author": "财联社"
+    },
+    {
+      "id": "event_79",
+      "title": "欧盟将对美国关税准备反制措施并向世贸组织提出诉讼",
+      "link": "https://baijiahao.baidu.com/s?id=1831603920602834989&wfr=spider&for=pc",
+      "time": "5月9日 09:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_80",
+      "title": "美英贸易协定将保留美国10%的关税",
+      "link": "https://baijiahao.baidu.com/s?id=1831556702984140485&wfr=spider&for=pc",
+      "time": "5月8日 20:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_81",
+      "title": "“美电影业正迅速消亡” 特朗普宣布对进口电影征100%关税",
+      "link": "https://baijiahao.baidu.com/s?id=1831244339517292364",
+      "time": "5月5日 10:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_82",
+      "title": "美国鞋类巨头请求白宫豁免关税 称已构成“生存威胁”",
+      "link": "https://baijiahao.baidu.com/s?id=1831044578368919178",
+      "time": "5月3日 10:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_83",
+      "title": "加拿大总理表示 6日将同美总统就关税和双边关系会晤",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_18245174904960565726&sourceFrom=share",
+      "time": "5月3日 09:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_84",
+      "title": "商务部新闻发言人就中美经贸对话磋商情况答记者问",
+      "link": "https://baijiahao.baidu.com/s?id=1830965966331995407",
+      "time": "5月2日 08:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_85",
+      "title": "美洛杉矶港负责人：受关税影响 航运量将大幅下降",
+      "link": "https://baijiahao.baidu.com/s?id=1830927054637841974",
+      "time": "5月1日 22:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_86",
+      "title": "中方谴责美国破坏世贸组织规则 呼吁维护多边体制",
+      "link": "https://baijiahao.baidu.com/s?id=1830882225805944646",
+      "time": "5月1日 10:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_87",
+      "title": "外交部：中美双方并未就关税问题进行磋商或谈判",
+      "link": "https://baijiahao.baidu.com/s?id=1830812676619492577",
+      "time": "4月30日 15:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_88",
+      "title": "中国驻美使馆：中美双方没有就关税问题进行磋商或谈判",
+      "link": "https://baijiahao.baidu.com/s?id=1830426317156559868&wfr=spider&for=pc",
+      "time": "4月26日 09:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_89",
+      "title": "加拿大财长：加拿大需要抗击美国关税",
+      "link": "https://baijiahao.baidu.com/s?id=1830314707113866500",
+      "time": "4月25日 03:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_90",
+      "title": "泰国总理：东盟应携手应对美国关税挑战",
+      "link": "https://baijiahao.baidu.com/s?id=1830268908622923519",
+      "time": "4月24日 15:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_91",
+      "title": "日本首相：特朗普要求日本进口美国大米和牛肉",
+      "link": "https://baijiahao.baidu.com/s?id=1830065690181064534&wfr=spider&for=pc",
+      "time": "4月22日 09:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_92",
+      "title": "商务部回应美国以关税手段胁迫其他国家限制对华经贸合作",
+      "link": "https://baijiahao.baidu.com/s?id=1829971694381055027",
+      "time": "4月21日 08:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_93",
+      "title": "特朗普“自己人”也坐不住了 暗中希望美最高法院叫停关税战",
+      "link": "https://baijiahao.baidu.com/s?id=1829906958350211524",
+      "time": "4月20日 15:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_94",
+      "title": "美关税政策冲击本土车企：福特预计7月涨价通用汽车盈利预期下调",
+      "link": "https://baijiahao.baidu.com/s?id=1829878267679691944&wfr=spider&for=pc",
+      "time": "4月20日 12:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_95",
+      "title": "外交部回应“中国输美商品面临最高达245%关税”",
+      "link": "https://baijiahao.baidu.com/s?id=1829543672871738080",
+      "time": "4月16日 15:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_96",
+      "title": "日本首相：目前没有考虑对美征收报复性关税",
+      "link": "https://baijiahao.baidu.com/s?id=1829341871357577353&wfr=spider&for=pc",
+      "time": "4月14日 10:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_97",
+      "title": "一周市场观察｜美元资产“大抛售 ”美债价格大跌收益率飙升",
+      "link": "https://baijiahao.baidu.com/s?id=1829334025130932756&wfr=spider&for=pc",
+      "time": "4月14日 08:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_98",
+      "title": "商务部新闻发言人就美方豁免部分产品的“对等关税”答记者问",
+      "link": "https://baijiahao.baidu.com/s?id=1829285235848881351",
+      "time": "4月13日 19:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_99",
+      "title": "美豁免从中国进口的部分产品关税",
+      "link": "https://baijiahao.baidu.com/s?id=1829210462480788932&wfr=spider&for=pc",
+      "time": "4月12日 23:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_100",
+      "title": "美国海关报告关税系统出现故障 暂未征收关税",
+      "link": "https://baijiahao.baidu.com/s?id=1829151007859711453",
+      "time": "4月12日 07:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_101",
+      "title": "国际锐评：以中国稳应对美国疯",
+      "link": "https://baijiahao.baidu.com/s?id=1829096239925905206",
+      "time": "4月11日 17:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_102",
+      "title": "坚决反制！中国对美所有商品加征125%关税",
+      "link": "https://baijiahao.baidu.com/s?id=1829092528374663404",
+      "time": "4月11日 16:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_103",
+      "title": "商务部：美征税措施严重违反世贸组织规则 中方坚定捍卫自身权益",
+      "link": "https://baijiahao.baidu.com/s?id=1829092465610104287",
+      "time": "4月11日 16:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_104",
+      "title": "中国从来不吃这一套！外交部回应“美对华关税达145%”",
+      "link": "https://baijiahao.baidu.com/s?id=1829087368400056922",
+      "time": "4月11日 16:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_105",
+      "title": "拉美各界反对美国所谓“对等关税”",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_8691057136896703169&sourceFrom=share",
+      "time": "4月10日 20:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_106",
+      "title": "非盟：美关税政策严重冲击非洲国家",
+      "link": "https://baijiahao.baidu.com/s?id=1829000892556111337",
+      "time": "4月10日 15:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_107",
+      "title": "欧盟投票通过对美征收25%关税反制措施",
+      "link": "https://baijiahao.baidu.com/s?id=1828930537290373266",
+      "time": "4月9日 21:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_108",
+      "title": "中方就美进一步加征50%关税追加提起诉讼",
+      "link": "https://baijiahao.baidu.com/s?id=1828922659204301193&wfr=spider&for=pc",
+      "time": "4月9日 19:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_109",
+      "title": "全文发布｜《关于中美经贸关系若干问题的中方立场》",
+      "link": "https://baijiahao.baidu.com/s?id=1828907999842811859&wfr=spider&for=pc",
+      "time": "4月9日 15:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_110",
+      "title": "特朗普称美国将对药品征收关税",
+      "link": "https://baijiahao.baidu.com/s?id=1828885107982346621",
+      "time": "4月9日 09:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_111",
+      "title": "诺贝尔经济学奖得主批美国关税政策：“恶意的愚蠢”",
+      "link": "https://baijiahao.baidu.com/s?id=1828828946948632303",
+      "time": "4月8日 18:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_112",
+      "title": "外交部：如果美方执意打关税战、贸易战，中方必将奉陪到底",
+      "link": "https://baijiahao.baidu.com/s?id=1828816052069635901",
+      "time": "4月8日 14:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_113",
+      "title": "马斯克直接要求撤销对等关税 特朗普：我不听",
+      "link": "https://baijiahao.baidu.com/s?id=1828794251962146239",
+      "time": "4月8日 10:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_114",
+      "title": "欧盟准备反击！特朗普否认暂停关税政策",
+      "link": "https://baijiahao.baidu.com/s?id=1828790517939306775",
+      "time": "4月8日 08:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_115",
+      "title": "受美关税影响 奥迪暂停向美经销商交付汽车",
+      "link": "https://baijiahao.baidu.com/s?id=1828788555868414023&wfr=spider&for=pc",
+      "time": "4月8日 07:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_116",
+      "title": "白宫辟谣“对部分国家暂停90天关税”",
+      "link": "https://baijiahao.baidu.com/s?id=1828786542582937067",
+      "time": "4月8日 06:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_117",
+      "title": "美国学者：如果反对声足够强烈，国会可能推翻总统的关税政策",
+      "link": "https://baijiahao.baidu.com/s?id=1828742125339513855",
+      "time": "4月7日 19:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_118",
+      "title": "被问为何向企鹅征税,美国农业部长:……",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_18410737702521353299&sourceFrom=share",
+      "time": "4月7日 16:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_119",
+      "title": "中美在什么条件下会就关税制裁举行谈判？外交部回应",
+      "link": "https://baijiahao.baidu.com/s?id=1828729324621132464",
+      "time": "4月7日 15:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_120",
+      "title": "马斯克抨击白宫贸易顾问纳瓦罗,纳瓦罗回应:他只是个“卖车的”",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_744971784341511555&sourceFrom=share",
+      "time": "4月7日 11:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_121",
+      "title": "白宫：关税名单上没有俄罗斯是为了不影响俄乌和谈",
+      "link": "https://baijiahao.baidu.com/s?id=1828710038571493497",
+      "time": "4月7日 10:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_122",
+      "title": "美国前财政部长评特朗普关税政策",
+      "link": "https://baijiahao.baidu.com/s?id=1828706201898447340&wfr=spider&for=pc",
+      "time": "4月7日 09:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_123",
+      "title": "关税政策引发混乱，美多地民众加入“抢购潮”",
+      "link": "https://baijiahao.baidu.com/s?id=1828701481849718987",
+      "time": "4月7日 08:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_124",
+      "title": "美国“对等关税”计划招致国际社会强烈反对",
+      "link": "https://baijiahao.baidu.com/s?id=1828697707994143309",
+      "time": "4月7日 07:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_125",
+      "title": "全美爆发大规模反特朗普示威",
+      "link": "https://baijiahao.baidu.com/s?id=1828625941671032761&wfr=spider&for=pc",
+      "time": "4月6日 12:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_126",
+      "title": "10%全球关税，正式生效",
+      "link": "https://baijiahao.baidu.com/s?id=1828603726746953582&wfr=spider&for=pc",
+      "time": "4月6日 06:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_127",
+      "title": "人民日报：反对美国滥施关税！这就是中国立场！",
+      "link": "http://baijiahao.baidu.com/s?id=1828567159679504052",
+      "time": "4月5日 20:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_128",
+      "title": "多国领导人发声：美方关税政策破坏全球贸易",
+      "link": "https://baijiahao.baidu.com/s?id=1828555519978591845",
+      "time": "4月5日 17:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_129",
+      "title": "“对等关税”太荒谬！美媒曝美财长受不了想辞职",
+      "link": "https://baijiahao.baidu.com/s?id=1828553511013239017",
+      "time": "4月5日 17:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_130",
+      "title": "中国纺织品进出口商会：希望美方纠正损人不利己的单边霸凌行为",
+      "link": "https://baijiahao.baidu.com/s?id=1828526740717718478",
+      "time": "4月5日 10:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_131",
+      "title": "中国机电产品进出口商会就美征收所谓“对等关税”一事发表声明",
+      "link": "https://baijiahao.baidu.com/s?id=1828526359909343132",
+      "time": "4月5日 10:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_132",
+      "title": "中国食品土畜进出口商会：坚决反对美国政府加征“对等关税”",
+      "link": "https://baijiahao.baidu.com/s?id=1828526299105515660",
+      "time": "4月5日 10:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_133",
+      "title": "中国驻美使馆：坚决反对美方加征所谓“对等关税”",
+      "link": "https://baijiahao.baidu.com/s?id=1828482763017304594",
+      "time": "4月4日 22:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_134",
+      "title": "美关税大棒下 欧盟称与南共市达成贸易协定是“重大机遇”",
+      "link": "https://baijiahao.baidu.com/s?id=1828476615718980918",
+      "time": "4月4日 20:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_135",
+      "title": "对美反制！加征34%关税",
+      "link": "https://baijiahao.baidu.com/s?id=1828474741019865723",
+      "time": "4月4日 20:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_136",
+      "title": "海关总署：暂停6家美涉事企业产品输华资质",
+      "link": "https://baijiahao.baidu.com/s?id=1828467189195878966",
+      "time": "4月4日 18:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_137",
+      "title": "两部门：对部分中重稀土相关物项实施出口管制",
+      "link": "https://baijiahao.baidu.com/s?id=1828467189198559021",
+      "time": "4月4日 18:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_138",
+      "title": "国务院关税税则委员会对原产于美国的所有进口商品加征34%关税",
+      "link": "https://baijiahao.baidu.com/s?id=1828465964757007784",
+      "time": "4月4日 18:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_139",
+      "title": "“保护主义没有立足之地” 多方批评美关税政策",
+      "link": "https://baijiahao.baidu.com/s?id=1828466340248354133",
+      "time": "4月4日 18:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_140",
+      "title": "德国汽车业界：美关税政策不是“美国优先”而是“美国孤立”",
+      "link": "https://baijiahao.baidu.com/s?id=1828434757805289767",
+      "time": "4月4日 15:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_141",
+      "title": "德国各界批评美国关税政策造成破坏性影响",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_2906871374883856872&sourceFrom=share",
+      "time": "4月4日 14:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_142",
+      "title": "国际观察｜屡证无效却如此痴迷——起底美国“关税战”深层动因",
+      "link": "https://baijiahao.baidu.com/s?id=1828442242114731375",
+      "time": "4月4日 11:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_143",
+      "title": "西班牙宣布141亿欧元“关税援助计划”",
+      "link": "https://baijiahao.baidu.com/s?id=1828441803240279768",
+      "time": "4月4日 11:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_144",
+      "title": "加拿大宣布对美国汽车对等征收25%关税",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_917655075680379057&sourceFrom=share",
+      "time": "4月4日 09:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_145",
+      "title": "中国纺织工业联合会坚决反对美国取消小额包裹免税待遇",
+      "link": "https://baijiahao.baidu.com/s?id=1828434662919491624",
+      "time": "4月4日 09:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_146",
+      "title": "不平等、不公平、不平衡 解读美“对等关税”冲击波",
+      "link": "https://baijiahao.baidu.com/s?id=1828434568607529618",
+      "time": "4月4日 09:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_147",
+      "title": "特朗普政府因对中国进口产品征收关税被起诉",
+      "link": "https://baijiahao.baidu.com/s?id=1828427029804225498",
+      "time": "4月4日 07:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_148",
+      "title": "IMF总裁：美关税措施给全球经济带来重大风险",
+      "link": "https://baijiahao.baidu.com/s?id=1828426462422797135",
+      "time": "4月4日 07:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_149",
+      "title": "美媒称美国是关税政策下最大输家",
+      "link": "https://baijiahao.baidu.com/s?id=1828395088613490736",
+      "time": "4月4日 07:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_150",
+      "title": "升级“关税战”，美国究竟意欲何为？",
+      "link": "https://baijiahao.baidu.com/s?id=1828425822244939092",
+      "time": "4月4日 07:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_151",
+      "title": "自残式关税血洗美股，三大股指创近5年最大单日跌幅",
+      "link": "https://baijiahao.baidu.com/s?id=1828424405552174458",
+      "time": "4月4日 07:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_152",
+      "title": "特朗普开征对等关税 欧盟：谈不拢就“回击”",
+      "link": "https://baijiahao.baidu.com/s?id=1828352150426008922",
+      "time": "4月3日 16:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_153",
+      "title": "中方回应美加征关税：将采取措施坚定维护自身正当利益！",
+      "link": "https://baijiahao.baidu.com/s?id=1828365741157385066",
+      "time": "4月3日 15:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_154",
+      "title": "英国：处境还行 还是朋友 冷静应对",
+      "link": "https://baijiahao.baidu.com/s?id=1828365425023121920&wfr=spider&for=pc",
+      "time": "4月3日 15:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_155",
+      "title": "美国对进口汽车加征25%关税正式生效",
+      "link": "https://baijiahao.baidu.com/s?id=1828354549511026779",
+      "time": "4月3日 12:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_156",
+      "title": "特朗普关税大棒挥向无人岛 企鹅：@#￥%……&",
+      "link": "https://baijiahao.baidu.com/s?id=1828343533830789809",
+      "time": "4月3日 11:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_157",
+      "title": "商务部回应美方宣布对等关税：坚决采取反制措施维护自身权益",
+      "link": "https://baijiahao.baidu.com/s?id=1828345481724657991",
+      "time": "4月3日 10:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_158",
+      "title": "乱套了 美参议院通过法案试图阻止特朗普对加拿大加征关税",
+      "link": "https://baijiahao.baidu.com/s?id=1828337237399591430",
+      "time": "4月3日 08:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_159",
+      "title": "美对贸易伙伴征收“对等关税” 多国政要发声反对",
+      "link": "https://baijiahao.baidu.com/s?id=1828335665989911967",
+      "time": "4月3日 07:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_160",
+      "title": "特朗普宣布国家紧急状态 全面征收关税",
+      "link": "https://baijiahao.baidu.com/s?id=1828330826535391111",
+      "time": "4月3日 06:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_161",
+      "title": "美国对中国实施34%的“对等关税”",
+      "link": "https://baijiahao.baidu.com/s?id=1828331324758745815",
+      "time": "4月3日 06:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_162",
+      "title": "特朗普宣布对进口汽车加征25%关税",
+      "link": "https://baijiahao.baidu.com/s?id=1828325976100983542",
+      "time": "4月3日 05:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_163",
+      "title": "新华社快讯：特朗普签署行政令对贸易伙伴征收“对等关税”",
+      "link": "https://baijiahao.baidu.com/s?id=1828326415467213090",
+      "time": "4月3日 05:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_164",
+      "title": "以色列宣布取消对美国商品征收关税",
+      "link": "https://baijiahao.baidu.com/s?id=1828237016950081711",
+      "time": "4月2日 05:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_165",
+      "title": "美汽车关税让“盟友”日本有多伤",
+      "link": "https://baijiahao.baidu.com/s?id=1828162808943821144",
+      "time": "4月1日 09:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_166",
+      "title": "特朗普称“不在乎”汽车制造商因关税涨价",
+      "link": "https://baijiahao.baidu.com/s?id=1827981109798141525&wfr=spider&for=pc",
+      "time": "3月30日 09:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_167",
+      "title": "美关税对日本经济影响严重",
+      "link": "https://baijiahao.baidu.com/s?id=1827894007915432760",
+      "time": "3月29日 10:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_168",
+      "title": "墨西哥总统辛鲍姆：坚决反对美国单方面加征关税措施",
+      "link": "https://baijiahao.baidu.com/s?id=1827881927128038612",
+      "time": "3月29日 07:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_169",
+      "title": "中国玩具和婴童用品协会呼吁美国政府继续执行WTO协定",
+      "link": "https://baijiahao.baidu.com/s?id=1827801081444237754",
+      "time": "3月28日 09:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_170",
+      "title": "美国宣布对进口汽车加征25%关税 引发欧洲汽车业担忧",
+      "link": "https://baijiahao.baidu.com/s?id=1827789692927842265",
+      "time": "3月28日 06:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_171",
+      "title": "应对美国汽车关税新政 韩国拟于4月出台产业紧急对策",
+      "link": "https://baijiahao.baidu.com/s?id=1827738933677465210",
+      "time": "3月27日 17:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_172",
+      "title": "商务部：中方已起诉美方加征关税措施",
+      "link": "https://baijiahao.baidu.com/s?id=1827732126655276763",
+      "time": "3月27日 15:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_173",
+      "title": "美总统特朗普宣布对所有进口汽车征收25%关税",
+      "link": "https://baijiahao.baidu.com/s?id=1827693813158068422",
+      "time": "3月27日 07:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_174",
+      "title": "特朗普称或给很多国家提供关税优惠但需“对等”",
+      "link": "https://baijiahao.baidu.com/s?id=1827510540642824686",
+      "time": "3月25日 04:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_175",
+      "title": "美随意调整关税政策 德智库：全球经济拒绝美国注入不确定性",
+      "link": "https://baijiahao.baidu.com/s?id=1827359357344724874",
+      "time": "3月23日 12:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_176",
+      "title": "美国“关税大棒”高举，美股“跌跌不休”",
+      "link": "https://baijiahao.baidu.com/s?id=1827262500019556762&wfr=spider&for=pc",
+      "time": "3月22日 11:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_177",
+      "title": "应对美国加征关税，欧盟发布“钢铁与金属产业行动计划”",
+      "link": "https://baijiahao.baidu.com/s?id=1827094645242755973",
+      "time": "3月20日 14:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_178",
+      "title": "美关税政策带来三大恶果",
+      "link": "https://baijiahao.baidu.com/s?id=1826807471283458377",
+      "time": "3月17日 10:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_179",
+      "title": "特朗普威胁将对欧盟酒类产品征收200%关税",
+      "link": "https://baijiahao.baidu.com/s?id=1826483082568907576",
+      "time": "3月13日 20:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_180",
+      "title": "美对华加征关税 商务部：关税的叠加无助于国家安全",
+      "link": "https://baijiahao.baidu.com/s?id=1826468369284511073",
+      "time": "3月13日 16:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_181",
+      "title": "美官员称日本对其大米征收700%关税，日方回应",
+      "link": "https://baijiahao.baidu.com/s?id=1826368738337347872",
+      "time": "3月12日 12:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_182",
+      "title": "再次加码 美国对加拿大输美钢铝产品征收关税升至50%",
+      "link": "https://baijiahao.baidu.com/s?id=1826308638944220971",
+      "time": "3月12日 07:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_183",
+      "title": "“奉陪到底”，中国对美农产品加征关税生效",
+      "link": "https://baijiahao.baidu.com/s?id=1826208334853225493&wfr=spider&for=pc",
+      "time": "3月10日 19:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_184",
+      "title": "特朗普再次推迟对加墨加税，美媒：凸显其贸易政策反复无常",
+      "link": "https://baijiahao.baidu.com/s?id=1825980427383163050",
+      "time": "3月8日 07:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_185",
+      "title": "特朗普称印度已同意大幅降低关税",
+      "link": "https://baijiahao.baidu.com/s?id=1825957304640764383",
+      "time": "3月8日 01:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_186",
+      "title": "特朗普签署修正案 暂缓对加墨加征关税",
+      "link": "https://baijiahao.baidu.com/s?id=1825876333591094752",
+      "time": "3月7日 08:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_187",
+      "title": "全球加税，越加越衰",
+      "link": "https://baijiahao.baidu.com/s?id=1825888949293588896",
+      "time": "3月7日 07:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_188",
+      "title": "加拿大总理办公室：面对美国征收关税 必须减少对单一市场依赖",
+      "link": "https://baijiahao.baidu.com/s?id=1825811280341016798",
+      "time": "3月6日 10:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_189",
+      "title": "外交部回应美再对华加征关税",
+      "link": "https://baijiahao.baidu.com/s?id=1825738396421815609",
+      "time": "3月5日 15:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_190",
+      "title": "特朗普：4月2日起对全球展开“对等关税”",
+      "link": "https://baijiahao.baidu.com/s?id=1825728867241480464",
+      "time": "3月5日 12:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_191",
+      "title": "外交部：中国人民从来不吃霸凌霸道那一套",
+      "link": "https://baijiahao.baidu.com/s?id=1825653681177747188",
+      "time": "3月4日 17:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_192",
+      "title": "商务部：中方已在世贸组织争端解决机制下起诉美方加征关税措施",
+      "link": "https://baijiahao.baidu.com/s?id=1825638773286282873",
+      "time": "3月4日 13:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_193",
+      "title": "商务部对中国输美产品再次加征关税发表谈话",
+      "link": "https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4553558460299667986&sourceFrom=homepage",
+      "time": "3月4日 09:11",
+      "summary": "【商务部新闻发言人就美方宣布以芬太尼等问题为由对中国输美产品再次加征关税发表谈话】美国东部时间3月3日，美方宣布以芬太尼等问题为由，自3月4日起对中国输美产品再次加征10%关税。中方对此强烈不满，坚决反对，将采取反制措施坚定维护自身权益。\n中国是世界上禁毒政策最严格、执行最彻底的国家之一，中美双方开展了广泛、深入的禁毒合作并取得显著成效。但美方“甩锅推责”、一错再错，以芬太尼问题为由再次对中国输美产品加征关税。美方这一做法罔顾事实，无视国际贸易规则和各方呼声，是典型的单边主义、霸凌主义行径。\n中方多次阐明，美方单边关税违反世贸组织规则，破坏多边贸易体制，不仅解决不了自身问题，还会对中美经贸合作和正常的国际贸易秩序造成破坏。中方敦促美方尊重其他国家权益，立即撤回无理无据、损人不利己的单边关税措施。希望美方客观、理性看待和处理问题，尽快回到通过平等对话妥善解决分歧的正确轨道。（商务部网站）",
+      "author": "新华网"
+    },
+    {
+      "id": "event_194",
+      "title": "对中国输美产品再加征10%关税 公安部:强烈不满 坚决反对",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_9773298915420813841&sourceFrom=share",
+      "time": "3月1日 13:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_195",
+      "title": "美总统威胁对欧盟商品征收25%关税",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_2261664439846428260&sourceFrom=share",
+      "time": "3月1日 10:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_196",
+      "title": "外交部：将采取一切必要措施维护正当利益",
+      "link": "https://baijiahao.baidu.com/s?id=1825290444729451805",
+      "time": "2月28日 16:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_197",
+      "title": "商务部回应美威胁对华再加征关税",
+      "link": "https://baijiahao.baidu.com/s?id=1825276006960602860",
+      "time": "2月28日 13:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_198",
+      "title": "特朗普关税大棒激化美欧贸易争端 欧盟多国领导人密集表态",
+      "link": "https://baijiahao.baidu.com/s?id=1825262169489269633",
+      "time": "2月28日 09:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_199",
+      "title": "特朗普宣布：征税！4月2日起",
+      "link": "https://baijiahao.baidu.com/s?id=1825176469727470396",
+      "time": "2月27日 10:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_200",
+      "title": "美国或将对进口铜加征关税 中方：坚决反对单方面加征关税",
+      "link": "https://baijiahao.baidu.com/s?id=1825105130424412640&wfr=spider&for=pc",
+      "time": "2月26日 15:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_201",
+      "title": "多国政商界人士批美挥舞“关税大棒”：或引发贸易战损害全球经济",
+      "link": "https://baijiahao.baidu.com/s?id=1824262704458570650",
+      "time": "2月17日 08:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_202",
+      "title": "墨西哥总统致信特朗普 重申对墨加征钢铝关税有损美国利益",
+      "link": "https://baijiahao.baidu.com/s?id=1824065972498828871",
+      "time": "2月15日 04:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_203",
+      "title": "特朗普宣布对美贸易伙伴征收“对等关税”",
+      "link": "https://baijiahao.baidu.com/s?id=1823980129413066313",
+      "time": "2月14日 05:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_204",
+      "title": "商务部回应诉美加征关税措施：后续将按世贸规则和程序处理该案",
+      "link": "https://baijiahao.baidu.com/s?id=1823940453900606569",
+      "time": "2月13日 19:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_205",
+      "title": "敦促美方回到正确轨道 商务部回应美对进口钢铝征收25%关税",
+      "link": "https://baijiahao.baidu.com/s?id=1823926801302783382",
+      "time": "2月13日 15:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_206",
+      "title": "美加征关税影响全球多国 美前财长：双输！",
+      "link": "https://baijiahao.baidu.com/s?id=1823878360278085979",
+      "time": "2月13日 02:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_207",
+      "title": "特朗普宣布加征钢铝关税 美欧关税战是否难以避免？专家分析",
+      "link": "https://baijiahao.baidu.com/s?id=1823844278161195298",
+      "time": "2月12日 18:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_208",
+      "title": "外交部：贸易战 关税战没有赢家",
+      "link": "https://baijiahao.baidu.com/s?id=1823836781012273629",
+      "time": "2月12日 17:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_209",
+      "title": "日本政府申请豁免该国产品",
+      "link": "https://baijiahao.baidu.com/s?id=1823842315658341354",
+      "time": "2月12日 17:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_210",
+      "title": "特朗普加征关税言论引发多国反制表态",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_7518121324633790975&sourceFrom=share",
+      "time": "2月11日 09:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_211",
+      "title": "特朗普签署行政令 对所有输美钢铝征收25%关税",
+      "link": "https://baijiahao.baidu.com/s?id=1823712333916084198",
+      "time": "2月11日 06:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_212",
+      "title": "坚决斗争！中国如期实施对美关税反制",
+      "link": "https://baijiahao.baidu.com/s?id=1823676056261277832&wfr=spider&for=pc",
+      "time": "2月10日 21:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_213",
+      "title": "国务院关税税则委员会：对原产于美国的部分进口商品加征关税",
+      "link": "https://baijiahao.baidu.com/s?id=1823102693891707566&wfr=spider&for=pc",
+      "time": "2月4日 13:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_214",
+      "title": "外交部回应美国对华加征10%关税",
+      "link": "https://baijiahao.baidu.com/s?id=1822914820555075265",
+      "time": "2月2日 11:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_215",
+      "title": "美国宣布对加拿大和墨西哥征收25%的关税",
+      "link": "https://baijiahao.baidu.com/s?id=1822895700602834952",
+      "time": "2月2日 06:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_216",
+      "title": "特朗普：计划2月1日起对加拿大和墨西哥商品征收25%关税",
+      "link": "https://baijiahao.baidu.com/s?id=1822714187661741493",
+      "time": "1月31日 06:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_217",
+      "title": "特朗普：自2月1日起对进口自加拿大商品征收25%关税",
+      "link": "https://baijiahao.baidu.com/s?id=1821825709678220112&wfr=spider&for=pc",
+      "time": "1月21日 10:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_218",
+      "title": "特朗普再挥“关税大棒”，多国筹谋应对措施",
+      "link": "https://baijiahao.baidu.com/s?id=1816888927854339357&wfr=spider&for=pc",
+      "time": "2024年11月27日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_219",
+      "title": "针对特朗普加征10%关税言论，外交部回应",
+      "link": "https://baijiahao.baidu.com/s?id=1816779675616976080&wfr=spider&for=pc",
+      "time": "2024年11月26日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_220",
+      "title": "特朗普威胁再舞“关税大棒”",
+      "link": "https://baijiahao.baidu.com/s?id=1811265750254491487&wfr=spider&for=pc",
+      "time": "2024年9月26日",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 216,
+  "scrape_time": "2025-09-10 19:27:07"
+}

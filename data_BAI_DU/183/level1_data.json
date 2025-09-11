@@ -1,0 +1,276 @@
+{
+  "core_info": {
+    "core_event_name": "日本大米价格连涨15周",
+    "update_time": "更新至20250501",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-11 17:21:18"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "米价连创新高,日本多地频现“大米盗贼”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3965977847301507480",
+      "time": "5月1日 10:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "日本大米价格连续16周上涨",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11747479933852726158",
+      "time": "4月29日 14:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "日本大米零售价连续16周上涨 再创新高",
+      "link": "http://tv.cctv.com/2025/04/29/VIDEm0jh8AJ92od4Da7MdUgd250429.shtml",
+      "time": "4月29日 13:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "创最高纪录!5公斤大米均价4220日元,日本人开始去韩国背米了!有超市开始限购,货架“空空如也”",
+      "link": "http://baijiahao.baidu.com/s?id=1830705499877780065&wfr=spider&for=pc",
+      "time": "4月29日 11:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "日本大米零售价格连续16周上涨",
+      "link": "http://tv.cctv.com/2025/04/29/VIDELiCuQHBxRCgWZpfZ8b0e250429.shtml",
+      "time": "4月29日 09:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "日本大米价格连续16周上涨 再创最高纪录",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8717862091752216203",
+      "time": "4月28日 20:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "日本大米价格一波更比一波高",
+      "link": "http://finance.sina.cn/2025-04-28/detail-ineutcsx6641343.d.html",
+      "time": "4月28日 16:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "日本5公斤大米均价约214元,有游客赴韩买米,还吐槽:“日本米价太高了”",
+      "link": "http://baijiahao.baidu.com/s?id=1830538526272880450&wfr=spider&for=pc",
+      "time": "4月27日 15:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "一年内米价翻倍创历史新高,日本人扎堆赴韩买米:称价格是日本的一半",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8330385564809912811",
+      "time": "4月25日 16:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "东京4月米价比去年几乎翻倍",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13053043682572599877",
+      "time": "4月25日 15:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "日本米价涨了又涨,逼到日本主妇跑到韩国买",
+      "link": "http://finance.sina.com.cn/wm/2025-04-24/doc-ineuhuek1900069.shtml",
+      "time": "4月24日 21:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "大米成日本赴韩游客热门采购品",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4500201295111829012",
+      "time": "4月24日 19:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "一年内米价翻倍,日本游客赴韩买米",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5588687401284640463",
+      "time": "4月24日 16:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "日本米价连涨15周 对韩进口米“开闸”",
+      "link": "http://tv.cctv.com/2025/04/23/VIDEv8HYAH7sSSEY4VEv40Jn250423.shtml",
+      "time": "4月23日 20:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "日本游客赴韩国“搬大米” 什么情况?",
+      "link": "http://finance.eastmoney.com/a/202504233384855081.html",
+      "time": "4月23日 03:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "日本大米价格连涨15周 5公斤约218元人民币",
+      "link": "http://www.163.com/dy/article/JTPE6GQ90553T9QY.html",
+      "time": "4月22日 21:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "日本时隔35年再次从韩国进口大米,有中小学计划减少米饭供应次数",
+      "link": "http://k.sina.cn/article_6105713761_16bedcc6102001m4bq.html",
+      "time": "4月22日 13:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "韩国35年来首次向日本出口大米",
+      "link": "http://tv.cctv.com/2025/04/22/VIDE3Pla0TbsKj0yn1pkuNqI250422.shtml",
+      "time": "4月22日 12:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "日本:超市大米零售均价连续15周上涨 刷新历史纪录",
+      "link": "http://tv.cctv.com/2025/04/22/VIDEYg3X9Mn71V1Jh9pNptiu250422.shtml",
+      "time": "4月22日 12:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "韩国计划向日本出口22吨大米",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4706731579103707464",
+      "time": "4月22日 09:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_21",
+      "title": "日本米价连续15周创新高",
+      "link": "http://tv.cctv.com/2025/04/22/VIDEshWp68ylIlIhGWzqIJgp250422.shtml",
+      "time": "4月22日 07:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_22",
+      "title": "日本的米价暴涨了",
+      "link": "http://baijiahao.baidu.com/s?id=1830001532541748158&wfr=spider&for=pc",
+      "time": "4月21日 16:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_23",
+      "title": "日本大米价格暴涨，一个月时间价格翻了将近一倍",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9115307444945618741",
+      "time": "4月20日 13:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_24",
+      "title": "日本米价暴涨!部分地区学生或吃不上“饭”",
+      "link": "http://news.hnr.cn/shxw/article/1/1913816846140772354",
+      "time": "4月20日 12:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_25",
+      "title": "日本大米暴涨有人去韩国带回40斤",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11827379582848430363",
+      "time": "4月20日 12:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_26",
+      "title": "米价飙升 日本人赴韩“淘米” 学生面临“米饭减供”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11042593642386284843",
+      "time": "4月20日 08:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_27",
+      "title": "日本米价持续走高 部分地区学生或吃不上“饭”",
+      "link": "http://baijiahao.baidu.com/s?id=1829796710390797830&wfr=spider&for=pc",
+      "time": "4月19日 10:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_28",
+      "title": "日本3月米价同比上涨92.1%,创54年来最大涨幅",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13787694223219506961",
+      "time": "4月18日 09:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_29",
+      "title": "日本核心消费者价格加速上涨 稻米价格创逾50年来最大涨幅",
+      "link": "http://finance.sina.com.cn/stock/usstock/c/2025-04-18/doc-inetptny5111631.shtml?froms=bdmp",
+      "time": "4月18日 08:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_30",
+      "title": "日本10斤大米超200元!日本消费者涌向韩国买米",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7891953496794474232",
+      "time": "4月17日 19:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_31",
+      "title": "米价居高不下 日本消费者赴韩国“淘米”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1185220063690573714",
+      "time": "4月17日 15:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_32",
+      "title": "日本米价连创新高 日本人赴韩国“淘米”",
+      "link": "http://www.qlwb.com.cn/detail/25969544.html",
+      "time": "4月17日 10:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_33",
+      "title": "日本财务省就米价高涨开会:建议扩大主食大米进口额度",
+      "link": "http://baijiahao.baidu.com/s?id=1829453878337997869&wfr=spider&for=pc",
+      "time": "4月15日 15:44",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 33,
+  "scrape_time": "2025-09-11 17:21:35"
+}

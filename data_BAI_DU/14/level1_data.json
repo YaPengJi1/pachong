@@ -1,0 +1,396 @@
+{
+  "core_info": {
+    "core_event_name": "SpaceX星际飞船试飞",
+    "update_time": "更新至2025年5月28日 09:38",
+    "sub_event_count": 48,
+    "scrape_time": "2025-09-11 17:53:40"
+  },
+  "sub_events": [
+    {
+      "id": "event_5",
+      "title": "马斯克发声：比上一次飞行有了“很大的进步”",
+      "link": "https://baijiahao.baidu.com/s?id=1833326551362941843",
+      "time": "5月28日 09:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "星舰进行第九次试飞，SpaceX证实：几分钟前与星舰失去联系",
+      "link": "https://baijiahao.baidu.com/s?id=1833323060299011716",
+      "time": "5月28日 08:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "人类首次 SpaceX开展载人绕地球两极飞行任务",
+      "link": "https://baijiahao.baidu.com/s?id=1828169007569509921",
+      "time": "4月1日 12:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "SpaceX取消第八次星舰试飞 原因暂不明",
+      "link": "https://baijiahao.baidu.com/s?id=1825621846285690162&wfr=spider&for=pc",
+      "time": "3月4日 09:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "SpaceX首次实现火箭跨国回收",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_11174823566139162027&sourceFrom=share",
+      "time": "2月23日 15:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "今晚最新 “筷子”夹住火箭 SpaceX首次回收“星舰”成功",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_10421718401044276522&sourceFrom=share",
+      "time": "2024年10月13日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "最快今天发射！SpaceX“星舰”获第五次试飞许可",
+      "link": "https://baijiahao.baidu.com/s?id=1812762834276303098&wfr=spider&for=pc",
+      "time": "2024年10月13日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "马斯克：超重型助推器软着陆成功",
+      "link": "http://baijiahao.baidu.com/s?id=1801119392434306912",
+      "time": "2024年6月6日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "SpaceX星舰第4次试飞发射升空",
+      "link": "https://baijiahao.baidu.com/s?id=1801117500517956014",
+      "time": "2024年6月6日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "美国航空管理局批准SpaceX第四次星舰轨道试飞",
+      "link": "https://baijiahao.baidu.com/s?id=1800975351949090401&wfr=spider&for=pc",
+      "time": "2024年6月5日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "马斯克： SpaceX星舰大概在未来3到5周内进行第4次试飞",
+      "link": "https://baijiahao.baidu.com/s?id=1798837638861015246&wfr=spider&for=pc",
+      "time": "2024年5月12日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "SpaceX星舰重返大气层时失去信号，第三次试飞提前结束",
+      "link": "https://baijiahao.baidu.com/s?id=1793512927907912740",
+      "time": "2024年3月14日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "马斯克发文祝贺：已达到环绕速度",
+      "link": "https://baijiahao.baidu.com/s?id=1793511425593854554&wfr=spider&for=pc",
+      "time": "2024年3月14日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "SpaceX星舰第三次发射顺利升空",
+      "link": "https://baijiahao.baidu.com/s?id=1793511827770806122&wfr=spider&for=pc",
+      "time": "2024年3月14日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "马斯克星舰将进行第三次试飞",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=425123012273284619",
+      "time": "2024年3月14日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "“星舰”第二次发射再次失败，受影响的还有美国载人登月计划",
+      "link": "https://quanmin.baidu.com/v/15838132651878113892",
+      "time": "2023年11月18日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_21",
+      "title": "“星舰”二次试飞失联，多角度看超重助推器爆炸瞬间!",
+      "link": "https://quanmin.baidu.com/sv?source=share-h5&pd=qm_share_search&vid=12997091408292232293",
+      "time": "2023年11月18日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_22",
+      "title": "美媒：SpaceX证实与“星舰”失联，被迫触发其自毁系统",
+      "link": "https://baijiahao.baidu.com/s?id=1782909834630059320",
+      "time": "2023年11月18日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_23",
+      "title": "SpaceX星舰将进行第二次试飞",
+      "link": "https://baijiahao.baidu.com/s?id=1782904778246875052&wfr=spider&for=pc",
+      "time": "2023年11月18日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_24",
+      "title": "首飞失败后，“星舰”计划17日二次试飞",
+      "link": "https://baijiahao.baidu.com/s?id=1782775048325187093&wfr=spider&for=pc",
+      "time": "2023年11月17日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_25",
+      "title": "马斯克：SpaceX将再进行试飞",
+      "link": "https://baijiahao.baidu.com/s?id=1768635416487319700&wfr=spider&for=pc",
+      "time": "2023年6月14日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_26",
+      "title": "马斯克预计SpaceX今年将在星舰项目花费约20亿美元",
+      "link": "https://baijiahao.baidu.com/s?id=1764678971531451139&wfr=spider&for=pc",
+      "time": "2023年5月1日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_27",
+      "title": "马斯克详解“星舰”爆炸：“龙卷风”、飞偏、人为引爆延迟",
+      "link": "https://baijiahao.baidu.com/s?id=1764656732704674544&wfr=spider&for=pc",
+      "time": "2023年5月1日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_28",
+      "title": "“星舰”火箭发射严重损坏发射台",
+      "link": "https://baijiahao.baidu.com/s?id=1764048442700467155",
+      "time": "2023年4月24日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_29",
+      "title": "实拍“星舰”发射失败后现场：地面影像设备损毁殆尽",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=7140477263012693721",
+      "time": "2023年4月24日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_30",
+      "title": "马斯克：“星舰”1-2个月内可准备再次发射",
+      "link": "https://baijiahao.baidu.com/s?id=1763831448495800038",
+      "time": "2023年4月22日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_31",
+      "title": "马斯克就“星舰”爆炸发声：吸取教训",
+      "link": "https://baijiahao.baidu.com/s?id=1763743307549865004&wfr=spider&for=pc",
+      "time": "2023年4月21日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_32",
+      "title": "外媒：美国“星舰”发射时发生爆炸",
+      "link": "https://baijiahao.baidu.com/s?id=1763703486994848943",
+      "time": "2023年4月20日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_33",
+      "title": "SpaceX 星舰计划于4月20日再尝试发射",
+      "link": "https://baijiahao.baidu.com/s?id=1763700932781135497&wfr=spider&for=pc",
+      "time": "2023年4月20日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_34",
+      "title": "马斯克：今天学到了很多东西，现在卸下推进剂，过几天再试",
+      "link": "https://baijiahao.baidu.com/s?id=1763431092112630414&wfr=spider&for=pc",
+      "time": "2023年4月17日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_35",
+      "title": "SpaceX 宣布“星舰”发射推迟 48 小时",
+      "link": "https://baijiahao.baidu.com/s?id=1763430684089930660&wfr=spider&for=pc",
+      "time": "2023年4月17日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_36",
+      "title": "SpaceX“星舰”发射计划因压力阀问题而推迟",
+      "link": "https://baijiahao.baidu.com/s?id=1763429802202504406&wfr=spider&for=pc",
+      "time": "2023年4月17日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_37",
+      "title": "SpaceX星际飞船4月17日进行首次试飞",
+      "link": "https://baijiahao.baidu.com/s?id=1763430027360516501&wfr=spider&for=pc",
+      "time": "2023年4月17日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_38",
+      "title": "星舰将进行首次试飞，马斯克自泼冷水：有无数种失败的可能性",
+      "link": "https://baijiahao.baidu.com/s?id=1763427002738398200&wfr=spider&for=pc",
+      "time": "2023年4月17日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_39",
+      "title": "马斯克：首次发射成本约30亿美元 成功率50%",
+      "link": "https://baijiahao.baidu.com/s?id=1763393972822727935&wfr=spider&for=pc",
+      "time": "2023年4月17日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_40",
+      "title": "SpaceX试飞“星舰”获美国联邦航空局批准",
+      "link": "https://baijiahao.baidu.com/s?id=1763334110874017418&wfr=spider&for=pc",
+      "time": "2023年4月14日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_41",
+      "title": "SpaceX完成星舰发动机点火测试",
+      "link": "https://baijiahao.baidu.com/s?id=1757521433191593743&wfr=spider&for=pc",
+      "time": "2023年2月11日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_42",
+      "title": "SpaceX拟3月发射星舰，马斯克计划造1000艘去火星拓荒",
+      "link": "https://baijiahao.baidu.com/s?id=1757064769053976401&wfr=spider&for=pc",
+      "time": "2023年2月6日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_43",
+      "title": "SpaceX 星舰星际飞船完成首次湿式演练，即将进行轨道飞行",
+      "link": "https://baijiahao.baidu.com/s?id=1756528691937092165&wfr=spider&for=pc",
+      "time": "2023年1月31日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_44",
+      "title": "SpaceX发布星舰宣传片 马斯克：商业任务最快两年后进行",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=8692144124020450142",
+      "time": "2022年2月11日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_45",
+      "title": "SpaceX“星舰”高空试飞第三次发生爆炸",
+      "link": "https://baijiahao.baidu.com/s?id=1693309686844763175&wfr=spider&for=pc",
+      "time": "2021年3月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_46",
+      "title": "SpaceX星舰SN8试飞着陆爆炸 马斯克：已拿到所需数据",
+      "link": "https://baijiahao.baidu.com/s?id=1685662154968340213&wfr=spider&for=pc",
+      "time": "2020年12月10日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_47",
+      "title": "马斯克的星舰原型SN5低空跳跃试飞成功",
+      "link": "https://baijiahao.baidu.com/s?id=1674165860335066488&wfr=spider&for=pc",
+      "time": "2020年8月5日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_48",
+      "title": "SpaceX星际飞船SN1原型再次发生爆炸",
+      "link": "https://baijiahao.baidu.com/s?id=1660106029790417522&wfr=spider&for=pc",
+      "time": "2020年3月3日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_49",
+      "title": "SpaceX“星际飞船”测试中发生爆裂",
+      "link": "https://baijiahao.baidu.com/s?id=1650794297241992519&wfr=spider&for=pc",
+      "time": "2019年11月21日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_50",
+      "title": "SpaceX升级两处发射台：准备试飞星际飞船原型",
+      "link": "https://baijiahao.baidu.com/s?id=1645608627345416651&wfr=spider&for=pc",
+      "time": "2019年9月25日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_51",
+      "title": "SpaceX星舰超越土星5号成为最强火箭，可在3年内抵达木星",
+      "link": "https://baijiahao.baidu.com/s?id=1645298611828200694&wfr=spider&for=pc",
+      "time": "2019年9月21日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_52",
+      "title": "马斯克揭晓星际飞船最终外观：圆润光滑，形似子弹头",
+      "link": "https://baijiahao.baidu.com/s?id=1621972340708160811&wfr=spider&for=pc",
+      "time": "2019年1月7日",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 48,
+  "scrape_time": "2025-09-11 17:53:50"
+}

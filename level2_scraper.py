@@ -13,6 +13,10 @@ import re
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service as ChromeService
+from selenium.webdriver.edge.options import Options as EdgeOptions
+from selenium.webdriver.edge.service import Service as EdgeService
+import os
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -25,13 +29,18 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 class Level2Scraper:
-    def __init__(self, core_event_name=""):
+    def __init__(self, core_event_name="", output_dir: str = None, csv_output_file: str = None):
         self.session = requests.Session()
         self.driver = None
         self.comments_data = []
         self.core_event_name = core_event_name
-        self.level2_file = 'data/level2_data.json'
-        self.table_file = f'data/{self._sanitize_filename(core_event_name)}_评论数据.xlsx'
+        # 输出目录与文件
+        self.output_dir = output_dir or 'data'
+        if not os.path.exists(self.output_dir):
+            os.makedirs(self.output_dir, exist_ok=True)
+        self.level2_file = os.path.join(self.output_dir, 'level2_data.json')
+        self.table_file = os.path.join(self.output_dir, f"{self._sanitize_filename(core_event_name)}_评论数据.xlsx")
+        self.csv_output_file = csv_output_file  # 例如 D:/.../Israeli_Palestinian_conflict.csv
         self._init_session()
         self._init_selenium()
         self._ensure_data_dir()
@@ -73,10 +82,51 @@ class Level2Scraper:
             chrome_options.add_argument('--window-size=1920,1080')
             chrome_options.add_argument('--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36')
             
-            logger.info("正在初始化Chrome WebDriver...")
-            self.driver = webdriver.Chrome(options=chrome_options)
-            self.driver.set_page_load_timeout(30)
-            logger.info("Selenium WebDriver 初始化成功")
+            # 优先尝试：Selenium Manager（不下载第三方依赖）
+            try:
+                logger.info("正在初始化Chrome（Selenium Manager）...")
+                self.driver = webdriver.Chrome(options=chrome_options)
+                self.driver.set_page_load_timeout(30)
+                logger.info("Selenium WebDriver 初始化成功 (Chrome)")
+                return
+            except Exception as e1:
+                logger.warning(f"Chrome (Selenium Manager) 初始化失败: {e1}")
+
+            # 备用：本地chromedriver（通过环境变量指定）
+            try:
+                logger.info("尝试使用本地chromedriver（跳过网络下载）...")
+                os.environ['WDM_LOCAL'] = '1'
+                chromedriver_path = os.environ.get('CHROMEDRIVER_PATH', '')
+                if chromedriver_path and os.path.exists(chromedriver_path):
+                    logger.info(f"使用CHROMEDRIVER_PATH: {chromedriver_path}")
+                    self.driver = webdriver.Chrome(service=ChromeService(chromedriver_path), options=chrome_options)
+                    self.driver.set_page_load_timeout(30)
+                    logger.info("Selenium WebDriver 初始化成功 (本地chromedriver)")
+                    return
+            except Exception as e2:
+                logger.warning(f"本地chromedriver 初始化失败: {e2}")
+
+            # 最后备用：Edge
+            try:
+                logger.info("尝试使用Edge WebDriver 初始化...")
+                edge_options = EdgeOptions()
+                edge_options.use_chromium = True
+                edge_options.add_argument('--headless')
+                edge_options.add_argument('--no-sandbox')
+                edge_options.add_argument('--disable-dev-shm-usage')
+                edge_options.add_argument('--disable-gpu')
+                edge_options.add_argument('--disable-extensions')
+                edge_options.add_argument('--disable-logging')
+                edge_options.add_argument('--disable-web-security')
+                edge_options.add_argument('--window-size=1920,1080')
+                self.driver = webdriver.Edge(options=edge_options)
+                self.driver.set_page_load_timeout(30)
+                logger.info("Selenium WebDriver 初始化成功 (Edge)")
+                return
+            except Exception as e3:
+                logger.error(f"Edge 初始化失败: {e3}")
+
+            raise RuntimeError("无法初始化任何浏览器驱动。请安装 Chrome/Edge 或提供 CHROMEDRIVER_PATH。")
         except Exception as e:
             logger.error(f"Selenium WebDriver 初始化失败: {e}")
             logger.error("请确保已安装Chrome浏览器和ChromeDriver")
@@ -388,6 +438,12 @@ class Level2Scraper:
             
             # 保存到Excel文件
             df.to_excel(self.table_file, index=False, engine='openpyxl')
+
+            # 可选：保存到CSV文件
+            if self.csv_output_file:
+                # 确保CSV目录存在
+                os.makedirs(os.path.dirname(self.csv_output_file), exist_ok=True)
+                df.to_csv(self.csv_output_file, index=False, encoding='utf-8-sig')
             
         except Exception as e:
             logger.error(f"更新表格文件失败: {e}")
@@ -418,6 +474,24 @@ class Level2Scraper:
                 # 为每条评论添加子事件时间
                 for comment in comments:
                     comment['event_time'] = event_time
+                
+                # 若无评论，添加占位行以在表格中占据一行
+                if len(comments) == 0:
+                    placeholder_comment = {
+                        'event_title': event['title'],
+                        'event_id': event['id'],
+                        'event_url': event.get('link', ''),
+                        'comment_index': 0,
+                        'user_id': '',
+                        'comment_time': '',
+                        'comment_content': '',
+                        'user_location': '',
+                        'like_count': 0,
+                        'scrape_time': time.strftime('%Y-%m-%d %H:%M:%S'),
+                        'event_time': event_time
+                    }
+                    # 直接保存占位评论，确保顺序与一级数据一致
+                    self._save_single_comment(placeholder_comment)
                 
                 total_comments += len(comments)
                 

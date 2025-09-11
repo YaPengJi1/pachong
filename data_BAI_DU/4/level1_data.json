@@ -1,0 +1,492 @@
+{
+  "core_info": {
+    "core_event_name": "美国得州移民矛盾升级",
+    "update_time": "更新至2025年6月10日 14:21",
+    "sub_event_count": 63,
+    "scrape_time": "2025-09-11 16:29:13"
+  },
+  "sub_events": [
+    {
+      "id": "event_4",
+      "title": "美国得州首府爆发抗议活动,数百名示威者与警方发生冲突",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_14568604445744840678",
+      "time": "6月10日 14:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美国得州一机场附近爆炸起火",
+      "link": "https://quanmin.baidu.com/v/5093739224326414672",
+      "time": "2月12日 09:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "阻止移民越境 美得州建“浮墙”拦人",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=6477310157347234045",
+      "time": "1月22日 16:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "在美墨边境河流设“浮墙”阻挡非法移民越境 第一组已安装完成",
+      "link": "https://quanmin.baidu.com/v/4809830216881561071",
+      "time": "1月22日 15:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "美国得州一购物中心起火 超500只动物死亡",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=10155851390632621577",
+      "time": "1月6日 10:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "鸿海：美国得州新厂将组装人工智能服务器",
+      "link": "https://baijiahao.baidu.com/s?id=1816861027300624291&wfr=spider&for=pc",
+      "time": "2024年11月27日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "得州州长连发“反华”指令，中方回应",
+      "link": "https://baijiahao.baidu.com/s?id=1816554687409863617",
+      "time": "2024年11月24日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "得州州长连发“反华”指令，中国驻美使馆驳斥美政客污蔑抹黑",
+      "link": "https://baijiahao.baidu.com/s?id=1816464504637878518",
+      "time": "2024年11月23日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "美国得州将提供567公顷土地 支持特朗普建移民驱逐设施",
+      "link": "https://baijiahao.baidu.com/s?id=1816213044013243450",
+      "time": "2024年11月20日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "纽约市阻止得州运送移民，被美法官裁定违反宪法",
+      "link": "https://quanmin.baidu.com/v/5217182047587510347",
+      "time": "2024年11月10日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "画面曝光：非法移民翻边境墙进入美得州 向巡逻人员投掷石块水瓶",
+      "link": "https://baijiahao.baidu.com/s?id=1799916592113121754",
+      "time": "2024年5月24日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "美国党派纷争加剧 得州移民法律被叫停",
+      "link": "https://baijiahao.baidu.com/s?id=1794552497686044994",
+      "time": "2024年3月26日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "墨西哥反对美国得州“歧视性”移民法",
+      "link": "https://baijiahao.baidu.com/s?id=1794207473127143622",
+      "time": "2024年3月22日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "大批移民冲破铁丝网，试图越过美墨边境涌入美国",
+      "link": "https://quanmin.baidu.com/v/4641528066148827050",
+      "time": "2024年3月22日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "美最高法院裁定得州可实施允许警察逮捕非法移民法律",
+      "link": "https://baijiahao.baidu.com/s?id=1794014798038923534",
+      "time": "2024年3月20日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "美最高法院再次延长得州一项有关移民法律的暂停期限",
+      "link": "https://baijiahao.baidu.com/s?id=1793904633730864968",
+      "time": "2024年3月19日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "美国得州法官驳回多州政府对拜登移民计划提起的诉讼",
+      "link": "https://baijiahao.baidu.com/s?id=1793007535469148647",
+      "time": "2024年3月9日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_21",
+      "title": "美最高法院暂时阻止得州允许警察逮捕非法移民法律实施",
+      "link": "https://baijiahao.baidu.com/s?id=1792664250727407811",
+      "time": "2024年3月5日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_22",
+      "title": "特朗普与拜登同日访得州美墨边境",
+      "link": "https://baijiahao.baidu.com/s?id=1792304256021156087",
+      "time": "2024年3月1日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_23",
+      "title": "美国佐治亚州州长称将派遣国民警卫队支援得州阻止非法移民越境",
+      "link": "https://baijiahao.baidu.com/s?id=1790926950854752528",
+      "time": "2024年2月15日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_24",
+      "title": "美国得州一辆汽车撞进医院急诊部 造成至少1死5伤",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=275951270061445933",
+      "time": "2024年2月14日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_25",
+      "title": "一女性嫌疑人带着5岁男孩进教堂开枪，嫌疑人被击毙",
+      "link": "https://baijiahao.baidu.com/s?id=1790651070362595483",
+      "time": "2024年2月12日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_26",
+      "title": "得州州长轮椅上叫板拜登 美多位州长发誓反抗拜登政府",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=11971104739116184985",
+      "time": "2024年2月6日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_27",
+      "title": "得州“有权脱离美国”？黑利改口：不是在讨论分裂国家",
+      "link": "https://baijiahao.baidu.com/s?id=1790059462856889326&wfr=spider&for=pc",
+      "time": "2024年2月5日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_28",
+      "title": "美得州州长现身边境城市 指责拜登应对非法移民问题不力",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=1425475475705258171",
+      "time": "2024年2月5日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_29",
+      "title": "“夺回边境”车队前往得州集会，拜登边境法案或遇阻",
+      "link": "https://baijiahao.baidu.com/s?id=1790046210002927058",
+      "time": "2024年2月5日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_30",
+      "title": "得州州长批拜登助长非法入境 14个共和党籍州长齐聚美墨边境",
+      "link": "https://quanmin.baidu.com/v/8546378423320903479",
+      "time": "2024年2月5日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_31",
+      "title": "美国得州聚集大批抗议者",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=12383653127856700568",
+      "time": "2024年2月5日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_32",
+      "title": "佛州州长德桑蒂斯高调“出兵”支援得州:：彻底阻止非法移民",
+      "link": "https://quanmin.baidu.com/v/4629037891192319228",
+      "time": "2024年2月2日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_33",
+      "title": "美民间组织集结“70万人”“4万辆卡车”保卫得州边境？",
+      "link": "https://baijiahao.baidu.com/s?id=1789733084253863936",
+      "time": "2024年2月2日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_34",
+      "title": "美媒：共和党参选人黑利发表争议言论，称得州“有权脱离美国”",
+      "link": "https://baijiahao.baidu.com/s?id=1789707006376830902",
+      "time": "2024年2月1日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_35",
+      "title": "得州和美联邦政府对峙仍继续：爱国者表示自己正在失去这个国家",
+      "link": "https://quanmin.baidu.com/v/4673549852125633649",
+      "time": "2024年2月1日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_36",
+      "title": "美国得州“夺回边境”抗议活动即将展开，预计至少70万人参加",
+      "link": "https://baijiahao.baidu.com/s?id=1789613107370933119",
+      "time": "2024年1月31日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_37",
+      "title": "得州州长警告：如拜登“联邦化”得州国民警卫队，将犯下政治错误",
+      "link": "https://baijiahao.baidu.com/s?id=1789530781717185563",
+      "time": "2024年1月30日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_38",
+      "title": "侠客岛：得州为啥公开叫板白宫？",
+      "link": "https://baijiahao.baidu.com/s?id=1789516345319339536",
+      "time": "2024年1月30日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_39",
+      "title": "美国26州总检察长致函白宫，支持得州驱逐非法移民行动",
+      "link": "https://baijiahao.baidu.com/s?id=1789483470176900628",
+      "time": "2024年1月30日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_40",
+      "title": "美国得州副州长称将继续在美墨边境修建刀片刺网等屏障",
+      "link": "https://baijiahao.baidu.com/s?id=1789472863868112534",
+      "time": "2024年1月30日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_41",
+      "title": "得州“硬刚”联邦政府 美国会爆发“内战”吗？",
+      "link": "https://baijiahao.baidu.com/s?id=1789434514877096435",
+      "time": "2024年1月29日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_42",
+      "title": "得州州长叫板总统拜登获25名州长力挺，特朗普呼吁兵援得州",
+      "link": "https://baijiahao.baidu.com/s?id=1789434265252509612",
+      "time": "2024年1月29日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_43",
+      "title": "美国得州“硬刚”联邦政府为哪般",
+      "link": "https://baijiahao.baidu.com/s?id=1789434270516324520",
+      "time": "2024年1月29日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_44",
+      "title": "专家：武装对峙做法尚不构成违宪， 但引用“自卫权”不合适",
+      "link": "https://baijiahao.baidu.com/s?id=1789428170140941002",
+      "time": "2024年1月29日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_45",
+      "title": "美得州与联邦政府激烈冲突，党争极化中特朗普可能获利",
+      "link": "https://haokan.baidu.com/v?vid=7617197820185381836&backflow=1&pd=d_push&pagepd=d_push",
+      "time": "2024年1月29日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_46",
+      "title": "议员呼吁“红蓝州”进行“国家离婚”",
+      "link": "https://quanmin.baidu.com/v/4312791496564101125",
+      "time": "2024年1月29日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_47",
+      "title": "美国得州国民警卫队出动，大量装备被调动到美墨边境",
+      "link": "https://quanmin.baidu.com/v/5061757338665416804",
+      "time": "2024年1月29日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_48",
+      "title": "民间组织声称要“阻止非法移民”",
+      "link": "https://quanmin.baidu.com/v/5459536631724723835",
+      "time": "2024年1月29日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_49",
+      "title": "得州与美政府对峙如何影响大选",
+      "link": "https://baijiahao.baidu.com/s?id=1789387495090880838&wfr=spider&for=pc",
+      "time": "2024年1月29日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_50",
+      "title": "共和党公布针对国土安全部长弹劾指控",
+      "link": "https://baijiahao.baidu.com/s?id=1789382857008052876&wfr=spider&for=pc",
+      "time": "2024年1月29日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_51",
+      "title": "得州副州长回应“内战”警告拜登别惹得州：得州人有权保卫国家",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=5540315428434923355",
+      "time": "2024年1月29日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_52",
+      "title": "梅德韦杰夫：美国或将引发内战",
+      "link": "https://baijiahao.baidu.com/s?id=1789334741498472098",
+      "time": "2024年1月28日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_53",
+      "title": "25个共和党州长支持得克萨斯州",
+      "link": "https://baijiahao.baidu.com/s?id=1789304557918742371&wfr=spider&for=pc",
+      "time": "2024年1月28日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_54",
+      "title": "得州与美政府因移民问题武装对峙升级 特朗普：赞赏得州的做法",
+      "link": "https://baijiahao.baidu.com/s?id=1789303769136730630",
+      "time": "2024年1月28日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_55",
+      "title": "美国政府5天内逮捕5万名非法移民：单日逮捕人数三次过万",
+      "link": "https://baijiahao.baidu.com/s?id=1786218959671876566&wfr=spider&for=pc",
+      "time": "2023年12月25日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_56",
+      "title": "美国得州州长签署法案 将移民非法入境定为犯罪",
+      "link": "https://baijiahao.baidu.com/s?id=1785669810939462944&wfr=spider&for=pc",
+      "time": "2023年12月19日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_57",
+      "title": "得州阻挡移民遭司法部起诉  得州州长和拜登政府处于对峙状态",
+      "link": "https://baijiahao.baidu.com/s?id=1772401482475203430&wfr=spider&for=pc",
+      "time": "2023年7月25日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_58",
+      "title": "得州州长宣布将在美墨界河放浮标屏障，阻拦非法移民",
+      "link": "https://baijiahao.baidu.com/s?id=1768400531852588480&wfr=spider&for=pc",
+      "time": "2023年6月11日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_59",
+      "title": "美墨边境爆发非法移民潮，数百人渡河涌入美国",
+      "link": "https://baijiahao.baidu.com/s?id=1738380275507344167&wfr=spider&for=pc",
+      "time": "2022年7月15日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_60",
+      "title": "美国移民惨案细节披露：现场警察绝望求援，称“太多遗体要处理”",
+      "link": "https://baijiahao.baidu.com/s?id=1737130918603979331&wfr=spider&for=pc",
+      "time": "2022年7月1日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_61",
+      "title": "移民惨案的卡车司机试图冒充受害者逃跑，或面临死刑",
+      "link": "https://baijiahao.baidu.com/s?id=1737100462754428924&wfr=spider&for=pc",
+      "time": "2022年7月1日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_62",
+      "title": "美国得州货车惨案4名涉案者被起诉",
+      "link": "https://baijiahao.baidu.com/s?id=1737077425736530788&wfr=spider&for=pc",
+      "time": "2022年7月1日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_63",
+      "title": "美国移民惨案死亡人数升至53人",
+      "link": "https://baijiahao.baidu.com/s?id=1737023964930907187",
+      "time": "2022年6月30日",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 60,
+  "scrape_time": "2025-09-11 16:29:26"
+}

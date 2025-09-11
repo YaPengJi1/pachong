@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "2025联合国中文日活动",
+    "update_time": "更新至20250501",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-11 17:40:54"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "驻日本大使吴江浩出席2025年国际中文日活动",
+      "link": "http://m.thepaper.cn/newsDetail_forward_30757272",
+      "time": "5月1日 09:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "2025世界数字教育大会官网上线",
+      "link": "http://finance.sina.cn/2025-04-29/detail-ineuvakc5246544.d.html",
+      "time": "4月29日 11:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "联合国中文日系列活动举办“二十四节气古诗词赏读”主旨演讲",
+      "link": "http://ent.people.com.cn/n1/2025/0423/c1012-40466617.html",
+      "time": "4月23日 16:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "驻温哥华总领事杨舒出席总领馆举办的“国际中文日”庆祝活动",
+      "link": "http://www.mfa.gov.cn/web/wjdt_674879/zwbd_674895/202504/t20250422_11601278.shtml",
+      "time": "4月21日 11:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "“魅力中文”——中央广播电视总台2025联合国中文日海外人士交流会圆满举行",
+      "link": "http://news.cri.cn/2025-04-20/8b505968-8cee-e506-b902-ce75141aebbd.html",
+      "time": "4月20日 19:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "加拿大温哥华举办2025“国际中文日”活动",
+      "link": "http://cj.sina.com.cn/articles/view/1784473157/6a5ce645020036ooe",
+      "time": "4月20日 19:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "中国外交部 祝贺联合国中文日迎来第16个年头",
+      "link": "http://tv.cctv.com/2025/04/19/VIDE5LjOh70rzOQCGOvZDQzM250419.shtml",
+      "time": "4月19日 09:39",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-11 17:41:09"
+}

@@ -17,12 +17,12 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 class DataManager:
-    def __init__(self):
-        self.data_dir = 'data'
-        self.level1_file = 'data/level1_data.json'
-        self.level2_file = 'data/level2_data.json'
-        self.combined_file = 'data/combined_data.json'
-        self.csv_file = 'data/comments_data.csv'
+    def __init__(self, output_dir: str = 'data'):
+        self.data_dir = output_dir or 'data'
+        self.level1_file = os.path.join(self.data_dir, 'level1_data.json')
+        self.level2_file = os.path.join(self.data_dir, 'level2_data.json')
+        self.combined_file = os.path.join(self.data_dir, 'combined_data.json')
+        self.csv_file = os.path.join(self.data_dir, 'comments_data.csv')
         self._ensure_data_dir()
     
     def _ensure_data_dir(self):

@@ -1,0 +1,196 @@
+{
+  "core_info": {
+    "core_event_name": "南京10元咖啡阿姨爆火",
+    "update_time": "更新至2025年5月11日 12:48",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-11 19:38:14"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "阿姨现状：拒绝10多家商业合作，独自守店不愿麻烦女儿",
+      "link": "https://baijiahao.baidu.com/s?id=1831798265062524854&wfr=spider&for=pc",
+      "time": "5月11日 12:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "南京咖啡阿姨坦然面对流量下跌：做生意靠的是真诚待人",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_3820453464571959028&sourceFrom=qmj",
+      "time": "2024年6月26日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "南京咖啡阿姨回应网传20多天赚几百万：胡说八道",
+      "link": "https://baijiahao.baidu.com/s?id=1801706717452754177",
+      "time": "2024年6月13日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "南京咖啡阿姨回应“凉了”：天下没有不散的筵席",
+      "link": "https://baijiahao.baidu.com/s?id=1801644415565527453&wfr=spider&for=pc",
+      "time": "2024年6月12日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "南京10元“手冲咖啡”阿姨店门前摆满寻亲小卡片",
+      "link": "https://baijiahao.baidu.com/s?id=1800840965561987364&wfr=spider&for=pc",
+      "time": "2024年6月3日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "宝贝回家创始人回应咖啡阿姨：非常敬佩",
+      "link": "https://haokan.baidu.com/v?vid=4470470436757966314&backflow=1&pd=d_push&pagepd=d_push",
+      "time": "2024年6月2日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "南京咖啡阿姨想趁热度帮寻亲",
+      "link": "https://haokan.baidu.com/v?vid=4754329884780508642&backflow=1&pd=d_push&pagepd=d_push",
+      "time": "2024年5月30日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "媒体评：围观南京咖啡阿姨48小时，“这能火真是太抽象了”",
+      "link": "https://baijiahao.baidu.com/s?id=1800383419104374813",
+      "time": "2024年5月29日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "南京10元咖啡阿姨辣评40元咖啡：不好喝",
+      "link": "https://weibo.com/1639498782/Og2OYsXzV",
+      "time": "2024年5月26日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "10元咖啡阿姨去了光良演唱会",
+      "link": "https://quanmin.baidu.com/sv?source=share-h5&pd=qm_share_search&vid=18002683945341708325",
+      "time": "2024年5月26日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "10元咖啡阿姨回应网上负面评论",
+      "link": "https://weibo.com/5145725878/OfO3CBLN2",
+      "time": "2024年5月24日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "歌手光良邀请阿姨免费去看演唱会",
+      "link": "https://quanmin.baidu.com/sv?source=share-h5&pd=qm_share_search&vid=4564847627000093769",
+      "time": "2024年5月24日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "10元咖啡阿姨女儿称不想蹭妈妈热度",
+      "link": "https://weibo.com/1653603955/OfCPAjzpT",
+      "time": "2024年5月23日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "南京十元咖啡阿姨店面“大升级”",
+      "link": "https://quanmin.baidu.com/v/8703274476954625318",
+      "time": "2024年5月23日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "“10元咖啡阿姨”开账号直播：担心网友被伪装账号欺骗，不带货",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=4349040461856731666",
+      "time": "2024年5月23日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "“10元咖啡阿姨”爆火：理性审视打卡热潮，避免盲目过度批判",
+      "link": "https://baijiahao.baidu.com/s?id=1799719638357331951",
+      "time": "2024年5月22日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "媒体评10元咖啡火出圈：货真价实就能打动人心",
+      "link": "https://baijiahao.baidu.com/s?id=1799574653363593198",
+      "time": "2024年5月20日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "10元手冲咖啡阿姨爆火，忙到晚上八点都没吃饭,称身体吃不消了",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=5271863990788460256",
+      "time": "2024年5月20日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "南京10元咖啡阿姨回应赚不赚钱：虽然赚得少 我卖得多",
+      "link": "https://weibo.com/3203137375/Of8bxlz7C",
+      "time": "2024年5月20日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "南京阿姨10元手冲咖啡爆火引网友打卡 却遭顾客逃单",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=4035805665503137269",
+      "time": "2024年5月20日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_21",
+      "title": "雀巢上架同款咖啡并称会和阿姨洽谈合作",
+      "link": "https://baijiahao.baidu.com/s?id=1799474208653389319",
+      "time": "2024年5月19日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_22",
+      "title": "阿姨回应爆火：该怎么做还是怎么做",
+      "link": "https://quanmin.baidu.com/v/5599025638367556344",
+      "time": "2024年5月19日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_23",
+      "title": "阿姨卖10元一杯“纯手工”咖啡“走红”",
+      "link": "https://quanmin.baidu.com/sv?source=share-h5&pd=qm_share_search&vid=9749107567867850917",
+      "time": "2024年5月19日",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 23,
+  "scrape_time": "2025-09-11 19:38:28"
+}

@@ -12,12 +12,17 @@ import time
 import re
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service as ChromeService
+from selenium.webdriver.edge.options import Options as EdgeOptions
+from selenium.webdriver.edge.service import Service as EdgeService
+import os
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import logging
 import os
 from level2_scraper import Level2Scraper
+from data_manager import DataManager
 
 # 配置日志
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -58,11 +63,52 @@ class Level1Scraper:
             chrome_options.add_argument('--window-size=1920,1080')
             chrome_options.add_argument('--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36')
             
-            # 尝试初始化WebDriver
-            logger.info("正在初始化Chrome WebDriver...")
-            self.driver = webdriver.Chrome(options=chrome_options)
-            self.driver.set_page_load_timeout(30)
-            logger.info("Selenium WebDriver 初始化成功")
+            # 优先尝试：Selenium Manager（不下载第三方依赖）
+            try:
+                logger.info("正在初始化Chrome（Selenium Manager）...")
+                self.driver = webdriver.Chrome(options=chrome_options)
+                self.driver.set_page_load_timeout(30)
+                logger.info("Selenium WebDriver 初始化成功 (Chrome)")
+                return
+            except Exception as e1:
+                logger.warning(f"Chrome (Selenium Manager) 初始化失败: {e1}")
+
+            # 备用方案：本地驱动（不进行网络下载）
+            try:
+                logger.info("尝试使用本地chromedriver（跳过网络下载）...")
+                os.environ['WDM_LOCAL'] = '1'  # 禁止webdriver-manager联网下载，若无本地缓存将快速失败
+                chromedriver_path = os.environ.get('CHROMEDRIVER_PATH', '')
+                if chromedriver_path and os.path.exists(chromedriver_path):
+                    logger.info(f"使用环境变量CHROMEDRIVER_PATH: {chromedriver_path}")
+                    self.driver = webdriver.Chrome(service=ChromeService(chromedriver_path), options=chrome_options)
+                    self.driver.set_page_load_timeout(30)
+                    logger.info("Selenium WebDriver 初始化成功 (本地chromedriver)")
+                    return
+            except Exception as e2:
+                logger.warning(f"本地chromedriver 初始化失败: {e2}")
+
+            # 最后备用：Microsoft Edge（Windows更易可用）
+            try:
+                logger.info("尝试使用Edge WebDriver 初始化...")
+                edge_options = EdgeOptions()
+                edge_options.use_chromium = True
+                edge_options.add_argument('--headless')
+                edge_options.add_argument('--no-sandbox')
+                edge_options.add_argument('--disable-dev-shm-usage')
+                edge_options.add_argument('--disable-gpu')
+                edge_options.add_argument('--disable-extensions')
+                edge_options.add_argument('--disable-logging')
+                edge_options.add_argument('--disable-web-security')
+                edge_options.add_argument('--window-size=1920,1080')
+                self.driver = webdriver.Edge(options=edge_options)
+                self.driver.set_page_load_timeout(30)
+                logger.info("Selenium WebDriver 初始化成功 (Edge)")
+                return
+            except Exception as e3:
+                logger.error(f"Edge 初始化失败: {e3}")
+
+            # 全部失败
+            raise RuntimeError("无法初始化任何浏览器驱动。请安装 Chrome/Edge 或提供 CHROMEDRIVER_PATH。")
         except Exception as e:
             logger.error(f"Selenium WebDriver 初始化失败: {e}")
             logger.error("请确保已安装Chrome浏览器和ChromeDriver")
@@ -154,38 +200,63 @@ class Level1Scraper:
             # 等待初始内容加载
             time.sleep(3)
             
-            # 优化的滚动策略以加载所有164个事件
+            # 动态加载：循环滚动 + 点击“加载更多”，直到元素数量稳定
             logger.info("正在滚动页面以加载更多内容...")
-            
-            # 先点击一次时间排序按钮（只点击一次）
-            try:
-                time_order_btn = self.driver.find_element(By.CSS_SELECTOR, ".btn-order")
-                if time_order_btn.is_displayed():
-                    logger.info("点击时间排序按钮...")
-                    self.driver.execute_script("arguments[0].click();", time_order_btn)
-                    time.sleep(3)
-            except:
-                pass
-            
-            # 滚动加载内容
-            for i in range(15):  # 减少滚动次数
-                self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-                time.sleep(2)  # 增加等待时间确保内容加载
-                
-                # 检查是否有"加载更多"按钮（排除时间排序按钮）
+            stable_loops = 0
+            last_count = -1
+            max_loops = 80
+
+            def query_item_count():
                 try:
-                    load_buttons = self.driver.find_elements(By.CSS_SELECTOR, "button, .load-more, .more-btn, [class*='load'], [class*='more']")
+                    return int(self.driver.execute_script(
+                        "return document.querySelectorAll(`div.item, div[class*=item], div[class*=event], li[class*=item], li[class*=event], .timeline-item, .event-item`).length;")
+                    )
+                except Exception:
+                    return 0
+
+            # 若页面提供总数，作为退出参考
+            declared_total = 0
+            try:
+                declared_total = int(self.core_info.get('sub_event_count', 0))
+            except Exception:
+                declared_total = 0
+
+            for i in range(max_loops):
+                self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+                time.sleep(1.5)
+
+                # 尝试点击“加载更多/展开”
+                try:
+                    load_buttons = self.driver.find_elements(By.XPATH, "//button[contains(., '加载') or contains(., '更多') or contains(translate(., 'MORE', 'more'), 'more') or contains(translate(., 'LOAD', 'load'), 'load')] | //*[(contains(@class, 'load') or contains(@class, 'more')) and self::button] | //a[contains(., '加载') or contains(., '更多')]")
+                    clicked = False
                     for btn in load_buttons:
-                        if btn.is_displayed() and ('加载' in btn.text or '更多' in btn.text or 'load' in btn.text.lower() or 'more' in btn.text.lower()):
-                            logger.info(f"发现加载按钮: {btn.text}")
-                            self.driver.execute_script("arguments[0].click();", btn)
-                            time.sleep(3)
-                            break
-                except:
+                        if btn.is_displayed() and btn.is_enabled():
+                            try:
+                                self.driver.execute_script("arguments[0].click();", btn)
+                                clicked = True
+                                time.sleep(2)
+                            except Exception:
+                                continue
+                    if clicked:
+                        time.sleep(1)
+                except Exception:
                     pass
-            
+
+                count_now = query_item_count()
+                logger.debug(f"加载循环 {i+1}: 当前事件项 {count_now}")
+
+                if count_now == last_count:
+                    stable_loops += 1
+                else:
+                    stable_loops = 0
+                last_count = count_now
+
+                # 退出条件：稳定多次或达到声明总数
+                if (declared_total and count_now >= declared_total) or stable_loops >= 5:
+                    break
+
             # 最后等待一下确保所有内容加载完成
-            time.sleep(5)
+            time.sleep(2)
             
             soup = BeautifulSoup(self.driver.page_source, 'html.parser')
             
@@ -198,22 +269,26 @@ class Level1Scraper:
                 'li[class*="item"]',
                 'li[class*="event"]',
                 '.timeline-item',
-                '.event-item'
+                '.event-item',
+                'section[class*="item"]',
             ]
-            
             for selector in selectors:
                 items = soup.select(selector)
-                if len(items) > len(event_items):
+                if items and len(items) > len(event_items):
                     event_items = items
                     logger.info(f"使用选择器 '{selector}' 找到 {len(items)} 个事件项")
             
             logger.info(f"最终找到 {len(event_items)} 个事件项")
             
+            seen_keys = set()
             for i, item in enumerate(event_items):
                 try:
                     sub_event = self._extract_event_from_item(item, i+1)
                     if sub_event:
-                        self.sub_events.append(sub_event)
+                        key = (sub_event.get('title', ''), sub_event.get('time', ''))
+                        if key not in seen_keys:
+                            seen_keys.add(key)
+                            self.sub_events.append(sub_event)
                 except Exception as e:
                     logger.warning(f"解析事件项 {i+1} 失败: {e}")
                     continue
@@ -289,13 +364,17 @@ class Level1Scraper:
         except Exception as e:
             logger.error(f"保存数据失败: {e}")
     
-    def start_level2_scraping(self):
+    def start_level2_scraping(self, output_dir: str = None, csv_output_file: str = None):
         """启动二级评论爬取"""
         logger.info("开始启动二级评论爬取...")
         
         try:
             # 创建二级爬虫实例
-            level2_scraper = Level2Scraper(self.core_info.get('core_event_name', ''))
+            level2_scraper = Level2Scraper(
+                self.core_info.get('core_event_name', ''),
+                output_dir=output_dir,
+                csv_output_file=csv_output_file
+            )
             
             # 开始爬取评论
             total_comments = level2_scraper.scrape_all_comments(self.sub_events)
@@ -306,6 +385,13 @@ class Level1Scraper:
             # 关闭资源
             level2_scraper.close()
             
+            # 生成合并数据到同一目录
+            try:
+                dm = DataManager(output_dir or 'data')
+                dm.combine_data()
+            except Exception as _:
+                logger.warning("合并数据失败，但不影响主流程")
+
             logger.info(f"二级评论爬取完成，共获取 {total_comments} 条评论")
             return total_comments
             
@@ -343,6 +429,7 @@ class Level1Scraper:
 
 def main():
     """主函数"""
+    # 可替换为其他核心事件页面URL
     target_url = "https://events.baidu.com/search/vein?platform=pc&record_id=648521&query=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89%E6%9A%A8%E4%B8%96%E7%95%8C%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF%E6%88%98%E4%BA%89%E8%83%9C%E5%88%A980%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E6%97%A5&srcid=50367"
     
     scraper = Level1Scraper()
@@ -362,19 +449,13 @@ def main():
                 # 显示摘要
                 scraper.print_summary()
                 
-                # 询问是否继续爬取评论
-                print(f"\n🤔 是否开始爬取评论？(y/n): ", end="")
-                user_input = input().strip().lower()
-                
-                if user_input in ['y', 'yes', '是', '']:
-                    print(f"\n🚀 开始爬取评论...")
-                    total_comments = scraper.start_level2_scraping()
-                    print(f"\n🎉 完整爬取完成！")
-                    print(f"📊 总评论数: {total_comments}")
-                    print(f"📄 JSON文件: data/level2_data.json")
-                    print(f"📊 Excel文件: data/{scraper._sanitize_filename(scraper.core_info['core_event_name'])}_评论数据.xlsx")
-                else:
-                    print(f"\n⏸️ 跳过评论爬取")
+                # 自动启动二级爬取（去除交互）
+                print(f"\n🚀 开始爬取评论...")
+                total_comments = scraper.start_level2_scraping()
+                print(f"\n🎉 完整爬取完成！")
+                print(f"📊 总评论数: {total_comments}")
+                print(f"📄 JSON文件: data/level2_data.json")
+                print(f"📊 Excel文件: data/{scraper._sanitize_filename(scraper.core_info['core_event_name'])}_评论数据.xlsx")
             else:
                 print("❌ 子事件爬取失败")
         else:

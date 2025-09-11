@@ -1,0 +1,272 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-11 20:48:42"
+  },
+  "core_event": {
+    "core_event_name": "韩国第一夫人金建希收受名牌包事件",
+    "update_time": "更新至2025年8月12日 23:08",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-11 20:45:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "涉嫌操纵股价和收受奢侈品包 韩第一夫人遭传唤调查12个小时",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=6717149463936942401",
+      "time": "2024年7月21日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "韩国检察总长：会继续查“第一夫人”金建希收受名牌包一事",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=13569879551245494719",
+      "time": "2024年6月13日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "“收名牌包”丑闻过关，韩“第一夫人”拎环保袋出访又挨批",
+      "link": "https://baijiahao.baidu.com/s?id=1801607201387252316",
+      "time": "2024年6月12日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "韩反腐机构认定总统夫人收名牌包“不违规”",
+      "link": "https://baijiahao.baidu.com/s?id=1801534852221479912&wfr=spider&for=pc",
+      "time": "2024年6月11日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "专案组组建仅10天 韩负责侦办金建希“收包案”检察长换人",
+      "link": "https://baijiahao.baidu.com/s?id=1798992913191103235",
+      "time": "2024年5月14日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "给韩总统夫人送包牧师到案受讯：还有别人排长队行贿",
+      "link": "https://baijiahao.baidu.com/s?id=1798952082191434165&wfr=spider&for=pc",
+      "time": "2024年5月13日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "韩检察总长下令成立专门调查组，调查“第一夫人”收受名牌包事件",
+      "link": "https://quanmin.baidu.com/v/4787573481654668310",
+      "time": "2024年5月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "尹锡悦首次回应夫人收包：妻子“不够冷漠无情”，没有断然拒绝",
+      "link": "https://baijiahao.baidu.com/s?id=1790375568014706975&wfr=spider&for=pc",
+      "time": "2024年2月9日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "“第一夫人”收名牌包被拍，尹锡悦和“心腹”韩东勋闹掰",
+      "link": "https://baijiahao.baidu.com/s?id=1788860296447306790&wfr=spider&for=pc",
+      "time": "2024年1月23日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "韩国总统夫人涉嫌收受名牌包引发民众不满",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=14766422870379667858",
+      "time": "2024年1月22日",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "涉嫌操纵股价和收受奢侈品包 韩第一夫人遭传唤调查12个小时",
+      "event_id": "event_1",
+      "event_url": "https://haokan.baidu.com/v?pd=wisenatural&vid=6717149463936942401",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-11 20:46:03",
+      "event_time": "2024年7月21日"
+    },
+    {
+      "event_title": "韩国检察总长：会继续查“第一夫人”金建希收受名牌包一事",
+      "event_id": "event_2",
+      "event_url": "https://haokan.baidu.com/v?pd=wisenatural&vid=13569879551245494719",
+      "comment_index": 1,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "评论0表情0/500回复",
+      "user_location": "表情0/500回复",
+      "like_count": 0,
+      "scrape_time": "2025-09-11 20:46:23",
+      "event_time": "2024年6月13日"
+    },
+    {
+      "event_title": "韩国检察总长：会继续查“第一夫人”金建希收受名牌包一事",
+      "event_id": "event_2",
+      "event_url": "https://haokan.baidu.com/v?pd=wisenatural&vid=13569879551245494719",
+      "comment_index": 6,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "表情0/500回复",
+      "user_location": "表情0/500回复",
+      "like_count": 0,
+      "scrape_time": "2025-09-11 20:46:23",
+      "event_time": "2024年6月13日"
+    },
+    {
+      "event_title": "“收名牌包”丑闻过关，韩“第一夫人”拎环保袋出访又挨批",
+      "event_id": "event_3",
+      "event_url": "https://baijiahao.baidu.com/s?id=1801607201387252316",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-11 20:46:41",
+      "event_time": "2024年6月12日"
+    },
+    {
+      "event_title": "韩反腐机构认定总统夫人收名牌包“不违规”",
+      "event_id": "event_4",
+      "event_url": "https://baijiahao.baidu.com/s?id=1801534852221479912&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-11 20:46:57",
+      "event_time": "2024年6月11日"
+    },
+    {
+      "event_title": "专案组组建仅10天 韩负责侦办金建希“收包案”检察长换人",
+      "event_id": "event_5",
+      "event_url": "https://baijiahao.baidu.com/s?id=1798992913191103235",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-11 20:47:12",
+      "event_time": "2024年5月14日"
+    },
+    {
+      "event_title": "给韩总统夫人送包牧师到案受讯：还有别人排长队行贿",
+      "event_id": "event_6",
+      "event_url": "https://baijiahao.baidu.com/s?id=1798952082191434165&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-11 20:47:28",
+      "event_time": "2024年5月13日"
+    },
+    {
+      "event_title": "韩检察总长下令成立专门调查组，调查“第一夫人”收受名牌包事件",
+      "event_id": "event_7",
+      "event_url": "https://quanmin.baidu.com/v/4787573481654668310",
+      "comment_index": 1,
+      "user_id": "等风来Kgw",
+      "comment_time": "2024-05-04",
+      "comment_content": "等风来Kgw2024-05-04云南举报回复3",
+      "user_location": "云南",
+      "like_count": 3,
+      "scrape_time": "2025-09-11 20:47:46",
+      "event_time": "2024年5月4日"
+    },
+    {
+      "event_title": "韩检察总长下令成立专门调查组，调查“第一夫人”收受名牌包事件",
+      "event_id": "event_7",
+      "event_url": "https://quanmin.baidu.com/v/4787573481654668310",
+      "comment_index": 2,
+      "user_id": "松若雁3c",
+      "comment_time": "2024-05-04",
+      "comment_content": "生命不息，反腐倡廉！",
+      "user_location": "陕西",
+      "like_count": 46,
+      "scrape_time": "2025-09-11 20:47:46",
+      "event_time": "2024年5月4日"
+    },
+    {
+      "event_title": "尹锡悦首次回应夫人收包：妻子“不够冷漠无情”，没有断然拒绝",
+      "event_id": "event_8",
+      "event_url": "https://baijiahao.baidu.com/s?id=1790375568014706975&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-11 20:48:02",
+      "event_time": "2024年2月9日"
+    },
+    {
+      "event_title": "“第一夫人”收名牌包被拍，尹锡悦和“心腹”韩东勋闹掰",
+      "event_id": "event_9",
+      "event_url": "https://baijiahao.baidu.com/s?id=1788860296447306790&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-11 20:48:19",
+      "event_time": "2024年1月23日"
+    },
+    {
+      "event_title": "韩国总统夫人涉嫌收受名牌包引发民众不满",
+      "event_id": "event_10",
+      "event_url": "https://haokan.baidu.com/v?pd=wisenatural&vid=14766422870379667858",
+      "comment_index": 1,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "评论0表情0/500回复",
+      "user_location": "表情0/500回复",
+      "like_count": 0,
+      "scrape_time": "2025-09-11 20:48:37"
+    },
+    {
+      "event_title": "韩国总统夫人涉嫌收受名牌包引发民众不满",
+      "event_id": "event_10",
+      "event_url": "https://haokan.baidu.com/v?pd=wisenatural&vid=14766422870379667858",
+      "comment_index": 6,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "表情0/500回复",
+      "user_location": "表情0/500回复",
+      "like_count": 0,
+      "scrape_time": "2025-09-11 20:48:37"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 10,
+    "total_comments": 13,
+    "events_with_comments": 10,
+    "level1_scrape_time": "2025-09-11 20:45:44",
+    "level2_scrape_time": "2025-09-11 20:48:37"
+  }
+}
