@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "苹果可折叠iPhone发布",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:19:27"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "首款折叠iPhone被曝采用真全面屏设计,Siri AI搜索或明年推出",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infphyzp1927411.d.html",
+      "time": "9月4日 12:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "苹果首款可折叠iPhone将于2026年上市,2028年将发布折叠iPad",
+      "link": "http://baijiahao.baidu.com/s?id=1842233784825799920&wfr=spider&for=pc",
+      "time": "9月3日 17:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "郭明錤称折叠屏iPhone无缘屏下指纹,或采用侧边Touch ID",
+      "link": "http://baijiahao.baidu.com/s?id=1842031990025381135&wfr=spider&for=pc",
+      "time": "9月1日 11:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "2026年折叠iPhone将发布,配置强价格或破万",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12653739803730470021",
+      "time": "8月31日 01:49",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 17:19:41"
+}

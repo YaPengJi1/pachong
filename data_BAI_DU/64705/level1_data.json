@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普下令美军袭击一艘运毒船",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:16:37"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普凌晨时分一声令下,美军向“委内瑞拉运毒船”猛烈开火",
+      "link": "http://cj.sina.com.cn/articles/view/7295511708/1b2d8ac9c0200169li",
+      "time": "9月7日 11:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特朗普一声令下,美军向委内瑞拉船只猛烈开火,加勒比海全速升温",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11394051530609574457",
+      "time": "9月5日 11:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普炫耀美军在加勒比海真实打死11人",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpkany3149589.d.html",
+      "time": "9月5日 00:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美军开火了,精确扫射打死11人:委内瑞拉出动中国C-802A反舰导弹",
+      "link": "http://cj.sina.com.cn/articles/view/7295052889/1b2d1ac590200187bk",
+      "time": "9月3日 15:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "特朗普下令美军在公海袭击一艘“运毒船”打死11人",
+      "link": "http://baijiahao.baidu.com/s?id=1842243087503145985&wfr=spider&for=pc",
+      "time": "9月3日 13:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "凌晨!特朗普重大宣布!美军发动袭击",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5575629538371661018",
+      "time": "9月3日 12:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "特朗普称美军袭击委内瑞拉运毒船打死11人,委通讯部长:这是AI视频",
+      "link": "http://www.jiemian.com/article/13296327.html",
+      "time": "9月3日 12:01",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-13 01:16:52"
+}

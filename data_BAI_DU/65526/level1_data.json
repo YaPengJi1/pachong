@@ -1,0 +1,108 @@
+{
+  "core_info": {
+    "core_event_name": "九三阅兵新一代武器装备亮相",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:21:22"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "新一代主战坦克惊艳亮相",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13591441237066088410",
+      "time": "9月6日 14:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "新一代装甲装备震撼亮相!九三阅兵中的钢铁洪流,战力全面升级",
+      "link": "http://mil.huanqiu.com/article/4OCaI201sYr",
+      "time": "9月5日 18:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "阅兵场上惊现“土豪金”!这一装备到底是啥?",
+      "link": "http://news.southcn.com/node_179d29f1ce/748c8919ba.shtml",
+      "time": "9月5日 12:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "九三阅兵中的钢铁洪流升级了",
+      "link": "http://cj.sina.com.cn/articles/view/1645705403/v621778bb02001etga",
+      "time": "9月5日 10:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "九三阅兵中的钢铁洪流实现了哪些升级?",
+      "link": "http://baijiahao.baidu.com/s?id=1842385524357362012&wfr=spider&for=pc",
+      "time": "9月5日 09:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "尖端武器集中亮相,解密阅兵新锐装备→",
+      "link": "http://finance.sina.com.cn/jjxw/2025-09-05/doc-infpktkv8069565.shtml",
+      "time": "9月5日 06:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "探秘阅兵新锐装备 看细节看门道 轰六家族集体亮相 远程打击战略铁拳",
+      "link": "http://tv.cctv.com/2025/09/05/VIDEC0rNlU861boqQ1MIlQzY250905.shtml",
+      "time": "9月5日 00:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "阅兵“同款”装备,你也能用上!网友:一切可期!🤩",
+      "link": "http://www.xhby.net/content/s68b98e28e4b063f4f54f71c1.html",
+      "time": "9月4日 21:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "九三阅兵,新一代武器装备震撼亮相",
+      "link": "http://www.163.com/dy/article/K8JT1DHM05504DOQ.html",
+      "time": "9月4日 10:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "九三阅兵，新一代武器装备震撼亮相",
+      "link": "http://mil.huanqiu.com/article/4OBDqYjokSw",
+      "time": "9月4日 06:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "九三阅兵硬核装备刷屏",
+      "link": "http://www.163.com/dy/article/K8JEF3G80556EO86.html",
+      "time": "9月4日 06:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "第四代“离谱坦克”亮相9.3阅兵,使用新能源?设计单位太超前了",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16328020627537781446",
+      "time": "9月3日 15:22",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 12,
+  "scrape_time": "2025-09-13 01:21:36"
+}

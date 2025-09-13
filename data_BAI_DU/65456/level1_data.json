@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "2025年河南省成人高招报名启动",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:15:47"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "广西2025年成人高考网上报名9月10日至17日进行",
+      "link": "http://cj.sina.com.cn/articles/view/3767561485/e0906d0d019018n66",
+      "time": "9月8日 15:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "河南成人高考今起报名!考试时间公布",
+      "link": "http://news.dahe.cn/2025/09-04/1988580.html",
+      "time": "9月4日 08:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "2025年河南省成人高招报名9月4日启动",
+      "link": "http://baijiahao.baidu.com/s?id=1842285416876442868&wfr=spider&for=pc",
+      "time": "9月3日 16:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "2025年河南省成人高招报名明日启动",
+      "link": "http://baijiahao.baidu.com/s?id=1842209144353709191&wfr=spider&for=pc",
+      "time": "9月3日 10:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "2025年河南省新乡市成人高考报名入口已开通",
+      "link": "http://www.eol.cn/chengkao/c/20250903103440.html",
+      "time": "9月3日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "2025年河南省平顶山市成人高考报名入口已开通",
+      "link": "http://www.eol.cn/chengkao/c/20250903102446.html",
+      "time": "9月3日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "河南成人高考9月4日启动网上报名",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-13 00:16:01"
+}

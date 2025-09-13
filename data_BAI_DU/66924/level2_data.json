@@ -1,0 +1,59 @@
+{
+  "core_event_name": "石破茂辞职加剧财政宽松担忧",
+  "comments": [
+    {
+      "event_title": "石破茂宣布辞职，日元日债再遭抛售",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250908V085GH00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:07:42",
+      "event_time": "9月8日 20:01"
+    },
+    {
+      "event_title": "石破茂辞职!汇率大贬值,股市大跌",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8V1MSPR055616YC.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:07:44",
+      "event_time": "9月8日 18:18"
+    },
+    {
+      "event_title": "石破茂辞职加剧财政宽松担忧 日本长债遭大幅抛售",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842685682212972376&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:08:01",
+      "event_time": "9月8日 17:00"
+    },
+    {
+      "event_title": "石破茂宣布辞职,外交部回应",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842683741068424256&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:08:17",
+      "event_time": "9月8日 16:28"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 10:08:17"
+}

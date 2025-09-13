@@ -1,0 +1,185 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:38:46"
+  },
+  "core_event": {
+    "core_event_name": "普京回应26国将派兵入乌",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:37:57"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "26国联军将进驻乌克兰，就等美国批准，普京动真格了",
+      "link": "http://baijiahao.baidu.com/s?id=1842751530846462390&wfr=spider&for=pc",
+      "time": "9月9日 10:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "普京放话谈不成就打，欧洲26国决定派兵入乌",
+      "link": "http://new.qq.com/rain/a/20250905A068SR00",
+      "time": "9月8日 19:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "26国将派兵基辅?普京迎来外援,局势变成26对2",
+      "link": "http://www.163.com/dy/article/K8RFQGM205563DEM.html",
+      "time": "9月7日 09:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "普京回应欧洲26国向乌派遣部队威胁",
+      "link": "http://www.163.com/dy/article/K8O71IDC0534BZ9P.html",
+      "time": "9月6日 18:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "26国将向乌克兰派“保障部队”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11447363820236812019",
+      "time": "9月6日 15:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "欧洲26国随时出兵，普京放狠话，来一个打一个",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2907489734479686118",
+      "time": "9月6日 15:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "普京备好了鸿门宴,放话谈不成就打,26国派兵入乌,局势一触即发",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3602991662889141447",
+      "time": "9月5日 17:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "26国联军将进驻乌克兰，就等美国批准，普京动真格了",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842751530846462390&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "国欢之3",
+      "comment_time": "09-09 16:12",
+      "comment_content": "国欢之309-09 16:12贵州举报回复赞",
+      "user_location": "贵州",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:30",
+      "event_time": "9月9日 10:26"
+    },
+    {
+      "event_title": "26国联军将进驻乌克兰，就等美国批准，普京动真格了",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842751530846462390&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "顺其自然lume",
+      "comment_time": "09-09 19:50",
+      "comment_content": "法英就是欠揍。",
+      "user_location": "山东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:30",
+      "event_time": "9月9日 10:26"
+    },
+    {
+      "event_title": "普京放话谈不成就打，欧洲26国决定派兵入乌",
+      "event_id": "event_2",
+      "event_url": "http://new.qq.com/rain/a/20250905A068SR00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:32",
+      "event_time": "9月8日 19:00"
+    },
+    {
+      "event_title": "26国将派兵基辅?普京迎来外援,局势变成26对2",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8RFQGM205563DEM.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:34",
+      "event_time": "9月7日 09:07"
+    },
+    {
+      "event_title": "普京回应欧洲26国向乌派遣部队威胁",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8O71IDC0534BZ9P.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:36",
+      "event_time": "9月6日 18:51"
+    },
+    {
+      "event_title": "26国将向乌克兰派“保障部队”",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11447363820236812019",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:38",
+      "event_time": "9月6日 15:59"
+    },
+    {
+      "event_title": "欧洲26国随时出兵，普京放狠话，来一个打一个",
+      "event_id": "event_6",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=2907489734479686118",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:40",
+      "event_time": "9月6日 15:54"
+    },
+    {
+      "event_title": "普京备好了鸿门宴,放话谈不成就打,26国派兵入乌,局势一触即发",
+      "event_id": "event_7",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=3602991662889141447",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:42",
+      "event_time": "9月5日 17:00"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 8,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 10:38:11",
+    "level2_scrape_time": "2025-09-12 10:38:42"
+  }
+}

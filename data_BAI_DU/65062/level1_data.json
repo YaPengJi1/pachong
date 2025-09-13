@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "央行逆回购操作",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:41:43"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "央行万亿买断式逆回购护航流动性 四季度降准预期升温",
+      "link": "http://www.cb.com.cn/index/show/zj/cv/cv135321201260",
+      "time": "9月5日 21:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "央行将开展1万亿元买断式逆回购",
+      "link": "http://finance.huanqiu.com/article/4OCGah0KDoQ",
+      "time": "9月5日 08:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "央行将开展1万亿元买断式逆回购操作",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31544547",
+      "time": "9月5日 08:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "明日央行操作1万亿逆回购,缓解资金压力",
+      "link": "http://baijiahao.baidu.com/s?id=1842341108631746242&wfr=spider&for=pc",
+      "time": "9月4日 21:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "央行逆回购助力债市稳定资金面",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 17:41:57"
+}

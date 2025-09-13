@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 15:05:49"
+  },
+  "core_event": {
+    "core_event_name": "中国向阿富汗提供紧急救灾援助",
+    "update_time": "更新至20250912",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:05:12"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国第二批援阿抗震救灾物资运抵喀布尔",
+      "link": "http://tv.cctv.com/2025/09/12/VIDEiRPPEDLPxtuU5IAQJsDF250912.shtml",
+      "time": "今天 08:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "外交部发言人介绍中国政府向阿富汗提供紧急救灾援助情况",
+      "link": "http://finance.sina.cn/2025-09-08/detail-infpuwra9491219.d.html",
+      "time": "9月8日 20:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国首批援阿抗震救灾物资抵达喀布尔",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEP0ipPo3wYYpJWNcYiEAz250908.shtml",
+      "time": "9月8日 12:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国援阿首批地震救灾物资运抵喀布尔",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEWov51b4k37ddI2CNx8nG250907.shtml",
+      "time": "9月7日 22:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中国政府援阿首批地震救灾物资运抵喀布尔",
+      "link": "http://tv.cctv.com/2025/09/07/VIDE29PnUefTv0D3cDTG9cbV250907.shtml",
+      "time": "9月7日 20:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "中国政府援助阿富汗首批地震救灾物资启运",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEbri2hVJLijUeP7NByWVS250907.shtml",
+      "time": "9月7日 12:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "中方向阿富汗转交紧急人道主义现金资助",
+      "link": "http://tv.cctv.com/2025/09/06/VIDEarmv5dtmnWisPgcy8geL250906.shtml",
+      "time": "9月6日 08:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "阿富汗突发大地震，全球没有一国伸出援手？中方第一时间表明态度",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6978992406765746463",
+      "time": "9月4日 14:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "中国驻阿富汗大使馆向阿富汗地震灾区转交抗震救灾捐款",
+      "link": "http://www.cztv.com/newsDetail/814538",
+      "time": "9月3日 06:09",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "中国第二批援阿抗震救灾物资运抵喀布尔",
+      "event_id": "event_1",
+      "event_url": "http://tv.cctv.com/2025/09/12/VIDEiRPPEDLPxtuU5IAQJsDF250912.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:05:28",
+      "event_time": "今天 08:03"
+    },
+    {
+      "event_title": "外交部发言人介绍中国政府向阿富汗提供紧急救灾援助情况",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/2025-09-08/detail-infpuwra9491219.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:05:30",
+      "event_time": "9月8日 20:39"
+    },
+    {
+      "event_title": "中国首批援阿抗震救灾物资抵达喀布尔",
+      "event_id": "event_3",
+      "event_url": "http://tv.cctv.com/2025/09/08/VIDEP0ipPo3wYYpJWNcYiEAz250908.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:05:32",
+      "event_time": "9月8日 12:51"
+    },
+    {
+      "event_title": "中国援阿首批地震救灾物资运抵喀布尔",
+      "event_id": "event_4",
+      "event_url": "http://tv.cctv.com/2025/09/07/VIDEWov51b4k37ddI2CNx8nG250907.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:05:34",
+      "event_time": "9月7日 22:30"
+    },
+    {
+      "event_title": "中国政府援阿首批地震救灾物资运抵喀布尔",
+      "event_id": "event_5",
+      "event_url": "http://tv.cctv.com/2025/09/07/VIDE29PnUefTv0D3cDTG9cbV250907.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:05:36",
+      "event_time": "9月7日 20:05"
+    },
+    {
+      "event_title": "中国政府援助阿富汗首批地震救灾物资启运",
+      "event_id": "event_6",
+      "event_url": "http://tv.cctv.com/2025/09/07/VIDEbri2hVJLijUeP7NByWVS250907.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:05:38",
+      "event_time": "9月7日 12:20"
+    },
+    {
+      "event_title": "中方向阿富汗转交紧急人道主义现金资助",
+      "event_id": "event_7",
+      "event_url": "http://tv.cctv.com/2025/09/06/VIDEarmv5dtmnWisPgcy8geL250906.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:05:40",
+      "event_time": "9月6日 08:50"
+    },
+    {
+      "event_title": "阿富汗突发大地震，全球没有一国伸出援手？中方第一时间表明态度",
+      "event_id": "event_8",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6978992406765746463",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:05:42",
+      "event_time": "9月4日 14:15"
+    },
+    {
+      "event_title": "中国驻阿富汗大使馆向阿富汗地震灾区转交抗震救灾捐款",
+      "event_id": "event_9",
+      "event_url": "http://www.cztv.com/newsDetail/814538",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:05:44",
+      "event_time": "9月3日 06:09"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 9,
+    "total_comments": 9,
+    "events_with_comments": 9,
+    "level1_scrape_time": "2025-09-12 15:05:27",
+    "level2_scrape_time": "2025-09-12 15:05:44"
+  }
+}

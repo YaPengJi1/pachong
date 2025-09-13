@@ -1,0 +1,46 @@
+{
+  "core_event_name": "东风-61核导弹亮相",
+  "comments": [
+    {
+      "event_title": "东风-61核导弹亮相",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8K4SFHU05564B6N.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:39:25",
+      "event_time": "9月4日 12:42"
+    },
+    {
+      "event_title": "东风-61首次亮相阅兵场",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8IF9KUS0556C2W4.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:39:27",
+      "event_time": "9月3日 21:05"
+    },
+    {
+      "event_title": "“东风-61”陆基洲际导弹登场",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8I3DVTC05346936.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:39:29",
+      "event_time": "9月3日 17:38"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 17:39:29"
+}

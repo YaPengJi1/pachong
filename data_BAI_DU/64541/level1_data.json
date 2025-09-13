@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "华为上半年营收增长，净利润下滑",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:50:21"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "华为营收微增3%却狂砸969亿研发",
+      "link": "http://baijiahao.baidu.com/s?id=1842470573072213689&wfr=spider&for=pc",
+      "time": "9月6日 08:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "华为2025上半年财报:收入4270亿元 同比增长3.95%",
+      "link": "http://www.163.com/dy/article/K8CMPCMU055616YU.html",
+      "time": "9月1日 15:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "华为净利润大跌32%原因:扩大研发投入只是其中之一,元凶另有其人",
+      "link": "http://baijiahao.baidu.com/s?id=1842029379525825372&wfr=spider&for=pc",
+      "time": "9月1日 12:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "华为上半年营收增长,净利润32%的下滑",
+      "link": "http://baijiahao.baidu.com/s?id=1842027541744073270&wfr=spider&for=pc",
+      "time": "9月1日 10:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "华为上半年增收不增利,研发投入增至近千亿",
+      "link": "http://cj.sina.com.cn/articles/view/1644114654/61ff32de020020s30",
+      "time": "8月30日 21:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "华为上半年净利润下降32% 跟小米财报对比 雷军有望追上甚至超越",
+      "link": "http://news.mydrivers.com/1/1071/1071436.htm",
+      "time": "8月30日 17:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "华为上半年收入4270亿元，净利润371亿元",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4727184755149576768",
+      "time": "8月29日 16:27",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-13 01:50:36"
+}

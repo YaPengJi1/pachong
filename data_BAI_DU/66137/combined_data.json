@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:51:10"
+  },
+  "core_event": {
+    "core_event_name": "美联储降息概率变化",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:50:29"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "非农出炉后美银大转向:料美联储到年底降息两次 曾押注全年 “按兵不动”",
+      "link": "http://www.163.com/dy/article/K8U2O5PB05198CJN.html",
+      "time": "9月8日 09:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "非农后9月降息50个基点存在可能，保守的美联储官员构成降低可能性",
+      "link": "http://baijiahao.baidu.com/s?id=1842433434748415792&wfr=spider&for=pc",
+      "time": "9月5日 22:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "非农公布后美联储9月降息50个基点的概率从0升至11.7%",
+      "link": "http://finance.sina.cn/7x24/2025-09-05/detail-infpmzef7608754.d.html",
+      "time": "9月5日 20:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "非农公布前:美联储9月降息概率为97.3%",
+      "link": "http://finance.sina.cn/7x24/2025-09-05/detail-infpmzcy5750280.d.html",
+      "time": "9月5日 20:16",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "非农出炉后美银大转向:料美联储到年底降息两次 曾押注全年 “按兵不动”",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8U2O5PB05198CJN.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:50:45",
+      "event_time": "9月8日 09:17"
+    },
+    {
+      "event_title": "非农后9月降息50个基点存在可能，保守的美联储官员构成降低可能性",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842433434748415792&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "林俊杰游JapanFest",
+      "comment_time": "09-06 00:49",
+      "comment_content": "通胀顽固不退，Fed大佬们不得不怂，数据利好也难敌物价压力，降息窗口要关。",
+      "user_location": "黑龙江",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:51:02",
+      "event_time": "9月5日 22:01"
+    },
+    {
+      "event_title": "非农公布后美联储9月降息50个基点的概率从0升至11.7%",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-05/detail-infpmzef7608754.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:51:04",
+      "event_time": "9月5日 20:48"
+    },
+    {
+      "event_title": "非农公布前:美联储9月降息概率为97.3%",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-05/detail-infpmzcy5750280.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:51:06",
+      "event_time": "9月5日 20:16"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 14:50:44",
+    "level2_scrape_time": "2025-09-12 14:51:06"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "多国对乌克兰提供安全保障",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:10:45"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "26国承诺向乌克兰部署地面部队",
+      "link": "http://weibo.com/2864717612/Q37Tt2JjJ",
+      "time": "9月5日 09:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "马克龙:26国承诺向乌克兰提供安全保障",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7955021514807484300",
+      "time": "9月5日 09:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "多国领导人在巴黎举行会议 讨论对乌安全保障",
+      "link": "http://www.163.com/dy/article/K8KRC8M70514R9KQ.html",
+      "time": "9月4日 19:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "法乌领导人会晤，马克龙：欧洲已准备好为乌提供安全保障",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3542214967654999168",
+      "time": "9月4日 07:27",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 18:10:59"
+}

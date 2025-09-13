@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普与普京通话",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:41:16"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "卡塔尔:特朗普打来了电话,保证此类事件不再发生",
+      "link": "http://baijiahao.baidu.com/s?id=1842863771477444377&wfr=spider&for=pc",
+      "time": "9月10日 16:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "普京表示愿与美国总统特朗普对话",
+      "link": "http://weibo.com/2181597154/Q3biDweCQ",
+      "time": "9月5日 18:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "与泽连斯基通话后,特朗普称很快与普京通话",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7762803799647597038",
+      "time": "9月5日 14:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "泽连斯基发文称与特朗普通电话",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16916837432539486274",
+      "time": "9月5日 11:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "特朗普称将很快与普京通话,俄回应:未准备但可快速安排",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2684892064960475507",
+      "time": "9月5日 10:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "特朗普称将很快与普京通话",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9849402151174218545",
+      "time": "9月5日 07:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "特朗普称对俄罗斯“二级制裁” 或分阶段进行，再次与普京通话",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16648566888952075350",
+      "time": "9月4日 11:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "特朗普将在白宫会见波兰总统纳夫罗茨基",
+      "link": "http://baijiahao.baidu.com/s?id=1842218800927368205&wfr=spider&for=pc",
+      "time": "9月3日 13:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "特朗普向普京发出电话挑战,普京的态度让人震惊",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7458626943561993868",
+      "time": "8月30日 14:56",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 18:41:31"
+}

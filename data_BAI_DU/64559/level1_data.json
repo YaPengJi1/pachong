@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "极氪取得车辆控制方法等相关专利",
+    "update_time": "更新至20250830",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:08:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "极氪智能科技等取得一种定子组件专利",
+      "link": "http://finance.jrj.com.cn/2025/08/30135252829656.shtml",
+      "time": "8月30日 13:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "极氪取得空调过滤器组件等相关专利",
+      "link": "http://finance.jrj.com.cn/2025/08/29140052798234.shtml",
+      "time": "8月29日 14:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "极氪智能取得电池管理系统和电动汽车相关专利",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-13 02:09:06"
+}

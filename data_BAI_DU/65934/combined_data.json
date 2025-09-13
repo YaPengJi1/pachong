@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:53:30"
+  },
+  "core_event": {
+    "core_event_name": "亚马尔单挑保加利亚全队",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:52:44"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "西班牙3-0保加利亚",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15056924069167573530",
+      "time": "9月5日 06:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "亚马尔单挑保加利亚全队!5射3正7次过人助西班牙完胜",
+      "link": "http://www.sohu.com/a/931996216_122066679",
+      "time": "9月5日 05:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "世预赛-西班牙3-0客胜保加利亚 梅里诺库库雷利亚破门亚马尔助攻",
+      "link": "http://baijiahao.baidu.com/s?id=1842371455346898096&wfr=spider&for=pc",
+      "time": "9月5日 04:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "保加利亚主帅:亚马尔未来不可限量",
+      "link": "http://m.dongqiudi.com/article/5350315.html",
+      "time": "9月2日 13:24",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "西班牙3-0保加利亚",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=15056924069167573530",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:53:00",
+      "event_time": "9月5日 06:11"
+    },
+    {
+      "event_title": "亚马尔单挑保加利亚全队!5射3正7次过人助西班牙完胜",
+      "event_id": "event_2",
+      "event_url": "http://www.sohu.com/a/931996216_122066679",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:53:02",
+      "event_time": "9月5日 05:41"
+    },
+    {
+      "event_title": "世预赛-西班牙3-0客胜保加利亚 梅里诺库库雷利亚破门亚马尔助攻",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842371455346898096&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "达人足球小子",
+      "comment_time": "09-05 06:24",
+      "comment_content": "西班牙客场大胜真带劲，亚马尔助攻犀利，球队气势如虹。",
+      "user_location": "江苏",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:53:24",
+      "event_time": "9月5日 04:35"
+    },
+    {
+      "event_title": "保加利亚主帅:亚马尔未来不可限量",
+      "event_id": "event_4",
+      "event_url": "http://m.dongqiudi.com/article/5350315.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:53:26",
+      "event_time": "9月2日 13:24"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 14:52:59",
+    "level2_scrape_time": "2025-09-12 14:53:26"
+  }
+}

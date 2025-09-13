@@ -1,0 +1,85 @@
+{
+  "core_event_name": "金正恩结束对中国的访问回国",
+  "comments": [
+    {
+      "event_title": "现场画面来了!金正恩回到平壤",
+      "event_id": "event_1",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31550147",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:57:07",
+      "event_time": "9月5日 23:23"
+    },
+    {
+      "event_title": "金正恩回到平壤",
+      "event_id": "event_2",
+      "event_url": "http://m.yicai.com/brief/102811544.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:57:10",
+      "event_time": "9月5日 21:25"
+    },
+    {
+      "event_title": "金正恩结束对中国的访问，乘专列离京回国",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842468656959414461&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:57:26",
+      "event_time": "9月5日 20:21"
+    },
+    {
+      "event_title": "金正恩抵达北京",
+      "event_id": "event_4",
+      "event_url": "http://www.jfdaily.com/news/detail?id=975701",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:57:28",
+      "event_time": "9月2日 21:43"
+    },
+    {
+      "event_title": "朝鲜劳动党总书记、国务委员长金正恩抵达北京",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/1746692527/681c69af02001kyo6",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:57:30",
+      "event_time": "9月2日 20:57"
+    },
+    {
+      "event_title": "金正恩乘坐专列抵达北京,将出席九三阅兵",
+      "event_id": "event_6",
+      "event_url": "http://cj.sina.com.cn/articles/view/1643971635/61fd04330200151vu",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:57:32",
+      "event_time": "9月2日 17:39"
+    }
+  ],
+  "total_comments": 6,
+  "scrape_time": "2025-09-13 01:57:32"
+}

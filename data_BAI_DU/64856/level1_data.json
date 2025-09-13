@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "比亚迪研发与技术爆发",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:03:12"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "比亚迪蝉联A股“研发之王”",
+      "link": "http://baijiahao.baidu.com/s?id=1842343020448820517&wfr=spider&for=pc",
+      "time": "9月4日 22:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "比亚迪半年报出炉,营收 3713 亿,蝉联 A 股 “研发之王”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4926224190215505589",
+      "time": "9月4日 16:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "比亚迪8月销量373626台",
+      "link": "http://cj.sina.com.cn/articles/view/2283833712/8820897002701x9o6",
+      "time": "9月4日 11:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "比亚迪·新能源车崛起!凭这价格又是冠军",
+      "link": "http://news.m.yiche.com/hao/wenzhang/103195850/",
+      "time": "8月29日 13:08",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 18:03:26"
+}

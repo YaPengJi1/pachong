@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "法国总理将辞职",
+    "update_time": "更新至2025年9月11日 10:20",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:23:11"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "法总理府举行权力交接仪式 勒科尔尼正式接任总理",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_7654817379937559212&sourceFrom=share",
+      "time": "昨天 10:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "法国多地发生大规模示威 抗议削减财政支出",
+      "link": "https://baijiahao.baidu.com/s?id=1842910768667439868",
+      "time": "昨天 04:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "马克龙任命防长勒科尔尼担任法国总理",
+      "link": "https://baijiahao.baidu.com/s?id=1842810293594621508",
+      "time": "9月10日 02:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "法国总理贝鲁抵达爱丽舍宫向总统马克龙递交辞呈",
+      "link": "https://baijiahao.baidu.com/s?id=1842786040140772975",
+      "time": "9月9日 19:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "法国总理贝鲁将辞职，法国即将迎来两年内第五位总理",
+      "link": "https://baijiahao.baidu.com/s?id=1842745954392896518&wfr=spider&for=pc",
+      "time": "9月9日 08:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "法国总理贝鲁未通过议会信任投票将辞职",
+      "link": "https://baijiahao.baidu.com/s?id=1842739167883094295&wfr=spider&for=pc",
+      "time": "9月9日 07:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "任期即将结束，法总理批各政治势力联手“推翻政府”",
+      "link": "https://baijiahao.baidu.com/s?id=1842694467640031429&wfr=spider&for=pc",
+      "time": "9月8日 19:15",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 14:23:26"
+}

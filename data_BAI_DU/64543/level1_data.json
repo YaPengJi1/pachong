@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "山西组织观看纪念抗战大会",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:52:39"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "山西省各界干部群众收看收听纪念抗战胜利大会",
+      "link": "http://www.163.com/dy/article/K8L5FIV20519QNBU.html",
+      "time": "9月4日 22:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "我省各地组织观看纪念反法西斯战争胜利大会直播",
+      "link": "http://www.shanxi.gov.cn/ywdt/tpxw/202509/t20250904_9951898.shtml",
+      "time": "9月4日 13:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "我区组织集中收看纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会",
+      "link": "http://weibo.com/6126654205/Q2YbknxE1",
+      "time": "9月4日 09:07",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-13 01:52:54"
+}

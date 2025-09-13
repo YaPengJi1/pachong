@@ -1,0 +1,72 @@
+{
+  "core_event_name": "电影《731》上映及预告片",
+  "comments": [
+    {
+      "event_title": "《731》被怒斥是R级片,日本少佐女军官成为黑子的吐槽点:历史查无此人",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/7879924010/1d5ae192a0200206y2",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:58:33",
+      "event_time": "9月9日 18:42"
+    },
+    {
+      "event_title": "排片超99%,删减了55分钟,《731》剑指年冠?吴京的纪录保不住了",
+      "event_id": "event_2",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1757342682&pk=68bee4f58e9f097d367be564",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:58:35",
+      "event_time": "9月8日 22:15"
+    },
+    {
+      "event_title": "电影《731》发布“勿忘”版预告",
+      "event_id": "event_3",
+      "event_url": "http://news.cnhubei.com/content/2025-09/05/content_19476956.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:58:37",
+      "event_time": "9月5日 13:31"
+    },
+    {
+      "event_title": "电影《731》勿忘版预告曝光",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842395799883751117&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:58:55",
+      "event_time": "9月5日 12:12"
+    },
+    {
+      "event_title": "电影《731》发行通知出炉!9月18日上映,片长125分钟",
+      "event_id": "event_5",
+      "event_url": "http://www.gxnews.com.cn/staticpages/20250904/newgx68b96489-21840616.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:58:57",
+      "event_time": "9月4日 18:06"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 09:58:57"
+}

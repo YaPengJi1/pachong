@@ -1,0 +1,396 @@
+{
+  "core_info": {
+    "core_event_name": "全新宝马iX3发布及未来设计语言",
+    "update_time": "更新至20250912",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:47:10"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "宝马开启电动新纪元",
+      "link": "http://hzdaily.hangzhou.com.cn/hzrb/2025/09/12/article_detail_1_20250912A126.html",
+      "time": "昨天 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "你的国产版新世代BMW iX3已在“路”上",
+      "link": "http://cj.sina.com.cn/articles/view/5675440730/v152485a5a02001vlwu",
+      "time": "9月10日 16:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "宝马开启新世代:全新iX3重塑电动出行未来",
+      "link": "http://www.pcauto.com.cn/hj/article/3055224.html",
+      "time": "9月10日 14:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "宝马全新iX3重新树立德国电动车新标杆",
+      "link": "http://www.pcauto.com.cn/hj/article/3052236.html",
+      "time": "9月8日 23:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "新的“鼻孔”设计如何?新世代宝马IX3全球首发",
+      "link": "http://www.pcauto.com.cn/hj/article/3052952.html",
+      "time": "9月8日 18:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "齐普策:中国是行业技术竞赛的决胜场,新世代将智能驾趣提至新高度",
+      "link": "http://www.iyiou.com/news/202509081108377",
+      "time": "9月8日 11:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "宝马新世代iX3全球首发",
+      "link": "http://auto.qingdaonews.com/wap/2025-09/08/content_23687031.htm",
+      "time": "9月8日 10:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "新世代BMW iX3全球首发，中国专属版有四大定制惊喜",
+      "link": "http://m.ce.cn/bwzg/202509/t20250908_2467590.shtml",
+      "time": "9月8日 09:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "新世代BMW iX3全球首发",
+      "link": "http://auto.china.com.cn/corp/20250908/731106.shtml",
+      "time": "9月8日 09:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "宝马iX3中国专属版将于年内正式亮相",
+      "link": "http://news.mydrivers.com/1/1072/1072965.htm",
+      "time": "9月7日 11:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "全新宝马iX3和全新奔驰纯电GLC设计曝光",
+      "link": "http://cj.sina.com.cn/articles/view/2813320807/a7afde67001015m72",
+      "time": "9月7日 09:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "宝马新世代BMW iX3全球首发",
+      "link": "http://finance.eastmoney.com/a/202509073506816745.html",
+      "time": "9月7日 01:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "新世代宝马IX3发布，能否成为30万级市场大杀器？",
+      "link": "http://m.jrj.com.cn/madapter/auto/2025/09/06205052977474.shtml",
+      "time": "9月6日 20:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "宝马新世代首款量产纯电车型iX3全球首发",
+      "link": "http://news.cnhubei.com/content/2025-09/05/content_19478300.html",
+      "time": "9月5日 22:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "新世代BMW iX3正式全球首发亮相 2026年实现量产",
+      "link": "http://www.cqn.com.cn/auto/content/2025-09/05/content_9122083.htm",
+      "time": "9月5日 22:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "外观变化大 新世代宝马iX3全球首发:续航超900km",
+      "link": "http://www.techweb.com.cn/it/2025-09-05/2965493.shtml",
+      "time": "9月5日 22:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "全新宝马IX3首发亮相，CLTC续航900公里",
+      "link": "http://app.myzaker.com/news/article.php?m=1757080575&pk=68baeb9b8e9f0906af75ed0b",
+      "time": "9月5日 21:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "新世代BMW iX3全球首发 中国版2026年投产",
+      "link": "http://www.stcn.com/article/detail/3325118.html",
+      "time": "9月5日 21:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "新世代宝马iX3全球首发 国产加长版年内亮相",
+      "link": "http://baijiahao.baidu.com/s?id=1842433749638345302&wfr=spider&for=pc",
+      "time": "9月5日 19:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "全新宝马IX3在德国慕尼黑发布",
+      "link": "http://www.pcauto.com.cn/hj/article/3051202.html",
+      "time": "9月5日 19:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_21",
+      "title": "新世代宝马IX3发布，续航超900公里",
+      "link": "http://cj.sina.com.cn/articles/view/1931093993/731a27e900101ip0k",
+      "time": "9月5日 18:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_22",
+      "title": "宝马iX3续航超900km，为中国用户定制智能驾驶",
+      "link": "http://www.d1ev.com/newsflash/274232",
+      "time": "9月5日 18:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_23",
+      "title": "新世代BMW iX3全球首发，中国专属版2026年在沈量产",
+      "link": "http://www.syd.com.cn/newscenter/content/2025-09/05/content_197636.html",
+      "time": "9月5日 18:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_24",
+      "title": "新世代宝马IX3来了 国产版或将2026年上市",
+      "link": "http://auto.sina.com.cn/newcar/2025-09-05/detail-infpmuwa5842241.shtml",
+      "time": "9月5日 18:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_25",
+      "title": "新世代宝马IX3全球首秀 搭800V平台/续航超900km",
+      "link": "http://app.myzaker.com/news/article.php?pk=68bab5ba8e9f0923230d7185",
+      "time": "9月5日 17:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_26",
+      "title": "新世代BMW iX3全球首发，今年年内亮相，2026年实现量产",
+      "link": "http://www.d1ev.com/carnews/xinche/274228",
+      "time": "9月5日 17:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_27",
+      "title": "全新宝马iX3正式亮相",
+      "link": "http://www.ifanr.com/1636880",
+      "time": "9月5日 17:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_28",
+      "title": "宝马新世代首款量产车型 BMW iX3全球首发",
+      "link": "http://auto.youth.cn/xc/202509/t20250905_16218511.htm",
+      "time": "9月5日 11:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_29",
+      "title": "宝马iX3/零跑Lafa5领衔 2025慕尼黑车展重磅新车前瞻",
+      "link": "http://cj.sina.com.cn/articles/view/1963106735/7502a1af0010108dc",
+      "time": "9月5日 10:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_30",
+      "title": "宝马新世代首款量产车 BMW iX3 宣传图曝光:收敛双肾格栅,设计几乎照搬概念车",
+      "link": "http://www.ithome.com/0/880/542.htm",
+      "time": "9月5日 07:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_31",
+      "title": "宝马新世代首款量产车 BMW iX3 宣传图曝光:收敛双肾格栅",
+      "link": "http://baijiahao.baidu.com/s?id=1842377440369861651&wfr=spider&for=pc",
+      "time": "9月5日 07:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_32",
+      "title": "宝马集团宣布：新世代首款量产车型9月5日全球首发",
+      "link": "http://baijiahao.baidu.com/s?id=1842356644512309537&wfr=spider&for=pc",
+      "time": "9月5日 00:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_33",
+      "title": "宝马新世代首款量产车型来了!中国专属版年内亮相",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31541284",
+      "time": "9月4日 18:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_34",
+      "title": "宝马新世代首款量产车型BMW iX3将全球首发 中国版2026年投产",
+      "link": "http://www.cnstock.com/commonDetail/515178",
+      "time": "9月4日 15:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_35",
+      "title": "新世代首款量产车型BMW iX3将于9月5日全球首发 2026年引入国产",
+      "link": "http://www.cqn.com.cn/auto/content/2025-09/04/content_9121793.htm",
+      "time": "9月4日 15:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_36",
+      "title": "新世代首款量产车明日全球首发",
+      "link": "http://auto.ce.cn/auto/gundong/202509/t20250904_2464422.shtml",
+      "time": "9月4日 14:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_37",
+      "title": "新世代首款量产车 全新宝马iX3将于9月5日发布",
+      "link": "http://www.163.com/auto/article/K8K627L60008856R_pa11y.html",
+      "time": "9月4日 13:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_38",
+      "title": "新一代宝马外观大变!新世代首款量产车iX3将于9月5日全球首发",
+      "link": "http://news.mydrivers.com/1/1072/1072400.htm",
+      "time": "9月4日 12:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_39",
+      "title": "宝马集团宣布明日全球首发",
+      "link": "http://baijiahao.baidu.com/s?id=1842303691011298616&wfr=spider&for=pc",
+      "time": "9月4日 11:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_40",
+      "title": "全新宝马IX3将于9月5日首发 26年国内投产",
+      "link": "http://www.pcauto.com.cn/nation/4997/49971731.html",
+      "time": "9月4日 11:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_41",
+      "title": "宝马新世代首款量产车iX3全球首发",
+      "link": "http://www.d1ev.com/newsflash/274120",
+      "time": "9月4日 11:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_42",
+      "title": "2025慕尼黑车展新车前瞻",
+      "link": "http://weibo.com/1912222221/Q2YqoqxDy",
+      "time": "9月4日 09:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_43",
+      "title": "2026款宝马IX3官图来了 高度还原概念车 动力续航有提升 即将首发",
+      "link": "http://www.pcauto.com.cn/hj/article/3048826.html",
+      "time": "9月3日 22:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_44",
+      "title": "全新一代宝马iX3",
+      "link": "http://baijiahao.baidu.com/s?id=1842136282953241541&wfr=spider&for=pc",
+      "time": "9月2日 16:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_45",
+      "title": "宝马电动两轮新突破:Vision CE无需头盔合法上路,iX3纯电SUV续航高达900公里",
+      "link": "http://www.d1ev.com/newsflash/273982",
+      "time": "9月2日 12:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_46",
+      "title": "全新宝马iX3将登场,内外大改",
+      "link": "http://baijiahao.baidu.com/s?id=1842053358688069452&wfr=spider&for=pc",
+      "time": "9月1日 17:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_47",
+      "title": "全新宝马IX3预告图发布 将于9月5日首发",
+      "link": "http://www.pcauto.com.cn/nation/4994/49943627.html",
+      "time": "9月1日 14:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_48",
+      "title": "全新宝马IX3预告图发布，9月5日亮相",
+      "link": "http://www.gfan.com/info/593274.html",
+      "time": "9月1日 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 48,
+  "scrape_time": "2025-09-13 01:47:29"
+}

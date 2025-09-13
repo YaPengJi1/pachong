@@ -1,0 +1,298 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:16:53"
+  },
+  "core_event": {
+    "core_event_name": "农业银行股价涨5.03%",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:15:00"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "农行年内涨出一个中国神华",
+      "link": "http://m.yicai.com/news/102809350.html",
+      "time": "9月4日 19:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "农业银行股价涨5.03%,银河基金旗下3只基金重仓,合计持有1043.39万股浮盈赚取375.62万元",
+      "link": "http://baijiahao.baidu.com/s?id=1842326123802467567&wfr=spider&for=pc",
+      "time": "9月4日 17:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "农业银行成新“宇宙行” 市值首超工商银行",
+      "link": "http://finance.eastmoney.com/a/202509043504823779.html",
+      "time": "9月4日 15:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "农行总市值首次超过工行,股价大涨5%创历史新高",
+      "link": "http://baijiahao.baidu.com/s?id=1842318709385418113&wfr=spider&for=pc",
+      "time": "9月4日 15:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "农业银行股价涨5.03%,长信基金旗下2只基金重仓,合计持有849.05万股浮盈赚取305.66万元",
+      "link": "http://www.163.com/dy/article/K8KDCRJE05568W0A.html",
+      "time": "9月4日 15:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "农业银行股价涨5.03%,前海开源基金旗下4只基金重仓,合计持有180.74万股浮盈赚取65.07万元",
+      "link": "http://finance.sina.com.cn/money/fund/aiassistant/zcgyd/2025-09-04/doc-infpifim1853735.shtml",
+      "time": "9月4日 15:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "农业银行股价涨5.03%,泰康基金旗下1只基金重仓,持有44.99万股浮盈赚取16.2万元",
+      "link": "http://baijiahao.baidu.com/s?id=1842316355771170370&wfr=spider&for=pc",
+      "time": "9月4日 15:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "农业银行股价涨5.03%,富国基金旗下12只基金重仓,合计持有7231.73万股浮盈赚取2603.42万元",
+      "link": "http://baijiahao.baidu.com/s?id=1842316351992026316&wfr=spider&for=pc",
+      "time": "9月4日 15:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "农业银行股价涨5.03%,银华基金旗下7只基金重仓,合计持有885.45万股浮盈赚取318.76万元",
+      "link": "http://baijiahao.baidu.com/s?id=1842316287723421852&wfr=spider&for=pc",
+      "time": "9月4日 15:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "农业银行总市值首次超过工商银行，股价大涨5%",
+      "link": "http://www.163.com/dy/article/K8KD65SR05199NPP.html",
+      "time": "9月4日 15:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "农业银行持续拉升涨超5%",
+      "link": "http://finance.eastmoney.com/a/202509043504764811.html",
+      "time": "9月4日 14:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "农业银行大涨逾5%,创历史新高",
+      "link": "http://finance.eastmoney.com/a/202509043504760987.html",
+      "time": "9月4日 14:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "农业银行(601288):业绩稳定增长 中收增速回暖",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "农行年内涨出一个中国神华",
+      "event_id": "event_1",
+      "event_url": "http://m.yicai.com/news/102809350.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:15:15",
+      "event_time": "9月4日 19:55"
+    },
+    {
+      "event_title": "农业银行股价涨5.03%,银河基金旗下3只基金重仓,合计持有1043.39万股浮盈赚取375.62万元",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842326123802467567&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:15:32",
+      "event_time": "9月4日 17:45"
+    },
+    {
+      "event_title": "农业银行成新“宇宙行” 市值首超工商银行",
+      "event_id": "event_3",
+      "event_url": "http://finance.eastmoney.com/a/202509043504823779.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:15:34",
+      "event_time": "9月4日 15:59"
+    },
+    {
+      "event_title": "农行总市值首次超过工行,股价大涨5%创历史新高",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842318709385418113&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "梦幻MakeUp师",
+      "comment_time": "09-04 15:56",
+      "comment_content": "农行这次逆袭超工行，主要靠政策红利发力，国家扶持三农力度加大，市场信心飙升带动股价跳涨。",
+      "user_location": "北京",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:15:50",
+      "event_time": "9月4日 15:46"
+    },
+    {
+      "event_title": "农业银行股价涨5.03%,长信基金旗下2只基金重仓,合计持有849.05万股浮盈赚取305.66万元",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8KDCRJE05568W0A.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:15:52",
+      "event_time": "9月4日 15:10"
+    },
+    {
+      "event_title": "农业银行股价涨5.03%,前海开源基金旗下4只基金重仓,合计持有180.74万股浮盈赚取65.07万元",
+      "event_id": "event_6",
+      "event_url": "http://finance.sina.com.cn/money/fund/aiassistant/zcgyd/2025-09-04/doc-infpifim1853735.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:15:54",
+      "event_time": "9月4日 15:10"
+    },
+    {
+      "event_title": "农业银行股价涨5.03%,泰康基金旗下1只基金重仓,持有44.99万股浮盈赚取16.2万元",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842316355771170370&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:16:10",
+      "event_time": "9月4日 15:09"
+    },
+    {
+      "event_title": "农业银行股价涨5.03%,富国基金旗下12只基金重仓,合计持有7231.73万股浮盈赚取2603.42万元",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842316351992026316&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:16:25",
+      "event_time": "9月4日 15:09"
+    },
+    {
+      "event_title": "农业银行股价涨5.03%,银华基金旗下7只基金重仓,合计持有885.45万股浮盈赚取318.76万元",
+      "event_id": "event_9",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842316287723421852&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:16:41",
+      "event_time": "9月4日 15:08"
+    },
+    {
+      "event_title": "农业银行总市值首次超过工商银行，股价大涨5%",
+      "event_id": "event_10",
+      "event_url": "http://www.163.com/dy/article/K8KD65SR05199NPP.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:16:43",
+      "event_time": "9月4日 15:07"
+    },
+    {
+      "event_title": "农业银行持续拉升涨超5%",
+      "event_id": "event_11",
+      "event_url": "http://finance.eastmoney.com/a/202509043504764811.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:16:45",
+      "event_time": "9月4日 14:52"
+    },
+    {
+      "event_title": "农业银行大涨逾5%,创历史新高",
+      "event_id": "event_12",
+      "event_url": "http://finance.eastmoney.com/a/202509043504760987.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:16:47",
+      "event_time": "9月4日 14:49"
+    },
+    {
+      "event_title": "农业银行(601288):业绩稳定增长 中收增速回暖",
+      "event_id": "event_13",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:16:49",
+      "event_time": "1970年"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 13,
+    "total_comments": 13,
+    "events_with_comments": 13,
+    "level1_scrape_time": "2025-09-12 18:15:14",
+    "level2_scrape_time": "2025-09-12 18:16:49"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 21:06:35"
+  },
+  "core_event": {
+    "core_event_name": "北京银行上半年营收增速回正",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:05:35"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "北京银行半年报业绩稳健",
+      "link": "http://baijiahao.baidu.com/s?id=1842958349668556575&wfr=spider&for=pc",
+      "time": "昨天 17:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "北京银行中期业绩发布会：“坚定不移打造‘专精特新第一行’”",
+      "link": "http://finance.eastmoney.com/a/202509083507564077.html",
+      "time": "9月8日 15:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "北京银行霍学文:坚持数据驱动 向VC、PE学习看企业未来",
+      "link": "http://baijiahao.baidu.com/s?id=1842496001897696981&wfr=spider&for=pc",
+      "time": "9月6日 14:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "北京银行锚定数字化转型",
+      "link": "http://finance.eastmoney.com/a/202509063506751040.html",
+      "time": "9月6日 14:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "北京银行二季度净利润11.95亿元",
+      "link": "http://stock.hexun.com/2025-09-06/221242404.html",
+      "time": "9月6日 13:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "北银金租迎新党委书记",
+      "link": "http://finance.sina.com.cn/money/bank/gsdt/2025-09-04/doc-infpimre6845485.shtml?froms=bdmp",
+      "time": "9月4日 16:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "北京银行上半年营收利润增速回正",
+      "link": "http://weibo.com/1663937380/Q2z7L6yFJ",
+      "time": "9月1日 17:20",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "北京银行半年报业绩稳健",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842958349668556575&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:06:05",
+      "event_time": "昨天 17:14"
+    },
+    {
+      "event_title": "北京银行中期业绩发布会：“坚定不移打造‘专精特新第一行’”",
+      "event_id": "event_2",
+      "event_url": "http://finance.eastmoney.com/a/202509083507564077.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:06:07",
+      "event_time": "9月8日 15:38"
+    },
+    {
+      "event_title": "北京银行霍学文:坚持数据驱动 向VC、PE学习看企业未来",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842496001897696981&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "改半凡7Q",
+      "comment_time": "09-06 17:33",
+      "comment_content": "银行不能做股东，利率低，低收益高风险，很难靠这有出路。",
+      "user_location": "广西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:06:22",
+      "event_time": "9月6日 14:44"
+    },
+    {
+      "event_title": "北京银行霍学文:坚持数据驱动 向VC、PE学习看企业未来",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842496001897696981&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "插画师Vincent",
+      "comment_time": "09-06 14:54",
+      "comment_content": "霍行思路新潮，但银行文化太保守，VC那套高风险玩法容易水土不服，传统避险心态难兼容创新。",
+      "user_location": "湖南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:06:22",
+      "event_time": "9月6日 14:44"
+    },
+    {
+      "event_title": "北京银行锚定数字化转型",
+      "event_id": "event_4",
+      "event_url": "http://finance.eastmoney.com/a/202509063506751040.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:06:25",
+      "event_time": "9月6日 14:41"
+    },
+    {
+      "event_title": "北京银行二季度净利润11.95亿元",
+      "event_id": "event_5",
+      "event_url": "http://stock.hexun.com/2025-09-06/221242404.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:06:27",
+      "event_time": "9月6日 13:35"
+    },
+    {
+      "event_title": "北银金租迎新党委书记",
+      "event_id": "event_6",
+      "event_url": "http://finance.sina.com.cn/money/bank/gsdt/2025-09-04/doc-infpimre6845485.shtml?froms=bdmp",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:06:29",
+      "event_time": "9月4日 16:35"
+    },
+    {
+      "event_title": "北京银行上半年营收利润增速回正",
+      "event_id": "event_7",
+      "event_url": "http://weibo.com/1663937380/Q2z7L6yFJ",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:06:31",
+      "event_time": "9月1日 17:20"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 8,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 21:05:49",
+    "level2_scrape_time": "2025-09-12 21:06:31"
+  }
+}

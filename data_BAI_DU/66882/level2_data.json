@@ -1,0 +1,59 @@
+{
+  "core_event_name": "澳门冠军赛女单签位",
+  "comments": [
+    {
+      "event_title": "澳门冠军赛女单签位",
+      "event_id": "event_1",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1757370926&pk=68bf58348e9f09501068174d",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:01:41",
+      "event_time": "9月9日 06:28"
+    },
+    {
+      "event_title": "WTT澳门冠军赛举行抽签仪式",
+      "event_id": "event_2",
+      "event_url": "http://m.gmw.cn/toutiao/2025-09/08/content_38270915.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:01:43",
+      "event_time": "9月8日 09:56"
+    },
+    {
+      "event_title": "WTT澳门冠军赛女单签表出炉",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842611544573377457&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:02:01",
+      "event_time": "9月7日 21:21"
+    },
+    {
+      "event_title": "澳门冠军赛 孙颖莎首轮对阵安",
+      "event_id": "event_4",
+      "event_url": "http://weibo.com/tv/show/1034:5208268226625550",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:02:03",
+      "event_time": "9月7日 15:49"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 11:02:03"
+}

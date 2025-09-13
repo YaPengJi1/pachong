@@ -1,0 +1,85 @@
+{
+  "core_event_name": "WTT中国大满贯开票",
+  "comments": [
+    {
+      "event_title": "WTT中国大满贯2025门票热销",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842786165906731493&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "越我伙精视0L",
+      "comment_time": "09-09 19:53",
+      "comment_content": "门票太抢手了，票根藏着文旅惊喜真不错。回流票还有机会，免费青少年赛事别错过。",
+      "user_location": "江西",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:51:10",
+      "event_time": "9月9日 19:20"
+    },
+    {
+      "event_title": "王楚钦孙颖莎再合体，WTT中国大满贯门票今起开售",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8MIJQH00556DPLZ.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:51:12",
+      "event_time": "9月5日 11:20"
+    },
+    {
+      "event_title": "WTT中国大满贯2025门票开售",
+      "event_id": "event_3",
+      "event_url": "http://news.hnr.cn/shxw/article/1/1963764435656716289",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:51:14",
+      "event_time": "9月5日 08:41"
+    },
+    {
+      "event_title": "WTT中国大满贯将于9月5日10点开票，VIP可观看运动员训练",
+      "event_id": "event_4",
+      "event_url": "http://m.dongqiudi.com/article/5354569.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:51:17",
+      "event_time": "9月4日 22:49"
+    },
+    {
+      "event_title": "WTT中国大满贯跟国庆撞档期",
+      "event_id": "event_5",
+      "event_url": "http://finance.sina.cn/2025-09-04/detail-infpifip8772373.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:51:19",
+      "event_time": "9月4日 14:57"
+    },
+    {
+      "event_title": "WTT中国大满贯明天开票",
+      "event_id": "event_6",
+      "event_url": "http://cj.sina.com.cn/articles/view/3314280193/c58be70102001f78y",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:51:21",
+      "event_time": "9月4日 14:21"
+    }
+  ],
+  "total_comments": 6,
+  "scrape_time": "2025-09-13 01:51:21"
+}

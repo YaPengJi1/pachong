@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "阿根廷3-0胜委内瑞拉",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:19:01"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "阿根廷3-0击败波兰，晋级世界杯16强",
+      "link": "http://baijiahao.baidu.com/s?id=1842400391197129105&wfr=spider&for=pc",
+      "time": "9月5日 13:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "阿根廷3-0委内瑞拉，梅西梅开二度，劳塔罗破门",
+      "link": "http://m.hupu.com/bbs/634702413-5.html",
+      "time": "9月5日 09:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "阿根廷3-0委内瑞拉，梅西双响，劳塔罗替补建功",
+      "link": "http://www.dongqiudi.com/articles/5355206.html",
+      "time": "9月5日 09:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "梅西为阿根廷打进的所有进球!",
+      "link": "http://weibo.com/tv/show/1034:5207239884210202",
+      "time": "9月4日 19:43",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 22:19:15"
+}

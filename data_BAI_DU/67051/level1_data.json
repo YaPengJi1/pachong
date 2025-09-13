@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "俄军无人机侵犯波兰领空",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:45:02"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "波兰指认“俄无人机侵犯波兰领空”,俄国防部回应",
+      "link": "http://military.china.com/important/64/20250911/48812926.html",
+      "time": "昨天 10:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "波兰称遭俄罗斯无人机入侵",
+      "link": "http://tv.cctv.com/2025/09/11/VIDEGdRZnv7gO7vcPvFjQSZw250911.shtml",
+      "time": "昨天 08:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "俄军无人机闯入波兰，目标直指北约军火枢纽",
+      "link": "http://new.qq.com/rain/a/20250910V08WZC00",
+      "time": "昨天 08:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "波兰军方称对侵犯其领空的无人机进行打击",
+      "link": "http://tv.cctv.com/2025/09/11/VIDE4CAHgON0YgpiYzDCR8lv250911.shtml",
+      "time": "昨天 00:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "波兰称击落侵犯其领空的无人机 俄外交官:波兰关于俄无人机入侵其领空的指控“毫无根据”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7239659143099243531",
+      "time": "9月10日 21:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "波兰外交部召见俄罗斯驻波兰临时代办",
+      "link": "http://tv.cctv.com/2025/09/10/VIDEzrJ49TRXEZIca9xTdmZU250910.shtml",
+      "time": "9月10日 21:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "俄军无人机成群飞入波兰,北约F35起飞拦截,普京试探西方底线?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11146983199643396496",
+      "time": "9月10日 18:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "波兰军方称无人机侵犯波领空为“侵略行为”",
+      "link": "http://news.fjsen.com/wap/2025-09/10/content_32036859.htm",
+      "time": "9月10日 16:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "波兰总理:“俄无人机侵犯领空”",
+      "link": "http://cj.sina.com.cn/articles/view/1686546714/6486a91a019035r2g",
+      "time": "9月10日 14:57",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 10:45:17"
+}

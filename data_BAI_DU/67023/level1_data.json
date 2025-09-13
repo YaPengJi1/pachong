@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "俄罗斯无人机闯入波兰",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:16:09"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "俄罗斯无人机入侵波兰领空，北约战机紧急拦截",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16811973176033065906",
+      "time": "昨天 21:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "波兰称击落侵犯其领空的无人机 俄外交官:波兰关于俄无人机入侵其领空的指控“毫无根据”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16960815177454617896",
+      "time": "昨天 11:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "白俄罗斯通报:提前告知波兰",
+      "link": "http://cj.sina.com.cn/articles/view/1653603955/628ffe7302001t1ni",
+      "time": "昨天 10:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "波兰称击落侵犯其领空的无人机 俄外交官:波兰的指控“毫无根据”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9163561853185886035",
+      "time": "昨天 08:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "波兰称遭俄罗斯无人机入侵",
+      "link": "http://v.qq.com/x/page/u3171kfdqbr.html",
+      "time": "昨天 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "俄军11架无人机闯入波兰，直接打穿整个北约防空区",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5371634133242848215",
+      "time": "9月10日 20:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "波兰击落“侵犯”其领空无人机",
+      "link": "http://baijiahao.baidu.com/s?id=1842848765648390165&wfr=spider&for=pc",
+      "time": "9月10日 12:11",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 10:16:24"
+}

@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "美联储9月降息",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 16:58:59"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美联储9月议息将至 官员激辩降息人事变动引发独立性质疑",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31541366",
+      "time": "9月5日 19:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "分析师:即使通胀数据恶化 也难阻美联储9月降息",
+      "link": "http://flash.jin10.com/detail/20250905205526233800",
+      "time": "9月5日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "通胀数据强化降息理由 美联储9月行动获关键依据",
+      "link": "http://forex.cngold.org/c/2025-09-03/c10059105.html",
+      "time": "9月3日 11:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "当前金价上涨是降息预期+避险需求+技术破位的结果",
+      "link": "http://weibo.com/2003291675/Q2iRJoIjH",
+      "time": "8月30日 23:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美联储:PCE难阻9月降息,下周债市或迎回暖",
+      "link": "http://stock.hexun.com/2025-08-30/221202527.html",
+      "time": "8月30日 13:33",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 16:59:13"
+}

@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:13:56"
+  },
+  "core_event": {
+    "core_event_name": "公募基金销售费用迎新规",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:12:44"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "公募改革每年将让利超500亿元",
+      "link": "http://finance.sina.cn/2025-09-08/detail-infpumzm4574009.d.html",
+      "time": "9月8日 15:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "引导长期投资 公募基金销售费率拟调降",
+      "link": "http://finance.sina.com.cn/stock/marketresearch/2025-09-08/doc-infpsxxu8123430.shtml",
+      "time": "9月8日 00:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "公募基金降费改革收官在即 每年让利有望超500亿元",
+      "link": "http://finance.eastmoney.com/a/202509063506715493.html",
+      "time": "9月6日 08:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "公募销售费率改革重磅文件发布",
+      "link": "http://baijiahao.baidu.com/s?id=1842432772876400095&wfr=spider&for=pc",
+      "time": "9月5日 21:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "公募销售费用管理新规:公募基金赎回费部分归基金资产所有",
+      "link": "http://baijiahao.baidu.com/s?id=1842426669747592098&wfr=spider&for=pc",
+      "time": "9月5日 20:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "公募销售费用新规出台，鼓励长期投资降低短期炒作成本",
+      "link": "http://baijiahao.baidu.com/s?id=1842426513431509203&wfr=spider&for=pc",
+      "time": "9月5日 19:58",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "公募改革每年将让利超500亿元",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.cn/2025-09-08/detail-infpumzm4574009.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:12:59",
+      "event_time": "9月8日 15:28"
+    },
+    {
+      "event_title": "引导长期投资 公募基金销售费率拟调降",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.com.cn/stock/marketresearch/2025-09-08/doc-infpsxxu8123430.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:13:01",
+      "event_time": "9月8日 00:02"
+    },
+    {
+      "event_title": "公募基金降费改革收官在即 每年让利有望超500亿元",
+      "event_id": "event_3",
+      "event_url": "http://finance.eastmoney.com/a/202509063506715493.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:13:03",
+      "event_time": "9月6日 08:06"
+    },
+    {
+      "event_title": "公募销售费率改革重磅文件发布",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842432772876400095&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "多情少年笑开颜",
+      "comment_time": "09-06 06:21",
+      "comment_content": "作者用心了，点个赞👍",
+      "user_location": "上海",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:13:21",
+      "event_time": "9月5日 21:59"
+    },
+    {
+      "event_title": "公募销售费用管理新规:公募基金赎回费部分归基金资产所有",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842426669747592098&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "lint爱吃雪糕",
+      "comment_time": "09-06 08:26",
+      "comment_content": "新规让赎回费归基金资产，销售渠道佣金缩水，肯定不爽。渠道依赖这吃饭，冲突难免，就像券商和银行间常为费用扯皮一样。",
+      "user_location": "宁夏",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:13:36",
+      "event_time": "9月5日 20:09"
+    },
+    {
+      "event_title": "公募销售费用新规出台，鼓励长期投资降低短期炒作成本",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842426513431509203&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "勇猛消防员长风",
+      "comment_time": "09-06 08:31",
+      "comment_content": "简单却不失深意💡",
+      "user_location": "天津",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:13:52"
+    },
+    {
+      "event_title": "公募销售费用新规出台，鼓励长期投资降低短期炒作成本",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842426513431509203&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "嬴量CB",
+      "comment_time": "09-06 09:45",
+      "comment_content": "基金经理拿着基民的血汗钱去高位接盘股票，基金经理自己赚得盆满钵满，每年基民还要交管理费，这样的市场适合投资？？？2022年大盘3200点买的基金，到现在大盘3800点我的基金还亏百分之42，这样的市场适合投资吗？最高亏百分之70多，这是比诈骗可怕吧？？别说基民赚钱，请问几位基民不亏钱？？完全是收割基民，为什么现在买基金的人越来越少，因为被诈骗拍了，基金经理拿着基民的血汗钱乱投资自己不承担任何风险，而且还赚钱，我会让我的子子孙孙记住不要买基金，股票！血的教训！",
+      "user_location": "重庆",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:13:52"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 7,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 11:12:58",
+    "level2_scrape_time": "2025-09-12 11:13:52"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普向美最高法院提出上诉",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:56:46"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普请求上诉法院推翻法官裁定 允许他罢免美联储理事库克",
+      "link": "http://finance.sina.com.cn/world/2025-09-11/doc-infpzzsu3712853.shtml",
+      "time": "昨天 03:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特朗普输掉大官司,被裁定诽谤罪成立,要赔偿女作家8330万美元",
+      "link": "http://new.qq.com/rain/a/20250909V06N2Z00",
+      "time": "9月9日 18:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普翻案失败,需赔偿女作家8330万美元",
+      "link": "http://baijiahao.baidu.com/s?id=1842758558166612406&wfr=spider&for=pc",
+      "time": "9月9日 10:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "纽约州总检察长就特朗普5亿美元欺诈罚款被推翻提起上诉",
+      "link": "http://baijiahao.baidu.com/s?id=1842362460929681752&wfr=spider&for=pc",
+      "time": "9月5日 03:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "特朗普政府还要上诉",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b9a1068e9f0956d96c6c01",
+      "time": "9月4日 22:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "特朗普政府就关税违法裁决向美最高法院提出上诉",
+      "link": "http://tv.cctv.com/2025/09/04/VIDEjgCxT2nnnIH4Q8mqqKNL250904.shtml",
+      "time": "9月4日 19:26",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 10:57:00"
+}

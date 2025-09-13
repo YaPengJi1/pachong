@@ -1,0 +1,59 @@
+{
+  "core_event_name": "国务院推进人工智能+行动",
+  "comments": [
+    {
+      "event_title": "国务院发布“人工智能+”行动意见",
+      "event_id": "event_1",
+      "event_url": "http://www.sohu.com/a/931496276_463913",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:44:09",
+      "event_time": "9月3日 15:15"
+    },
+    {
+      "event_title": "“人工智能+”行动加速落地,普惠智算云底座成关键支撑",
+      "event_id": "event_2",
+      "event_url": "http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS68b7dd17a310f0725774687f.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:44:11",
+      "event_time": "9月3日 09:59"
+    },
+    {
+      "event_title": "国务院部署“人工智能+”行动",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842056703412552950&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:44:28",
+      "event_time": "9月1日 18:22"
+    },
+    {
+      "event_title": "国务院:深入实施“人工智能+”行动 事关就业!中央重磅发文推动城市高质量发展",
+      "event_id": "event_4",
+      "event_url": "http://www.sohu.com/a/930779404_121614400",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:44:30",
+      "event_time": "9月1日 17:00"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 21:44:30"
+}

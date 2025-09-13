@@ -1,0 +1,72 @@
+{
+  "core_event_name": "易会满被查",
+  "comments": [
+    {
+      "event_title": "从易会满任期内上市,到易会满落马后退市",
+      "event_id": "event_1",
+      "event_url": "http://k.sina.cn/article_5170894003_1343594b3001016g8m.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:57:21",
+      "event_time": "9月8日 11:19"
+    },
+    {
+      "event_title": "易会满被查曝 A 股荒诞事:融资比美股猛,退市比蜗牛慢",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4376496447803641674",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:57:23",
+      "event_time": "9月7日 10:42"
+    },
+    {
+      "event_title": "易会满被查 资本市场经历脱胎换骨",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=318482283948135393",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:57:25",
+      "event_time": "9月6日 21:20"
+    },
+    {
+      "event_title": "涉嫌严重违纪违法,证监会原主席易会满被查",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842505411483483206&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "巫马霞辉Rr",
+      "comment_time": "09-07 19:38",
+      "comment_content": "这家火坑了多少股民，应惩不待",
+      "user_location": "陕西",
+      "like_count": 5,
+      "scrape_time": "2025-09-12 09:57:42",
+      "event_time": "9月6日 17:14"
+    },
+    {
+      "event_title": "易会满被查",
+      "event_id": "event_5",
+      "event_url": "http://www.guancha.cn/politics/2025_09_06_789217.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:57:44",
+      "event_time": "9月6日 11:12"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 09:57:44"
+}

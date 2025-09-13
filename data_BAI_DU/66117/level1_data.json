@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "石破茂宣布辞职",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:31:07"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "石破茂将在联合国发表演讲,日本右翼急了,称这是向中国“屈服”",
+      "link": "http://cj.sina.com.cn/articles/view/7295511708/1b2d8ac9c020016au0",
+      "time": "昨天 14:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "石破茂宣布辞职，日元日债再遭抛售",
+      "link": "http://new.qq.com/rain/a/20250908V085GH00",
+      "time": "9月8日 20:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "石破茂宣布辞职,外交部回应",
+      "link": "http://baijiahao.baidu.com/s?id=1842683741068424256&wfr=spider&for=pc",
+      "time": "9月8日 16:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "石破茂宣布辞职,中方回应",
+      "link": "http://baijiahao.baidu.com/s?id=1842682795536924204&wfr=spider&for=pc",
+      "time": "9月8日 16:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "日本首相石破茂召开记者会宣布辞职",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1246417418600390501",
+      "time": "9月8日 15:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "石破茂突然宣布辞职,罕见理由",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17228435071503171238",
+      "time": "9月8日 14:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "石破茂“体面”辞职,谁接任日本首相?",
+      "link": "http://www.jfdaily.com/news/detail?id=978509",
+      "time": "9月8日 06:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "石破茂辞职 特朗普:有点吃惊",
+      "link": "http://v.qq.com/x/page/l3170i1rt3o.html",
+      "time": "9月8日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "石破茂决意辞职",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8194782474448370886",
+      "time": "9月7日 15:05",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 14:31:21"
+}

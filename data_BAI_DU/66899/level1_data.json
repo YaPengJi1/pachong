@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "美国非农就业数据大幅下修",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:45:40"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美国年度非农就业数据大幅向下修正超91万人",
+      "link": "http://tv.cctv.com/2025/09/11/VIDE1NxUNURXsgEar1guYyUe250911.shtml",
+      "time": "昨天 07:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美国大幅下调年度就业增长数据",
+      "link": "http://news.cctv.com/2025/09/11/ARTIFIl0RREPNTux2RgsKGVd250911.shtml",
+      "time": "9月10日 21:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美国就业数据“差出想象”",
+      "link": "http://www.163.com/dy/article/K93GQUV0051481US.html",
+      "time": "9月10日 11:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美国非农就业数据大幅下修超90万",
+      "link": "http://new.qq.com/rain/a/20250910V03B6H00",
+      "time": "9月10日 10:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美国就业数据恐再遭大幅下修 或刺激降息押注",
+      "link": "http://flash.jin10.com/detail/20250908182213537800",
+      "time": "9月8日 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 09:45:54"
+}

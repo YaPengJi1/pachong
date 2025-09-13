@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 16:51:04"
+  },
+  "core_event": {
+    "core_event_name": "黄金价格突破3600美元",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 16:50:17"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "金价飙破3600美元",
+      "link": "http://www.163.com/dy/article/K95TC5HI0556C8VL.html",
+      "time": "昨天 10:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美国非农就业数据疲软强化降息预期",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9547175661392413432",
+      "time": "9月6日 07:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "现货黄金升至3600美元再创新高",
+      "link": "http://baijiahao.baidu.com/s?id=1842442935567824141&wfr=spider&for=pc",
+      "time": "9月6日 00:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "国际金价再创新高",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9142505972354034102",
+      "time": "9月4日 12:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "COMEX黄金涨破3600美元,黄金ETF基金日均成交放量超7亿元",
+      "link": "http://cj.sina.com.cn/articles/view/5182171545/134e1a999020027ogm",
+      "time": "9月4日 11:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "黄金价格盘中突破3600美元/盎司",
+      "link": "http://sc.stock.cnfol.com/gushiyaowen/20250903/31610007.shtml",
+      "time": "9月3日 10:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "黄金突破3600美元创历史新高",
+      "link": "http://cj.sina.com.cn/articles/view/5993531560/1653e08a802001i9u0",
+      "time": "9月3日 05:19",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "金价飙破3600美元",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K95TC5HI0556C8VL.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:50:32",
+      "event_time": "昨天 10:23"
+    },
+    {
+      "event_title": "美国非农就业数据疲软强化降息预期",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9547175661392413432",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:50:35",
+      "event_time": "9月6日 07:49"
+    },
+    {
+      "event_title": "现货黄金升至3600美元再创新高",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842442935567824141&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "panda爱上Singing",
+      "comment_time": "09-06 00:53",
+      "comment_content": "美元疲软是主因；黄金以美元定价，美元贬值时金价必涨，看看美联储放水就知道了。",
+      "user_location": "广东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:50:52",
+      "event_time": "9月6日 00:41"
+    },
+    {
+      "event_title": "国际金价再创新高",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9142505972354034102",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:50:54",
+      "event_time": "9月4日 12:46"
+    },
+    {
+      "event_title": "COMEX黄金涨破3600美元,黄金ETF基金日均成交放量超7亿元",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/5182171545/134e1a999020027ogm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:50:56",
+      "event_time": "9月4日 11:12"
+    },
+    {
+      "event_title": "黄金价格盘中突破3600美元/盎司",
+      "event_id": "event_6",
+      "event_url": "http://sc.stock.cnfol.com/gushiyaowen/20250903/31610007.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:50:58",
+      "event_time": "9月3日 10:03"
+    },
+    {
+      "event_title": "黄金突破3600美元创历史新高",
+      "event_id": "event_7",
+      "event_url": "http://cj.sina.com.cn/articles/view/5993531560/1653e08a802001i9u0",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:51:00",
+      "event_time": "9月3日 05:19"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 16:50:31",
+    "level2_scrape_time": "2025-09-12 16:51:00"
+  }
+}

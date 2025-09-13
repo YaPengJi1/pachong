@@ -1,0 +1,46 @@
+{
+  "core_event_name": "特斯拉Model YL首批交付启动",
+  "comments": [
+    {
+      "event_title": "特斯拉大六座Model Y L日均订单近万辆 售价33.9万元",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8JSLNE505118VMB.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:39:37",
+      "event_time": "9月4日 10:18"
+    },
+    {
+      "event_title": "特斯拉Model Y L全国首批交付启动 极氪朱凌调任沃尔沃",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.com.cn/jjxw/2025-09-03/doc-infpemnt2996188.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:39:39",
+      "event_time": "9月3日 08:33"
+    },
+    {
+      "event_title": "特斯拉Model Y L全国首批交付启动",
+      "event_id": "event_3",
+      "event_url": "http://www.pcauto.com.cn/ask/3880402.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:39:41",
+      "event_time": "9月2日 00:00"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-13 02:39:41"
+}

@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:29:10"
+  },
+  "core_event": {
+    "core_event_name": "电池产业“反内卷”",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:28:46"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "电池板块逆市上涨，固态电池量产提速",
+      "link": "http://stock.stockstar.com/IG2025090400016177.shtml",
+      "time": "9月4日 12:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "电池板块领涨,储能电池ETF涨近3%",
+      "link": "http://finance.sina.cn/2025-09-03/detail-infperun8028738.d.html",
+      "time": "9月3日 11:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "电池产业链催化不断 储能电池ETF广发一度涨超3%",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "电池板块逆市上涨，固态电池量产提速",
+      "event_id": "event_1",
+      "event_url": "http://stock.stockstar.com/IG2025090400016177.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:29:02",
+      "event_time": "9月4日 12:01"
+    },
+    {
+      "event_title": "电池板块领涨,储能电池ETF涨近3%",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/2025-09-03/detail-infperun8028738.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:29:04",
+      "event_time": "9月3日 11:41"
+    },
+    {
+      "event_title": "电池产业链催化不断 储能电池ETF广发一度涨超3%",
+      "event_id": "event_3",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:29:06",
+      "event_time": "1970年"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-13 01:29:01",
+    "level2_scrape_time": "2025-09-13 01:29:06"
+  }
+}

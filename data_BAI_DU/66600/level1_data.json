@@ -1,0 +1,108 @@
+{
+  "core_info": {
+    "core_event_name": "尼泊尔局势",
+    "update_time": "更新至2025年9月11日 04:22",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:45:23"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "尼泊尔首都局势恢复平静",
+      "link": "https://baijiahao.baidu.com/s?id=1842909824351872237",
+      "time": "昨天 04:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "我使馆提示在尼泊尔中国公民和机构遵守尼方安全管控要求",
+      "link": "https://baijiahao.baidu.com/s?id=1842877211330725804",
+      "time": "9月10日 19:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "卡塔尔外交部：以色列针对多哈的袭击造成6人死亡",
+      "link": "https://baijiahao.baidu.com/s?id=1842876549581555586",
+      "time": "9月10日 19:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "尼泊尔首都现状:议会大厦被烧毁房顶坍塌 希尔顿酒店变废墟冒烟",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_16408171019328432624",
+      "time": "9月10日 16:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "尼泊尔首都特里布万国际机场无限期关闭",
+      "link": "https://baijiahao.baidu.com/s?id=1842864715286129913&wfr=spider&for=pc",
+      "time": "9月10日 16:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "外交部：提醒在尼的中国公民和机构密切关注尼泊尔安全形势",
+      "link": "https://baijiahao.baidu.com/s?id=1842862513186136128",
+      "time": "9月10日 15:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "现场画面：尼泊尔宫殿被大火吞没，国家重要文件档案烧毁",
+      "link": "https://haokan.baidu.com/v?vid=5260903831261207387&collection_id=",
+      "time": "9月10日 13:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "现场画面：尼泊尔总理奥利辞职后，乘直升机离开加德满都",
+      "link": "https://haokan.baidu.com/v?vid=15357153540418623465&collection_id=",
+      "time": "9月10日 10:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "尼泊尔总统府：奥利内阁将继续执政到新内阁产生",
+      "link": "https://baijiahao.baidu.com/s?id=1842791799640934279&wfr=spider&for=pc",
+      "time": "9月9日 21:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "尼泊尔多个机场停摆，多城实施宵禁",
+      "link": "https://baijiahao.baidu.com/s?id=1842791166746675487&wfr=spider&for=pc",
+      "time": "9月9日 20:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "尼泊尔总理辞职，总统已接受辞呈",
+      "link": "https://baijiahao.baidu.com/s?id=1842785472889420529&wfr=spider&for=pc",
+      "time": "9月9日 19:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "尼泊尔爆发大规模示威游行，中使馆提醒在尼中国公民加强安全防范",
+      "link": "https://baijiahao.baidu.com/s?id=1842740739981981558",
+      "time": "9月9日 07:34",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 12,
+  "scrape_time": "2025-09-12 09:45:37"
+}

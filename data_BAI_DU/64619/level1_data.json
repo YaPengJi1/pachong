@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "电池产业“反内卷”不断加码",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:29:51"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "电池板块逆市上涨 储能海外需求爆发",
+      "link": "http://stock.stockstar.com/IG2025090400016177.shtml",
+      "time": "9月4日 12:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "电池板块领涨,储能电池ETF涨近3%",
+      "link": "http://finance.sina.cn/2025-09-03/detail-infperun8028738.d.html",
+      "time": "9月3日 11:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "电池产业链催化不断 储能电池ETF广发一度涨超3%",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-13 01:30:05"
+}

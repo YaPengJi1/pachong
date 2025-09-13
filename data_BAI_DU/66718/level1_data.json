@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "第七届“丝路海运”国际合作论坛",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:05:44"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "第七届“丝路海运”国际合作论坛",
+      "link": "http://finance.sina.cn/2025-09-10/detail-infpyprn4349188.d.html",
+      "time": "9月10日 10:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "福建厦门举办第二十五届中国国际投资贸易洽谈会",
+      "link": "http://tv.cctv.com/2025/09/09/VIDEpdin7dqUfAgTt2QcW81Y250909.shtml",
+      "time": "9月9日 11:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "“港航畅丝路,商贸通四海” 第七届“丝路海运”国际合作论坛开幕",
+      "link": "http://www.163.com/dy/article/K90S3DLT0519A8ON.html",
+      "time": "9月9日 11:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "第七届“丝路海运”国际合作论坛开幕",
+      "link": "http://finance.sina.cn/2025-09-08/detail-infpuwra9494209.d.html",
+      "time": "9月8日 21:17",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 10:05:59"
+}

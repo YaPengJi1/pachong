@@ -1,0 +1,59 @@
+{
+  "core_event_name": "金价创新高",
+  "comments": [
+    {
+      "event_title": "黄金价格创新高 国际金价上涨 再次刷新历史新高",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10843176651886803763",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:40:04",
+      "event_time": "9月4日 14:25"
+    },
+    {
+      "event_title": "金价屡创新高 多因素推动价格上涨",
+      "event_id": "event_2",
+      "event_url": "http://tv.cctv.com/2025/09/04/VIDE0pfatROfvnVAoGqY3FOk250904.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:40:06",
+      "event_time": "9月4日 09:48"
+    },
+    {
+      "event_title": "国际金价创下历史新高",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.cn/2025-09-04/detail-infphutn7016605.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:40:08",
+      "event_time": "9月4日 09:13"
+    },
+    {
+      "event_title": "黄金主题ETF年内资金净流入超580亿元",
+      "event_id": "event_4",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1756942240&pk=68b77e3fb15ec0386f787ba8",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:40:10",
+      "event_time": "9月3日 07:31"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-13 02:40:10"
+}

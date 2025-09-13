@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "以军控制加沙城40%区域",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:37:19"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "关注巴以局势 以军称已控制加沙城40%区域",
+      "link": "http://tv.cctv.com/2025/09/06/VIDExrHgOmfjIxkfHurvTaAR250906.shtml",
+      "time": "9月6日 00:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "以军称已控制加沙城四成区域 军事行动还将扩大",
+      "link": "http://video.sina.cn/finance/2025-09-05/detail-infpnfmz0592088.d.html",
+      "time": "9月5日 22:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "胡塞武装称再袭以色列并命中目标!以军:在加沙城军事行动推进至新区域!以总理:以军正为进攻加沙城做准备!",
+      "link": "http://m.nbd.com.cn/articles/2025-09-03/4047027.html",
+      "time": "9月3日 07:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "以军称已展开军事进攻加沙城",
+      "link": "http://tv.cctv.com/2025/08/30/VIDEFfpbdE63ZkHW1LxUzJGT250830.shtml",
+      "time": "8月30日 08:56",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 20:37:33"
+}

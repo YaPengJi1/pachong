@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:08:46"
+  },
+  "core_event": {
+    "core_event_name": "租房新规出台",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:08:03"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "租房押金不得随意扣减!租房新规下周施行",
+      "link": "http://baijiahao.baidu.com/s?id=1842942131960544088&wfr=spider&for=pc",
+      "time": "昨天 12:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "租房新规下周施行",
+      "link": "http://finance.sina.cn/2025-09-09/detail-infpwzqe5056316.d.html",
+      "time": "9月9日 18:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "新规要求租房合同签后30天内到街道办或房产管理部门备案，逾期可能影响",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4570783800367062181",
+      "time": "9月8日 18:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "最严租房新规出炉，“押一付三”将消失?租客和房东迎来好消息!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10400538813921444692",
+      "time": "9月6日 18:34",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "租房押金不得随意扣减!租房新规下周施行",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842942131960544088&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "萱萱讨厌打扫",
+      "comment_time": "19小时前",
+      "comment_content": "内容很精彩，期待更新！",
+      "user_location": "吉林",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:08:36",
+      "event_time": "昨天 12:55"
+    },
+    {
+      "event_title": "租房新规下周施行",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/2025-09-09/detail-infpwzqe5056316.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:08:38",
+      "event_time": "9月9日 18:19"
+    },
+    {
+      "event_title": "新规要求租房合同签后30天内到街道办或房产管理部门备案，逾期可能影响",
+      "event_id": "event_3",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4570783800367062181",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:08:40",
+      "event_time": "9月8日 18:46"
+    },
+    {
+      "event_title": "最严租房新规出炉，“押一付三”将消失?租客和房东迎来好消息!",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10400538813921444692",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:08:42",
+      "event_time": "9月6日 18:34"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 10:08:17",
+    "level2_scrape_time": "2025-09-12 10:08:42"
+  }
+}

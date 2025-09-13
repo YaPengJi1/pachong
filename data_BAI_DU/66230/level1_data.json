@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "高通骁龙8 Elite Gen5发布",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:52:39"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "高通2025骁龙峰会定档 骁龙8 Elite Gen5即将发布",
+      "link": "http://www.techweb.com.cn/ucweb/news/id/2965555",
+      "time": "9月8日 15:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "高通新旗舰名字定了,或就叫骁龙8 Elite Gen5",
+      "link": "http://app.myzaker.com/news/article.php?m=1757239318&pk=68bd54ba8e9f095c0222ec4d",
+      "time": "9月7日 17:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "曝高通骁龙8 Elite Gen6将升级台积电2nm工艺:成本飙升",
+      "link": "http://baijiahao.baidu.com/s?id=1842147551155317021&wfr=spider&for=pc",
+      "time": "9月2日 18:24",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 14:52:54"
+}

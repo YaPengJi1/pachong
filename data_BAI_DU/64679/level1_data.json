@@ -1,0 +1,92 @@
+{
+  "core_info": {
+    "core_event_name": "寒武纪股价震荡跌超5%",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:32:28"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "芯片股震荡下挫 寒武纪等多股跌超5%",
+      "link": "http://fund.eastmoney.com/a/202509043504399235.html",
+      "time": "9月4日 09:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "寒武纪股价跌5%,博道基金旗下1只基金重仓,持有5.33万股浮亏损失398万元",
+      "link": "http://www.163.com/dy/article/K8C59AN305568W0A.html",
+      "time": "9月1日 10:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "寒武纪股价跌5%,中航基金旗下1只基金重仓,持有2070股浮亏损失15.45万元",
+      "link": "http://finance.sina.cn/2025-09-01/detail-infnycqi9503154.d.html",
+      "time": "9月1日 10:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "寒武纪股价跌5%,华宝基金旗下5只基金重仓,合计持有21.3万股浮亏损失1589.69万元",
+      "link": "http://baijiahao.baidu.com/s?id=1842025996408674603&wfr=spider&for=pc",
+      "time": "9月1日 10:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "寒武纪股价跌5%,富安达基金旗下1只基金重仓,持有4.75万股浮亏损失354.66万元",
+      "link": "http://finance.sina.cn/2025-09-01/detail-infnycqm7991815.d.html",
+      "time": "9月1日 10:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "寒武纪股价跌5%,天弘基金旗下12只基金重仓,合计持有71.06万股浮亏损失5303.25万元",
+      "link": "http://baijiahao.baidu.com/s?id=1842025984131578254&wfr=spider&for=pc",
+      "time": "9月1日 10:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "寒武纪股价跌5%,国联基金旗下1只基金重仓,持有6000股浮亏损失44.78万元",
+      "link": "http://finance.sina.cn/2025-09-01/detail-infnycqm7991616.d.html",
+      "time": "9月1日 10:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "寒武纪股价跌5%,华泰资管旗下1只基金重仓,持有6077股浮亏损失45.35万元",
+      "link": "http://finance.sina.cn/2025-09-01/detail-infnycqi9502751.d.html",
+      "time": "9月1日 10:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "寒武纪股价跌5%,大成基金旗下3只基金重仓,合计持有6.44万股浮亏损失480.51万元",
+      "link": "http://baijiahao.baidu.com/s?id=1842025953336173472&wfr=spider&for=pc",
+      "time": "9月1日 10:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "寒武纪股价跌5%,易米基金旗下1只基金重仓,持有2750股浮亏损失20.52万元",
+      "link": "http://finance.sina.cn/2025-09-01/detail-infnycqi9502471.d.html",
+      "time": "9月1日 10:13",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 10,
+  "scrape_time": "2025-09-13 02:32:42"
+}

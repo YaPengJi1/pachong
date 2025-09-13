@@ -1,0 +1,46 @@
+{
+  "core_event_name": "曼联3号门将奥纳纳转会",
+  "comments": [
+    {
+      "event_title": "奥纳纳选择转会，抓住机会重建声誉",
+      "event_id": "event_1",
+      "event_url": "http://k.sina.cn/article_2018499075_784fda0302002hp92.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:54:34",
+      "event_time": "9月10日 18:44"
+    },
+    {
+      "event_title": "奥纳纳赛季归队时本想与曼联续约,但阿莫林对他并不满意",
+      "event_id": "event_2",
+      "event_url": "http://m.dongqiudi.com/article/5361268.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:54:36",
+      "event_time": "9月8日 17:39"
+    },
+    {
+      "event_title": "曼联正在与特拉布宗体育谈奥纳纳,租借不含买断选项",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8QJB30H0529DS7F.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:54:38",
+      "event_time": "9月7日 00:50"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 09:54:38"
+}

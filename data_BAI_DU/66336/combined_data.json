@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:54:13"
+  },
+  "core_event": {
+    "core_event_name": "固态电池再度引爆市场",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:53:49"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "固态电池,新突破",
+      "link": "http://finance.sina.com.cn/stock/marketresearch/2025-09-09/doc-infpvyaq8926023.shtml?froms=bdmp",
+      "time": "9月9日 08:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "大面积异动!固态电池爆发",
+      "link": "http://emwap.eastmoney.com/a/202509053505853860.html",
+      "time": "9月5日 15:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "固态电池再度引爆市场!谁将主宰万亿产业革命?",
+      "link": "http://fund.jrj.com.cn/2025/09/05100952938791.shtml",
+      "time": "9月5日 10:09",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "固态电池,新突破",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.com.cn/stock/marketresearch/2025-09-09/doc-infpvyaq8926023.shtml?froms=bdmp",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:54:05",
+      "event_time": "9月9日 08:19"
+    },
+    {
+      "event_title": "大面积异动!固态电池爆发",
+      "event_id": "event_2",
+      "event_url": "http://emwap.eastmoney.com/a/202509053505853860.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:54:07",
+      "event_time": "9月5日 15:01"
+    },
+    {
+      "event_title": "固态电池再度引爆市场!谁将主宰万亿产业革命?",
+      "event_id": "event_3",
+      "event_url": "http://fund.jrj.com.cn/2025/09/05100952938791.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:54:09",
+      "event_time": "9月5日 10:09"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 14:54:03",
+    "level2_scrape_time": "2025-09-12 14:54:09"
+  }
+}

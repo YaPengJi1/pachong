@@ -1,0 +1,72 @@
+{
+  "core_event_name": "贵州茅台股价重登A股“股王”",
+  "comments": [
+    {
+      "event_title": "贵州茅台最近做了哪些事?",
+      "event_id": "event_1",
+      "event_url": "http://www.jiemian.com/article/13298422.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:26:39",
+      "event_time": "9月4日 09:12"
+    },
+    {
+      "event_title": "股价超寒武纪,贵州茅台重登A股“股王”",
+      "event_id": "event_2",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1756805158&pk=68b56726b15ec042a93c25db",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:26:41",
+      "event_time": "9月1日 17:28"
+    },
+    {
+      "event_title": "“股王争夺战”后,贵州茅台发布两公告",
+      "event_id": "event_3",
+      "event_url": "http://m.guancha.cn/GongSi/2025_08_30_788273.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:26:43",
+      "event_time": "8月30日 12:30"
+    },
+    {
+      "event_title": "贵州茅台将通过集中竞价交易方式增持公司股票",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841846823613155684&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:26:59",
+      "event_time": "8月30日 10:46"
+    },
+    {
+      "event_title": "茅台重新超越寒武纪夺回股王宝座",
+      "event_id": "event_5",
+      "event_url": "http://finance.sina.com.cn/stock/relnews/cn/2025-08-29/doc-infnrstn1176787.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:27:01",
+      "event_time": "8月29日 13:49"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-13 01:27:01"
+}

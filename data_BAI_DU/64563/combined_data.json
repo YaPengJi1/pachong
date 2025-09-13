@@ -1,0 +1,269 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:14:37"
+  },
+  "core_event": {
+    "core_event_name": "齐鲁秋季车展",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:12:33"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "齐鲁秋季车展各类车型集中亮相",
+      "link": "http://baijiahao.baidu.com/s?id=1842380964729447915&wfr=spider&for=pc",
+      "time": "9月5日 08:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "2025齐鲁秋季车展开幕 近千款车型亮相泉城",
+      "link": "http://baijiahao.baidu.com/s?id=1842329845398640798&wfr=spider&for=pc",
+      "time": "9月4日 18:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "齐鲁秋季车展:六座七座SUV和MPV受青睐",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infpimrh3414736.d.html",
+      "time": "9月4日 14:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "比亚迪“全家福”强势亮相齐鲁秋季车展",
+      "link": "http://baijiahao.baidu.com/s?id=1842301094758301577&wfr=spider&for=pc",
+      "time": "9月4日 11:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "齐鲁车展大放价 红旗全系 好车现订速提",
+      "link": "http://www.autohome.com.cn/dealer/202509/1414812249.html",
+      "time": "9月4日 10:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "齐鲁秋季车展即将开幕，参展商及观众云集展馆",
+      "link": "http://baijiahao.baidu.com/s?id=1842296568515243902&wfr=spider&for=pc",
+      "time": "9月4日 09:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "齐齐”答疑、拍报留念、玩MR乐园,齐鲁车展数字化体验全面升级",
+      "link": "http://baijiahao.baidu.com/s?id=1842312105324203003&wfr=spider&for=pc",
+      "time": "9月4日 02:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "齐鲁秋季车展布展排练忙不停",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12443741819573602790",
+      "time": "9月3日 19:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "齐鲁秋季车展布展忙，明日开幕蓄势待发",
+      "link": "http://finance.sina.cn/2025-09-03/detail-infpfnyf2614240.d.html",
+      "time": "9月3日 18:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "2025齐鲁秋季车展明日开幕",
+      "link": "http://baijiahao.baidu.com/s?id=1842228146018409668&wfr=spider&for=pc",
+      "time": "9月3日 03:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "2026款smart #1 BRABUS性能版上市",
+      "link": "http://k.sina.com.cn/article_5132930861_131f24f2d04001h0j0.html",
+      "time": "8月29日 22:22",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "齐鲁秋季车展各类车型集中亮相",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842380964729447915&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:13:02",
+      "event_time": "9月5日 08:16"
+    },
+    {
+      "event_title": "2025齐鲁秋季车展开幕 近千款车型亮相泉城",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842329845398640798&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "莲莲讨厌起early",
+      "comment_time": "09-05 04:09",
+      "comment_content": "泉城车展真热闹，新车亮相超酷，大家拍照交流一起探索未来驾驶乐趣。",
+      "user_location": "辽宁",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:13:18",
+      "event_time": "9月4日 18:43"
+    },
+    {
+      "event_title": "齐鲁秋季车展:六座七座SUV和MPV受青睐",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.cn/2025-09-04/detail-infpimrh3414736.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:13:20",
+      "event_time": "9月4日 14:32"
+    },
+    {
+      "event_title": "比亚迪“全家福”强势亮相齐鲁秋季车展",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842301094758301577&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "无名指旳痛c7",
+      "comment_time": "09-04 22:02",
+      "comment_content": "比亚迪这阵容真全啊，三千平米太有排面了，技术实力顶上去的。",
+      "user_location": "内蒙古",
+      "like_count": 1,
+      "scrape_time": "2025-09-13 02:13:36",
+      "event_time": "9月4日 11:06"
+    },
+    {
+      "event_title": "比亚迪“全家福”强势亮相齐鲁秋季车展",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842301094758301577&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "颜竹心菲菲",
+      "comment_time": "09-06 17:19",
+      "comment_content": "哈哈哈",
+      "user_location": "北京",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:13:36",
+      "event_time": "9月4日 11:06"
+    },
+    {
+      "event_title": "齐鲁车展大放价 红旗全系 好车现订速提",
+      "event_id": "event_5",
+      "event_url": "http://www.autohome.com.cn/dealer/202509/1414812249.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:13:38",
+      "event_time": "9月4日 10:02"
+    },
+    {
+      "event_title": "齐鲁秋季车展即将开幕，参展商及观众云集展馆",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842296568515243902&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:13:54",
+      "event_time": "9月4日 09:55"
+    },
+    {
+      "event_title": "齐齐”答疑、拍报留念、玩MR乐园,齐鲁车展数字化体验全面升级",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842312105324203003&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:14:10",
+      "event_time": "9月4日 02:01"
+    },
+    {
+      "event_title": "齐鲁秋季车展布展排练忙不停",
+      "event_id": "event_8",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12443741819573602790",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:14:12",
+      "event_time": "9月3日 19:20"
+    },
+    {
+      "event_title": "齐鲁秋季车展布展忙，明日开幕蓄势待发",
+      "event_id": "event_9",
+      "event_url": "http://finance.sina.cn/2025-09-03/detail-infpfnyf2614240.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:14:14",
+      "event_time": "9月3日 18:51"
+    },
+    {
+      "event_title": "2025齐鲁秋季车展明日开幕",
+      "event_id": "event_10",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842228146018409668&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:14:30",
+      "event_time": "9月3日 03:47"
+    },
+    {
+      "event_title": "2026款smart #1 BRABUS性能版上市",
+      "event_id": "event_11",
+      "event_url": "http://k.sina.com.cn/article_5132930861_131f24f2d04001h0j0.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:14:32",
+      "event_time": "8月29日 22:22"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 11,
+    "total_comments": 12,
+    "events_with_comments": 11,
+    "level1_scrape_time": "2025-09-13 02:12:47",
+    "level2_scrape_time": "2025-09-13 02:14:32"
+  }
+}

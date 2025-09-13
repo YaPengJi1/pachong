@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "小鹏P7全新上市",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:25:34"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "全新小鹏P7上市",
+      "link": "http://www.guancha.cn/qiche/2025_09_05_789084.shtml",
+      "time": "9月5日 10:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "何小鹏喜提全新小鹏P7:王凤英亲自交付",
+      "link": "http://finance.sina.cn/stock/jdts/2025-09-04/detail-infphyzp1931464.d.html",
+      "time": "9月4日 12:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "P7,宣告一个更锋利的小鹏归来!",
+      "link": "http://www.pcauto.com.cn/hj/article/3047473.html",
+      "time": "9月3日 11:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "小鹏P7全新上市:800V架构、超长续航、21.98万起",
+      "link": "http://www.d1ev.com/newsflash/273931",
+      "time": "9月1日 17:35",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 01:25:48"
+}

@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "姚明中国篮协主席郭振明",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:39:55"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "篮协主席:姚明之前做了大量扎实基础工作,到我接手已问题不大",
+      "link": "http://baijiahao.baidu.com/s?id=1842639627243647330&wfr=spider&for=pc",
+      "time": "9月8日 04:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国篮协主席郭振明接受央视专访",
+      "link": "http://weibo.com/1870056321/Q3st6vpFx",
+      "time": "9月7日 14:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "篮协主席郭振明：我和姚明一直保持联系，他为中国篮球发展做了基础性工作",
+      "link": "http://m.dongqiudi.com/article/5359179.html",
+      "time": "9月7日 13:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "郭振明：国家队在国际赛场表现 是衡量中国篮协重要维度但非全部",
+      "link": "http://www.163.com/dy/article/K8Q0GN9U0529AQIE.html",
+      "time": "9月6日 19:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "郭振明：我现在跟姚明仍保持联系，部分重要决策也会咨询他的意见",
+      "link": "http://k.sina.com.cn/article_7880068681_1d5b04e4902001tbwy.html",
+      "time": "9月6日 19:02",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 14:40:09"
+}

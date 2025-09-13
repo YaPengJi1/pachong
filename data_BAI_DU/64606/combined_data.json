@@ -1,0 +1,235 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:20:59"
+  },
+  "core_event": {
+    "core_event_name": "纽卡斯尔联队签下利物浦前锋伊萨克",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:20:07"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "利物浦晒伊萨克体检视频",
+      "link": "http://www.163.com/dy/article/K8K1H1870529AQIE.html",
+      "time": "9月4日 11:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "利物浦名宿谈伊萨克转会",
+      "link": "http://weibo.com/7912834943/Q2RMY7PnB",
+      "time": "9月3日 16:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "英超提前大结局?利物浦签下伊萨克!阿森纳冠军又没戏了?",
+      "link": "http://baijiahao.baidu.com/s?id=1842070291512078152&wfr=spider&for=pc",
+      "time": "9月1日 21:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "伊萨克转会利物浦,皇家社会斩获800万欧元分成!",
+      "link": "http://www.sohu.com/a/930874336_122001004",
+      "time": "9月1日 21:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "红军3年前截止日租阿图尔,今日1.3亿镑创纪录签伊萨克",
+      "link": "http://www.163.com/dy/article/K8CQD90V0529AQIE.html",
+      "time": "9月1日 16:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "伊萨克无法获得纽卡忠诚奖金",
+      "link": "http://m.dongqiudi.com/article/5347735.html",
+      "time": "9月1日 14:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "利物浦签伊萨克暗藏三大隐患,英超格局或将重塑?",
+      "link": "http://www.sohu.com/a/930685360_122387568",
+      "time": "9月1日 11:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "利物浦1.3亿镑签下伊萨克",
+      "link": "http://app.myzaker.com/news/article.php?m=1756772400&pk=68b4e6cab15ec043ff772d9a",
+      "time": "9月1日 08:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "纽卡已同意以1.3亿镑将伊萨克出售给利物浦",
+      "link": "http://www.dongqiudi.com/articles/5346948.html",
+      "time": "9月1日 07:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "记者:纽卡仍更希望留住伊萨克,让其与沃尔特马德搭档锋线",
+      "link": "http://www.163.com/dy/article/K889NPTJ0529AQIE.html",
+      "time": "8月30日 22:15",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "利物浦晒伊萨克体检视频",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8K1H1870529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:20:22",
+      "event_time": "9月4日 11:43"
+    },
+    {
+      "event_title": "利物浦名宿谈伊萨克转会",
+      "event_id": "event_2",
+      "event_url": "http://weibo.com/7912834943/Q2RMY7PnB",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:20:24",
+      "event_time": "9月3日 16:51"
+    },
+    {
+      "event_title": "英超提前大结局?利物浦签下伊萨克!阿森纳冠军又没戏了?",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842070291512078152&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "MJGETBUCK",
+      "comment_time": "09-01 22:15",
+      "comment_content": "利物浦引援真猛，伊萨克加盟火力升级，前三轮全胜领跑，卫冕希望大增。",
+      "user_location": "上海",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:20:41",
+      "event_time": "9月1日 21:58"
+    },
+    {
+      "event_title": "伊萨克转会利物浦,皇家社会斩获800万欧元分成!",
+      "event_id": "event_4",
+      "event_url": "http://www.sohu.com/a/930874336_122001004",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:20:43",
+      "event_time": "9月1日 21:29"
+    },
+    {
+      "event_title": "红军3年前截止日租阿图尔,今日1.3亿镑创纪录签伊萨克",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8CQD90V0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:20:45",
+      "event_time": "9月1日 16:24"
+    },
+    {
+      "event_title": "伊萨克无法获得纽卡忠诚奖金",
+      "event_id": "event_6",
+      "event_url": "http://m.dongqiudi.com/article/5347735.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:20:47",
+      "event_time": "9月1日 14:42"
+    },
+    {
+      "event_title": "利物浦签伊萨克暗藏三大隐患,英超格局或将重塑?",
+      "event_id": "event_7",
+      "event_url": "http://www.sohu.com/a/930685360_122387568",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:20:49",
+      "event_time": "9月1日 11:58"
+    },
+    {
+      "event_title": "利物浦1.3亿镑签下伊萨克",
+      "event_id": "event_8",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1756772400&pk=68b4e6cab15ec043ff772d9a",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:20:51",
+      "event_time": "9月1日 08:20"
+    },
+    {
+      "event_title": "纽卡已同意以1.3亿镑将伊萨克出售给利物浦",
+      "event_id": "event_9",
+      "event_url": "http://www.dongqiudi.com/articles/5346948.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:20:53",
+      "event_time": "9月1日 07:11"
+    },
+    {
+      "event_title": "记者:纽卡仍更希望留住伊萨克,让其与沃尔特马德搭档锋线",
+      "event_id": "event_10",
+      "event_url": "http://www.163.com/dy/article/K889NPTJ0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:20:55",
+      "event_time": "8月30日 22:15"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 10,
+    "total_comments": 10,
+    "events_with_comments": 10,
+    "level1_scrape_time": "2025-09-13 01:20:21",
+    "level2_scrape_time": "2025-09-13 01:20:55"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "哈尔滨马拉松“最快女护士”哭诉",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:26:45"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "马拉松“最快女护士”哭调休",
+      "link": "http://www.163.com/dy/article/K90KHS6I0516BIKO.html",
+      "time": "9月9日 09:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "张水华哈尔滨马拉松成绩",
+      "link": "http://weibo.com/6901776669/Q3deUhZif",
+      "time": "9月5日 23:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "张水华，被称为“最快女护士”的马拉松冠军",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4648585771124060902",
+      "time": "9月4日 22:06",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 10:26:59"
+}

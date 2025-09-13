@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:13:42"
+  },
+  "core_event": {
+    "core_event_name": "特朗普对俄罗斯第二阶段制裁",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:13:17"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "竟想对华征税100%?美国逼欧盟:你先来",
+      "link": "http://www.163.com/dy/article/K94JV12R05345ARG.html",
+      "time": "9月10日 22:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特朗普称准备对俄罗斯实施第二阶段制裁",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3402032707327368112",
+      "time": "9月9日 18:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "对俄制裁?特朗普称准备“第二阶段”制裁,俄方:“毫无作用”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=14674353149141755690",
+      "time": "9月9日 17:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普政府称已准备好对俄第二阶段制裁",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6295735038184921674",
+      "time": "9月8日 15:28",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "竟想对华征税100%?美国逼欧盟:你先来",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K94JV12R05345ARG.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:13:32",
+      "event_time": "9月10日 22:14"
+    },
+    {
+      "event_title": "特朗普称准备对俄罗斯实施第二阶段制裁",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=3402032707327368112",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:13:34",
+      "event_time": "9月9日 18:25"
+    },
+    {
+      "event_title": "对俄制裁?特朗普称准备“第二阶段”制裁,俄方:“毫无作用”",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=14674353149141755690",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:13:36",
+      "event_time": "9月9日 17:13"
+    },
+    {
+      "event_title": "特朗普政府称已准备好对俄第二阶段制裁",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6295735038184921674",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:13:38",
+      "event_time": "9月8日 15:28"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 11:13:31",
+    "level2_scrape_time": "2025-09-12 11:13:38"
+  }
+}

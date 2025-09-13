@@ -1,0 +1,108 @@
+{
+  "core_info": {
+    "core_event_name": "第16号台风“塔巴”",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:32:34"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "今年第16号台风“塔巴”给华南多地带来强风雨天气",
+      "link": "http://www.bilibili.com/video/BV1NcafzzErj",
+      "time": "9月8日 20:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "台风“塔巴”逼近,沿海风雨大作,警惕强风暴雨!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7605952142084876885",
+      "time": "9月8日 00:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "台风“塔巴”要来了,中央气象台发布预警,广东沿海即将迎来“风王”洗礼",
+      "link": "http://baijiahao.baidu.com/s?id=1842592100224691538&wfr=spider&for=pc",
+      "time": "9月7日 16:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "台风“塔巴”生成 华南多地风雨增强",
+      "link": "http://weibo.com/3212726410/Q3t0K6zgS",
+      "time": "9月7日 15:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "双预警持续发布!台风“塔巴”即将登陆",
+      "link": "http://baijiahao.baidu.com/s?id=1842583453267510243&wfr=spider&for=pc",
+      "time": "9月7日 13:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "台风“塔巴”要来了",
+      "link": "http://www.sxwbs.com/detail/99b6abfc23ba4e198c4224e89be2115b?t=MjAyNS0wOS0wNw==&contentType=1",
+      "time": "9月7日 12:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "广东68个台风预警信号生效中,琼州海峡航线全线停运",
+      "link": "http://baijiahao.baidu.com/s?id=1842575799192248692&wfr=spider&for=pc",
+      "time": "9月7日 11:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "台风“塔巴”直扑广东",
+      "link": "http://finance.sina.com.cn/wm/2025-09-07/doc-infprser0967696.shtml",
+      "time": "9月7日 11:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "台风“塔巴”直奔广东",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31572756",
+      "time": "9月7日 09:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "台风“塔巴”生成",
+      "link": "http://weibo.com/1871802012/Q3lTFCLmG",
+      "time": "9月6日 21:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "16号台风“塔巴”来袭,湛江天气情况",
+      "link": "http://www.163.com/dy/article/K8Q7AUP00534RQFQ.html",
+      "time": "9月6日 21:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "广东台风大暴雨酝酿中 或发展为16号台风“塔巴”",
+      "link": "http://news.ycwb.com/ikinvkbtko/content_53644059.htm",
+      "time": "9月4日 17:19",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 12,
+  "scrape_time": "2025-09-12 10:32:48"
+}

@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "2025年上半年券商研究所分仓佣金降超三成",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:12:56"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "40亿分仓佣金分布揭秘:缩水三成、黑马涌现",
+      "link": "http://www.163.com/dy/article/K8K9RIVG05199NPP.html",
+      "time": "9月4日 14:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "上半年券商研究所分仓佣金降超三成",
+      "link": "http://www.jiemian.com/article/13297991.html",
+      "time": "9月4日 11:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "券商分仓佣金总收入再降34% 中小券商“上桌” 华源证券暴涨21倍、华福证券翻3倍",
+      "link": "http://finance.eastmoney.com/a/202509023502664540.html",
+      "time": "9月2日 20:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "券商分仓佣金排位赛生变:华源狂飙21倍,华福增长3倍,中小券商“掀桌”了?",
+      "link": "http://baijiahao.baidu.com/s?id=1842122231279362954&wfr=spider&for=pc",
+      "time": "9月2日 11:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "2025年上半年分仓佣金榜揭晓",
+      "link": "http://finance.sina.cn/fund/jjgdxw/2025-08-31/detail-infnwvve1938496.d.html?mon=$(mon)",
+      "time": "8月31日 22:06",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 17:13:11"
+}

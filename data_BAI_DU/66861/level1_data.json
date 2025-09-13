@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "中科曙光发布首个AI计算开放架构",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:40:38"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国内首个AI计算开放架构发布",
+      "link": "http://www.nbd.com.cn/articles/2025-09-08/4052449.html",
+      "time": "9月8日 14:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "曙光数创亮相智博会:液冷加持,AI集群走向高效与可持续",
+      "link": "http://tech.ce.cn/xxfw/202509/t20250908_2467632.shtml",
+      "time": "9月8日 10:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国首个AI计算开放架构发布",
+      "link": "http://tv.cctv.com/2025/09/06/VIDEBrhUF6lCRaOcSn5OndQD250906.shtml",
+      "time": "9月6日 21:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "首个AI计算开放架构发布 国产智算迎来“安卓模式”",
+      "link": "http://finance.sina.com.cn/tech/roll/2025-09-06/doc-infppxvm1883922.shtml",
+      "time": "9月6日 17:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "国内首个AI计算开放架构在重庆发布",
+      "link": "http://cq.people.com.cn/BIG5/n2/2025/0905/c365401-41343297.html",
+      "time": "9月5日 20:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 10:40:52"
+}

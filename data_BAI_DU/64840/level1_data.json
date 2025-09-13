@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "比亚迪纯电动环卫车亮相九三阅兵",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:44:39"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "比亚迪纯电动环卫车组建“第零方阵”，护航九三阅兵",
+      "link": "http://www.163.com/dy/article/K8MTNOOJ05278DF4.html",
+      "time": "9月5日 14:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "比亚迪电动环卫车三度受阅彰显中国智造",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8928676086898409092",
+      "time": "9月4日 16:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "比亚迪纯电环卫车10年3次亮相国家盛典",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9249995697533914859",
+      "time": "9月3日 21:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "比亚迪纯电动环卫车护航九三阅兵",
+      "link": "http://www.sznews.com/news/content/2025-09/03/content_31681750.htm",
+      "time": "9月3日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "比亚迪纯电动环卫车交付郑州航空港",
+      "link": "http://www.sohu.com/a/931030754_121007586",
+      "time": "9月2日 10:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "比亚迪环卫车搭载中兴通讯5G车规级通信模组亮相阅兵式",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 17:44:53"
+}

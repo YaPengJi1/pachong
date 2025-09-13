@@ -1,0 +1,92 @@
+{
+  "core_info": {
+    "core_event_name": "张雪峰捐款5000万支持统一引争议",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:36:26"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "张雪峰高调捐款5000万支持统一,反遭全网“扒皮”正常吗?",
+      "link": "http://new.qq.com/rain/a/20250911V025LG00",
+      "time": "昨天 09:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "张雪峰爱国捐款言论引发争议",
+      "link": "http://baijiahao.baidu.com/s?id=1842827067372908701&wfr=spider&for=pc",
+      "time": "9月10日 07:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "张雪峰被质疑捐5000万是表演性爱国",
+      "link": "http://www.163.com/dy/article/K90SRALQ05566MOH.html",
+      "time": "9月9日 11:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "张雪峰说愿意为统一捐款五千万，引得一群“汉奸”露出狐狸尾巴",
+      "link": "http://www.163.com/dy/article/K90QCUUD05562A4W.html",
+      "time": "9月9日 10:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "张雪峰老师称要捐款5000万元",
+      "link": "http://new.qq.com/rain/a/20250909V012G500",
+      "time": "9月9日 02:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "张雪峰老师声称要捐5000万元",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6179520583662014478",
+      "time": "9月9日 02:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "张雪峰捐5000万用于创业",
+      "link": "http://new.qq.com/rain/a/20250909A0017I00",
+      "time": "9月9日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "张雪峰回应为祖国统一战争捐款5000万",
+      "link": "http://app.myzaker.com/news/article.php?m=1757320718&pk=68be9027b15ec042115806cc",
+      "time": "9月8日 16:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "张雪峰回应承诺捐款5000万支持统一",
+      "link": "http://weibo.com/tv/show/1034:5208365396328455",
+      "time": "9月7日 22:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "张雪峰捐款5千万支持统一被嘲",
+      "link": "http://news.ifeng.com/c/8mSauQ5u0Ut",
+      "time": "9月7日 19:50",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 10,
+  "scrape_time": "2025-09-12 10:36:40"
+}

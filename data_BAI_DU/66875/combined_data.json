@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:56:08"
+  },
+  "core_event": {
+    "core_event_name": "《空洞骑士:丝之歌》上线被喷爆",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:55:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "丝之歌上线引发商店崩溃,Steam和Switch都遭殃",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8197138255897737019",
+      "time": "9月9日 23:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "前作卖了1500W的游戏 《空洞骑士:丝之歌》上线就被喷爆",
+      "link": "http://news.17173.com/content/09092025/130607194.shtml",
+      "time": "9月9日 13:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "《空洞骑士:丝之歌》Steam 国区好评率跌破 50%",
+      "link": "http://baijiahao.baidu.com/s?id=1842496536756093764&wfr=spider&for=pc",
+      "time": "9月6日 14:38",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "丝之歌上线引发商店崩溃,Steam和Switch都遭殃",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8197138255897737019",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:55:45",
+      "event_time": "9月9日 23:35"
+    },
+    {
+      "event_title": "前作卖了1500W的游戏 《空洞骑士:丝之歌》上线就被喷爆",
+      "event_id": "event_2",
+      "event_url": "http://news.17173.com/content/09092025/130607194.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:55:47",
+      "event_time": "9月9日 13:06"
+    },
+    {
+      "event_title": "《空洞骑士:丝之歌》Steam 国区好评率跌破 50%",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842496536756093764&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:56:04",
+      "event_time": "9月6日 14:38"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 10:55:44",
+    "level2_scrape_time": "2025-09-12 10:56:04"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:37:16"
+  },
+  "core_event": {
+    "core_event_name": "朱婷邀你参加河南女排城市联赛",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:36:31"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "2025年河南省女子排球城市联赛9月13日精彩开赛",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5635745169980885004",
+      "time": "9月5日 11:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "河南“排超”将登场:奥运冠军朱婷“喊你来打球”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6246087613096843335",
+      "time": "9月4日 19:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "河南女排城市联赛开打，朱婷任大使",
+      "link": "http://weibo.com/1841812881/Q31jVmcoR",
+      "time": "9月4日 17:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "郑超郑BA河南排超点燃全城!奥运冠军朱婷助阵全民赛事",
+      "link": "http://www.sohu.com/a/931843220_122387568",
+      "time": "9月4日 15:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "2025年河南省女子排球城市联赛将启幕",
+      "link": "http://baijiahao.baidu.com/s?id=1842309242122010749&wfr=spider&for=pc",
+      "time": "9月4日 12:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "朱婷邀你扣响未来!2025年河南省女子排球城市联赛蓄势待发",
+      "link": "http://www.sohu.com/a/931794917_121924582",
+      "time": "9月4日 11:12",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "2025年河南省女子排球城市联赛9月13日精彩开赛",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5635745169980885004",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:36:46",
+      "event_time": "9月5日 11:14"
+    },
+    {
+      "event_title": "河南“排超”将登场:奥运冠军朱婷“喊你来打球”",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6246087613096843335",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:36:48",
+      "event_time": "9月4日 19:01"
+    },
+    {
+      "event_title": "河南女排城市联赛开打，朱婷任大使",
+      "event_id": "event_3",
+      "event_url": "http://weibo.com/1841812881/Q31jVmcoR",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:36:50",
+      "event_time": "9月4日 17:07"
+    },
+    {
+      "event_title": "郑超郑BA河南排超点燃全城!奥运冠军朱婷助阵全民赛事",
+      "event_id": "event_4",
+      "event_url": "http://www.sohu.com/a/931843220_122387568",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:36:52",
+      "event_time": "9月4日 15:24"
+    },
+    {
+      "event_title": "2025年河南省女子排球城市联赛将启幕",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842309242122010749&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "SPA技师樱花",
+      "comment_time": "09-04 19:57",
+      "comment_content": "朱婷助力家乡排球联赛，年龄放宽到16-45岁，大家一起加油参与吧。",
+      "user_location": "浙江",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:37:10",
+      "event_time": "9月4日 12:45"
+    },
+    {
+      "event_title": "朱婷邀你扣响未来!2025年河南省女子排球城市联赛蓄势待发",
+      "event_id": "event_6",
+      "event_url": "http://www.sohu.com/a/931794917_121924582",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:37:12",
+      "event_time": "9月4日 11:12"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 14:36:45",
+    "level2_scrape_time": "2025-09-12 14:37:12"
+  }
+}

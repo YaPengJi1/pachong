@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:12:04"
+  },
+  "core_event": {
+    "core_event_name": "波兰领空遭遇无人机入侵",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:11:24"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "波兰称击落侵犯其领空的无人机 俄外交官:波兰关于俄无人机入侵其领空的指控“毫无根据”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16960815177454617896",
+      "time": "昨天 11:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "白俄罗斯通报:提前告知波兰",
+      "link": "http://cj.sina.com.cn/articles/view/1653603955/628ffe7302001t1ni",
+      "time": "昨天 10:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "波兰领空遭遇“前所未有的无人机入侵”",
+      "link": "http://baijiahao.baidu.com/s?id=1842866555902820980&wfr=spider&for=pc",
+      "time": "9月10日 16:55",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "波兰称击落侵犯其领空的无人机 俄外交官:波兰关于俄无人机入侵其领空的指控“毫无根据”",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=16960815177454617896",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:11:40",
+      "event_time": "昨天 11:15"
+    },
+    {
+      "event_title": "白俄罗斯通报:提前告知波兰",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/1653603955/628ffe7302001t1ni",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:11:42",
+      "event_time": "昨天 10:17"
+    },
+    {
+      "event_title": "波兰领空遭遇“前所未有的无人机入侵”",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842866555902820980&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "_刘辈",
+      "comment_time": "09-10 17:14",
+      "comment_content": "和平的天空需要共同守护，愿世界少些纷争多些安宁！",
+      "user_location": "内蒙古",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:12:00"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 10:11:39",
+    "level2_scrape_time": "2025-09-12 10:12:00"
+  }
+}

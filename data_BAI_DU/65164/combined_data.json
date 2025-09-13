@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 19:28:20"
+  },
+  "core_event": {
+    "core_event_name": "特朗普对美联储的威胁",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:26:53"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普怕什么来什么,中企弃用美国码头,外汇储备生变,一个时代告终",
+      "link": "http://baijiahao.baidu.com/s?id=1842755771355914920&wfr=spider&for=pc",
+      "time": "9月9日 11:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "当市场意识到特朗普想控制美联储,野村:美国将遭遇“股债汇三杀”",
+      "link": "http://baijiahao.baidu.com/s?id=1842331960507442049&wfr=spider&for=pc",
+      "time": "9月4日 19:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普恐夺权美联储 全球应建立美元流动性储备池",
+      "link": "http://www.163.com/dy/article/K8JQGISP05198CJN.html",
+      "time": "9月4日 09:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "经济学家警告:市场低估了特朗普对美联储的威胁",
+      "link": "http://baijiahao.baidu.com/s?id=1842063968615295104&wfr=spider&for=pc",
+      "time": "9月1日 20:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "管涛：美联储正被置于三重险境",
+      "link": "http://baijiahao.baidu.com/s?id=1841985544237591415&wfr=spider&for=pc",
+      "time": "8月31日 23:31",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "特朗普怕什么来什么,中企弃用美国码头,外汇储备生变,一个时代告终",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842755771355914920&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:27:26",
+      "event_time": "9月9日 11:34"
+    },
+    {
+      "event_title": "当市场意识到特朗普想控制美联储,野村:美国将遭遇“股债汇三杀”",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842331960507442049&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:27:42",
+      "event_time": "9月4日 19:17"
+    },
+    {
+      "event_title": "特朗普恐夺权美联储 全球应建立美元流动性储备池",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8JQGISP05198CJN.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:27:44",
+      "event_time": "9月4日 09:40"
+    },
+    {
+      "event_title": "经济学家警告:市场低估了特朗普对美联储的威胁",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842063968615295104&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:27:59",
+      "event_time": "9月1日 20:18"
+    },
+    {
+      "event_title": "管涛：美联储正被置于三重险境",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841985544237591415&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:28:16",
+      "event_time": "8月31日 23:31"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 19:27:07",
+    "level2_scrape_time": "2025-09-12 19:28:16"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "列维被解雇，热刺老板会谈后被解雇",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:16:29"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "前热刺主帅普拉特:列维很了不起,他给热刺留下了宝贵的遗产",
+      "link": "http://m.dongqiudi.com/article/5358175.html",
+      "time": "9月6日 22:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "列维离任热刺",
+      "link": "http://baijiahao.baidu.com/s?id=1842473667651830042&wfr=spider&for=pc",
+      "time": "9月6日 08:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "列维01年入主热刺至今转会净支出11亿欧，同期英格兰球队第五",
+      "link": "http://k.sina.com.cn/article_7096022664_1a6f4b68802001bcou.html",
+      "time": "9月5日 21:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "列维与热刺老板会谈后被解雇",
+      "link": "http://k.sina.com.cn/article_7880068727_1d5b04e7702002etho.html",
+      "time": "9月5日 18:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "列维任内热刺成绩:结束41年欧战冠军荒,夺1欧联杯+1联赛杯",
+      "link": "http://m.dongqiudi.com/article/5354726.html",
+      "time": "9月5日 01:32",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 14:16:44"
+}

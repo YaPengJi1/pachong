@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "澳门冠军赛女单签位",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:01:26"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "澳门冠军赛女单签位",
+      "link": "http://app.myzaker.com/news/article.php?m=1757370926&pk=68bf58348e9f09501068174d",
+      "time": "9月9日 06:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "WTT澳门冠军赛举行抽签仪式",
+      "link": "http://m.gmw.cn/toutiao/2025-09/08/content_38270915.htm",
+      "time": "9月8日 09:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "WTT澳门冠军赛女单签表出炉",
+      "link": "http://baijiahao.baidu.com/s?id=1842611544573377457&wfr=spider&for=pc",
+      "time": "9月7日 21:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "澳门冠军赛 孙颖莎首轮对阵安",
+      "link": "http://weibo.com/tv/show/1034:5208268226625550",
+      "time": "9月7日 15:49",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 11:01:40"
+}

@@ -1,0 +1,46 @@
+{
+  "core_event_name": "特朗普派兵芝加哥引争议",
+  "comments": [
+    {
+      "event_title": "向洛杉矶派兵被判违法后 特朗普又瞄准芝加哥",
+      "event_id": "event_1",
+      "event_url": "http://cn.chinadaily.com.cn/a/202509/04/WS68b8d3e6a310f07257746a7a.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:19:10",
+      "event_time": "9月4日 07:46"
+    },
+    {
+      "event_title": "美国前总统特朗普推动联邦力量进驻芝加哥",
+      "event_id": "event_2",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_3766744906914850712",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:19:12",
+      "event_time": "9月2日 13:00"
+    },
+    {
+      "event_title": "特朗普派兵计划引争议",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=14902589986452229315",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:19:14",
+      "event_time": "8月30日 20:18"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 21:19:14"
+}

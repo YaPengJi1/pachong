@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "台风“塔巴”登陆广东台山",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:27:58"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "台风“塔巴”今天登陆广东台山 “塔巴”向西北移动 广西将有强风雨",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=388188426657673019",
+      "time": "9月9日 12:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "“塔巴”影响华南地区 “塔巴”向西北移动 广西将有强风雨",
+      "link": "http://tv.cctv.com/2025/09/09/VIDEMqRcxTUgOwWbNSwkGeTA250909.shtml",
+      "time": "9月9日 05:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "台风“塔巴”今晚进入广西,局地累计雨量超300毫米",
+      "link": "http://www.jfdaily.com/news/detail?id=978871",
+      "time": "9月8日 15:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "台风“塔巴”登陆广东台山沿海",
+      "link": "http://tv.cctv.com/2025/09/08/VIDE1INcLOXY6KHLBUUenb5I250908.shtml",
+      "time": "9月8日 11:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "台风“塔巴”于8点50分在广东台山沿海登陆",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13184770088885320474",
+      "time": "9月8日 10:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "台风“塔巴”登陆台山!阳西暴雨黄色预警生效!",
+      "link": "http://www.sohu.com/a/933085571_121976704",
+      "time": "9月8日 10:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "广东68个台风预警信号生效中,琼州海峡航线全线停运",
+      "link": "http://baijiahao.baidu.com/s?id=1842575799192248692&wfr=spider&for=pc",
+      "time": "9月7日 11:53",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 14:28:13"
+}

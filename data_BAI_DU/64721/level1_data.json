@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "美网女单八强出炉",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:34:50"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美网女单下半区阿尼西莫娃击败斯瓦泰克 大阪直美则两盘力克穆霍娃",
+      "link": "http://baijiahao.baidu.com/s?id=1842298091746344410&wfr=spider&for=pc",
+      "time": "9月4日 10:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "阿尼西莫娃6-0、6-3击败玛雅",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2493090110810535015",
+      "time": "9月2日 14:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美网女单8强半数出炉，郑钦文坐享渔利",
+      "link": "http://www.163.com/dy/article/K8CTK7400556CHBA.html",
+      "time": "9月1日 17:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美网:萨巴伦卡晋级女单八强",
+      "link": "http://news.yunnan.cn/system/2025/09/01/033619401.shtml",
+      "time": "9月1日 16:47",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 01:35:04"
+}

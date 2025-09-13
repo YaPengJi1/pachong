@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "成都车展问界M7上市",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:47:45"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "全新问界M7亮相2025智博会 赛力斯全方位展示智能化实践成果",
+      "link": "http://finance.eastmoney.com/a/202509053506234772.html",
+      "time": "9月5日 18:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "预售价 28.8 万起,鸿蒙智行全新问界M7开启预订",
+      "link": "http://a.xcar.com.cn/bbs/thread-101090974-0.html",
+      "time": "9月5日 11:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "全新问界M7更多卖点官宣",
+      "link": "http://www.163.com/dy/article/K8KHFDN50511DG68.html",
+      "time": "9月4日 16:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "问界M7焕新版正式官宣上市",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13430404934662296198",
+      "time": "9月1日 23:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "成都车展震撼上市!现场直击,人潮攒动",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4152121649181959533",
+      "time": "9月1日 15:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "成都车展掀起了一阵升级风暴,众多新车纷纷亮相",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4278912760713801381",
+      "time": "9月1日 10:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "全新问界M7来袭,上市价格要上涨",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17653837756404776100",
+      "time": "8月29日 16:23",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-13 00:48:17"
+}

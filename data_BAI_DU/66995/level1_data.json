@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "WTT澳门冠军赛国乒重创",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:19:39"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国乒男单在WTT澳门冠军赛首轮遭遇重创，向鹏与黄友政相继出局",
+      "link": "http://www.163.com/dy/article/K95NPUQE0529SM26.html",
+      "time": "昨天 08:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "国乒男单“一轮游”+1,向鹏不敌德国名将,曾经的希望之星如今怎么了?",
+      "link": "http://www.jfdaily.com/wx/detail.do?id=980463",
+      "time": "9月10日 21:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "WTT澳门冠军赛次日赛程:国乒5场比赛,孙颖莎出战,向鹏遇强敌",
+      "link": "http://baijiahao.baidu.com/s?id=1842819624658840655&wfr=spider&for=pc",
+      "time": "9月10日 04:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "澳门冠军赛9日赛程出炉，王楚钦压轴迎战日乒小将",
+      "link": "http://baijiahao.baidu.com/s?id=1842751284169003453&wfr=spider&for=pc",
+      "time": "9月9日 10:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "WTT澳门冠军赛举行抽签仪式",
+      "link": "http://baijiahao.baidu.com/s?id=1842659236138982783&wfr=spider&for=pc",
+      "time": "9月8日 09:56",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 11:19:53"
+}

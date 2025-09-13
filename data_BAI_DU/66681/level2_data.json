@@ -1,0 +1,72 @@
+{
+  "core_event_name": "A股突发三大重磅",
+  "comments": [
+    {
+      "event_title": "8月末外储升至33222亿美元",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10727191138793536146",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:02:34",
+      "event_time": "9月9日 16:38"
+    },
+    {
+      "event_title": "我国央行连续第10个月增持黄金",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K90PH6V805199NPP.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:02:36",
+      "event_time": "9月9日 10:33"
+    },
+    {
+      "event_title": "黄金股集体活跃 美非农数据引爆降息预期 央行连续第10个月增持黄金",
+      "event_id": "event_3",
+      "event_url": "http://www.zhitongcaijing.com/content/detail/1342445.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:02:38",
+      "event_time": "9月8日 09:59"
+    },
+    {
+      "event_title": "8月末 中国官方黄金储备7402万盎司",
+      "event_id": "event_4",
+      "event_url": "http://tv.cctv.com/2025/09/08/VIDEPrLsRo0jfDQXYLhop4Qo250908.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:02:40",
+      "event_time": "9月8日 09:27"
+    },
+    {
+      "event_title": "A股突发三大重磅，央行连续10个月增持黄金",
+      "event_id": "event_5",
+      "event_url": "http://weibo.com/2615727253/Q3tbF2Ipz",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:02:42",
+      "event_time": "9月7日 16:03"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 11:02:42"
+}

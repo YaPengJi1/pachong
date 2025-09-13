@@ -1,0 +1,431 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:51:02"
+  },
+  "core_event": {
+    "core_event_name": "中国九三阅兵之际，菲律宾口风突变",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:49:58"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "外交部:黄岩岛是中国固有领土 不接受菲方所谓“抗议”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15173008419599710092",
+      "time": "昨天 21:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "菲律宾挑衅不断遭中方迎头痛击",
+      "link": "http://baijiahao.baidu.com/s?id=1842798276365798418&wfr=spider&for=pc",
+      "time": "9月9日 22:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "九三阅兵后劲太大，日本国内陷入集体焦虑，右翼媒体难掩心虚",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12101469758558809565",
+      "time": "9月8日 15:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "南部战区深夜发声:菲方拉拢澳、加两国,在南海“联合巡航”",
+      "link": "http://news.qq.com/rain/a/20250904A03MCH00",
+      "time": "9月7日 13:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "我国九三阅兵刚结束,这五国表态来了,尤其是菲律宾,非常不一般",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2438950491395247204",
+      "time": "9月6日 18:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "菲律宾防长对中国内外事务说三道四,中方发声",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31552490",
+      "time": "9月6日 17:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "93阅兵刚结束,菲律宾拉来三国撑腰,轮到中国海警立功了",
+      "link": "http://app.myzaker.com/news/article.php?pk=68bb728b8e9f097ab90f86dd",
+      "time": "9月6日 07:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "菲律宾纵容台外事部门负责人窜访菲 中国外交部:菲方不断踩踏中方红线 必将付出代价",
+      "link": "http://tv.cctv.com/2025/09/05/VIDE3hCm8Xy6XNxP8godC1S4250905.shtml",
+      "time": "9月5日 21:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "菲律宾纵容台外事人员窜访 外交部:莫再扮演跳梁小丑!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10072620907737567647",
+      "time": "9月5日 16:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "菲律宾对号入座,声称受到恐吓",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13272509390291876446",
+      "time": "9月5日 16:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "阅兵刚结束，解放军就点名菲律宾，南部战区用行动回应菲澳加",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2737250205128781924",
+      "time": "9月5日 16:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "菲律宾声称“中方不应将自身红线强加于菲方”,外交部回应",
+      "link": "http://finance.sina.com.cn/jjxw/2025-09-05/doc-infpmqqi0850594.shtml",
+      "time": "9月5日 15:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "九三阅兵后北约秘书长表态",
+      "link": "http://finance.sina.com.cn/jjxw/2025-09-05/doc-infpmkhm0892698.shtml",
+      "time": "9月5日 11:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "大阅兵让西方破防,震惊害怕又不服,暗戳戳找补:中国没有实战",
+      "link": "http://k.sina.com.cn/article_1403915120_53ae0b7002001e7wo.html",
+      "time": "9月5日 09:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "中国九三阅兵之际,菲律宾口风突变:是我们搞错了",
+      "link": "http://www.163.com/dy/article/K8JL17BU0553FWNE.html",
+      "time": "9月4日 08:05",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "外交部:黄岩岛是中国固有领土 不接受菲方所谓“抗议”",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=15173008419599710092",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:50:14",
+      "event_time": "昨天 21:45"
+    },
+    {
+      "event_title": "菲律宾挑衅不断遭中方迎头痛击",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842798276365798418&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "刀晨涛AZ",
+      "comment_time": "4小时前",
+      "comment_content": "怎么迎头痛击的",
+      "user_location": "云南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:50:31",
+      "event_time": "9月9日 22:49"
+    },
+    {
+      "event_title": "菲律宾挑衅不断遭中方迎头痛击",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842798276365798418&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "上官友54",
+      "comment_time": "09-09 23:11",
+      "comment_content": "中国人全部撤回",
+      "user_location": "新疆",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:50:31",
+      "event_time": "9月9日 22:49"
+    },
+    {
+      "event_title": "菲律宾挑衅不断遭中方迎头痛击",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842798276365798418&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "喻祎文0kk013",
+      "comment_time": "09-11 08:03",
+      "comment_content": "必要时必须给它当头一棒，让这个跳梁小丑清醒清醒",
+      "user_location": "重庆",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 14:50:31",
+      "event_time": "9月9日 22:49"
+    },
+    {
+      "event_title": "菲律宾挑衅不断遭中方迎头痛击",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842798276365798418&wfr=spider&for=pc",
+      "comment_index": 4,
+      "user_id": "在孔庙骑自行车的彼岸花",
+      "comment_time": "09-09 23:39",
+      "comment_content": "一艘破船直接给他干沉掉，什么事情都解决了，一直忍让，那等于无人",
+      "user_location": "江西",
+      "like_count": 6,
+      "scrape_time": "2025-09-12 14:50:31",
+      "event_time": "9月9日 22:49"
+    },
+    {
+      "event_title": "菲律宾挑衅不断遭中方迎头痛击",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842798276365798418&wfr=spider&for=pc",
+      "comment_index": 5,
+      "user_id": "森卓君GQ",
+      "comment_time": "09-09 23:57",
+      "comment_content": "这样的垃圾新闻就不要放了",
+      "user_location": "陕西",
+      "like_count": 5,
+      "scrape_time": "2025-09-12 14:50:31",
+      "event_time": "9月9日 22:49"
+    },
+    {
+      "event_title": "菲律宾挑衅不断遭中方迎头痛击",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842798276365798418&wfr=spider&for=pc",
+      "comment_index": 6,
+      "user_id": "地上第二强",
+      "comment_time": "09-10 01:50",
+      "comment_content": "中国的实力，一天灭掉菲律宾不成问题吧",
+      "user_location": "贵州",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 14:50:31",
+      "event_time": "9月9日 22:49"
+    },
+    {
+      "event_title": "菲律宾挑衅不断遭中方迎头痛击",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842798276365798418&wfr=spider&for=pc",
+      "comment_index": 7,
+      "user_id": "Wxzy333444",
+      "comment_time": "09-11 03:21",
+      "comment_content": "这种弹丸小国必须让它知道泱泱大国的厉害",
+      "user_location": "贵州",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:50:31",
+      "event_time": "9月9日 22:49"
+    },
+    {
+      "event_title": "菲律宾挑衅不断遭中方迎头痛击",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842798276365798418&wfr=spider&for=pc",
+      "comment_index": 8,
+      "user_id": "文刀木公V4",
+      "comment_time": "09-11 09:49",
+      "comment_content": "同感，想呕吐！",
+      "user_location": "广东",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 14:50:31",
+      "event_time": "9月9日 22:49"
+    },
+    {
+      "event_title": "九三阅兵后劲太大，日本国内陷入集体焦虑，右翼媒体难掩心虚",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12101469758558809565",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:50:34",
+      "event_time": "9月8日 15:34"
+    },
+    {
+      "event_title": "南部战区深夜发声:菲方拉拢澳、加两国,在南海“联合巡航”",
+      "event_id": "event_4",
+      "event_url": "http://news.qq.com/rain/a/20250904A03MCH00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:50:36",
+      "event_time": "9月7日 13:10"
+    },
+    {
+      "event_title": "我国九三阅兵刚结束,这五国表态来了,尤其是菲律宾,非常不一般",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=2438950491395247204",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:50:38",
+      "event_time": "9月6日 18:02"
+    },
+    {
+      "event_title": "菲律宾防长对中国内外事务说三道四,中方发声",
+      "event_id": "event_6",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31552490",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:50:40",
+      "event_time": "9月6日 17:14"
+    },
+    {
+      "event_title": "93阅兵刚结束,菲律宾拉来三国撑腰,轮到中国海警立功了",
+      "event_id": "event_7",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68bb728b8e9f097ab90f86dd",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:50:42",
+      "event_time": "9月6日 07:13"
+    },
+    {
+      "event_title": "菲律宾纵容台外事部门负责人窜访菲 中国外交部:菲方不断踩踏中方红线 必将付出代价",
+      "event_id": "event_8",
+      "event_url": "http://tv.cctv.com/2025/09/05/VIDE3hCm8Xy6XNxP8godC1S4250905.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:50:44",
+      "event_time": "9月5日 21:06"
+    },
+    {
+      "event_title": "菲律宾纵容台外事人员窜访 外交部:莫再扮演跳梁小丑!",
+      "event_id": "event_9",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10072620907737567647",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:50:46",
+      "event_time": "9月5日 16:40"
+    },
+    {
+      "event_title": "菲律宾对号入座,声称受到恐吓",
+      "event_id": "event_10",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=13272509390291876446",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:50:48",
+      "event_time": "9月5日 16:37"
+    },
+    {
+      "event_title": "阅兵刚结束，解放军就点名菲律宾，南部战区用行动回应菲澳加",
+      "event_id": "event_11",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=2737250205128781924",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:50:50",
+      "event_time": "9月5日 16:18"
+    },
+    {
+      "event_title": "菲律宾声称“中方不应将自身红线强加于菲方”,外交部回应",
+      "event_id": "event_12",
+      "event_url": "http://finance.sina.com.cn/jjxw/2025-09-05/doc-infpmqqi0850594.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:50:52",
+      "event_time": "9月5日 15:52"
+    },
+    {
+      "event_title": "九三阅兵后北约秘书长表态",
+      "event_id": "event_13",
+      "event_url": "http://finance.sina.com.cn/jjxw/2025-09-05/doc-infpmkhm0892698.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:50:54",
+      "event_time": "9月5日 11:48"
+    },
+    {
+      "event_title": "大阅兵让西方破防,震惊害怕又不服,暗戳戳找补:中国没有实战",
+      "event_id": "event_14",
+      "event_url": "http://k.sina.com.cn/article_1403915120_53ae0b7002001e7wo.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:50:56",
+      "event_time": "9月5日 09:49"
+    },
+    {
+      "event_title": "中国九三阅兵之际,菲律宾口风突变:是我们搞错了",
+      "event_id": "event_15",
+      "event_url": "http://www.163.com/dy/article/K8JL17BU0553FWNE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:50:58",
+      "event_time": "9月4日 08:05"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 15,
+    "total_comments": 22,
+    "events_with_comments": 15,
+    "level1_scrape_time": "2025-09-12 14:50:13",
+    "level2_scrape_time": "2025-09-12 14:50:58"
+  }
+}

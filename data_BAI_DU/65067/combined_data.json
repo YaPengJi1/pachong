@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:47:58"
+  },
+  "core_event": {
+    "core_event_name": "iPhone 17 Air国行版支持eSIM",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:46:31"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国行iPhone 17 Air将首发eSIM，开启无卡时代",
+      "link": "http://baijiahao.baidu.com/s?id=1842463677298408296&wfr=spider&for=pc",
+      "time": "9月6日 06:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "新iPhone或将迈入无卡时代!iPhone 17 Air取消实体SIM卡槽",
+      "link": "http://baijiahao.baidu.com/s?id=1842411384964499936&wfr=spider&for=pc",
+      "time": "9月5日 18:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "联通突然曝光,国行 eSIM 四大要求,买 iPhone 17 建议考虑清楚",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11389531002159637475",
+      "time": "9月5日 00:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "曝iPhone 17系列仅Air版砍掉SIM卡槽:支持eSIM",
+      "link": "http://baijiahao.baidu.com/s?id=1842202537685409047&wfr=spider&for=pc",
+      "time": "9月3日 08:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "iPhone 17系列eSIM变革",
+      "link": "http://baijiahao.baidu.com/s?id=1842197107132874448&wfr=spider&for=pc",
+      "time": "9月3日 07:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "曝iPhone 17 Air国行版或支持eSIM",
+      "link": "http://finance.sina.com.cn/roll/2025-09-02/doc-infpccte0096682.shtml",
+      "time": "9月2日 18:06",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "国行iPhone 17 Air将首发eSIM，开启无卡时代",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842463677298408296&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "英何小0s",
+      "comment_time": "09-06 06:34",
+      "comment_content": "内容很精彩，期待更新！",
+      "user_location": "北京",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:47:03",
+      "event_time": "9月6日 06:13"
+    },
+    {
+      "event_title": "新iPhone或将迈入无卡时代!iPhone 17 Air取消实体SIM卡槽",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842411384964499936&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "战败打太阳能",
+      "comment_time": "09-06 08:04",
+      "comment_content": "iPhone 17 Air取消实体SIM卡槽，eSIM时代加速到来，期待更轻薄的设计体验。",
+      "user_location": "天津",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:47:19",
+      "event_time": "9月5日 18:30"
+    },
+    {
+      "event_title": "联通突然曝光,国行 eSIM 四大要求,买 iPhone 17 建议考虑清楚",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11389531002159637475",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:47:21",
+      "event_time": "9月5日 00:05"
+    },
+    {
+      "event_title": "曝iPhone 17系列仅Air版砍掉SIM卡槽:支持eSIM",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842202537685409047&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:47:37",
+      "event_time": "9月3日 08:54"
+    },
+    {
+      "event_title": "iPhone 17系列eSIM变革",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842197107132874448&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "彤彤不吃豆腐",
+      "comment_time": "09-03 09:38",
+      "comment_content": "苹果在欧盟推eSIM，国行Air跟上，创新兼顾本土习惯挺周到。",
+      "user_location": "山西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:47:52",
+      "event_time": "9月3日 07:34"
+    },
+    {
+      "event_title": "曝iPhone 17 Air国行版或支持eSIM",
+      "event_id": "event_6",
+      "event_url": "http://finance.sina.com.cn/roll/2025-09-02/doc-infpccte0096682.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:47:54",
+      "event_time": "9月2日 18:06"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 17:46:45",
+    "level2_scrape_time": "2025-09-12 17:47:54"
+  }
+}

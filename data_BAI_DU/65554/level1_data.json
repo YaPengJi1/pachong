@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "吉利银河M9销量暴涨",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:48:53"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "吉利汽车8月销量超25万台",
+      "link": "http://cj.sina.com.cn/articles/view/2283833712/8820897000101xal4",
+      "time": "9月7日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "吉利8月销量暴涨",
+      "link": "http://www.pcauto.com.cn/hj/article/3049491.html",
+      "time": "9月4日 18:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "吉利银河8月销量110666辆,同比大增173%!银河A7上市即热销,M9火爆预售",
+      "link": "http://www.zhev.com.cn/news/show-1657903979-6.html",
+      "time": "9月2日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "银河品牌月销11万辆,星愿/银河E5等热销",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_3645258844990234390",
+      "time": "9月1日 18:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "吉利汽车冠名杭州马拉松",
+      "link": "http://www.banyuetan.org/qyzx/detail/20250901/1000200033137541756695975458184780_1.html",
+      "time": "9月1日 11:06",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 01:49:07"
+}

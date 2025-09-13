@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "梅西世预赛追平C罗，打入36球",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:25:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "梅西主场2球独舞 世预赛36球追平C罗 8万人致敬球王",
+      "link": "http://finance.sina.com.cn/roll/2025-09-08/doc-infptvct4810533.shtml",
+      "time": "9月8日 09:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "梅西世预赛36球分布:玻利维亚7球+委内瑞拉6球 仅剩巴西还没攻破",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hkae",
+      "time": "9月7日 09:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "世预赛进球榜:C罗37球超越梅西独占第二,距第一仅差2球",
+      "link": "http://www.dongqiudi.com/articles/5358430.html",
+      "time": "9月7日 00:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "C罗超越梅西，成为世预赛历史射手榜第二",
+      "link": "http://baijiahao.baidu.com/s?id=1842533751970462045&wfr=spider&for=pc",
+      "time": "9月7日 00:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "梅西打入生涯世预赛第36球",
+      "link": "http://weibo.com/6076885743/Q3aXlzxDB",
+      "time": "9月5日 17:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "小蜘蛛谈助攻梅西:我本想射门,看到他过来就传给了他",
+      "link": "http://www.dongqiudi.com/articles/5355476.html",
+      "time": "9月5日 12:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "劳塔罗:我非常感谢梅西为阿根廷国家队和足球所做的一切",
+      "link": "http://www.dongqiudi.com/articles/5355247.html",
+      "time": "9月5日 10:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "梅开二度!梅西世预赛最后一个主场,阿根廷大胜委内瑞拉",
+      "link": "http://baijiahao.baidu.com/s?id=1842386628739462098&wfr=spider&for=pc",
+      "time": "9月5日 09:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "南美世预赛实时射手榜:梅西7球与迪亚斯并列第一",
+      "link": "http://news.sohu.com/a/932027440_362070",
+      "time": "9月5日 08:38",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-13 02:25:45"
+}

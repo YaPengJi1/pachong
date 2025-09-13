@@ -1,0 +1,116 @@
+{
+  "core_info": {
+    "core_event_name": "比亚迪在欧洲新能源市场崛起",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:10:40"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "比亚迪欧洲布局加速:首批兆瓦闪充桩明年投用,开设 2000 家门店",
+      "link": "http://www.ithome.com/0/882/080.htm",
+      "time": "昨天 10:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "比亚迪商用车：欧洲第5000辆电动大巴交付达成",
+      "link": "http://3g.cnfol.com/auto/xincheshangshi/20250911/31634186.shtml",
+      "time": "昨天 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "比亚迪计划2028年前在欧洲实现电动车全部本地生产",
+      "link": "http://news.mydrivers.com/1/1073/1073376.htm",
+      "time": "9月9日 13:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "比亚迪欧洲在售车型两年翻倍,本土化战略加速推进",
+      "link": "http://www.eeo.com.cn/2025/0909/751660.shtml",
+      "time": "9月9日 11:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "比亚迪将于2027年在欧洲推出高端仰望品牌",
+      "link": "http://k.sina.cn/article_5953741034_162dee0ea06702f3l2.html",
+      "time": "9月8日 22:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "比亚迪欧洲市场份额超越特斯拉",
+      "link": "http://www.donews.com/news/detail/4/6087377.html",
+      "time": "9月6日 15:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "特斯拉份额跌至0.8%,比亚迪在欧洲迎来突破",
+      "link": "http://www.163.com/dy/article/K8P1VESG0556ACAC.html",
+      "time": "9月6日 10:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "比亚迪霸榜欧洲车市",
+      "link": "http://cj.sina.com.cn/articles/view/7801327111/1d0fece07001018fom",
+      "time": "9月5日 23:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "比亚迪引领欧洲新能源市场",
+      "link": "http://baijiahao.baidu.com/s?id=1842429722991928358&wfr=spider&for=pc",
+      "time": "9月5日 21:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "中国汽车品牌崛起",
+      "link": "http://a.xcar.com.cn/bbs/thread-101091266-0.html",
+      "time": "9月5日 20:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "比亚迪在欧洲市场的表现强势",
+      "link": "http://baijiahao.baidu.com/s?id=1842426089954892698&wfr=spider&for=pc",
+      "time": "9月5日 20:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "比亚迪完成重大突破,引领欧洲新能源汽车市场",
+      "link": "http://baijiahao.baidu.com/s?id=1842425895892284054&wfr=spider&for=pc",
+      "time": "9月5日 20:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "比亚迪3977辆车驶入欧洲",
+      "link": "http://www.163.com/dy/article/K8ENGBD905148THO.html",
+      "time": "9月2日 10:12",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 13,
+  "scrape_time": "2025-09-12 20:10:55"
+}

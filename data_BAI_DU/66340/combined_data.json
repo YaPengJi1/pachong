@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:57:36"
+  },
+  "core_event": {
+    "core_event_name": "印度被逼到墙角，特朗普施压成功",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:57:10"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普施压美国国防部官员",
+      "link": "http://new.qq.com/rain/a/20250908V05NAW00",
+      "time": "9月8日 15:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "不听中方劝告,印度被美国痛宰一刀,特朗普等莫迪求饶",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16446142211130568424",
+      "time": "9月8日 03:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普爆莫迪黑料,把他逼入墙角!事到如今,只有中国拉印度一把",
+      "link": "http://cj.sina.com.cn/articles/view/1403915120/53ae0b7002001e7lu",
+      "time": "9月4日 10:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "莫迪政府“大难临头”?印度被逼到墙角,才想起中俄印联合?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13513135449159447292",
+      "time": "9月3日 21:28",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "特朗普施压美国国防部官员",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250908V05NAW00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:57:25",
+      "event_time": "9月8日 15:53"
+    },
+    {
+      "event_title": "不听中方劝告,印度被美国痛宰一刀,特朗普等莫迪求饶",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=16446142211130568424",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:57:27",
+      "event_time": "9月8日 03:27"
+    },
+    {
+      "event_title": "特朗普爆莫迪黑料,把他逼入墙角!事到如今,只有中国拉印度一把",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/1403915120/53ae0b7002001e7lu",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:57:29",
+      "event_time": "9月4日 10:12"
+    },
+    {
+      "event_title": "莫迪政府“大难临头”?印度被逼到墙角,才想起中俄印联合?",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=13513135449159447292",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:57:31",
+      "event_time": "9月3日 21:28"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 14:57:24",
+    "level2_scrape_time": "2025-09-12 14:57:31"
+  }
+}

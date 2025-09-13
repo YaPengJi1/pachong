@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:38:38"
+  },
+  "core_event": {
+    "core_event_name": "美股三大指数收涨，纳指创历史新高",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:38:06"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国际金价再创新高 黄金概念股大涨",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16941089824390660894",
+      "time": "9月10日 10:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美国三大股指集体上涨",
+      "link": "http://weibo.com/7565064431/Q3SvpmyZ8",
+      "time": "9月10日 08:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美股三大股指均创新高 市场关注就业与通胀数据",
+      "link": "http://finance.sina.com.cn/stock/usstock/c/2025-09-10/doc-infpxwtv3052981.shtml",
+      "time": "9月10日 04:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美股三大股指飙涨多次熔断，中国资产爆发",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4881142679937610656",
+      "time": "9月9日 11:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美股三大指数收涨,纳指创历史新高,中概股普涨",
+      "link": "http://www.sohu.com/a/933101668_121010226",
+      "time": "9月9日 07:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "美股三大指数集体收涨，纳指创收盘新高",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10646125073746332361",
+      "time": "9月9日 06:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "美股三大指数开盘涨跌不一 纳指涨0.2%",
+      "link": "http://weibo.com/1838672663/Q334FACzU",
+      "time": "9月4日 21:35",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "国际金价再创新高 黄金概念股大涨",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=16941089824390660894",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:22",
+      "event_time": "9月10日 10:12"
+    },
+    {
+      "event_title": "美国三大股指集体上涨",
+      "event_id": "event_2",
+      "event_url": "http://weibo.com/7565064431/Q3SvpmyZ8",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:24",
+      "event_time": "9月10日 08:31"
+    },
+    {
+      "event_title": "美股三大股指均创新高 市场关注就业与通胀数据",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.com.cn/stock/usstock/c/2025-09-10/doc-infpxwtv3052981.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:26",
+      "event_time": "9月10日 04:07"
+    },
+    {
+      "event_title": "美股三大股指飙涨多次熔断，中国资产爆发",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4881142679937610656",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:28",
+      "event_time": "9月9日 11:18"
+    },
+    {
+      "event_title": "美股三大指数收涨,纳指创历史新高,中概股普涨",
+      "event_id": "event_5",
+      "event_url": "http://www.sohu.com/a/933101668_121010226",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:30",
+      "event_time": "9月9日 07:54"
+    },
+    {
+      "event_title": "美股三大指数集体收涨，纳指创收盘新高",
+      "event_id": "event_6",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10646125073746332361",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:32",
+      "event_time": "9月9日 06:58"
+    },
+    {
+      "event_title": "美股三大指数开盘涨跌不一 纳指涨0.2%",
+      "event_id": "event_7",
+      "event_url": "http://weibo.com/1838672663/Q334FACzU",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:34",
+      "event_time": "9月4日 21:35"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 10:38:21",
+    "level2_scrape_time": "2025-09-12 10:38:34"
+  }
+}

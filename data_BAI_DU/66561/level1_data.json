@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "A股强势反弹来袭",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 12:09:02"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "A股强势反弹来袭，利好重磅堆积如山，慢牛掘金结构性机会",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4482627157324208764",
+      "time": "9月8日 19:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "周五A股暴力反弹",
+      "link": "http://stock.hexun.com/2025-09-08/221245581.html",
+      "time": "9月8日 09:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "A股反弹，但主战场不在股市",
+      "link": "http://finance.sina.cn/2025-09-06/detail-infpqecf6481190.d.html",
+      "time": "9月6日 18:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普:征收芯片关税,普京宣布对华免签,A股狂飙反弹",
+      "link": "http://www.163.com/dy/article/K8NGVBLT0511816V.html",
+      "time": "9月5日 20:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "A股调整后有望反弹,沪指K线呈缩量阴线",
+      "link": "http://stock.hexun.com/2025-09-05/221235228.html",
+      "time": "9月5日 09:57",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 12:09:17"
+}

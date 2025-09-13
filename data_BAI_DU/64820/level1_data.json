@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "河南局部暴雨",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:27:31"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "河南这些地区中到大雨!局部暴雨!警惕防范",
+      "link": "http://m.gmw.cn/2025-09/05/content_1304136422.htm",
+      "time": "9月5日 15:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "局部暴雨伴强对流 早晚20℃上下!河南阴雨在线 秋凉渐浓",
+      "link": "http://www.163.com/dy/article/K8M4Q02A0550B6IS.html",
+      "time": "9月5日 07:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "河南23个预警信号生效中",
+      "link": "http://baijiahao.baidu.com/s?id=1842313489055006457&wfr=spider&for=pc",
+      "time": "9月4日 14:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "河南多地有中到大雨、局部暴雨等强对流天气",
+      "link": "http://www.163.com/dy/article/K8JL06DV0556DUEU.html",
+      "time": "9月4日 08:04",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 17:27:45"
+}

@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:47:34"
+  },
+  "core_event": {
+    "core_event_name": "俄罗斯总统普京对西方军队进入乌克兰的警告",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:47:06"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "大阅兵后普京定调:俄罗斯的未来在远东,中俄合作迎新机遇!",
+      "link": "http://new.qq.com/rain/a/20250908V05VVC00",
+      "time": "9月8日 16:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "普京对北约划出战争红线:部队进乌即成合法目标,绝无例外!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12644756673684760550",
+      "time": "9月7日 10:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "北约步步紧逼,普京表态:若军队出现在乌克兰,将被俄合法打击!",
+      "link": "http://www.163.com/dy/article/K8QUMG890556E06Y.html",
+      "time": "9月7日 04:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "俄罗斯总统普京：外国军队如在乌出现将成俄军合法打击目标",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16517601416650458856",
+      "time": "9月6日 14:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "CNN:普京称,如果西方军队进入乌克兰,将成为“合法目标”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3090148616358757852",
+      "time": "9月6日 10:38",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "大阅兵后普京定调:俄罗斯的未来在远东,中俄合作迎新机遇!",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250908V05VVC00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:47:22",
+      "event_time": "9月8日 16:16"
+    },
+    {
+      "event_title": "普京对北约划出战争红线:部队进乌即成合法目标,绝无例外!",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12644756673684760550",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:47:24",
+      "event_time": "9月7日 10:16"
+    },
+    {
+      "event_title": "北约步步紧逼,普京表态:若军队出现在乌克兰,将被俄合法打击!",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8QUMG890556E06Y.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:47:26",
+      "event_time": "9月7日 04:08"
+    },
+    {
+      "event_title": "俄罗斯总统普京：外国军队如在乌出现将成俄军合法打击目标",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=16517601416650458856",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:47:28",
+      "event_time": "9月6日 14:24"
+    },
+    {
+      "event_title": "CNN:普京称,如果西方军队进入乌克兰,将成为“合法目标”",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=3090148616358757852",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:47:30",
+      "event_time": "9月6日 10:38"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-13 01:47:21",
+    "level2_scrape_time": "2025-09-13 01:47:30"
+  }
+}

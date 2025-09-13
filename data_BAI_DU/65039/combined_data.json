@@ -1,0 +1,361 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:21:28"
+  },
+  "core_event": {
+    "core_event_name": "舒淇导演处女作亮相威尼斯",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:19:27"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "舒淇携首部执导长片《女孩》亮相威尼斯影展",
+      "link": "http://cj.sina.com.cn/articles/view/5876897687/p15e4a579700101ajec",
+      "time": "9月9日 14:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "舒淇在威尼斯电影节的又一套造型",
+      "link": "http://cj.sina.com.cn/articles/view/5876897687/p15e4a579700101aj6w",
+      "time": "9月7日 23:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "威尼斯电影节闭幕在即,舒淇导演首作《女孩》亮相",
+      "link": "http://cj.sina.com.cn/articles/view/1705737562/p65ab7d5a02701fimo",
+      "time": "9月6日 19:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "49岁舒淇当场哭了:压力很大!",
+      "link": "http://news.sina.cn/2025-09-05/detail-infpmzec0665572.d.html",
+      "time": "9月5日 18:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "导演首作《女孩》威尼斯电影节映后,舒淇哭成泪人",
+      "link": "http://baijiahao.baidu.com/s?id=1842467498303386524&wfr=spider&for=pc",
+      "time": "9月5日 18:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "舒淇2007年亮相威尼斯",
+      "link": "http://cj.sina.com.cn/articles/view/5935603134/p161ca1dbe02701nxfq",
+      "time": "9月5日 17:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "舒淇谈首部导演电影《女孩》",
+      "link": "http://baijiahao.baidu.com/s?id=1842407544021038903&wfr=spider&for=pc",
+      "time": "9月5日 15:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "《女孩》亮相威尼斯，舒淇素颜走红毯",
+      "link": "http://baijiahao.baidu.com/s?id=1842402290097906652&wfr=spider&for=pc",
+      "time": "9月5日 14:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "舒淇身穿高定亮相电影节,坦言当导演压力大,没时间打扮",
+      "link": "http://baijiahao.baidu.com/s?id=1842399663676871496&wfr=spider&for=pc",
+      "time": "9月5日 13:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "49岁舒淇泛舟威尼斯,穿白衬衫披散波浪卷发,美如油画!透露“首次当导演压力大”",
+      "link": "http://baijiahao.baidu.com/s?id=1842386420983083890&wfr=spider&for=pc",
+      "time": "9月5日 08:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "舒淇亮相威尼斯电影节 主竞赛单元",
+      "link": "http://cj.sina.com.cn/articles/view/6342573391/p17a0bfd4f02701sivk",
+      "time": "9月5日 01:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "舒淇《女孩》威尼斯首映!坦言首当导演压力很大,怕自己做不好",
+      "link": "http://www.163.com/dy/article/K8LASJ4R0556G922.html",
+      "time": "9月4日 23:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "电影《女孩》主创亮相威尼斯电影节",
+      "link": "http://news.sina.cn/2025-09-04/detail-infpiwff8520455.d.html",
+      "time": "9月4日 21:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "舒淇亮相威尼斯电影节",
+      "link": "http://cj.sina.com.cn/articles/view/2027320563/p78d674f302701jqvs",
+      "time": "9月4日 19:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "BOTTEGA VENETA携手全球品牌大使舒淇闪耀威尼斯",
+      "link": "http://cj.sina.com.cn/articles/view/1765148101/p693605c502701j7qu",
+      "time": "9月4日 14:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "舒淇携新片《女孩》亮相威尼斯电影节",
+      "link": "http://cj.sina.com.cn/articles/view/6342573391/p17a0bfd4f02701si72",
+      "time": "9月3日 17:26",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "舒淇携首部执导长片《女孩》亮相威尼斯影展",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/5876897687/p15e4a579700101ajec",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:19:43",
+      "event_time": "9月9日 14:05"
+    },
+    {
+      "event_title": "舒淇在威尼斯电影节的又一套造型",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/5876897687/p15e4a579700101aj6w",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:19:45",
+      "event_time": "9月7日 23:30"
+    },
+    {
+      "event_title": "威尼斯电影节闭幕在即,舒淇导演首作《女孩》亮相",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/1705737562/p65ab7d5a02701fimo",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:19:47",
+      "event_time": "9月6日 19:20"
+    },
+    {
+      "event_title": "49岁舒淇当场哭了:压力很大!",
+      "event_id": "event_4",
+      "event_url": "http://news.sina.cn/2025-09-05/detail-infpmzec0665572.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:19:49",
+      "event_time": "9月5日 18:56"
+    },
+    {
+      "event_title": "导演首作《女孩》威尼斯电影节映后,舒淇哭成泪人",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842467498303386524&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "花园园丁虞美人",
+      "comment_time": "09-06 08:15",
+      "comment_content": "处女作真挚动人，舒导的眼泪里有对电影的赤诚。看着都动容。",
+      "user_location": "广西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:20:06",
+      "event_time": "9月5日 18:05"
+    },
+    {
+      "event_title": "舒淇2007年亮相威尼斯",
+      "event_id": "event_6",
+      "event_url": "http://cj.sina.com.cn/articles/view/5935603134/p161ca1dbe02701nxfq",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:20:08",
+      "event_time": "9月5日 17:28"
+    },
+    {
+      "event_title": "舒淇谈首部导演电影《女孩》",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842407544021038903&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "JTXL的DDL星光",
+      "comment_time": "09-05 19:45",
+      "comment_content": "内容不错，期待更多！",
+      "user_location": "四川",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:20:24",
+      "event_time": "9月5日 15:21"
+    },
+    {
+      "event_title": "《女孩》亮相威尼斯，舒淇素颜走红毯",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842402290097906652&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "蜜糖烘焙课",
+      "comment_time": "09-05 14:46",
+      "comment_content": "舒淇导演处女作亮相威尼斯，她的眼泪是压力释放的温暖。团队默契和蜕变故事，真鼓舞人心。",
+      "user_location": "广东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:20:40",
+      "event_time": "9月5日 14:25"
+    },
+    {
+      "event_title": "舒淇身穿高定亮相电影节,坦言当导演压力大,没时间打扮",
+      "event_id": "event_9",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842399663676871496&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "摄影师月色花香",
+      "comment_time": "09-05 13:17",
+      "comment_content": "舒淇红毯上优雅起舞，导演幕后默默坚持，这份真实魅力让人尊敬。",
+      "user_location": "北京",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:20:56",
+      "event_time": "9月5日 13:13"
+    },
+    {
+      "event_title": "49岁舒淇泛舟威尼斯,穿白衬衫披散波浪卷发,美如油画!透露“首次当导演压力大”",
+      "event_id": "event_10",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842386420983083890&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:21:12",
+      "event_time": "9月5日 08:21"
+    },
+    {
+      "event_title": "舒淇亮相威尼斯电影节 主竞赛单元",
+      "event_id": "event_11",
+      "event_url": "http://cj.sina.com.cn/articles/view/6342573391/p17a0bfd4f02701sivk",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:21:14",
+      "event_time": "9月5日 01:21"
+    },
+    {
+      "event_title": "舒淇《女孩》威尼斯首映!坦言首当导演压力很大,怕自己做不好",
+      "event_id": "event_12",
+      "event_url": "http://www.163.com/dy/article/K8LASJ4R0556G922.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:21:16",
+      "event_time": "9月4日 23:46"
+    },
+    {
+      "event_title": "电影《女孩》主创亮相威尼斯电影节",
+      "event_id": "event_13",
+      "event_url": "http://news.sina.cn/2025-09-04/detail-infpiwff8520455.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:21:18",
+      "event_time": "9月4日 21:32"
+    },
+    {
+      "event_title": "舒淇亮相威尼斯电影节",
+      "event_id": "event_14",
+      "event_url": "http://cj.sina.com.cn/articles/view/2027320563/p78d674f302701jqvs",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:21:20",
+      "event_time": "9月4日 19:38"
+    },
+    {
+      "event_title": "BOTTEGA VENETA携手全球品牌大使舒淇闪耀威尼斯",
+      "event_id": "event_15",
+      "event_url": "http://cj.sina.com.cn/articles/view/1765148101/p693605c502701j7qu",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:21:22",
+      "event_time": "9月4日 14:07"
+    },
+    {
+      "event_title": "舒淇携新片《女孩》亮相威尼斯电影节",
+      "event_id": "event_16",
+      "event_url": "http://cj.sina.com.cn/articles/view/6342573391/p17a0bfd4f02701si72",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:21:24",
+      "event_time": "9月3日 17:26"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 16,
+    "total_comments": 16,
+    "events_with_comments": 16,
+    "level1_scrape_time": "2025-09-12 17:19:41",
+    "level2_scrape_time": "2025-09-12 17:21:24"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core_event_name": "极氪车辆专利",
+  "comments": [
+    {
+      "event_title": "吉利极氪申请车辆控制相关专利 避免车门关闭与座椅干涉",
+      "event_id": "event_1",
+      "event_url": "http://finance.jrj.com.cn/2025/09/05161652948581.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:54:53",
+      "event_time": "9月5日 16:16"
+    },
+    {
+      "event_title": "极氪取得车辆专利,改善提升车辆的NVH路噪性能",
+      "event_id": "event_2",
+      "event_url": "http://m.jrj.com.cn/madapter/finance/2025/09/01164152847721.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:54:55",
+      "event_time": "9月1日 16:41"
+    },
+    {
+      "event_title": "极氪取得排水总成及车辆专利",
+      "event_id": "event_3",
+      "event_url": "http://m.jrj.com.cn/madapter/finance/2025/09/01162052846534.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:54:57",
+      "event_time": "9月1日 16:20"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 16:54:57"
+}

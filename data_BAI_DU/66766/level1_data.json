@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "普京访华及中塞友谊升温",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:48:07"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "武契奇发帖感谢中国",
+      "link": "http://new.qq.com/rain/a/20250909A037A400",
+      "time": "9月9日 10:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "普京专机离开北京后，刚飞出中俄国境线，马上降落在了海参崴",
+      "link": "http://app.myzaker.com/news/article.php?pk=68be57218e9f09777612bb47",
+      "time": "9月8日 12:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "普京刚乘机回国,就给了中方一份重礼,出乎所有人的预料",
+      "link": "http://baijiahao.baidu.com/s?id=1842390118087780725&wfr=spider&for=pc",
+      "time": "9月5日 10:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "武契奇抵京 中塞友谊升温 共绘合作新篇",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13519672303904211848",
+      "time": "9月3日 17:10",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 10:48:22"
+}

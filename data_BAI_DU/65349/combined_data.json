@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 22:36:47"
+  },
+  "core_event": {
+    "core_event_name": "新“国标”出台，事关中小学生午休",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:36:05"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "午休课桌椅新国标让孩子休息更舒适",
+      "link": "http://cj.sina.com.cn/articles/view/2291471981/8895166d02001at2s",
+      "time": "9月6日 10:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "午休课桌椅“国标”出台，“凑合趴睡”变“舒适躺睡”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12528014304424829532",
+      "time": "9月5日 20:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "新“国标”出台,事关中小学生!",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31550394",
+      "time": "9月5日 14:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "事关中小学生午休!“国标”来了!",
+      "link": "http://baijiahao.baidu.com/s?id=1842395355694516425&wfr=spider&for=pc",
+      "time": "9月5日 11:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "事关中小学生午休“躺睡”,有新国标了",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31566172",
+      "time": "9月5日 08:05",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "午休课桌椅新国标让孩子休息更舒适",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/2291471981/8895166d02001at2s",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:36:20",
+      "event_time": "9月6日 10:18"
+    },
+    {
+      "event_title": "午休课桌椅“国标”出台，“凑合趴睡”变“舒适躺睡”",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12528014304424829532",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:36:22",
+      "event_time": "9月5日 20:03"
+    },
+    {
+      "event_title": "新“国标”出台,事关中小学生!",
+      "event_id": "event_3",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31550394",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:36:24",
+      "event_time": "9月5日 14:08"
+    },
+    {
+      "event_title": "事关中小学生午休!“国标”来了!",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842395355694516425&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "nicky的partynight",
+      "comment_time": "09-05 15:25",
+      "comment_content": "国家标准出台了，这下孩子们午休更舒服了，休息好学习棒。",
+      "user_location": "福建",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:36:41",
+      "event_time": "9月5日 11:07"
+    },
+    {
+      "event_title": "事关中小学生午休“躺睡”,有新国标了",
+      "event_id": "event_5",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31566172",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:36:43",
+      "event_time": "9月5日 08:05"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 22:36:19",
+    "level2_scrape_time": "2025-09-12 22:36:43"
+  }
+}

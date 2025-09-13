@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:51:58"
+  },
+  "core_event": {
+    "core_event_name": "苹果公司发布iPhone 17",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:51:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "最贵17999元,苹果发布iPhone17引热议!",
+      "link": "http://new.qq.com/rain/a/20250910A04N7R00",
+      "time": "9月10日 13:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "苹果公司发布iPhone 17,起售价799美元",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12002186879272083998",
+      "time": "9月10日 02:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "iPhone17系列发布",
+      "link": "http://v.qq.com/x/page/a1228sbl8pb.html",
+      "time": "9月10日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "压力给到苹果 华为小米发布会前后夹击iPhone",
+      "link": "http://app.myzaker.com/news/article.php?m=1757339214&pk=68bda7128e9f09556442cabc",
+      "time": "9月8日 08:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "最贵17999元,苹果发布iPhone17引热议!",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250910A04N7R00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:51:48",
+      "event_time": "9月10日 13:20"
+    },
+    {
+      "event_title": "苹果公司发布iPhone 17,起售价799美元",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12002186879272083998",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:51:50",
+      "event_time": "9月10日 02:17"
+    },
+    {
+      "event_title": "iPhone17系列发布",
+      "event_id": "event_3",
+      "event_url": "http://v.qq.com/x/page/a1228sbl8pb.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:51:52",
+      "event_time": "9月10日 00:00"
+    },
+    {
+      "event_title": "压力给到苹果 华为小米发布会前后夹击iPhone",
+      "event_id": "event_4",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1757339214&pk=68bda7128e9f09556442cabc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:51:54",
+      "event_time": "9月8日 08:00"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 10:51:46",
+    "level2_scrape_time": "2025-09-12 10:51:54"
+  }
+}

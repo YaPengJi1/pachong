@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "苹果17系列配置曝光",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:03:08"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "iPhone 17终极爆料",
+      "link": "http://app.myzaker.com/news/article.php?m=1757174418&pk=68bc59d98e9f09117a2ee56b",
+      "time": "9月6日 23:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "iPhone 17系列内存大升级",
+      "link": "http://weibo.com/6456779567/Q3hxIcean",
+      "time": "9月6日 10:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "iPhone17系列内存配置曝光",
+      "link": "http://baijiahao.baidu.com/s?id=1842391378177953556&wfr=spider&for=pc",
+      "time": "9月5日 11:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "苹果 iPhone 17 系列配置曝光:Pro 版升级 12GB,基础款维持 8GB",
+      "link": "http://baijiahao.baidu.com/s?id=1842381244978262584&wfr=spider&for=pc",
+      "time": "9月5日 08:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "最高12+1TB!iPhone 17系列内存/存储曝光",
+      "link": "http://news.mydrivers.com/1/1072/1072591.htm",
+      "time": "9月5日 08:05",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 23:03:22"
+}

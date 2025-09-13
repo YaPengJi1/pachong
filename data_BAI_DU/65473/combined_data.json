@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 00:32:03"
+  },
+  "core_event": {
+    "core_event_name": "创业板大涨超6%",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:31:39"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "创业板大涨超6%",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8750515370890431503",
+      "time": "9月5日 19:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "创业板指涨幅扩大至6%",
+      "link": "http://cj.sina.com.cn/articles/view/1702925432/65809478019016u2i",
+      "time": "9月5日 14:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "创业板指涨逾6%",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9671709117352010201",
+      "time": "9月5日 14:28",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "创业板大涨超6%",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8750515370890431503",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:31:55",
+      "event_time": "9月5日 19:34"
+    },
+    {
+      "event_title": "创业板指涨幅扩大至6%",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/1702925432/65809478019016u2i",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:31:57",
+      "event_time": "9月5日 14:32"
+    },
+    {
+      "event_title": "创业板指涨逾6%",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9671709117352010201",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:31:59",
+      "event_time": "9月5日 14:28"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-13 00:31:54",
+    "level2_scrape_time": "2025-09-13 00:31:59"
+  }
+}

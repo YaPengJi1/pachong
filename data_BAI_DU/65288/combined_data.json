@@ -1,0 +1,164 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 21:43:49"
+  },
+  "core_event": {
+    "core_event_name": "蔚来汽车盈利冲刺",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:42:50"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "蔚来全新ES8订单超预期",
+      "link": "http://www.163.com/dy/article/K8MDHCA205568E36.html",
+      "time": "9月5日 09:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "蔚来二季度营收29.76亿元",
+      "link": "http://k.sina.com.cn/article_5953741034_162dee0ea06702ehvm.html",
+      "time": "9月4日 15:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "蔚来半年又亏百亿",
+      "link": "http://www.163.com/dy/article/K8IB9I4T0556128G.html",
+      "time": "9月3日 19:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "蔚来：四季度月交付目标5万辆，为实现盈利全力以赴",
+      "link": "http://baijiahao.baidu.com/s?id=1842164654616950145&wfr=spider&for=pc",
+      "time": "9月2日 22:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "蔚来二季度营收190.1亿元",
+      "link": "http://baijiahao.baidu.com/s?id=1842156468512363279&wfr=spider&for=pc",
+      "time": "9月2日 20:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "蔚来汽车:预计第三季度汽车交付量为87000至91000辆",
+      "link": "http://k.sina.cn/article_5953189932_162d6782c067034eys.html",
+      "time": "9月2日 17:33",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "蔚来全新ES8订单超预期",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8MDHCA205568E36.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:43:06",
+      "event_time": "9月5日 09:51"
+    },
+    {
+      "event_title": "蔚来二季度营收29.76亿元",
+      "event_id": "event_2",
+      "event_url": "http://k.sina.com.cn/article_5953741034_162dee0ea06702ehvm.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:43:08",
+      "event_time": "9月4日 15:44"
+    },
+    {
+      "event_title": "蔚来半年又亏百亿",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8IB9I4T0556128G.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:43:10",
+      "event_time": "9月3日 19:55"
+    },
+    {
+      "event_title": "蔚来：四季度月交付目标5万辆，为实现盈利全力以赴",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842164654616950145&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "眼神不吃mushroomYanz",
+      "comment_time": "09-02 23:12",
+      "comment_content": "蔚来业绩明显向好，新车热卖带动增长。全力冲刺盈利目标，前景真不错！",
+      "user_location": "海南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:43:27",
+      "event_time": "9月2日 22:58"
+    },
+    {
+      "event_title": "蔚来：四季度月交付目标5万辆，为实现盈利全力以赴",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842164654616950145&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "周周南京",
+      "comment_time": "09-03 13:19",
+      "comment_content": "前景堪忧哦！",
+      "user_location": "江苏",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:43:27",
+      "event_time": "9月2日 22:58"
+    },
+    {
+      "event_title": "蔚来二季度营收190.1亿元",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842156468512363279&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "知否U皮鞋",
+      "comment_time": "09-02 21:09",
+      "comment_content": "蔚来这波增长真猛，营收交付双双飙升，降价福利太贴心，车主们乐享实惠。",
+      "user_location": "河北",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:43:43",
+      "event_time": "9月2日 20:48"
+    },
+    {
+      "event_title": "蔚来汽车:预计第三季度汽车交付量为87000至91000辆",
+      "event_id": "event_6",
+      "event_url": "http://k.sina.cn/article_5953189932_162d6782c067034eys.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:43:45",
+      "event_time": "9月2日 17:33"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 7,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 21:43:05",
+    "level2_scrape_time": "2025-09-12 21:43:45"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core_event_name": "广东队引进得分王，杜锋夺冠计划",
+  "comments": [
+    {
+      "event_title": "广东第4外援曝光,193后卫,曾获得分王",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/1340604587/4fe800ab001016erm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:29:26",
+      "event_time": "9月2日 01:19"
+    },
+    {
+      "event_title": "广东队已经拿下萨姆纳，杜锋得到冲冠豪阵",
+      "event_id": "event_2",
+      "event_url": "http://m.sohu.com/a/930657038_122441760",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:29:28",
+      "event_time": "9月1日 11:18"
+    },
+    {
+      "event_title": "广东报价CBA得分王,辽宁4冠功勋转型,四川压哨注册,朱彦西退役",
+      "event_id": "event_3",
+      "event_url": "http://www.sohu.com/a/930519655_121501772",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:29:30",
+      "event_time": "9月1日 00:16"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 21:29:30"
+}

@@ -1,0 +1,59 @@
+{
+  "core_event_name": "寒武纪遭遇暴跌",
+  "comments": [
+    {
+      "event_title": "寒武纪股价连续暴跌引发市场震荡",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=13599823299768435344",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:18:00",
+      "event_time": "9月5日 17:48"
+    },
+    {
+      "event_title": "寒武纪股价跌5.27%,农银汇理基金旗下6只基金重仓,合计持有23.89万股浮亏损失1769.88万元",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/2025-09-04/detail-infphutr1985710.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:18:02",
+      "event_time": "9月4日 10:07"
+    },
+    {
+      "event_title": "寒武纪艰难保住红盘,大量科技股出现暴跌",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842122447867147473&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "李牧寻访青蛙",
+      "comment_time": "09-02 11:50",
+      "comment_content": "作者大大辛苦了💪",
+      "user_location": "湖北",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:18:19",
+      "event_time": "9月2日 11:47"
+    },
+    {
+      "event_title": "寒武纪大跌",
+      "event_id": "event_4",
+      "event_url": "http://cj.sina.com.cn/articles/view/5953190035/162d67893019016s50",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:18:21",
+      "event_time": "9月1日 17:00"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 18:18:21"
+}

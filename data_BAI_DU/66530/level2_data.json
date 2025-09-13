@@ -1,0 +1,72 @@
+{
+  "core_event_name": "C罗世预赛表现",
+  "comments": [
+    {
+      "event_title": "C罗本场数据:4射3正打进1球 14传球13成功 获评7.0分",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842821083585520134&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "步礼q",
+      "comment_time": "09-10 12:55",
+      "comment_content": "C罗这场踢得挺稳的，进了一球，传球也准。评分7.0，表现不错。",
+      "user_location": "辽宁",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:37:52",
+      "event_time": "9月10日 04:51"
+    },
+    {
+      "event_title": "世预赛葡萄牙5球横扫亚美尼亚 C罗双响菲利克斯爆发",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8UA9A4D0556DQTV.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:37:54",
+      "event_time": "9月8日 11:28"
+    },
+    {
+      "event_title": "C罗世界杯预选赛个人表现:48场比赛贡献38球14次助攻",
+      "event_id": "event_3",
+      "event_url": "http://weibo.com/7709174731/Q3rAa5Fpq",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:37:56",
+      "event_time": "9月7日 11:58"
+    },
+    {
+      "event_title": "C罗世预赛梅开二度，苏超上座率再破纪录",
+      "event_id": "event_4",
+      "event_url": "http://cj.sina.com.cn/articles/view/5044281310/12ca99fde02002f4t4",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:37:58",
+      "event_time": "9月7日 08:54"
+    },
+    {
+      "event_title": "葡萄牙5-0大胜亚美尼亚,C罗双响+世界波,菲利克斯梅开二度",
+      "event_id": "event_5",
+      "event_url": "http://m.dongqiudi.com/article/5358532.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:38:00",
+      "event_time": "9月7日 01:53"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 11:38:00"
+}

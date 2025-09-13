@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普批准以色列袭击卡塔尔",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:25:41"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "以色列突袭卡塔尔首都，国际舆论谴责加剧",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10232671395185683414",
+      "time": "9月10日 16:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特朗普批准袭击，白宫回应：以色列攻击卡塔尔前一刻通知美方",
+      "link": "http://baijiahao.baidu.com/s?id=1842845902586051709&wfr=spider&for=pc",
+      "time": "9月10日 11:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普:以色列袭击卡塔尔“不是我的决定”",
+      "link": "http://www.cztv.com/newsDetail/816229",
+      "time": "9月10日 10:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "以色列突袭卡塔尔首都,特朗普:不是我的决定",
+      "link": "http://app.myzaker.com/news/article.php?pk=68c0d7ac8e9f097e5b485112",
+      "time": "9月10日 09:29",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 11:25:55"
+}

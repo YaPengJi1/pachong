@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "美网阿卡阿尔卡拉斯双双夺冠",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:35:51"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美网男单冠军诞生!阿卡3-1辛纳,登顶世界第一,产生5个不可思议",
+      "link": "http://k.sina.cn/article_5648905080_150b3737800101dqdo.html",
+      "time": "9月8日 06:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "辛纳和阿尔卡拉斯在美网男单决赛碰上",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4083708068997642868",
+      "time": "9月8日 04:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "阿卡硬地首胜德约，7进大满贯决赛，冲第6冠，静候世界第1辛纳",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4249891236932085188",
+      "time": "9月7日 14:41",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 14:36:05"
+}

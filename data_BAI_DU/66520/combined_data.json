@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:31:18"
+  },
+  "core_event": {
+    "core_event_name": "美网阿卡夺冠，辛纳败给阿尔卡拉斯",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:30:48"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美网男单决赛,辛纳VS阿尔卡拉斯,CCTV-5直播",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2763234400062176240",
+      "time": "9月9日 11:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "阿卡夺得美网冠军",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6834976158607508579",
+      "time": "9月8日 23:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "阿卡3-1美网夺冠，吐露下一目标，辛纳服输还自曝短板",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8743537445207384451",
+      "time": "9月8日 15:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "阿卡硬地首胜德约，7进大满贯决赛，冲第6冠，静候世界第1辛纳",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4249891236932085188",
+      "time": "9月7日 14:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美网第13日男单决赛出炉:阿卡直落三盘胜德约 辛纳苦战艰难晋级",
+      "link": "http://www.163.com/dy/article/K8P7AE560529S1EA.html",
+      "time": "9月6日 12:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "辛纳3-1阿利亚西姆，晋级美网决赛，大战阿尔卡拉斯争冠",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13320013100784680475",
+      "time": "9月6日 11:05",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "美网男单决赛,辛纳VS阿尔卡拉斯,CCTV-5直播",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=2763234400062176240",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:31:04",
+      "event_time": "9月9日 11:09"
+    },
+    {
+      "event_title": "阿卡夺得美网冠军",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6834976158607508579",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:31:06",
+      "event_time": "9月8日 23:12"
+    },
+    {
+      "event_title": "阿卡3-1美网夺冠，吐露下一目标，辛纳服输还自曝短板",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8743537445207384451",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:31:08",
+      "event_time": "9月8日 15:27"
+    },
+    {
+      "event_title": "阿卡硬地首胜德约，7进大满贯决赛，冲第6冠，静候世界第1辛纳",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4249891236932085188",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:31:10",
+      "event_time": "9月7日 14:41"
+    },
+    {
+      "event_title": "美网第13日男单决赛出炉:阿卡直落三盘胜德约 辛纳苦战艰难晋级",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8P7AE560529S1EA.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:31:12",
+      "event_time": "9月6日 12:00"
+    },
+    {
+      "event_title": "辛纳3-1阿利亚西姆，晋级美网决赛，大战阿尔卡拉斯争冠",
+      "event_id": "event_6",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=13320013100784680475",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:31:14",
+      "event_time": "9月6日 11:05"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 11:31:02",
+    "level2_scrape_time": "2025-09-12 11:31:14"
+  }
+}

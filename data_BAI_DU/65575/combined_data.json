@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:13:09"
+  },
+  "core_event": {
+    "core_event_name": "体育产业规模将跃升至7万亿",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:12:13"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "体育产业瞄准超7万亿规模",
+      "link": "http://finance.eastmoney.com/a/202509053506534579.html",
+      "time": "9月5日 14:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "2030年体育产业规模剑指7万亿",
+      "link": "http://baijiahao.baidu.com/s?id=1842400790517262276&wfr=spider&for=pc",
+      "time": "9月5日 13:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "央行开展1万亿元逆回购操作",
+      "link": "http://baijiahao.baidu.com/s?id=1842380962829268724&wfr=spider&for=pc",
+      "time": "9月5日 08:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "7万亿目标定调!体育经济“火力全开”",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpkxsn6093372.d.html",
+      "time": "9月5日 07:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "国办发文又一产业迎重磅利好",
+      "link": "http://app.myzaker.com/news/article.php?pk=68ba1f5f8e9f09222c12ad90",
+      "time": "9月5日 07:20",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "体育产业瞄准超7万亿规模",
+      "event_id": "event_1",
+      "event_url": "http://finance.eastmoney.com/a/202509053506534579.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:12:29",
+      "event_time": "9月5日 14:22"
+    },
+    {
+      "event_title": "2030年体育产业规模剑指7万亿",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842400790517262276&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:12:45",
+      "event_time": "9月5日 13:31"
+    },
+    {
+      "event_title": "央行开展1万亿元逆回购操作",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842380962829268724&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:13:01",
+      "event_time": "9月5日 08:07"
+    },
+    {
+      "event_title": "7万亿目标定调!体育经济“火力全开”",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.cn/2025-09-05/detail-infpkxsn6093372.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:13:03",
+      "event_time": "9月5日 07:52"
+    },
+    {
+      "event_title": "国办发文又一产业迎重磅利好",
+      "event_id": "event_5",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68ba1f5f8e9f09222c12ad90",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:13:05",
+      "event_time": "9月5日 07:20"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-13 02:12:27",
+    "level2_scrape_time": "2025-09-13 02:13:05"
+  }
+}

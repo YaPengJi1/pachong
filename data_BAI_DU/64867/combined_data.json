@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:11:59"
+  },
+  "core_event": {
+    "core_event_name": "泰国政坛一夜变天",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:11:18"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "泰国:自豪泰党党首阿努廷当选新一任总理",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17835377001041854237",
+      "time": "9月5日 19:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "泰国政坛一夜变天!佩坦通被解职后,他信家族“掀桌”了",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10497804996144398942",
+      "time": "9月4日 11:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "泰国政坛大洗牌!为泰党让步!国会解散倒计时!",
+      "link": "http://baijiahao.baidu.com/s?id=1842115246303670206&wfr=spider&for=pc",
+      "time": "9月2日 09:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "佩通坦被解除泰国总理职务",
+      "link": "http://www.163.com/dy/article/K85DCK1205530KS1.html",
+      "time": "8月29日 19:21",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "泰国:自豪泰党党首阿努廷当选新一任总理",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=17835377001041854237",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:11:34",
+      "event_time": "9月5日 19:24"
+    },
+    {
+      "event_title": "泰国政坛一夜变天!佩坦通被解职后,他信家族“掀桌”了",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10497804996144398942",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:11:36",
+      "event_time": "9月4日 11:39"
+    },
+    {
+      "event_title": "泰国政坛大洗牌!为泰党让步!国会解散倒计时!",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842115246303670206&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:11:53",
+      "event_time": "9月2日 09:53"
+    },
+    {
+      "event_title": "佩通坦被解除泰国总理职务",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K85DCK1205530KS1.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:11:55",
+      "event_time": "8月29日 19:21"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 18:11:32",
+    "level2_scrape_time": "2025-09-12 18:11:55"
+  }
+}

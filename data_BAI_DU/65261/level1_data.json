@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "台风“琵琶”登陆日本",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:12:26"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "台风“琵琶”登陆日本,16号台风“塔巴”酝酿中,或将影响我国!",
+      "link": "http://www.163.com/dy/article/K8MKS832055616XH.html",
+      "time": "9月5日 11:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "今年第15号台风“琵琶”再次登陆日本",
+      "link": "http://www.cnhubei.com/content/2025-09/05/content_19476687.html",
+      "time": "9月5日 11:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "台风“琵琶”已登陆日本",
+      "link": "http://www.163.com/dy/article/K8MFU79I055616WX.html",
+      "time": "9月5日 10:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "台风“琵琶”昨天夜间登陆日本 未来强度逐渐减弱",
+      "link": "http://baijiahao.baidu.com/s?id=1842378541940378259&wfr=spider&for=pc",
+      "time": "9月5日 07:14",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 21:12:40"
+}

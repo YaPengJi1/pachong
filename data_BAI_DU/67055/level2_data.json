@@ -1,0 +1,59 @@
+{
+  "core_event_name": "中国男篮亚洲杯决赛失利",
+  "comments": [
+    {
+      "event_title": "中国男篮惜败澳大利亚，亚洲杯决赛失利",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7041496202235201429",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:48:52",
+      "event_time": "9月9日 08:22"
+    },
+    {
+      "event_title": "中国U16男篮屈居亚军",
+      "event_id": "event_2",
+      "event_url": "http://m.dongqiudi.com/article/5360993.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:48:54",
+      "event_time": "9月8日 13:04"
+    },
+    {
+      "event_title": "中国男篮无缘冠军，崩盘原因曝光",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/2834321443/a8f0502300101mhw2",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:48:57",
+      "event_time": "9月7日 20:48"
+    },
+    {
+      "event_title": "U16男篮亚洲杯决赛再次上演中澳对决 为中国队加油",
+      "event_id": "event_4",
+      "event_url": "http://news.hnr.cn/shxw/article/1/1964570353646514178",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:48:59",
+      "event_time": "9月7日 14:04"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 10:48:59"
+}

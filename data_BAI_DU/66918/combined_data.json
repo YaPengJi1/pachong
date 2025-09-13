@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:02:37"
+  },
+  "core_event": {
+    "core_event_name": "金价创新高，投资客出手",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:01:24"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "多因素推动,金价连创新高",
+      "link": "http://baijiahao.baidu.com/s?id=1842872515182571437&wfr=spider&for=pc",
+      "time": "9月10日 17:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "黄金狂飙再创新高!年内超60%涨幅,这些黄金主题基金火到不行",
+      "link": "http://baijiahao.baidu.com/s?id=1842842712663261984&wfr=spider&for=pc",
+      "time": "9月10日 11:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "金价再创新高!银行紧急调整",
+      "link": "http://baijiahao.baidu.com/s?id=1842797583344245819&wfr=spider&for=pc",
+      "time": "9月9日 20:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "金价再度大涨吸引投资客出手",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10155974124095133604",
+      "time": "9月5日 08:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "国际金价再次暴涨",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13904219391103095721",
+      "time": "9月4日 18:25",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "多因素推动,金价连创新高",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842872515182571437&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:01:57",
+      "event_time": "9月10日 17:24"
+    },
+    {
+      "event_title": "黄金狂飙再创新高!年内超60%涨幅,这些黄金主题基金火到不行",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842842712663261984&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "小地世午肩0g",
+      "comment_time": "09-10 11:34",
+      "comment_content": "黄金疯涨，通胀是背后推手。Fed鸽派不及预期，资金避险涌入。",
+      "user_location": "河北",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:02:13",
+      "event_time": "9月10日 11:18"
+    },
+    {
+      "event_title": "金价再创新高!银行紧急调整",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842797583344245819&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:02:28",
+      "event_time": "9月9日 20:12"
+    },
+    {
+      "event_title": "金价再度大涨吸引投资客出手",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10155974124095133604",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:02:30",
+      "event_time": "9月5日 08:43"
+    },
+    {
+      "event_title": "国际金价再次暴涨",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=13904219391103095721",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:02:32",
+      "event_time": "9月4日 18:25"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 10:01:39",
+    "level2_scrape_time": "2025-09-12 10:02:32"
+  }
+}

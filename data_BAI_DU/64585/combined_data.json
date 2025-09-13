@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:39:17"
+  },
+  "core_event": {
+    "core_event_name": "拜仁租借卢克曼遭亚特兰大无视",
+    "update_time": "更新至20250903",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:38:18"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "拜仁曾租借+2800万欧买断求购卢克曼，遭亚特兰大无视",
+      "link": "http://www.163.com/dy/article/K8GOER450529AQIE.html",
+      "time": "9月3日 05:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "德天空:卢克曼不会加盟拜仁,这笔交易已经告吹",
+      "link": "http://www.dongqiudi.com/articles/5349326.html",
+      "time": "9月2日 01:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "拜仁租借卢克曼遭拒绝",
+      "link": "http://baijiahao.baidu.com/s?id=1842080450912364075&wfr=spider&for=pc",
+      "time": "9月2日 00:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "拜仁拒绝卢克曼租借+买断报价",
+      "link": "http://www.dongqiudi.com/articles/5349242.html",
+      "time": "9月2日 00:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "记者:卢克曼已经同意加盟拜仁,但是亚特兰大仍拒绝交易",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hc3m",
+      "time": "9月1日 18:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "拜仁2800万报价惨遭拒，纽约时报独家",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11810210647235174345",
+      "time": "9月1日 17:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "拜仁租借+2800万欧选择性买断报价卢克曼",
+      "link": "http://baijiahao.baidu.com/s?id=1841987337946870802&wfr=spider&for=pc",
+      "time": "8月31日 23:58",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "拜仁曾租借+2800万欧买断求购卢克曼，遭亚特兰大无视",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8GOER450529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:38:33",
+      "event_time": "9月3日 05:07"
+    },
+    {
+      "event_title": "德天空:卢克曼不会加盟拜仁,这笔交易已经告吹",
+      "event_id": "event_2",
+      "event_url": "http://www.dongqiudi.com/articles/5349326.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:38:35",
+      "event_time": "9月2日 01:11"
+    },
+    {
+      "event_title": "拜仁租借卢克曼遭拒绝",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842080450912364075&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "张艺兴LIKEmovies",
+      "comment_time": "09-02 02:47",
+      "comment_content": "卢克曼经纪人真拼，拜仁开价都没成，转会截止前还在找下家呢。",
+      "user_location": "重庆",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:38:52",
+      "event_time": "9月2日 00:39"
+    },
+    {
+      "event_title": "拜仁拒绝卢克曼租借+买断报价",
+      "event_id": "event_4",
+      "event_url": "http://www.dongqiudi.com/articles/5349242.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:38:54",
+      "event_time": "9月2日 00:26"
+    },
+    {
+      "event_title": "记者:卢克曼已经同意加盟拜仁,但是亚特兰大仍拒绝交易",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hc3m",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:38:56",
+      "event_time": "9月1日 18:56"
+    },
+    {
+      "event_title": "拜仁2800万报价惨遭拒，纽约时报独家",
+      "event_id": "event_6",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11810210647235174345",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:38:58",
+      "event_time": "9月1日 17:26"
+    },
+    {
+      "event_title": "拜仁租借+2800万欧选择性买断报价卢克曼",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841987337946870802&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:39:13",
+      "event_time": "8月31日 23:58"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-13 02:38:32",
+    "level2_scrape_time": "2025-09-13 02:39:13"
+  }
+}

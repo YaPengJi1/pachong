@@ -1,0 +1,46 @@
+{
+  "core_event_name": "稀土ETF嘉实半日涨跌",
+  "comments": [
+    {
+      "event_title": "稀土ETF嘉实半日收涨1.90%,丰元股份10cm涨停",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842394302462141473&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:08:57",
+      "event_time": "9月5日 11:48"
+    },
+    {
+      "event_title": "稀土ETF嘉实跌3.51%，半日成交额3.61亿元",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/2025-09-04/detail-infphyzr8835841.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:08:59",
+      "event_time": "9月4日 11:32"
+    },
+    {
+      "event_title": "稀土ETF嘉实跌0.81%，半日成交额2.46亿元",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.cn/2025-09-03/detail-infperuq4662795.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:09:01",
+      "event_time": "9月3日 11:32"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 17:09:01"
+}

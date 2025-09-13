@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "江祖平性侵事件",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:07:24"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "绿媒“三立”电视台副总儿子涉嫌性侵台湾女艺人，亲绿人士冷处理",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3605137552583480770",
+      "time": "9月10日 15:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "女星江祖平自曝被前男友侵犯,网友却聚焦在男方比女方小20多岁",
+      "link": "http://www.163.com/dy/article/K91981MH0553A4GC.html",
+      "time": "9月9日 15:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "演员江祖平回应“被性侵”",
+      "link": "http://news.hnr.cn/shxw/article/1/1964825294294556674",
+      "time": "9月8日 06:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "江祖平被性侵后续:男方不认账,指其精神恍惚",
+      "link": "http://www.163.com/dy/article/K8TITOHS05566CJ9.html",
+      "time": "9月8日 04:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "江祖平回应性侵事件：委托律师处理",
+      "link": "http://finance.sina.cn/2025-09-07/detail-infpspkf0522976.d.html",
+      "time": "9月7日 19:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "女演员江祖*被曝下药性侵,警方介入调查",
+      "link": "http://baijiahao.baidu.com/s?id=1842572912117351415&wfr=spider&for=pc",
+      "time": "9月7日 11:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "江祖平风波又扒出愤怒一幕",
+      "link": "http://www.163.com/dy/article/K8QLVSDM0556G922.html",
+      "time": "9月7日 01:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "江祖平性侵案细节:施害者用镇静剂迷晕还偷拍,电视台紧急撇清",
+      "link": "http://baijiahao.baidu.com/s?id=1842412621304719298&wfr=spider&for=pc",
+      "time": "9月5日 16:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "演员江祖平再曝演艺圈性侵事件,受害者短信内容被公开",
+      "link": "http://baijiahao.baidu.com/s?id=1842314302558181779&wfr=spider&for=pc",
+      "time": "9月4日 14:37",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 10:07:38"
+}

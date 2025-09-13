@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 15:08:29"
+  },
+  "core_event": {
+    "core_event_name": "国足新帅浮现，年薪1600万",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:07:47"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国足主帅伊万科维奇下课，足协启动选帅程序",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4009271694434013812",
+      "time": "9月6日 14:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国足协公开选聘国足主教练 目标参加2030世界杯",
+      "link": "http://tv.cctv.com/2025/09/05/VIDEtJx8Cs3axMyxjkGWbprP250905.shtml",
+      "time": "9月5日 21:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国足10月集训，教练或敲定，名单或曝光，2人退出，5人落选",
+      "link": "http://baijiahao.baidu.com/s?id=1842384763501946713&wfr=spider&for=pc",
+      "time": "9月5日 09:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "国足新帅浮现,C罗恩师,年薪1600万!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13173664828789570084",
+      "time": "9月3日 19:19",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "国足主帅伊万科维奇下课，足协启动选帅程序",
+      "event_id": "event_1",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4009271694434013812",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:08:03",
+      "event_time": "9月6日 14:29"
+    },
+    {
+      "event_title": "中国足协公开选聘国足主教练 目标参加2030世界杯",
+      "event_id": "event_2",
+      "event_url": "http://tv.cctv.com/2025/09/05/VIDEtJx8Cs3axMyxjkGWbprP250905.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:08:05",
+      "event_time": "9月5日 21:46"
+    },
+    {
+      "event_title": "国足10月集训，教练或敲定，名单或曝光，2人退出，5人落选",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842384763501946713&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "我的系统自己选",
+      "comment_time": "09-07 00:40",
+      "comment_content": "孙继海，千万别当这个临时教练，这会成为你职业生涯甚至人生的污点，世界排名94的队伍，配不上你",
+      "user_location": "四川",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 15:08:22",
+      "event_time": "9月5日 09:17"
+    },
+    {
+      "event_title": "国足10月集训，教练或敲定，名单或曝光，2人退出，5人落选",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842384763501946713&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "历凌柏H9",
+      "comment_time": "09-05 18:32",
+      "comment_content": "脚踏实地的干足球有希望了，像范土豪吹牛炫耀捣桨糊是没出息的，死路一条。",
+      "user_location": "上海",
+      "like_count": 3,
+      "scrape_time": "2025-09-12 15:08:22",
+      "event_time": "9月5日 09:17"
+    },
+    {
+      "event_title": "国足新帅浮现,C罗恩师,年薪1600万!",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=13173664828789570084",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:08:25",
+      "event_time": "9月3日 19:19"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 5,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 15:08:02",
+    "level2_scrape_time": "2025-09-12 15:08:25"
+  }
+}

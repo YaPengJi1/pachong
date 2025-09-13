@@ -1,0 +1,98 @@
+{
+  "core_event_name": "苹果发布iPhone 17系列",
+  "comments": [
+    {
+      "event_title": "苹果发布会之后,“史上最丑iPhone”频频登上热搜",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842880690957799067&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "香港财华社作者",
+      "comment_time": "09-11 10:01",
+      "comment_content": "您的声音让故事更精彩。",
+      "user_location": "广东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:04:08",
+      "event_time": "9月10日 20:39"
+    },
+    {
+      "event_title": "苹果发布会之后,“史上最丑iPhone”频频登上热搜",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842880690957799067&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "电竞鹰眼Hunter",
+      "comment_time": "09-11 02:08",
+      "comment_content": "iPhone设计被喷丑，但摄像头凸起是因塞了大传感器和LiDAR模块，技术妥协换功能升级，库克这波操作值了。",
+      "user_location": "重庆",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:04:08",
+      "event_time": "9月10日 20:39"
+    },
+    {
+      "event_title": "苹果推iPhone 17系列,供应链自动化生产引热议",
+      "event_id": "event_2",
+      "event_url": "http://mobile.zol.com.cn/1044/10448362.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:04:10",
+      "event_time": "9月10日 17:41"
+    },
+    {
+      "event_title": "中国品牌四登苹果发布会，SmallRig亮相",
+      "event_id": "event_3",
+      "event_url": "http://digital.yesky.com/452/310952.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:04:12",
+      "event_time": "9月10日 15:30"
+    },
+    {
+      "event_title": "最贵17999元,苹果发布iPhone17引热议",
+      "event_id": "event_4",
+      "event_url": "http://new.qq.com/rain/a/20250910A04N7R00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:04:14",
+      "event_time": "9月10日 13:20"
+    },
+    {
+      "event_title": "苹果公司发布iPhone 17,起售价799美元",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12002186879272083998",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:04:16",
+      "event_time": "9月10日 02:17"
+    },
+    {
+      "event_title": "iPhone17系列发布",
+      "event_id": "event_6",
+      "event_url": "http://v.qq.com/x/page/a1228sbl8pb.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:04:18",
+      "event_time": "9月10日 00:00"
+    }
+  ],
+  "total_comments": 7,
+  "scrape_time": "2025-09-12 10:04:18"
+}

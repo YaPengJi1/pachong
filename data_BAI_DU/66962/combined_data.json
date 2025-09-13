@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:49:11"
+  },
+  "core_event": {
+    "core_event_name": "五角大楼不再将中国列为头号敌人",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:48:46"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "天安门大阅兵后，美军决定退守西半球，防范中国不再是头号任务",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13154556454605743088",
+      "time": "9月9日 22:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "五角大楼酝酿“轰动性转向”",
+      "link": "http://app.myzaker.com/news/article.php?m=1757472535&pk=68bf95e5b15ec06510260b59",
+      "time": "9月9日 10:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "九三阅兵后,五角大楼发生重大转向,不再将中国列为“头号敌人”",
+      "link": "http://m.sohu.com/a/932652247_121986130",
+      "time": "9月7日 15:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普拟将五角大楼更名为战争部",
+      "link": "http://app.myzaker.com/news/article.php?pk=68ba69c5b15ec032782b9619",
+      "time": "9月5日 12:40",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "天安门大阅兵后，美军决定退守西半球，防范中国不再是头号任务",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=13154556454605743088",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:49:01",
+      "event_time": "9月9日 22:06"
+    },
+    {
+      "event_title": "五角大楼酝酿“轰动性转向”",
+      "event_id": "event_2",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1757472535&pk=68bf95e5b15ec06510260b59",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:49:03",
+      "event_time": "9月9日 10:50"
+    },
+    {
+      "event_title": "九三阅兵后,五角大楼发生重大转向,不再将中国列为“头号敌人”",
+      "event_id": "event_3",
+      "event_url": "http://m.sohu.com/a/932652247_121986130",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:49:05",
+      "event_time": "9月7日 15:33"
+    },
+    {
+      "event_title": "特朗普拟将五角大楼更名为战争部",
+      "event_id": "event_4",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68ba69c5b15ec032782b9619",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:49:07",
+      "event_time": "9月5日 12:40"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 10:49:00",
+    "level2_scrape_time": "2025-09-12 10:49:07"
+  }
+}

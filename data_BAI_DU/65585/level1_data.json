@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "个人消费贷款财政贴息政策落地",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:22:18"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "3部门发布个人消费贷款贴息政策",
+      "link": "http://guba.sina.com.cn/?s=thread&bid=286107&tid=6",
+      "time": "9月5日 15:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "消费贷款贴息落地 首日银行纷纷“上手段”",
+      "link": "http://news.cnfol.com/guoneicaijing/20250902/31605302.shtml",
+      "time": "9月2日 08:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "消费贷贴息“红包”上线 银行将自动操作直接扣减",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4162137985651598880",
+      "time": "9月1日 06:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "9月1日起开闸!你的个人消费贷款能否贴息、怎么向银行申请 指南来了",
+      "link": "http://finance.eastmoney.com/a/202508313500324183.html",
+      "time": "9月1日 00:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "消费贷贴息政策有望激活消费市场",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 02:22:32"
+}

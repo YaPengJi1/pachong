@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "美国8月PPI意外下降",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:14:25"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美国8月PPI环比四个月来首次转负",
+      "link": "http://www.163.com/dy/article/K961DO8L0534A4SC.html",
+      "time": "昨天 11:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美PPI意外下降,特朗普敦促“必须立刻大幅降息”!新高之际,港股互联网ETF单日再揽2.76亿元",
+      "link": "http://finance.sina.com.cn/money/fund/etf/2025-09-11/doc-infqasqk6871053.shtml",
+      "time": "昨天 09:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美国8月PPI意外下降，通胀压力缓和为美联储降息铺路",
+      "link": "http://finance.sina.cn/forex/whzx/2025-09-11/detail-infpzvkz9104668.d.html",
+      "time": "昨天 01:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美国CPI报告将至，PPI降幅创10年最大，或促降息",
+      "link": "http://www.163.com/dy/article/K94IPT850519D4UH.html",
+      "time": "9月10日 21:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美国8月PPI:环比降0.1%,美联储或降息25基点",
+      "link": "http://baijiahao.baidu.com/s?id=1842884377283681813&wfr=spider&for=pc",
+      "time": "9月10日 21:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "美国8月PPI环比-0.1%,四个月来首次转负,同比远低于预期",
+      "link": "http://baijiahao.baidu.com/s?id=1842880415989583555&wfr=spider&for=pc",
+      "time": "9月10日 20:30",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 11:14:39"
+}

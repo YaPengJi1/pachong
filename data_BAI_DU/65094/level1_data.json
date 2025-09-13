@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "消费贷财政贴息正式实施",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:10:59"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "银行发力消费贷 存量客户也可享受贴息",
+      "link": "http://www.163.com/dy/article/K8L95V6P0519DTSV.html",
+      "time": "9月4日 23:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "消费贷财政贴息正式实施",
+      "link": "http://www.mbachina.com/html/xw/202509/629300.html",
+      "time": "9月4日 10:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "消费贷款领域迎来“国补”",
+      "link": "http://news.sina.cn/znl/2025-09-02/detail-infpaafs9066810.d.html?y=$y",
+      "time": "9月2日 06:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "消费贷贴息落地!覆盖七大领域,单笔贷5万元可省500元利息",
+      "link": "http://www.163.com/dy/article/K8DAHAAG053469KC.html",
+      "time": "9月1日 21:06",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 18:11:13"
+}

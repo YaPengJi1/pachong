@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "华为秋季发布会新品",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:45:10"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "华为发布会又上新",
+      "link": "http://cj.sina.com.cn/articles/view/1223849864/48f27788019018k80",
+      "time": "9月5日 18:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "华为秋季发布会新品迭出,拓展智能终端版图",
+      "link": "http://baijiahao.baidu.com/s?id=1842403340663568213&wfr=spider&for=pc",
+      "time": "9月5日 14:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "华为Mate XTs非凡大师搭载HarmonyOS 5.1正式发布",
+      "link": "http://news.sina.cn/sx/2025-09-04/detail-infpirxa6748543.d.html",
+      "time": "9月4日 18:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "华为发布会发布Mate XTs三折叠",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5241536586816401295",
+      "time": "9月4日 08:19",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 17:45:25"
+}

@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "U22国足晋级U23亚洲杯正赛",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:25:37"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国足晋级U23亚洲杯正赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842872804733907254&wfr=spider&for=pc",
+      "time": "9月10日 16:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国队晋级U23亚洲杯正赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842861222082002039&wfr=spider&for=pc",
+      "time": "9月10日 15:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国U22国家队晋级U23亚洲杯正赛",
+      "link": "http://www.163.com/dy/article/K928BOHR0549CSEX.html",
+      "time": "9月10日 00:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22国足顺利晋级!媒体人热议:一场默契球,安东尼奥从不失手",
+      "link": "http://cj.sina.com.cn/articles/view/3250957313/c1c5ac0102001cdce",
+      "time": "9月9日 21:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中澳之战前,关于U22国足的一次梳理",
+      "link": "http://baijiahao.baidu.com/s?id=1842658368687361531&wfr=spider&for=pc",
+      "time": "9月8日 09:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "U22国足10-0胜北马里亚纳群岛队",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8513342972476643309",
+      "time": "9月6日 22:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "U23亚洲杯疯狂夜:国足大胜,澳大利亚稳居榜首",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11907751456733800138",
+      "time": "9月6日 22:10",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 11:25:52"
+}

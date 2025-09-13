@@ -1,0 +1,193 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:32:29"
+  },
+  "core_event": {
+    "core_event_name": "惊雷-1亮相，成为三位一体战略核力量国家",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:31:41"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "轰-6已能打到美国,美防长:我们无意与中国发生冲突",
+      "link": "http://cj.sina.com.cn/articles/view/7879923851/1d5ae188b02001ipo2",
+      "time": "9月8日 13:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "“惊雷-1”首次亮相!它到底有多牛?",
+      "link": "http://news.sina.com.cn/c/2025-09-04/doc-infpkany3136318.shtml",
+      "time": "9月4日 19:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "“惊雷-1”空基远程导弹震撼亮相，台退将：解放军“核三位一体”最后一块拼图拼上了",
+      "link": "http://news.sina.com.cn/c/2025-09-04/doc-infphyzn3571388.shtml",
+      "time": "9月4日 12:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "全球唯一空射高超音速核导弹震撼亮相",
+      "link": "http://cj.sina.com.cn/articles/view/7295052889/1b2d1ac590200187p6",
+      "time": "9月4日 10:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "惊雷-1,巨浪-3首次亮相 军事专家: 我国成为为数不多拥有三位一体战略核力量的国家",
+      "link": "http://news.sina.com.cn/c/2025-09-03/doc-infpfthf9454547.shtml",
+      "time": "9月3日 21:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "惊雷-1、巨浪-3首次亮相",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31538894",
+      "time": "9月3日 17:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "惊雷-1亮相阅兵式 中国向“三位一体”核力量进发",
+      "link": "http://baijiahao.baidu.com/s?id=1842222957373570938&wfr=spider&for=pc",
+      "time": "9月3日 14:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "“惊雷-1”,震撼登场!",
+      "link": "http://www.gxnews.com.cn/staticpages/20250903/newgx68b7bb03-21840096.shtml",
+      "time": "9月3日 11:50",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "轰-6已能打到美国,美防长:我们无意与中国发生冲突",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/7879923851/1d5ae188b02001ipo2",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:31:57",
+      "event_time": "9月8日 13:30"
+    },
+    {
+      "event_title": "“惊雷-1”首次亮相!它到底有多牛?",
+      "event_id": "event_2",
+      "event_url": "http://news.sina.com.cn/c/2025-09-04/doc-infpkany3136318.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:31:59",
+      "event_time": "9月4日 19:05"
+    },
+    {
+      "event_title": "“惊雷-1”空基远程导弹震撼亮相，台退将：解放军“核三位一体”最后一块拼图拼上了",
+      "event_id": "event_3",
+      "event_url": "http://news.sina.com.cn/c/2025-09-04/doc-infphyzn3571388.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:32:01",
+      "event_time": "9月4日 12:38"
+    },
+    {
+      "event_title": "全球唯一空射高超音速核导弹震撼亮相",
+      "event_id": "event_4",
+      "event_url": "http://cj.sina.com.cn/articles/view/7295052889/1b2d1ac590200187p6",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:32:03",
+      "event_time": "9月4日 10:58"
+    },
+    {
+      "event_title": "惊雷-1,巨浪-3首次亮相 军事专家: 我国成为为数不多拥有三位一体战略核力量的国家",
+      "event_id": "event_5",
+      "event_url": "http://news.sina.com.cn/c/2025-09-03/doc-infpfthf9454547.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:32:05",
+      "event_time": "9月3日 21:42"
+    },
+    {
+      "event_title": "惊雷-1、巨浪-3首次亮相",
+      "event_id": "event_6",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31538894",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:32:07",
+      "event_time": "9月3日 17:52"
+    },
+    {
+      "event_title": "惊雷-1亮相阅兵式 中国向“三位一体”核力量进发",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842222957373570938&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "毓昕昕8B",
+      "comment_time": "09-03 16:11",
+      "comment_content": "毓昕昕8B09-03 16:11广东举报回复3",
+      "user_location": "广东",
+      "like_count": 3,
+      "scrape_time": "2025-09-13 02:32:23",
+      "event_time": "9月3日 14:25"
+    },
+    {
+      "event_title": "“惊雷-1”,震撼登场!",
+      "event_id": "event_8",
+      "event_url": "http://www.gxnews.com.cn/staticpages/20250903/newgx68b7bb03-21840096.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:32:25",
+      "event_time": "9月3日 11:50"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 8,
+    "total_comments": 8,
+    "events_with_comments": 8,
+    "level1_scrape_time": "2025-09-13 02:31:56",
+    "level2_scrape_time": "2025-09-13 02:32:25"
+  }
+}

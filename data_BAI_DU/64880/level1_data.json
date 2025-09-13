@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "新华保险连续4天下跌",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:24:17"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "新华保险股价连续4天下跌累计跌幅7.96%,安信基金旗下2只基金合计持4.3万股,浮亏损失23.35万元",
+      "link": "http://www.163.com/dy/article/K8KDS1LF05568W0A.html",
+      "time": "9月4日 15:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "新华保险股价连续4天下跌累计跌幅7.96%,工银瑞信基金旗下3只基金合计持29.87万股,浮亏损失162.19万元",
+      "link": "http://www.sohu.com/a/931837083_122014422",
+      "time": "9月4日 15:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "新华保险股价连续4天下跌",
+      "link": "http://baijiahao.baidu.com/s?id=1842316930571313466&wfr=spider&for=pc",
+      "time": "9月4日 15:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "新华保险股价连续4天下跌累计跌幅7.96%,景顺长城基金旗下1只基金持41.42万股,浮亏损失224.91万元",
+      "link": "http://www.163.com/dy/article/K8KDRE6H05568W0A.html",
+      "time": "9月4日 15:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "新华保险股价连续4天下跌，累计跌幅7.96%",
+      "link": "http://baijiahao.baidu.com/s?id=1842316905341725670&wfr=spider&for=pc",
+      "time": "9月4日 15:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 18:24:31"
+}

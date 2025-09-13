@@ -1,0 +1,116 @@
+{
+  "core_info": {
+    "core_event_name": "蔚来二季度营收增长9%",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:12:19"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "蔚来二季度营收超190亿",
+      "link": "http://baijiahao.baidu.com/s?id=1842388734851909148&wfr=spider&for=pc",
+      "time": "9月5日 10:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "冲刺四季度盈利，李斌拼了",
+      "link": "http://36kr.com/p/3452371601938056",
+      "time": "9月5日 08:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "营收增长！蔚来二季度财报发布",
+      "link": "http://k.sina.com.cn/article_5953741034_162dee0ea06702ehvm.html",
+      "time": "9月4日 15:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "蔚来李斌:汽车行业靠的是产品竞争力,这决定了销量上限",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31539956",
+      "time": "9月4日 14:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "蔚来Q4盈利目标不变",
+      "link": "http://www.sohu.com/a/931645511_362225",
+      "time": "9月4日 04:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "蔚来四季度月销目标5万,明年规划三台新车,多品牌效应初步显露",
+      "link": "http://app.myzaker.com/news/article.php?m=1756896636&pk=68b81847b15ec0710f3ddfd9",
+      "time": "9月3日 18:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "蔚来Q2营收、销量大涨，仍净亏近50亿",
+      "link": "http://baijiahao.baidu.com/s?id=1842215058420384054&wfr=spider&for=pc",
+      "time": "9月3日 11:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "蔚来二季度营收增长9%,李斌:四季度锚定月销5万台目标",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31531048",
+      "time": "9月3日 07:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "蔚来Q2营收突破190亿元大关",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7872132059281150910",
+      "time": "9月2日 21:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "蔚来上半年营收超300亿元",
+      "link": "http://baijiahao.baidu.com/s?id=1842159411300428930&wfr=spider&for=pc",
+      "time": "9月2日 21:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "蔚来集团八月销量出炉，能源形式拐点已至",
+      "link": "http://www.bilibili.com/video/BV1sdaHzTEf4",
+      "time": "9月1日 21:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "蔚来汽车:今年累计交付166472辆汽车,同比增长30.0%",
+      "link": "http://m.jrj.com.cn/madapter/24h/2025/09/01173752849738.shtml",
+      "time": "9月1日 17:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "李斌:用户不买蔚来车 30%-40% 因担心倒闭,四季度盈利成关键",
+      "link": "http://www.ithome.com/0/879/228.htm",
+      "time": "8月30日 16:40",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 13,
+  "scrape_time": "2025-09-12 19:12:34"
+}

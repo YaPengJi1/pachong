@@ -1,0 +1,72 @@
+{
+  "core_event_name": "蔚来ES8上市定档9月20日",
+  "comments": [
+    {
+      "event_title": "蔚来全新ES8全国试驾开启",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842945528535076578&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "涵辕记0N",
+      "comment_time": "09-11 14:13",
+      "comment_content": "试驾热度真高，新车魅力十足。门店伙伴辛苦啦，大家安全第一。",
+      "user_location": "贵州",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:19:18",
+      "event_time": "昨天 13:45"
+    },
+    {
+      "event_title": "全新蔚来ES8上市定档9月20日 预售价41.68万元起",
+      "event_id": "event_2",
+      "event_url": "http://auto.cnfol.com/xincheshangshi/20250905/31617878.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:19:20",
+      "event_time": "9月5日 13:05"
+    },
+    {
+      "event_title": "蔚来全新ES8订单超预期",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8MDHCA205568E36.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:19:22",
+      "event_time": "9月5日 09:51"
+    },
+    {
+      "event_title": "蔚来ES8和ES6将推出豪华配置版本",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8KJCMIM0514C2C8.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:19:24",
+      "event_time": "9月4日 16:55"
+    },
+    {
+      "event_title": "ES8发布引轰动",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=3910579726403828324",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:19:26",
+      "event_time": "8月29日 21:18"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 18:19:26"
+}

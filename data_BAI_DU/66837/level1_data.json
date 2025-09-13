@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "iPhone Air支持eSIM",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:18:40"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "iPhone Air仅支持eSIM 苹果确认仅中国联通支持",
+      "link": "http://finance.eastmoney.com/a/202509103510049895.html",
+      "time": "9月10日 19:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "国内首款eSIM手机! iPhone Air国行确认仅支持中国联通eSIM",
+      "link": "http://new.qq.com/rain/a/20250910V011BD00",
+      "time": "9月10日 05:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "iPhone Air全球统一搭载eSIM",
+      "link": "http://baijiahao.baidu.com/s?id=1842820217181411296&wfr=spider&for=pc",
+      "time": "9月10日 04:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "苹果官网:iPhone Air 手机当前仅支持中国联通 eSIM 服务",
+      "link": "http://www.ithome.com/0/881/687.htm",
+      "time": "9月10日 02:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "国内首款 eSIM 手机,苹果 iPhone Air 确认支持中国联通 eSIM",
+      "link": "http://baijiahao.baidu.com/s?id=1842813091848562633&wfr=spider&for=pc",
+      "time": "9月10日 02:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "苹果首发!曝iPhone 17系列国行版将落地eSIM",
+      "link": "http://app.myzaker.com/news/article.php?pk=68ba4bc4b15ec0368f30766a",
+      "time": "9月5日 10:24",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 10:18:54"
+}

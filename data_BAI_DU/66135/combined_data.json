@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:49:10"
+  },
+  "core_event": {
+    "core_event_name": "樊振东德甲连胜两场",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:48:42"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "樊振东德甲输球冲热搜",
+      "link": "http://new.qq.com/rain/a/20250908V05QU000",
+      "time": "9月8日 16:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "上海体育局报导樊振东德甲首胜",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4863703133245566788",
+      "time": "9月8日 10:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "樊振东又回来了,豪取德甲比赛两连胜",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9618319810030100221",
+      "time": "9月7日 22:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "樊振东德甲连赢两场 帮助俱乐部取得本赛季首胜",
+      "link": "http://video.sina.cn/finance/2025-09-07/detail-infpspiy8339567.d.html",
+      "time": "9月7日 18:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "樊振东德甲首秀意外",
+      "link": "http://www.163.com/sports/article/K8HE7KRA00058782.html",
+      "time": "9月3日 11:27",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "樊振东德甲输球冲热搜",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250908V05QU000",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:48:58",
+      "event_time": "9月8日 16:04"
+    },
+    {
+      "event_title": "上海体育局报导樊振东德甲首胜",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4863703133245566788",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:49:00",
+      "event_time": "9月8日 10:27"
+    },
+    {
+      "event_title": "樊振东又回来了,豪取德甲比赛两连胜",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9618319810030100221",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:49:02",
+      "event_time": "9月7日 22:01"
+    },
+    {
+      "event_title": "樊振东德甲连赢两场 帮助俱乐部取得本赛季首胜",
+      "event_id": "event_4",
+      "event_url": "http://video.sina.cn/finance/2025-09-07/detail-infpspiy8339567.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:49:04",
+      "event_time": "9月7日 18:43"
+    },
+    {
+      "event_title": "樊振东德甲首秀意外",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/sports/article/K8HE7KRA00058782.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:49:06",
+      "event_time": "9月3日 11:27"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 14:48:56",
+    "level2_scrape_time": "2025-09-12 14:49:06"
+  }
+}

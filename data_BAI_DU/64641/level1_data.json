@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "多款纯电六座SUV亮相齐鲁秋季车展",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:53:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "各类车型在齐鲁秋季车展集中亮相",
+      "link": "http://baijiahao.baidu.com/s?id=1842380964729447915&wfr=spider&for=pc",
+      "time": "9月5日 08:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "2025齐鲁秋季车展开幕",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3873878895966942706",
+      "time": "9月4日 23:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "2025齐鲁秋季车展开幕 近千款车型亮相泉城",
+      "link": "http://baijiahao.baidu.com/s?id=1842329845398640798&wfr=spider&for=pc",
+      "time": "9月4日 18:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "比亚迪“全家福”强势亮相齐鲁秋季车展",
+      "link": "http://baijiahao.baidu.com/s?id=1842301094758301577&wfr=spider&for=pc",
+      "time": "9月4日 11:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "多款纯电六座SUV亮相齐鲁秋季车展",
+      "link": "http://finance.sina.cn/2025-09-02/detail-infpaxmh0173513.d.html",
+      "time": "9月2日 15:38",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 01:54:06"
+}

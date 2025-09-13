@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "半导体强势翻红，科创芯片ETF指数涨超2%",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:15:46"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "半导体板块逆市大涨",
+      "link": "http://baijiahao.baidu.com/s?id=1842988629666885987&wfr=spider&for=pc",
+      "time": "昨天 18:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "国内厂商CPU和DCU需求持续爆发",
+      "link": "http://baijiahao.baidu.com/s?id=1842933604974391630&wfr=spider&for=pc",
+      "time": "昨天 10:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "科创半导体ETF涨超2%,天岳先进涨停",
+      "link": "http://www.nbd.com.cn/articles/2025-09-05/4050170.html",
+      "time": "9月5日 13:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "科创芯片ETF基金涨2.01%",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmcyp1010528.d.html",
+      "time": "9月5日 11:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "麒麟芯片正式“回归”",
+      "link": "http://www.nbd.com.cn/articles/2025-09-05/4049886.html",
+      "time": "9月5日 10:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "半导体强势翻红，科创芯片ETF指数红盘向上",
+      "link": "http://www.163.com/dy/article/K8HCT9MU051987V2.html",
+      "time": "9月3日 11:04",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 23:16:00"
+}

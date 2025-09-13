@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:00:58"
+  },
+  "core_event": {
+    "core_event_name": "苏州0:1盐城，盐城队3:2客场险胜苏州队",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:00:00"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "苏北盐城客场掀翻苏州，终结连败",
+      "link": "http://baijiahao.baidu.com/s?id=1842616042472346381&wfr=spider&for=pc",
+      "time": "9月7日 22:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "盐城队3:2客场险胜苏州队",
+      "link": "http://baijiahao.baidu.com/s?id=1842615769622169480&wfr=spider&for=pc",
+      "time": "9月7日 22:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "苏超：盐城队3-2险胜苏州队",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2915845265874082657",
+      "time": "9月7日 20:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "苏超联赛，苏州0:1盐城，上半场11分钟，盐城队领先",
+      "link": "http://www.bilibili.com/video/BV12UY5zQEqo",
+      "time": "9月7日 19:39",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "苏北盐城客场掀翻苏州，终结连败",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842616042472346381&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "小期米r",
+      "comment_time": "09-07 23:51",
+      "comment_content": "盐城队客场赢了苏州，终结连败真痛快。区域尊严燃起来，团结力量感人。",
+      "user_location": "河北",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 11:00:34",
+      "event_time": "9月7日 22:33"
+    },
+    {
+      "event_title": "苏北盐城客场掀翻苏州，终结连败",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842616042472346381&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "我爱中国LGJ",
+      "comment_time": "09-08 16:17",
+      "comment_content": "苏超联赛踢的是必胜的意志，一往无前的锐气！",
+      "user_location": "上海",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:00:34",
+      "event_time": "9月7日 22:33"
+    },
+    {
+      "event_title": "盐城队3:2客场险胜苏州队",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842615769622169480&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:00:50",
+      "event_time": "9月7日 22:28"
+    },
+    {
+      "event_title": "苏超：盐城队3-2险胜苏州队",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=2915845265874082657",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:00:52",
+      "event_time": "9月7日 20:59"
+    },
+    {
+      "event_title": "苏超联赛，苏州0:1盐城，上半场11分钟，盐城队领先",
+      "event_id": "event_4",
+      "event_url": "http://www.bilibili.com/video/BV12UY5zQEqo",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:00:54",
+      "event_time": "9月7日 19:39"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 5,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 11:00:15",
+    "level2_scrape_time": "2025-09-12 11:00:54"
+  }
+}

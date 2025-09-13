@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "九三阅兵震撼外国网友",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:02:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "九三阅兵震撼外国网友:中国最好的“武器”,是不把钱花在战争上",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmzcy5751309.d.html",
+      "time": "9月5日 20:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "九三阅兵中的钢铁洪流实现了哪些升级?",
+      "link": "http://news.youth.cn/js/202509/t20250905_16218206.htm",
+      "time": "9月5日 09:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "九三阅兵场上“威海制造”亮闪闪",
+      "link": "http://baijiahao.baidu.com/s?id=1842375216962340527&wfr=spider&for=pc",
+      "time": "9月4日 20:15",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 11:02:44"
+}

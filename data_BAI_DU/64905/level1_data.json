@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "《空洞骑士:丝之歌》发售揭晓",
+    "update_time": "更新至20250902",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:11:33"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "空洞骑士热度攀升,丝之歌9月4日上线",
+      "link": "http://news.zol.com.cn/1040/10406827.html",
+      "time": "9月2日 14:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "《空洞骑士:丝之歌》定价疑似被销售商曝光:仅为19.99美元!",
+      "link": "http://www.gamersky.com/news/202508/2005142.shtml",
+      "time": "8月30日 08:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "空洞骑士:丝之歌》发售揭晓",
+      "link": "http://www.sohu.com/a/929993955_122445659",
+      "time": "8月29日 22:13",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 17:11:48"
+}

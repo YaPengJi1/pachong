@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "逐步推行免费学前教育",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:08:24"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "我省逐步推行免费学前教育",
+      "link": "http://www.163.com/dy/article/K8RI1U7K055616X5.html",
+      "time": "9月7日 09:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "内蒙古逐步推行免费学前教育政策 今年16.4万大班儿童受益",
+      "link": "http://szb.northnews.cn/bfxb/html/2025-09/05/content_53466_264795.htm",
+      "time": "9月5日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "黄燕芬:逐步推行免费学前教育具有里程碑意义",
+      "link": "http://m.sohu.com/a/930993760_115495",
+      "time": "9月2日 09:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "免费学前教育今秋起逐步推行 部分幼儿园大班出现生源“回流”",
+      "link": "http://baijiahao.baidu.com/s?id=1841975039079991850&wfr=spider&for=pc",
+      "time": "8月31日 20:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "学前教育法正式施行!园长有话说⑥ —— 师资队伍:支撑学前教育高质量发展的中坚力量",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 01:08:38"
+}

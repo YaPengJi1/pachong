@@ -1,0 +1,100 @@
+{
+  "core_info": {
+    "core_event_name": "103岁新闻老兵获颁抗战胜利80周年纪念章",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:59:10"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "秦皇岛干休所举行纪念章颁发仪式",
+      "link": "http://qhd.hebnews.cn/2025-09/05/content_9388464.htm",
+      "time": "9月5日 17:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "102岁抗战老兵ICU看阅兵后安详离世,曾于1939年参加常德会战",
+      "link": "http://cj.sina.com.cn/articles/view/1744332207/67f865af02701grbm",
+      "time": "9月4日 17:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "跨越时空的军礼！徐州102岁抗战老兵隔屏致敬天安门国旗",
+      "link": "http://jsnews.jschina.com.cn/xz/a/202509/t20250904_s68b94101e4b0ae639771bb09.shtml",
+      "time": "9月4日 15:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "省军区举行中国人民抗日战争胜利80周年纪念章颁发仪式",
+      "link": "http://www.163.com/dy/article/K8JUVQKK0556D2C6.html",
+      "time": "9月4日 10:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "纪念抗战胜利80周年 北京天安门广场今天举行纪念大会",
+      "link": "http://tv.cctv.com/2025/09/03/VIDEypV7aX1D5LVg4kVEaAcZ250903.shtml",
+      "time": "9月3日 12:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "南方电网5位离休同志获颁抗战胜利80周年纪念章",
+      "link": "http://www.163.com/dy/article/K8HGFG2Q0556D2FV.html",
+      "time": "9月3日 12:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "103岁新闻老兵获颁抗战胜利80周年纪念章",
+      "link": "http://www.chinatoday.com.cn/zw2018/tga/202509/t20250903_800413772.html",
+      "time": "9月3日 10:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "112位抗战老兵获颁抗战胜利80周年纪念章",
+      "link": "http://baijiahao.baidu.com/s?id=1842196970639498070&rcptid=8143439298656011001",
+      "time": "9月3日 07:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "两位老同志获发“中国人民抗日战争胜利80周年”纪念章",
+      "link": "http://www.163.com/dy/article/K8FAMDVC055616XV.html",
+      "time": "9月2日 15:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "宝武、南钢老战士荣获“中国人民抗日战争胜利80周年”纪念章",
+      "link": "http://www.cehome.com/news/20250901/352971.shtml",
+      "time": "9月1日 20:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "山西省军区举办“中国人民抗日战争胜利80周年”纪念章颁发仪式暨“奋斗者说”强军故事会",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 11,
+  "scrape_time": "2025-09-12 21:59:24"
+}

@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:26:23"
+  },
+  "core_event": {
+    "core_event_name": "中国对俄试行免签",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:25:27"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国对俄试行免签，俄网友翘首以盼",
+      "link": "http://baijiahao.baidu.com/s?id=1842760213113767715&wfr=spider&for=pc",
+      "time": "9月9日 12:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "俄罗斯将对华免签，北京飞莫斯科1482元",
+      "link": "http://baijiahao.baidu.com/s?id=1842524535571102397&wfr=spider&for=pc",
+      "time": "9月6日 16:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国对俄罗斯试行免签，边境小城想要接住流量",
+      "link": "http://www.163.com/dy/article/K8L57IB705199NPP.html",
+      "time": "9月4日 22:07",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "中国对俄试行免签，俄网友翘首以盼",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842760213113767715&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:26:00",
+      "event_time": "9月9日 12:42"
+    },
+    {
+      "event_title": "俄罗斯将对华免签，北京飞莫斯科1482元",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842524535571102397&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:26:17",
+      "event_time": "9月6日 16:26"
+    },
+    {
+      "event_title": "中国对俄罗斯试行免签，边境小城想要接住流量",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8L57IB705199NPP.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:26:19",
+      "event_time": "9月4日 22:07"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 14:25:42",
+    "level2_scrape_time": "2025-09-12 14:26:19"
+  }
+}

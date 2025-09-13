@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "三星Galaxy Z Flip7手机发布",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:28:24"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "三星打造安卓首款三折叠屏来袭",
+      "link": "http://news.pconline.com.cn/1975/19758872.html",
+      "time": "9月6日 22:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "三星Galaxy Z系列手机",
+      "link": "http://baijiahao.baidu.com/s?id=1842223909735261603&wfr=spider&for=pc",
+      "time": "9月3日 14:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "三星Galaxy Z Flip7手机用色彩与AI定义潮流旗舰",
+      "link": "http://www.sohu.com/a/930695437_120523312",
+      "time": "9月1日 13:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "三星Galaxy Z Fold7开启全民折叠大屏AI时代",
+      "link": "http://news.yesky.com/hotnews/180/309680.shtml",
+      "time": "9月1日 11:44",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 00:28:39"
+}

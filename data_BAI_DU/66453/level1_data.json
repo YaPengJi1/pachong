@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "U23国足生死战前迎三利好",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:02:00"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U23国足生死战前迎三利好,主场冲击出线",
+      "link": "http://www.163.com/dy/article/K90BIVSL0556923K.html",
+      "time": "9月9日 06:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U23国足出线希望大增，今晚与无排名对手刷胜分稳定形势",
+      "link": "http://news.sohu.com/a/932548641_121666512",
+      "time": "9月7日 07:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "CCTV5直播中国足球vs东南亚鱼腩",
+      "link": "http://cj.sina.com.cn/articles/view/5887996859/15ef3b3bb001014n30",
+      "time": "9月6日 17:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U23亚预赛中国队今晚迎首战，杀进决赛圈是唯一目标",
+      "link": "http://baijiahao.baidu.com/s?id=1842207163042789776&wfr=spider&for=pc",
+      "time": "9月3日 10:14",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 15:02:14"
+}

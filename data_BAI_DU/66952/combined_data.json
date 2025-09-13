@@ -1,0 +1,319 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:38:47"
+  },
+  "core_event": {
+    "core_event_name": "韩国政府将接回在美国遭扣押工人",
+    "update_time": "更新至20250912",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:37:16"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普提议后,“只有一人留下”",
+      "link": "http://baijiahao.baidu.com/s?id=1842983957981397115&wfr=spider&for=pc",
+      "time": "今天 00:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "韩国被扣工人将于11日启程回国",
+      "link": "http://m.gmw.cn/2025-09/11/content_1304143915.htm",
+      "time": "昨天 09:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "韩国外长：被捕韩公民再入境美国时不会受到不利影响",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=14963888321438141367",
+      "time": "昨天 09:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "韩国派包机赴美接回被捕的数百名韩籍员工",
+      "link": "http://baijiahao.baidu.com/s?id=1842900985066158334&wfr=spider&for=pc",
+      "time": "昨天 02:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "300多名韩国公民被美方拘留,韩国派包机赴美接回",
+      "link": "http://www.jfdaily.com/news/detail?id=980124",
+      "time": "9月10日 15:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "韩企员工在美被捕事件 韩媒:韩最快10日包机赴美接回被拘公民",
+      "link": "http://tv.cctv.com/2025/09/10/VIDEjp40MKAZFHh8iN0B9sDp250910.shtml",
+      "time": "9月10日 05:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "韩最快10日包机赴美接回被拘公民",
+      "link": "http://tv.cctv.com/2025/09/09/VIDEOlzXEXiZ0qbdADeSlbXO250909.shtml",
+      "time": "9月9日 22:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "韩企员工在美被捕事件 韩国外长启程赴美 将就该事件紧急磋商",
+      "link": "http://tv.cctv.com/2025/09/09/VIDEEydQQ9Ms3hVNd7sZRYVa250909.shtml",
+      "time": "9月9日 07:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "韩将接回在美被捕工人 韩外长赴美商讨签证问题",
+      "link": "http://tv.cctv.com/2025/09/08/VIDE2otBlVBFdNIGVZzjStaY250908.shtml",
+      "time": "9月8日 19:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "韩国政府将接回在美国遭扣押工人",
+      "link": "http://m.gmw.cn/2025-09/08/content_1304140073.htm",
+      "time": "9月8日 16:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "美国突然逮捕超300名韩国人,韩国外长:如有必要将亲自赴美",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15430571730115630266",
+      "time": "9月8日 14:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "韩国现代在美工厂475人被捕 被捕人员无合法身份 300多人来自韩国",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEocMO2hY7pBXEltFUKCOc250908.shtml",
+      "time": "9月8日 13:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "韩总统办公室：已与美方就释放被捕韩企人员协商完毕",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEwtHBxI9OF796RtzlqPNh250908.shtml",
+      "time": "9月8日 05:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "韩方称已与美方协商释放约300名被抓韩国人，政府将包机前往美国",
+      "link": "http://baijiahao.baidu.com/s?id=1842613305493078543&wfr=spider&for=pc",
+      "time": "9月7日 20:21",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "特朗普提议后,“只有一人留下”",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842983957981397115&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:37:48",
+      "event_time": "今天 00:01"
+    },
+    {
+      "event_title": "韩国被扣工人将于11日启程回国",
+      "event_id": "event_2",
+      "event_url": "http://m.gmw.cn/2025-09/11/content_1304143915.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:37:50",
+      "event_time": "昨天 09:49"
+    },
+    {
+      "event_title": "韩国外长：被捕韩公民再入境美国时不会受到不利影响",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=14963888321438141367",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:37:52",
+      "event_time": "昨天 09:37"
+    },
+    {
+      "event_title": "韩国派包机赴美接回被捕的数百名韩籍员工",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842900985066158334&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:08",
+      "event_time": "昨天 02:02"
+    },
+    {
+      "event_title": "300多名韩国公民被美方拘留,韩国派包机赴美接回",
+      "event_id": "event_5",
+      "event_url": "http://www.jfdaily.com/news/detail?id=980124",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:10",
+      "event_time": "9月10日 15:00"
+    },
+    {
+      "event_title": "韩企员工在美被捕事件 韩媒:韩最快10日包机赴美接回被拘公民",
+      "event_id": "event_6",
+      "event_url": "http://tv.cctv.com/2025/09/10/VIDEjp40MKAZFHh8iN0B9sDp250910.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:12",
+      "event_time": "9月10日 05:29"
+    },
+    {
+      "event_title": "韩最快10日包机赴美接回被拘公民",
+      "event_id": "event_7",
+      "event_url": "http://tv.cctv.com/2025/09/09/VIDEOlzXEXiZ0qbdADeSlbXO250909.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:14",
+      "event_time": "9月9日 22:22"
+    },
+    {
+      "event_title": "韩企员工在美被捕事件 韩国外长启程赴美 将就该事件紧急磋商",
+      "event_id": "event_8",
+      "event_url": "http://tv.cctv.com/2025/09/09/VIDEEydQQ9Ms3hVNd7sZRYVa250909.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:16",
+      "event_time": "9月9日 07:32"
+    },
+    {
+      "event_title": "韩将接回在美被捕工人 韩外长赴美商讨签证问题",
+      "event_id": "event_9",
+      "event_url": "http://tv.cctv.com/2025/09/08/VIDE2otBlVBFdNIGVZzjStaY250908.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:18",
+      "event_time": "9月8日 19:20"
+    },
+    {
+      "event_title": "韩国政府将接回在美国遭扣押工人",
+      "event_id": "event_10",
+      "event_url": "http://m.gmw.cn/2025-09/08/content_1304140073.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:20",
+      "event_time": "9月8日 16:16"
+    },
+    {
+      "event_title": "美国突然逮捕超300名韩国人,韩国外长:如有必要将亲自赴美",
+      "event_id": "event_11",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=15430571730115630266",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:22",
+      "event_time": "9月8日 14:42"
+    },
+    {
+      "event_title": "韩国现代在美工厂475人被捕 被捕人员无合法身份 300多人来自韩国",
+      "event_id": "event_12",
+      "event_url": "http://tv.cctv.com/2025/09/08/VIDEocMO2hY7pBXEltFUKCOc250908.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:24",
+      "event_time": "9月8日 13:45"
+    },
+    {
+      "event_title": "韩总统办公室：已与美方就释放被捕韩企人员协商完毕",
+      "event_id": "event_13",
+      "event_url": "http://tv.cctv.com/2025/09/08/VIDEwtHBxI9OF796RtzlqPNh250908.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:26",
+      "event_time": "9月8日 05:52"
+    },
+    {
+      "event_title": "韩方称已与美方协商释放约300名被抓韩国人，政府将包机前往美国",
+      "event_id": "event_14",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842613305493078543&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:42",
+      "event_time": "9月7日 20:21"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 14,
+    "total_comments": 14,
+    "events_with_comments": 14,
+    "level1_scrape_time": "2025-09-12 10:37:30",
+    "level2_scrape_time": "2025-09-12 10:38:42"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:08:48"
+  },
+  "core_event": {
+    "core_event_name": "北交所汽车电子与工控增长",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:08:16"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "北交所：境内大客户增长 扩大市占率",
+      "link": "http://wap.eastmoney.com/report/AP202509051738971128.html",
+      "time": "9月5日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "北交所信息更新：加入6G推进组，布局未来通信技术领域",
+      "link": "http://wap.eastmoney.com/report/AP202509021737997354.html",
+      "time": "9月2日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "北交所信息更新:受益国网“大区制”招标和电网投资高增,2025H1新签合同增31%",
+      "link": "http://wap.eastmoney.com/report/AP202509021737947529.html",
+      "time": "9月2日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "北交所信息更新:汽车电子+工控双轮驱动高增长",
+      "link": "http://wap.eastmoney.com/report/AP202508291736400629.html",
+      "time": "8月29日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "北交所信息更新:KNX安全系统全球领军者",
+      "link": "http://wap.eastmoney.com/report/AP202508291736390413.html",
+      "time": "8月29日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "北交所信息更新:消费电子防盗解决方案龙头",
+      "link": "http://wap.eastmoney.com/report/AP202508291736390396.html",
+      "time": "8月29日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "浙江省首批智能工厂认证",
+      "link": "http://wap.eastmoney.com/report/AP202508291736427697.html",
+      "time": "8月29日 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "北交所：境内大客户增长 扩大市占率",
+      "event_id": "event_1",
+      "event_url": "http://wap.eastmoney.com/report/AP202509051738971128.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:08:32",
+      "event_time": "9月5日 00:00"
+    },
+    {
+      "event_title": "北交所信息更新：加入6G推进组，布局未来通信技术领域",
+      "event_id": "event_2",
+      "event_url": "http://wap.eastmoney.com/report/AP202509021737997354.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:08:34",
+      "event_time": "9月2日 00:00"
+    },
+    {
+      "event_title": "北交所信息更新:受益国网“大区制”招标和电网投资高增,2025H1新签合同增31%",
+      "event_id": "event_3",
+      "event_url": "http://wap.eastmoney.com/report/AP202509021737947529.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:08:36",
+      "event_time": "9月2日 00:00"
+    },
+    {
+      "event_title": "北交所信息更新:汽车电子+工控双轮驱动高增长",
+      "event_id": "event_4",
+      "event_url": "http://wap.eastmoney.com/report/AP202508291736400629.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:08:38",
+      "event_time": "8月29日 00:00"
+    },
+    {
+      "event_title": "北交所信息更新:KNX安全系统全球领军者",
+      "event_id": "event_5",
+      "event_url": "http://wap.eastmoney.com/report/AP202508291736390413.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:08:40",
+      "event_time": "8月29日 00:00"
+    },
+    {
+      "event_title": "北交所信息更新:消费电子防盗解决方案龙头",
+      "event_id": "event_6",
+      "event_url": "http://wap.eastmoney.com/report/AP202508291736390396.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:08:42",
+      "event_time": "8月29日 00:00"
+    },
+    {
+      "event_title": "浙江省首批智能工厂认证",
+      "event_id": "event_7",
+      "event_url": "http://wap.eastmoney.com/report/AP202508291736427697.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:08:44",
+      "event_time": "8月29日 00:00"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-13 02:08:30",
+    "level2_scrape_time": "2025-09-13 02:08:44"
+  }
+}

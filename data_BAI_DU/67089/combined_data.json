@@ -1,0 +1,256 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:25:34"
+  },
+  "core_event": {
+    "core_event_name": "甲骨文股价暴涨",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:24:25"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "OpenAI与甲骨文达成3000亿美元算力订单",
+      "link": "http://finance.eastmoney.com/a/202509113511026245.html",
+      "time": "昨天 14:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "甲骨文股价暴涨36% A股科技行情第二波来了",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9875726120454392424",
+      "time": "昨天 14:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "甲骨文业绩亮眼点燃全球AI热情，A股多只相关ETF今年涨幅超40%",
+      "link": "http://stock.stockstar.com/IG2025091100016816.shtml",
+      "time": "昨天 12:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "起底甲骨文与埃里森",
+      "link": "http://baijiahao.baidu.com/s?id=1842937946055985389&wfr=spider&for=pc",
+      "time": "昨天 11:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "甲骨文暴涨,A股小伙伴曝光!",
+      "link": "http://finance.sina.com.cn/stock/zqgd/2025-09-11/doc-infqawwh6832940.shtml",
+      "time": "昨天 11:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "华尔街评甲骨文暴涨",
+      "link": "http://baijiahao.baidu.com/s?id=1842934706458016124&wfr=spider&for=pc",
+      "time": "昨天 10:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "甲骨文股价暴涨 新全球首富诞生",
+      "link": "http://new.qq.com/rain/a/20250911V01E9E00",
+      "time": "昨天 07:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "甲骨文收高35.95% OpenAI已与其签约",
+      "link": "http://finance.eastmoney.com/a/202509113510276614.html",
+      "time": "昨天 05:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "博通、台积电、甲骨文股价再创记录新高",
+      "link": "http://finance.eastmoney.com/a/202509103510183657.html",
+      "time": "9月10日 23:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "甲骨文预计云业务订单将突破5000亿美元",
+      "link": "http://finance.eastmoney.com/a/202509103510014729.html",
+      "time": "9月10日 18:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "摩根士丹利将甲骨文公司目标价从175.00美元上调至246.00美元",
+      "link": "http://finance.sina.cn/7x24/2025-09-08/detail-infpusin1363161.d.html",
+      "time": "9月8日 18:15",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "OpenAI与甲骨文达成3000亿美元算力订单",
+      "event_id": "event_1",
+      "event_url": "http://finance.eastmoney.com/a/202509113511026245.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:24:41",
+      "event_time": "昨天 14:43"
+    },
+    {
+      "event_title": "甲骨文股价暴涨36% A股科技行情第二波来了",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9875726120454392424",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:24:43",
+      "event_time": "昨天 14:41"
+    },
+    {
+      "event_title": "甲骨文业绩亮眼点燃全球AI热情，A股多只相关ETF今年涨幅超40%",
+      "event_id": "event_3",
+      "event_url": "http://stock.stockstar.com/IG2025091100016816.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:24:45",
+      "event_time": "昨天 12:10"
+    },
+    {
+      "event_title": "起底甲骨文与埃里森",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842937946055985389&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:25:02",
+      "event_time": "昨天 11:49"
+    },
+    {
+      "event_title": "甲骨文暴涨,A股小伙伴曝光!",
+      "event_id": "event_5",
+      "event_url": "http://finance.sina.com.cn/stock/zqgd/2025-09-11/doc-infqawwh6832940.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:25:04",
+      "event_time": "昨天 11:43"
+    },
+    {
+      "event_title": "华尔街评甲骨文暴涨",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842934706458016124&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "Betty爱吃鸡蛋",
+      "comment_time": "09-11 11:02",
+      "comment_content": "这个视角很有趣哦👀",
+      "user_location": "江西",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 11:25:20",
+      "event_time": "昨天 10:58"
+    },
+    {
+      "event_title": "甲骨文股价暴涨 新全球首富诞生",
+      "event_id": "event_7",
+      "event_url": "http://new.qq.com/rain/a/20250911V01E9E00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:25:22",
+      "event_time": "昨天 07:32"
+    },
+    {
+      "event_title": "甲骨文收高35.95% OpenAI已与其签约",
+      "event_id": "event_8",
+      "event_url": "http://finance.eastmoney.com/a/202509113510276614.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:25:24",
+      "event_time": "昨天 05:43"
+    },
+    {
+      "event_title": "博通、台积电、甲骨文股价再创记录新高",
+      "event_id": "event_9",
+      "event_url": "http://finance.eastmoney.com/a/202509103510183657.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:25:26",
+      "event_time": "9月10日 23:22"
+    },
+    {
+      "event_title": "甲骨文预计云业务订单将突破5000亿美元",
+      "event_id": "event_10",
+      "event_url": "http://finance.eastmoney.com/a/202509103510014729.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:25:28",
+      "event_time": "9月10日 18:58"
+    },
+    {
+      "event_title": "摩根士丹利将甲骨文公司目标价从175.00美元上调至246.00美元",
+      "event_id": "event_11",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-08/detail-infpusin1363161.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:25:30",
+      "event_time": "9月8日 18:15"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 11,
+    "total_comments": 11,
+    "events_with_comments": 11,
+    "level1_scrape_time": "2025-09-12 11:24:39",
+    "level2_scrape_time": "2025-09-12 11:25:30"
+  }
+}

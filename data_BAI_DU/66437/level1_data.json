@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "国足10-0大胜，王钰栋展现球星能力",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:48:13"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "王钰栋半场7球，国足10-0大胜，两连胜仍受质疑",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11026934801276575118",
+      "time": "9月8日 18:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U23国足2-1开门红",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8542999103687288348",
+      "time": "9月5日 15:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U22亚洲杯预选赛，国足小将们整体表现可圈可点",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4271854200698191211",
+      "time": "9月4日 02:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U23亚洲杯预选赛，中国队首战击败东帝汶队",
+      "link": "http://cj.sina.com.cn/articles/view/1699432410/654b47da02001k2he",
+      "time": "9月3日 23:48",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 14:48:28"
+}

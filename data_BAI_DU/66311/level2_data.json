@@ -1,0 +1,59 @@
+{
+  "core_event_name": "欧佩克+增产计划",
+  "comments": [
+    {
+      "event_title": "欧佩克+进一步增产 转向争夺份额",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.cn/2025-09-09/detail-infpviey5780510.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:27:52",
+      "event_time": "9月9日 00:15"
+    },
+    {
+      "event_title": "“欧佩克+”八个主要产油国10月将继续增产",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=3692223053437372076",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:27:54",
+      "event_time": "9月8日 10:02"
+    },
+    {
+      "event_title": "俄罗斯副总理：增产计划对俄罗斯经济有益",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-07/detail-infpstsc0404058.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:27:56",
+      "event_time": "9月7日 21:07"
+    },
+    {
+      "event_title": "欧佩克+10月再增产，全球油市“紧平衡”面临考验",
+      "event_id": "event_4",
+      "event_url": "http://finance.huanqiu.com/article/4ODz9aFpEw9",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:27:58",
+      "event_time": "9月7日 10:31"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 14:27:58"
+}

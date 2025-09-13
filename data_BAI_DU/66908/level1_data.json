@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "金价突破历史新高",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:53:46"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "金价突破历史新高",
+      "link": "http://cj.sina.com.cn/articles/view/1650111241/625ab30901901e9r0",
+      "time": "9月10日 18:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "金价,又涨了!再创历史新高",
+      "link": "http://world.huanqiu.com/article/4OFfLYsChi2",
+      "time": "9月9日 11:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "金价再度大涨吸引投资客出手",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4941860558728111584",
+      "time": "9月4日 19:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "金价,爆了!",
+      "link": "http://cj.sina.com.cn/articles/view/1919072083/7262b753020016ria",
+      "time": "9月4日 16:49",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 09:54:00"
+}

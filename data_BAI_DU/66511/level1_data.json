@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "川超成都队重马抽签结果出炉",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:23:34"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "2026重庆马拉松抽签出炉 报名超26万人创新高",
+      "link": "http://www.cnr.cn/chongqing/xwsd/20250907/t20250907_527353290.shtml",
+      "time": "9月7日 08:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "“川超”来了",
+      "link": "http://epaper.scdaily.cn/shtml/scrb/20250907/330917.shtml",
+      "time": "9月7日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "2026重马抽签结果出炉",
+      "link": "http://www.sohu.com/a/931884847_121976701",
+      "time": "9月4日 17:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "全名单公布!“川超”成都队都有谁?",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31532907",
+      "time": "9月2日 22:17",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 11:23:48"
+}

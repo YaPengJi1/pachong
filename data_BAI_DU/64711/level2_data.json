@@ -1,0 +1,46 @@
+{
+  "core_event_name": "普京第20次访华",
+  "comments": [
+    {
+      "event_title": "普京发表涉华言论 引发国际高度关注",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9266530837088084118",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:24:40",
+      "event_time": "9月5日 11:05"
+    },
+    {
+      "event_title": "如何看待普京第20次访华?外交部回应",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842324340314149753&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:24:56",
+      "event_time": "9月4日 17:16"
+    },
+    {
+      "event_title": "外交部回应乌克兰涉普京访华言论",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8G2Q8UO05568O03.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:24:58",
+      "event_time": "9月2日 22:48"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-13 01:24:58"
+}

@@ -1,0 +1,46 @@
+{
+  "core_event_name": "特朗普阅兵后发声",
+  "comments": [
+    {
+      "event_title": "特朗普对中国说了句“意料之外”的话",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842217880886185962&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:12:42",
+      "event_time": "9月6日 14:22"
+    },
+    {
+      "event_title": "特朗普承认看了阅兵",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842318768401151383&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:12:58",
+      "event_time": "9月4日 15:48"
+    },
+    {
+      "event_title": "阅兵后,特朗普终于发声了!这次他没有嫉妒,也没有阴阳怪气",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5175931448980490533",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:13:00",
+      "event_time": "9月4日 15:31"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 20:13:00"
+}

@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 15:06:29"
+  },
+  "core_event": {
+    "core_event_name": "全球央行掀黄金热",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:05:50"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "黄金飙升至1900美元/盎司，创历史新高",
+      "link": "http://finance.sina.com.cn/roll/2025-09-09/doc-infpwksn5293871.shtml",
+      "time": "9月9日 11:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "全球央行掀“黄金热”，金价再创历史新高",
+      "link": "http://baijiahao.baidu.com/s?id=1842755149244748319&wfr=spider&for=pc",
+      "time": "9月9日 11:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美联储降息预期升温推动贵金属价格集体走高",
+      "link": "http://www.sohu.com/a/931386019_121925623",
+      "time": "9月3日 10:06",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "黄金飙升至1900美元/盎司，创历史新高",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.com.cn/roll/2025-09-09/doc-infpwksn5293871.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:06:06",
+      "event_time": "9月9日 11:52"
+    },
+    {
+      "event_title": "全球央行掀“黄金热”，金价再创历史新高",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842755149244748319&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:06:23",
+      "event_time": "9月9日 11:24"
+    },
+    {
+      "event_title": "美联储降息预期升温推动贵金属价格集体走高",
+      "event_id": "event_3",
+      "event_url": "http://www.sohu.com/a/931386019_121925623",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:06:25",
+      "event_time": "9月3日 10:06"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 15:06:05",
+    "level2_scrape_time": "2025-09-12 15:06:25"
+  }
+}

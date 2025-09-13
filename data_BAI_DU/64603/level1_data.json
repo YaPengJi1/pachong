@@ -1,0 +1,132 @@
+{
+  "core_info": {
+    "core_event_name": "我国海上无人作战装备亮相九三阅兵",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:16:05"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "快看!这里在举行海工装备“大阅兵”",
+      "link": "http://baijiahao.baidu.com/s?id=1842604468363173736&wfr=spider&for=pc",
+      "time": "9月7日 19:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "无人潜航器、多款无人机亮相",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13575920418174823215",
+      "time": "9月5日 05:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "阅兵首次展示大型无人潜航器,未来海战的“利刃”",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31541385",
+      "time": "9月4日 20:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "比俄核鱼雷更智能,“深海幽灵”亮相阅兵场",
+      "link": "http://www.163.com/dy/article/K8KTRNHP05561T0J.html",
+      "time": "9月4日 19:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "我国无人战斗机亮相抗战胜利日阅兵",
+      "link": "http://cj.sina.com.cn/articles/view/7879923848/1d5ae188802001jkr0",
+      "time": "9月4日 17:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "比俄核鱼雷更智能,“深海幽灵”亮相阅兵场,我军拒止再添利器",
+      "link": "http://www.163.com/dy/article/K8KGC6I30535PGPZ.html",
+      "time": "9月4日 16:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "无人僚机、无人制空作战飞机登场",
+      "link": "http://baijiahao.baidu.com/s?id=1842298773346017996&wfr=spider&for=pc",
+      "time": "9月4日 10:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "三军无人化作战平台亮相九三阅兵 凸显和平力量结构性变革",
+      "link": "http://www.163.com/dy/article/K8IG2OCV0514EGPO.html",
+      "time": "9月3日 21:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "海上无人艇正式入列，首次亮相九三阅兵",
+      "link": "http://cj.sina.com.cn/articles/view/6851667494/19864262600101tp36",
+      "time": "9月3日 21:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "多个无人与反无人装备,首次集中亮相!",
+      "link": "http://baijiahao.baidu.com/s?id=1842254491758118011&wfr=spider&for=pc",
+      "time": "9月3日 16:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "新型海上无人作战装备亮相阅兵场",
+      "link": "http://mil.huanqiu.com/article/4OApd0PnPu6",
+      "time": "9月3日 15:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "纪念抗战胜利80周年 天安门广场举行盛大阅兵 反无人机装备:末端防御“利刃”出鞘",
+      "link": "http://news.cctv.com/2025/09/03/ARTIh33lcmZbnu2Rmp2tbOWN250903.shtml",
+      "time": "9月3日 13:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "我国海上作战奇兵利器亮相九三阅兵,多型海上无人作战装备受阅",
+      "link": "http://baijiahao.baidu.com/s?id=1842212859232399449&wfr=spider&for=pc",
+      "time": "9月3日 11:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "新型查打一体无人机、无人潜航器亮相",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5125355899479187568",
+      "time": "9月3日 10:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "国之重器将上场!九三阅兵亮点提前“剧透”",
+      "link": "http://baijiahao.baidu.com/s?id=1842151858961416280&wfr=spider&for=pc",
+      "time": "9月2日 19:35",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 15,
+  "scrape_time": "2025-09-13 01:16:19"
+}

@@ -1,0 +1,183 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 19:42:52"
+  },
+  "core_event": {
+    "core_event_name": "小米16系列手机细节曝光",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:41:51"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "神秘手机渲染图曝光:大 R 角、窄边框、小打孔,预估为小米 16",
+      "link": "http://finance.sina.cn/tech/2025-09-06/detail-infpppfk9902545.d.html",
+      "time": "9月6日 10:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "小米16系列官方信息首现，还是卢伟冰确认",
+      "link": "http://www.163.com/dy/article/K8OONMQ30511BBQT.html",
+      "time": "9月6日 07:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "疑似小米16标准版细节曝光 苹果机皇价比百元机果粉心碎!",
+      "link": "http://mobile.zol.com.cn/1041/10414347_all.html",
+      "time": "9月5日 09:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "小米16 系列手机被曝面板黑边最窄仅1mm,领先苹果",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2075104805725839240",
+      "time": "9月4日 15:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "小米16外观设计细节曝光:屏幕边框刷新行业最窄记录",
+      "link": "http://www.techweb.com.cn/ucweb/news/id/2965402",
+      "time": "9月4日 10:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "小米神秘工程机现身!全球折叠屏手机真鼻祖?可惜没量产",
+      "link": "http://baijiahao.baidu.com/s?id=1842246403753597064&wfr=spider&for=pc",
+      "time": "9月3日 20:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "小米16外观配置细节再曝:号称电池最大的小直屏旗舰",
+      "link": "http://baijiahao.baidu.com/s?id=1842132627314695681&wfr=spider&for=pc",
+      "time": "9月2日 09:24",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "神秘手机渲染图曝光:大 R 角、窄边框、小打孔,预估为小米 16",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.cn/tech/2025-09-06/detail-infpppfk9902545.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:42:07",
+      "event_time": "9月6日 10:44"
+    },
+    {
+      "event_title": "小米16系列官方信息首现，还是卢伟冰确认",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8OONMQ30511BBQT.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:42:09",
+      "event_time": "9月6日 07:46"
+    },
+    {
+      "event_title": "疑似小米16标准版细节曝光 苹果机皇价比百元机果粉心碎!",
+      "event_id": "event_3",
+      "event_url": "http://mobile.zol.com.cn/1041/10414347_all.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:42:11",
+      "event_time": "9月5日 09:47"
+    },
+    {
+      "event_title": "小米16 系列手机被曝面板黑边最窄仅1mm,领先苹果",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=2075104805725839240",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:42:13",
+      "event_time": "9月4日 15:08"
+    },
+    {
+      "event_title": "小米16外观设计细节曝光:屏幕边框刷新行业最窄记录",
+      "event_id": "event_5",
+      "event_url": "http://www.techweb.com.cn/ucweb/news/id/2965402",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:42:15",
+      "event_time": "9月4日 10:49"
+    },
+    {
+      "event_title": "小米神秘工程机现身!全球折叠屏手机真鼻祖?可惜没量产",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842246403753597064&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "瑞兹的妙小子",
+      "comment_time": "09-03 20:54",
+      "comment_content": "小米U1真让人惊喜，折叠屏的早期尝试，虽没量产但有历史意义。",
+      "user_location": "广西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:42:32",
+      "event_time": "9月3日 20:37"
+    },
+    {
+      "event_title": "小米16外观配置细节再曝:号称电池最大的小直屏旗舰",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842132627314695681&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "林诚德",
+      "comment_time": "09-02 23:28",
+      "comment_content": "在哪可以预订？",
+      "user_location": "浙江",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:42:48"
+    },
+    {
+      "event_title": "小米16外观配置细节再曝:号称电池最大的小直屏旗舰",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842132627314695681&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "Sydney的风筝",
+      "comment_time": "09-02 14:41",
+      "comment_content": "这电池真顶，小直屏还这么能扛，设计也精致，期待上手试试。",
+      "user_location": "北京",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:42:48"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 8,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 19:42:05",
+    "level2_scrape_time": "2025-09-12 19:42:48"
+  }
+}

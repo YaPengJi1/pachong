@@ -1,0 +1,46 @@
+{
+  "core_event_name": "奇瑞新能源专利突破",
+  "comments": [
+    {
+      "event_title": "奇瑞鲲鹏黄金增程CEM",
+      "event_id": "event_1",
+      "event_url": "http://k.sina.com.cn/article_6182434746_1708077ba00103546u.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:15:11",
+      "event_time": "9月5日 18:53"
+    },
+    {
+      "event_title": "奇瑞汽车取得车辆能量回收方法及混合动力车辆相关专利",
+      "event_id": "event_2",
+      "event_url": "http://m.jrj.com.cn/madapter/finance/2025/09/02193152874527.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:15:13",
+      "event_time": "9月2日 19:31"
+    },
+    {
+      "event_title": "奇瑞新能源取得动力电池多维度均衡相关专利",
+      "event_id": "event_3",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:15:15",
+      "event_time": "1970年"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 22:15:15"
+}

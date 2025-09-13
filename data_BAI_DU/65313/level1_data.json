@@ -1,0 +1,92 @@
+{
+  "core_info": {
+    "core_event_name": "詹姆斯上海交大活动",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:05:20"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国女孩获詹姆斯首签!估价20万,背景曝光,父亲不是一般人",
+      "link": "http://baijiahao.baidu.com/s?id=1842408565533466051&wfr=spider&for=pc",
+      "time": "9月5日 15:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国小女孩得到詹姆斯首签赚翻,当事人父亲发声回应,价值暴涨10到20万",
+      "link": "http://baijiahao.baidu.com/s?id=1842405949383411121&wfr=spider&for=pc",
+      "time": "9月5日 14:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "詹姆斯中国行首签诞生!上海小女孩幸运获签名,估值超10万元",
+      "link": "http://baijiahao.baidu.com/s?id=1842391764342715943&wfr=spider&for=pc",
+      "time": "9月5日 11:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国小女孩获詹姆斯首签赚翻,当事人父亲发声回应,估价10到20万",
+      "link": "http://www.163.com/dy/article/K8MD2Q540529JAUT.html",
+      "time": "9月5日 09:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "勒布朗·詹姆斯开启第15次中国行",
+      "link": "http://baijiahao.baidu.com/s?id=1842384705750128199&wfr=spider&for=pc",
+      "time": "9月5日 09:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "NBA传奇巨星勒布朗·詹姆斯来到交大",
+      "link": "http://weibo.com/1739746697/Q32Ep67go",
+      "time": "9月4日 20:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "勒布朗詹姆斯在上海为谁开了球?",
+      "link": "http://baijiahao.baidu.com/s?id=1842335130334447225&wfr=spider&for=pc",
+      "time": "9月4日 20:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "“詹姆斯现身上海交通大学”词条冲上微博热搜第23位 与球衣同号",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hgaq",
+      "time": "9月4日 16:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "詹姆斯现身上海交大 与全场球迷热情互动",
+      "link": "http://news.sina.com.cn/c/2025-09-04/doc-infpimrm8682352.shtml",
+      "time": "9月4日 15:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "詹姆斯结束上海交大活动，即将参加汉口路的Forever King揭幕活动",
+      "link": "http://cj.sina.com.cn/articles/view/2193518494/p82be6f9e02701cj3u",
+      "time": "9月4日 14:30",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 10,
+  "scrape_time": "2025-09-12 22:05:34"
+}

@@ -1,0 +1,116 @@
+{
+  "core_info": {
+    "core_event_name": "荣威M7 DMH超级混动系统发布",
+    "update_time": "更新至20250912",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:30:05"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "10万元级重磅混动车型来了,荣威M7 DMH开启预售",
+      "link": "http://baijiahao.baidu.com/s?id=1843037414014681291&wfr=spider&for=pc",
+      "time": "今天 14:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "9.78万起!荣威M7 DMH 9月17日上市",
+      "link": "http://www.pcauto.com.cn/ask/3894344.html",
+      "time": "昨天 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "荣威M7获“双国家队”认证荣誉",
+      "link": "http://baijiahao.baidu.com/s?id=1842892298628394817&wfr=spider&for=pc",
+      "time": "9月10日 23:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "荣威M7 DMH预售破万 9 月17日将上市",
+      "link": "http://www.pcauto.com.cn/ask/3891206.html",
+      "time": "9月9日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "荣威M7 DMH发布AI mCDC底盘 9月17日正式上市",
+      "link": "http://baijiahao.baidu.com/s?id=1842705903986591737&wfr=spider&for=pc",
+      "time": "9月8日 15:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "豆包大模型全球首发上车",
+      "link": "http://baijiahao.baidu.com/s?id=1842661823861507316&wfr=spider&for=pc",
+      "time": "9月8日 10:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "DMH 6.0超级混动系统,轴距超2米8,续航2050km!",
+      "link": "http://k.sina.com.cn/article_1109550772_422266b4019016dvg.html",
+      "time": "9月6日 12:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "荣威M7 DMH订单过万 将于9月17号正式上市",
+      "link": "http://www.pcauto.com.cn/hj/article/3051025.html",
+      "time": "9月5日 15:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "荣威M7 DMH成都车展预售首发",
+      "link": "http://www.qctt.cn/news/1819150",
+      "time": "9月5日 15:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "荣威M7 DMH用7个“大美好”",
+      "link": "http://www.163.com/dy/article/K8KDBDIG05279C7N.html",
+      "time": "9月4日 15:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "长续航超混家轿新成员,荣威M7 DMH",
+      "link": "http://baijiahao.baidu.com/s?id=1842226391383008035&wfr=spider&for=pc",
+      "time": "9月3日 16:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "DMH超级混动系统5.0，续航超2000KM！荣威M7DMH成都车展开启预售",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8344969453087373738",
+      "time": "8月31日 20:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "综合续航2100km 荣威M7 DMH预售9.78万起",
+      "link": "http://www.pcauto.com.cn/hj/article/3039824.html",
+      "time": "8月29日 23:27",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 13,
+  "scrape_time": "2025-09-12 19:30:19"
+}

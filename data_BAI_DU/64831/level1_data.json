@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "足协评议特谢拉踩踏邓涵文",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:38:20"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "足协评议:特谢拉踩踏邓涵文小腿部位 漏判红牌",
+      "link": "http://www.titan24.com/publish/app/data/2025/09/04/567962/os_news.html",
+      "time": "9月4日 15:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "裁判漏判红牌，三镇一球擒申花引发公议",
+      "link": "http://www.163.com/dy/article/K8K4IGK10556DQSK.html",
+      "time": "9月4日 12:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "最新一期评议 申花坏消息特谢拉踩踏是红牌动作 好消息只是漏判",
+      "link": "http://cj.sina.com.cn/articles/view/2478495117/93bad58d0010150pq",
+      "time": "9月3日 22:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "裁判评议:三镇vs申花比赛中,特谢拉踩踏邓涵文应被罚下",
+      "link": "http://m.dongqiudi.com/article/5352509.html",
+      "time": "9月3日 18:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "特谢拉踩邓涵文被罚下",
+      "link": "http://baijiahao.baidu.com/s?id=1842022783145515955&wfr=spider&for=pc",
+      "time": "9月1日 09:23",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 17:38:34"
+}

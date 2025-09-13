@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "葡萄牙缆车侧翻出轨",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:02:35"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "葡萄牙缆车出轨事故",
+      "link": "http://weibo.com/5016630485/Q3CRP3ZdM",
+      "time": "9月8日 16:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "葡萄牙里斯本:悼念缆车事故遇难者",
+      "link": "http://baijiahao.baidu.com/s?id=1842586663025587955&wfr=spider&for=pc",
+      "time": "9月7日 14:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "葡萄牙旅游缆车侧翻出轨致15死18伤",
+      "link": "http://weibo.com/2492219020/Q32Nfel4E",
+      "time": "9月4日 20:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "葡萄牙里斯本著名旅游缆车侧翻出轨 已致15人死亡",
+      "link": "http://tv.cctv.com/2025/09/04/VIDE3vzSLmkNOoBHin2XWKQd250904.shtml",
+      "time": "9月4日 16:30",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 15:02:49"
+}

@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "A股跌破3800点",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:05:57"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "沪指收复3800点,科技大反攻,创业板怒涨",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8959055376996743628",
+      "time": "9月7日 08:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "大A再回3800点,4857家红盘",
+      "link": "http://weibo.com/7670371504/Q3bGMcqIe",
+      "time": "9月5日 19:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "创业板指反包大涨6.55%,电池、能源金属板块全线爆发",
+      "link": "http://stock.stockstar.com/IG2025090500025155.shtml",
+      "time": "9月5日 15:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "A股调整结束了吗?",
+      "link": "http://www.nbd.com.cn/articles/2025-09-05/4050280.html",
+      "time": "9月5日 15:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "A股缩量跌穿3800点,明日修复阳线可期",
+      "link": "http://weibo.com/7583382920/Q2RFIBFK5",
+      "time": "9月3日 16:33",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 02:06:12"
+}

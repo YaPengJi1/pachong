@@ -1,0 +1,466 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:05:01"
+  },
+  "core_event": {
+    "core_event_name": "黄金突破3600美元创历史新高",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:02:22"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "再度见证历史,现货黄金突破3600美元!年内大涨1000美元",
+      "link": "http://baijiahao.baidu.com/s?id=1842715743506165014&wfr=spider&for=pc",
+      "time": "9月8日 23:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "国际现货黄金站上3600美元关口",
+      "link": "http://www.cnstock.com/commonDetail/516917",
+      "time": "9月8日 15:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "黄金历史性突破3600美元/盎司",
+      "link": "http://www.jiemian.com/article/13315713.html",
+      "time": "9月8日 13:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "金价再创新高!首次突破3600美元/盎司大关",
+      "link": "http://baijiahao.baidu.com/s?id=1842599085322874778&wfr=spider&for=pc",
+      "time": "9月7日 18:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "现货黄金突破3600美元再创历史新高 高盛:或升至近5000美元",
+      "link": "http://news.yunnan.cn/system/2025/09/07/033628407.shtml",
+      "time": "9月7日 13:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "金价再创新高，有人一口气买了20多万元金条",
+      "link": "http://cj.sina.com.cn/articles/view/1958132051/74b6b95300101yhwq",
+      "time": "9月6日 15:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "金价盘中突破3600美元",
+      "link": "http://baijiahao.baidu.com/s?id=1842484583440310975&wfr=spider&for=pc",
+      "time": "9月6日 11:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "金价再创历史新高,突破每盎司3600美元关口",
+      "link": "http://news.dayoo.com/gzrbrmt/202509/06/170614_54869405.htm",
+      "time": "9月6日 11:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "现货黄金盘中突破3600美元/盎司",
+      "link": "http://baijiahao.baidu.com/s?id=1842481849113443333&wfr=spider&for=pc",
+      "time": "9月6日 09:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "金价突破3600美元创新高",
+      "link": "http://news.cnhubei.com/content/2025-09/06/content_19478820.html",
+      "time": "9月6日 08:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "美国非农就业数据疲软强化降息预期 深夜暴涨 现金白银价格下跌",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9547175661392413432",
+      "time": "9月6日 07:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "现货黄金创历史新高逼近3600美元/盎司",
+      "link": "http://baijiahao.baidu.com/s?id=1842466012628523609&wfr=spider&for=pc",
+      "time": "9月6日 06:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "黄金走高 消费热情不减",
+      "link": "http://baijiahao.baidu.com/s?id=1842381497598422526&wfr=spider&for=pc",
+      "time": "9月5日 07:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "黄金期货创 3600 美元新高",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1958112500697713053",
+      "time": "9月4日 13:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "国际金价再创新高",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9142505972354034102",
+      "time": "9月4日 12:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "领峰金评:黄金多头已疯狂 持续暴涨逼近3600",
+      "link": "http://baijiahao.baidu.com/s?id=1842306567339166789&wfr=spider&for=pc",
+      "time": "9月4日 12:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "国际黄金期价再次刷新历史新高",
+      "link": "http://tv.cctv.com/2025/09/04/VIDEcubeowsLKXRlu6GIKFij250904.shtml",
+      "time": "9月4日 10:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "天风证券:黄金冲上3600美元 年内还有上行空间",
+      "link": "http://www.sohu.com/a/931668928_323087",
+      "time": "9月4日 07:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "黄金期货冲上3600美元,足金首饰单价破1050元",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31534092",
+      "time": "9月3日 20:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "黄金白银价格创新高",
+      "link": "http://tv.cctv.com/2025/09/03/VIDE9QurBL7u2HQFXUEzN98i250903.shtml",
+      "time": "9月3日 11:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_21",
+      "title": "中概股逆势上涨，黄金突破3600美元创历史新高",
+      "link": "http://www.163.com/dy/article/K8GVKBBE0519C6T9.html",
+      "time": "9月3日 07:12",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "再度见证历史,现货黄金突破3600美元!年内大涨1000美元",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842715743506165014&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:02:54",
+      "event_time": "9月8日 23:02"
+    },
+    {
+      "event_title": "国际现货黄金站上3600美元关口",
+      "event_id": "event_2",
+      "event_url": "http://www.cnstock.com/commonDetail/516917",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:02:56",
+      "event_time": "9月8日 15:16"
+    },
+    {
+      "event_title": "黄金历史性突破3600美元/盎司",
+      "event_id": "event_3",
+      "event_url": "http://www.jiemian.com/article/13315713.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:02:58",
+      "event_time": "9月8日 13:35"
+    },
+    {
+      "event_title": "金价再创新高!首次突破3600美元/盎司大关",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842599085322874778&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:03:14",
+      "event_time": "9月7日 18:03"
+    },
+    {
+      "event_title": "现货黄金突破3600美元再创历史新高 高盛:或升至近5000美元",
+      "event_id": "event_5",
+      "event_url": "http://news.yunnan.cn/system/2025/09/07/033628407.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:03:16",
+      "event_time": "9月7日 13:48"
+    },
+    {
+      "event_title": "金价再创新高，有人一口气买了20多万元金条",
+      "event_id": "event_6",
+      "event_url": "http://cj.sina.com.cn/articles/view/1958132051/74b6b95300101yhwq",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:03:18",
+      "event_time": "9月6日 15:47"
+    },
+    {
+      "event_title": "金价盘中突破3600美元",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842484583440310975&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:03:34",
+      "event_time": "9月6日 11:25"
+    },
+    {
+      "event_title": "金价再创历史新高,突破每盎司3600美元关口",
+      "event_id": "event_8",
+      "event_url": "http://news.dayoo.com/gzrbrmt/202509/06/170614_54869405.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:03:36",
+      "event_time": "9月6日 11:16"
+    },
+    {
+      "event_title": "现货黄金盘中突破3600美元/盎司",
+      "event_id": "event_9",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842481849113443333&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "小果不吃葡萄",
+      "comment_time": "09-06 11:54",
+      "comment_content": "作者用心了，点个赞👍",
+      "user_location": "浙江",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:03:52",
+      "event_time": "9月6日 09:26"
+    },
+    {
+      "event_title": "金价突破3600美元创新高",
+      "event_id": "event_10",
+      "event_url": "http://news.cnhubei.com/content/2025-09/06/content_19478820.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:03:54",
+      "event_time": "9月6日 08:40"
+    },
+    {
+      "event_title": "美国非农就业数据疲软强化降息预期 深夜暴涨 现金白银价格下跌",
+      "event_id": "event_11",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9547175661392413432",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:03:56",
+      "event_time": "9月6日 07:49"
+    },
+    {
+      "event_title": "现货黄金创历史新高逼近3600美元/盎司",
+      "event_id": "event_12",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842466012628523609&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "顶神纯力仙神15",
+      "comment_time": "09-06 06:58",
+      "comment_content": "黄金暴涨主因地缘风险升温。中东冲突加剧避险需求，但局势缓和恐导致剧烈回调。",
+      "user_location": "河北",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:04:11",
+      "event_time": "9月6日 06:48"
+    },
+    {
+      "event_title": "黄金走高 消费热情不减",
+      "event_id": "event_13",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842381497598422526&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "宝岛赵本山",
+      "comment_time": "09-05 13:38",
+      "comment_content": "中东乱局升级，黄金ETF成避风港。避险资金涌入，预示全球经济不稳。",
+      "user_location": "广东",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:04:27",
+      "event_time": "9月5日 07:07"
+    },
+    {
+      "event_title": "黄金期货创 3600 美元新高",
+      "event_id": "event_14",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=1958112500697713053",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:04:29",
+      "event_time": "9月4日 13:53"
+    },
+    {
+      "event_title": "国际金价再创新高",
+      "event_id": "event_15",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9142505972354034102",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:04:31",
+      "event_time": "9月4日 12:46"
+    },
+    {
+      "event_title": "领峰金评:黄金多头已疯狂 持续暴涨逼近3600",
+      "event_id": "event_16",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842306567339166789&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "开怀大笑的魔王",
+      "comment_time": "09-04 20:06",
+      "comment_content": "黄金暴涨真不只多头疯狂，Fed降息预期才是关键。之前通胀数据一差，避险需求就爆表，历史经验摆着呢。",
+      "user_location": "福建",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:04:47",
+      "event_time": "9月4日 12:06"
+    },
+    {
+      "event_title": "国际黄金期价再次刷新历史新高",
+      "event_id": "event_17",
+      "event_url": "http://tv.cctv.com/2025/09/04/VIDEcubeowsLKXRlu6GIKFij250904.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:04:49",
+      "event_time": "9月4日 10:47"
+    },
+    {
+      "event_title": "天风证券:黄金冲上3600美元 年内还有上行空间",
+      "event_id": "event_18",
+      "event_url": "http://www.sohu.com/a/931668928_323087",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:04:51",
+      "event_time": "9月4日 07:59"
+    },
+    {
+      "event_title": "黄金期货冲上3600美元,足金首饰单价破1050元",
+      "event_id": "event_19",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31534092",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:04:53",
+      "event_time": "9月3日 20:10"
+    },
+    {
+      "event_title": "黄金白银价格创新高",
+      "event_id": "event_20",
+      "event_url": "http://tv.cctv.com/2025/09/03/VIDE9QurBL7u2HQFXUEzN98i250903.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:04:55",
+      "event_time": "9月3日 11:08"
+    },
+    {
+      "event_title": "中概股逆势上涨，黄金突破3600美元创历史新高",
+      "event_id": "event_21",
+      "event_url": "http://www.163.com/dy/article/K8GVKBBE0519C6T9.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:04:57",
+      "event_time": "9月3日 07:12"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 21,
+    "total_comments": 21,
+    "events_with_comments": 21,
+    "level1_scrape_time": "2025-09-13 02:02:38",
+    "level2_scrape_time": "2025-09-13 02:04:57"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:51:01"
+  },
+  "core_event": {
+    "core_event_name": "普京26国出兵乌克兰事件",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:50:36"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "26国将派兵基辅?普京迎来外援,局势变成26对2",
+      "link": "http://www.163.com/dy/article/K8RFQGM205563DEM.html",
+      "time": "9月7日 09:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "普京说敢部署就敢打!马克龙称26国出兵乌克兰",
+      "link": "http://www.163.com/dy/article/K8RCHJQ7055639ST.html",
+      "time": "9月7日 08:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "普京愤怒26国扬言驻军乌克兰,特朗普彻底失败?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4473147239613686783",
+      "time": "9月6日 14:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "26国将向乌克兰部署军队",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4300025505517472373",
+      "time": "9月5日 16:25",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "26国将派兵基辅?普京迎来外援,局势变成26对2",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8RFQGM205563DEM.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:50:51",
+      "event_time": "9月7日 09:07"
+    },
+    {
+      "event_title": "普京说敢部署就敢打!马克龙称26国出兵乌克兰",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8RCHJQ7055639ST.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:50:53",
+      "event_time": "9月7日 08:10"
+    },
+    {
+      "event_title": "普京愤怒26国扬言驻军乌克兰,特朗普彻底失败?",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4473147239613686783",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:50:55",
+      "event_time": "9月6日 14:44"
+    },
+    {
+      "event_title": "26国将向乌克兰部署军队",
+      "event_id": "event_4",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4300025505517472373",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:50:57",
+      "event_time": "9月5日 16:25"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 14:50:50",
+    "level2_scrape_time": "2025-09-12 14:50:57"
+  }
+}

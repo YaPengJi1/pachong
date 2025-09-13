@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "苹果17系列新品发布",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:54:22"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国品牌四登苹果发布会 SmallRig亮相发布会助力新品iPhone影像功能",
+      "link": "http://digital.yesky.com/452/310952.shtml",
+      "time": "9月10日 15:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "苹果发布会全程视频回顾:iPhone17系列5999元起,最贵17999元,史上最薄机型仅5.6毫米",
+      "link": "http://news.cnhubei.com/content/2025-09/10/content_19488462.html",
+      "time": "9月10日 10:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "苹果重磅发布A19/A19Pro及全新自研Wifi7、5G基带芯片",
+      "link": "http://www.163.com/dy/article/K934BHIC0531PW97.html",
+      "time": "9月10日 08:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "iPhone 17发布，亮点太多！牙膏挤爆了",
+      "link": "http://baijiahao.baidu.com/s?id=1842838732905342207&wfr=spider&for=pc",
+      "time": "9月10日 07:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "iPhone17史诗升级",
+      "link": "http://new.qq.com/rain/a/20250910V0119X00",
+      "time": "9月10日 05:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "首次加入VC散热、玻璃+铝金属拼接机身!iPhone 17 Pro/Pro Max发布",
+      "link": "http://news.mydrivers.com/1/1073/1073532.htm",
+      "time": "9月10日 02:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "苹果秋季发布会:iPhone 17系列亮相,性能影像双提升",
+      "link": "http://mobile.zol.com.cn/1044/10445704.html",
+      "time": "9月10日 02:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "苹果2025秋季新品发布会明日凌晨开启",
+      "link": "http://mobile.zol.com.cn/1044/10445195.html",
+      "time": "9月9日 20:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-12 10:54:36"
+}

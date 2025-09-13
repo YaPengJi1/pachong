@@ -1,0 +1,150 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:39:34"
+  },
+  "core_event": {
+    "core_event_name": "三星2nm工艺提升，挑战台积电",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:38:09"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "2nm芯片,韩国准备量产",
+      "link": "http://m.gmw.cn/toutiao/2025-09/04/content_38265436.htm",
+      "time": "9月4日 20:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "全球首款2nm手机芯片 三星Exynos2600曝已准备好量产",
+      "link": "http://baijiahao.baidu.com/s?id=1842294974793975026&wfr=spider&for=pc",
+      "time": "9月4日 09:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "三星确认Exynos 2600芯片将成为世界上首款采用2nm工艺制造的移动SoC",
+      "link": "http://weibo.com/1915878710/Q2Sgp0Yqi",
+      "time": "9月3日 18:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "叫板台积电 三星2nm良率大幅提升",
+      "link": "http://baijiahao.baidu.com/s?id=1842230965163793359&wfr=spider&for=pc",
+      "time": "9月3日 16:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "全球首款2nm芯片来了:三星准备量产",
+      "link": "http://baijiahao.baidu.com/s?id=1842222816187588968&wfr=spider&for=pc",
+      "time": "9月3日 14:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "曝高通骁龙8 Elite Gen6将升级台积电2nm工艺:成本飙升",
+      "link": "http://baijiahao.baidu.com/s?id=1842147551155317021&wfr=spider&for=pc",
+      "time": "9月2日 18:24",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "2nm芯片,韩国准备量产",
+      "event_id": "event_1",
+      "event_url": "http://m.gmw.cn/toutiao/2025-09/04/content_38265436.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:38:25",
+      "event_time": "9月4日 20:26"
+    },
+    {
+      "event_title": "全球首款2nm手机芯片 三星Exynos2600曝已准备好量产",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842294974793975026&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "樱花爱吃烧烤",
+      "comment_time": "09-04 18:15",
+      "comment_content": "三星Exynos 2600上了2nm工艺，散热也改进不少，Galaxy S26表现值得期待哦。",
+      "user_location": "辽宁",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:38:41",
+      "event_time": "9月4日 09:30"
+    },
+    {
+      "event_title": "三星确认Exynos 2600芯片将成为世界上首款采用2nm工艺制造的移动SoC",
+      "event_id": "event_3",
+      "event_url": "http://weibo.com/1915878710/Q2Sgp0Yqi",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:38:43",
+      "event_time": "9月3日 18:03"
+    },
+    {
+      "event_title": "叫板台积电 三星2nm良率大幅提升",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842230965163793359&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:38:59",
+      "event_time": "9月3日 16:32"
+    },
+    {
+      "event_title": "全球首款2nm芯片来了:三星准备量产",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842222816187588968&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:39:15",
+      "event_time": "9月3日 14:23"
+    },
+    {
+      "event_title": "曝高通骁龙8 Elite Gen6将升级台积电2nm工艺:成本飙升",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842147551155317021&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "小灰讨厌咖啡",
+      "comment_time": "09-02 19:56",
+      "comment_content": "高通新芯片升2nm工艺，成本飙升，旗舰手机可能又涨价了。",
+      "user_location": "陕西",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:39:30"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-13 02:38:24",
+    "level2_scrape_time": "2025-09-13 02:39:30"
+  }
+}

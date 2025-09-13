@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "国乒遭重创，多人被日本球员淘汰出局",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:14:55"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "日乒男单遭遇最耻辱一战 上次集体无缘第2轮也在澳门",
+      "link": "http://new.qq.com/rain/a/20250911A04HEW00",
+      "time": "昨天 13:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "新科世乒赛冠军1:3被淘汰",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11588192288645081650",
+      "time": "昨天 05:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "张本智和成日本男乒最后稻草",
+      "link": "http://cj.sina.com.cn/articles/view/1233597000/4987324802001id70",
+      "time": "昨天 00:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "澳门冠军赛:国乒出局第2人诞生!向鹏轰11-1仍输球,男单2胜2负",
+      "link": "http://www.163.com/dy/article/K94DTQ570529NGL0.html",
+      "time": "9月10日 20:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "日乒2大世界冠军出局",
+      "link": "http://cj.sina.com.cn/articles/view/3181157500/bd9c9c7c001020yz8",
+      "time": "9月10日 15:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "国乒遭重创!多人被日本球员淘汰出局,男单名将一轮游引不满",
+      "link": "http://cj.sina.com.cn/articles/view/6207555777/171ffc8c102001cdjm",
+      "time": "9月5日 10:02",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 11:15:09"
+}

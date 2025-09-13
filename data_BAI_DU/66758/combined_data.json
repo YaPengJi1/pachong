@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:42:19"
+  },
+  "core_event": {
+    "core_event_name": "央行连续10个月增持黄金",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:41:34"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "8月末外储升至33222亿美元",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10727191138793536146",
+      "time": "9月9日 16:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国央行,增持黄金!连续第10个月",
+      "link": "http://baijiahao.baidu.com/s?id=1842659013675001812&wfr=spider&for=pc",
+      "time": "9月8日 09:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "8月末 中国官方黄金储备7402万盎司",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEPrLsRo0jfDQXYLhop4Qo250908.shtml",
+      "time": "9月8日 09:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "央行连续10个月增持黄金",
+      "link": "http://m.yicai.com/news/102812068.html",
+      "time": "9月7日 14:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中国央行连续10个月增持黄金",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5098433039043502278",
+      "time": "9月7日 13:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "8月末黄金储备7402万盎司",
+      "link": "http://stock.hexun.com/2025-09-07/221243965.html",
+      "time": "9月7日 10:21",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "8月末外储升至33222亿美元",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10727191138793536146",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:41:49",
+      "event_time": "9月9日 16:38"
+    },
+    {
+      "event_title": "中国央行,增持黄金!连续第10个月",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842659013675001812&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "步破狐爱FriedRice",
+      "comment_time": "09-08 10:57",
+      "comment_content": "这个视角很独特👍",
+      "user_location": "江西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:42:06",
+      "event_time": "9月8日 09:54"
+    },
+    {
+      "event_title": "8月末 中国官方黄金储备7402万盎司",
+      "event_id": "event_3",
+      "event_url": "http://tv.cctv.com/2025/09/08/VIDEPrLsRo0jfDQXYLhop4Qo250908.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:42:08",
+      "event_time": "9月8日 09:27"
+    },
+    {
+      "event_title": "央行连续10个月增持黄金",
+      "event_id": "event_4",
+      "event_url": "http://m.yicai.com/news/102812068.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:42:10",
+      "event_time": "9月7日 14:54"
+    },
+    {
+      "event_title": "中国央行连续10个月增持黄金",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5098433039043502278",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:42:12",
+      "event_time": "9月7日 13:33"
+    },
+    {
+      "event_title": "8月末黄金储备7402万盎司",
+      "event_id": "event_6",
+      "event_url": "http://stock.hexun.com/2025-09-07/221243965.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:42:14",
+      "event_time": "9月7日 10:21"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 10:41:48",
+    "level2_scrape_time": "2025-09-12 10:42:14"
+  }
+}

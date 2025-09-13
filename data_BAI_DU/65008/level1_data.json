@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "iPhone 17系列新机价格调整",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 16:52:42"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "iPhone 17新机OLED显示屏亮相",
+      "link": "http://mobile.zol.com.cn/1041/10414085_all.html",
+      "time": "9月5日 08:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "iPhone 17预计售价近800美元,全系列价格揭晓。",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5927604166260899350",
+      "time": "9月5日 03:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "iPhone 17要火 前辈旗舰机价格滑铁卢改写爱疯史!",
+      "link": "http://mobile.zol.com.cn/1041/10413279.html",
+      "time": "9月4日 17:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "iPhone 17 Air国行曝光",
+      "link": "http://mobile.zol.com.cn/1041/10413274_all.html",
+      "time": "9月4日 17:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "苹果秋季发布会消息曝光 iPhone 16现谷底价果粉直呼心碎",
+      "link": "http://mobile.zol.com.cn/1041/10413257_all.html",
+      "time": "9月4日 17:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "iPhone17透明保护壳曝光",
+      "link": "http://mobile.zol.com.cn/1040/10406882.html",
+      "time": "9月3日 08:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "iPhone 17系列新机价格或将上调,起售价不变",
+      "link": "http://app.myzaker.com/news/article.php?m=1756674910&pk=68b0432fb15ec014e27d7a0f",
+      "time": "8月28日 19:51",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 16:52:56"
+}

@@ -1,0 +1,72 @@
+{
+  "core_event_name": "阿富汗东部发生地震",
+  "comments": [
+    {
+      "event_title": "已造成两千余人遇难,阿富汗震情为何如此严重?",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842418022535154022&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "秋子嫌",
+      "comment_time": "09-05 22:29",
+      "comment_content": "愿阿富汗人民早日重建家园，我们与你同在！",
+      "user_location": "北京",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:19:55",
+      "event_time": "9月5日 18:03"
+    },
+    {
+      "event_title": "阿富汗东部发生地震",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=17861298724933005730",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:19:57",
+      "event_time": "9月4日 17:29"
+    },
+    {
+      "event_title": "阿富汗突发大地震，全球一国伸出援手",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6464810621074197666",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:19:59",
+      "event_time": "9月4日 11:50"
+    },
+    {
+      "event_title": "阿富汗地震死伤惨重,中国第一时间表态愿伸援手",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8EKHH4U0556DBGY.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:20:01",
+      "event_time": "9月2日 09:20"
+    },
+    {
+      "event_title": "中方回应阿富汗东部发生地震",
+      "event_id": "event_5",
+      "event_url": "http://weibo.com/5051077448/Q2yoqzj3b",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:20:03",
+      "event_time": "9月1日 15:28"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-13 02:20:03"
+}

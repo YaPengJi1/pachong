@@ -1,0 +1,72 @@
+{
+  "core_event_name": "特朗普对华芯片关税政策",
+  "comments": [
+    {
+      "event_title": "特朗普:征收芯片关税,普京宣布对华免签,A股狂飙反弹",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8NGVBLT0511816V.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:56:52",
+      "event_time": "9月5日 20:10"
+    },
+    {
+      "event_title": "特朗普称将对未在美建厂芯片企业加征关税",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=1974813896936223439",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:56:54",
+      "event_time": "9月5日 09:14"
+    },
+    {
+      "event_title": "特朗普:很快将对芯片征收“相当可观”关税,先前称远高于100%!但不包括苹果等公司商品,它们已承诺增加对美国投资",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842384643325594391&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "动漫先生低谷有雾",
+      "comment_time": "09-05 10:20",
+      "comment_content": "芯片关税？看来特朗普在玩‘高科技’版大富翁啊！",
+      "user_location": "福建",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:57:10",
+      "event_time": "9月5日 09:12"
+    },
+    {
+      "event_title": "特朗普:必须在美国建厂,否则免谈?",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7664563740968300301",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:57:12",
+      "event_time": "9月3日 17:44"
+    },
+    {
+      "event_title": "特朗普政府关税“B计划”曝光",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8H4B34Q0519DDQ2.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:57:14",
+      "event_time": "9月3日 08:34"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 21:57:14"
+}

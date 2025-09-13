@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:19:26"
+  },
+  "core_event": {
+    "core_event_name": "今年暑期档票房突破116.44亿",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:18:26"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "多部影片豆瓣超8分",
+      "link": "http://www.163.com/dy/article/K8KEG7OE05568W0A.html",
+      "time": "9月4日 15:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "国产片集体发力 2025年暑期档票房超119亿元",
+      "link": "http://tv.cctv.com/2025/09/02/VIDEzGFAf2QbfD1pnkd5OgNK250902.shtml",
+      "time": "9月2日 18:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "2025年暑期档票房冠军是《南京照相馆》",
+      "link": "http://baijiahao.baidu.com/s?id=1841977621705121483&wfr=spider&for=pc",
+      "time": "8月31日 21:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "今年暑期档票房超去年,山东贡献了这些→",
+      "link": "http://baijiahao.baidu.com/s?id=1841950889358638804&wfr=spider&for=pc",
+      "time": "8月31日 10:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "暑期档电影票房突破116.44亿",
+      "link": "http://www.163.com/dy/article/K887T6S90553TKJG.html",
+      "time": "8月30日 21:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "今年暑期档票房已超去年同期",
+      "link": "http://m.gmw.cn/toutiao/2025-08/29/content_1304129878.htm",
+      "time": "8月29日 20:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "刘昊然成暑期档最大赢家",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "多部影片豆瓣超8分",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8KEG7OE05568W0A.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:18:42",
+      "event_time": "9月4日 15:30"
+    },
+    {
+      "event_title": "国产片集体发力 2025年暑期档票房超119亿元",
+      "event_id": "event_2",
+      "event_url": "http://tv.cctv.com/2025/09/02/VIDEzGFAf2QbfD1pnkd5OgNK250902.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:18:44",
+      "event_time": "9月2日 18:28"
+    },
+    {
+      "event_title": "2025年暑期档票房冠军是《南京照相馆》",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841977621705121483&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:19:00",
+      "event_time": "8月31日 21:23"
+    },
+    {
+      "event_title": "今年暑期档票房超去年,山东贡献了这些→",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841950889358638804&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:19:16",
+      "event_time": "8月31日 10:40"
+    },
+    {
+      "event_title": "暑期档电影票房突破116.44亿",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K887T6S90553TKJG.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:19:18",
+      "event_time": "8月30日 21:43"
+    },
+    {
+      "event_title": "今年暑期档票房已超去年同期",
+      "event_id": "event_6",
+      "event_url": "http://m.gmw.cn/toutiao/2025-08/29/content_1304129878.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:19:20",
+      "event_time": "8月29日 20:32"
+    },
+    {
+      "event_title": "刘昊然成暑期档最大赢家",
+      "event_id": "event_7",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:19:22",
+      "event_time": "1970年"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-13 01:18:41",
+    "level2_scrape_time": "2025-09-13 01:19:22"
+  }
+}

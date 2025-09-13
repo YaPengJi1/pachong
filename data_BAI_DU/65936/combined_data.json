@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:57:36"
+  },
+  "core_event": {
+    "core_event_name": "新任驻黑山大使陈绪峰到任拜会",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:57:04"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "驻黑山大使陈绪峰到任拜会奥地利驻黑大使",
+      "link": "http://www.mfa.gov.cn/web/zwbd_673032/wshd_673034/202509/t20250911_11706528.shtml",
+      "time": "9月10日 17:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "驻黑山大使陈绪峰到任拜会阿联酋驻黑使馆临时代办",
+      "link": "http://www.mfa.gov.cn/web/wjdt_674879/zwbd_674895/202509/t20250903_11701070.shtml",
+      "time": "9月2日 22:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "驻黑山大使陈绪峰到任拜会匈牙利驻黑大使",
+      "link": "http://www.fmprc.gov.cn/gjhdq_676201/gj_676203/oz_678770/1206_679258/1206x2_679278/202509/t20250903_11701159.shtml",
+      "time": "9月2日 11:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "驻黑山大使陈绪峰到任拜会联合国驻黑协调员",
+      "link": "http://www.fmprc.gov.cn/zwbd_673032/wshd_673034/202509/t20250902_11700151.shtml",
+      "time": "9月1日 23:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "驻黑山大使陈绪峰到任拜会塞尔维亚驻黑大使",
+      "link": "http://www.fmprc.gov.cn/zwbd_673032/wshd_673034/202509/t20250902_11700153.shtml",
+      "time": "9月1日 23:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "驻黑山大使陈绪峰到任拜会巴勒斯坦驻黑大使",
+      "link": "http://www.fmprc.gov.cn/gjhdq_676201/gj_676203/oz_678770/1206_679258/1206x2_679278/202509/t20250902_11700152.shtml",
+      "time": "9月1日 22:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "新任驻黑山大使陈绪峰递交国器副本",
+      "link": "http://www.fmprc.gov.cn/zwbd_673032/wshd_673034/202508/t20250822_11694278.shtml",
+      "time": "8月21日 22:37",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "驻黑山大使陈绪峰到任拜会奥地利驻黑大使",
+      "event_id": "event_1",
+      "event_url": "http://www.mfa.gov.cn/web/zwbd_673032/wshd_673034/202509/t20250911_11706528.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:57:20",
+      "event_time": "9月10日 17:00"
+    },
+    {
+      "event_title": "驻黑山大使陈绪峰到任拜会阿联酋驻黑使馆临时代办",
+      "event_id": "event_2",
+      "event_url": "http://www.mfa.gov.cn/web/wjdt_674879/zwbd_674895/202509/t20250903_11701070.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:57:22",
+      "event_time": "9月2日 22:10"
+    },
+    {
+      "event_title": "驻黑山大使陈绪峰到任拜会匈牙利驻黑大使",
+      "event_id": "event_3",
+      "event_url": "http://www.fmprc.gov.cn/gjhdq_676201/gj_676203/oz_678770/1206_679258/1206x2_679278/202509/t20250903_11701159.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:57:24",
+      "event_time": "9月2日 11:10"
+    },
+    {
+      "event_title": "驻黑山大使陈绪峰到任拜会联合国驻黑协调员",
+      "event_id": "event_4",
+      "event_url": "http://www.fmprc.gov.cn/zwbd_673032/wshd_673034/202509/t20250902_11700151.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:57:26",
+      "event_time": "9月1日 23:02"
+    },
+    {
+      "event_title": "驻黑山大使陈绪峰到任拜会塞尔维亚驻黑大使",
+      "event_id": "event_5",
+      "event_url": "http://www.fmprc.gov.cn/zwbd_673032/wshd_673034/202509/t20250902_11700153.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:57:28",
+      "event_time": "9月1日 23:01"
+    },
+    {
+      "event_title": "驻黑山大使陈绪峰到任拜会巴勒斯坦驻黑大使",
+      "event_id": "event_6",
+      "event_url": "http://www.fmprc.gov.cn/gjhdq_676201/gj_676203/oz_678770/1206_679258/1206x2_679278/202509/t20250902_11700152.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:57:30",
+      "event_time": "9月1日 22:59"
+    },
+    {
+      "event_title": "新任驻黑山大使陈绪峰递交国器副本",
+      "event_id": "event_7",
+      "event_url": "http://www.fmprc.gov.cn/zwbd_673032/wshd_673034/202508/t20250822_11694278.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:57:32",
+      "event_time": "8月21日 22:37"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 14:57:18",
+    "level2_scrape_time": "2025-09-12 14:57:32"
+  }
+}

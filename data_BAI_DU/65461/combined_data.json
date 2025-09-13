@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 00:19:46"
+  },
+  "core_event": {
+    "core_event_name": "国家出台欠钱不还政策",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:19:14"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中央出台暂停还款政策文件是真的假的",
+      "link": "http://news.bandao.cn/bdfalv/yqxieshang/74358.html",
+      "time": "9月7日 08:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "2025年贷款逾期新政策出台",
+      "link": "http://news.bandao.cn/bdfalv/yqlaw/yqgd/82638.html",
+      "time": "9月6日 21:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国家出台欠钱不还政策是真的还是假的",
+      "link": "http://news.bandao.cn/bdfalv/ykzhishi/73998.html",
+      "time": "9月6日 20:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "国家宣布欠钱不还的政策是真的假的",
+      "link": "http://news.bandao.cn/bdfalv/yqzhishi/73940.html",
+      "time": "9月6日 18:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中央出台网贷逾期政策",
+      "link": "http://news.bandao.cn/bdfalv/zwyq/73727.html",
+      "time": "9月6日 11:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "2025年6月1日起网贷停止催收是真的假的？",
+      "link": "http://news.bandao.cn/bdfalv/zwfl/73522.html",
+      "time": "9月6日 04:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "国家出台减免网贷逾期政策",
+      "link": "http://news.bandao.cn/bdfalv/yqdongtai/73130.html",
+      "time": "9月5日 15:34",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "中央出台暂停还款政策文件是真的假的",
+      "event_id": "event_1",
+      "event_url": "http://news.bandao.cn/bdfalv/yqxieshang/74358.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:19:30",
+      "event_time": "9月7日 08:30"
+    },
+    {
+      "event_title": "2025年贷款逾期新政策出台",
+      "event_id": "event_2",
+      "event_url": "http://news.bandao.cn/bdfalv/yqlaw/yqgd/82638.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:19:32",
+      "event_time": "9月6日 21:22"
+    },
+    {
+      "event_title": "国家出台欠钱不还政策是真的还是假的",
+      "event_id": "event_3",
+      "event_url": "http://news.bandao.cn/bdfalv/ykzhishi/73998.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:19:34",
+      "event_time": "9月6日 20:30"
+    },
+    {
+      "event_title": "国家宣布欠钱不还的政策是真的假的",
+      "event_id": "event_4",
+      "event_url": "http://news.bandao.cn/bdfalv/yqzhishi/73940.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:19:36",
+      "event_time": "9月6日 18:34"
+    },
+    {
+      "event_title": "中央出台网贷逾期政策",
+      "event_id": "event_5",
+      "event_url": "http://news.bandao.cn/bdfalv/zwyq/73727.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:19:38",
+      "event_time": "9月6日 11:28"
+    },
+    {
+      "event_title": "2025年6月1日起网贷停止催收是真的假的？",
+      "event_id": "event_6",
+      "event_url": "http://news.bandao.cn/bdfalv/zwfl/73522.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:19:40",
+      "event_time": "9月6日 04:38"
+    },
+    {
+      "event_title": "国家出台减免网贷逾期政策",
+      "event_id": "event_7",
+      "event_url": "http://news.bandao.cn/bdfalv/yqdongtai/73130.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:19:42",
+      "event_time": "9月5日 15:34"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-13 00:19:28",
+    "level2_scrape_time": "2025-09-13 00:19:42"
+  }
+}

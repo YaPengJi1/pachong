@@ -1,0 +1,447 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:55:22"
+  },
+  "core_event": {
+    "core_event_name": "2025年慕尼黑国际车展",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:53:42"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "慕尼黑车展重点新车汇总",
+      "link": "http://new.qq.com/rain/a/20250911A042MV00",
+      "time": "昨天 12:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国车企携新技术为欧洲带来新机遇",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10081676833121853952",
+      "time": "昨天 12:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "内燃机汽车逐步退出?慕尼黑车展给出不一样答案",
+      "link": "http://baijiahao.baidu.com/s?id=1842928420482796036&wfr=spider&for=pc",
+      "time": "昨天 09:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "德赛西威、NTT DATA慕尼黑车展战略签约",
+      "link": "http://finance.sina.cn/2025-09-10/detail-infpzkva4036059.d.html",
+      "time": "9月10日 19:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "德国慕尼黑车展开幕 中国展商数量达116家",
+      "link": "http://tv.cctv.com/2025/09/10/VIDEKPgyENxAo94qRySc3CqF250910.shtml",
+      "time": "9月10日 19:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "欧洲车企畏惧禁燃令，中国品牌势头正劲",
+      "link": "http://cj.sina.com.cn/articles/view/3684007222/db957d36001016gj0",
+      "time": "9月10日 11:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "2025年慕尼黑国际车展启幕",
+      "link": "http://www.chinanews.com.cn/gj/2025/09-09/10479533.shtml",
+      "time": "9月9日 22:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "《新闻1+1》 20250909 慕尼黑车展,中国汽车全球化再提速!",
+      "link": "http://tv.cctv.com/2025/09/09/VIDEz0tKlnRxRVdfSBpv7GkN250909.shtml",
+      "time": "9月9日 22:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "慕尼黑车展，中国汽车全球化再提速",
+      "link": "http://tv.cctv.com/2025/09/09/VIDEP96s0p0RdUzhC4blN89W250909.shtml",
+      "time": "9月9日 22:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "中国车企集体出击慕尼黑车展 40余款新车登场",
+      "link": "http://baijiahao.baidu.com/s?id=1842775375681668827&wfr=spider&for=pc",
+      "time": "9月9日 16:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "高域科技携量产飞行汽车AirCab首秀慕尼黑车展",
+      "link": "http://tech.huanqiu.com/article/4OFq8ECWJGX",
+      "time": "9月9日 16:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "智驾出海,地平线亮相 2025 慕尼黑国际车展,全面推动汽车智能生态国际化",
+      "link": "http://news.sina.cn/ai/2025-09-09/detail-infpwksn5304362.d.html",
+      "time": "9月9日 12:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "这届慕尼黑车展，欧洲汽车的屋顶真的“着火”了",
+      "link": "http://36kr.com/p/3458776282486146",
+      "time": "9月9日 11:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "2025年慕尼黑车展 中国展商成为车展“中坚力量”",
+      "link": "http://tv.cctv.com/2025/09/09/VIDEHGQvj3vGKNUIAOtyoWm1250909.shtml",
+      "time": "9月9日 09:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "慕尼黑车展,去欧洲抢生意!",
+      "link": "http://app.myzaker.com/news/article.php?m=1757380379&pk=68bf792f8e9f095e2a60383d",
+      "time": "9月9日 08:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "德国慕尼黑车展正式开幕，10余家中国品牌被围观",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4783297358950308866",
+      "time": "9月9日 00:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "从慕尼黑车展看中德对垒:以全产业链出击应对电动化反攻",
+      "link": "http://m.ce.cn/qc/gd/202509/t20250908_2468295.shtml",
+      "time": "9月8日 21:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "2025年慕尼黑车展：中国队组团出海，BBA走向“新”时代",
+      "link": "http://app.myzaker.com/news/article.php?m=1757234490&pk=68bd43cb8e9f097d3a470a1c",
+      "time": "9月7日 16:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "2025慕尼黑车展前瞻:德系主场坐镇下,中国汽车新能源与智能化之战",
+      "link": "http://baijiahao.baidu.com/s?id=1842520665477854269&wfr=spider&for=pc",
+      "time": "9月6日 21:06",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "慕尼黑车展重点新车汇总",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250911A042MV00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:53:57",
+      "event_time": "昨天 12:43"
+    },
+    {
+      "event_title": "中国车企携新技术为欧洲带来新机遇",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10081676833121853952",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:54:00",
+      "event_time": "昨天 12:22"
+    },
+    {
+      "event_title": "内燃机汽车逐步退出?慕尼黑车展给出不一样答案",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842928420482796036&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:54:17",
+      "event_time": "昨天 09:18"
+    },
+    {
+      "event_title": "德赛西威、NTT DATA慕尼黑车展战略签约",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.cn/2025-09-10/detail-infpzkva4036059.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:54:19",
+      "event_time": "9月10日 19:31"
+    },
+    {
+      "event_title": "德国慕尼黑车展开幕 中国展商数量达116家",
+      "event_id": "event_5",
+      "event_url": "http://tv.cctv.com/2025/09/10/VIDEKPgyENxAo94qRySc3CqF250910.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:54:21",
+      "event_time": "9月10日 19:27"
+    },
+    {
+      "event_title": "欧洲车企畏惧禁燃令，中国品牌势头正劲",
+      "event_id": "event_6",
+      "event_url": "http://cj.sina.com.cn/articles/view/3684007222/db957d36001016gj0",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:54:23",
+      "event_time": "9月10日 11:27"
+    },
+    {
+      "event_title": "2025年慕尼黑国际车展启幕",
+      "event_id": "event_7",
+      "event_url": "http://www.chinanews.com.cn/gj/2025/09-09/10479533.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:54:25",
+      "event_time": "9月9日 22:34"
+    },
+    {
+      "event_title": "《新闻1+1》 20250909 慕尼黑车展,中国汽车全球化再提速!",
+      "event_id": "event_8",
+      "event_url": "http://tv.cctv.com/2025/09/09/VIDEz0tKlnRxRVdfSBpv7GkN250909.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:54:27",
+      "event_time": "9月9日 22:01"
+    },
+    {
+      "event_title": "慕尼黑车展，中国汽车全球化再提速",
+      "event_id": "event_9",
+      "event_url": "http://tv.cctv.com/2025/09/09/VIDEP96s0p0RdUzhC4blN89W250909.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:54:29",
+      "event_time": "9月9日 22:00"
+    },
+    {
+      "event_title": "中国车企集体出击慕尼黑车展 40余款新车登场",
+      "event_id": "event_10",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842775375681668827&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:54:46",
+      "event_time": "9月9日 16:44"
+    },
+    {
+      "event_title": "高域科技携量产飞行汽车AirCab首秀慕尼黑车展",
+      "event_id": "event_11",
+      "event_url": "http://tech.huanqiu.com/article/4OFq8ECWJGX",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:54:48",
+      "event_time": "9月9日 16:09"
+    },
+    {
+      "event_title": "智驾出海,地平线亮相 2025 慕尼黑国际车展,全面推动汽车智能生态国际化",
+      "event_id": "event_12",
+      "event_url": "http://news.sina.cn/ai/2025-09-09/detail-infpwksn5304362.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:54:50",
+      "event_time": "9月9日 12:41"
+    },
+    {
+      "event_title": "这届慕尼黑车展，欧洲汽车的屋顶真的“着火”了",
+      "event_id": "event_13",
+      "event_url": "http://36kr.com/p/3458776282486146",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:54:52",
+      "event_time": "9月9日 11:29"
+    },
+    {
+      "event_title": "2025年慕尼黑车展 中国展商成为车展“中坚力量”",
+      "event_id": "event_14",
+      "event_url": "http://tv.cctv.com/2025/09/09/VIDEHGQvj3vGKNUIAOtyoWm1250909.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:54:54",
+      "event_time": "9月9日 09:07"
+    },
+    {
+      "event_title": "慕尼黑车展,去欧洲抢生意!",
+      "event_id": "event_15",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1757380379&pk=68bf792f8e9f095e2a60383d",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:54:56",
+      "event_time": "9月9日 08:47"
+    },
+    {
+      "event_title": "德国慕尼黑车展正式开幕，10余家中国品牌被围观",
+      "event_id": "event_16",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4783297358950308866",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:54:58",
+      "event_time": "9月9日 00:52"
+    },
+    {
+      "event_title": "从慕尼黑车展看中德对垒:以全产业链出击应对电动化反攻",
+      "event_id": "event_17",
+      "event_url": "http://m.ce.cn/qc/gd/202509/t20250908_2468295.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:55:00",
+      "event_time": "9月8日 21:54"
+    },
+    {
+      "event_title": "2025年慕尼黑车展：中国队组团出海，BBA走向“新”时代",
+      "event_id": "event_18",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1757234490&pk=68bd43cb8e9f097d3a470a1c",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:55:02",
+      "event_time": "9月7日 16:33"
+    },
+    {
+      "event_title": "2025慕尼黑车展前瞻:德系主场坐镇下,中国汽车新能源与智能化之战",
+      "event_id": "event_19",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842520665477854269&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "彤崖思6M",
+      "comment_time": "09-07 19:53",
+      "comment_content": "应该还有法拉利sf90继任者",
+      "user_location": "黑龙江",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:55:18"
+    },
+    {
+      "event_title": "2025慕尼黑车展前瞻:德系主场坐镇下,中国汽车新能源与智能化之战",
+      "event_id": "event_19",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842520665477854269&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "嗹ふ◆↘訫℡c7c",
+      "comment_time": "09-07 10:28",
+      "comment_content": "宝马奥迪的那两张照片真是巨丑无比，设计师灵感枯竭了吗？",
+      "user_location": "江苏",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:55:18"
+    },
+    {
+      "event_title": "2025慕尼黑车展前瞻:德系主场坐镇下,中国汽车新能源与智能化之战",
+      "event_id": "event_19",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842520665477854269&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "你切红0W",
+      "comment_time": "09-08 15:02",
+      "comment_content": "新能源车出海，让世界看到中国在绿色出行领域的担当",
+      "user_location": "海南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:55:18"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 19,
+    "total_comments": 21,
+    "events_with_comments": 19,
+    "level1_scrape_time": "2025-09-12 10:53:56",
+    "level2_scrape_time": "2025-09-12 10:55:18"
+  }
+}

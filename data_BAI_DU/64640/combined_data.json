@@ -1,0 +1,319 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:53:47"
+  },
+  "core_event": {
+    "core_event_name": "尖端武器集中亮相，九三阅兵将实现多个“首次”",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:51:38"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "九三阅兵特种机位首次亮相",
+      "link": "http://news.cctv.com/2025/09/08/ARTIWc4AnunxQQnSwmaUuPB0250908.shtml",
+      "time": "9月8日 06:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "三款地面突击装备首度亮相",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEQz7NMFFFJfIStSQTZUAt250907.shtml",
+      "time": "9月7日 15:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "我军力量结构新布局在阅兵中首次集中展示",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEgPAbilWcXuJmcLS4EiTA250907.shtml",
+      "time": "9月7日 15:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "洲际导弹射程“覆盖全球”",
+      "link": "http://baijiahao.baidu.com/s?id=1842381686933292356&wfr=spider&for=pc",
+      "time": "9月5日 08:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "洲际导弹射程“覆盖全球”,无人系统改变空战模式,九三阅兵装备让外媒“大吃一惊”",
+      "link": "http://baijiahao.baidu.com/s?id=1842375709844748820&wfr=spider&for=pc",
+      "time": "9月5日 06:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "尖端武器集中亮相,解密阅兵新锐装备→",
+      "link": "http://baijiahao.baidu.com/s?id=1842375962721411728&wfr=spider&for=pc",
+      "time": "9月5日 06:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "这些受阅武器装备震撼亮相 展现未来作战新趋势",
+      "link": "http://news.china.com/socialgd/10000169/20250904/48791483_1.html",
+      "time": "9月4日 22:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "[胜利与和平]九三阅兵实现多个“首次”",
+      "link": "http://tv.cctv.com/2025/09/03/VIDE88S8iXjG0bZqOBZdyv68250903.shtml",
+      "time": "9月3日 20:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "「中新画报」气势全开 记录九三阅兵超燃瞬间",
+      "link": "http://baijiahao.baidu.com/s?id=1842242805238218978&wfr=spider&for=pc",
+      "time": "9月3日 19:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "九三阅兵,霸屏广东人朋友圈!",
+      "link": "http://baijiahao.baidu.com/s?id=1842238355525025519&wfr=spider&for=pc",
+      "time": "9月3日 18:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "胜利日大阅兵空中护旗梯队飞过",
+      "link": "http://baijiahao.baidu.com/s?id=1842212477791388567&wfr=spider&for=pc",
+      "time": "9月3日 11:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "新一代武器装备将集中亮相,三大特点提前看!",
+      "link": "http://china.zjol.com.cn/sz/202509/t20250903_31208253.shtml",
+      "time": "9月3日 07:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "新型装备亮相，九三阅兵将实现多个“首次”",
+      "link": "http://finance.sina.cn/2025-09-02/detail-infpanvi7016248.d.html",
+      "time": "9月2日 13:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "[胜利日]抗战胜利80周年阅兵活动 阅兵将实现多个“首次”",
+      "link": "http://tv.cctv.com/2025/09/02/VIDEnTG0ZAqX2oOaPVPq6TAW250902.shtml",
+      "time": "9月2日 11:45",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "九三阅兵特种机位首次亮相",
+      "event_id": "event_1",
+      "event_url": "http://news.cctv.com/2025/09/08/ARTIWc4AnunxQQnSwmaUuPB0250908.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:51:53",
+      "event_time": "9月8日 06:10"
+    },
+    {
+      "event_title": "三款地面突击装备首度亮相",
+      "event_id": "event_2",
+      "event_url": "http://tv.cctv.com/2025/09/07/VIDEQz7NMFFFJfIStSQTZUAt250907.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:51:55",
+      "event_time": "9月7日 15:12"
+    },
+    {
+      "event_title": "我军力量结构新布局在阅兵中首次集中展示",
+      "event_id": "event_3",
+      "event_url": "http://tv.cctv.com/2025/09/07/VIDEgPAbilWcXuJmcLS4EiTA250907.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:51:57",
+      "event_time": "9月7日 15:07"
+    },
+    {
+      "event_title": "洲际导弹射程“覆盖全球”",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842381686933292356&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:52:14",
+      "event_time": "9月5日 08:14"
+    },
+    {
+      "event_title": "洲际导弹射程“覆盖全球”,无人系统改变空战模式,九三阅兵装备让外媒“大吃一惊”",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842375709844748820&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:52:29",
+      "event_time": "9月5日 06:44"
+    },
+    {
+      "event_title": "尖端武器集中亮相,解密阅兵新锐装备→",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842375962721411728&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:52:45",
+      "event_time": "9月5日 06:43"
+    },
+    {
+      "event_title": "这些受阅武器装备震撼亮相 展现未来作战新趋势",
+      "event_id": "event_7",
+      "event_url": "http://news.china.com/socialgd/10000169/20250904/48791483_1.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:52:47",
+      "event_time": "9月4日 22:19"
+    },
+    {
+      "event_title": "[胜利与和平]九三阅兵实现多个“首次”",
+      "event_id": "event_8",
+      "event_url": "http://tv.cctv.com/2025/09/03/VIDE88S8iXjG0bZqOBZdyv68250903.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:52:49",
+      "event_time": "9月3日 20:45"
+    },
+    {
+      "event_title": "「中新画报」气势全开 记录九三阅兵超燃瞬间",
+      "event_id": "event_9",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842242805238218978&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:53:05",
+      "event_time": "9月3日 19:32"
+    },
+    {
+      "event_title": "九三阅兵,霸屏广东人朋友圈!",
+      "event_id": "event_10",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842238355525025519&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:53:21",
+      "event_time": "9月3日 18:30"
+    },
+    {
+      "event_title": "胜利日大阅兵空中护旗梯队飞过",
+      "event_id": "event_11",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842212477791388567&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:53:37",
+      "event_time": "9月3日 11:31"
+    },
+    {
+      "event_title": "新一代武器装备将集中亮相,三大特点提前看!",
+      "event_id": "event_12",
+      "event_url": "http://china.zjol.com.cn/sz/202509/t20250903_31208253.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:53:39",
+      "event_time": "9月3日 07:45"
+    },
+    {
+      "event_title": "新型装备亮相，九三阅兵将实现多个“首次”",
+      "event_id": "event_13",
+      "event_url": "http://finance.sina.cn/2025-09-02/detail-infpanvi7016248.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:53:41",
+      "event_time": "9月2日 13:00"
+    },
+    {
+      "event_title": "[胜利日]抗战胜利80周年阅兵活动 阅兵将实现多个“首次”",
+      "event_id": "event_14",
+      "event_url": "http://tv.cctv.com/2025/09/02/VIDEnTG0ZAqX2oOaPVPq6TAW250902.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:53:43",
+      "event_time": "9月2日 11:45"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 14,
+    "total_comments": 14,
+    "events_with_comments": 14,
+    "level1_scrape_time": "2025-09-13 01:51:52",
+    "level2_scrape_time": "2025-09-13 01:53:43"
+  }
+}

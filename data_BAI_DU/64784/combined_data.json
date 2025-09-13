@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:36:12"
+  },
+  "core_event": {
+    "core_event_name": "广东队引进得分王，全力夺冠",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:35:46"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "广东四名外援基本确定!两人都是CBA得分王,朱芳雨为夺冠下血本",
+      "link": "http://app.myzaker.com/news/article.php?m=1756944911&pk=68b879d8b15ec03ccd5da498",
+      "time": "9月4日 01:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "广东第4外援曝光,193后卫,曾获得分王",
+      "link": "http://cj.sina.com.cn/articles/view/1340604587/4fe800ab001016erm",
+      "time": "9月2日 01:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "广东队签约萨姆纳杜锋得到冲冠豪阵",
+      "link": "http://m.sohu.com/a/930657038_122441760",
+      "time": "9月1日 11:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "CBA得分王广东报价,朱彦西退役",
+      "link": "http://www.sohu.com/a/930519655_121501772",
+      "time": "9月1日 00:16",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "广东四名外援基本确定!两人都是CBA得分王,朱芳雨为夺冠下血本",
+      "event_id": "event_1",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1756944911&pk=68b879d8b15ec03ccd5da498",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:36:02",
+      "event_time": "9月4日 01:24"
+    },
+    {
+      "event_title": "广东第4外援曝光,193后卫,曾获得分王",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/1340604587/4fe800ab001016erm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:36:04",
+      "event_time": "9月2日 01:19"
+    },
+    {
+      "event_title": "广东队签约萨姆纳杜锋得到冲冠豪阵",
+      "event_id": "event_3",
+      "event_url": "http://m.sohu.com/a/930657038_122441760",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:36:06",
+      "event_time": "9月1日 11:18"
+    },
+    {
+      "event_title": "CBA得分王广东报价,朱彦西退役",
+      "event_id": "event_4",
+      "event_url": "http://www.sohu.com/a/930519655_121501772",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:36:08",
+      "event_time": "9月1日 00:16"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-13 02:36:01",
+    "level2_scrape_time": "2025-09-13 02:36:08"
+  }
+}

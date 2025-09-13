@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 00:50:17"
+  },
+  "core_event": {
+    "core_event_name": "中俄互免签落地",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:49:34"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中俄互免签落地，从政治互信到街头烟火，这步棋意义太大",
+      "link": "http://baijiahao.baidu.com/s?id=1842431686664957716&wfr=spider&for=pc",
+      "time": "9月7日 08:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国对俄试行免签,普京:感谢,俄方将作对等回应",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31544855",
+      "time": "9月5日 11:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普反对无效 中俄签署合作大单 俄罗斯卖石油 中国对俄免签",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2642550247966689558",
+      "time": "9月3日 16:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中方对俄罗斯试行免签政策",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6078271844594725864",
+      "time": "9月2日 22:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中国队俄罗斯免签了 俄罗斯应该很快也对中国免签",
+      "link": "http://weibo.com/1652184490/Q2IjsDiZM",
+      "time": "9月2日 16:43",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "中俄互免签落地，从政治互信到街头烟火，这步棋意义太大",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842431686664957716&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:50:05",
+      "event_time": "9月7日 08:00"
+    },
+    {
+      "event_title": "中国对俄试行免签,普京:感谢,俄方将作对等回应",
+      "event_id": "event_2",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31544855",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:50:07",
+      "event_time": "9月5日 11:12"
+    },
+    {
+      "event_title": "特朗普反对无效 中俄签署合作大单 俄罗斯卖石油 中国对俄免签",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=2642550247966689558",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:50:09",
+      "event_time": "9月3日 16:48"
+    },
+    {
+      "event_title": "中方对俄罗斯试行免签政策",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6078271844594725864",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:50:11",
+      "event_time": "9月2日 22:39"
+    },
+    {
+      "event_title": "中国队俄罗斯免签了 俄罗斯应该很快也对中国免签",
+      "event_id": "event_5",
+      "event_url": "http://weibo.com/1652184490/Q2IjsDiZM",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:50:13",
+      "event_time": "9月2日 16:43"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-13 00:49:49",
+    "level2_scrape_time": "2025-09-13 00:50:13"
+  }
+}

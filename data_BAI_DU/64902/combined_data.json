@@ -1,0 +1,198 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:10:00"
+  },
+  "core_event": {
+    "core_event_name": "中国九三阅兵及新型装备亮相",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:09:12"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "九三阅兵震撼外国网友:中国最好的“武器”,是不把钱花在战争上",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmzcy5751309.d.html",
+      "time": "9月5日 20:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "九三阅兵中的钢铁洪流实现了哪些升级?",
+      "link": "http://news.youth.cn/js/202509/t20250905_16218206.htm",
+      "time": "9月5日 09:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "大批国产新装备震撼亮相九三阅兵",
+      "link": "http://www.chinaqw.com/yw/2025/09-04/397171.shtml",
+      "time": "9月4日 14:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "九三阅兵,新一代武器装备震撼亮相",
+      "link": "http://baijiahao.baidu.com/s?id=1842298429571858732&wfr=spider&for=pc",
+      "time": "9月4日 10:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中国九三阅兵数种新型装备一一亮相，一个比一个还猛",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8009227072446031901",
+      "time": "9月3日 22:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "九三阅兵震撼亮相，外媒的反应来了",
+      "link": "http://www.163.com/dy/article/K8I10JTJ0550B6IS.html",
+      "time": "9月3日 16:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "强军有我!“湖北造”远箱火震撼亮相九三阅兵",
+      "link": "http://www.163.com/dy/article/K8HQK5D50556C2WL.html",
+      "time": "9月3日 15:04",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "九三阅兵震撼外国网友:中国最好的“武器”,是不把钱花在战争上",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.cn/2025-09-05/detail-infpmzcy5751309.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:09:28",
+      "event_time": "9月5日 20:12"
+    },
+    {
+      "event_title": "九三阅兵中的钢铁洪流实现了哪些升级?",
+      "event_id": "event_2",
+      "event_url": "http://news.youth.cn/js/202509/t20250905_16218206.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:09:30",
+      "event_time": "9月5日 09:09"
+    },
+    {
+      "event_title": "大批国产新装备震撼亮相九三阅兵",
+      "event_id": "event_3",
+      "event_url": "http://www.chinaqw.com/yw/2025/09-04/397171.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:09:32",
+      "event_time": "9月4日 14:00"
+    },
+    {
+      "event_title": "九三阅兵,新一代武器装备震撼亮相",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842298429571858732&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "ykn999ykn999",
+      "comment_time": "09-04 16:04",
+      "comment_content": "军事高科技搏弈己进入白热化，此消彼长，我有你无，关系国运。中国应研制诱导返击技术，当敌国向我发射导弹或无人机，我方应破解敌方导弹和无人机数据，用Al技术为我所用，引导敌向我发射的导弹、无人机在半途中听我指令折返回射敌方高价值军事目标。",
+      "user_location": "北京",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 17:09:50",
+      "event_time": "9月4日 10:24"
+    },
+    {
+      "event_title": "九三阅兵,新一代武器装备震撼亮相",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842298429571858732&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "顾拉丝",
+      "comment_time": "09-05 08:40",
+      "comment_content": "新一代武器装备一出场，真是科幻感拉满，震撼到不行！",
+      "user_location": "广东",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 17:09:50",
+      "event_time": "9月4日 10:24"
+    },
+    {
+      "event_title": "九三阅兵,新一代武器装备震撼亮相",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842298429571858732&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "百度网友a48e762b",
+      "comment_time": "09-05 08:41",
+      "comment_content": "陆海空全线高能，看到歼-20S和舰载机方队那刻热血翻涌",
+      "user_location": "河北",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 17:09:50",
+      "event_time": "9月4日 10:24"
+    },
+    {
+      "event_title": "中国九三阅兵数种新型装备一一亮相，一个比一个还猛",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8009227072446031901",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:09:52",
+      "event_time": "9月3日 22:47"
+    },
+    {
+      "event_title": "九三阅兵震撼亮相，外媒的反应来了",
+      "event_id": "event_6",
+      "event_url": "http://www.163.com/dy/article/K8I10JTJ0550B6IS.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:09:54",
+      "event_time": "9月3日 16:55"
+    },
+    {
+      "event_title": "强军有我!“湖北造”远箱火震撼亮相九三阅兵",
+      "event_id": "event_7",
+      "event_url": "http://www.163.com/dy/article/K8HQK5D50556C2WL.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:09:56",
+      "event_time": "9月3日 15:04"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 9,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 17:09:27",
+    "level2_scrape_time": "2025-09-12 17:09:56"
+  }
+}

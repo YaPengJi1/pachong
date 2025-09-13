@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "8月核心CPI继续回升",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:07:02"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "8月份核心CPI继续回升，PPI同比降幅收窄",
+      "link": "http://news.cctv.com/2025/09/11/ARTId2Dx69XV1fEDeXpuWJip250911.shtml",
+      "time": "9月10日 21:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "8月份核心CPI继续回升!金饰品价格涨36.7%,专家解读",
+      "link": "http://www.jwview.com/jingwei/09-10/632112.shtml",
+      "time": "9月10日 16:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国家统计局:8月份消费市场运行总体平稳 核心CPI继续回升",
+      "link": "http://news.cctv.com/2025/09/10/ARTIdWO1p3exPL6Ak7fwk0mK250910.shtml",
+      "time": "9月10日 12:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "8月份PPI同比降幅收窄 环比由降转平",
+      "link": "http://news.dahe.cn/2025/09-10/1991692.html",
+      "time": "9月10日 12:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "8月CPI公布,消费板块爆发!主力资金抢筹,能否再创新高?",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 11:07:16"
+}

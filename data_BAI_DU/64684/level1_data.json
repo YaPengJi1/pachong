@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "泰国政坛风波",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:36:54"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "泰国政坛“大洗牌”，最大反对派手握决定权，他信家族还有翻盘机会",
+      "link": "http://cj.sina.com.cn/articles/view/7295511708/1b2d8ac9c020016954",
+      "time": "9月5日 17:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "泰国新总理呼之欲出，政局突现重大转折，人民党倒向泰自豪党重创为泰党",
+      "link": "http://cj.sina.com.cn/articles/view/7295511708/1b2d8ac9c0200168xu",
+      "time": "9月5日 06:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "泰国新总理人选出炉,他信、佩通坦均出手整合,巴育或强势回归",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3733951722204652504",
+      "time": "9月4日 14:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "泰国政坛一夜变天!佩坦通遭解职后,他信家族“掀桌”了",
+      "link": "http://baijiahao.baidu.com/s?id=1842310500349346489&wfr=spider&for=pc",
+      "time": "9月4日 13:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "泰国前总理他信戏剧性归来,联手为泰党对抗王室军方",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12430803965044401765",
+      "time": "9月4日 08:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "泰国政坛的风云再起，老牌政治家他信家族遭遇新一轮的挑战与机遇",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4947385258732466427",
+      "time": "9月4日 08:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "泰国下任总理已定?一匹黑马浮现,他信拒绝投降,泰王室开始博弈",
+      "link": "http://www.163.com/dy/article/K8FOAB8705566R1T.html",
+      "time": "9月2日 19:45",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-13 02:37:09"
+}

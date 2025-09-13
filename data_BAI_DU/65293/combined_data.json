@@ -1,0 +1,150 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 21:48:38"
+  },
+  "core_event": {
+    "core_event_name": "“惊雷-1”全球唯一空基核导弹亮相",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:47:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "东风61震撼阅兵 撑起核保护伞 惊雷-1空射导弹颠覆反导规则",
+      "link": "http://www.163.com/dy/article/K8P61R1T0553RVN3.html",
+      "time": "9月6日 11:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "“惊雷-1”首次亮相!它到底有多牛?",
+      "link": "http://news.sina.com.cn/c/2025-09-04/doc-infpkany3136318.shtml",
+      "time": "9月4日 19:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "“惊雷1”全球唯一空基核导弹震撼亮相",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10674722821409259169",
+      "time": "9月4日 17:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "空中重锤,惊雷-1登场!全球唯一空射高超音速核导弹震撼亮相",
+      "link": "http://cj.sina.com.cn/articles/view/7295052889/1b2d1ac590200187p6",
+      "time": "9月4日 10:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "惊雷-1,巨浪-3首次亮相 军事专家: 我国成为为数不多拥有三位一体战略核力量的国家",
+      "link": "http://news.sina.com.cn/c/2025-09-03/doc-infpfthf9454547.shtml",
+      "time": "9月3日 21:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "惊雷-1亮相阅兵式 中国向“三位一体”核力量进发",
+      "link": "http://baijiahao.baidu.com/s?id=1842222957373570938&wfr=spider&for=pc",
+      "time": "9月3日 14:25",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "东风61震撼阅兵 撑起核保护伞 惊雷-1空射导弹颠覆反导规则",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8P61R1T0553RVN3.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:48:08",
+      "event_time": "9月6日 11:38"
+    },
+    {
+      "event_title": "“惊雷-1”首次亮相!它到底有多牛?",
+      "event_id": "event_2",
+      "event_url": "http://news.sina.com.cn/c/2025-09-04/doc-infpkany3136318.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:48:10",
+      "event_time": "9月4日 19:05"
+    },
+    {
+      "event_title": "“惊雷1”全球唯一空基核导弹震撼亮相",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10674722821409259169",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:48:12",
+      "event_time": "9月4日 17:33"
+    },
+    {
+      "event_title": "空中重锤,惊雷-1登场!全球唯一空射高超音速核导弹震撼亮相",
+      "event_id": "event_4",
+      "event_url": "http://cj.sina.com.cn/articles/view/7295052889/1b2d1ac590200187p6",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:48:14",
+      "event_time": "9月4日 10:58"
+    },
+    {
+      "event_title": "惊雷-1,巨浪-3首次亮相 军事专家: 我国成为为数不多拥有三位一体战略核力量的国家",
+      "event_id": "event_5",
+      "event_url": "http://news.sina.com.cn/c/2025-09-03/doc-infpfthf9454547.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:48:16",
+      "event_time": "9月3日 21:42"
+    },
+    {
+      "event_title": "惊雷-1亮相阅兵式 中国向“三位一体”核力量进发",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842222957373570938&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "毓昕昕8B",
+      "comment_time": "09-03 16:11",
+      "comment_content": "毓昕昕8B09-03 16:11广东举报回复3",
+      "user_location": "广东",
+      "like_count": 3,
+      "scrape_time": "2025-09-12 21:48:33"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 21:48:07",
+    "level2_scrape_time": "2025-09-12 21:48:33"
+  }
+}

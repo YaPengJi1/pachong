@@ -1,0 +1,98 @@
+{
+  "core_event_name": "泰国当选总理阿努廷组阁",
+  "comments": [
+    {
+      "event_title": "泰国当选总理阿努廷开始组建内阁",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842563761371390797&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:14:42",
+      "event_time": "9月7日 08:41"
+    },
+    {
+      "event_title": "阿努廷当选新总理!佩通坦发声,给出两个重点",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7161495286609421433",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:14:44",
+      "event_time": "9月6日 21:13"
+    },
+    {
+      "event_title": "新总理人选已定!为泰党将成为反对派,他信、佩通坦还有后招",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=3890288901174017595",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:14:46",
+      "event_time": "9月6日 10:58"
+    },
+    {
+      "event_title": "阿努廷当选泰国总理",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8NJCM1E0519APGA.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:14:48",
+      "event_time": "9月5日 20:53"
+    },
+    {
+      "event_title": "泰国:自豪泰党党首阿努廷当选新一任总理",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=17835377001041854237",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:14:50",
+      "event_time": "9月5日 19:24"
+    },
+    {
+      "event_title": "泰国自豪泰党党首阿努廷获国会过半数支持 将出任新总理",
+      "event_id": "event_6",
+      "event_url": "http://k.sina.com.cn/article_1598078571_m5f40be6b03301aet4.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:14:52",
+      "event_time": "9月5日 17:16"
+    },
+    {
+      "event_title": "泰国政坛一夜变天!阿努廷获人民党支持组阁,为泰党惨遭重大挫败",
+      "event_id": "event_7",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7902134008419030218",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:14:54",
+      "event_time": "9月5日 16:12"
+    }
+  ],
+  "total_comments": 7,
+  "scrape_time": "2025-09-13 00:14:54"
+}

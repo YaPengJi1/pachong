@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "2025慕尼黑车展",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:17:53"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "宁德时代全球能源循环计划亮相慕尼黑",
+      "link": "http://www.163.com/dy/article/K940T9I50527C7BH.html",
+      "time": "9月10日 16:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "2025年慕尼黑国际车展启幕",
+      "link": "http://www.chinanews.com.cn/gj/2025/09-09/10479533.shtml",
+      "time": "9月9日 22:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "Momenta亮相2025慕尼黑车展 飞轮大模型落地欧洲 全球化进程提速",
+      "link": "http://industry.caijing.com.cn/20250909/5112572.shtml",
+      "time": "9月9日 14:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "广汽IAA MOBILITY首秀，AION V正式上市",
+      "link": "http://tech.huanqiu.com/article/4OFeCUxUZd9",
+      "time": "9月9日 10:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "2025慕尼黑车展:AITO 5/8/9中东版亮相",
+      "link": "http://auto.sina.com.cn/newcar/2025-09-09/detail-infpvyas5448830.shtml",
+      "time": "9月9日 08:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "2025慕尼黑车展:212 T01柴油版亮相",
+      "link": "http://new.qq.com/rain/a/20250908A08JPT00",
+      "time": "9月8日 21:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "慕尼黑车展 2025前瞻:中国队组团出海,BBA走向「新」时代",
+      "link": "http://baijiahao.baidu.com/s?id=1842593459483223757&wfr=spider&for=pc",
+      "time": "9月7日 16:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "2025慕尼黑车展前瞻",
+      "link": "http://baijiahao.baidu.com/s?id=1842520665477854269&wfr=spider&for=pc",
+      "time": "9月6日 21:06",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-12 11:18:07"
+}

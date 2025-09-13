@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "保定队河北五超豪取四连胜",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:11:51"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "保定队\"河北五超\"豪取四连胜",
+      "link": "http://weibo.com/2779486914/Q3AcAahMh",
+      "time": "9月8日 09:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "保定队“河北五超”豪取四连胜",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31568553",
+      "time": "9月8日 09:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "“河北五超”第四轮战罢:石家庄、保定继续领跑积分榜,冯瀚源登上射手榜首",
+      "link": "http://www.hebei.gov.cn/columns/7bc62395-3c3f-470f-b679-266611978cfd/202509/08/144187e6-5eff-4632-9536-6e8b4d9607ab.html",
+      "time": "9月8日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "“河北五超”开启第四轮对决 6场打入36球 石家庄、保定继续保持全胜",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31557798",
+      "time": "9月7日 09:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "“河北五超”第四轮:承德队主场 5-0 大胜唐山队",
+      "link": "http://baijiahao.baidu.com/s?id=1842564365447715281&wfr=spider&for=pc",
+      "time": "9月7日 08:51",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 10:12:06"
+}

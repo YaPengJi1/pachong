@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:59:18"
+  },
+  "core_event": {
+    "core_event_name": "大众ID. CROSS概念车发布",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:58:18"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "大众推出跨界掀背概念车EVX",
+      "link": "http://baijiahao.baidu.com/s?id=1842872998749402347&wfr=spider&for=pc",
+      "time": "9月10日 18:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "大众ID. CROSS概念车全球首秀 2026年底正式发布",
+      "link": "http://new.qq.com/rain/a/20250908A04T3O00",
+      "time": "9月8日 14:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "ID.Cross明年底发布 曝新款大众T-Cross谍照",
+      "link": "http://www.yescar.cn/kanche/20250908/905115_1.html",
+      "time": "9月8日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "大众途铠继任车型，ID.Cross纯电跨界小车下周慕尼黑车展首秀",
+      "link": "http://baijiahao.baidu.com/s?id=1842248378116251068&wfr=spider&for=pc",
+      "time": "9月3日 21:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "大众将推全新纯电SUV 造型运动紧凑 搭载前电机/双电机四驱",
+      "link": "http://www.pcauto.com.cn/hj/article/3047400.html",
+      "time": "9月3日 09:44",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "大众推出跨界掀背概念车EVX",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842872998749402347&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:58:52",
+      "event_time": "9月10日 18:37"
+    },
+    {
+      "event_title": "大众ID. CROSS概念车全球首秀 2026年底正式发布",
+      "event_id": "event_2",
+      "event_url": "http://new.qq.com/rain/a/20250908A04T3O00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:58:54",
+      "event_time": "9月8日 14:11"
+    },
+    {
+      "event_title": "ID.Cross明年底发布 曝新款大众T-Cross谍照",
+      "event_id": "event_3",
+      "event_url": "http://www.yescar.cn/kanche/20250908/905115_1.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:58:56",
+      "event_time": "9月8日 00:00"
+    },
+    {
+      "event_title": "大众途铠继任车型，ID.Cross纯电跨界小车下周慕尼黑车展首秀",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842248378116251068&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:59:11",
+      "event_time": "9月3日 21:09"
+    },
+    {
+      "event_title": "大众将推全新纯电SUV 造型运动紧凑 搭载前电机/双电机四驱",
+      "event_id": "event_5",
+      "event_url": "http://www.pcauto.com.cn/hj/article/3047400.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:59:13",
+      "event_time": "9月3日 09:44"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 10:58:33",
+    "level2_scrape_time": "2025-09-12 10:59:13"
+  }
+}

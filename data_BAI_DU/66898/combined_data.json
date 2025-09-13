@@ -1,0 +1,193 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:16:17"
+  },
+  "core_event": {
+    "core_event_name": "以色列军队强制加沙民众撤离",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:15:00"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "以军再次向加沙城居民发出撤离通知",
+      "link": "http://tv.cctv.com/2025/09/10/VIDEKdJuCd3PihjOZhYzwfCp250910.shtml",
+      "time": "9月10日 22:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "以色列军队强制加沙居民撤离,指定区仅占1-10,早已人满为患",
+      "link": "http://www.163.com/dy/article/K93R5TK40556BYQT.html",
+      "time": "9月10日 15:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "加沙民众 向南撤离",
+      "link": "http://baijiahao.baidu.com/s?id=1842821711157164917&wfr=spider&for=pc",
+      "time": "9月10日 05:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "以军首次向所有加沙城居民发出撤离通知",
+      "link": "http://tv.cctv.com/2025/09/09/VIDEqfmr5ueWl7ojSBpv9RUY250909.shtml",
+      "time": "9月9日 22:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "以军频繁向加沙城居民发撤离令",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9096321278833462476",
+      "time": "9月9日 21:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "以色列发动“规模空前袭击”",
+      "link": "http://baijiahao.baidu.com/s?id=1842771156453583599&wfr=spider&for=pc",
+      "time": "9月9日 15:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "以军再发疏散令 加沙民众难觅避难所",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEIKrvXGQxx2q36UCZTVGm250908.shtml",
+      "time": "9月8日 08:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "加沙地带:撤离之路",
+      "link": "http://baijiahao.baidu.com/s?id=1842596664527993563&wfr=spider&for=pc",
+      "time": "9月7日 17:23",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "以军再次向加沙城居民发出撤离通知",
+      "event_id": "event_1",
+      "event_url": "http://tv.cctv.com/2025/09/10/VIDEKdJuCd3PihjOZhYzwfCp250910.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:15:16",
+      "event_time": "9月10日 22:23"
+    },
+    {
+      "event_title": "以色列军队强制加沙居民撤离,指定区仅占1-10,早已人满为患",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K93R5TK40556BYQT.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:15:18",
+      "event_time": "9月10日 15:00"
+    },
+    {
+      "event_title": "加沙民众 向南撤离",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842821711157164917&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:15:35",
+      "event_time": "9月10日 05:01"
+    },
+    {
+      "event_title": "以军首次向所有加沙城居民发出撤离通知",
+      "event_id": "event_4",
+      "event_url": "http://tv.cctv.com/2025/09/09/VIDEqfmr5ueWl7ojSBpv9RUY250909.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:15:37",
+      "event_time": "9月9日 22:39"
+    },
+    {
+      "event_title": "以军频繁向加沙城居民发撤离令",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9096321278833462476",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:15:39",
+      "event_time": "9月9日 21:43"
+    },
+    {
+      "event_title": "以色列发动“规模空前袭击”",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842771156453583599&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:15:55",
+      "event_time": "9月9日 15:38"
+    },
+    {
+      "event_title": "以军再发疏散令 加沙民众难觅避难所",
+      "event_id": "event_7",
+      "event_url": "http://tv.cctv.com/2025/09/08/VIDEIKrvXGQxx2q36UCZTVGm250908.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:15:57",
+      "event_time": "9月8日 08:29"
+    },
+    {
+      "event_title": "加沙地带:撤离之路",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842596664527993563&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:16:13",
+      "event_time": "9月7日 17:23"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 8,
+    "total_comments": 8,
+    "events_with_comments": 8,
+    "level1_scrape_time": "2025-09-12 11:15:15",
+    "level2_scrape_time": "2025-09-12 11:16:13"
+  }
+}

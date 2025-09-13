@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:43:36"
+  },
+  "core_event": {
+    "core_event_name": "里斯本缆车事故",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:42:55"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "葡萄牙里斯本发生缆车脱轨撞击事故,16人死亡20多人受伤",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4087269012303986708",
+      "time": "9月5日 15:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "里斯本著名景点“缆车事故”造成17人身亡",
+      "link": "http://hzdaily.hangzhou.com.cn/dskb/2025/09/05/article_detail_2_20250905A063.html",
+      "time": "9月5日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "葡萄牙里斯本缆车事故造成15人死亡",
+      "link": "http://tv.cctv.com/2025/09/04/VIDErZz2TtG6PvTffrniEPPX250904.shtml",
+      "time": "9月4日 22:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "里斯本著名景点“缆车事故”造成15死18伤",
+      "link": "http://baijiahao.baidu.com/s?id=1842382758436515295&wfr=spider&for=pc",
+      "time": "9月4日 10:49",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "葡萄牙里斯本发生缆车脱轨撞击事故,16人死亡20多人受伤",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4087269012303986708",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:43:11",
+      "event_time": "9月5日 15:23"
+    },
+    {
+      "event_title": "里斯本著名景点“缆车事故”造成17人身亡",
+      "event_id": "event_2",
+      "event_url": "http://hzdaily.hangzhou.com.cn/dskb/2025/09/05/article_detail_2_20250905A063.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:43:13",
+      "event_time": "9月5日 00:00"
+    },
+    {
+      "event_title": "葡萄牙里斯本缆车事故造成15人死亡",
+      "event_id": "event_3",
+      "event_url": "http://tv.cctv.com/2025/09/04/VIDErZz2TtG6PvTffrniEPPX250904.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:43:15",
+      "event_time": "9月4日 22:50"
+    },
+    {
+      "event_title": "里斯本著名景点“缆车事故”造成15死18伤",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842382758436515295&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:43:32",
+      "event_time": "9月4日 10:49"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 17:43:09",
+    "level2_scrape_time": "2025-09-12 17:43:32"
+  }
+}

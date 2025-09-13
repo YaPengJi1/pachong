@@ -1,0 +1,46 @@
+{
+  "core_event_name": "iPhone17系列价格调整",
+  "comments": [
+    {
+      "event_title": "京东方即将获得iPhone 17 Pro首发批准",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.cn/2025-09-05/detail-infpmqqi0833380.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:27:16",
+      "event_time": "9月5日 15:12"
+    },
+    {
+      "event_title": "iPhone 17预计售价近800美元,全系列价格揭晓。",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5927604166260899350",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:27:18",
+      "event_time": "9月5日 03:58"
+    },
+    {
+      "event_title": "大摩:苹果将小幅上调iPhone 17系列价格",
+      "event_id": "event_3",
+      "event_url": "http://fund.eastmoney.com/a/202509043505043192.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:27:20",
+      "event_time": "9月4日 20:42"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 17:27:20"
+}

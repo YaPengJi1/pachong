@@ -1,0 +1,85 @@
+{
+  "core_event_name": "A股缩量跌穿3800点",
+  "comments": [
+    {
+      "event_title": "A股调整结束了吗?",
+      "event_id": "event_1",
+      "event_url": "http://stock.hexun.com/2025-09-07/221243387.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:38:12",
+      "event_time": "9月7日 07:56"
+    },
+    {
+      "event_title": "沪指失守3800点,央行盘后出手,“放水”一万亿元",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/2025-09-04/detail-infpirxe3344817.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:38:14",
+      "event_time": "9月4日 17:23"
+    },
+    {
+      "event_title": "大盘失守3800点，20日均线构成关键支撑",
+      "event_id": "event_3",
+      "event_url": "http://weibo.com/7942620137/Q2YOaE93b",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:38:16",
+      "event_time": "9月4日 10:43"
+    },
+    {
+      "event_title": "上证险守3800点,下跌中继还是重启升势,关键看券商止跌拉升",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8IAN2MT05565O8G.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:38:18",
+      "event_time": "9月4日 07:30"
+    },
+    {
+      "event_title": "A股缩量跌穿3800点",
+      "event_id": "event_5",
+      "event_url": "http://weibo.com/7583382920/Q2RFIBFK5",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:38:20",
+      "event_time": "9月3日 16:33"
+    },
+    {
+      "event_title": "沪指跌破3800点整数关口",
+      "event_id": "event_6",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12559999294684613341",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:38:22",
+      "event_time": "9月3日 14:59"
+    }
+  ],
+  "total_comments": 6,
+  "scrape_time": "2025-09-13 01:38:22"
+}

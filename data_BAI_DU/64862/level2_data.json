@@ -1,0 +1,59 @@
+{
+  "core_event_name": "苹果17系列手机爆料",
+  "comments": [
+    {
+      "event_title": "iPhone17终极爆料来了,17售价保持不变,17 Pro售价8599起,涨价600元",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8KFFSJ50530JPVV.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:08:24",
+      "event_time": "9月4日 15:47"
+    },
+    {
+      "event_title": "疑似iPhone17ProMax量产机突然曝光",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8G72R3V0512ER4R.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:08:26",
+      "event_time": "9月3日 00:03"
+    },
+    {
+      "event_title": "iPhone 17系列爆料汇总",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8EN9JGN05118VMB.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:08:28",
+      "event_time": "9月2日 10:08"
+    },
+    {
+      "event_title": "苹果iPhone 17 Pro透明保护壳曝光,或采用大面积白色区域设计",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8B01A790553SRY9.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:08:30",
+      "event_time": "8月31日 23:24"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 18:08:30"
+}

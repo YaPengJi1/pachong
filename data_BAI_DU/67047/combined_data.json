@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:40:16"
+  },
+  "core_event": {
+    "core_event_name": "小米王腾被辞退",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:39:24"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "王腾被小米辞退泄密？媒体：使不得",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12002964311410113550",
+      "time": "9月10日 18:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "曾被雷军点名,小米王腾泄密被辞!本人回应",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31581493",
+      "time": "9月10日 10:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "小米辟谣王腾被开",
+      "link": "http://new.qq.com/rain/a/20250909V05T3E00",
+      "time": "9月9日 16:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "小米高管王腾被辞引热议,本人回应失职与网络传言",
+      "link": "http://news.zol.com.cn/1044/10444806.html",
+      "time": "9月9日 15:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "小米王腾被通报为泄密和利益冲突",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4729850847734827045",
+      "time": "9月9日 15:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "“泄密王”王腾被辞退,小米要反思什么?",
+      "link": "http://www.huxiu.com/article/4765497.html",
+      "time": "9月9日 12:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "小米明星高管王腾因泄密被辞退",
+      "link": "http://new.qq.com/rain/a/20250909V03CZ000",
+      "time": "9月9日 10:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "王腾发文辟谣:没有窃取公司机密出售,没有收人钱财",
+      "link": "http://baijiahao.baidu.com/s?id=1842752382957763433&wfr=spider&for=pc",
+      "time": "9月9日 10:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "小米内部通报王腾因泄密被辞退",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4712377670883232083",
+      "time": "9月8日 22:56",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "王腾被小米辞退泄密？媒体：使不得",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12002964311410113550",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:39:40",
+      "event_time": "9月10日 18:38"
+    },
+    {
+      "event_title": "曾被雷军点名,小米王腾泄密被辞!本人回应",
+      "event_id": "event_2",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31581493",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:39:42",
+      "event_time": "9月10日 10:14"
+    },
+    {
+      "event_title": "小米辟谣王腾被开",
+      "event_id": "event_3",
+      "event_url": "http://new.qq.com/rain/a/20250909V05T3E00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:39:44",
+      "event_time": "9月9日 16:02"
+    },
+    {
+      "event_title": "小米高管王腾被辞引热议,本人回应失职与网络传言",
+      "event_id": "event_4",
+      "event_url": "http://news.zol.com.cn/1044/10444806.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:39:46",
+      "event_time": "9月9日 15:42"
+    },
+    {
+      "event_title": "小米王腾被通报为泄密和利益冲突",
+      "event_id": "event_5",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4729850847734827045",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:39:48",
+      "event_time": "9月9日 15:12"
+    },
+    {
+      "event_title": "“泄密王”王腾被辞退,小米要反思什么?",
+      "event_id": "event_6",
+      "event_url": "http://www.huxiu.com/article/4765497.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:39:50",
+      "event_time": "9月9日 12:53"
+    },
+    {
+      "event_title": "小米明星高管王腾因泄密被辞退",
+      "event_id": "event_7",
+      "event_url": "http://new.qq.com/rain/a/20250909V03CZ000",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:39:52",
+      "event_time": "9月9日 10:49"
+    },
+    {
+      "event_title": "王腾发文辟谣:没有窃取公司机密出售,没有收人钱财",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842752382957763433&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "Parval",
+      "comment_time": "09-09 10:54",
+      "comment_content": "看完全文那就是，王腾的确泄密导致公司利益受损，至于王腾有没有收钱那就只有他自己知道了！！！",
+      "user_location": "广东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:40:10",
+      "event_time": "9月9日 10:40"
+    },
+    {
+      "event_title": "小米内部通报王腾因泄密被辞退",
+      "event_id": "event_9",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4712377670883232083",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:40:12",
+      "event_time": "9月8日 22:56"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 9,
+    "total_comments": 9,
+    "events_with_comments": 9,
+    "level1_scrape_time": "2025-09-12 10:39:39",
+    "level2_scrape_time": "2025-09-12 10:40:12"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "U22国足10-0大胜，两连胜仍受质疑",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:04:45"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "王钰栋半场7球，国足10-0大胜，两连胜仍受质疑",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11026934801276575118",
+      "time": "9月8日 18:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "莫斯科斯巴达女足3-0大胜苏维埃之翼女足",
+      "link": "http://m.dongqiudi.com/article/5359921.html",
+      "time": "9月7日 22:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U22国足半场换上王钰栋、杨希,换下陈哲宣、鲍世蒙",
+      "link": "http://www.163.com/dy/article/K8Q5CEN60529AQIE.html",
+      "time": "9月6日 20:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "王钰栋与杨希替补登场,U22国足能否逆转北马里亚纳群岛?",
+      "link": "http://www.sohu.com/a/932498237_121894857",
+      "time": "9月6日 20:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "U22国足关键战大连三将首发，安东尼奥调整阵容",
+      "link": "http://cj.sina.com.cn/articles/view/1371631875/p51c17103027019cyq",
+      "time": "9月6日 19:32",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 15:05:00"
+}

@@ -1,0 +1,132 @@
+{
+  "core_info": {
+    "core_event_name": "奔驰纯电GLC发布",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:54:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "将安全性能进行到底 奔驰GLC实车发布",
+      "link": "http://www.autohome.com.cn/dealer/202509/1418390562.html",
+      "time": "昨天 14:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "曝全新纯电奔驰GLC配94kWh模块化电池",
+      "link": "http://news.mydrivers.com/1/1073/1073412.htm",
+      "time": "9月9日 15:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "奔驰电动GLC亮相慕尼黑国际车展",
+      "link": "http://www.pcauto.com.cn/hj/article/3053253.html",
+      "time": "9月9日 02:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "奔驰纯电GLC SUV发布，2026年国产加长版上市并推出6座",
+      "link": "http://auto.jrj.com.cn/2025/09/08170252996251.shtml",
+      "time": "9月8日 17:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "奔驰全新纯电GLC SUV 39.1英寸超联屏上演千里江山图",
+      "link": "http://baijiahao.baidu.com/s?id=1842679022486513675&wfr=spider&for=pc",
+      "time": "9月8日 15:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "全新奔驰纯电GLC首发，国产长轴距版明年上市",
+      "link": "http://car.southcn.com/node_37aef5c8b5/fa0e14d915.shtml",
+      "time": "9月8日 11:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "2025慕尼黑车展:奔驰纯电GLC全球首发",
+      "link": "http://auto.sina.cn/newcar/2025-09-08/detail-infptvct4798107.d.html",
+      "time": "9月8日 09:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "奔驰纯电GLC设计引争议,被指逊色宝马iX3",
+      "link": "http://cj.sina.com.cn/articles/view/5498415038/p147bb27be027019c26",
+      "time": "9月8日 08:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "奔驰GLC EV发布,800V架构续航超700km",
+      "link": "http://cj.sina.com.cn/articles/view/1192966660/p471b3a04027017c2k",
+      "time": "9月8日 08:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "奔驰纯电GLC全球首发",
+      "link": "http://www.d1ev.com/newsflash/274326",
+      "time": "9月8日 07:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "全新梅赛德斯-奔驰纯电 GLC 全球首发",
+      "link": "http://baijiahao.baidu.com/s?id=1842648915133198403&wfr=spider&for=pc",
+      "time": "9月8日 07:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "全新奔驰纯电GLC将全球首发",
+      "link": "http://www.pcauto.com.cn/hj/article/3051648.html",
+      "time": "9月6日 22:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "GLC EV官图发布",
+      "link": "http://www.163.com/dy/article/K8P70PU50553W1VY.html",
+      "time": "9月6日 11:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "全新奔驰GLC EV官图曝光",
+      "link": "http://baijiahao.baidu.com/s?id=1842483469363697466&wfr=spider&for=pc",
+      "time": "9月6日 11:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "奔驰史上最大中控屏!全新GLC EV内饰官图发布:满眼全是屏",
+      "link": "http://baijiahao.baidu.com/s?id=1842435825814481655&wfr=spider&for=pc",
+      "time": "9月5日 22:48",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 15,
+  "scrape_time": "2025-09-12 14:54:46"
+}

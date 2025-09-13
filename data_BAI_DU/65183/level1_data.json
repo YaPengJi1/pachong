@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "惊雷-1亮相",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:51:48"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "东风61震撼阅兵撑起核保护伞，惊雷-1空射导弹颠覆反导规则",
+      "link": "http://www.163.com/dy/article/K8P61R1T0553RVN3.html",
+      "time": "9月6日 11:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "“惊雷-1”首次亮相!它到底有多牛?",
+      "link": "http://news.sina.com.cn/c/2025-09-04/doc-infpkany3136318.shtml",
+      "time": "9月4日 19:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "空中重锤惊雷-1登场，全球唯一空射高超音速核导弹震撼亮相",
+      "link": "http://cj.sina.com.cn/articles/view/7295052889/1b2d1ac590200187p6",
+      "time": "9月4日 10:58",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 19:52:02"
+}

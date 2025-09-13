@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普罕见“祝福中国”",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:31:37"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普罕见祝福中国",
+      "link": "http://www.163.com/dy/article/K8MDFOGA05520E43.html",
+      "time": "9月5日 10:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国阅兵震动全球,特朗普罕见“祝福”,美军方却私下急求通话",
+      "link": "http://www.163.com/dy/article/K8KKA42A05568JUO.html",
+      "time": "9月4日 17:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普承认看了阅兵",
+      "link": "http://baijiahao.baidu.com/s?id=1842318768401151383&wfr=spider&for=pc",
+      "time": "9月4日 15:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国阅兵后,特朗普发文",
+      "link": "http://baijiahao.baidu.com/s?id=1842254459762338341&wfr=spider&for=pc",
+      "time": "9月3日 17:13",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 18:31:51"
+}

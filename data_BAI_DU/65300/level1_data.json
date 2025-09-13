@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "国务院印发文件推动人工智能发展",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:53:08"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "人工智能再迎利好,相关政策不断出台",
+      "link": "http://stock.hexun.com/2025-09-11/221304389.html",
+      "time": "昨天 19:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "国务院印发意见——人工智能重磅利好",
+      "link": "http://www.163.com/dy/article/K90LJKC90529CRJI.html",
+      "time": "9月10日 18:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "政策与技术双驱动,加速工业具身智能规模化应用",
+      "link": "http://baijiahao.baidu.com/s?id=1842474076563592275&wfr=spider&for=pc",
+      "time": "9月6日 08:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "邬贺铨:人工智能+行动加速产业智能体落地应用",
+      "link": "http://www.ce.cn/cysc/tech/gd2012/202509/t20250905_2465299.shtml",
+      "time": "9月5日 09:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "国务院印发《关于深入实施“人工智能+”行动的意见》",
+      "link": "http://baijiahao.baidu.com/s?id=1842230796265126850&wfr=spider&for=pc",
+      "time": "9月3日 16:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "国务院重磅文件发布，研学行业迎来“人工智能+”新机遇",
+      "link": "http://www.163.com/dy/article/K8HPK4R10524RN79.html",
+      "time": "9月3日 14:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "长城基金刘疆解读人工智能+",
+      "link": "http://www.163.com/dy/article/K8EP5R6K055696KT.html",
+      "time": "9月2日 10:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "国务院:深入实施“人工智能+”行动 事关就业",
+      "link": "http://www.sohu.com/a/930779404_121614400",
+      "time": "9月1日 17:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "提出六大行动!“人工智能+”重磅文件出台",
+      "link": "http://www.163.com/dy/article/K8C5QAPT0550B6IS.html",
+      "time": "9月1日 10:24",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 21:53:22"
+}

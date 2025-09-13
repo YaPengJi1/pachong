@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "U23国足大胜澳大利亚",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:36:33"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国队0-0平澳大利亚，7分11个净胜球小组第二出线",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10926976387212505350",
+      "time": "9月10日 10:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U22国足0-0澳大利亚，晋级亚洲杯",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7631228490509089385",
+      "time": "9月9日 22:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U23国足平局线考验安东尼奥",
+      "link": "http://www.163.com/dy/article/K8U7G0C60556DPBH.html",
+      "time": "9月8日 10:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22国足10-0胜北马里亚纳群岛队",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8513342972476643309",
+      "time": "9月6日 22:40",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 10:36:47"
+}

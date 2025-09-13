@@ -1,0 +1,46 @@
+{
+  "core_event_name": "特朗普针对印度的战略调整",
+  "comments": [
+    {
+      "event_title": "美国对印度挑衅，特朗普集中火力对付印度",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250909V068YS00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:27:16",
+      "event_time": "9月9日 16:43"
+    },
+    {
+      "event_title": "中俄印靠拢,俄印为何不买账美国?特朗普承认:把俄印输给了中国",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10597651127477289038",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:27:18",
+      "event_time": "9月6日 18:48"
+    },
+    {
+      "event_title": "特朗普称:我们好像把俄罗斯和印度输给了中国",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=1010768062156980941",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:27:20",
+      "event_time": "9月6日 16:36"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 11:27:20"
+}

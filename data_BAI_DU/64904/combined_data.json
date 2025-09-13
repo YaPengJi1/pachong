@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:11:27"
+  },
+  "core_event": {
+    "core_event_name": "深圳新房供应收缩，二手房成交上涨",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:10:57"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "深圳二手房市场持续活跃 2025年前8月成交创近五年新高",
+      "link": "http://www.163.com/dy/article/K8KE2QK80534SX5N.html",
+      "time": "9月4日 15:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "深圳新房供应收缩,二手房成交同比上涨16.07%",
+      "link": "http://36kr.com/p/3448957401453953",
+      "time": "9月2日 10:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "首8月新盘成交按年升3成",
+      "link": "http://weibo.com/1961685957/Q2B3k8c82",
+      "time": "9月1日 22:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "深圳楼市8月观察:新房供应腰斩库存积压 二手房现回暖信号",
+      "link": "http://news.fang.com/open/53440123.html",
+      "time": "9月1日 14:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "8月二手房成交同比转增,新房仍跌",
+      "link": "http://m.jrj.com.cn/madapter/finance/2025/08/31132752833008.shtml",
+      "time": "8月31日 13:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "8月深圳楼市表现分化",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "深圳二手房市场持续活跃 2025年前8月成交创近五年新高",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8KE2QK80534SX5N.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:11:12",
+      "event_time": "9月4日 15:22"
+    },
+    {
+      "event_title": "深圳新房供应收缩,二手房成交同比上涨16.07%",
+      "event_id": "event_2",
+      "event_url": "http://36kr.com/p/3448957401453953",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:11:14",
+      "event_time": "9月2日 10:30"
+    },
+    {
+      "event_title": "首8月新盘成交按年升3成",
+      "event_id": "event_3",
+      "event_url": "http://weibo.com/1961685957/Q2B3k8c82",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:11:16",
+      "event_time": "9月1日 22:15"
+    },
+    {
+      "event_title": "深圳楼市8月观察:新房供应腰斩库存积压 二手房现回暖信号",
+      "event_id": "event_4",
+      "event_url": "http://news.fang.com/open/53440123.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:11:18",
+      "event_time": "9月1日 14:02"
+    },
+    {
+      "event_title": "8月二手房成交同比转增,新房仍跌",
+      "event_id": "event_5",
+      "event_url": "http://m.jrj.com.cn/madapter/finance/2025/08/31132752833008.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:11:20",
+      "event_time": "8月31日 13:27"
+    },
+    {
+      "event_title": "8月深圳楼市表现分化",
+      "event_id": "event_6",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:11:23",
+      "event_time": "1970年"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 17:11:11",
+    "level2_scrape_time": "2025-09-12 17:11:23"
+  }
+}

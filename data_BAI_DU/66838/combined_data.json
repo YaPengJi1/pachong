@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:20:09"
+  },
+  "core_event": {
+    "core_event_name": "苹果官网发布iPhone Air",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:19:45"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "苹果“史上最薄”iPhone Air 手机发布,厚度仅为5.6mm",
+      "link": "http://www.163.com/dy/article/K936NARL053469LG.html",
+      "time": "9月10日 09:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "国内首款eSIM手机! iPhone Air国行确认仅支持中国联通eSIM",
+      "link": "http://new.qq.com/rain/a/20250910V011BD00",
+      "time": "9月10日 05:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "苹果官网:iPhone Air 手机当前仅支持中国联通 eSIM 服务",
+      "link": "http://www.ithome.com/0/881/687.htm",
+      "time": "9月10日 02:31",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "苹果“史上最薄”iPhone Air 手机发布,厚度仅为5.6mm",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K936NARL053469LG.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:20:00",
+      "event_time": "9月10日 09:02"
+    },
+    {
+      "event_title": "国内首款eSIM手机! iPhone Air国行确认仅支持中国联通eSIM",
+      "event_id": "event_2",
+      "event_url": "http://new.qq.com/rain/a/20250910V011BD00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:20:03",
+      "event_time": "9月10日 05:27"
+    },
+    {
+      "event_title": "苹果官网:iPhone Air 手机当前仅支持中国联通 eSIM 服务",
+      "event_id": "event_3",
+      "event_url": "http://www.ithome.com/0/881/687.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:20:05",
+      "event_time": "9月10日 02:31"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 10:19:59",
+    "level2_scrape_time": "2025-09-12 10:20:05"
+  }
+}

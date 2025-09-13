@@ -1,0 +1,156 @@
+{
+  "core_info": {
+    "core_event_name": "高德扫街榜上线",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:41:00"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "蔡跃洲:高德扫街榜反映出平台公司承担社会责任的主动性",
+      "link": "http://baijiahao.baidu.com/s?id=1842942348282680129&wfr=spider&for=pc",
+      "time": "昨天 11:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "高德地图全球首推“扫街榜”",
+      "link": "http://baijiahao.baidu.com/s?id=1842936970531054196&wfr=spider&for=pc",
+      "time": "昨天 08:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "阿里巴巴推出“高德扫街榜”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8049367582397680703",
+      "time": "昨天 08:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "高德以真实导航行为重塑餐饮评价维度",
+      "link": "http://ah.anhuinews.com/gdxw/202509/t20250911_8772807.html",
+      "time": "昨天 06:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "对标美团,阿里砸10亿补贴推“高德扫街榜”",
+      "link": "http://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=980581&sid=11",
+      "time": "昨天 06:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "高德扫街榜用AI重构榜单评价体系,将辐射飞猪等更多应用",
+      "link": "http://www.163.com/dy/article/K94QDEJ505129QAF.html",
+      "time": "昨天 00:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "高德推出“扫街榜” 让更多线下店被看见",
+      "link": "http://baijiahao.baidu.com/s?id=1842882016747442890&wfr=spider&for=pc",
+      "time": "9月10日 21:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "高德“扫街榜”上线:用户轨迹与信用数据被滥用,合规成最大考验",
+      "link": "http://baijiahao.baidu.com/s?id=1842877014216041698&wfr=spider&for=pc",
+      "time": "9月10日 19:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "阿里再战美团:高德推出“扫街榜”直指大众点评",
+      "link": "http://baijiahao.baidu.com/s?id=1842875097433296954&wfr=spider&for=pc",
+      "time": "9月10日 19:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "阿里出手了!高德扫街榜带2亿补贴,消费者再也不怕踩坑了!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15623831556772236407",
+      "time": "9月10日 18:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "阿里砸10亿补贴推“高德扫街榜”",
+      "link": "http://baijiahao.baidu.com/s?id=1842869623984716419&wfr=spider&for=pc",
+      "time": "9月10日 17:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "阿里美团激战升级!高德10亿补贴杀入“到店”榜单,点评“重启”品质外卖",
+      "link": "http://baijiahao.baidu.com/s?id=1842864278067801561&wfr=spider&for=pc",
+      "time": "9月10日 16:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "生活服务榜单“高德扫街榜”上线",
+      "link": "http://baijiahao.baidu.com/s?id=1842862370169175094&wfr=spider&for=pc",
+      "time": "9月10日 15:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "高德推出扫街榜 用真实到店给传统美食榜单“挤水分”",
+      "link": "http://m.jrj.com.cn/madapter/finance/2025/09/10145753045863.shtml",
+      "time": "9月10日 14:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "高德扫街榜推出 用真实到店给传统美食榜单“挤水分”",
+      "link": "http://tech.huanqiu.com/article/4OGcdbGFVYN",
+      "time": "9月10日 14:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "高德扫街榜全新发布 将发放超10亿补贴支持烟火好店",
+      "link": "http://weibo.com/2000016880/Q3Tb9gEz1",
+      "time": "9月10日 10:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "高德扫街榜发布会即将召开",
+      "link": "http://finance.sina.cn/2025-09-10/detail-infpyiiq4434900.d.html",
+      "time": "9月10日 09:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "哈尔滨文旅与餐饮再添新助力",
+      "link": "http://www.my399.com/2025/09-10/eryLa3y1.html",
+      "time": "9月10日 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 18,
+  "scrape_time": "2025-09-12 10:41:45"
+}

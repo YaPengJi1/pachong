@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "美网女单四强出炉",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:28:14"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美网：大坂直美重返女单四强",
+      "link": "http://baijiahao.baidu.com/s?id=1842327458544833404&wfr=spider&for=pc",
+      "time": "9月4日 18:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美网女单四强:阿尼西莫娃和大阪直美的精彩晋级之路!",
+      "link": "http://www.sohu.com/a/931783450_122001006",
+      "time": "9月4日 12:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美网四强出炉，大阪直美横扫晋级",
+      "link": "http://www.bilibili.com/video/BV1QPayzgEV1",
+      "time": "9月4日 10:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "2025美网女单四强出炉",
+      "link": "http://baijiahao.baidu.com/s?id=1842298828359109406&wfr=spider&for=pc",
+      "time": "9月4日 10:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美网女单四强出炉",
+      "link": "http://www.sohu.com/a/931666112_121251139",
+      "time": "9月4日 07:41",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 02:28:29"
+}

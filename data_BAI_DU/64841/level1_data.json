@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "申京力压约基奇拿下比赛",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:45:15"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "火龙之战，申京力压约基奇拿下这局",
+      "link": "http://weibo.com/5508233899/Q2XEkDIwA",
+      "time": "9月4日 07:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "大小约基奇对决!申京完胜约老师,火箭送走杰伦格林是对的",
+      "link": "http://www.163.com/dy/article/K8JIJPA105566S2A.html",
+      "time": "9月4日 07:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "申京面对约基奇里突外投连得5分,个人已得20分",
+      "link": "http://m.hupu.com/bbs/634688999.html",
+      "time": "9月4日 03:36",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 17:45:29"
+}

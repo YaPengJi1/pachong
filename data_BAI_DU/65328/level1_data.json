@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "小鹏G6与尚界H5上市",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:16:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "小鹏G6的预售价格定为22.5万元,相较于同级别的其他车型,如Y,其预售价格低了4万",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4007721297202864647",
+      "time": "9月5日 02:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "8月蔚来放大招，尚界H5蓄势待发",
+      "link": "http://news.m.yiche.com/hao/wenzhang/103302585/",
+      "time": "9月2日 12:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "华为联手上汽打造的尚界H5申报图来袭!9月上市",
+      "link": "http://baijiahao.baidu.com/s?id=1842043581600523060&wfr=spider&for=pc",
+      "time": "9月1日 14:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "尚界H5预售开启,小鹏G6迎来新挑战",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 22:17:06"
+}

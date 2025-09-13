@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 23:04:55"
+  },
+  "core_event": {
+    "core_event_name": "U22国足菜到让宋凯“慌了”",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:04:09"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "记者观察:比业余更“菜”的是态度!U22男足踢的一盘散沙",
+      "link": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001tc1u",
+      "time": "9月6日 22:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U22国足菜到让宋凯“慌了”，安东尼奥跌落神坛",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5425728281911578267",
+      "time": "9月6日 17:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U22国足没表现出能力与教练有关",
+      "link": "http://k.sina.cn/article_2018499075_784fda0302002hhk2.html",
+      "time": "9月5日 11:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "记者：国足实力还行的时候热身也是踢飞的多",
+      "link": "http://www.dongqiudi.com/articles/5353991.html",
+      "time": "9月4日 16:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "黄健翔谈U22男足基本功差:练得不苦不狠,孩子太少没得选",
+      "link": "http://www.dongqiudi.com/articles/5353585.html",
+      "time": "9月4日 11:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "津媒:U22国足除了胜利毫无亮点,攻守均不成型需摆正自身位置",
+      "link": "http://k.sina.com.cn/article_2018499075_784fda0302002hfpu.html",
+      "time": "9月4日 08:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "U22国足2-1东帝汶",
+      "link": "http://baijiahao.baidu.com/s?id=1842258602615487064&wfr=spider&for=pc",
+      "time": "9月3日 23:51",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "记者观察:比业余更“菜”的是态度!U22男足踢的一盘散沙",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001tc1u",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:04:24",
+      "event_time": "9月6日 22:51"
+    },
+    {
+      "event_title": "U22国足菜到让宋凯“慌了”，安东尼奥跌落神坛",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5425728281911578267",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:04:26",
+      "event_time": "9月6日 17:02"
+    },
+    {
+      "event_title": "U22国足没表现出能力与教练有关",
+      "event_id": "event_3",
+      "event_url": "http://k.sina.cn/article_2018499075_784fda0302002hhk2.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:04:28",
+      "event_time": "9月5日 11:00"
+    },
+    {
+      "event_title": "记者：国足实力还行的时候热身也是踢飞的多",
+      "event_id": "event_4",
+      "event_url": "http://www.dongqiudi.com/articles/5353991.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:04:30",
+      "event_time": "9月4日 16:57"
+    },
+    {
+      "event_title": "黄健翔谈U22男足基本功差:练得不苦不狠,孩子太少没得选",
+      "event_id": "event_5",
+      "event_url": "http://www.dongqiudi.com/articles/5353585.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:04:32",
+      "event_time": "9月4日 11:15"
+    },
+    {
+      "event_title": "津媒:U22国足除了胜利毫无亮点,攻守均不成型需摆正自身位置",
+      "event_id": "event_6",
+      "event_url": "http://k.sina.com.cn/article_2018499075_784fda0302002hfpu.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:04:34",
+      "event_time": "9月4日 08:25"
+    },
+    {
+      "event_title": "U22国足2-1东帝汶",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842258602615487064&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:04:51",
+      "event_time": "9月3日 23:51"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 23:04:23",
+    "level2_scrape_time": "2025-09-12 23:04:51"
+  }
+}

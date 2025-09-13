@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "安徽暴雨",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:31:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "最低19℃?大雨暴雨,抵达安徽!真降温了",
+      "link": "http://m.gmw.cn/2025-09/07/content_1304138185.htm",
+      "time": "9月7日 09:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "大雨暴雨大暴雨!安徽将连下7天雨",
+      "link": "http://m.gmw.cn/2025-09/07/content_1304138179.htm",
+      "time": "9月7日 09:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "安徽将迎大雨、暴雨、8级雷暴大风",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmkhp7811317.d.html",
+      "time": "9月5日 11:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "大雨、暴雨!安徽多地受影响",
+      "link": "http://m.gmw.cn/2025-09/01/content_1304132789.htm",
+      "time": "9月1日 20:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "安徽发布暴雨预警!局部大到暴雨,最低气温跌至20℃!",
+      "link": "http://www.sohu.com/a/930345965_121976704",
+      "time": "8月31日 08:56",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 01:31:45"
+}

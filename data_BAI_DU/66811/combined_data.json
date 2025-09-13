@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 09:53:34"
+  },
+  "core_event": {
+    "core_event_name": "吴艳妮压线晋级东京奥运会",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:52:51"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "吴艳妮压线晋级东京世锦赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842736170660061448&wfr=spider&for=pc",
+      "time": "9月9日 06:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "吴艳妮入围世锦赛，中国田径队出征",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1865202544681166868",
+      "time": "9月7日 13:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "吴艳妮压线晋级世锦赛",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7230468154313321731",
+      "time": "9月6日 16:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "吴艳妮回应压线晋级东京世锦赛：欧美选手能跑的成绩，我也可以跑",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31552131",
+      "time": "9月6日 11:38",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "吴艳妮压线晋级东京世锦赛",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842736170660061448&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "芷芷爱吃pizza",
+      "comment_time": "09-09 06:46",
+      "comment_content": "吴艳妮太燃了！十年空白就这样填补，带伤坚持真不易。东京冲起来，期待新纪录！",
+      "user_location": "四川",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:53:24",
+      "event_time": "9月9日 06:22"
+    },
+    {
+      "event_title": "吴艳妮入围世锦赛，中国田径队出征",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=1865202544681166868",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:53:26",
+      "event_time": "9月7日 13:07"
+    },
+    {
+      "event_title": "吴艳妮压线晋级世锦赛",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7230468154313321731",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:53:28",
+      "event_time": "9月6日 16:23"
+    },
+    {
+      "event_title": "吴艳妮回应压线晋级东京世锦赛：欧美选手能跑的成绩，我也可以跑",
+      "event_id": "event_4",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31552131",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:53:30",
+      "event_time": "9月6日 11:38"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 09:53:05",
+    "level2_scrape_time": "2025-09-12 09:53:30"
+  }
+}

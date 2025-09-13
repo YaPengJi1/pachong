@@ -1,0 +1,256 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:27:10"
+  },
+  "core_event": {
+    "core_event_name": "川超赛制正式发布",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:25:17"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "“川超”来了!演员李国麟、歌手江映蓉、方言博主江逸发布会现场助威",
+      "link": "http://baijiahao.baidu.com/s?id=1842434159598950907&wfr=spider&for=pc",
+      "time": "9月5日 22:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "“川超”9月20日开幕!这场赛前发布会重磅“揭秘”",
+      "link": "http://baijiahao.baidu.com/s?id=1842434693231688390&wfr=spider&for=pc",
+      "time": "9月5日 21:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "“川超”广元代表队大名单公布",
+      "link": "http://baijiahao.baidu.com/s?id=1842429127059122387&wfr=spider&for=pc",
+      "time": "9月5日 20:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "“川超”来了!21支球队集结角逐巅峰",
+      "link": "http://baijiahao.baidu.com/s?id=1842425853619898641&wfr=spider&for=pc",
+      "time": "9月5日 20:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "“川超”赛制正式发布:跨年举行,全民参与,9月20日开赛!",
+      "link": "http://www.nbd.com.cn/articles/2025-09-05/4050753.html",
+      "time": "9月5日 20:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "首届“川超”9月20日揭幕 球队分组正式揭晓",
+      "link": "http://baijiahao.baidu.com/s?id=1842418493292828851&wfr=spider&for=pc",
+      "time": "9月5日 18:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "“川超”来了!揭幕战计划于9月20日打响",
+      "link": "http://www.chinanews.com.cn/ty/2025/09-05/10477300.shtml",
+      "time": "9月5日 17:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "“川超”來了!9月20日揭幕战,成都队落位东区",
+      "link": "http://sc.people.com.cn/BIG5/n2/2025/0905/c345509-41343023.html",
+      "time": "9月5日 15:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "川超宜宾队阵容首次公开",
+      "link": "http://www.163.com/dy/article/K8KHSO220525AIE7.html",
+      "time": "9月4日 16:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "“川超”成都队50人大名单出炉",
+      "link": "http://www.sohu.com/a/931225616_162758",
+      "time": "9月2日 19:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "“川超”成都队,50人大名单出炉!最大37岁,最小18岁",
+      "link": "http://www.163.com/dy/article/K8FKH0RG05149D15.html",
+      "time": "9月2日 18:39",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "“川超”来了!演员李国麟、歌手江映蓉、方言博主江逸发布会现场助威",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842434159598950907&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:25:50",
+      "event_time": "9月5日 22:21"
+    },
+    {
+      "event_title": "“川超”9月20日开幕!这场赛前发布会重磅“揭秘”",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842434693231688390&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:26:05",
+      "event_time": "9月5日 21:25"
+    },
+    {
+      "event_title": "“川超”广元代表队大名单公布",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842429127059122387&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:26:21",
+      "event_time": "9月5日 20:32"
+    },
+    {
+      "event_title": "“川超”来了!21支球队集结角逐巅峰",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842425853619898641&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:26:37",
+      "event_time": "9月5日 20:09"
+    },
+    {
+      "event_title": "“川超”赛制正式发布:跨年举行,全民参与,9月20日开赛!",
+      "event_id": "event_5",
+      "event_url": "http://www.nbd.com.cn/articles/2025-09-05/4050753.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:26:39",
+      "event_time": "9月5日 20:07"
+    },
+    {
+      "event_title": "首届“川超”9月20日揭幕 球队分组正式揭晓",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842418493292828851&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:26:55",
+      "event_time": "9月5日 18:12"
+    },
+    {
+      "event_title": "“川超”来了!揭幕战计划于9月20日打响",
+      "event_id": "event_7",
+      "event_url": "http://www.chinanews.com.cn/ty/2025/09-05/10477300.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:26:57",
+      "event_time": "9月5日 17:17"
+    },
+    {
+      "event_title": "“川超”來了!9月20日揭幕战,成都队落位东区",
+      "event_id": "event_8",
+      "event_url": "http://sc.people.com.cn/BIG5/n2/2025/0905/c345509-41343023.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:26:59",
+      "event_time": "9月5日 15:57"
+    },
+    {
+      "event_title": "川超宜宾队阵容首次公开",
+      "event_id": "event_9",
+      "event_url": "http://www.163.com/dy/article/K8KHSO220525AIE7.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:27:01",
+      "event_time": "9月4日 16:29"
+    },
+    {
+      "event_title": "“川超”成都队50人大名单出炉",
+      "event_id": "event_10",
+      "event_url": "http://www.sohu.com/a/931225616_162758",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:27:03",
+      "event_time": "9月2日 19:25"
+    },
+    {
+      "event_title": "“川超”成都队,50人大名单出炉!最大37岁,最小18岁",
+      "event_id": "event_11",
+      "event_url": "http://www.163.com/dy/article/K8FKH0RG05149D15.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:27:05",
+      "event_time": "9月2日 18:39"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 11,
+    "total_comments": 11,
+    "events_with_comments": 11,
+    "level1_scrape_time": "2025-09-12 14:25:31",
+    "level2_scrape_time": "2025-09-12 14:27:05"
+  }
+}

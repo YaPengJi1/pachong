@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:09:09"
+  },
+  "core_event": {
+    "core_event_name": "纪念抗战胜利大会引发反响",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:08:41"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会引发热烈反响",
+      "link": "http://tv.cctv.com/2025/09/06/VIDEPCuejg1HJ6Bwsz3jHVO5250906.shtml",
+      "time": "9月6日 19:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会引发我市各界热烈反响",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31542800",
+      "time": "9月5日 11:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "习近平总书记重要讲话在我市干部群众中引发热烈反响",
+      "link": "http://news.dongyingnews.cn/system/2025/09/05/010876075.shtml",
+      "time": "9月5日 08:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "习近平总书记重要讲话在我省引发强烈反响",
+      "link": "http://weibo.com/5384625531/Q2YIEp25Y",
+      "time": "9月4日 10:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会在京隆重举行 习近平发表重要讲话并检阅受阅部队",
+      "link": "http://www.fmprc.gov.cn/wjb_673085/zzjg_673183/xws_674681/xgxw_674683/202509/t20250903_11701214.shtml",
+      "time": "9月3日 15:05",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会引发热烈反响",
+      "event_id": "event_1",
+      "event_url": "http://tv.cctv.com/2025/09/06/VIDEPCuejg1HJ6Bwsz3jHVO5250906.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:08:57",
+      "event_time": "9月6日 19:48"
+    },
+    {
+      "event_title": "纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会引发我市各界热烈反响",
+      "event_id": "event_2",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31542800",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:08:59",
+      "event_time": "9月5日 11:30"
+    },
+    {
+      "event_title": "习近平总书记重要讲话在我市干部群众中引发热烈反响",
+      "event_id": "event_3",
+      "event_url": "http://news.dongyingnews.cn/system/2025/09/05/010876075.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:09:01",
+      "event_time": "9月5日 08:57"
+    },
+    {
+      "event_title": "习近平总书记重要讲话在我省引发强烈反响",
+      "event_id": "event_4",
+      "event_url": "http://weibo.com/5384625531/Q2YIEp25Y",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:09:03",
+      "event_time": "9月4日 10:30"
+    },
+    {
+      "event_title": "纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会在京隆重举行 习近平发表重要讲话并检阅受阅部队",
+      "event_id": "event_5",
+      "event_url": "http://www.fmprc.gov.cn/wjb_673085/zzjg_673183/xws_674681/xgxw_674683/202509/t20250903_11701214.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:09:05",
+      "event_time": "9月3日 15:05"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 17:08:55",
+    "level2_scrape_time": "2025-09-12 17:09:05"
+  }
+}

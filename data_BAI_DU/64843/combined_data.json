@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:47:16"
+  },
+  "core_event": {
+    "core_event_name": "萨巴伦卡美网连胜之路",
+    "update_time": "更新至20250903",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:46:37"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "萨巴伦卡进美网四强",
+      "link": "http://www.titan24.com/literalLive/2025/09/03/567867/os_quick.html",
+      "time": "9月3日 08:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美网赛场冷门频出:两位大满贯得主与四名种子选手遭淘汰,萨巴伦卡艰难过关",
+      "link": "http://baijiahao.baidu.com/s?id=1841897109039188122&wfr=spider&for=pc",
+      "time": "8月31日 00:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美网:世界第一萨巴伦卡2-0复仇前赛会亚军 十连胜连5年进16强",
+      "link": "http://k.sina.com.cn/article_5664305023_1519e6f7f00101tm40.html",
+      "time": "8月30日 14:31",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "萨巴伦卡进美网四强",
+      "event_id": "event_1",
+      "event_url": "http://www.titan24.com/literalLive/2025/09/03/567867/os_quick.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:46:53",
+      "event_time": "9月3日 08:25"
+    },
+    {
+      "event_title": "美网赛场冷门频出:两位大满贯得主与四名种子选手遭淘汰,萨巴伦卡艰难过关",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841897109039188122&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "琦梓韩馀kV",
+      "comment_time": "08-31 16:28",
+      "comment_content": "琦梓韩馀kV08-31 16:28湖北举报回复3",
+      "user_location": "湖北",
+      "like_count": 3,
+      "scrape_time": "2025-09-12 17:47:10",
+      "event_time": "8月31日 00:06"
+    },
+    {
+      "event_title": "美网赛场冷门频出:两位大满贯得主与四名种子选手遭淘汰,萨巴伦卡艰难过关",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841897109039188122&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "地上rapper",
+      "comment_time": "08-31 20:54",
+      "comment_content": "Yo! 美网热浪翻，冷门炸弹炸翻天，",
+      "user_location": "",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 17:47:10",
+      "event_time": "8月31日 00:06"
+    },
+    {
+      "event_title": "美网:世界第一萨巴伦卡2-0复仇前赛会亚军 十连胜连5年进16强",
+      "event_id": "event_3",
+      "event_url": "http://k.sina.com.cn/article_5664305023_1519e6f7f00101tm40.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:47:12",
+      "event_time": "8月30日 14:31"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 4,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 17:46:52",
+    "level2_scrape_time": "2025-09-12 17:47:12"
+  }
+}

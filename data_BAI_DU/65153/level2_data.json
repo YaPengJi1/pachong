@@ -1,0 +1,46 @@
+{
+  "core_event_name": "锂电池板块爆发",
+  "comments": [
+    {
+      "event_title": "新能源板块集体爆发，固态电池领涨",
+      "event_id": "event_1",
+      "event_url": "http://stock.hexun.com/2025-09-06/221241367.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:15:47",
+      "event_time": "9月6日 11:30"
+    },
+    {
+      "event_title": "锂电板块业绩显著改善，固态电池迎来多重利好",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842408237363230528&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "游戏狂魔费启鸣",
+      "comment_time": "09-05 19:14",
+      "comment_content": "内容不错，期待更多哦！",
+      "user_location": "河南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:16:05",
+      "event_time": "9月5日 15:27"
+    },
+    {
+      "event_title": "固态电池爆火,锂电池板块集体爆发,锂电池ETF涨超4%",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.cn/2025-09-05/detail-infpmcyp0982606.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:16:07",
+      "event_time": "9月5日 10:03"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 19:16:07"
+}

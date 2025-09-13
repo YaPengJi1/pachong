@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:21:49"
+  },
+  "core_event": {
+    "core_event_name": "2025年“最美教师”名单公布",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:21:21"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "2025年度全省教书育人楷模名单公布",
+      "link": "http://ah.anhuinews.com/szxw/202509/t20250911_8774394.html",
+      "time": "昨天 15:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "保定学院毕业生赴疆任教群体代表入选2025年全国“最美教师”",
+      "link": "http://new.qq.com/rain/a/20250911A01W7000",
+      "time": "昨天 09:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中央宣传部 教育部联合发布2025年“最美教师”",
+      "link": "http://news.cctv.com/2025/09/10/ARTI8zxhvvre54Fh5VwjAACv250910.shtml",
+      "time": "9月10日 19:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "2025年“最美教师”名单公布",
+      "link": "http://news.dayoo.com/gzrbrmt/202509/10/170628_54870955.htm",
+      "time": "9月10日 09:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "西南交大翟婉明院士获评2025“最美教师”",
+      "link": "http://sichuan.scol.com.cn/ggxw/202509/83116675.html",
+      "time": "9月10日 01:03",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "2025年度全省教书育人楷模名单公布",
+      "event_id": "event_1",
+      "event_url": "http://ah.anhuinews.com/szxw/202509/t20250911_8774394.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:21:37",
+      "event_time": "昨天 15:59"
+    },
+    {
+      "event_title": "保定学院毕业生赴疆任教群体代表入选2025年全国“最美教师”",
+      "event_id": "event_2",
+      "event_url": "http://new.qq.com/rain/a/20250911A01W7000",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:21:39",
+      "event_time": "昨天 09:05"
+    },
+    {
+      "event_title": "中央宣传部 教育部联合发布2025年“最美教师”",
+      "event_id": "event_3",
+      "event_url": "http://news.cctv.com/2025/09/10/ARTI8zxhvvre54Fh5VwjAACv250910.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:21:41",
+      "event_time": "9月10日 19:34"
+    },
+    {
+      "event_title": "2025年“最美教师”名单公布",
+      "event_id": "event_4",
+      "event_url": "http://news.dayoo.com/gzrbrmt/202509/10/170628_54870955.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:21:43",
+      "event_time": "9月10日 09:39"
+    },
+    {
+      "event_title": "西南交大翟婉明院士获评2025“最美教师”",
+      "event_id": "event_5",
+      "event_url": "http://sichuan.scol.com.cn/ggxw/202509/83116675.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:21:45",
+      "event_time": "9月10日 01:03"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 11:21:36",
+    "level2_scrape_time": "2025-09-12 11:21:45"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:16:39"
+  },
+  "core_event": {
+    "core_event_name": "暑期档电影市场复盘",
+    "update_time": "更新至20250902",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:15:58"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "暑期档动画电影:24部新片近30亿票房,二维动画大放异彩",
+      "link": "http://www.sohu.com/a/931253949_161795",
+      "time": "9月2日 21:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "2025电影暑期档圆满收官 观众与市场双向奔赴",
+      "link": "http://tv.cctv.com/2025/09/02/VIDEtokmpUeeDNdSBEpRhUPJ250902.shtml",
+      "time": "9月2日 13:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "暑期档收官!百部电影百亿票房,最心动角色竟是王一博杨幂演绎的",
+      "link": "http://baijiahao.baidu.com/s?id=1842066691007320816&wfr=spider&for=pc",
+      "time": "9月1日 21:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "暑期档电影市场复盘:大起大落,下半场守住了体面",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b4fbdd7f780bd319000000",
+      "time": "9月1日 11:15",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "暑期档动画电影:24部新片近30亿票房,二维动画大放异彩",
+      "event_id": "event_1",
+      "event_url": "http://www.sohu.com/a/931253949_161795",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:16:14",
+      "event_time": "9月2日 21:19"
+    },
+    {
+      "event_title": "2025电影暑期档圆满收官 观众与市场双向奔赴",
+      "event_id": "event_2",
+      "event_url": "http://tv.cctv.com/2025/09/02/VIDEtokmpUeeDNdSBEpRhUPJ250902.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:16:16",
+      "event_time": "9月2日 13:31"
+    },
+    {
+      "event_title": "暑期档收官!百部电影百亿票房,最心动角色竟是王一博杨幂演绎的",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842066691007320816&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "罗志祥跳舞中",
+      "comment_time": "09-01 21:13",
+      "comment_content": "暑期档收官啦，票房虽一般，但王一博杨幂的角色真让人心动。",
+      "user_location": "山东",
+      "like_count": 3,
+      "scrape_time": "2025-09-12 17:16:33",
+      "event_time": "9月1日 21:01"
+    },
+    {
+      "event_title": "暑期档电影市场复盘:大起大落,下半场守住了体面",
+      "event_id": "event_4",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68b4fbdd7f780bd319000000",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:16:35",
+      "event_time": "9月1日 11:15"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 17:16:13",
+    "level2_scrape_time": "2025-09-12 17:16:35"
+  }
+}

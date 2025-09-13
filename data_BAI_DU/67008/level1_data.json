@@ -1,0 +1,116 @@
+{
+  "core_info": {
+    "core_event_name": "石破茂辞职第二天，中国对日本发起反制",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:59:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "石破茂宣布辞职之际,中方制裁日本“汉奸”议员",
+      "link": "http://new.qq.com/rain/a/20250911A02HD600",
+      "time": "昨天 14:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "日本政治迷局,石破茂辞职折射日本结构性困境",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17111999636716431861",
+      "time": "昨天 10:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "石破茂辞职第二天,中方对日本发起反制,不许“卖国急先锋”入境",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8640780546395091421",
+      "time": "9月10日 16:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "石破茂辞职，日本下任首相是右翼高市早苗吗？中国公开反制汉奸",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12639815593325860827",
+      "time": "9月10日 12:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "石破茂刚宣布辞任,中方出手收拾“日本”议员",
+      "link": "http://new.qq.com/rain/a/20250910A01XGB00",
+      "time": "9月10日 11:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "石破茂辞职第二天,中国火速出手、惩罚当代“大汉奸”,毫不手软",
+      "link": "http://www.163.com/dy/article/K91DRAQO0556B2P4.html",
+      "time": "9月9日 16:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "日本首相石破茂执政不到一年宣布辞职，对中日关系会有什么影响？",
+      "link": "http://www.163.com/dy/article/K912TJEM0552P76P.html",
+      "time": "9月9日 13:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "石破茂宣布辞职跑路,中美逼疯日本?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8640340937511367244",
+      "time": "9月9日 11:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "石破茂辞职引爆宪政危机",
+      "link": "http://baijiahao.baidu.com/s?id=1842674355687672232&wfr=spider&for=pc",
+      "time": "9月8日 14:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "日本首相石破茂为何突然决意辞职",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5863988289851890587",
+      "time": "9月8日 13:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "石破茂下台,日本再现“走马灯”换相 下一任首相会是谁?",
+      "link": "http://baijiahao.baidu.com/s?id=1842664992278213351&wfr=spider&for=pc",
+      "time": "9月8日 11:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "石破茂宣布辞去自民党总裁职务 避免党内分裂",
+      "link": "http://military.china.com/news/13004177/20250907/48798361.html",
+      "time": "9月7日 17:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "石破茂要辞职!六点开新闻发布会!政治作秀还是真的?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10965033954561481731",
+      "time": "9月7日 16:28",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 13,
+  "scrape_time": "2025-09-12 09:59:44"
+}

@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "释永信涉刑事犯罪被调查",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:57:22"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "释永信涉嫌刑事犯罪,河南省佛教协会发文",
+      "link": "http://dy.163.com/article/K8MC1GK1055040N3.html",
+      "time": "9月5日 09:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "河南佛教协会表示:释永信枉费僧众信任",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8953344308887590414",
+      "time": "9月4日 11:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "河南省佛教协会就释永信被查发声",
+      "link": "http://news.sohu.com/a/931742360_313745",
+      "time": "9月4日 10:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "释永信方丈翻身无望了",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4200169070737108618",
+      "time": "9月2日 08:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "少林寺方丈被曝涉嫌刑事犯罪",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_3847094979078100296",
+      "time": "8月31日 16:24",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 21:57:36"
+}

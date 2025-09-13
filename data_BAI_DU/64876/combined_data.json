@@ -1,0 +1,150 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:21:27"
+  },
+  "core_event": {
+    "core_event_name": "中国U16男篮击败菲律宾，晋级8强",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:20:43"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "张淳智周展锋连中两记三分，中国U16男篮追平比分",
+      "link": "http://voice.hupu.com/bbs/634717588",
+      "time": "9月6日 17:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U17男篮世界杯入场券到手 中国U16男篮淘汰巴林 半决赛对新西兰",
+      "link": "http://www.163.com/dy/article/K8NBAGIA0529AQIE.html",
+      "time": "9月5日 18:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国U16男篮亚洲杯小组赛，中国男篮3连胜狂胜130分提前晋级8强",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_3999674447948397823",
+      "time": "9月4日 17:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国男篮U16在亚洲杯三连胜小组头名出线",
+      "link": "http://m.dongqiudi.com/article/5351011.html",
+      "time": "9月2日 20:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中国男篮U16晋级八强",
+      "link": "http://m.gmw.cn/toutiao/2025-09/02/content_1304133774.htm",
+      "time": "9月2日 20:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "U16男篮亚洲杯:中国队100比44大胜马来西亚 小组赛两连胜",
+      "link": "http://baijiahao.baidu.com/s?id=1842077215862022773&wfr=spider&for=pc",
+      "time": "9月1日 23:48",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "张淳智周展锋连中两记三分，中国U16男篮追平比分",
+      "event_id": "event_1",
+      "event_url": "http://voice.hupu.com/bbs/634717588",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:20:58",
+      "event_time": "9月6日 17:33"
+    },
+    {
+      "event_title": "U17男篮世界杯入场券到手 中国U16男篮淘汰巴林 半决赛对新西兰",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8NBAGIA0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:21:00",
+      "event_time": "9月5日 18:32"
+    },
+    {
+      "event_title": "中国U16男篮亚洲杯小组赛，中国男篮3连胜狂胜130分提前晋级8强",
+      "event_id": "event_3",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_3999674447948397823",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:21:02",
+      "event_time": "9月4日 17:56"
+    },
+    {
+      "event_title": "中国男篮U16在亚洲杯三连胜小组头名出线",
+      "event_id": "event_4",
+      "event_url": "http://m.dongqiudi.com/article/5351011.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:21:04",
+      "event_time": "9月2日 20:58"
+    },
+    {
+      "event_title": "中国男篮U16晋级八强",
+      "event_id": "event_5",
+      "event_url": "http://m.gmw.cn/toutiao/2025-09/02/content_1304133774.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:21:06",
+      "event_time": "9月2日 20:08"
+    },
+    {
+      "event_title": "U16男篮亚洲杯:中国队100比44大胜马来西亚 小组赛两连胜",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842077215862022773&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "尔东尔西C3",
+      "comment_time": "09-02 06:05",
+      "comment_content": "中国少年队真猛，大胜马来西亚连胜两场，状态火热迎战韩国加油。",
+      "user_location": "辽宁",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 18:21:23"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 18:20:57",
+    "level2_scrape_time": "2025-09-12 18:21:23"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "中国女排1-3不敌法国",
+    "update_time": "更新至20250901",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:20:03"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国女排不敌法国队无缘世锦赛八强",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5527047501311426809",
+      "time": "9月1日 18:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国女排1-3法国创尴尬纪录",
+      "link": "http://www.163.com/dy/article/K8CA6TI50556D68O.html",
+      "time": "9月1日 11:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "女排世锦赛：法国队主教练：针对中国女排，我们做了一些冒险的拦防布置",
+      "link": "http://baijiahao.baidu.com/s?id=1841987778737136731&wfr=spider&for=pc",
+      "time": "9月1日 00:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "世联赛中国女排1-3不敌法国",
+      "link": "http://baijiahao.baidu.com/s?id=1841979291358243975&wfr=spider&for=pc",
+      "time": "8月31日 21:53",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 01:20:18"
+}

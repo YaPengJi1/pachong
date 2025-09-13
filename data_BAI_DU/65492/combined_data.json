@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 00:46:00"
+  },
+  "core_event": {
+    "core_event_name": "莫迪访华事件",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:45:34"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "莫迪回应特朗普:印度倒向中国!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=207688528150146136",
+      "time": "9月7日 08:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "印度总理莫迪访华“亲中亲俄”?美白宫顾问破防了",
+      "link": "http://www.163.com/dy/article/K8FTEGS20514EGPO.html",
+      "time": "9月2日 21:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "莫迪时隔7年访华,中印连谈40分钟,当着中方的面,莫迪有事相求",
+      "link": "http://www.163.com/dy/article/K8F14KVK055616W7.html",
+      "time": "9月2日 13:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "莫迪在日本表态：与中国保持紧密关系至关重要",
+      "link": "http://www.163.com/dy/article/K8CVOOIO05566C0D.html",
+      "time": "9月1日 17:57",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "莫迪回应特朗普:印度倒向中国!",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=207688528150146136",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:45:50",
+      "event_time": "9月7日 08:17"
+    },
+    {
+      "event_title": "印度总理莫迪访华“亲中亲俄”?美白宫顾问破防了",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8FTEGS20514EGPO.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:45:52",
+      "event_time": "9月2日 21:15"
+    },
+    {
+      "event_title": "莫迪时隔7年访华,中印连谈40分钟,当着中方的面,莫迪有事相求",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8F14KVK055616W7.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:45:54",
+      "event_time": "9月2日 13:00"
+    },
+    {
+      "event_title": "莫迪在日本表态：与中国保持紧密关系至关重要",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8CVOOIO05566C0D.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:45:56",
+      "event_time": "9月1日 17:57"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-13 00:45:49",
+    "level2_scrape_time": "2025-09-13 00:45:56"
+  }
+}

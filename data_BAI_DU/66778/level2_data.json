@@ -1,0 +1,59 @@
+{
+  "core_event_name": "墨西哥对阵日本比赛0-0平",
+  "comments": [
+    {
+      "event_title": "墨西哥前锋:我们将对阵日本的比赛当做世界杯来踢,虽然没赢",
+      "event_id": "event_1",
+      "event_url": "http://www.sohu.com/a/932694111_362070",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:59:52",
+      "event_time": "9月7日 21:24"
+    },
+    {
+      "event_title": "墨西哥主帅:日本队的速度和比赛激烈程度让我惊讶 0-0的结果合理",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8S109PU0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:59:54",
+      "event_time": "9月7日 14:08"
+    },
+    {
+      "event_title": "日本足协主席:战墨西哥强度是世界杯8强战应有的 球员们渴望赢球",
+      "event_id": "event_3",
+      "event_url": "http://news.sohu.com/a/932621780_362070",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:59:56",
+      "event_time": "9月7日 13:22"
+    },
+    {
+      "event_title": "日本&墨西哥排名17vs13,半场0-0战平",
+      "event_id": "event_4",
+      "event_url": "http://k.sina.cn/article_2018499075_784fda0302002hkeo.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:59:58",
+      "event_time": "9月7日 10:56"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 10:59:58"
+}

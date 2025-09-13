@@ -1,0 +1,108 @@
+{
+  "core_info": {
+    "core_event_name": "国补政策重启及第三批690亿补贴",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:30:49"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国补政策9月12日最新消息：1380亿国补资金分批下达，手机数码家电国补恢复领取 年底结束",
+      "link": "http://finance.sina.cn/2025-09-11/detail-infqcpui3698687.d.html",
+      "time": "昨天 17:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "第三批国补690亿启动申领，年底结束",
+      "link": "http://baijiahao.baidu.com/s?id=1842515310207865140&wfr=spider&for=pc",
+      "time": "9月6日 19:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "9月6日国补政策最新消息：9月国补恢复继续领取，国补第三批690亿补贴下达，2025年年底结束",
+      "link": "http://baijiahao.baidu.com/s?id=1842481691013568327&wfr=spider&for=pc",
+      "time": "9月6日 10:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "第三批国补690亿补贴9月恢复继续领取",
+      "link": "http://baijiahao.baidu.com/s?id=1842433293236198536&wfr=spider&for=pc",
+      "time": "9月5日 22:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "国补政策2025最新消息:9月第三批国补恢复继续领取",
+      "link": "http://baijiahao.baidu.com/s?id=1842417136321524440&wfr=spider&for=pc",
+      "time": "9月5日 17:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "国补续杯690亿,家电汽车消费药效分化",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmqqe5903033.d.html",
+      "time": "9月5日 11:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "国补政策9月5日最新消息",
+      "link": "http://baijiahao.baidu.com/s?id=1842390635021776609&wfr=spider&for=pc",
+      "time": "9月5日 10:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "新一轮国补来了，国补第三批690亿启动申领",
+      "link": "http://baijiahao.baidu.com/s?id=1842328877136126498&wfr=spider&for=pc",
+      "time": "9月4日 18:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "第三批国补9月恢复继续领取，截止时间为2025年12月31日结束",
+      "link": "http://baijiahao.baidu.com/s?id=1842318148196674522&wfr=spider&for=pc",
+      "time": "9月4日 15:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "第三批“国补”来了",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31539330",
+      "time": "9月3日 17:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "国补政策9月2日最新消息 国补“上新” 第三批国补690亿启动申领",
+      "link": "http://baijiahao.baidu.com/s?id=1842115054612824892&wfr=spider&for=pc",
+      "time": "9月2日 09:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "消费贷款领域迎来“国补”",
+      "link": "http://news.sina.cn/znl/2025-09-02/detail-infpaafs9066810.d.html?mtch=tech",
+      "time": "9月2日 06:40",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 12,
+  "scrape_time": "2025-09-12 23:31:04"
+}

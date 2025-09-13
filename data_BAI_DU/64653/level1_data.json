@@ -1,0 +1,108 @@
+{
+  "core_info": {
+    "core_event_name": "东契奇三双成就欧锦赛史",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:03:59"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "申京东契奇均揽三双 欧锦赛自1995年以来首次单届多次三双",
+      "link": "http://new.qq.com/rain/a/20250910A01BFJ00",
+      "time": "9月10日 07:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "东契奇再拿一次将追平盖利斯的单届赛事记录",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-09/doc-infpview9266946.shtml",
+      "time": "9月9日 00:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "东契奇全场砍下37分11篮板9助攻",
+      "link": "http://www.dongqiudi.com/articles/5355035.html",
+      "time": "9月5日 07:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "东契奇加冕斯洛文尼亚男篮队史得分王",
+      "link": "http://baijiahao.baidu.com/s?id=1842377534376624403&wfr=spider&for=pc",
+      "time": "9月5日 07:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "东契奇小组赛阶段场均34分8篮板8.4助攻",
+      "link": "http://cj.sina.com.cn/articles/view/7880068820/1d5b04ed402001dda2",
+      "time": "9月5日 02:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "东契奇超越德拉季奇成为斯洛文尼亚男篮历史得分王",
+      "link": "http://baijiahao.baidu.com/s?id=1842359163300872076&wfr=spider&for=pc",
+      "time": "9月5日 02:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "欧锦赛官推盛赞东契奇:这是卢卡的世界 我们只是生活在里面",
+      "link": "http://sports.sina.cn/nba/other/2025-09-05/detail-infpkhuw3030145.d.html",
+      "time": "9月5日 01:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "东契奇砍下37分11板9助准三双 助队豪取三连胜",
+      "link": "http://baijiahao.baidu.com/s?id=1842356351460271379&wfr=spider&for=pc",
+      "time": "9月5日 00:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "东契奇迎来首胜，字母哥高效暴走",
+      "link": "http://www.163.com/dy/article/K8ELJTQV0556DQAF.html",
+      "time": "9月2日 09:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "东契奇全场砍下27分15篮板13助攻，独行侠险胜奇才",
+      "link": "http://www.titan24.com/publish/app/data/2025/09/01/567678/os_news.html",
+      "time": "9月1日 11:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "男篮欧锦赛：博格丹因伤退出赛事，东契奇三双助队首胜",
+      "link": "http://www.dongqiudi.com/articles/5347326.html",
+      "time": "9月1日 10:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "斯洛文尼亚小组赛惨遭两连败",
+      "link": "http://sports.sina.cn/nba/other/2025-08-31/detail-infnvpzn4088118.d.html",
+      "time": "8月31日 08:23",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 12,
+  "scrape_time": "2025-09-13 02:04:13"
+}

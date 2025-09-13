@@ -1,0 +1,234 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:21:10"
+  },
+  "core_event": {
+    "core_event_name": "乌克兰政府大楼被炸",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:20:16"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "俄军800架无人机突袭基辅 乌克兰政府大楼被炸 美欧开会应对",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5318373576020602828",
+      "time": "9月10日 07:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "基辅政府大楼被炸,俄乌博弈升级,2天乌军失踪暴增",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10824648785740516842",
+      "time": "9月10日 03:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "乌克兰政府大楼被炸 特朗普称准备与普京再次通话",
+      "link": "http://app.myzaker.com/news/article.php?pk=68bfe70a7f780b6d6b000005",
+      "time": "9月9日 16:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "俄乌冲突 互袭持续 乌方7日称政府大楼首次遭袭",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3490159856912454267",
+      "time": "9月9日 11:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "俄罗斯最大空袭基辅，4死40伤政府楼被炸",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15649346526282631847",
+      "time": "9月8日 12:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "俄乌冲突 乌克兰政府大楼遭袭引发大火 过火面积超千平米",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6448097438767437607",
+      "time": "9月8日 12:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "乌克兰:俄发动最大规模空袭,乌政府大楼首次遭袭起火",
+      "link": "http://www.163.com/dy/article/K8UD973J055040N3.html",
+      "time": "9月8日 12:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "俄发动开战以来最大空袭,乌政府大楼首次被袭起火!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10451765875754587795",
+      "time": "9月8日 11:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "乌克兰外长:乌政府大楼首次遭袭",
+      "link": "http://tv.cctv.com/2025/09/07/VIDE3qPR17zLIYMuGEAMuJRD250907.shtml",
+      "time": "9月7日 19:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "乌克兰总理证实,政府大楼遭袭",
+      "link": "http://baijiahao.baidu.com/s?id=1842585928795905342&wfr=spider&for=pc",
+      "time": "9月7日 14:34",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "俄军800架无人机突袭基辅 乌克兰政府大楼被炸 美欧开会应对",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5318373576020602828",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:20:32",
+      "event_time": "9月10日 07:26"
+    },
+    {
+      "event_title": "基辅政府大楼被炸,俄乌博弈升级,2天乌军失踪暴增",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10824648785740516842",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:20:34",
+      "event_time": "9月10日 03:07"
+    },
+    {
+      "event_title": "乌克兰政府大楼被炸 特朗普称准备与普京再次通话",
+      "event_id": "event_3",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68bfe70a7f780b6d6b000005",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:20:36",
+      "event_time": "9月9日 16:36"
+    },
+    {
+      "event_title": "俄乌冲突 互袭持续 乌方7日称政府大楼首次遭袭",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=3490159856912454267",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:20:38",
+      "event_time": "9月9日 11:30"
+    },
+    {
+      "event_title": "俄罗斯最大空袭基辅，4死40伤政府楼被炸",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=15649346526282631847",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:20:40",
+      "event_time": "9月8日 12:48"
+    },
+    {
+      "event_title": "俄乌冲突 乌克兰政府大楼遭袭引发大火 过火面积超千平米",
+      "event_id": "event_6",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6448097438767437607",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:20:42",
+      "event_time": "9月8日 12:48"
+    },
+    {
+      "event_title": "乌克兰:俄发动最大规模空袭,乌政府大楼首次遭袭起火",
+      "event_id": "event_7",
+      "event_url": "http://www.163.com/dy/article/K8UD973J055040N3.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:20:44",
+      "event_time": "9月8日 12:21"
+    },
+    {
+      "event_title": "俄发动开战以来最大空袭,乌政府大楼首次被袭起火!",
+      "event_id": "event_8",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10451765875754587795",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:20:46",
+      "event_time": "9月8日 11:16"
+    },
+    {
+      "event_title": "乌克兰外长:乌政府大楼首次遭袭",
+      "event_id": "event_9",
+      "event_url": "http://tv.cctv.com/2025/09/07/VIDE3qPR17zLIYMuGEAMuJRD250907.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:20:48",
+      "event_time": "9月7日 19:19"
+    },
+    {
+      "event_title": "乌克兰总理证实,政府大楼遭袭",
+      "event_id": "event_10",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842585928795905342&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "2椿去春又回",
+      "comment_time": "09-07 14:42",
+      "comment_content": "愿和平的阳光早日普照大地！",
+      "user_location": "天津",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 10:21:06"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 10,
+    "total_comments": 10,
+    "events_with_comments": 10,
+    "level1_scrape_time": "2025-09-12 10:20:31",
+    "level2_scrape_time": "2025-09-12 10:21:06"
+  }
+}

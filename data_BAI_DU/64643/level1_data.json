@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "北京国安惨败山东泰山",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:55:51"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "北京国安球迷扬言要横扫河南",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4011807046943221492",
+      "time": "9月4日 16:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "国安客场0-6惨败泰山，塞蒂恩执教生涯再现单场净负6球",
+      "link": "http://k.sina.com.cn/article_1698513182_653d411e04001n7pk.html",
+      "time": "8月31日 21:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "京媒怒斥国安被带节奏",
+      "link": "http://www.sohu.com/a/930053613_121644096",
+      "time": "8月30日 07:26",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-13 01:56:05"
+}

@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "比亚迪在欧洲新能源市场表现亮眼",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:46:05"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "比亚迪欧洲市场表现亮眼",
+      "link": "http://www.pcauto.com.cn/hj/article/3051827.html",
+      "time": "9月7日 10:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "比亚迪在欧洲新能源市场成绩亮眼",
+      "link": "http://weibo.com/3175087234/Q3cWo1a8J",
+      "time": "9月5日 22:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "比亚迪引领欧洲新能源市场",
+      "link": "http://baijiahao.baidu.com/s?id=1842429722991928358&wfr=spider&for=pc",
+      "time": "9月5日 21:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "从欧洲新能源市场汽车销量榜单，看中国汽车品牌崛起",
+      "link": "http://a.xcar.com.cn/bbs/thread-101091266-0.html",
+      "time": "9月5日 20:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "比亚迪完成重大突破,引领欧洲新能源汽车市场",
+      "link": "http://baijiahao.baidu.com/s?id=1842425895892284054&wfr=spider&for=pc",
+      "time": "9月5日 20:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "比亚迪欧洲市场份额超越特斯拉",
+      "link": "http://auto.anhuinews.com/ahcq/byd/202509/t20250903_8754801.html",
+      "time": "9月3日 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-13 01:46:19"
+}

@@ -1,0 +1,1292 @@
+{
+  "core_info": {
+    "core_event_name": "韩国政治纷争",
+    "update_time": "更新至2025年5月27日 15:24",
+    "sub_event_count": 167,
+    "scrape_time": "2025-09-12 08:42:20"
+  },
+  "sub_events": [
+    {
+      "id": "event_9",
+      "title": "韩国警方对涉嫌参与内乱的两名前高官实施出境禁令",
+      "link": "https://baijiahao.baidu.com/s?id=1833257597050413741",
+      "time": "5月27日 15:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "尹锡悦涉嫌发动内乱案举行第三次庭审",
+      "link": "https://baijiahao.baidu.com/s?id=1831876521275193148",
+      "time": "5月12日 11:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "曾直播翻墙进国会的李在明，被控两年监禁",
+      "link": "http://baijiahao.baidu.com/s?id=1825208590406015715",
+      "time": "2月27日 18:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "韩国警方：正在对袭击首尔西部地方法院的66人依次申请拘捕令",
+      "link": "https://baijiahao.baidu.com/s?id=1821735549268588625",
+      "time": "1月20日 11:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "韩国国会全体会议通过“内乱特检法”",
+      "link": "https://baijiahao.baidu.com/s?id=1821507056881242894&wfr=spider&for=pc",
+      "time": "1月17日 22:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "韩国执政党支持率反超最大在野党",
+      "link": "https://baijiahao.baidu.com/s?id=1821499525548116089",
+      "time": "1月17日 20:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "宪法法官空缺还剩一位 韩国代总统：朝野党派协商确认后即刻任命",
+      "link": "https://baijiahao.baidu.com/s?id=1819942358239538298",
+      "time": "2024年12月31日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "韩国代总统崔相穆已任命两名宪法法官",
+      "link": "https://baijiahao.baidu.com/s?id=1819942358239538298",
+      "time": "2024年12月31日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "韩国代总统崔相穆决定任命宪法法官",
+      "link": "https://baijiahao.baidu.com/s?id=1819942516621234634",
+      "time": "2024年12月31日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "韩国公调处对韩国国防部防间谍司令部展开扣押搜查",
+      "link": "https://baijiahao.baidu.com/s?id=1819938085661921232",
+      "time": "2024年12月31日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "韩国最大在野党说立即启动对韩德洙的弹劾程序",
+      "link": "https://baijiahao.baidu.com/s?id=1819280938055265163&wfr=spider&for=pc",
+      "time": "2024年12月24日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "首尔爆发大规模示威",
+      "link": "https://baijiahao.baidu.com/s?id=1819110504432197318&wfr=spider&for=pc",
+      "time": "2024年12月22日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_21",
+      "title": "韩国执政党：参与由执政党、在野党、政府三方组建“国政协议体”",
+      "link": "https://baijiahao.baidu.com/s?id=1818942459755258943",
+      "time": "2024年12月20日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_22",
+      "title": "韩国共同调查本部对前国防部情报司令官申请拘捕令",
+      "link": "https://baijiahao.baidu.com/s?id=1818923710846040698",
+      "time": "2024年12月20日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_23",
+      "title": "韩国警方特殊调查团对国务总理韩德洙展开非公开调查",
+      "link": "https://baijiahao.baidu.com/s?id=1818922515655340129",
+      "time": "2024年12月20日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_24",
+      "title": "外媒：韩国外长公开承认，戒严令风波破坏了韩国与特朗普团队关系",
+      "link": "https://baijiahao.baidu.com/s?id=1818770764094811903",
+      "time": "2024年12月18日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_25",
+      "title": "韩国总统警卫处拒绝联合调查机构对服务器扣押搜查",
+      "link": "https://baijiahao.baidu.com/s?id=1818765669085698561",
+      "time": "2024年12月18日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_26",
+      "title": "日媒:李在明希望在法院最终判决前举行大选",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=10918265201557423626",
+      "time": "2024年12月18日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_27",
+      "title": "针锋相对！尹锡悦弹劾案爆出三大司法缠斗",
+      "link": "http://baijiahao.baidu.com/s?id=1818692184758628515",
+      "time": "2024年12月17日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_28",
+      "title": "尹锡悦将分别就“内乱罪”调查和弹劾案审理组建律师团",
+      "link": "https://baijiahao.baidu.com/s?id=1818663751926051242",
+      "time": "2024年12月17日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_29",
+      "title": "韩国军事法院发布对前特战司令郭种根的拘捕令",
+      "link": "https://baijiahao.baidu.com/s?id=1818575165088308200",
+      "time": "2024年12月16日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_30",
+      "title": "韩国检方再次发出要求尹锡悦出席调查的传唤书",
+      "link": "https://baijiahao.baidu.com/s?id=1818575165090641932",
+      "time": "2024年12月16日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_31",
+      "title": "韩国警察厅厅长赵志浩因健康状态恶化送医",
+      "link": "https://baijiahao.baidu.com/s?id=1818575165089007166",
+      "time": "2024年12月16日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_32",
+      "title": "“暗杀驻韩美军 挑动朝韩开战”?韩媒曝光尹锡悦惊天阴谋",
+      "link": "https://haokan.baidu.com/v?vid=5229039761126652684&backflow=1&pd=d_push&pagepd=d_push",
+      "time": "2024年12月16日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_33",
+      "title": "韩国执政党党首韩东勋宣布辞职",
+      "link": "https://baijiahao.baidu.com/s?id=1818560989848528191",
+      "time": "2024年12月16日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_34",
+      "title": "韩宪法法院就总统弹劾案首次开会,决定审理时间表",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_2350837814074916929&sourceFrom=share",
+      "time": "2024年12月16日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_35",
+      "title": "韩国检方对前戒严司令官、陆军参谋总长朴安洙申请拘捕令",
+      "link": "https://baijiahao.baidu.com/s?id=1818500859464153546",
+      "time": "2024年12月15日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_36",
+      "title": "韩国警方称1500多名军人参与“紧急戒严”",
+      "link": "https://baijiahao.baidu.com/s?id=1818496080631106075",
+      "time": "2024年12月15日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_37",
+      "title": "韩国检方申请对首都防卫司令部司令官李镇雨发出拘捕令",
+      "link": "https://baijiahao.baidu.com/s?id=1818492934066015820",
+      "time": "2024年12月15日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_38",
+      "title": "韩国执政党拒绝与在野党建立合作机制",
+      "link": "https://baijiahao.baidu.com/s?id=1818487713602976368",
+      "time": "2024年12月15日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_39",
+      "title": "韩国政府经济团队转入“危机管理”模式",
+      "link": "https://baijiahao.baidu.com/s?id=1818473744090207775&wfr=spider&for=pc",
+      "time": "2024年12月15日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_40",
+      "title": "韩国检方申请对前特战司令郭种根的拘捕令",
+      "link": "https://baijiahao.baidu.com/s?id=1818466642621022477",
+      "time": "2024年12月15日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_41",
+      "title": "韩国执政党五名最高委员提出辞职",
+      "link": "https://baijiahao.baidu.com/s?id=1818411080916128024",
+      "time": "2024年12月14日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_42",
+      "title": "麦肯锡愿支付6.5亿美元，以避免遭到检方刑事起诉",
+      "link": "https://baijiahao.baidu.com/s?id=1818425268908246858",
+      "time": "2024年12月14日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_43",
+      "title": "韩国执政党多名成员提出辞职",
+      "link": "https://baijiahao.baidu.com/s?id=1818411080916128024",
+      "time": "2024年12月14日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_44",
+      "title": "尹锡悦发表公开讲话 回应称“绝不放弃”",
+      "link": "https://baijiahao.baidu.com/s?id=1818406679140343150",
+      "time": "2024年12月14日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_45",
+      "title": "韩国法院对警察厅长赵志浩和首尔警察厅长金峰埴签发拘捕令",
+      "link": "https://baijiahao.baidu.com/s?id=1818333067360042253",
+      "time": "2024年12月13日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_46",
+      "title": "韩国检方逮捕首都防卫司令部司令官李镇雨",
+      "link": "https://baijiahao.baidu.com/s?id=1818328348986027736",
+      "time": "2024年12月13日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_47",
+      "title": "韩国民调显示尹锡悦支持率降至11% 创历史新低",
+      "link": "https://baijiahao.baidu.com/s?id=1818314133736479164",
+      "time": "2024年12月13日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_48",
+      "title": "尹锡悦弹劾案第二次表决时间提前至当地时间14日16时",
+      "link": "https://baijiahao.baidu.com/s?id=1818308970092445788",
+      "time": "2024年12月13日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_49",
+      "title": "韩国在野党就再次弹劾总统尹锡悦动议案向国会作报告",
+      "link": "https://baijiahao.baidu.com/s?id=1818301423229304954",
+      "time": "2024年12月13日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_50",
+      "title": "韩国检方传唤调查前特战司令郭种根",
+      "link": "https://baijiahao.baidu.com/s?id=1818298149872999873",
+      "time": "2024年12月13日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_51",
+      "title": "尹锡悦继续行使总统权力 向国会提交大法官任命同意案",
+      "link": "https://baijiahao.baidu.com/s?id=1818287705842695828",
+      "time": "2024年12月13日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_52",
+      "title": "5分钟宣布2分钟解除 韩媒披露紧急戒严前后国务会议细节",
+      "link": "https://baijiahao.baidu.com/s?id=1818254864884241966",
+      "time": "2024年12月13日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_53",
+      "title": "韩国在野党再次向国会提交尹锡悦弹劾案",
+      "link": "https://baijiahao.baidu.com/s?id=1818223094697972958&wfr=spider&for=pc",
+      "time": "2024年12月12日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_54",
+      "title": "韩国国会通过“尹锡悦内乱普通特检法”“金建希特检法”",
+      "link": "https://baijiahao.baidu.com/s?id=1818214347673727946",
+      "time": "2024年12月12日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_55",
+      "title": "韩国国会举行议员总会 通过对法务部长官及警察厅长的弹劾案",
+      "link": "https://baijiahao.baidu.com/s?id=1818214034391011847",
+      "time": "2024年12月12日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_56",
+      "title": "韩国前防长金龙显的保密手机遭警方与国防部扣押",
+      "link": "https://baijiahao.baidu.com/s?id=1818211958933487150",
+      "time": "2024年12月12日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_57",
+      "title": "韩国在野党祖国革新党党首曹国被判有期徒刑2年",
+      "link": "https://baijiahao.baidu.com/s?id=1818201326584678298",
+      "time": "2024年12月12日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_58",
+      "title": "尹锡悦称无论弹劾还是调查都会正面应对",
+      "link": "https://baijiahao.baidu.com/s?id=1818193714212657826",
+      "time": "2024年12月12日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_59",
+      "title": "尹锡悦说会奉陪到底",
+      "link": "https://baijiahao.baidu.com/s?id=1818195568059891514&wfr=spider&for=pc",
+      "time": "2024年12月12日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_60",
+      "title": "尹锡悦指责在野党诬陷内乱罪",
+      "link": "https://baijiahao.baidu.com/s?id=1818193931556026247&wfr=spider&for=pc",
+      "time": "2024年12月12日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_61",
+      "title": "韩国警方、公调处和国防部联合成立紧急戒严共同调查本部",
+      "link": "https://baijiahao.baidu.com/s?id=1818134512819905412",
+      "time": "2024年12月11日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_62",
+      "title": "韩国警方特别调查团已经进入韩国联合参谋本部",
+      "link": "https://baijiahao.baidu.com/s?id=1818124066469428445",
+      "time": "2024年12月11日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_63",
+      "title": "韩国总统办公室警卫处与搜查人员对峙",
+      "link": "https://baijiahao.baidu.com/s?id=1818121931887439670",
+      "time": "2024年12月11日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_64",
+      "title": "文在寅：弹劾已无法避免 应尽快确立代总统人选",
+      "link": "https://baijiahao.baidu.com/s?id=1818120608781904026",
+      "time": "2024年12月11日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_65",
+      "title": "韩国国会议长决定就紧急戒严事件开展国政调查",
+      "link": "https://baijiahao.baidu.com/s?id=1818107468476793648",
+      "time": "2024年12月11日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_66",
+      "title": "箭在弦上 已有5名韩国执政党议员表示支持弹劾尹锡悦",
+      "link": "https://baijiahao.baidu.com/s?id=1818118296553768996",
+      "time": "2024年12月11日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_67",
+      "title": "韩国前国防部长官金龙显企图在狱中自杀 韩法务部：健康无碍",
+      "link": "https://baijiahao.baidu.com/s?id=1818110920365925964",
+      "time": "2024年12月11日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_68",
+      "title": "韩国警方对总统府展开搜查",
+      "link": "https://baijiahao.baidu.com/s?id=1818110098245456353&wfr=spider&for=pc",
+      "time": "2024年12月11日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_69",
+      "title": "韩国法学教授：弹劾尹锡悦是宪法明示的宪政“秩序”",
+      "link": "https://baijiahao.baidu.com/s?id=1818110034281600747",
+      "time": "2024年12月11日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_70",
+      "title": "韩国检方对韩国特战部队司令部进行扣押搜查",
+      "link": "https://baijiahao.baidu.com/s?id=1818107519574402038",
+      "time": "2024年12月11日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_71",
+      "title": "涉嫌犯有“内乱罪” 韩国警察厅厅长和首尔警察厅厅长被逮捕",
+      "link": "https://baijiahao.baidu.com/s?id=1818103118009143020",
+      "time": "2024年12月11日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_72",
+      "title": "尹锡悦被认定为“内乱首犯”  韩国政坛“三角”斗争日趋激烈",
+      "link": "https://baijiahao.baidu.com/s?id=1818094308372604781",
+      "time": "2024年12月11日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_73",
+      "title": "韩国法院对前国防部长官金龙显签发逮捕令",
+      "link": "https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9890984115636850243%22%7D",
+      "time": "2024年12月10日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_74",
+      "title": "韩特战部队司令官：尹锡悦指示“把议员从国会会议厅里拉出来”",
+      "link": "https://baijiahao.baidu.com/s?id=1818050391401422349",
+      "time": "2024年12月10日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_75",
+      "title": "韩国警察厅长赵志浩被传唤调查",
+      "link": "https://baijiahao.baidu.com/s?id=1818039729131353393",
+      "time": "2024年12月10日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_76",
+      "title": "韩检方在金龙显逮捕令中明确指认尹锡悦是“内乱首犯”",
+      "link": "https://baijiahao.baidu.com/s?id=1818039171529382451&wfr=spider&for=pc",
+      "time": "2024年12月10日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_77",
+      "title": "韩最大在野党向国会报告对警察厅长和法务部长官的弹劾案",
+      "link": "https://baijiahao.baidu.com/s?id=1818030772347755050",
+      "time": "2024年12月10日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_78",
+      "title": "韩国警方要求国务总理韩德洙等11人接受调查",
+      "link": "https://baijiahao.baidu.com/s?id=1818022239475383416",
+      "time": "2024年12月10日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_79",
+      "title": "韩国特种部队队长哽咽发声：我们被利用了",
+      "link": "https://baijiahao.baidu.com/s?id=1818021861340864194",
+      "time": "2024年12月10日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_80",
+      "title": "韩媒：驻韩美军部分部队实施宵禁和出行限制",
+      "link": "https://baijiahao.baidu.com/s?id=1818017676973636940",
+      "time": "2024年12月10日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_81",
+      "title": "韩国政局动荡冲击金融市场,韩元对美元汇率两年来最低",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_1694806296915273470&sourceFrom=share",
+      "time": "2024年12月9日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_82",
+      "title": "韩媒披露:戒严当晚 韩国防部地下秘密通道曾开放",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_4538167895764517651&sourceFrom=share",
+      "time": "2024年12月9日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_83",
+      "title": "韩国 11名涉“紧急戒严”核心人员被立案调查",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_13742040294282465375&sourceFrom=share",
+      "time": "2024年12月9日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_84",
+      "title": "韩国检方对国防部防间谍司令部进行扣押搜查",
+      "link": "https://baijiahao.baidu.com/s?id=1817928721823183679",
+      "time": "2024年12月9日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_85",
+      "title": "韩国最大在野党向国会提交“内乱特检法”“金建希特检法”提案",
+      "link": "https://baijiahao.baidu.com/s?id=1817925385243212260",
+      "time": "2024年12月9日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_86",
+      "title": "韩国行政安全部长官李祥敏提出辞职",
+      "link": "https://baijiahao.baidu.com/s?id=1817853354561471342",
+      "time": "2024年12月8日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_87",
+      "title": "韩国检察厅对尹锡悦立案调查",
+      "link": "https://baijiahao.baidu.com/s?id=1817846379019287128",
+      "time": "2024年12月8日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_88",
+      "title": "涉嫌参与“总统戒严令事件” 韩国前国防部长官金龙显被捕",
+      "link": "https://baijiahao.baidu.com/s?id=1817826226449849366",
+      "time": "2024年12月8日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_89",
+      "title": "“仇中亲日”！尹锡悦弹劾案细节曝光",
+      "link": "https://baijiahao.baidu.com/s?id=1817829325872401673&wfr=spider&for=pc",
+      "time": "2024年12月8日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_90",
+      "title": "韩国前防长金龙显凌晨主动到检察厅接受调查",
+      "link": "https://baijiahao.baidu.com/s?id=1817825337431338723&wfr=spider&for=pc",
+      "time": "2024年12月8日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_91",
+      "title": "韩国最大在野党提交对行政安全部长官的弹劾案",
+      "link": "https://baijiahao.baidu.com/s?id=1817764134217856011",
+      "time": "2024年12月7日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_92",
+      "title": "韩国最大在野党党首李在明喊话执政党称其应解散",
+      "link": "https://baijiahao.baidu.com/s?id=1817746896464784701",
+      "time": "2024年12月7日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_93",
+      "title": "韩国总统尹锡悦发表讲话向韩国民众道歉 承诺不会有第二次戒严",
+      "link": "https://baijiahao.baidu.com/s?id=1817741418491338192",
+      "time": "2024年12月7日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_94",
+      "title": "韩国执政党党首前往国务总理官邸同总理韩德洙紧急会面",
+      "link": "https://baijiahao.baidu.com/s?id=1817748276380869898",
+      "time": "2024年12月7日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_95",
+      "title": "执政党党首：总统尹锡悦已不可能正常履职 提前结束任期不可避免",
+      "link": "https://baijiahao.baidu.com/s?id=1817742112318318077",
+      "time": "2024年12月7日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_96",
+      "title": "尹锡悦就戒严风波向韩国国民致歉",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_9308121974887141501",
+      "time": "2024年12月7日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_97",
+      "title": "韩国总统尹锡悦发表电视讲话 向韩国民众道歉",
+      "link": "https://baijiahao.baidu.com/s?id=1817741418491338192",
+      "time": "2024年12月7日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_98",
+      "title": "韩国民调：尹锡悦宣布戒严令后支持率降至13%",
+      "link": "https://baijiahao.baidu.com/s?id=1817685802134700165",
+      "time": "2024年12月6日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_99",
+      "title": "韩国国防部宣布多名军方官员被停职",
+      "link": "https://baijiahao.baidu.com/s?id=1817676242797730370",
+      "time": "2024年12月6日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_100",
+      "title": "尹锡悦逮捕名单上有李在明、韩东勋",
+      "link": "https://baijiahao.baidu.com/s?id=1817672780161109749&wfr=spider&for=pc",
+      "time": "2024年12月6日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_101",
+      "title": "“借机全部抓起来彻底清理”韩官员披露尹锡悦下令细节",
+      "link": "https://baijiahao.baidu.com/s?id=1817671525770679397&wfr=spider&for=pc",
+      "time": "2024年12月6日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_102",
+      "title": "韩国国会被全面管制 国会议员一律禁止出入",
+      "link": "https://baijiahao.baidu.com/s?id=1817669890523206171",
+      "time": "2024年12月6日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_103",
+      "title": "韩国国防部：即便再有戒严要求 韩国军方也不会遵守",
+      "link": "https://baijiahao.baidu.com/s?id=1817664410774245946",
+      "time": "2024年12月6日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_104",
+      "title": "韩国总统尹锡悦和执政党党首韩东勋举行会谈",
+      "link": "https://baijiahao.baidu.com/s?id=1817663595462070770",
+      "time": "2024年12月6日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_105",
+      "title": "韩国执政党议员公开“反水”",
+      "link": "https://baijiahao.baidu.com/s?id=1817658724886413221&wfr=spider&for=pc",
+      "time": "2024年12月6日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_106",
+      "title": "韩国中央选举管理委员会：戒严军占领该委员会明显违宪违法",
+      "link": "https://baijiahao.baidu.com/s?id=1817658440482008032",
+      "time": "2024年12月6日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_107",
+      "title": "韩国最大在野党党首李在明发表特别声明：尹锡悦违宪违法",
+      "link": "https://baijiahao.baidu.com/s?id=1817650134932106251",
+      "time": "2024年12月6日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_108",
+      "title": "戒严风波未了 韩国各级外交活动均受影响",
+      "link": "https://baijiahao.baidu.com/s?id=1817615844253158498",
+      "time": "2024年12月5日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_109",
+      "title": "韩执政党代表要求：尹锡悦退党",
+      "link": "https://baijiahao.baidu.com/s?id=1817603416362551029",
+      "time": "2024年12月5日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_110",
+      "title": "尹锡悦拒绝接受陆军参谋长辞呈",
+      "link": "https://baijiahao.baidu.com/s?id=1817598761927410140&wfr=spider&for=pc",
+      "time": "2024年12月5日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_111",
+      "title": "紧急戒严风波后 韩国将启用40万亿韩元市场稳定基金",
+      "link": "https://baijiahao.baidu.com/s?id=1817598226731393412",
+      "time": "2024年12月5日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_112",
+      "title": "韩国监察院院长及首尔中央地方检察厅检察长遭弹劾",
+      "link": "https://baijiahao.baidu.com/s?id=1817571927202847649&wfr=spider&for=pc",
+      "time": "2024年12月5日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_113",
+      "title": "韩国警方就尹锡悦涉“内乱罪”进行调查",
+      "link": "https://baijiahao.baidu.com/s?id=1817567774923870670",
+      "time": "2024年12月5日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_114",
+      "title": "尹锡悦接受国防部长官金龙显辞呈，提名崔秉赫接任",
+      "link": "https://baijiahao.baidu.com/s?id=1817556076892374941",
+      "time": "2024年12月5日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_115",
+      "title": "美国国务院称尹锡悦宣布“紧急戒严”是严重误判",
+      "link": "https://baijiahao.baidu.com/s?id=1817556294476810816",
+      "time": "2024年12月5日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_116",
+      "title": "尹锡悦颁布紧急戒严令或与其夫人有关",
+      "link": "https://baijiahao.baidu.com/s?id=1817554531210491988",
+      "time": "2024年12月5日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_117",
+      "title": "首尔万人集会，要求尹锡悦下台",
+      "link": "https://baijiahao.baidu.com/s?id=1817554405826385200",
+      "time": "2024年12月5日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_118",
+      "title": "韩媒：韩国紧急戒严令由防长提议实施",
+      "link": "https://baijiahao.baidu.com/s?id=1817517160551887687",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_119",
+      "title": "未受韩国戒严风波影响 中韩航班正常执飞",
+      "link": "https://baijiahao.baidu.com/s?id=1817516086468132936&wfr=baike",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_120",
+      "title": "韩国加密市场巨震：比特币一度“跳水”至6.2万美元",
+      "link": "https://baijiahao.baidu.com/s?id=1817514990582375097&wfr=baike",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_121",
+      "title": "韩国铁道公社工会将举行总罢工",
+      "link": "https://baijiahao.baidu.com/s?id=1817511779903852107",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_122",
+      "title": "韩国短暂实施紧急戒严，中方回应",
+      "link": "https://baijiahao.baidu.com/s?id=1817513323900042528",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_123",
+      "title": "韩国民众集会要求总统尹锡悦下台",
+      "link": "https://baijiahao.baidu.com/s?id=1817508166420456084",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_124",
+      "title": "韩国现代汽车工会计划罢工",
+      "link": "https://baijiahao.baidu.com/s?id=1817503633947218441&wfr=baike",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_125",
+      "title": "韩国国防部长官金龙显向总统递交辞呈",
+      "link": "https://baijiahao.baidu.com/s?id=1817501091151202157",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_126",
+      "title": "韩国最大在野党提出对国防部长官金龙显的弹劾案",
+      "link": "https://baijiahao.baidu.com/s?id=1817499390572634008",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_127",
+      "title": "韩国被多国列为旅行危险国家",
+      "link": "https://baijiahao.baidu.com/s?id=1817498191884733866",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_128",
+      "title": "日本自民党副总裁菅义伟访韩行程被取消",
+      "link": "https://baijiahao.baidu.com/s?id=1817489576043347065",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_129",
+      "title": "韩国6个在野党联合提起总统弹劾案 今日下午提交国会",
+      "link": "https://baijiahao.baidu.com/s?id=1817487581756516693",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_130",
+      "title": "韩国政府就内阁辞职问题进行讨论",
+      "link": "https://baijiahao.baidu.com/s?id=1817481092218857247",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_131",
+      "title": "韩执政党已就内阁集体辞职、国防部长官免职等问题大体达成共识",
+      "link": "https://baijiahao.baidu.com/s?id=1817480448814905790",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_132",
+      "title": "韩国国会：即日起全面禁止国防部职员和警察出入国会",
+      "link": "https://baijiahao.baidu.com/s?id=1817479192159915355",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_133",
+      "title": "韩国执政党领导层讨论总统尹锡悦退党方案",
+      "link": "https://baijiahao.baidu.com/s?id=1817476265077752953&wfr=spider&for=pc",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_134",
+      "title": "韩国国会：280余名戒严军在总统宣布紧急戒严令后进入国会",
+      "link": "https://baijiahao.baidu.com/s?id=1817474757669388074",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_135",
+      "title": "石破茂：不评论他国内政，正密切关注韩国局势",
+      "link": "https://baijiahao.baidu.com/s?id=1817474509557334792",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_136",
+      "title": "美国驻韩国大使馆取消常规领事服务",
+      "link": "https://baijiahao.baidu.com/s?id=1817472774079036949&wfr=spider&for=pc",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_137",
+      "title": "韩国总统府高层幕僚集体提出辞职",
+      "link": "https://baijiahao.baidu.com/s?id=1817472175515763591&wfr=spider&for=pc",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_138",
+      "title": "韩媒：韩国执政党领导层要求尹锡悦退党",
+      "link": "https://baijiahao.baidu.com/s?id=1817471170007577615&wfr=spider&for=pc",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_139",
+      "title": "外媒：韩国最大工会发起“无限期罢工”",
+      "link": "https://baijiahao.baidu.com/s?id=1817470950549451228&wfr=spider&for=pc",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_140",
+      "title": "现场视频丨韩国紧急戒严令解除前 国会主楼内人员与军队发生冲突",
+      "link": "https://baijiahao.baidu.com/s?id=1817468936143157097",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_141",
+      "title": "韩国总统办公室室长、首席秘书官集体辞职",
+      "link": "https://baijiahao.baidu.com/s?id=1817468566147960435",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_142",
+      "title": "我驻韩大使馆：韩社会秩序正常 在韩公民可回归日常生活",
+      "link": "https://baijiahao.baidu.com/s?id=1817466736012263492",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_143",
+      "title": "韩国执政党讨论尹锡悦退党、内阁集体辞职、国防部长免职等问题",
+      "link": "https://baijiahao.baidu.com/s?id=1817467557348206120",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_144",
+      "title": "韩国最大在野党要求总统立即主动辞职",
+      "link": "https://baijiahao.baidu.com/s?id=1817467585535448967",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_145",
+      "title": "韩执政党代表要求尹锡悦退党、总统府官员和国防部长官全体辞职",
+      "link": "https://baijiahao.baidu.com/s?id=1817466804454021988&wfr=spider&for=pc",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_146",
+      "title": "韩国总统尹锡悦宣布解除紧急戒严令",
+      "link": "https://baijiahao.baidu.com/s?id=1817451639546948383",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_147",
+      "title": "韩国国会议长：进入国会主楼的军人已经全部撤出",
+      "link": "https://baijiahao.baidu.com/s?id=1817437102225063348",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_148",
+      "title": "韩国国会全体会议通过“解除戒严”决议",
+      "link": "https://baijiahao.baidu.com/s?id=1817436030879572944",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_149",
+      "title": "李在明进入韩国国会",
+      "link": "https://baijiahao.baidu.com/s?id=1817435847366913658",
+      "time": "2024年12月4日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_150",
+      "title": "韩国防长建议实施戒严韩国营长级以上指挥官紧急待命",
+      "link": "https://baijiahao.baidu.com/s?id=1817435626266202826&wfr=spider&for=pc",
+      "time": "2024年12月3日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_151",
+      "title": "韩国戒严军试图破窗进入国会，逮捕参加会议议员",
+      "link": "https://baijiahao.baidu.com/s?id=1817435026138876573",
+      "time": "2024年12月3日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_152",
+      "title": "韩国国会开始举行解除戒严会议",
+      "link": "https://baijiahao.baidu.com/s?id=1817434932381550250",
+      "time": "2024年12月3日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_153",
+      "title": "韩国国会门口有大批民众聚集 要求进入国会",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_3618470822905147979&sourceFrom=share",
+      "time": "2024年12月3日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_154",
+      "title": "韩国总统府周边进入全面管制状态",
+      "link": "https://baijiahao.baidu.com/s?id=1817433896344655665",
+      "time": "2024年12月3日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_155",
+      "title": "韩前总统文在寅发声：希望国民们守护和拯救民主主义",
+      "link": "https://baijiahao.baidu.com/s?id=1817433895895449719&wfr=spider&for=pc",
+      "time": "2024年12月3日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_156",
+      "title": "韩国最大在野党召集紧急议员会议 李在明呼吁民众保护国会",
+      "link": "https://baijiahao.baidu.com/s?id=1817428044479943158",
+      "time": "2024年12月3日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_157",
+      "title": "李在明：尹锡悦不再是韩国总统了",
+      "link": "https://baijiahao.baidu.com/s?id=1817432479313340274&wfr=spider&for=pc",
+      "time": "2024年12月3日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_158",
+      "title": "中国驻韩国大使馆：提醒在韩中国公民加强安全防范",
+      "link": "https://baijiahao.baidu.com/s?id=1817432168409365335&wfr=spider&for=pc",
+      "time": "2024年12月3日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_159",
+      "title": "韩国戒严司令部发布一号戒严令：禁止国会和政党活动",
+      "link": "https://baijiahao.baidu.com/s?id=1817431219184343760",
+      "time": "2024年12月3日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_160",
+      "title": "韩要求罢工的医生48小时内返岗",
+      "link": "https://baijiahao.baidu.com/s?id=1817431030233880822&wfr=spider&for=pc",
+      "time": "2024年12月3日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_161",
+      "title": "韩国禁止集会示威等政治活动",
+      "link": "https://baijiahao.baidu.com/s?id=1817430305357612216&wfr=spider&for=pc",
+      "time": "2024年12月3日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_162",
+      "title": "韩国国会前出现冲突 在野党辅佐团和警方对峙",
+      "link": "https://baijiahao.baidu.com/s?id=1817429865695377705&wfr=spider&for=pc",
+      "time": "2024年12月3日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_163",
+      "title": "韩国国会出入口关闭 国会议员不可通行",
+      "link": "https://baijiahao.baidu.com/s?id=1817429552609788535",
+      "time": "2024年12月3日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_164",
+      "title": "韩国最大在野党召集议员前往国会讨论应对紧急戒严令",
+      "link": "https://baijiahao.baidu.com/s?id=1817429456869603202&wfr=spider&for=pc",
+      "time": "2024年12月3日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_165",
+      "title": "受韩国深夜宣布紧急戒严消息影响，韩国币圈集体跳水",
+      "link": "https://baijiahao.baidu.com/s?id=1817429148943910750&wfr=spider&for=pc",
+      "time": "2024年12月3日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_166",
+      "title": "韩媒：尹锡悦宣布紧急戒严令后，韩国国会入口和出口被封锁",
+      "link": "https://baijiahao.baidu.com/s?id=1817429077932042814&wfr=spider&for=pc",
+      "time": "2024年12月3日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_167",
+      "title": "韩国执政党代表：尹锡悦宣布“紧急戒严”是错误的",
+      "link": "https://baijiahao.baidu.com/s?id=1817428702814396814",
+      "time": "2024年12月3日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_168",
+      "title": "李在明表示，韩国总统尹锡悦宣布戒严令为违宪行为",
+      "link": "https://baijiahao.baidu.com/s?id=1817428263002184825&wfr=spider&for=pc",
+      "time": "2024年12月3日",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 160,
+  "scrape_time": "2025-09-12 08:42:49"
+}

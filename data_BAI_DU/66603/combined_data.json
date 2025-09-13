@@ -1,0 +1,298 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 09:52:27"
+  },
+  "core_event": {
+    "core_event_name": "美国男篮梦八队入选名人堂",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:50:33"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "梦之队入选名人堂",
+      "link": "http://new.qq.com/rain/a/20250908V05LMU00",
+      "time": "9月10日 06:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "Slam官方祝贺08美国男篮进入名人堂",
+      "link": "http://voice.hupu.com/bbs/634737199",
+      "time": "9月8日 08:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美国男篮梦之队入选名人堂",
+      "link": "http://weibo.com/5831182984/Q3t8RhDWv",
+      "time": "9月7日 15:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "2025奈史密斯名人堂入堂仪式举行",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-07/doc-infpsaue0173098.shtml",
+      "time": "9月7日 15:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "詹姆斯谈08奥运:科比让所有人都更加专注,我们让他感到骄傲",
+      "link": "http://m.dongqiudi.com/article/5359244.html",
+      "time": "9月7日 14:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "美国男篮梦八队入选名人堂",
+      "link": "http://baijiahao.baidu.com/s?id=1842578856651991817&wfr=spider&for=pc",
+      "time": "9月7日 12:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "美国男篮梦八11人现身名人堂颁奖礼",
+      "link": "http://sports.sina.cn/nba/other/2025-09-07/detail-infprwnp0853561.d.html",
+      "time": "9月7日 12:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "梦八男篮入选名人堂",
+      "link": "http://baijiahao.baidu.com/s?id=1842577983188487045&wfr=spider&for=pc",
+      "time": "9月7日 11:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "美国08梦之队入选篮球名人堂，詹姆斯谈和科比成为“梦八”队友",
+      "link": "http://baijiahao.baidu.com/s?id=1842575004804695983&wfr=spider&for=pc",
+      "time": "9月7日 11:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "2008年美国男篮国家队正式入选名人堂，除科比外的11位“梦八队”球员悉数亮相",
+      "link": "http://baijiahao.baidu.com/s?id=1842572369407697935&wfr=spider&for=pc",
+      "time": "9月7日 10:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "詹姆斯随梦八入选名人堂",
+      "link": "http://baijiahao.baidu.com/s?id=1842572380503686980&wfr=spider&for=pc",
+      "time": "9月7日 10:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "詹姆斯谈和科比成为梦八队友",
+      "link": "http://www.163.com/dy/article/K8RL56TV0552RUAA.html",
+      "time": "9月7日 10:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "基德:安东尼在梦八中缓和了科比詹姆斯之间的关系 他让球队团结",
+      "link": "http://sports.sina.cn/nba/other/2025-09-05/detail-infpmcyk6070674.d.html",
+      "time": "9月5日 11:21",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "梦之队入选名人堂",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250908V05LMU00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:50:49",
+      "event_time": "9月10日 06:10"
+    },
+    {
+      "event_title": "Slam官方祝贺08美国男篮进入名人堂",
+      "event_id": "event_2",
+      "event_url": "http://voice.hupu.com/bbs/634737199",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:50:51",
+      "event_time": "9月8日 08:17"
+    },
+    {
+      "event_title": "美国男篮梦之队入选名人堂",
+      "event_id": "event_3",
+      "event_url": "http://weibo.com/5831182984/Q3t8RhDWv",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:50:53",
+      "event_time": "9月7日 15:56"
+    },
+    {
+      "event_title": "2025奈史密斯名人堂入堂仪式举行",
+      "event_id": "event_4",
+      "event_url": "http://sports.sina.com.cn/basketball/nba/2025-09-07/doc-infpsaue0173098.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:50:55",
+      "event_time": "9月7日 15:10"
+    },
+    {
+      "event_title": "詹姆斯谈08奥运:科比让所有人都更加专注,我们让他感到骄傲",
+      "event_id": "event_5",
+      "event_url": "http://m.dongqiudi.com/article/5359244.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:50:57",
+      "event_time": "9月7日 14:35"
+    },
+    {
+      "event_title": "美国男篮梦八队入选名人堂",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842578856651991817&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "馨馨不吃披萨",
+      "comment_time": "09-07 13:03",
+      "comment_content": "恭喜梦八队入选名人堂，科比的缺席让我们格外怀念他的传奇身影。",
+      "user_location": "陕西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:51:14",
+      "event_time": "9月7日 12:42"
+    },
+    {
+      "event_title": "美国男篮梦八11人现身名人堂颁奖礼",
+      "event_id": "event_7",
+      "event_url": "http://sports.sina.cn/nba/other/2025-09-07/detail-infprwnp0853561.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:51:16",
+      "event_time": "9月7日 12:42"
+    },
+    {
+      "event_title": "梦八男篮入选名人堂",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842577983188487045&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:51:32",
+      "event_time": "9月7日 11:55"
+    },
+    {
+      "event_title": "美国08梦之队入选篮球名人堂，詹姆斯谈和科比成为“梦八”队友",
+      "event_id": "event_9",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842575004804695983&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:51:48",
+      "event_time": "9月7日 11:40"
+    },
+    {
+      "event_title": "2008年美国男篮国家队正式入选名人堂，除科比外的11位“梦八队”球员悉数亮相",
+      "event_id": "event_10",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842572369407697935&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "全网最帅哥",
+      "comment_time": "09-07 11:22",
+      "comment_content": "祝贺梦八队入堂，科比精神永在。球迷致敬太感人了。",
+      "user_location": "河北",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:52:03",
+      "event_time": "9月7日 10:59"
+    },
+    {
+      "event_title": "詹姆斯随梦八入选名人堂",
+      "event_id": "event_11",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842572380503686980&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "风中奇缘做义工",
+      "comment_time": "09-07 12:15",
+      "comment_content": "恭喜梦八队荣耀入选，詹姆斯帅气亮相，救赎之旅圆满收官。",
+      "user_location": "江苏",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:52:19",
+      "event_time": "9月7日 10:52"
+    },
+    {
+      "event_title": "詹姆斯谈和科比成为梦八队友",
+      "event_id": "event_12",
+      "event_url": "http://www.163.com/dy/article/K8RL56TV0552RUAA.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:52:21",
+      "event_time": "9月7日 10:41"
+    },
+    {
+      "event_title": "基德:安东尼在梦八中缓和了科比詹姆斯之间的关系 他让球队团结",
+      "event_id": "event_13",
+      "event_url": "http://sports.sina.cn/nba/other/2025-09-05/detail-infpmcyk6070674.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:52:23",
+      "event_time": "9月5日 11:21"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 13,
+    "total_comments": 13,
+    "events_with_comments": 13,
+    "level1_scrape_time": "2025-09-12 09:50:48",
+    "level2_scrape_time": "2025-09-12 09:52:23"
+  }
+}

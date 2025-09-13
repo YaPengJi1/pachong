@@ -1,0 +1,100 @@
+{
+  "core_info": {
+    "core_event_name": "新款吉利星越L·东方曜亮相",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:39:54"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "吉利全新星瑞 / 星越 L・东方曜汽车预售",
+      "link": "http://www.ithome.com/0/881/613.htm",
+      "time": "9月9日 19:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "吉利全新星瑞 / 星越 L・东方曜汽车将于 9 月 9 日开启预售",
+      "link": "http://www.ithome.com/0/881/268.htm",
+      "time": "9月8日 16:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "星越L全新东方曜亮相成都车展",
+      "link": "http://www.163.com/dy/article/K8ROAANA05566SCS.html",
+      "time": "9月7日 11:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "吉利银河星耀6全球首秀，国民电混“小AMG”来了",
+      "link": "http://baijiahao.baidu.com/s?id=1842436986493557366&wfr=spider&for=pc",
+      "time": "9月5日 23:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "吉利银河L7量产车组合动力系统上市",
+      "link": "http://www.pcauto.com.cn/hj/article/3050752.html",
+      "time": "9月5日 20:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "新款吉利星越L·东方曜亮相",
+      "link": "http://weibo.com/1653452525/Q33M6h2IO",
+      "time": "9月4日 23:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "中国星全新东方曜系列成都车展亮相",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10289400688469927229",
+      "time": "9月4日 11:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "吉利银河官宣:星耀 6 电混家轿全球首秀定档 9 月 5 日",
+      "link": "http://www.ithome.com/0/880/261.htm",
+      "time": "9月4日 09:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "4台燃油新车将上市",
+      "link": "http://m.sohu.com/a/931569532_114596",
+      "time": "9月3日 18:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "吉利东方曜系列亮相，成都车展“性价比组合”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5264540718077257744",
+      "time": "9月1日 13:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "吉利全新东方曜星越L星瑞亮相，燃油车智能化再进阶",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=18279838314485309591",
+      "time": "8月29日 18:25",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 11,
+  "scrape_time": "2025-09-13 01:40:08"
+}

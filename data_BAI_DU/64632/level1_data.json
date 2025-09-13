@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "华为Mate XTs发布",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:41:38"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "华为官宣“见非凡”品牌活动再启航",
+      "link": "http://mobile.yesky.com/363/310363.shtml",
+      "time": "9月5日 14:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "华为Mate XTs 非凡大师及全场景新品发布会召开,多款重磅产品正式亮相",
+      "link": "http://app.myzaker.com/news/article.php?v=1.0&pk=68b9c3178e9f0913e9619a0e",
+      "time": "9月4日 22:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "华为发布Mate XTs非凡大师折叠屏手机,17999元起售",
+      "link": "http://news.zol.com.cn/1041/10414973.html",
+      "time": "9月4日 18:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "华为Mate XTs预售不到一分钟即售罄 9月29日前发货",
+      "link": "http://baijiahao.baidu.com/s?id=1842373775169800214&wfr=spider&for=pc",
+      "time": "9月4日 18:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "华为Mate XTs三折叠登场!在手机上也能用PC应用",
+      "link": "http://news.iresearch.cn/yx/2025/09/533372.shtml",
+      "time": "9月4日 17:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "华为发布会官宣:九月起大批热门鸿蒙游戏上线",
+      "link": "http://www.ithome.com/0/880/399.htm",
+      "time": "9月4日 15:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "华为Mate XTs 三折叠手机非凡影像升级",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b940038e9f09113408fcf1",
+      "time": "9月4日 15:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "9月开启鸿蒙6.0消费者公测",
+      "link": "http://weibo.com/7851818187/Q23wN59ba",
+      "time": "8月29日 08:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "华为Mate XTs 定档,将于 9 月 4 日发布",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17729301867677108050",
+      "time": "8月27日 19:54",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-13 01:41:52"
+}

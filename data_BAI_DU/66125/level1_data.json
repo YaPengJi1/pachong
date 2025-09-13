@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "现货黄金突破3800美元",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:38:00"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "黄金价格屡创新高 多因素推动价格上涨",
+      "link": "http://tv.cctv.com/2025/09/04/VIDEOyN5uBRHHjjeFJZLOLe4250904.shtml",
+      "time": "9月4日 08:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "金价创新高,贵金属板块逆市上扬!上半年4家黄金矿业上市公司净利润翻倍",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4080850696102257884",
+      "time": "9月3日 15:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "现货黄金再创新高，机构看高金价至3800美元",
+      "link": "http://finance.sina.cn/2025-09-03/detail-infpemns4702054.d.html",
+      "time": "9月3日 07:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "金价迭创新高，黄金主题ETF年内资金净流入超580亿元",
+      "link": "http://app.myzaker.com/news/article.php?m=1756942240&pk=68b77e3fb15ec0386f787ba8",
+      "time": "9月3日 07:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "现货黄金突破3500美元,刷新历史新高",
+      "link": "http://finance.sina.cn/2025-09-02/detail-infpatck8858532.d.html",
+      "time": "9月2日 11:49",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 14:38:14"
+}

@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "阿根廷世预赛",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:26:11"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "阿根廷vs委内瑞拉集锦",
+      "link": "http://weibo.com/1275418863/Q3bqdmg60",
+      "time": "9月5日 18:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "阿根廷vs委内瑞拉:梅西领衔,马斯坦托诺、德保罗出战",
+      "link": "http://www.dongqiudi.com/articles/5353815.html",
+      "time": "9月5日 06:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "世预赛阿根廷主场碾压委内瑞拉",
+      "link": "http://www.sohu.com/a/931822540_122496693",
+      "time": "9月4日 14:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "梅西领衔全主力出战，劳塔罗&麦卡首发成疑",
+      "link": "http://k.sina.com.cn/article_2018499075_784fda0302002hesa.html",
+      "time": "9月3日 14:12",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 14:26:26"
+}

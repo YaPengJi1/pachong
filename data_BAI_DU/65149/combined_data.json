@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 19:12:13"
+  },
+  "core_event": {
+    "core_event_name": "东吴证券对汽车股评级",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:11:45"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "东吴证券:给予麦格米特买入评级",
+      "link": "http://app.myzaker.com/news/article.php?pk=68babd9c8e9f0974cf3f1c50",
+      "time": "9月5日 18:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "东吴证券:首予科士达“买入”评级,25年全年有望稳健增长",
+      "link": "http://finance.sina.com.cn/stock/bxjj/2025-09-04/doc-infpifih6929561.shtml",
+      "time": "9月4日 15:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "东吴证券:给予伯特利买入评级",
+      "link": "http://stock.stockstar.com/RB2025090100025827.shtml",
+      "time": "9月1日 18:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "东吴证券给予奥迪威买入评级",
+      "link": "http://m.sohu.com/a/930477266_115377",
+      "time": "8月31日 18:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "东吴证券给予比亚迪买入评级",
+      "link": "http://www.sohu.com/a/930165604_115377",
+      "time": "8月30日 13:21",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "东吴证券:给予麦格米特买入评级",
+      "event_id": "event_1",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68babd9c8e9f0974cf3f1c50",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:12:01",
+      "event_time": "9月5日 18:33"
+    },
+    {
+      "event_title": "东吴证券:首予科士达“买入”评级,25年全年有望稳健增长",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.com.cn/stock/bxjj/2025-09-04/doc-infpifih6929561.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:12:03",
+      "event_time": "9月4日 15:19"
+    },
+    {
+      "event_title": "东吴证券:给予伯特利买入评级",
+      "event_id": "event_3",
+      "event_url": "http://stock.stockstar.com/RB2025090100025827.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:12:05",
+      "event_time": "9月1日 18:16"
+    },
+    {
+      "event_title": "东吴证券给予奥迪威买入评级",
+      "event_id": "event_4",
+      "event_url": "http://m.sohu.com/a/930477266_115377",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:12:07",
+      "event_time": "8月31日 18:31"
+    },
+    {
+      "event_title": "东吴证券给予比亚迪买入评级",
+      "event_id": "event_5",
+      "event_url": "http://www.sohu.com/a/930165604_115377",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:12:09",
+      "event_time": "8月30日 13:21"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 19:11:59",
+    "level2_scrape_time": "2025-09-12 19:12:09"
+  }
+}

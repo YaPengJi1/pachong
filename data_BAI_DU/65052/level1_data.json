@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "电商巨头布局硬折扣超市寻增量",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:32:43"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "超市价格暴跌!美团、阿里、京东又“杀进”折扣超市",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31541523",
+      "time": "9月4日 20:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "京东、美团、阿里密集布局线下硬折扣超市",
+      "link": "http://m.jrj.com.cn/madapter/finance/2025/09/04063852908773.shtml",
+      "time": "9月4日 06:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "电商巨头纷纷布局硬折扣超市寻增量",
+      "link": "http://baijiahao.baidu.com/s?id=1842260248458922515&wfr=spider&for=pc",
+      "time": "9月4日 00:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "京东阿里美团再进折扣超市巷战",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b81d181bc8e06123000003",
+      "time": "9月3日 18:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "京东、阿里、美团“生态卡位”折扣超市",
+      "link": "http://www.nbd.com.cn/articles/2025-09-02/4046696.html",
+      "time": "9月2日 22:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "京东盒马美团齐开线下折扣超市,生鲜价格战打响",
+      "link": "http://baijiahao.baidu.com/s?id=1842149818488805832&wfr=spider&for=pc",
+      "time": "9月2日 18:29",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 17:32:58"
+}

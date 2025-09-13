@@ -1,0 +1,92 @@
+{
+  "core_info": {
+    "core_event_name": "阿根廷队备战2026世界杯",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:54:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "奥莱报分析阿根廷世界杯名单:梅西、劳塔罗等15人铁定入选",
+      "link": "http://www.dongqiudi.com/articles/5366430.html",
+      "time": "昨天 18:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "因凡蒂诺：两天后将会关于世界杯的重大消息宣布",
+      "link": "http://www.dongqiudi.com/articles/5361948.html",
+      "time": "9月9日 01:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "因凡蒂诺:两天后将有关于世界杯的重大消息宣布",
+      "link": "http://m.dongqiudi.com/article/5361948.html",
+      "time": "9月9日 01:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "阿根廷队10月份将在美国对阵委内瑞拉和波多黎各",
+      "link": "http://www.dongqiudi.com/articles/5358612.html",
+      "time": "9月7日 03:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "是否会参加明年世界杯?梅西:这取决于我的状态",
+      "link": "http://www.dongqiudi.com/articles/5355426.html",
+      "time": "9月5日 11:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "梅西可能迎来阿根廷国家队主场最后一战",
+      "link": "http://www.dongqiudi.com/articles/5354940.html",
+      "time": "9月5日 06:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "阿根廷队发布对阵委内瑞拉海报 队长梅西单人出镜",
+      "link": "http://www.163.com/dy/article/K8L0IU0N0529AQIE.html",
+      "time": "9月4日 20:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "阿根廷对阵委内瑞拉，梅西率队出战",
+      "link": "http://k.sina.com.cn/article_2427613143_90b26fd70400186ku.html",
+      "time": "9月2日 09:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "阿根廷队备战2026世界杯",
+      "link": "http://www.163.com/dy/article/K8E13K7L05415IEQ.html",
+      "time": "9月2日 03:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "阿根廷国家队安排:3日举行主帅新闻发布会,5日8时对阵委内瑞拉",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hb1o",
+      "time": "9月1日 07:01",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 10,
+  "scrape_time": "2025-09-12 23:54:46"
+}

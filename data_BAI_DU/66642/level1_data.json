@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "国足选帅15天冲刺",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:24:54"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国足选帅再启动 理想型教练应该什么样",
+      "link": "http://www.xnwbw.com/html/2025-09/10/content_337988.htm",
+      "time": "9月10日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "国足选帅分析，外教更合适，新任主帅亮相，土帅压力巨大",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=14909013895112823509",
+      "time": "9月7日 19:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国足选帅15天冲刺，7大条件卡掉本土帅",
+      "link": "http://www.sohu.com/a/932500224_121683270",
+      "time": "9月6日 22:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "国足选帅“外教优先”：是破局良药还是饮鸩止渴？",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5357743369383594709",
+      "time": "9月6日 07:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "国足公开选帅:目标打进2030世界杯",
+      "link": "http://baijiahao.baidu.com/s?id=1842433972155987792&wfr=spider&for=pc",
+      "time": "9月5日 18:26",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 10:25:08"
+}

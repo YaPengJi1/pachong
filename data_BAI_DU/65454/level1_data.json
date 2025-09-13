@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "泰国当选总理阿努廷组阁",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:14:12"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "泰国当选总理阿努廷开始组建内阁",
+      "link": "http://baijiahao.baidu.com/s?id=1842563761371390797&wfr=spider&for=pc",
+      "time": "9月7日 08:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "阿努廷当选新总理!佩通坦发声,给出两个重点",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7161495286609421433",
+      "time": "9月6日 21:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "新总理人选已定!为泰党将成为反对派,他信、佩通坦还有后招",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3890288901174017595",
+      "time": "9月6日 10:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "阿努廷当选泰国总理",
+      "link": "http://www.163.com/dy/article/K8NJCM1E0519APGA.html",
+      "time": "9月5日 20:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "泰国:自豪泰党党首阿努廷当选新一任总理",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17835377001041854237",
+      "time": "9月5日 19:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "泰国自豪泰党党首阿努廷获国会过半数支持 将出任新总理",
+      "link": "http://k.sina.com.cn/article_1598078571_m5f40be6b03301aet4.html",
+      "time": "9月5日 17:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "泰国政坛一夜变天!阿努廷获人民党支持组阁,为泰党惨遭重大挫败",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7902134008419030218",
+      "time": "9月5日 16:12",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-13 00:14:27"
+}

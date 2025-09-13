@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:41:02"
+  },
+  "core_event": {
+    "core_event_name": "特朗普夸中国阅兵",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:40:19"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普夸中国阅兵“太震撼”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3073735513247227790",
+      "time": "9月4日 17:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "“我确实在看九三阅兵” 特朗普:很精彩 非常非常令人印象深刻",
+      "link": "http://finance.eastmoney.com/a/202509043504872375.html",
+      "time": "9月4日 16:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普评论中国阅兵,中方回应",
+      "link": "http://baijiahao.baidu.com/s?id=1842345174205660436&wfr=spider&for=pc",
+      "time": "9月4日 16:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普惊人提起中国阅兵，当众连说三个“不”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13973620947797462348",
+      "time": "9月4日 01:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "特朗普与波兰总统会晤时透露看了中国的阅兵",
+      "link": "http://www.bilibili.com/video/BV1vha6zKEjJ",
+      "time": "9月4日 00:51",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "特朗普夸中国阅兵“太震撼”",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=3073735513247227790",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:40:34",
+      "event_time": "9月4日 17:41"
+    },
+    {
+      "event_title": "“我确实在看九三阅兵” 特朗普:很精彩 非常非常令人印象深刻",
+      "event_id": "event_2",
+      "event_url": "http://finance.eastmoney.com/a/202509043504872375.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:40:36",
+      "event_time": "9月4日 16:51"
+    },
+    {
+      "event_title": "特朗普评论中国阅兵,中方回应",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842345174205660436&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:40:54",
+      "event_time": "9月4日 16:41"
+    },
+    {
+      "event_title": "特朗普惊人提起中国阅兵，当众连说三个“不”",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=13973620947797462348",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:40:56",
+      "event_time": "9月4日 01:26"
+    },
+    {
+      "event_title": "特朗普与波兰总统会晤时透露看了中国的阅兵",
+      "event_id": "event_5",
+      "event_url": "http://www.bilibili.com/video/BV1vha6zKEjJ",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:40:58",
+      "event_time": "9月4日 00:51"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 14:40:33",
+    "level2_scrape_time": "2025-09-12 14:40:58"
+  }
+}

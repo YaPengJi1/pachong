@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 09:47:49"
+  },
+  "core_event": {
+    "core_event_name": "俄沙赫德无人机闯入波兰",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:46:17"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "波兰将关闭波兰与白俄罗斯边境口岸，已与北约盟国启动军事演习",
+      "link": "http://new.qq.com/rain/a/20250911V03RU600",
+      "time": "昨天 12:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "俄沙赫德无人机闯入波兰,北约紧急应对,H26 公路战火重燃?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12200831389764273972",
+      "time": "昨天 11:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "波兰称遭俄罗斯无人机入侵",
+      "link": "http://tv.cctv.com/2025/09/11/VIDEGdRZnv7gO7vcPvFjQSZw250911.shtml",
+      "time": "昨天 08:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "俄罗斯无人机进入波兰?白俄罗斯连夜向波兰立陶宛交换空中雷达信息",
+      "link": "http://www.jfdaily.com/wx/detail.do?id=980552",
+      "time": "昨天 01:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "波兰军方称对侵犯其领空的无人机进行打击",
+      "link": "http://tv.cctv.com/2025/09/10/VIDEvIokJB6HATi8xGsWhC2g250910.shtml",
+      "time": "9月10日 22:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "泽连斯基通告全球，俄军8架无人机突入波兰，引爆国际舆论",
+      "link": "http://baijiahao.baidu.com/s?id=1842885165903035888&wfr=spider&for=pc",
+      "time": "9月10日 21:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "波兰领空遭遇“前所未有的无人机入侵”",
+      "link": "http://baijiahao.baidu.com/s?id=1842866555902820980&wfr=spider&for=pc",
+      "time": "9月10日 16:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "波兰军方:领空遭遇了前所未有的无人机入侵,这是一种“侵略行为”",
+      "link": "http://baijiahao.baidu.com/s?id=1842861106700079149&wfr=spider&for=pc",
+      "time": "9月10日 12:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "波兰军方:波空域屡遭无人机等飞行物侵犯,正在识别并摧毁",
+      "link": "http://baijiahao.baidu.com/s?id=1842844110698879922&wfr=spider&for=pc",
+      "time": "9月10日 10:44",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "波兰将关闭波兰与白俄罗斯边境口岸，已与北约盟国启动军事演习",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250911V03RU600",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:46:32",
+      "event_time": "昨天 12:05"
+    },
+    {
+      "event_title": "俄沙赫德无人机闯入波兰,北约紧急应对,H26 公路战火重燃?",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12200831389764273972",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:46:35",
+      "event_time": "昨天 11:25"
+    },
+    {
+      "event_title": "波兰称遭俄罗斯无人机入侵",
+      "event_id": "event_3",
+      "event_url": "http://tv.cctv.com/2025/09/11/VIDEGdRZnv7gO7vcPvFjQSZw250911.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:46:37",
+      "event_time": "昨天 08:27"
+    },
+    {
+      "event_title": "俄罗斯无人机进入波兰?白俄罗斯连夜向波兰立陶宛交换空中雷达信息",
+      "event_id": "event_4",
+      "event_url": "http://www.jfdaily.com/wx/detail.do?id=980552",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:46:39",
+      "event_time": "昨天 01:54"
+    },
+    {
+      "event_title": "波兰军方称对侵犯其领空的无人机进行打击",
+      "event_id": "event_5",
+      "event_url": "http://tv.cctv.com/2025/09/10/VIDEvIokJB6HATi8xGsWhC2g250910.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:46:41",
+      "event_time": "9月10日 22:26"
+    },
+    {
+      "event_title": "泽连斯基通告全球，俄军8架无人机突入波兰，引爆国际舆论",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842885165903035888&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:46:58",
+      "event_time": "9月10日 21:50"
+    },
+    {
+      "event_title": "波兰领空遭遇“前所未有的无人机入侵”",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842866555902820980&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "_刘辈",
+      "comment_time": "09-10 17:14",
+      "comment_content": "和平的天空需要共同守护，愿世界少些纷争多些安宁！",
+      "user_location": "内蒙古",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:47:14",
+      "event_time": "9月10日 16:55"
+    },
+    {
+      "event_title": "波兰军方:领空遭遇了前所未有的无人机入侵,这是一种“侵略行为”",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842861106700079149&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "沧海小熊笑DQ",
+      "comment_time": "09-10 19:17",
+      "comment_content": "波兰军方反应迅速，无人机入侵？直接‘拍’下来！",
+      "user_location": "安徽",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:47:30",
+      "event_time": "9月10日 12:32"
+    },
+    {
+      "event_title": "波兰军方:波空域屡遭无人机等飞行物侵犯,正在识别并摧毁",
+      "event_id": "event_9",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842844110698879922&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:47:45",
+      "event_time": "9月10日 10:44"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 9,
+    "total_comments": 9,
+    "events_with_comments": 9,
+    "level1_scrape_time": "2025-09-12 09:46:31",
+    "level2_scrape_time": "2025-09-12 09:47:45"
+  }
+}

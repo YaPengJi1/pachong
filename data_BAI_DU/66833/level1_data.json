@@ -1,0 +1,92 @@
+{
+  "core_info": {
+    "core_event_name": "WTT澳门冠军赛王楚钦晋级",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:14:58"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "WTT澳门冠军赛男单首轮，王楚钦顺利晋级",
+      "link": "http://finance.sina.cn/2025-09-09/detail-infpxfvy8466092.d.html",
+      "time": "9月9日 21:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "澳门赛首日压轴战上演!王楚钦闪亮登场迎首秀,球迷举手机狂拍",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10951086225169013487",
+      "time": "9月9日 21:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "澳门冠军赛男单签位，国乒下下签，林诗栋迎战强敌",
+      "link": "http://sports.sina.cn/others/2025-09-09/detail-infpwqym3677884.d.html",
+      "time": "9月9日 15:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "澳门冠军赛王楚钦压轴,松岛辉空挑战,大满贯揭幕",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6939190476587398525",
+      "time": "9月9日 13:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "王楚钦空降澳门,梁靖崑退赛压力山大,独扛重担冲击冠军!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3669268938937426865",
+      "time": "9月9日 04:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "WTT澳门冠军赛举行抽签仪式",
+      "link": "http://m.gmw.cn/toutiao/2025-09/08/content_38270915.htm",
+      "time": "9月8日 09:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "WTT澳门冠军赛男单签表出炉,王楚钦独守半区",
+      "link": "http://baijiahao.baidu.com/s?id=1842650143315683746&wfr=spider&for=pc",
+      "time": "9月8日 07:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "WTT澳门冠军赛签表出炉",
+      "link": "http://www.jfdaily.com/news/detail?id=978371",
+      "time": "9月7日 18:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "WTT澳门冠军赛签表出炉，孙颖莎对战赫尔希，王楚钦独守下半区",
+      "link": "http://baijiahao.baidu.com/s?id=1842597992958490868&wfr=spider&for=pc",
+      "time": "9月7日 17:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "WTT澳门冠军赛男单签表正式出炉",
+      "link": "http://news.cnhubei.com/content/2025-09/07/content_19481390.html",
+      "time": "9月7日 16:59",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 10,
+  "scrape_time": "2025-09-12 10:15:12"
+}

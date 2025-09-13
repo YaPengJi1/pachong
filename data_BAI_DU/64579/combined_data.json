@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:34:15"
+  },
+  "core_event": {
+    "core_event_name": "谷歌发布Nano Banana官方提示词",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:32:57"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "被网友逼着改名的谷歌Nano Banana,正在抢99%时尚博主的饭碗",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31548075",
+      "time": "9月6日 21:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "谷歌Gemini上线文生图模型“Nano Banana”",
+      "link": "http://www.ithome.com/0/880/958.htm",
+      "time": "9月6日 21:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "AI“P图”爆火出圈:Nano Banana一周为谷歌Gemini吸引千万新用户",
+      "link": "http://baijiahao.baidu.com/s?id=1842376150969014638&wfr=spider&for=pc",
+      "time": "9月5日 07:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "谷歌发布15页官方提示词全解",
+      "link": "http://baijiahao.baidu.com/s?id=1842331450731298253&wfr=spider&for=pc",
+      "time": "9月4日 18:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "谷歌放出Nano Banana六大正宗Prompt玩法",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31534953",
+      "time": "9月4日 14:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "谷歌推出Nano Banana官方终极指南",
+      "link": "http://finance.sina.cn/2025-09-03/detail-infpemnt3001353.d.html",
+      "time": "9月3日 08:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "谷歌AI新里程碑!Nano Banana火爆出圈!AI图片编辑史诗级升级",
+      "link": "http://baijiahao.baidu.com/s?id=1842035297656069736&wfr=spider&for=pc",
+      "time": "9月1日 09:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "谷歌又赢了!Nano Banana 正式上线",
+      "link": "http://news.sina.cn/ai/2025-08-31/detail-infnwmfa3663009.d.html?ofcode=$ofcode",
+      "time": "8月31日 17:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "谷歌疯狂工程师死磕文字渲染，意外炼出最强模型",
+      "link": "http://news.sina.cn/ai/2025-08-30/detail-infntzyh1622149.d.html?search_word=$search_word",
+      "time": "8月30日 16:41",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "被网友逼着改名的谷歌Nano Banana,正在抢99%时尚博主的饭碗",
+      "event_id": "event_1",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31548075",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:33:13",
+      "event_time": "9月6日 21:21"
+    },
+    {
+      "event_title": "谷歌Gemini上线文生图模型“Nano Banana”",
+      "event_id": "event_2",
+      "event_url": "http://www.ithome.com/0/880/958.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:33:15",
+      "event_time": "9月6日 21:15"
+    },
+    {
+      "event_title": "AI“P图”爆火出圈:Nano Banana一周为谷歌Gemini吸引千万新用户",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842376150969014638&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:33:31",
+      "event_time": "9月5日 07:00"
+    },
+    {
+      "event_title": "谷歌发布15页官方提示词全解",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842331450731298253&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:33:47",
+      "event_time": "9月4日 18:49"
+    },
+    {
+      "event_title": "谷歌放出Nano Banana六大正宗Prompt玩法",
+      "event_id": "event_5",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31534953",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:33:49",
+      "event_time": "9月4日 14:24"
+    },
+    {
+      "event_title": "谷歌推出Nano Banana官方终极指南",
+      "event_id": "event_6",
+      "event_url": "http://finance.sina.cn/2025-09-03/detail-infpemnt3001353.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:33:51",
+      "event_time": "9月3日 08:46"
+    },
+    {
+      "event_title": "谷歌AI新里程碑!Nano Banana火爆出圈!AI图片编辑史诗级升级",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842035297656069736&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:34:07",
+      "event_time": "9月1日 09:36"
+    },
+    {
+      "event_title": "谷歌又赢了!Nano Banana 正式上线",
+      "event_id": "event_8",
+      "event_url": "http://news.sina.cn/ai/2025-08-31/detail-infnwmfa3663009.d.html?ofcode=$ofcode",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:34:09",
+      "event_time": "8月31日 17:33"
+    },
+    {
+      "event_title": "谷歌疯狂工程师死磕文字渲染，意外炼出最强模型",
+      "event_id": "event_9",
+      "event_url": "http://news.sina.cn/ai/2025-08-30/detail-infntzyh1622149.d.html?search_word=$search_word",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:34:11",
+      "event_time": "8月30日 16:41"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 9,
+    "total_comments": 9,
+    "events_with_comments": 9,
+    "level1_scrape_time": "2025-09-13 02:33:12",
+    "level2_scrape_time": "2025-09-13 02:34:11"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "三星Galaxy Z系列手机创新",
+    "update_time": "更新至20250903",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:29:09"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "三星Galaxy Z系列手机",
+      "link": "http://baijiahao.baidu.com/s?id=1842223909735261603&wfr=spider&for=pc",
+      "time": "9月3日 14:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "三星GalaxyZFold7握持感大升级",
+      "link": "http://www.bilibili.com/video/BV1HBhZzhE77",
+      "time": "9月2日 07:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "三星Galaxy Z Flip7手机成为秋日潮流新标签",
+      "link": "http://baijiahao.baidu.com/s?id=1842042225715013446&wfr=spider&for=pc",
+      "time": "9月1日 14:32",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-13 00:29:23"
+}

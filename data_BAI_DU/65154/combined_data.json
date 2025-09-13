@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 19:17:17"
+  },
+  "core_event": {
+    "core_event_name": "20个省份实现生育津贴直接发放至个人",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:16:18"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "生育津贴直接发放至个人,黄岩已实现→",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31550023",
+      "time": "9月4日 09:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "吉安全面实现生育津贴直发个人 超600人次已享便捷服务",
+      "link": "http://nc.jxnews.com.cn/system/2025/09/03/020974154.shtml",
+      "time": "9月4日 09:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "20省份已实现生育津贴直接发放至个人,包括重庆",
+      "link": "http://baijiahao.baidu.com/s?id=1842154754153392657&wfr=spider&for=pc",
+      "time": "9月2日 19:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "20个省份实现生育津贴直接发放至个人",
+      "link": "http://weibo.com/3907394279/Q2IlVv5as",
+      "time": "9月2日 16:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "生育津贴直接发放至个人!这20省份已实现",
+      "link": "http://baijiahao.baidu.com/s?id=1842072464597032714&wfr=spider&for=pc",
+      "time": "9月1日 22:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "生育津贴直接发放至个人,甘肃已实现→",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31524866",
+      "time": "9月1日 19:06",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "生育津贴直接发放至个人,黄岩已实现→",
+      "event_id": "event_1",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31550023",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:16:33",
+      "event_time": "9月4日 09:45"
+    },
+    {
+      "event_title": "吉安全面实现生育津贴直发个人 超600人次已享便捷服务",
+      "event_id": "event_2",
+      "event_url": "http://nc.jxnews.com.cn/system/2025/09/03/020974154.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:16:35",
+      "event_time": "9月4日 09:13"
+    },
+    {
+      "event_title": "20省份已实现生育津贴直接发放至个人,包括重庆",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842154754153392657&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "政2凯",
+      "comment_time": "09-02 20:46",
+      "comment_content": "生育津贴直达个人，惠民政策暖人心！",
+      "user_location": "黑龙江",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 19:16:53",
+      "event_time": "9月2日 19:48"
+    },
+    {
+      "event_title": "20个省份实现生育津贴直接发放至个人",
+      "event_id": "event_4",
+      "event_url": "http://weibo.com/3907394279/Q2IlVv5as",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:16:55",
+      "event_time": "9月2日 16:50"
+    },
+    {
+      "event_title": "生育津贴直接发放至个人!这20省份已实现",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842072464597032714&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "财经第一手",
+      "comment_time": "09-01 22:54",
+      "comment_content": "津贴直达，幸福到家！",
+      "user_location": "湖南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:17:11",
+      "event_time": "9月1日 22:33"
+    },
+    {
+      "event_title": "生育津贴直接发放至个人,甘肃已实现→",
+      "event_id": "event_6",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31524866",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:17:13",
+      "event_time": "9月1日 19:06"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 19:16:32",
+    "level2_scrape_time": "2025-09-12 19:17:13"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "美元可能迎来降息，黄金迎来上涨",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:48:18"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "黄金价格再创新高",
+      "link": "http://tv.cctv.com/2025/09/10/VIDEYULUVxrTKFMxs917nOkv250910.shtml",
+      "time": "9月10日 12:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "黄金创历史新高",
+      "link": "http://baijiahao.baidu.com/s?id=1842739736232967999&wfr=spider&for=pc",
+      "time": "9月8日 21:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "黄金:非农疲软创新高,年内或降息三次",
+      "link": "http://stock.hexun.com/2025-09-08/221248461.html",
+      "time": "9月8日 15:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美联储降息预期升温推动黄金价格创历史新高,白银走势相对疲软",
+      "link": "http://www.yicai.com/video/102813531.html",
+      "time": "9月8日 15:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美元可能迎来降息 黄金迎来上涨",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6180357136278028229",
+      "time": "9月6日 17:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "马斯克,天价薪酬刷屏!黄金,又大涨",
+      "link": "http://baijiahao.baidu.com/s?id=1842488714388472558&wfr=spider&for=pc",
+      "time": "9月6日 08:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "黄金价格大涨",
+      "link": "http://baijiahao.baidu.com/s?id=1842466273370978086&wfr=spider&for=pc",
+      "time": "9月6日 06:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "金价,创历史新高",
+      "link": "http://baijiahao.baidu.com/s?id=1842312921853804373&wfr=spider&for=pc",
+      "time": "9月4日 14:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "美联储降息预期升温推动贵金属价格集体走高",
+      "link": "http://www.sohu.com/a/931386019_121925623",
+      "time": "9月3日 10:06",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 14:48:32"
+}

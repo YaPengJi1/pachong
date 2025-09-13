@@ -1,0 +1,236 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普盟友查理·柯克遭枪杀",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:20:57"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美国 特朗普政治盟友查理·柯克遭枪击死亡 柯克生前曾称“枪击是持枪自由的代价”",
+      "link": "http://tv.cctv.com/2025/09/11/VIDEG1ObXzmJLSU8TWAP5lM4250911.shtml",
+      "time": "昨天 22:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特朗普政治盟友演讲时遭枪杀 曾公开支持持枪",
+      "link": "http://new.qq.com/rain/a/20250911V08KRF00",
+      "time": "昨天 20:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普政治盟友柯克演讲时遭枪击死亡 美国犹他州州长:这是一场“政治暗杀”",
+      "link": "http://tv.cctv.com/2025/09/11/VIDEvohLY4YDHhuGFvbWdO4f250911.shtml",
+      "time": "昨天 19:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普政治盟友柯克演讲时遭枪击死亡 英媒:柯克之死暴露美国政治分歧",
+      "link": "http://tv.cctv.com/2025/09/11/VIDEzrY4q0rzPmdgbg9cyBJT250911.shtml",
+      "time": "昨天 17:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "特朗普政治盟友柯克演讲时遭枪击死亡 犹他州州长:这是一场“政治暗杀”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10182825311255071813",
+      "time": "昨天 17:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "特朗普政治盟友柯克演讲时遭枪击死亡",
+      "link": "http://tv.cctv.com/2025/09/11/VIDEtTPWsix6oz7oDANBvfyG250911.shtml",
+      "time": "昨天 13:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "特朗普称查理·柯克已身亡",
+      "link": "http://weibo.com/3304893401/Q43UZFB5f",
+      "time": "昨天 13:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "查理·柯克遇刺前对夏洛特轻轨刺杀案发表评论",
+      "link": "http://new.qq.com/rain/a/20250911V047TI00",
+      "time": "昨天 13:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "特朗普发表全国讲话谴责这是美国的黑暗时刻，全美降半旗致哀",
+      "link": "http://weibo.com/7839418566/Q43GbkCrq",
+      "time": "昨天 12:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "美国 特朗普政治盟友遭枪击身亡",
+      "link": "http://tv.cctv.com/2025/09/11/VIDEvwtl6QuVgsWqthVbKccC250911.shtml",
+      "time": "昨天 12:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "美国 特朗普政治盟友柯克演讲时遭枪击死亡 犹他州州长:这是一场“政治暗杀”",
+      "link": "http://tv.cctv.com/2025/09/11/VIDE4xxsROmEJ7sEFXGA3sp8250911.shtml",
+      "time": "昨天 12:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "美国 特朗普政治盟友柯克演讲时遭枪击死亡",
+      "link": "http://tv.cctv.com/2025/09/11/VIDE8wciXafN7MoYFZVein9o250911.shtml",
+      "time": "昨天 12:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "特朗普政治盟友演讲时遭枪击身亡",
+      "link": "http://tv.cctv.com/2025/09/11/VIDEJ4L9zsJ6L20V1E4EK2CQ250911.shtml",
+      "time": "昨天 12:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "美国枪声再起，特朗普年轻“盟友”被刺杀",
+      "link": "http://news.dayoo.com/gzrbrmt/202509/11/170628_54871507.htm",
+      "time": "昨天 11:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "特朗普重要盟友在演讲治理枪击案时遭枪击死亡",
+      "link": "http://baijiahao.baidu.com/s?id=1842936130723073130&wfr=spider&for=pc",
+      "time": "昨天 11:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "著名右翼评论员柯克遇刺身亡,美帝为何频现刺杀?",
+      "link": "http://baijiahao.baidu.com/s?id=1842936660255765682&wfr=spider&for=pc",
+      "time": "昨天 11:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "盟友遭“政治暗杀” 枪手仍在逃 特朗普称美国遭遇黑暗时刻",
+      "link": "http://baijiahao.baidu.com/s?id=1842936375330417067&wfr=spider&for=pc",
+      "time": "昨天 11:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "特朗普下令全国降半旗致哀",
+      "link": "http://www.jfdaily.com/news/detail?id=980694",
+      "time": "昨天 11:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "美媒:枪杀特朗普政治盟友被拘的“嫌疑人”已被释放 搜捕仍在继续",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7192294342582588276",
+      "time": "昨天 11:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "查理·柯克被枪杀,特朗普下令降半旗!",
+      "link": "http://cj.sina.com.cn/articles/view/1919072083/7262b753020016svg",
+      "time": "昨天 10:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_21",
+      "title": "美国:特朗普政治盟友演讲时遭枪击身亡",
+      "link": "http://tv.cctv.com/2025/09/11/VIDEZY6ZCEL60mLXKxSdN3kP250911.shtml",
+      "time": "昨天 10:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_22",
+      "title": "特朗普盟友演讲时遭枪击身亡",
+      "link": "http://baijiahao.baidu.com/s?id=1842931559952723255&wfr=spider&for=pc",
+      "time": "昨天 10:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_23",
+      "title": "特朗普政治盟友查理·柯克演讲时遭枪击身亡",
+      "link": "http://www.chinanews.com.cn/tp/hd2011/2025/09-11/1164599.shtml",
+      "time": "昨天 09:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_24",
+      "title": "特朗普政治盟友被枪击后美警抓错嫌疑犯，FBI称抓到人后又将其释放",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13875110164993613211",
+      "time": "昨天 09:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_25",
+      "title": "特朗普政治盟友遭枪击身亡全美降半旗 嫌疑人已获释",
+      "link": "http://baijiahao.baidu.com/s?id=1842925930935828128&wfr=spider&for=pc",
+      "time": "昨天 08:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_26",
+      "title": "特朗普政治盟友遭枪击身亡 凶手尚未落网",
+      "link": "http://www.mrjjxw.com/articles/2025-09-11/4056656.html",
+      "time": "昨天 07:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_27",
+      "title": "特朗普下令全国降半旗哀悼",
+      "link": "http://new.qq.com/rain/a/20250911A01AUI00",
+      "time": "昨天 07:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_28",
+      "title": "保守派活动家柯克被枪击后，美国各界强烈谴责凶手",
+      "link": "http://cj.sina.com.cn/articles/view/7321347487/1b462e59f01901db6o",
+      "time": "昨天 06:17",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 28,
+  "scrape_time": "2025-09-12 11:21:12"
+}

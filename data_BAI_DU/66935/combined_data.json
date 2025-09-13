@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:19:52"
+  },
+  "core_event": {
+    "core_event_name": "美网阿尔卡拉斯晋级决赛",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:19:26"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "阿尔卡拉斯晋级，横扫德约科维奇",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8531574504842490737",
+      "time": "9月7日 22:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "阿尔卡拉斯3-0德约科维奇，生涯第二次挺进决赛",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16515422859491936690",
+      "time": "9月7日 07:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "阿尔卡拉斯美网轰6个3-0!22岁已7进大满贯决赛 创6大神迹",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8115627433218045002",
+      "time": "9月6日 22:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "德约0-3阿卡无缘决赛 今年四大满贯均止步半决赛",
+      "link": "http://news.sohu.com/a/932335617_114977",
+      "time": "9月6日 07:09",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "阿尔卡拉斯晋级，横扫德约科维奇",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8531574504842490737",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:19:42",
+      "event_time": "9月7日 22:22"
+    },
+    {
+      "event_title": "阿尔卡拉斯3-0德约科维奇，生涯第二次挺进决赛",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=16515422859491936690",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:19:44",
+      "event_time": "9月7日 07:46"
+    },
+    {
+      "event_title": "阿尔卡拉斯美网轰6个3-0!22岁已7进大满贯决赛 创6大神迹",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8115627433218045002",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:19:46",
+      "event_time": "9月6日 22:57"
+    },
+    {
+      "event_title": "德约0-3阿卡无缘决赛 今年四大满贯均止步半决赛",
+      "event_id": "event_4",
+      "event_url": "http://news.sohu.com/a/932335617_114977",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:19:48",
+      "event_time": "9月6日 07:09"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 10:19:40",
+    "level2_scrape_time": "2025-09-12 10:19:48"
+  }
+}

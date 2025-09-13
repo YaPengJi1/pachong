@@ -1,0 +1,639 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 22:46:58"
+  },
+  "core_event": {
+    "core_event_name": "电影《731》预售破2000万元",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:44:16"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "电影《731》预售票房超3900万,首日排片占比超98.9%,将上映5个2D版本",
+      "link": "http://m.cnhubei.com/content/2025-09/10/content_19489505.html",
+      "time": "9月10日 16:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "3部主旋律电影都扑街，731或成救市赢家",
+      "link": "http://new.qq.com/rain/a/20250910A03DXX00",
+      "time": "9月10日 11:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "《731》即将上映",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31553312",
+      "time": "9月6日 18:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "电影《731》预售破2000万元",
+      "link": "http://www.jfdaily.com/news/detail?id=977988",
+      "time": "9月6日 16:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "《731》开启预售票房大爆，王志文情绪失控",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4581225204885616182",
+      "time": "9月6日 16:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "《731》即将上映!观影前提示务必看!",
+      "link": "http://baijiahao.baidu.com/s?id=1842518508676366272&wfr=spider&for=pc",
+      "time": "9月6日 13:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "电影《731》预售总票房破2000万",
+      "link": "http://news.cnhubei.com/content/2025-09/06/content_19479363.html",
+      "time": "9月6日 13:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "电影《731》预售破2000万,揭日军暴行引关注",
+      "link": "http://news.zol.com.cn/1042/10421075.html",
+      "time": "9月6日 12:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "《731》预售票房破2000万",
+      "link": "http://stock.hexun.com/2025-09-06/221242065.html",
+      "time": "9月6日 11:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "《731》实时预售票房1937万",
+      "link": "http://www.163.com/dy/article/K8P12R8505568TH5.html",
+      "time": "9月6日 10:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "电影《731》发布人物海报,无声控诉历史暴行",
+      "link": "http://www.dzwww.com/xinwen/guoneixinwen/202509/t20250906_16436677.htm",
+      "time": "9月6日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "电影《731》开启预售",
+      "link": "http://www.163.com/dy/article/K8N4JICV0530SFP3.html",
+      "time": "9月5日 16:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "电影《731》英文片名震撼发布",
+      "link": "http://www.jfdaily.com/news/detail?id=977498",
+      "time": "9月5日 16:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "电影《731》预售开启 9月18日上映",
+      "link": "http://baijiahao.baidu.com/s?id=1842396246334786593&wfr=spider&for=pc",
+      "time": "9月5日 16:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "电影《731》发布“勿忘”版预告,英文片名直译为“罪行无界”",
+      "link": "http://news.cnhubei.com/content/2025-09/05/content_19476956.html",
+      "time": "9月5日 13:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "电影《731》预售票房破1000万",
+      "link": "http://news.sina.cn/2025-09-05/detail-infpmkhm0916394.d.html",
+      "time": "9月5日 13:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "电影《731》预售票房破1000万 9月18日正式上映",
+      "link": "http://news.mydrivers.com/1/1072/1072663.htm",
+      "time": "9月5日 12:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "电影《731》预售票房破1000万,想看人数已超430万",
+      "link": "http://baijiahao.baidu.com/s?id=1842394208057760463&wfr=spider&for=pc",
+      "time": "9月5日 11:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "电影《731》最新消息,英文片名确定",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31546233",
+      "time": "9月5日 11:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "电影《731》英文片名亮了",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31546358",
+      "time": "9月5日 10:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_21",
+      "title": "电影《731》片长125分钟,想看人数超666万,将于9月18日上映",
+      "link": "http://yule.bandao.cn/a/1757034358024244.html",
+      "time": "9月5日 09:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_22",
+      "title": "《731》9月18日上映 片长125分钟",
+      "link": "http://m.mnw.cn/movie/huayu/3041211.html",
+      "time": "9月4日 18:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_23",
+      "title": "电影《731》发行通知出炉!9月18日上映,片长125分钟",
+      "link": "http://www.gxnews.com.cn/staticpages/20250904/newgx68b96489-21840616.shtml",
+      "time": "9月4日 18:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_24",
+      "title": "电影《731》发行通知出炉,片长125分钟",
+      "link": "http://baijiahao.baidu.com/s?id=1842331955781405904&wfr=spider&for=pc",
+      "time": "9月4日 16:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_25",
+      "title": "电影《731》发行通知出炉,9月18日上映",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31540735",
+      "time": "9月4日 16:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_26",
+      "title": "影片《731》今日开启预售,票房已突破100万!",
+      "link": "http://baijiahao.baidu.com/s?id=1842321887709688017&wfr=spider&for=pc",
+      "time": "9月4日 16:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_27",
+      "title": "九月新上多部历史片,《731》“想看”人数断层领先",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31521848",
+      "time": "9月1日 14:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_28",
+      "title": "电影《731》预售开启!市民关注度持续升温",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "电影《731》预售票房超3900万,首日排片占比超98.9%,将上映5个2D版本",
+      "event_id": "event_1",
+      "event_url": "http://m.cnhubei.com/content/2025-09/10/content_19489505.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:44:33",
+      "event_time": "9月10日 16:16"
+    },
+    {
+      "event_title": "3部主旋律电影都扑街，731或成救市赢家",
+      "event_id": "event_2",
+      "event_url": "http://new.qq.com/rain/a/20250910A03DXX00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:44:35",
+      "event_time": "9月10日 11:02"
+    },
+    {
+      "event_title": "《731》即将上映",
+      "event_id": "event_3",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31553312",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:44:37",
+      "event_time": "9月6日 18:21"
+    },
+    {
+      "event_title": "电影《731》预售破2000万元",
+      "event_id": "event_4",
+      "event_url": "http://www.jfdaily.com/news/detail?id=977988",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:44:39",
+      "event_time": "9月6日 16:18"
+    },
+    {
+      "event_title": "《731》开启预售票房大爆，王志文情绪失控",
+      "event_id": "event_5",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4581225204885616182",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:44:41",
+      "event_time": "9月6日 16:07"
+    },
+    {
+      "event_title": "《731》即将上映!观影前提示务必看!",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842518508676366272&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:44:57",
+      "event_time": "9月6日 13:12"
+    },
+    {
+      "event_title": "电影《731》预售总票房破2000万",
+      "event_id": "event_7",
+      "event_url": "http://news.cnhubei.com/content/2025-09/06/content_19479363.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:44:59",
+      "event_time": "9月6日 13:03"
+    },
+    {
+      "event_title": "电影《731》预售破2000万,揭日军暴行引关注",
+      "event_id": "event_8",
+      "event_url": "http://news.zol.com.cn/1042/10421075.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:45:01",
+      "event_time": "9月6日 12:40"
+    },
+    {
+      "event_title": "《731》预售票房破2000万",
+      "event_id": "event_9",
+      "event_url": "http://stock.hexun.com/2025-09-06/221242065.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:45:03",
+      "event_time": "9月6日 11:21"
+    },
+    {
+      "event_title": "《731》实时预售票房1937万",
+      "event_id": "event_10",
+      "event_url": "http://www.163.com/dy/article/K8P12R8505568TH5.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:45:05",
+      "event_time": "9月6日 10:11"
+    },
+    {
+      "event_title": "电影《731》发布人物海报,无声控诉历史暴行",
+      "event_id": "event_11",
+      "event_url": "http://www.dzwww.com/xinwen/guoneixinwen/202509/t20250906_16436677.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:45:07",
+      "event_time": "9月6日 00:00"
+    },
+    {
+      "event_title": "电影《731》开启预售",
+      "event_id": "event_12",
+      "event_url": "http://www.163.com/dy/article/K8N4JICV0530SFP3.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:45:09",
+      "event_time": "9月5日 16:34"
+    },
+    {
+      "event_title": "电影《731》英文片名震撼发布",
+      "event_id": "event_13",
+      "event_url": "http://www.jfdaily.com/news/detail?id=977498",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:45:11",
+      "event_time": "9月5日 16:13"
+    },
+    {
+      "event_title": "电影《731》预售开启 9月18日上映",
+      "event_id": "event_14",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842396246334786593&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:45:44",
+      "event_time": "9月5日 16:00"
+    },
+    {
+      "event_title": "电影《731》发布“勿忘”版预告,英文片名直译为“罪行无界”",
+      "event_id": "event_15",
+      "event_url": "http://news.cnhubei.com/content/2025-09/05/content_19476956.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:45:46",
+      "event_time": "9月5日 13:31"
+    },
+    {
+      "event_title": "电影《731》预售票房破1000万",
+      "event_id": "event_16",
+      "event_url": "http://news.sina.cn/2025-09-05/detail-infpmkhm0916394.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:45:48",
+      "event_time": "9月5日 13:06"
+    },
+    {
+      "event_title": "电影《731》预售票房破1000万 9月18日正式上映",
+      "event_id": "event_17",
+      "event_url": "http://news.mydrivers.com/1/1072/1072663.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:45:50",
+      "event_time": "9月5日 12:07"
+    },
+    {
+      "event_title": "电影《731》预售票房破1000万,想看人数已超430万",
+      "event_id": "event_18",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842394208057760463&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "公坚保",
+      "comment_time": "09-06 01:09",
+      "comment_content": "《731》不只是电影，更是历史警钟",
+      "user_location": "陕西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:46:06",
+      "event_time": "9月5日 11:47"
+    },
+    {
+      "event_title": "电影《731》预售票房破1000万,想看人数已超430万",
+      "event_id": "event_18",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842394208057760463&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "追赶远去的灵魂",
+      "comment_time": "09-06 01:09",
+      "comment_content": "首日排片就这么高，足见全国观众的期待！🔥👏",
+      "user_location": "安徽",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:46:06",
+      "event_time": "9月5日 11:47"
+    },
+    {
+      "event_title": "电影《731》预售票房破1000万,想看人数已超430万",
+      "event_id": "event_18",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842394208057760463&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "彝族怪小伙",
+      "comment_time": "09-06 01:09",
+      "comment_content": "这是一部必须走进电影院去看的影片，铭记历史！",
+      "user_location": "广西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:46:06",
+      "event_time": "9月5日 11:47"
+    },
+    {
+      "event_title": "电影《731》最新消息,英文片名确定",
+      "event_id": "event_19",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31546233",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:46:08",
+      "event_time": "9月5日 11:16"
+    },
+    {
+      "event_title": "电影《731》英文片名亮了",
+      "event_id": "event_20",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31546358",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:46:10",
+      "event_time": "9月5日 10:39"
+    },
+    {
+      "event_title": "电影《731》片长125分钟,想看人数超666万,将于9月18日上映",
+      "event_id": "event_21",
+      "event_url": "http://yule.bandao.cn/a/1757034358024244.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:46:12",
+      "event_time": "9月5日 09:05"
+    },
+    {
+      "event_title": "《731》9月18日上映 片长125分钟",
+      "event_id": "event_22",
+      "event_url": "http://m.mnw.cn/movie/huayu/3041211.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:46:14",
+      "event_time": "9月4日 18:13"
+    },
+    {
+      "event_title": "电影《731》发行通知出炉!9月18日上映,片长125分钟",
+      "event_id": "event_23",
+      "event_url": "http://www.gxnews.com.cn/staticpages/20250904/newgx68b96489-21840616.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:46:16",
+      "event_time": "9月4日 18:06"
+    },
+    {
+      "event_title": "电影《731》发行通知出炉,片长125分钟",
+      "event_id": "event_24",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842331955781405904&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:46:32",
+      "event_time": "9月4日 16:50"
+    },
+    {
+      "event_title": "电影《731》发行通知出炉,9月18日上映",
+      "event_id": "event_25",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31540735",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:46:34",
+      "event_time": "9月4日 16:40"
+    },
+    {
+      "event_title": "影片《731》今日开启预售,票房已突破100万!",
+      "event_id": "event_26",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842321887709688017&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:46:50",
+      "event_time": "9月4日 16:37"
+    },
+    {
+      "event_title": "九月新上多部历史片,《731》“想看”人数断层领先",
+      "event_id": "event_27",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31521848",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:46:52",
+      "event_time": "9月1日 14:21"
+    },
+    {
+      "event_title": "电影《731》预售开启!市民关注度持续升温",
+      "event_id": "event_28",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:46:54",
+      "event_time": "1970年"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 28,
+    "total_comments": 30,
+    "events_with_comments": 28,
+    "level1_scrape_time": "2025-09-12 22:44:32",
+    "level2_scrape_time": "2025-09-12 22:46:54"
+  }
+}

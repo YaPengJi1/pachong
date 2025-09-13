@@ -1,0 +1,97 @@
+{
+  "core_event_name": "河南多地有中到大雨、局部暴雨等强对流天气",
+  "comments": [
+    {
+      "event_title": "河南发布暴雨黄色预警",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9835488285374123930",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:32:53",
+      "event_time": "昨天 11:19"
+    },
+    {
+      "event_title": "河南多地中到大雨局部暴雨",
+      "event_id": "event_2",
+      "event_url": "http://news.hnr.cn/snxw/article/1/1964106156984184833",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:32:55",
+      "event_time": "9月6日 07:19"
+    },
+    {
+      "event_title": "河南这些地区中到大雨局部暴雨警惕防范",
+      "event_id": "event_3",
+      "event_url": "http://m.gmw.cn/2025-09/05/content_1304136422.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:32:57",
+      "event_time": "9月5日 15:53"
+    },
+    {
+      "event_title": "局部暴雨伴强对流 早晚20℃上下!河南阴雨在线 秋凉渐浓",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8M4Q02A0550B6IS.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:32:59",
+      "event_time": "9月5日 07:19"
+    },
+    {
+      "event_title": "河南多地有中到大雨、局部暴雨等强对流天气",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8JL06DV0556DUEU.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:33:01",
+      "event_time": "9月4日 08:04"
+    },
+    {
+      "event_title": "河南新一轮强降水上线,局部中到大雨",
+      "event_id": "event_6",
+      "event_url": "http://m.gmw.cn/2025-09/01/content_1304132073.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:33:03",
+      "event_time": "9月1日 10:44"
+    },
+    {
+      "event_title": "河南今日中到大雨、局部暴雨伴雷暴大风!雨后警惕“小白虫”",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841832254914917167&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "宝藏男孩TreasureBoy",
+      "comment_time": "08-30 07:18",
+      "comment_content": "雨后天晴出门小心点，戴上眼镜口罩防飞虫，它自个儿过几天就消停了。",
+      "user_location": "黑龙江",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:33:20"
+    }
+  ],
+  "total_comments": 7,
+  "scrape_time": "2025-09-12 17:33:20"
+}

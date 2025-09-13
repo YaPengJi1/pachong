@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "体育产业规模将跃升至7万亿",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:12:13"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "体育产业瞄准超7万亿规模",
+      "link": "http://finance.eastmoney.com/a/202509053506534579.html",
+      "time": "9月5日 14:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "2030年体育产业规模剑指7万亿",
+      "link": "http://baijiahao.baidu.com/s?id=1842400790517262276&wfr=spider&for=pc",
+      "time": "9月5日 13:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "央行开展1万亿元逆回购操作",
+      "link": "http://baijiahao.baidu.com/s?id=1842380962829268724&wfr=spider&for=pc",
+      "time": "9月5日 08:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "7万亿目标定调!体育经济“火力全开”",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpkxsn6093372.d.html",
+      "time": "9月5日 07:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "国办发文又一产业迎重磅利好",
+      "link": "http://app.myzaker.com/news/article.php?pk=68ba1f5f8e9f09222c12ad90",
+      "time": "9月5日 07:20",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 02:12:27"
+}

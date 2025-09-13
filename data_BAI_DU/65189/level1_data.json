@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "中国U16男篮亚洲杯表现",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:01:57"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国U16男篮战胜巴林 锁定世界杯资格",
+      "link": "http://www.syd.com.cn/newscenter/content/2025-09/06/content_197641.html",
+      "time": "9月6日 09:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U16男篮亚洲杯中国晋级四强 国青队展现强劲实力",
+      "link": "http://news.china.com/socialgd/10000169/20250905/48795729_1.html",
+      "time": "9月5日 20:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U16中国队再赢89分，94分大胜后再赢89分",
+      "link": "http://k.sina.com.cn/article_1884314201_70505a5902701dg3m.html",
+      "time": "9月3日 18:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国男篮U16亚洲杯三连胜小组头名出线",
+      "link": "http://m.dongqiudi.com/article/5351011.html",
+      "time": "9月2日 20:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "U16男篮亚洲杯:中国队100比44大胜马来西亚 小组赛两连胜",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b622638e9f09708e00f3bd",
+      "time": "9月2日 06:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "中国男篮U16高低位配合 齐鹏帆接球转身上篮打停对手",
+      "link": "http://sports.sina.cn/nba/other/2025-09-01/detail-infnyunc7771628.d.html",
+      "time": "9月1日 17:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "中国U16男篮狂赢58分",
+      "link": "http://baijiahao.baidu.com/s?id=1841976612135302462&wfr=spider&for=pc",
+      "time": "8月31日 21:09",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 20:02:11"
+}

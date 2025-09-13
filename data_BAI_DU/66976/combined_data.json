@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:59:52"
+  },
+  "core_event": {
+    "core_event_name": "中央停止催收政策出台原因",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:59:24"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中央停止催收通知法律依据",
+      "link": "http://news.online.sh.cn/rxinfo/yqpingtai/342232.html",
+      "time": "昨天 15:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中央停止催收政策出台原因是真的吗",
+      "link": "http://www.wfcmw.cn/falv/yqfenqi/122910.html",
+      "time": "9月9日 17:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中央停止催收通知是真的假的",
+      "link": "http://news.bandao.cn/bdfalv/yqzhuanti/75211.html",
+      "time": "9月8日 14:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中央停止催收政策最新消息是真的假的",
+      "link": "http://news.bandao.cn/bdfalv/yqdongtai/74196.html",
+      "time": "9月7日 03:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "26家网贷被强制停止催收是真的假的",
+      "link": "http://www.wfcmw.cn/falv/yqzhuanti/114209.html",
+      "time": "9月6日 20:21",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "中央停止催收通知法律依据",
+      "event_id": "event_1",
+      "event_url": "http://news.online.sh.cn/rxinfo/yqpingtai/342232.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:59:40",
+      "event_time": "昨天 15:39"
+    },
+    {
+      "event_title": "中央停止催收政策出台原因是真的吗",
+      "event_id": "event_2",
+      "event_url": "http://www.wfcmw.cn/falv/yqfenqi/122910.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:59:42",
+      "event_time": "9月9日 17:19"
+    },
+    {
+      "event_title": "中央停止催收通知是真的假的",
+      "event_id": "event_3",
+      "event_url": "http://news.bandao.cn/bdfalv/yqzhuanti/75211.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:59:44",
+      "event_time": "9月8日 14:08"
+    },
+    {
+      "event_title": "中央停止催收政策最新消息是真的假的",
+      "event_id": "event_4",
+      "event_url": "http://news.bandao.cn/bdfalv/yqdongtai/74196.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:59:46",
+      "event_time": "9月7日 03:06"
+    },
+    {
+      "event_title": "26家网贷被强制停止催收是真的假的",
+      "event_id": "event_5",
+      "event_url": "http://www.wfcmw.cn/falv/yqzhuanti/114209.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:59:48",
+      "event_time": "9月6日 20:21"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 10:59:39",
+    "level2_scrape_time": "2025-09-12 10:59:48"
+  }
+}

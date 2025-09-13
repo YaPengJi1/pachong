@@ -1,0 +1,59 @@
+{
+  "core_event_name": "谷歌TPU业务迎重估",
+  "comments": [
+    {
+      "event_title": "谷歌TPU推进,看好AI算力链",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842744861999973269&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:58:00",
+      "event_time": "9月9日 08:40"
+    },
+    {
+      "event_title": "谷歌TPU业务将独立,估值高达9000亿美元?",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842385075478374766&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:58:16",
+      "event_time": "9月5日 09:22"
+    },
+    {
+      "event_title": "英伟达要被“偷家”了?谷歌TPU业务迎重估 已接洽前者部分客户",
+      "event_id": "event_3",
+      "event_url": "http://finance.eastmoney.com/a/202509043504784322.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:58:18",
+      "event_time": "9月4日 15:23"
+    },
+    {
+      "event_title": "消息称谷歌正打破 TPU 完全自托管局面,强化与英伟达 AI 芯片竞争",
+      "event_id": "event_4",
+      "event_url": "http://www.ithome.com/0/880/265.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:58:20",
+      "event_time": "9月4日 09:27"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 10:58:20"
+}

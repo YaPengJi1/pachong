@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "中国男足在U23亚洲杯预选赛表现不佳",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:01:16"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U23亚洲杯刺激一夜:日本横扫缅甸,中国男足狂拦10球",
+      "link": "http://baijiahao.baidu.com/s?id=1842529988555126871&wfr=spider&for=pc",
+      "time": "9月6日 23:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国男足丢尽颜面，踢世界鱼腩进不了球，各种浪费机会",
+      "link": "http://baijiahao.baidu.com/s?id=1842517144881357506&wfr=spider&for=pc",
+      "time": "9月6日 20:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国足惨遭碾压!U23亚洲杯预选赛积分榜:中国男足落后13个净胜球,排名第二",
+      "link": "http://www.sohu.com/a/931628602_122387568",
+      "time": "9月4日 00:02",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 11:01:31"
+}

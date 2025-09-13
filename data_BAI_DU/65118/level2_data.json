@@ -1,0 +1,59 @@
+{
+  "core_event_name": "美国8月ISM服务业数据超预期",
+  "comments": [
+    {
+      "event_title": "美国ISM服务业PMI扩张速度创半年最快,就业疲软,价格仍高企",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842349704355381981&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:35:53",
+      "event_time": "9月4日 23:59"
+    },
+    {
+      "event_title": "美国8月ISM服务业数据超预期",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/usstock/mggd/2025-09-04/detail-infpkanw6556138.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:35:55",
+      "event_time": "9月4日 23:22"
+    },
+    {
+      "event_title": "美国8月ISM服务业新订单指数创11个月来最大涨幅",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-04/detail-infpiwfa3257674.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:35:57",
+      "event_time": "9月4日 22:01"
+    },
+    {
+      "event_title": "美国8月Markit服务业PMI终值 54.5,预期 55.4,初值 55.4。",
+      "event_id": "event_4",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4309919796026107484",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:35:59",
+      "event_time": "9月4日 21:45"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 18:35:59"
+}

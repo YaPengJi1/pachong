@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "特斯拉Model 3大改",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:11:03"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特斯拉 Model 3 2023款 后轮驱动",
+      "link": "http://news.zol.com.cn/1044/10442141_param.html",
+      "time": "9月9日 10:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特斯拉粉丝三购Model 3,新款长续航电耗10.8",
+      "link": "http://cj.sina.com.cn/articles/view/2008986745/p77beb47902701jrbk",
+      "time": "9月7日 11:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特斯拉Model 3六年首次大改,续航提升、设计更运动",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3106659023329842102",
+      "time": "9月4日 11:21",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 10:11:18"
+}

@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "普京访华及中俄蒙协议落地",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:05:44"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "20份中俄协议震撼落地,普京来华收获超预期",
+      "link": "http://cj.sina.com.cn/articles/view/7295052889/1b2d1ac5902001891w",
+      "time": "9月6日 22:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "普京马不停蹄赶往远东地区 有大事要干",
+      "link": "http://baijiahao.baidu.com/s?id=1842491593870106256&wfr=spider&for=pc",
+      "time": "9月6日 13:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "普京离华前 中俄蒙签署协议 最大输家出现 特朗普又失算了",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5378390048959682146",
+      "time": "9月5日 20:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "普京:俄罗斯将对中国免签,为两国商贸交流创造有利环境",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8750367998490559916",
+      "time": "9月5日 17:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "普京离开北京,抵达俄远东城市,与接机人员握手,将参加东方经济论坛",
+      "link": "http://baijiahao.baidu.com/s?id=1842318860224009531&wfr=spider&for=pc",
+      "time": "9月4日 11:07",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 00:05:58"
+}

@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "2025WTT澳门冠军赛",
+    "update_time": "更新至2025年9月11日 20:44",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:08:00"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "WTT澳门冠军赛：王艺迪无缘女单八强",
+      "link": "https://baijiahao.baidu.com/s?id=1842971606876206690&wfr=spider&for=pc",
+      "time": "昨天 20:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "薛飞横扫张本智和，日本男乒澳门赛首轮全部出局",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_4756493543102324487",
+      "time": "昨天 13:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "WTT澳门冠军赛：国乒女单4人晋级16强",
+      "link": "https://baijiahao.baidu.com/s?id=1842887836057256270&wfr=spider&for=pc",
+      "time": "9月10日 22:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "WTT澳门冠军赛：向鹏无缘男单16强",
+      "link": "https://baijiahao.baidu.com/s?id=1842879438959174087&wfr=spider&for=pc",
+      "time": "9月10日 20:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "WTT澳门冠军赛：国乒三人晋级16强",
+      "link": "https://baijiahao.baidu.com/s?id=1842861170154501823&wfr=spider&for=pc",
+      "time": "9月10日 15:29",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 11:08:14"
+}

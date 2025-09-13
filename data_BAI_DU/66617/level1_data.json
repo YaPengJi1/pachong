@@ -1,0 +1,100 @@
+{
+  "core_info": {
+    "core_event_name": "澳门冠军赛国乒男单悬了",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:02:23"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国乒再损一将，薛飞今战张本智和，是给对手“送温暖”？",
+      "link": "http://www.jfdaily.com/wx/detail.do?id=980513",
+      "time": "昨天 05:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "WTT澳门冠军赛举行抽签仪式",
+      "link": "http://m.gmw.cn/toutiao/2025-09/08/content_38270915.htm",
+      "time": "9月8日 09:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "澳门冠军赛签表出炉",
+      "link": "http://baijiahao.baidu.com/s?id=1842658534494749597&wfr=spider&for=pc",
+      "time": "9月8日 09:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "澳门赛名单震惊出炉，王楚钦压力恐爆表",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17558651033570285784",
+      "time": "9月8日 05:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "WTT澳门冠军赛签表出炉",
+      "link": "http://www.jfdaily.com/news/detail?id=978371",
+      "time": "9月7日 18:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "WTT澳门冠军赛男单签表正式出炉",
+      "link": "http://m.gmw.cn/2025-09/07/content_1304138843.htm",
+      "time": "9月7日 18:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "WTT澳门冠军赛签表出炉，孙颖莎对战赫尔希，王楚钦独守下半区",
+      "link": "http://baijiahao.baidu.com/s?id=1842597992958490868&wfr=spider&for=pc",
+      "time": "9月7日 17:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "海南球手林诗栋出征WTT澳门站",
+      "link": "http://baijiahao.baidu.com/s?id=1842578734891631646&wfr=spider&for=pc",
+      "time": "9月7日 12:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "WTT官宣梁靖崑退赛",
+      "link": "http://cj.sina.com.cn/articles/view/1233597000/4987324802001ibgm",
+      "time": "9月7日 01:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "WTT中国澳门冠军赛国乒名单更新:梁靖崑因伤退赛,男单5人出战",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hjl8",
+      "time": "9月6日 20:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "WTT澳门冠军赛9月9日开赛，林昀儒亮相倒计时海报",
+      "link": "http://k.sina.com.cn/article_6320391439_178b9850f040016tx6.html",
+      "time": "9月5日 09:39",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 11,
+  "scrape_time": "2025-09-12 10:02:37"
+}

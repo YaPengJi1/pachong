@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "歼-20S改变未来战场",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:36:08"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "被称为“全球首款5.5代战机”,歼-20S将如何颠覆空战样式?",
+      "link": "http://baijiahao.baidu.com/s?id=1842422984162976715&wfr=spider&for=pc",
+      "time": "9月5日 19:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "歼-20S,将彻底改变未来战场!",
+      "link": "http://baijiahao.baidu.com/s?id=1842239634720401098&wfr=spider&for=pc",
+      "time": "9月3日 11:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "歼-20S双座机、蜂群无人机、网电攻防亮相",
+      "link": "http://baijiahao.baidu.com/s?id=1841947806020198451&wfr=spider&for=pc",
+      "time": "8月31日 13:31",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 20:36:23"
+}

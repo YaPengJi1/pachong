@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "纳斯达克新规针对中国公司",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:13:47"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中企赴美上市生变，纳斯达克新规要求最低募资2500万",
+      "link": "http://www.163.com/dy/article/K8MITV4U0519RLST.html",
+      "time": "9月5日 11:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "纳斯达克提出更严格的上市与退市标准",
+      "link": "http://weibo.com/1840881565/Q388DnrRf",
+      "time": "9月5日 10:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "纳斯达克拟严控小型中企上市",
+      "link": "http://baijiahao.baidu.com/s?id=1842321064946315052&wfr=spider&for=pc",
+      "time": "9月4日 16:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "纳斯达克拟修改针对小型IPO和中企的上市规则",
+      "link": "http://www.163.com/dy/article/K8JM8R4E0534A4SC.html",
+      "time": "9月4日 08:26",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 18:14:01"
+}

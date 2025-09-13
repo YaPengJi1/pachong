@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:35:25"
+  },
+  "core_event": {
+    "core_event_name": "比亚迪8月销量夺冠",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:35:00"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "比亚迪8月持续稳居龙头地位",
+      "link": "http://cj.sina.com.cn/articles/view/2867721122/aaedf3a202702ncxq",
+      "time": "昨天 16:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "吉利8月销量超20万台，同比大涨超50%",
+      "link": "http://weibo.com/1659643027/Q3SbRjopO",
+      "time": "9月10日 07:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "乘联会公布8月销量，比亚迪零售降18.3%仍夺冠",
+      "link": "http://www.pcauto.com.cn/ask/3891215.html",
+      "time": "9月9日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "比亚迪销量“拉胯”",
+      "link": "http://www.qcwp.com/news/969113",
+      "time": "9月5日 00:02",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "比亚迪8月持续稳居龙头地位",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/2867721122/aaedf3a202702ncxq",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:35:15",
+      "event_time": "昨天 16:35"
+    },
+    {
+      "event_title": "吉利8月销量超20万台，同比大涨超50%",
+      "event_id": "event_2",
+      "event_url": "http://weibo.com/1659643027/Q3SbRjopO",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:35:17",
+      "event_time": "9月10日 07:43"
+    },
+    {
+      "event_title": "乘联会公布8月销量，比亚迪零售降18.3%仍夺冠",
+      "event_id": "event_3",
+      "event_url": "http://www.pcauto.com.cn/ask/3891215.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:35:19",
+      "event_time": "9月9日 00:00"
+    },
+    {
+      "event_title": "比亚迪销量“拉胯”",
+      "event_id": "event_4",
+      "event_url": "http://www.qcwp.com/news/969113",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:35:21",
+      "event_time": "9月5日 00:02"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 10:35:14",
+    "level2_scrape_time": "2025-09-12 10:35:21"
+  }
+}

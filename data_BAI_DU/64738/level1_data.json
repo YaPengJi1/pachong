@@ -1,0 +1,100 @@
+{
+  "core_info": {
+    "core_event_name": "冯德莱恩专机GPS信号遭俄干扰",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:49:27"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "冯德莱恩专机GPS信号中断,北约称将防干扰再发生",
+      "link": "http://new.qq.com/rain/a/20250908A06IZI00",
+      "time": "9月8日 17:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "GPS信号中断,冯德莱恩所乘飞机迷失方向",
+      "link": "http://new.qq.com/omn/20250908/20250908A02E1G00.html",
+      "time": "9月8日 10:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "外媒：保加利亚高官否认该国曾向欧盟报告冯德莱恩飞机GPS信号遭俄干扰",
+      "link": "http://baijiahao.baidu.com/s?id=1842391784601346132&wfr=spider&for=pc",
+      "time": "9月5日 11:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "飞行数据公布后，保加利亚回应冯德莱恩专机GPS受干扰事件",
+      "link": "http://finance.sina.com.cn/roll/2025-09-04/doc-infpiwff8513122.shtml",
+      "time": "9月4日 20:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "冯德莱恩专机遭GPS干扰,北约揭露俄罗斯混合威胁真相",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3586992565870462090",
+      "time": "9月4日 13:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "扎哈罗娃驳斥“冯德莱恩飞机GPS疑受俄方干扰”指控",
+      "link": "http://baijiahao.baidu.com/s?id=1842306786907057953&wfr=spider&for=pc",
+      "time": "9月4日 12:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "航空跟踪网站驳斥俄罗斯干扰冯德莱恩专机说法",
+      "link": "http://m.guancha.cn/internation/2025_09_02_788758.shtml",
+      "time": "9月2日 23:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "“刺杀”冯德莱恩?专机被干扰差点降落不下来,欧盟:疑似俄所为",
+      "link": "http://www.163.com/dy/article/K8F7R1R8055616X5.html",
+      "time": "9月2日 14:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "英媒:冯德莱恩的飞机疑似受到俄罗斯 GPS 干扰",
+      "link": "http://cj.sina.com.cn/articles/view/7295511715/1b2d8aca302001hl6c",
+      "time": "9月2日 11:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "冯德莱恩所乘飞机GPS遭俄罗斯干扰?Flightradar回应:GPS未出现故障",
+      "link": "http://cj.sina.com.cn/articles/view/7295052889/1b2d1ac590200186jy",
+      "time": "9月2日 08:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "鼓动欧洲向乌派兵后,冯德莱恩差点人没了,飞机GPS被蓄意干扰?",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 11,
+  "scrape_time": "2025-09-13 01:49:41"
+}

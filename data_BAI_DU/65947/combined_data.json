@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 15:09:03"
+  },
+  "core_event": {
+    "core_event_name": "小米16系列发布及预览",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:08:35"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "小米16系列真机亮相:横向大相机模组 梦回小米11 Ultra",
+      "link": "http://cj.sina.com.cn/articles/view/2163365571/80f256c302002d1aa",
+      "time": "9月8日 09:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "1mm超窄边!小米16正面渲染图出炉",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10110397263290295354",
+      "time": "9月7日 21:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "神秘手机渲染图曝光:大 R 角、窄边框、小打孔,预估为小米 16",
+      "link": "http://finance.sina.cn/tech/2025-09-06/detail-infpppfk9902545.d.html",
+      "time": "9月6日 10:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "疑似小米16标准版细节曝光 苹果机皇价比百元机果粉心碎!",
+      "link": "http://mobile.zol.com.cn/1041/10414347_all.html",
+      "time": "9月5日 09:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "小米新机7000mAh小直屏",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b1cf1b8e9f090b312b3acb",
+      "time": "8月30日 08:02",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "小米16系列真机亮相:横向大相机模组 梦回小米11 Ultra",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/2163365571/80f256c302002d1aa",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:08:51",
+      "event_time": "9月8日 09:40"
+    },
+    {
+      "event_title": "1mm超窄边!小米16正面渲染图出炉",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10110397263290295354",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:08:53",
+      "event_time": "9月7日 21:10"
+    },
+    {
+      "event_title": "神秘手机渲染图曝光:大 R 角、窄边框、小打孔,预估为小米 16",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.cn/tech/2025-09-06/detail-infpppfk9902545.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:08:55",
+      "event_time": "9月6日 10:44"
+    },
+    {
+      "event_title": "疑似小米16标准版细节曝光 苹果机皇价比百元机果粉心碎!",
+      "event_id": "event_4",
+      "event_url": "http://mobile.zol.com.cn/1041/10414347_all.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:08:57",
+      "event_time": "9月5日 09:47"
+    },
+    {
+      "event_title": "小米新机7000mAh小直屏",
+      "event_id": "event_5",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68b1cf1b8e9f090b312b3acb",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:08:59",
+      "event_time": "8月30日 08:02"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 15:08:50",
+    "level2_scrape_time": "2025-09-12 15:08:59"
+  }
+}

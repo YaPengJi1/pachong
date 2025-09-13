@@ -1,0 +1,92 @@
+{
+  "core_info": {
+    "core_event_name": "泰国新总理选举当日，前总理他信飞离泰国",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:42:36"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "泰国前总理他信返回曼谷",
+      "link": "http://baijiahao.baidu.com/s?id=1842685743064565868&wfr=spider&for=pc",
+      "time": "9月8日 17:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "泰国产生新总理,又跑路的他信还回得去吗?",
+      "link": "http://www.jfdaily.com/news/detail?id=978560",
+      "time": "9月8日 09:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "泰国新总理选举当日，前总理他信发声：正前往迪拜",
+      "link": "http://baijiahao.baidu.com/s?id=1842488390099257037&wfr=spider&for=pc",
+      "time": "9月6日 12:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "他信在法院裁决前离开泰国",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9948002117729164807",
+      "time": "9月6日 10:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "泰国产生新总理，此前一天他信又跑了",
+      "link": "http://baijiahao.baidu.com/s?id=1842475393447491258&wfr=spider&for=pc",
+      "time": "9月6日 09:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "泰国警方称他信乘机离开泰国,他信发声",
+      "link": "http://baijiahao.baidu.com/s?id=1842424153425181565&wfr=spider&for=pc",
+      "time": "9月5日 19:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "新总理选举前,他信离开泰国前往阿联酋",
+      "link": "http://baijiahao.baidu.com/s?id=1842412736742643722&wfr=spider&for=pc",
+      "time": "9月5日 16:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "飞机临时改变航线!他信凌晨发声",
+      "link": "http://news.sina.com.cn/w/2025-09-05/doc-infpmqqe5877547.shtml",
+      "time": "9月5日 14:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "总理选举前一天 ，他信离开泰国",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31546947",
+      "time": "9月5日 13:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "泰国机场起飞他信航空飞机",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmkhm0899443.d.html",
+      "time": "9月5日 12:19",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 10,
+  "scrape_time": "2025-09-12 14:42:50"
+}

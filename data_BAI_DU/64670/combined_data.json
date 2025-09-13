@@ -1,0 +1,258 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:23:50"
+  },
+  "core_event": {
+    "core_event_name": "U23国足亚预赛对阵东帝汶",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:22:34"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U22国足首秀有难度，安东尼奥表示满意",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16263348094469128354",
+      "time": "9月4日 19:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "本届U23亚洲杯中国U22国家队几乎提前出局",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4572350067323605493",
+      "time": "9月4日 14:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U22国足2-1险胜东帝汶",
+      "link": "http://baijiahao.baidu.com/s?id=1842285152940565968&wfr=spider&for=pc",
+      "time": "9月4日 06:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22国足2-1击败东帝汶队",
+      "link": "http://baijiahao.baidu.com/s?id=1842251138743810917&wfr=spider&for=pc",
+      "time": "9月3日 21:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中国男足U22vs东帝汶U23",
+      "link": "http://tieba.baidu.com/p/10006977603",
+      "time": "9月3日 17:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "U22男足亚预赛首战对阵东帝汶，面临关键问题是磨合时间短",
+      "link": "http://baijiahao.baidu.com/s?id=1842213571328181266&wfr=spider&for=pc",
+      "time": "9月3日 11:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "U22国足名单调整，成都蓉城希望之星有谁？",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5183046016955028477",
+      "time": "9月3日 09:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "U22国足战东帝汶",
+      "link": "http://www.163.com/dy/article/K8H3DLEQ0556DLXG.html",
+      "time": "9月3日 08:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "U22国足首秀有难度，安东尼奥表示满意",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=16263348094469128354",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:22:50",
+      "event_time": "9月4日 19:11"
+    },
+    {
+      "event_title": "本届U23亚洲杯中国U22国家队几乎提前出局",
+      "event_id": "event_2",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4572350067323605493",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:22:52",
+      "event_time": "9月4日 14:43"
+    },
+    {
+      "event_title": "U22国足2-1险胜东帝汶",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842285152940565968&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "凝思破晓1q",
+      "comment_time": "09-04 10:54",
+      "comment_content": "这还叫超常发挥呀，险胜可以理解为几乎不胜，场地不好，双方都一样，究其原因：1.过于轻敌，这应和教练组灌输的指导思想有关。2.进攻不力，无章法， 无套路，白白浪费了全场的控球率占优。3.防御不抵对方的防守反击，对手打出的威胁球远胜于我方。",
+      "user_location": "河南",
+      "like_count": 2,
+      "scrape_time": "2025-09-13 02:23:08",
+      "event_time": "9月4日 06:53"
+    },
+    {
+      "event_title": "U22国足2-1险胜东帝汶",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842285152940565968&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "zhichengzhaxuyaoshi",
+      "comment_time": "09-04 07:21",
+      "comment_content": "国足超常发挥，险胜东南亚劲旅东帝汶。",
+      "user_location": "辽宁",
+      "like_count": 3,
+      "scrape_time": "2025-09-13 02:23:08",
+      "event_time": "9月4日 06:53"
+    },
+    {
+      "event_title": "U22国足2-1击败东帝汶队",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842251138743810917&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "莫喊没得TW",
+      "comment_time": "09-04 00:58",
+      "comment_content": "那狗啃场地，啥奇迹都有可能。",
+      "user_location": "广西",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:23:24",
+      "event_time": "9月3日 21:38"
+    },
+    {
+      "event_title": "U22国足2-1击败东帝汶队",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842251138743810917&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "维琴察夜帝",
+      "comment_time": "09-04 09:17",
+      "comment_content": "什么时候对中国足球抱过希望",
+      "user_location": "广东",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:23:24",
+      "event_time": "9月3日 21:38"
+    },
+    {
+      "event_title": "U22国足2-1击败东帝汶队",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842251138743810917&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "uuchenmq",
+      "comment_time": "09-04 02:45",
+      "comment_content": "足协怎么会选了这么块烂菜地？估计对方比咱们更适应这种场地。",
+      "user_location": "江苏",
+      "like_count": 5,
+      "scrape_time": "2025-09-13 02:23:24",
+      "event_time": "9月3日 21:38"
+    },
+    {
+      "event_title": "U22国足2-1击败东帝汶队",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842251138743810917&wfr=spider&for=pc",
+      "comment_index": 4,
+      "user_id": "法漪BS",
+      "comment_time": "09-04 10:00",
+      "comment_content": "和东帝汶居然踢了个2比1，简直就是个耻辱，比0比7输日本都丢人。",
+      "user_location": "辽宁",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:23:24",
+      "event_time": "9月3日 21:38"
+    },
+    {
+      "event_title": "U22国足2-1击败东帝汶队",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842251138743810917&wfr=spider&for=pc",
+      "comment_index": 5,
+      "user_id": "闾余0y",
+      "comment_time": "09-04 06:27",
+      "comment_content": "踢东帝汶踢成这样，没戏了，一代不如一代，和业余没区别，不报希望",
+      "user_location": "河北",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:23:24",
+      "event_time": "9月3日 21:38"
+    },
+    {
+      "event_title": "中国男足U22vs东帝汶U23",
+      "event_id": "event_5",
+      "event_url": "http://tieba.baidu.com/p/10006977603",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:23:26",
+      "event_time": "9月3日 17:21"
+    },
+    {
+      "event_title": "U22男足亚预赛首战对阵东帝汶，面临关键问题是磨合时间短",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842213571328181266&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:23:41",
+      "event_time": "9月3日 11:56"
+    },
+    {
+      "event_title": "U22国足名单调整，成都蓉城希望之星有谁？",
+      "event_id": "event_7",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5183046016955028477",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:23:43",
+      "event_time": "9月3日 09:32"
+    },
+    {
+      "event_title": "U22国足战东帝汶",
+      "event_id": "event_8",
+      "event_url": "http://www.163.com/dy/article/K8H3DLEQ0556DLXG.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:23:45",
+      "event_time": "9月3日 08:18"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 8,
+    "total_comments": 13,
+    "events_with_comments": 8,
+    "level1_scrape_time": "2025-09-13 02:22:48",
+    "level2_scrape_time": "2025-09-13 02:23:45"
+  }
+}

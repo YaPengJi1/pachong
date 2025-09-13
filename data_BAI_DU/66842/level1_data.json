@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "深圳台风“塔巴”来袭",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:23:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "直击风雨一线!深圳各部门全力防御台风“塔巴”",
+      "link": "http://baijiahao.baidu.com/s?id=1842830549779626342&wfr=spider&for=pc",
+      "time": "9月9日 11:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "台风“塔巴”来袭,深圳海事局全力应对",
+      "link": "http://news.sohu.com/a/932826099_120046696",
+      "time": "9月8日 11:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "台风“塔巴”逼近,沿海风雨大作,警惕强风暴雨!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7605952142084876885",
+      "time": "9月8日 00:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "台风“塔巴”逼近 国铁广州局部分列车调整运行区段或停运",
+      "link": "http://tv.cctv.com/2025/09/07/VIDENWk9zjPfuqTGlL12ltwx250907.shtml",
+      "time": "9月7日 21:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "台风“塔巴”逼近 今年第16号台风“塔巴”将于明天登陆广东",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEssTVqbZpswFG2hTd1HfX250907.shtml",
+      "time": "9月7日 21:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "台风升级!景区关闭!深圳迎12级大风+大暴雨",
+      "link": "http://m.gmw.cn/2025-09/07/content_1304138499.htm",
+      "time": "9月7日 13:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "新台风“塔巴”要来?高温炎热持续,深圳周末迎来“降温雨”",
+      "link": "http://www.sznews.com/news/content/2025-09/05/content_31683673.htm",
+      "time": "9月5日 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 10:23:46"
+}

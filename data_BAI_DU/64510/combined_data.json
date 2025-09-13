@@ -1,0 +1,193 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:21:49"
+  },
+  "core_event": {
+    "core_event_name": "黄金期货创历史新高",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:21:01"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "金价再度大涨吸引投资客出手",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10155974124095133604",
+      "time": "9月5日 08:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "黄金期货创 3600 美元新高",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1958112500697713053",
+      "time": "9月4日 13:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "9月3日国际黄金期价再次刷新历史新高",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5847124899391861463",
+      "time": "9月4日 11:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "天风证券:黄金冲上3600美元 年内还有上行空间",
+      "link": "http://www.sohu.com/a/931668928_323087",
+      "time": "9月4日 07:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "黄金白银价格刷新上市以来新高",
+      "link": "http://tv.cctv.com/2025/09/03/VIDEXRnWOwiAcLndXA3hCwz2250903.shtml",
+      "time": "9月3日 11:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "黄金突破3600美元创历史新高",
+      "link": "http://www.163.com/dy/article/K8GVKBBE0519C6T9.html",
+      "time": "9月3日 07:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "国际金价新高带动国内金价普涨，黄金ETF基金半日涨0.72%",
+      "link": "http://stock.stockstar.com/IG2025090200017659.shtml",
+      "time": "9月2日 11:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "金价创历史新高!多品牌金饰克价超1020元,黄金股全线飙涨",
+      "link": "http://baijiahao.baidu.com/s?id=1842105789587301662&wfr=spider&for=pc",
+      "time": "9月1日 17:27",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "金价再度大涨吸引投资客出手",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10155974124095133604",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:21:17",
+      "event_time": "9月5日 08:43"
+    },
+    {
+      "event_title": "黄金期货创 3600 美元新高",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=1958112500697713053",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:21:19",
+      "event_time": "9月4日 13:53"
+    },
+    {
+      "event_title": "9月3日国际黄金期价再次刷新历史新高",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5847124899391861463",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:21:21",
+      "event_time": "9月4日 11:03"
+    },
+    {
+      "event_title": "天风证券:黄金冲上3600美元 年内还有上行空间",
+      "event_id": "event_4",
+      "event_url": "http://www.sohu.com/a/931668928_323087",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:21:23",
+      "event_time": "9月4日 07:59"
+    },
+    {
+      "event_title": "黄金白银价格刷新上市以来新高",
+      "event_id": "event_5",
+      "event_url": "http://tv.cctv.com/2025/09/03/VIDEXRnWOwiAcLndXA3hCwz2250903.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:21:25",
+      "event_time": "9月3日 11:18"
+    },
+    {
+      "event_title": "黄金突破3600美元创历史新高",
+      "event_id": "event_6",
+      "event_url": "http://www.163.com/dy/article/K8GVKBBE0519C6T9.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:21:27",
+      "event_time": "9月3日 07:12"
+    },
+    {
+      "event_title": "国际金价新高带动国内金价普涨，黄金ETF基金半日涨0.72%",
+      "event_id": "event_7",
+      "event_url": "http://stock.stockstar.com/IG2025090200017659.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:21:29",
+      "event_time": "9月2日 11:44"
+    },
+    {
+      "event_title": "金价创历史新高!多品牌金饰克价超1020元,黄金股全线飙涨",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842105789587301662&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:21:45",
+      "event_time": "9月1日 17:27"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 8,
+    "total_comments": 8,
+    "events_with_comments": 8,
+    "level1_scrape_time": "2025-09-13 01:21:15",
+    "level2_scrape_time": "2025-09-13 01:21:45"
+  }
+}

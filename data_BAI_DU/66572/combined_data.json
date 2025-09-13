@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 12:18:29"
+  },
+  "core_event": {
+    "core_event_name": "C罗在世预赛中的神迹",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 12:18:01"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "40岁C罗缔造神迹，成就世预赛历史射手王",
+      "link": "http://new.qq.com/rain/a/20250910A011D000",
+      "time": "9月10日 05:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "C罗一战3大纪录!世预赛39球历史第一,葡萄牙3-2险胜",
+      "link": "http://new.qq.com/rain/a/20250910A00ZQ700",
+      "time": "9月10日 05:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "世预赛葡萄牙5球横扫亚美尼亚 C罗双响菲利克斯爆发",
+      "link": "http://www.163.com/dy/article/K8UA9A4D0556DQTV.html",
+      "time": "9月8日 11:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "C罗世界杯预选赛个人表现:48场比赛贡献38球14次助攻",
+      "link": "http://weibo.com/7709174731/Q3rAa5Fpq",
+      "time": "9月7日 11:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "C罗世预赛梅开二度，苏超上座率再破纪录",
+      "link": "http://cj.sina.com.cn/articles/view/5044281310/12ca99fde02002f4t4",
+      "time": "9月7日 08:54",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "40岁C罗缔造神迹，成就世预赛历史射手王",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250910A011D000",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:18:16",
+      "event_time": "9月10日 05:28"
+    },
+    {
+      "event_title": "C罗一战3大纪录!世预赛39球历史第一,葡萄牙3-2险胜",
+      "event_id": "event_2",
+      "event_url": "http://new.qq.com/rain/a/20250910A00ZQ700",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:18:18",
+      "event_time": "9月10日 05:01"
+    },
+    {
+      "event_title": "世预赛葡萄牙5球横扫亚美尼亚 C罗双响菲利克斯爆发",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8UA9A4D0556DQTV.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:18:20",
+      "event_time": "9月8日 11:28"
+    },
+    {
+      "event_title": "C罗世界杯预选赛个人表现:48场比赛贡献38球14次助攻",
+      "event_id": "event_4",
+      "event_url": "http://weibo.com/7709174731/Q3rAa5Fpq",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:18:23",
+      "event_time": "9月7日 11:58"
+    },
+    {
+      "event_title": "C罗世预赛梅开二度，苏超上座率再破纪录",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/5044281310/12ca99fde02002f4t4",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:18:25",
+      "event_time": "9月7日 08:54"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 12:18:15",
+    "level2_scrape_time": "2025-09-12 12:18:25"
+  }
+}

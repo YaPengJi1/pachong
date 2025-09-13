@@ -106,4 +106,5 @@ if __name__ == '__main__':
         csv_filename = 'Cheating.csv'
         run_full_scrape(target_url, output_dir, csv_filename)
 
-        #    python main.py --start-row 2 --end-row 100
+        #    python main.py --start-row 64700 --end-row 64799
+        

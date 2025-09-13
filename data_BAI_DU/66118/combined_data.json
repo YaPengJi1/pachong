@@ -1,0 +1,445 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:33:18"
+  },
+  "core_event": {
+    "core_event_name": "特朗普签令改国防部为“战争部”",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:32:19"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普将国防部改为“战争部”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7080923960164384379",
+      "time": "9月10日 11:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特朗普将“国防部”更名为“战争部”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=828716129842722002",
+      "time": "9月10日 11:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "[海峡两岸]美国防部变“战争部” 第一把火烧向台海",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEkzcjt3VxwVwXzvpbQlc8250908.shtml",
+      "time": "9月8日 21:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普签署行政令将美国防部更名为“战争部” 美军战略发生“重大转变”?",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEoFg5OME4YoBd05Ln75lv250908.shtml",
+      "time": "9月8日 20:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美国“国防部”更名为“战争部”",
+      "link": "http://new.qq.com/rain/a/20250908A06CIE00",
+      "time": "9月8日 20:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "特朗普“战争部”出击,联邦扩权,还是美国民主的危险拐点?",
+      "link": "http://new.qq.com/rain/a/20250908V06TXF00",
+      "time": "9月8日 17:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "特朗普周五签令!国防部恢复旧名“战争部”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10146417852034452058",
+      "time": "9月8日 17:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "特朗普签令改国防部为“战争部”?军事战略转向藏隐忧!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5330985439171632810",
+      "time": "9月8日 07:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "特朗普宣称将国防部改为战争部",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15078288204082452234",
+      "time": "9月7日 19:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "特朗普签署行政令,赫格塞思成为战争部长",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12585916180987656770",
+      "time": "9月7日 17:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "美国防战略或作出重大转变",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12192048889436599848",
+      "time": "9月7日 15:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "特朗普将美国防部更名为“战争部” 体现所谓“以实力促和平”的立场",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEOCICr9lkem56I5GsgOBB250907.shtml",
+      "time": "9月7日 12:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "美防长火速更名“战争部长”,五角大楼墙上“国防”字标已被抠除",
+      "link": "http://www.163.com/dy/article/K8QP1BP0055616YB.html",
+      "time": "9月7日 02:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "特朗普将美国防部更名为“战争部” 现场:国防部办公室多个名牌被更换",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16371211776901652193",
+      "time": "9月6日 22:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "特朗普给国防部“正名”，战争部回归！美国军事战略不再掩饰",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5261197188663249200",
+      "time": "9月6日 18:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "特朗普签署行政令允许国防部使用“战争部”称号",
+      "link": "http://tv.cctv.com/2025/09/06/VIDEdMfYVwkUhpO9WiGOHR4l250906.shtml",
+      "time": "9月6日 12:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "美国 特朗普签署行政令将国防部改称“战争部”",
+      "link": "http://tv.cctv.com/2025/09/06/VIDENQGqq16UyCEgVAJBSqUG250906.shtml",
+      "time": "9月6日 12:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "特朗普将美国防部更名为“战争部”",
+      "link": "http://news.cnhubei.com/content/2025-09/06/content_19479242.html",
+      "time": "9月6日 11:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "“战争部”!特朗普签了,“这可是个大动作”",
+      "link": "http://app.myzaker.com/news/article.php?pk=68bb9d9f8e9f095a136fedc0",
+      "time": "9月6日 10:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "特朗普签署行政令将国防部改称“战争部”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8470406504351384566",
+      "time": "9月6日 09:36",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "特朗普将国防部改为“战争部”",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7080923960164384379",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:32:35",
+      "event_time": "9月10日 11:31"
+    },
+    {
+      "event_title": "特朗普将“国防部”更名为“战争部”",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=828716129842722002",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:32:37",
+      "event_time": "9月10日 11:21"
+    },
+    {
+      "event_title": "[海峡两岸]美国防部变“战争部” 第一把火烧向台海",
+      "event_id": "event_3",
+      "event_url": "http://tv.cctv.com/2025/09/08/VIDEkzcjt3VxwVwXzvpbQlc8250908.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:32:39",
+      "event_time": "9月8日 21:03"
+    },
+    {
+      "event_title": "特朗普签署行政令将美国防部更名为“战争部” 美军战略发生“重大转变”?",
+      "event_id": "event_4",
+      "event_url": "http://tv.cctv.com/2025/09/08/VIDEoFg5OME4YoBd05Ln75lv250908.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:32:41",
+      "event_time": "9月8日 20:53"
+    },
+    {
+      "event_title": "美国“国防部”更名为“战争部”",
+      "event_id": "event_5",
+      "event_url": "http://new.qq.com/rain/a/20250908A06CIE00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:32:43",
+      "event_time": "9月8日 20:00"
+    },
+    {
+      "event_title": "特朗普“战争部”出击,联邦扩权,还是美国民主的危险拐点?",
+      "event_id": "event_6",
+      "event_url": "http://new.qq.com/rain/a/20250908V06TXF00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:32:45",
+      "event_time": "9月8日 17:36"
+    },
+    {
+      "event_title": "特朗普周五签令!国防部恢复旧名“战争部”",
+      "event_id": "event_7",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10146417852034452058",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:32:47",
+      "event_time": "9月8日 17:29"
+    },
+    {
+      "event_title": "特朗普签令改国防部为“战争部”?军事战略转向藏隐忧!",
+      "event_id": "event_8",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5330985439171632810",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:32:49",
+      "event_time": "9月8日 07:25"
+    },
+    {
+      "event_title": "特朗普宣称将国防部改为战争部",
+      "event_id": "event_9",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=15078288204082452234",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:32:51",
+      "event_time": "9月7日 19:37"
+    },
+    {
+      "event_title": "特朗普签署行政令,赫格塞思成为战争部长",
+      "event_id": "event_10",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12585916180987656770",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:32:53",
+      "event_time": "9月7日 17:35"
+    },
+    {
+      "event_title": "美国防战略或作出重大转变",
+      "event_id": "event_11",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12192048889436599848",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:32:55",
+      "event_time": "9月7日 15:04"
+    },
+    {
+      "event_title": "特朗普将美国防部更名为“战争部” 体现所谓“以实力促和平”的立场",
+      "event_id": "event_12",
+      "event_url": "http://tv.cctv.com/2025/09/07/VIDEOCICr9lkem56I5GsgOBB250907.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:32:57",
+      "event_time": "9月7日 12:55"
+    },
+    {
+      "event_title": "美防长火速更名“战争部长”,五角大楼墙上“国防”字标已被抠除",
+      "event_id": "event_13",
+      "event_url": "http://www.163.com/dy/article/K8QP1BP0055616YB.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:32:59",
+      "event_time": "9月7日 02:29"
+    },
+    {
+      "event_title": "特朗普将美国防部更名为“战争部” 现场:国防部办公室多个名牌被更换",
+      "event_id": "event_14",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=16371211776901652193",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:33:01",
+      "event_time": "9月6日 22:04"
+    },
+    {
+      "event_title": "特朗普给国防部“正名”，战争部回归！美国军事战略不再掩饰",
+      "event_id": "event_15",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5261197188663249200",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:33:03",
+      "event_time": "9月6日 18:40"
+    },
+    {
+      "event_title": "特朗普签署行政令允许国防部使用“战争部”称号",
+      "event_id": "event_16",
+      "event_url": "http://tv.cctv.com/2025/09/06/VIDEdMfYVwkUhpO9WiGOHR4l250906.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:33:05",
+      "event_time": "9月6日 12:57"
+    },
+    {
+      "event_title": "美国 特朗普签署行政令将国防部改称“战争部”",
+      "event_id": "event_17",
+      "event_url": "http://tv.cctv.com/2025/09/06/VIDENQGqq16UyCEgVAJBSqUG250906.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:33:07",
+      "event_time": "9月6日 12:01"
+    },
+    {
+      "event_title": "特朗普将美国防部更名为“战争部”",
+      "event_id": "event_18",
+      "event_url": "http://news.cnhubei.com/content/2025-09/06/content_19479242.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:33:09",
+      "event_time": "9月6日 11:18"
+    },
+    {
+      "event_title": "“战争部”!特朗普签了,“这可是个大动作”",
+      "event_id": "event_19",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68bb9d9f8e9f095a136fedc0",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:33:11",
+      "event_time": "9月6日 10:32"
+    },
+    {
+      "event_title": "特朗普签署行政令将国防部改称“战争部”",
+      "event_id": "event_20",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8470406504351384566",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:33:13",
+      "event_time": "9月6日 09:36"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 20,
+    "total_comments": 20,
+    "events_with_comments": 20,
+    "level1_scrape_time": "2025-09-12 14:32:34",
+    "level2_scrape_time": "2025-09-12 14:33:13"
+  }
+}

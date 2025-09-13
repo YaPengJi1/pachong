@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "西班牙世界杯之路",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:26:53"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "西班牙3-0大胜，罗德里、卡瓦哈尔复出助球队完美开局",
+      "link": "http://www.163.com/dy/article/K8N8M97305562G28.html",
+      "time": "9月5日 17:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "西班牙世界杯之路并非坦途",
+      "link": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001tavy",
+      "time": "9月5日 10:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "西班牙曾对阵保加利亚打入13球，创造国家队史最大比分胜利",
+      "link": "http://www.163.com/dy/article/K8LJF7GG0529DS7F.html",
+      "time": "9月5日 02:16",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 20:27:07"
+}

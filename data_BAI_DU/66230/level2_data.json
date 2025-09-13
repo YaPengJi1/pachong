@@ -1,0 +1,45 @@
+{
+  "core_event_name": "高通骁龙8 Elite Gen5发布",
+  "comments": [
+    {
+      "event_title": "高通2025骁龙峰会定档 骁龙8 Elite Gen5即将发布",
+      "event_id": "event_1",
+      "event_url": "http://www.techweb.com.cn/ucweb/news/id/2965555",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:52:55",
+      "event_time": "9月8日 15:01"
+    },
+    {
+      "event_title": "高通新旗舰名字定了,或就叫骁龙8 Elite Gen5",
+      "event_id": "event_2",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1757239318&pk=68bd54ba8e9f095c0222ec4d",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:52:57",
+      "event_time": "9月7日 17:45"
+    },
+    {
+      "event_title": "曝高通骁龙8 Elite Gen6将升级台积电2nm工艺:成本飙升",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842147551155317021&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "小灰讨厌咖啡",
+      "comment_time": "09-02 19:56",
+      "comment_content": "高通新芯片升2nm工艺，成本飙升，旗舰手机可能又涨价了。",
+      "user_location": "陕西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:53:14"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 14:53:14"
+}

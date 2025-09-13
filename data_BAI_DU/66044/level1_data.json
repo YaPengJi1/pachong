@@ -1,0 +1,92 @@
+{
+  "core_info": {
+    "core_event_name": "泰山队VS申花焦点战",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:01:09"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "4大主力缺战!山东泰山残阵出击上海,媒体人:明晚不一定输",
+      "link": "http://new.qq.com/rain/a/20250911A09A7E00",
+      "time": "昨天 23:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中超第24轮大战申花，泰山出征人员又惹争议",
+      "link": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001tfyc",
+      "time": "昨天 15:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "鲁申对决|泰山12日晚对阵申花,退国安后可否摘“花”?",
+      "link": "http://baijiahao.baidu.com/s?id=1842888844129043327&wfr=spider&for=pc",
+      "time": "9月10日 10:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "曝崔康熙9月回归，山东泰山客战申花韩鹏大概率仍带队",
+      "link": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001tdoe",
+      "time": "9月9日 09:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "韩鹏战申花一视同仁,马德鲁加对子特谢拉,泰山队新布局,青训一体化",
+      "link": "http://new.qq.com/rain/a/20250908A06QSP00",
+      "time": "9月8日 17:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "京鲁大战后再迎鲁沪之战,泰山的“可复制”和“无法复制”",
+      "link": "http://baijiahao.baidu.com/s?id=1842661981887547120&wfr=spider&for=pc",
+      "time": "9月8日 10:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "上海申花与泰山对决非赢不可",
+      "link": "http://cj.sina.com.cn/articles/view/7880068820/1d5b04ed402001dfs8",
+      "time": "9月8日 10:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "泰山队VS申花焦点战:重启之战球票售罄,关键球员缺席",
+      "link": "http://www.sohu.com/a/932474793_122387568",
+      "time": "9月6日 17:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "比赛还没开打,上海申花迎来三个好消息,主场战胜山东泰山有戏了",
+      "link": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001tamy",
+      "time": "9月4日 22:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "中超联赛第24轮，上海申花队主场迎战山东泰山队",
+      "link": "http://www.163.com/dy/article/K8EE296G0556DN16.html",
+      "time": "9月2日 07:27",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 10,
+  "scrape_time": "2025-09-12 15:01:23"
+}

@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 23:19:46"
+  },
+  "core_event": {
+    "core_event_name": "申京打爆约基奇，火箭送走杰伦格林",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:19:01"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "夺冠热门轰然倒下，申京打爆约基奇，最强黑马诞生了",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8166801683070663550",
+      "time": "9月6日 17:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "申京完胜约基奇,拿下小组头名",
+      "link": "http://m.dongqiudi.com/article/5353692.html",
+      "time": "9月4日 12:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "申京17中10砍28分13板8助，约基奇16中10得22分9板4助3断",
+      "link": "http://www.dongqiudi.com/articles/5353332.html",
+      "time": "9月4日 08:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "火龙之战，申京力压约基奇拿下这局",
+      "link": "http://weibo.com/5508233899/Q2XEkDIwA",
+      "time": "9月4日 07:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "vs约基奇砍28+13+8!申京小组赛场均轰21.6+9.6+6.8 命中率65.6%",
+      "link": "http://baijiahao.baidu.com/s?id=1842287756303318242&wfr=spider&for=pc",
+      "time": "9月4日 07:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "大小约基奇对决!申京完胜约老师,火箭送走杰伦格林是对的",
+      "link": "http://www.163.com/dy/article/K8JIJPA105566S2A.html",
+      "time": "9月4日 07:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "申京面对约基奇里突外投连得5分,个人已得20分",
+      "link": "http://m.hupu.com/bbs/634688999.html",
+      "time": "9月4日 03:36",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "夺冠热门轰然倒下，申京打爆约基奇，最强黑马诞生了",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8166801683070663550",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:19:16",
+      "event_time": "9月6日 17:39"
+    },
+    {
+      "event_title": "申京完胜约基奇,拿下小组头名",
+      "event_id": "event_2",
+      "event_url": "http://m.dongqiudi.com/article/5353692.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:19:18",
+      "event_time": "9月4日 12:36"
+    },
+    {
+      "event_title": "申京17中10砍28分13板8助，约基奇16中10得22分9板4助3断",
+      "event_id": "event_3",
+      "event_url": "http://www.dongqiudi.com/articles/5353332.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:19:20",
+      "event_time": "9月4日 08:49"
+    },
+    {
+      "event_title": "火龙之战，申京力压约基奇拿下这局",
+      "event_id": "event_4",
+      "event_url": "http://weibo.com/5508233899/Q2XEkDIwA",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:19:22",
+      "event_time": "9月4日 07:46"
+    },
+    {
+      "event_title": "vs约基奇砍28+13+8!申京小组赛场均轰21.6+9.6+6.8 命中率65.6%",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842287756303318242&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:19:38",
+      "event_time": "9月4日 07:32"
+    },
+    {
+      "event_title": "大小约基奇对决!申京完胜约老师,火箭送走杰伦格林是对的",
+      "event_id": "event_6",
+      "event_url": "http://www.163.com/dy/article/K8JIJPA105566S2A.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:19:40",
+      "event_time": "9月4日 07:22"
+    },
+    {
+      "event_title": "申京面对约基奇里突外投连得5分,个人已得20分",
+      "event_id": "event_7",
+      "event_url": "http://m.hupu.com/bbs/634688999.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:19:42",
+      "event_time": "9月4日 03:36"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 23:19:15",
+    "level2_scrape_time": "2025-09-12 23:19:42"
+  }
+}

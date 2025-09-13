@@ -1,0 +1,319 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 21:03:30"
+  },
+  "core_event": {
+    "core_event_name": "第十一届四川农业博览会",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:01:47"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "外骨骼机器人、采摘机器人、舌尖“黑科技”",
+      "link": "http://www.scpublic.cn/news/getNewsDatail?id=839531",
+      "time": "9月6日 17:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "第十一届四川农博会发布国际农业项目采购清单 总额达2.26亿美元",
+      "link": "http://www.scjjrb.com/2025/09/06/99443975.html",
+      "time": "9月6日 09:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "这场首次落户四川的农业盛会，中德双方收获了什么？",
+      "link": "http://sichuan.scol.com.cn/ggxw/202509/83114771.html",
+      "time": "9月5日 20:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "“中德农业周”首次落地四川,德国代表点赞成都",
+      "link": "http://baijiahao.baidu.com/s?id=1842420664403829890&wfr=spider&for=pc",
+      "time": "9月5日 18:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "第十一届四川农博会启幕，乐山馆50家企业携特色农产寻商机",
+      "link": "http://news.hexun.com/2025-09-05/221239903.html",
+      "time": "9月5日 17:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "第十一届四川农业博览会开幕 1800余家企业参展",
+      "link": "http://baijiahao.baidu.com/s?id=1842387445540905246&wfr=spider&for=pc",
+      "time": "9月5日 09:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "第十一届四川农业博览会开幕",
+      "link": "http://www.sc.gov.cn/10462/10464/10797/2025/9/5/5905989faafb490da960baba54514e84.shtml",
+      "time": "9月5日 08:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "第十一届四川农博会开幕 农业机器人秀“精准作业”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8647293983152763319",
+      "time": "9月4日 22:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "第十一届四川农博会开幕",
+      "link": "http://baijiahao.baidu.com/s?id=1842342460006033527&wfr=spider&for=pc",
+      "time": "9月4日 22:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "四川农博会开幕!1800家企业蓉城“链”动全球 上万种优质农产品亮相",
+      "link": "http://www.scjjrb.com/2025/09/04/99443825.html",
+      "time": "9月4日 19:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "助力优质农产品扬帆 “蓉品出川出海”对接活动现场签约13.9亿元",
+      "link": "http://baijiahao.baidu.com/s?id=1842330980402053983&wfr=spider&for=pc",
+      "time": "9月4日 19:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "推动“蓉品出川出海” 深化全产业链合作 第十一届成都农博会开启农业盛典",
+      "link": "http://www.jiemian.com/article/13301613.html",
+      "time": "9月4日 14:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "成都农博会解锁农业前沿“黑科技”",
+      "link": "http://www.163.com/dy/article/K8HHD3U60514D3UH.html",
+      "time": "9月3日 12:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "成都农博会周末正火 国际国内好物齐聚",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "外骨骼机器人、采摘机器人、舌尖“黑科技”",
+      "event_id": "event_1",
+      "event_url": "http://www.scpublic.cn/news/getNewsDatail?id=839531",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:02:03",
+      "event_time": "9月6日 17:26"
+    },
+    {
+      "event_title": "第十一届四川农博会发布国际农业项目采购清单 总额达2.26亿美元",
+      "event_id": "event_2",
+      "event_url": "http://www.scjjrb.com/2025/09/06/99443975.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:02:05",
+      "event_time": "9月6日 09:24"
+    },
+    {
+      "event_title": "这场首次落户四川的农业盛会，中德双方收获了什么？",
+      "event_id": "event_3",
+      "event_url": "http://sichuan.scol.com.cn/ggxw/202509/83114771.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:02:07",
+      "event_time": "9月5日 20:49"
+    },
+    {
+      "event_title": "“中德农业周”首次落地四川,德国代表点赞成都",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842420664403829890&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "厨师AmyChef",
+      "comment_time": "09-05 23:05",
+      "comment_content": "成都农业获德国点赞，合作创新势头强劲。期待未来更多携手成果。",
+      "user_location": "重庆",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:02:24",
+      "event_time": "9月5日 18:47"
+    },
+    {
+      "event_title": "第十一届四川农博会启幕，乐山馆50家企业携特色农产寻商机",
+      "event_id": "event_5",
+      "event_url": "http://news.hexun.com/2025-09-05/221239903.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:02:26",
+      "event_time": "9月5日 17:28"
+    },
+    {
+      "event_title": "第十一届四川农业博览会开幕 1800余家企业参展",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842387445540905246&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:02:42",
+      "event_time": "9月5日 09:59"
+    },
+    {
+      "event_title": "第十一届四川农业博览会开幕",
+      "event_id": "event_7",
+      "event_url": "http://www.sc.gov.cn/10462/10464/10797/2025/9/5/5905989faafb490da960baba54514e84.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:02:44",
+      "event_time": "9月5日 08:12"
+    },
+    {
+      "event_title": "第十一届四川农博会开幕 农业机器人秀“精准作业”",
+      "event_id": "event_8",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8647293983152763319",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:02:46",
+      "event_time": "9月4日 22:26"
+    },
+    {
+      "event_title": "第十一届四川农博会开幕",
+      "event_id": "event_9",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842342460006033527&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:03:02",
+      "event_time": "9月4日 22:02"
+    },
+    {
+      "event_title": "四川农博会开幕!1800家企业蓉城“链”动全球 上万种优质农产品亮相",
+      "event_id": "event_10",
+      "event_url": "http://www.scjjrb.com/2025/09/04/99443825.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:03:04",
+      "event_time": "9月4日 19:20"
+    },
+    {
+      "event_title": "助力优质农产品扬帆 “蓉品出川出海”对接活动现场签约13.9亿元",
+      "event_id": "event_11",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842330980402053983&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:03:20",
+      "event_time": "9月4日 19:00"
+    },
+    {
+      "event_title": "推动“蓉品出川出海” 深化全产业链合作 第十一届成都农博会开启农业盛典",
+      "event_id": "event_12",
+      "event_url": "http://www.jiemian.com/article/13301613.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:03:22",
+      "event_time": "9月4日 14:31"
+    },
+    {
+      "event_title": "成都农博会解锁农业前沿“黑科技”",
+      "event_id": "event_13",
+      "event_url": "http://www.163.com/dy/article/K8HHD3U60514D3UH.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:03:24",
+      "event_time": "9月3日 12:23"
+    },
+    {
+      "event_title": "成都农博会周末正火 国际国内好物齐聚",
+      "event_id": "event_14",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:03:26",
+      "event_time": "1970年"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 14,
+    "total_comments": 14,
+    "events_with_comments": 14,
+    "level1_scrape_time": "2025-09-12 21:02:02",
+    "level2_scrape_time": "2025-09-12 21:03:26"
+  }
+}

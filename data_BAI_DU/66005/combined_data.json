@@ -1,0 +1,129 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:24:12"
+  },
+  "core_event": {
+    "core_event_name": "苹果新款智能手表发布",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:22:59"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "消息称苹果Apple Watch SE 3即将发布:搭S11芯片,新增健康功能",
+      "link": "http://baijiahao.baidu.com/s?id=1842658300795316589&wfr=spider&for=pc",
+      "time": "9月8日 09:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "苹果2新智能手表前瞻 前辈旗舰现冰点价果粉心碎!",
+      "link": "http://mobile.zol.com.cn/1042/10423016_all.html",
+      "time": "9月8日 07:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "9月10日的苹果发布会不仅带来了全新的iPhone17系列,还将推出三款全新的Apple Watch",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4085649192243683527",
+      "time": "9月6日 11:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "苹果 2025 年款智能手表前瞻:Apple Watch Ultra 3升级 S11 芯片",
+      "link": "http://baijiahao.baidu.com/s?id=1842473381646400565&wfr=spider&for=pc",
+      "time": "9月6日 08:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "Apple Watch S11支持5G RedCap与血压监测",
+      "link": "http://baijiahao.baidu.com/s?id=1842466525669384708&wfr=spider&for=pc",
+      "time": "9月5日 15:04",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "消息称苹果Apple Watch SE 3即将发布:搭S11芯片,新增健康功能",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842658300795316589&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "Draco不吃ayam",
+      "comment_time": "09-08 14:57",
+      "comment_content": "Apple Watch SE 3快来了，健康监测升级实用，价格亲民真不错。",
+      "user_location": "江苏",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:23:32",
+      "event_time": "9月8日 09:44"
+    },
+    {
+      "event_title": "苹果2新智能手表前瞻 前辈旗舰现冰点价果粉心碎!",
+      "event_id": "event_2",
+      "event_url": "http://mobile.zol.com.cn/1042/10423016_all.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:23:34",
+      "event_time": "9月8日 07:37"
+    },
+    {
+      "event_title": "9月10日的苹果发布会不仅带来了全新的iPhone17系列,还将推出三款全新的Apple Watch",
+      "event_id": "event_3",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4085649192243683527",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:23:36",
+      "event_time": "9月6日 11:49"
+    },
+    {
+      "event_title": "苹果 2025 年款智能手表前瞻:Apple Watch Ultra 3升级 S11 芯片",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842473381646400565&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "NeverStop智囊团",
+      "comment_time": "09-06 14:28",
+      "comment_content": "苹果手表明年出新款了，Ultra 3芯片更快还有5G，Series 11会有新配色，入门SE也升级，值得期待。",
+      "user_location": "河北",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:23:52",
+      "event_time": "9月6日 08:45"
+    },
+    {
+      "event_title": "Apple Watch S11支持5G RedCap与血压监测",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842466525669384708&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "Neymar的珠海",
+      "comment_time": "09-06 07:11",
+      "comment_content": "期待新品！5G RedCap连接快又省电，血压监测贴心提醒健康，苹果这次升级真实用。",
+      "user_location": "山东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:24:08"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 14:23:13",
+    "level2_scrape_time": "2025-09-12 14:24:08"
+  }
+}

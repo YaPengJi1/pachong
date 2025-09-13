@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:58:55"
+  },
+  "core_event": {
+    "core_event_name": "世预赛梅开二度，哈兰德有机会赶超双骄",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:58:31"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "C罗将对世预赛历史射手王发起冲击",
+      "link": "http://weibo.com/7830536719/Q3Vsl2Nmc",
+      "time": "9月10日 16:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "C罗和梅西在世预赛各有优势,哈兰德有机会赶超绝代双骄",
+      "link": "http://new.qq.com/rain/a/20250910A01WDM00",
+      "time": "9月10日 09:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "世预赛均上演梅开二度，世界杯官方晒照：梅西和C罗是永恒的",
+      "link": "http://m.hupu.com/bbs/634723583.html",
+      "time": "9月7日 07:24",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "C罗将对世预赛历史射手王发起冲击",
+      "event_id": "event_1",
+      "event_url": "http://weibo.com/7830536719/Q3Vsl2Nmc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:58:46",
+      "event_time": "9月10日 16:01"
+    },
+    {
+      "event_title": "C罗和梅西在世预赛各有优势,哈兰德有机会赶超绝代双骄",
+      "event_id": "event_2",
+      "event_url": "http://new.qq.com/rain/a/20250910A01WDM00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:58:48",
+      "event_time": "9月10日 09:11"
+    },
+    {
+      "event_title": "世预赛均上演梅开二度，世界杯官方晒照：梅西和C罗是永恒的",
+      "event_id": "event_3",
+      "event_url": "http://m.hupu.com/bbs/634723583.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:58:50",
+      "event_time": "9月7日 07:24"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 10:58:45",
+    "level2_scrape_time": "2025-09-12 10:58:50"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "core_event_name": "美国8月PPI意外下降",
+  "comments": [
+    {
+      "event_title": "美国8月PPI环比四个月来首次转负",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K961DO8L0534A4SC.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:14:40",
+      "event_time": "昨天 11:27"
+    },
+    {
+      "event_title": "美PPI意外下降,特朗普敦促“必须立刻大幅降息”!新高之际,港股互联网ETF单日再揽2.76亿元",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.com.cn/money/fund/etf/2025-09-11/doc-infqasqk6871053.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:14:42",
+      "event_time": "昨天 09:14"
+    },
+    {
+      "event_title": "美国8月PPI意外下降，通胀压力缓和为美联储降息铺路",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.cn/forex/whzx/2025-09-11/detail-infpzvkz9104668.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:14:44",
+      "event_time": "昨天 01:52"
+    },
+    {
+      "event_title": "美国CPI报告将至，PPI降幅创10年最大，或促降息",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K94IPT850519D4UH.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:14:47",
+      "event_time": "9月10日 21:53"
+    },
+    {
+      "event_title": "美国8月PPI:环比降0.1%,美联储或降息25基点",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842884377283681813&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "歌者妮妮糖",
+      "comment_time": "09-11 01:13",
+      "comment_content": "PPI降了，但核心通胀没咋动吧？服务价格还挺硬，美联储急着降息可能低估反弹风险。",
+      "user_location": "江西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:15:04",
+      "event_time": "9月10日 21:18"
+    },
+    {
+      "event_title": "美国8月PPI环比-0.1%,四个月来首次转负,同比远低于预期",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842880415989583555&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "红鸟篮球手",
+      "comment_time": "09-10 20:47",
+      "comment_content": "很欣赏作者的观点！",
+      "user_location": "河南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:15:19"
+    }
+  ],
+  "total_comments": 6,
+  "scrape_time": "2025-09-12 11:15:19"
+}

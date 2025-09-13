@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "东契奇带领斯洛文尼亚挺进欧洲杯16强",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:45:16"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "东契奇37分助力欧洲杯,星空体育揭晓16强对阵",
+      "link": "http://www.163.com/dy/article/K8PF34IM0556CC5Q.html",
+      "time": "9月6日 14:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "东契奇加冕斯洛文尼亚国家队队史得分王 在更衣室拍照留念",
+      "link": "http://sports.sina.cn/nba/other/2025-09-05/detail-infpmkhm0901795.d.html",
+      "time": "9月5日 11:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "东契奇率队挺进16强，斯洛文尼亚胜以色列",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=64079012678001691",
+      "time": "9月5日 10:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "东契奇超越德拉季奇成为斯洛文尼亚男篮队史得分王",
+      "link": "http://www.dongqiudi.com/articles/5355178.html",
+      "time": "9月5日 09:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "欧锦赛小组赛得分榜:东契奇场均32.4分傲视群雄 字母哥命中率逆天",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-05/doc-infpkxsr1063159.shtml",
+      "time": "9月5日 09:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "东契奇挺进欧洲杯16强，率队拒绝冰岛逆转",
+      "link": "http://cj.sina.com.cn/articles/view/5887996859/15ef3b3bb001014mns",
+      "time": "9月4日 17:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "力压约基奇登顶榜首 申京都欧洲杯的最大惊喜",
+      "link": "http://k.sina.com.cn/article_7880068727_1d5b04e7702002eb4c.html",
+      "time": "9月3日 16:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "男篮欧锦赛：博格丹因伤退出赛事，东契奇三双助队首胜",
+      "link": "http://www.dongqiudi.com/articles/5347326.html",
+      "time": "9月1日 10:32",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-12 20:45:30"
+}

@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:55:43"
+  },
+  "core_event": {
+    "core_event_name": "全固态电池量产与市场爆发",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:54:55"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国家战略加码!固态电池“起飞”",
+      "link": "http://finance.sina.cn/fund/jjgdxw/2025-09-11/detail-infqccem8522224.d.html",
+      "time": "昨天 14:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "全“固态电池”量产第一受益方",
+      "link": "http://cj.sina.com.cn/articles/view/7510251971/1bfa559c300101m50q",
+      "time": "9月9日 16:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "搭载QuantumScape固态电池的杜卡迪摩托亮相",
+      "link": "http://baijiahao.baidu.com/s?id=1842701859829256004&wfr=spider&for=pc",
+      "time": "9月8日 20:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国固态电池将量产,纯电续航1200km",
+      "link": "http://new.qq.com/rain/a/20250908A059L700",
+      "time": "9月8日 15:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "彻底解决“枝晶”问题 韩国研发新电池:充电12分钟续航804公里!",
+      "link": "http://news.mydrivers.com/1/1072/1072896.htm",
+      "time": "9月6日 16:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "大面积异动!固态电池爆发",
+      "link": "http://emwap.eastmoney.com/a/202509053505853860.html",
+      "time": "9月5日 15:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "固态电池再度引爆市场!谁将主宰万亿产业革命?",
+      "link": "http://fund.jrj.com.cn/2025/09/05100952938791.shtml",
+      "time": "9月5日 10:09",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "国家战略加码!固态电池“起飞”",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.cn/fund/jjgdxw/2025-09-11/detail-infqccem8522224.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:55:11",
+      "event_time": "昨天 14:26"
+    },
+    {
+      "event_title": "全“固态电池”量产第一受益方",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/7510251971/1bfa559c300101m50q",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:55:13",
+      "event_time": "9月9日 16:57"
+    },
+    {
+      "event_title": "搭载QuantumScape固态电池的杜卡迪摩托亮相",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842701859829256004&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:55:30",
+      "event_time": "9月8日 20:58"
+    },
+    {
+      "event_title": "中国固态电池将量产,纯电续航1200km",
+      "event_id": "event_4",
+      "event_url": "http://new.qq.com/rain/a/20250908A059L700",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:55:32",
+      "event_time": "9月8日 15:08"
+    },
+    {
+      "event_title": "彻底解决“枝晶”问题 韩国研发新电池:充电12分钟续航804公里!",
+      "event_id": "event_5",
+      "event_url": "http://news.mydrivers.com/1/1072/1072896.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:55:34",
+      "event_time": "9月6日 16:04"
+    },
+    {
+      "event_title": "大面积异动!固态电池爆发",
+      "event_id": "event_6",
+      "event_url": "http://emwap.eastmoney.com/a/202509053505853860.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:55:37",
+      "event_time": "9月5日 15:01"
+    },
+    {
+      "event_title": "固态电池再度引爆市场!谁将主宰万亿产业革命?",
+      "event_id": "event_7",
+      "event_url": "http://fund.jrj.com.cn/2025/09/05100952938791.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:55:39",
+      "event_time": "9月5日 10:09"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 14:55:10",
+    "level2_scrape_time": "2025-09-12 14:55:39"
+  }
+}

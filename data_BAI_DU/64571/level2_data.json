@@ -1,0 +1,71 @@
+{
+  "core_event_name": "美联储降息信号释放",
+  "comments": [
+    {
+      "event_title": "美联储沃勒力推本月启动降息,释放9月首降+连续宽松信号",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842334156115946594&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:22:54",
+      "event_time": "9月4日 19:52"
+    },
+    {
+      "event_title": "美联储9月降息概率攀升至90%",
+      "event_id": "event_2",
+      "event_url": "http://weibo.com/7637728252/Q2Fst8dwm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:22:56",
+      "event_time": "9月2日 09:27"
+    },
+    {
+      "event_title": "市场押注美联储将降息,美元势将下跌",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842035217350755461&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "调酒师Mixologist_Zac",
+      "comment_time": "09-01 19:37",
+      "comment_content": "通胀反弹可能性大，Fed或推迟降息，美元反获支撑，因经济数据近期超预期。",
+      "user_location": "甘肃",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:23:12",
+      "event_time": "9月1日 12:41"
+    },
+    {
+      "event_title": "凌晨重磅:美联储公布!信息量很大 午夜惊雷·美联储突放鹰派信号",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4915789871894081007",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:23:14",
+      "event_time": "9月1日 03:02"
+    },
+    {
+      "event_title": "美联储大消息,事关降息",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841746026125173031&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "青山韵OQ",
+      "comment_time": "08-29 10:06",
+      "comment_content": "美国降不降息已经不那么重要了！对A股只是一个心理作用∽",
+      "user_location": "江苏",
+      "like_count": 8,
+      "scrape_time": "2025-09-13 02:23:29"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-13 02:23:29"
+}

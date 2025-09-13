@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "人工智能+行动意见出炉",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:08:55"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国务院发布《关于深入实施“人工智能+”行动的意见》",
+      "link": "http://weibo.com/7539994918/Q317R2kqn",
+      "time": "9月4日 16:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "“人工智能+”行动加速落地,普惠智算云底座成关键支撑",
+      "link": "http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS68b7dd17a310f0725774687f.html",
+      "time": "9月3日 09:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "长城基金刘疆解读人工智能+",
+      "link": "http://www.163.com/dy/article/K8EP5R6K055696KT.html",
+      "time": "9月2日 10:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "国务院人工智能+行动意见出炉,阿里持续投入AI建设",
+      "link": "http://www.cnenergynews.cn/jinrong/2025/09/01/detail_20250901230374.html",
+      "time": "9月1日 09:38",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 17:09:09"
+}

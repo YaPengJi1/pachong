@@ -1,0 +1,92 @@
+{
+  "core_info": {
+    "core_event_name": "特斯拉为留住马斯克开出1万亿美元薪酬",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 12:37:44"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特斯拉CEO马斯克年薪达1万亿美元",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12054032274877529680",
+      "time": "9月10日 14:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特斯拉拿1万亿美元激励马斯克挑战",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11102833516750122024",
+      "time": "9月9日 21:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "马斯克“万亿薪酬”计划",
+      "link": "http://www.nbd.com.cn/articles/2025-09-09/4054533.html",
+      "time": "9月9日 18:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "马斯克回应特斯拉开出“天价薪酬包”",
+      "link": "http://www.163.com/dy/article/K8PKCQSF0556GFDP.html",
+      "time": "9月6日 15:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "马斯克有望获最高1万亿美元天价薪酬",
+      "link": "http://tv.cctv.com/2025/09/06/VIDEz8kjZq7iCFYLEev2CxJN250906.shtml",
+      "time": "9月6日 12:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "马斯克回应“大饼”",
+      "link": "http://finance.sina.com.cn/jjxw/2025-09-06/doc-infpppfk1554834.shtml",
+      "time": "9月6日 11:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "特斯拉为留住马斯克,开出1万亿美元天价薪酬方案",
+      "link": "http://baijiahao.baidu.com/s?id=1842472296000846174&wfr=spider&for=pc",
+      "time": "9月6日 08:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "特斯拉要给马斯克发1万亿美元",
+      "link": "http://www.huxiu.com/article/4764002.html",
+      "time": "9月6日 00:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "特斯拉要给马斯克发1万亿美元薪酬，但有条件",
+      "link": "http://baijiahao.baidu.com/s?id=1842434348189417697&wfr=spider&for=pc",
+      "time": "9月5日 22:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "特斯拉向马斯克开出约1万亿美元薪酬方案",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15395571481464764458",
+      "time": "9月5日 21:56",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 10,
+  "scrape_time": "2025-09-12 12:37:58"
+}

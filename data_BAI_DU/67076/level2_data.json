@@ -1,0 +1,98 @@
+{
+  "core_event_name": "以色列突袭卡塔尔，中东局势升级",
+  "comments": [
+    {
+      "event_title": "“筹划数月、15架战机参与”!中东局势再升级",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250911A02PJM00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:11:40",
+      "event_time": "昨天 11:13"
+    },
+    {
+      "event_title": "以色列空袭卡塔尔，中东危局更危",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/2025-09-11/detail-infpzzsv2144916.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:11:42",
+      "event_time": "昨天 02:55"
+    },
+    {
+      "event_title": "以色列空袭卡塔尔",
+      "event_id": "event_3",
+      "event_url": "http://www.dzwww.com/xinwen/guojixinwen/gjsx/202509/t20250911_16455118.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:11:44",
+      "event_time": "昨天 00:00"
+    },
+    {
+      "event_title": "以色列突袭卡塔尔，美国知情时间延迟",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=3731923716418125964",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:11:46",
+      "event_time": "9月10日 14:17"
+    },
+    {
+      "event_title": "以色列突袭卡塔尔,卡塔尔敢不敢还手?",
+      "event_id": "event_5",
+      "event_url": "http://new.qq.com/rain/a/20250910A04GW700",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:11:48",
+      "event_time": "9月10日 13:06"
+    },
+    {
+      "event_title": "以色列空袭多哈,“内塔尼亚胡+特朗普”组合有多疯狂?丨国际观察",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842838573923468992&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:12:06",
+      "event_time": "9月10日 09:23"
+    },
+    {
+      "event_title": "以色列公然袭击卡塔尔，目标直指哈马斯高层",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842831065669304026&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:12:21",
+      "event_time": "9月9日 21:52"
+    }
+  ],
+  "total_comments": 7,
+  "scrape_time": "2025-09-12 11:12:21"
+}

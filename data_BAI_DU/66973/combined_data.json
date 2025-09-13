@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:57:31"
+  },
+  "core_event": {
+    "core_event_name": "澳门冠军赛国乒女单夺冠之路",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:57:01"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "澳门冠军赛:女单首轮综述!国乒6人全晋级,韩国队遭全军覆没",
+      "link": "http://new.qq.com/rain/a/20250911A05A9A00",
+      "time": "昨天 15:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "澳门冠军赛孙颖莎赢了，国乒男单仅2人晋级",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12452683923607633741",
+      "time": "9月10日 21:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "桥本帆乃香不参赛，澳门冠军赛国乒女单夺冠之路，最大对手有2人",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5099369904984961655",
+      "time": "9月8日 10:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "桥本帆乃香连克四名国乒女将夺冠，中国队二线阵容表现平庸",
+      "link": "http://www.jfdaily.com/news/detail?id=978487",
+      "time": "9月8日 04:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "WTT澳门冠军赛女单签表出炉",
+      "link": "http://cj.sina.com.cn/articles/view/1617264814/606580ae02002dlko",
+      "time": "9月7日 15:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "WTT中国澳门冠军赛国乒名单更新",
+      "link": "http://k.sina.cn/article_2018499075_784fda0302002hjl8.html",
+      "time": "9月6日 20:20",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "澳门冠军赛:女单首轮综述!国乒6人全晋级,韩国队遭全军覆没",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250911A05A9A00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:57:17",
+      "event_time": "昨天 15:26"
+    },
+    {
+      "event_title": "澳门冠军赛孙颖莎赢了，国乒男单仅2人晋级",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12452683923607633741",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:57:19",
+      "event_time": "9月10日 21:28"
+    },
+    {
+      "event_title": "桥本帆乃香不参赛，澳门冠军赛国乒女单夺冠之路，最大对手有2人",
+      "event_id": "event_3",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5099369904984961655",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:57:21",
+      "event_time": "9月8日 10:04"
+    },
+    {
+      "event_title": "桥本帆乃香连克四名国乒女将夺冠，中国队二线阵容表现平庸",
+      "event_id": "event_4",
+      "event_url": "http://www.jfdaily.com/news/detail?id=978487",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:57:23",
+      "event_time": "9月8日 04:17"
+    },
+    {
+      "event_title": "WTT澳门冠军赛女单签表出炉",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/1617264814/606580ae02002dlko",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:57:25",
+      "event_time": "9月7日 15:37"
+    },
+    {
+      "event_title": "WTT中国澳门冠军赛国乒名单更新",
+      "event_id": "event_6",
+      "event_url": "http://k.sina.cn/article_2018499075_784fda0302002hjl8.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:57:27",
+      "event_time": "9月6日 20:20"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 10:57:15",
+    "level2_scrape_time": "2025-09-12 10:57:27"
+  }
+}

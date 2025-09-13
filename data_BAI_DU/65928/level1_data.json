@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "世预赛葡萄牙5-0迎开门红",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:48:11"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "瓦尔加完成双响,3分钟后坎塞洛远射还以颜色",
+      "link": "http://new.qq.com/rain/a/20250910A00YGG00",
+      "time": "9月10日 04:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "梅开二度带领球队拿下世预赛首胜，C罗又接近一项纪录",
+      "link": "http://baijiahao.baidu.com/s?id=1842698746728436678&wfr=spider&for=pc",
+      "time": "9月8日 20:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "C罗追平C罗，迫近世预赛射手王",
+      "link": "http://baijiahao.baidu.com/s?id=1842569171764115452&wfr=spider&for=pc",
+      "time": "9月7日 10:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "世预赛葡萄牙5-0迎开门红",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6372302780582014409",
+      "time": "9月7日 09:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "C罗世预赛梅开二度，苏超上座率再破纪录",
+      "link": "http://cj.sina.com.cn/articles/view/5044281310/12ca99fde02002f4t4",
+      "time": "9月7日 08:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "葡萄牙5-0亚美尼亚 C罗双响",
+      "link": "http://baijiahao.baidu.com/s?id=1842560616409862315&wfr=spider&for=pc",
+      "time": "9月7日 07:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "世预赛首战双响迎来开门红,C罗:迈出第一步",
+      "link": "http://www.dongqiudi.com/articles/5358652.html",
+      "time": "9月7日 04:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "世预赛亚美尼亚vs葡萄牙",
+      "link": "http://live.baidu.com/m/media/multipage/liveshow/index.html?room_id=10636567539&diff_type=review",
+      "time": "9月7日 01:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "葡萄牙客战亚美尼亚:C罗领衔,B费、维蒂尼亚、菲利克斯出战",
+      "link": "http://www.dongqiudi.com/articles/5357616.html",
+      "time": "9月6日 22:32",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 14:48:25"
+}

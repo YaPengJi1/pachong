@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "世锦赛女单决赛，陈雨菲VS山口茜",
+    "update_time": "更新至20250903",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:57:01"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "陈雨菲力克山口茜 国羽一姐强势回归",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8442341971564653328",
+      "time": "9月3日 13:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "羽毛球世锦赛女单决赛:陈雨菲VS山口茜",
+      "link": "http://sports.cctv.com/2025/08/31/VIDElPMo38Ul5MJJ2buMeBXJ250831.shtml",
+      "time": "8月31日 21:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "山口茜问陈雨菲脚伤怎么样，陈雨菲笑着说还ok，山口茜也笑了",
+      "link": "http://weibo.com/5884828219/Q2rfEcYKy",
+      "time": "8月31日 21:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "世锦赛女单决赛:陈雨菲9-21山口茜,大比分0-1落后",
+      "link": "http://m.dongqiudi.com/article/5345243.html",
+      "time": "8月31日 20:41",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 20:57:15"
+}

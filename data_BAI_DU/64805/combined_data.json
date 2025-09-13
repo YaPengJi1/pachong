@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:12:49"
+  },
+  "core_event": {
+    "core_event_name": "小米16系列手机发布及市场竞争",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:12:04"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "小米16 Pro详细配置曝光 苹果旗舰机为新机让路价格滑铁卢!",
+      "link": "http://mobile.zol.com.cn/1045/10450724.html",
+      "time": "昨天 17:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "疑似小米16标准版细节曝光 苹果机皇价比百元机果粉心碎!",
+      "link": "http://mobile.zol.com.cn/1041/10414347_all.html",
+      "time": "9月5日 09:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "小米16全系曝光,苹果iPhone17迎来正面挑战",
+      "link": "http://baijiahao.baidu.com/s?id=1842310759054183927&wfr=spider&for=pc",
+      "time": "9月4日 13:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "小米16三箭齐发",
+      "link": "http://www.163.com/dy/article/K85LTFQH05567D0K.html",
+      "time": "9月2日 07:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "小米16首发黑科技亮相 苹果旗舰机现谷底价果粉乐翻天",
+      "link": "http://mobile.zol.com.cn/1040/10400171_all.html",
+      "time": "9月1日 08:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "小米13系列发布，7000mAh小直屏",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b1cf1b8e9f090b312b3acb",
+      "time": "8月30日 08:02",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "小米16 Pro详细配置曝光 苹果旗舰机为新机让路价格滑铁卢!",
+      "event_id": "event_1",
+      "event_url": "http://mobile.zol.com.cn/1045/10450724.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:12:19",
+      "event_time": "昨天 17:14"
+    },
+    {
+      "event_title": "疑似小米16标准版细节曝光 苹果机皇价比百元机果粉心碎!",
+      "event_id": "event_2",
+      "event_url": "http://mobile.zol.com.cn/1041/10414347_all.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:12:21",
+      "event_time": "9月5日 09:47"
+    },
+    {
+      "event_title": "小米16全系曝光,苹果iPhone17迎来正面挑战",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842310759054183927&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "东尼大木包年",
+      "comment_time": "09-04 19:32",
+      "comment_content": "小米这次拼到底了，配置价格都亮剑，坐等苹果接招。",
+      "user_location": "吉林",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:12:39",
+      "event_time": "9月4日 13:40"
+    },
+    {
+      "event_title": "小米16三箭齐发",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K85LTFQH05567D0K.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:12:41",
+      "event_time": "9月2日 07:55"
+    },
+    {
+      "event_title": "小米16首发黑科技亮相 苹果旗舰机现谷底价果粉乐翻天",
+      "event_id": "event_5",
+      "event_url": "http://mobile.zol.com.cn/1040/10400171_all.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:12:43",
+      "event_time": "9月1日 08:51"
+    },
+    {
+      "event_title": "小米13系列发布，7000mAh小直屏",
+      "event_id": "event_6",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68b1cf1b8e9f090b312b3acb",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:12:45",
+      "event_time": "8月30日 08:02"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 17:12:18",
+    "level2_scrape_time": "2025-09-12 17:12:45"
+  }
+}

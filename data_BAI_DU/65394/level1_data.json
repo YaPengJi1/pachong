@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "沪深两市成交额连续破万亿",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:18:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "沪深两市成交额突破1.5万亿元",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9379312781740144223",
+      "time": "9月9日 13:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "沪深两市成交额连续第69个交易日破万亿元",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6649322747895390255",
+      "time": "9月2日 10:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "沪深两市成交额连续第20个交易日突破1.5万亿元",
+      "link": "http://finance.eastmoney.com/a/202509013500865455.html",
+      "time": "9月1日 10:45",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 23:18:44"
+}

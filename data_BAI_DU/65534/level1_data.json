@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "抗战胜利80周年盛大阅兵式",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:27:14"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "9月3日，北京天安门广场举行纪念中国人民抗日战争暨世界反法西斯战争胜利80周年盛大阅兵式",
+      "link": "http://weibo.com/2453180622/Q38JNkyZt",
+      "time": "9月5日 12:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "抗战胜利80周年大阅兵:严整军威撼世界,铁血荣光映和平",
+      "link": "http://www.163.com/dy/article/K8HP01530556C2W4.html",
+      "time": "9月3日 14:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "天安门广场举行盛大阅兵 隐身战机制胜未来 舰载机体系更完善",
+      "link": "http://tv.cctv.com/2025/09/03/VIDEINbJ5EWU8PssRDdesiUr250903.shtml",
+      "time": "9月3日 13:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "纪念抗战胜利80周年 天安门广场举行盛大阅兵 反无人机装备:末端防御“利刃”出鞘",
+      "link": "http://tv.cctv.com/2025/09/03/VIDEJl6E9vukrGvO3fJ2HAGt250903.shtml",
+      "time": "9月3日 13:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "广州中山纪念堂举行纪念抗战胜利80周年 观阅兵活动",
+      "link": "http://cj.sina.com.cn/articles/view/2131593523/7f0d893302001l7t4",
+      "time": "9月3日 11:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "最大规模军乐团亮相!众人大合唱《松花江上》歌声响彻天安门广场",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11131195424176037673",
+      "time": "9月3日 08:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "[胜利日]抗战胜利80周年阅兵活动 阅兵将实现多个“首次”",
+      "link": "http://news.cctv.com/2025/09/02/ARTI0oAOEwIQ0nxuM8v1T7LX250902.shtml",
+      "time": "9月2日 11:45",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-13 01:27:28"
+}

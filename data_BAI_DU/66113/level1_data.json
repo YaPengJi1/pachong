@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "iPhone 17系列发布及设计升级",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:27:54"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "消息称iPhone 17 Pro系列存储容量256GB起步后 最高将有2TB",
+      "link": "http://www.techweb.com.cn/ucweb/news/id/2965550",
+      "time": "9月8日 12:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "9月发布iPhone 17，折叠设计、全新散热引注目",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3211442129392763547",
+      "time": "9月5日 00:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "iPhone 17 系列机身厚度对比出炉",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15880993114033164439",
+      "time": "9月2日 17:12",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 14:28:08"
+}

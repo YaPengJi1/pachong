@@ -1,0 +1,319 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 19:54:51"
+  },
+  "core_event": {
+    "core_event_name": "英超热刺主席列维离任",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:52:20"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "列维离任热刺",
+      "link": "http://baijiahao.baidu.com/s?id=1842473667651830042&wfr=spider&for=pc",
+      "time": "9月6日 08:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "列维与热刺老板会谈后被解雇",
+      "link": "http://k.sina.com.cn/article_7880068727_1d5b04e7702002etho.html",
+      "time": "9月5日 18:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "列维:一个在算盘和奖杯之间徘徊的主席",
+      "link": "http://www.dongqiudi.com/articles/5355574.html",
+      "time": "9月5日 15:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "奥哈拉:列维为热刺带来商业价值,但我们需要赢得更多奖杯",
+      "link": "http://www.dongqiudi.com/articles/5355403.html",
+      "time": "9月5日 11:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "热刺主席列维离职",
+      "link": "http://baijiahao.baidu.com/s?id=1842390212201922942&wfr=spider&for=pc",
+      "time": "9月5日 10:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "任职25年，热刺执行主席丹尼尔·列维正式离任",
+      "link": "http://baijiahao.baidu.com/s?id=1842397164696397267&wfr=spider&for=pc",
+      "time": "9月5日 08:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "世预赛德国爆冷输球，男篮欧洲杯西班牙小组赛出局",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31544546",
+      "time": "9月5日 07:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "英超重磅宫斗!63岁列维离任:结束25年热刺生涯 被老板子女逼走",
+      "link": "http://www.163.com/dy/article/K8M0VM8005566VBM.html",
+      "time": "9月5日 06:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "英媒:乔-刘易斯的子女推动了列维卸任热刺主席",
+      "link": "http://www.dongqiudi.com/articles/5354891.html",
+      "time": "9月5日 05:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "BBC曝列维卸任内幕",
+      "link": "http://baijiahao.baidu.com/s?id=1842366837985837198&wfr=spider&for=pc",
+      "time": "9月5日 04:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "列维:为所完成的工作感到自豪,我们将热刺打造为世界强队之一",
+      "link": "http://baijiahao.baidu.com/s?id=1842356017339861864&wfr=spider&for=pc",
+      "time": "9月5日 01:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "列维任内热刺成绩:结束41年欧战冠军荒,夺1欧联杯+1联赛杯",
+      "link": "http://www.dongqiudi.com/articles/5354726.html",
+      "time": "9月5日 01:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "列维执掌热刺25年功绩",
+      "link": "http://baijiahao.baidu.com/s?id=1842358233943723839&wfr=spider&for=pc",
+      "time": "9月5日 01:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "热刺主席列维卸任主席近25年职务",
+      "link": "http://www.163.com/dy/article/K8LEI7IO0529AQIE.html",
+      "time": "9月5日 00:50",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "列维离任热刺",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842473667651830042&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:53:11",
+      "event_time": "9月6日 08:48"
+    },
+    {
+      "event_title": "列维与热刺老板会谈后被解雇",
+      "event_id": "event_2",
+      "event_url": "http://k.sina.com.cn/article_7880068727_1d5b04e7702002etho.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:53:13",
+      "event_time": "9月5日 18:22"
+    },
+    {
+      "event_title": "列维:一个在算盘和奖杯之间徘徊的主席",
+      "event_id": "event_3",
+      "event_url": "http://www.dongqiudi.com/articles/5355574.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:53:15",
+      "event_time": "9月5日 15:32"
+    },
+    {
+      "event_title": "奥哈拉:列维为热刺带来商业价值,但我们需要赢得更多奖杯",
+      "event_id": "event_4",
+      "event_url": "http://www.dongqiudi.com/articles/5355403.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:53:17",
+      "event_time": "9月5日 11:11"
+    },
+    {
+      "event_title": "热刺主席列维离职",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842390212201922942&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:53:33",
+      "event_time": "9月5日 10:43"
+    },
+    {
+      "event_title": "任职25年，热刺执行主席丹尼尔·列维正式离任",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842397164696397267&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:53:48",
+      "event_time": "9月5日 08:11"
+    },
+    {
+      "event_title": "世预赛德国爆冷输球，男篮欧洲杯西班牙小组赛出局",
+      "event_id": "event_7",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31544546",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:53:50",
+      "event_time": "9月5日 07:54"
+    },
+    {
+      "event_title": "英超重磅宫斗!63岁列维离任:结束25年热刺生涯 被老板子女逼走",
+      "event_id": "event_8",
+      "event_url": "http://www.163.com/dy/article/K8M0VM8005566VBM.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:53:52",
+      "event_time": "9月5日 06:14"
+    },
+    {
+      "event_title": "英媒:乔-刘易斯的子女推动了列维卸任热刺主席",
+      "event_id": "event_9",
+      "event_url": "http://www.dongqiudi.com/articles/5354891.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:53:55",
+      "event_time": "9月5日 05:53"
+    },
+    {
+      "event_title": "BBC曝列维卸任内幕",
+      "event_id": "event_10",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842366837985837198&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:54:10",
+      "event_time": "9月5日 04:31"
+    },
+    {
+      "event_title": "列维:为所完成的工作感到自豪,我们将热刺打造为世界强队之一",
+      "event_id": "event_11",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842356017339861864&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:54:27",
+      "event_time": "9月5日 01:37"
+    },
+    {
+      "event_title": "列维任内热刺成绩:结束41年欧战冠军荒,夺1欧联杯+1联赛杯",
+      "event_id": "event_12",
+      "event_url": "http://www.dongqiudi.com/articles/5354726.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:54:29",
+      "event_time": "9月5日 01:32"
+    },
+    {
+      "event_title": "列维执掌热刺25年功绩",
+      "event_id": "event_13",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842358233943723839&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:54:45",
+      "event_time": "9月5日 01:16"
+    },
+    {
+      "event_title": "热刺主席列维卸任主席近25年职务",
+      "event_id": "event_14",
+      "event_url": "http://www.163.com/dy/article/K8LEI7IO0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:54:47",
+      "event_time": "9月5日 00:50"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 14,
+    "total_comments": 14,
+    "events_with_comments": 14,
+    "level1_scrape_time": "2025-09-12 19:52:53",
+    "level2_scrape_time": "2025-09-12 19:54:47"
+  }
+}

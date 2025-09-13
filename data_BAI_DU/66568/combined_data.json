@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 12:15:47"
+  },
+  "core_event": {
+    "core_event_name": "贝林厄姆复出倒计时",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 12:15:02"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "贝林厄姆参加了皇马周一的合练",
+      "link": "http://m.dongqiudi.com/article/5361892.html",
+      "time": "9月9日 00:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "贝林厄姆本周恢复有球训练,但被医生劝止",
+      "link": "http://baijiahao.baidu.com/s?id=1842624691533876043&wfr=spider&for=pc",
+      "time": "9月8日 00:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "贝林厄姆将提前复出",
+      "link": "http://cj.sina.com.cn/articles/view/6645066132/18c13a99402001825i",
+      "time": "9月7日 16:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "贝林厄姆复出倒计时",
+      "link": "http://news.sohu.com/a/932609036_122354593",
+      "time": "9月7日 12:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "贝林厄姆下周将进行带球训练,并可能加入全队合练",
+      "link": "http://m.dongqiudi.com/article/5358763.html",
+      "time": "9月7日 07:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "贝林厄姆恢复进展顺利，可能在9月马德里德比中复出",
+      "link": "http://www.dongqiudi.com/articles/5357322.html",
+      "time": "9月6日 14:59",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "贝林厄姆参加了皇马周一的合练",
+      "event_id": "event_1",
+      "event_url": "http://m.dongqiudi.com/article/5361892.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:15:18",
+      "event_time": "9月9日 00:05"
+    },
+    {
+      "event_title": "贝林厄姆本周恢复有球训练,但被医生劝止",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842624691533876043&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "常笑常在心",
+      "comment_time": "09-08 01:00",
+      "comment_content": "贝林恢复真顺利，本周加练有球了。医生稳着节奏，确保健康才回归。期待早日回归赛场！",
+      "user_location": "山东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:15:35",
+      "event_time": "9月8日 00:50"
+    },
+    {
+      "event_title": "贝林厄姆将提前复出",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/6645066132/18c13a99402001825i",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:15:37",
+      "event_time": "9月7日 16:22"
+    },
+    {
+      "event_title": "贝林厄姆复出倒计时",
+      "event_id": "event_4",
+      "event_url": "http://news.sohu.com/a/932609036_122354593",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:15:39",
+      "event_time": "9月7日 12:06"
+    },
+    {
+      "event_title": "贝林厄姆下周将进行带球训练,并可能加入全队合练",
+      "event_id": "event_5",
+      "event_url": "http://m.dongqiudi.com/article/5358763.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:15:41",
+      "event_time": "9月7日 07:24"
+    },
+    {
+      "event_title": "贝林厄姆恢复进展顺利，可能在9月马德里德比中复出",
+      "event_id": "event_6",
+      "event_url": "http://www.dongqiudi.com/articles/5357322.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:15:43",
+      "event_time": "9月6日 14:59"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 12:15:16",
+    "level2_scrape_time": "2025-09-12 12:15:43"
+  }
+}

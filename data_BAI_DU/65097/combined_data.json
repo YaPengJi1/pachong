@@ -1,0 +1,584 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:16:34"
+  },
+  "core_event": {
+    "core_event_name": "华为MatePad Mini新品发布",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:13:05"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "华为推出首款小型平板Matepad Mini，起售价3299元",
+      "link": "http://pad.zol.com.cn/1043/10439549.html",
+      "time": "9月8日 09:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "华为首款8.8英寸平板!华为Matepad Mini图赏",
+      "link": "http://digi.hsw.cn/system/2025/0905/175105.shtml",
+      "time": "9月5日 15:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "华为发布Matepad Mini:全球最轻8英寸平板,售价3299元",
+      "link": "http://news.zol.com.cn/1041/10417406.html",
+      "time": "9月5日 14:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "华为首款8.8英寸平板",
+      "link": "http://baijiahao.baidu.com/s?id=1842404242932662353&wfr=spider&for=pc",
+      "time": "9月5日 14:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "华为发布首款8.8英寸旗舰小平板",
+      "link": "http://www.163.com/dy/article/K8MQAKN80511DP7O.html",
+      "time": "9月5日 13:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "华为MatePad Mini评测",
+      "link": "http://news.mydrivers.com/1/1072/1072607_5.htm",
+      "time": "9月5日 09:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "华为全新小尺寸平板MatePad Mini发布",
+      "link": "http://industry.caijing.com.cn/20250905/5111925.shtml",
+      "time": "9月5日 09:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "华为MatePad Mini 8.8英寸正式发布",
+      "link": "http://www.cinic.org.cn/zgzz/qy/1602970.html",
+      "time": "9月5日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "华为MatePad Mini登场,可接打电话,255克,比iPad mini更薄",
+      "link": "http://baijiahao.baidu.com/s?id=1842331798421876661&wfr=spider&for=pc",
+      "time": "9月4日 19:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "华为发布首款 8.8 英寸旗舰小平板,支持插卡接打电话",
+      "link": "http://baijiahao.baidu.com/s?id=1842325378189293787&wfr=spider&for=pc",
+      "time": "9月4日 17:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "小巧不简单 华为MatePad Mini正式发布",
+      "link": "http://baijiahao.baidu.com/s?id=1842324393526375840&wfr=spider&for=pc",
+      "time": "9月4日 17:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "华为发布首款8.8英寸旗舰小平板,超强超Mini",
+      "link": "http://baijiahao.baidu.com/s?id=1842323925542074217&wfr=spider&for=pc",
+      "time": "9月4日 17:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "华为平板推出全新“Mini”系列,重新定义小尺寸平板新体验",
+      "link": "http://mobile.zol.com.cn/1041/10413228.html",
+      "time": "9月4日 16:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "华为MatePad Mini发布",
+      "link": "http://pad.zol.com.cn/1041/10413225.html",
+      "time": "9月4日 16:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "华为 MatePad Mini 小平板发布",
+      "link": "http://baijiahao.baidu.com/s?id=1842322400622371882&wfr=spider&for=pc",
+      "time": "9月4日 16:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "华为稳坐国内平板第一:MatePad mini今日发布",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infpimri1786050.d.html",
+      "time": "9月4日 16:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "华为MatePad Mini价格公布 今日开启预售",
+      "link": "http://baijiahao.baidu.com/s?id=1842321570751877447&wfr=spider&for=pc",
+      "time": "9月4日 16:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "8.8英寸“大手机”!华为MatePad mini全系支持插卡",
+      "link": "http://news.pconline.com.cn/1974/19744312.html",
+      "time": "9月4日 16:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "华为MatePad Mini来袭,挑战iPad Mini",
+      "link": "http://weibo.com/6456779567/Q30Sjqb4V",
+      "time": "9月4日 15:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "华为领跑2025平板市场,MatePad mini即将发布",
+      "link": "http://news.zol.com.cn/1041/10414265.html",
+      "time": "9月4日 14:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_21",
+      "title": "华为MatePad Mini支持插卡通话",
+      "link": "http://baijiahao.baidu.com/s?id=1842314170892243993&wfr=spider&for=pc",
+      "time": "9月4日 11:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_22",
+      "title": "华为再推全新机型!这是真想买,爆款预定了",
+      "link": "http://app.myzaker.com/news/article.php?m=1757033784&pk=68b851b08e9f0953a120452a",
+      "time": "9月4日 09:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_23",
+      "title": "华为MatePad Mini即将登场,小尺寸平板市场格局生变!",
+      "link": "http://baijiahao.baidu.com/s?id=1842212753411564546&wfr=spider&for=pc",
+      "time": "9月3日 11:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_24",
+      "title": "华为MatePad Mini官宣",
+      "link": "http://baijiahao.baidu.com/s?id=1842152926258625501&wfr=spider&for=pc",
+      "time": "9月2日 19:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_25",
+      "title": "或将支持插卡接打电话 华为MatePad Mini即将发布",
+      "link": "http://pad.pconline.com.cn/1973/19732234.html",
+      "time": "9月2日 16:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_26",
+      "title": "华为MatePad Mini小平板将于9月4日正式发布,真机现已曝光",
+      "link": "http://www.gfan.com/info/593310.html",
+      "time": "9月2日 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "华为推出首款小型平板Matepad Mini，起售价3299元",
+      "event_id": "event_1",
+      "event_url": "http://pad.zol.com.cn/1043/10439549.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:13:22",
+      "event_time": "9月8日 09:40"
+    },
+    {
+      "event_title": "华为首款8.8英寸平板!华为Matepad Mini图赏",
+      "event_id": "event_2",
+      "event_url": "http://digi.hsw.cn/system/2025/0905/175105.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:13:24",
+      "event_time": "9月5日 15:01"
+    },
+    {
+      "event_title": "华为发布Matepad Mini:全球最轻8英寸平板,售价3299元",
+      "event_id": "event_3",
+      "event_url": "http://news.zol.com.cn/1041/10417406.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:13:26",
+      "event_time": "9月5日 14:41"
+    },
+    {
+      "event_title": "华为首款8.8英寸平板",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842404242932662353&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "优雅林青霞的粉",
+      "comment_time": "09-05 15:16",
+      "comment_content": "继续加油，期待更多🌼",
+      "user_location": "重庆",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:13:43",
+      "event_time": "9月5日 14:24"
+    },
+    {
+      "event_title": "华为发布首款8.8英寸旗舰小平板",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8MQAKN80511DP7O.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:13:45",
+      "event_time": "9月5日 13:35"
+    },
+    {
+      "event_title": "华为MatePad Mini评测",
+      "event_id": "event_6",
+      "event_url": "http://news.mydrivers.com/1/1072/1072607_5.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:13:47",
+      "event_time": "9月5日 09:32"
+    },
+    {
+      "event_title": "华为全新小尺寸平板MatePad Mini发布",
+      "event_id": "event_7",
+      "event_url": "http://industry.caijing.com.cn/20250905/5111925.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:13:49",
+      "event_time": "9月5日 09:14"
+    },
+    {
+      "event_title": "华为MatePad Mini 8.8英寸正式发布",
+      "event_id": "event_8",
+      "event_url": "http://www.cinic.org.cn/zgzz/qy/1602970.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:13:51",
+      "event_time": "9月5日 00:00"
+    },
+    {
+      "event_title": "华为MatePad Mini登场,可接打电话,255克,比iPad mini更薄",
+      "event_id": "event_9",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842331798421876661&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:14:07",
+      "event_time": "9月4日 19:15"
+    },
+    {
+      "event_title": "华为发布首款 8.8 英寸旗舰小平板,支持插卡接打电话",
+      "event_id": "event_10",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842325378189293787&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:14:23",
+      "event_time": "9月4日 17:23"
+    },
+    {
+      "event_title": "小巧不简单 华为MatePad Mini正式发布",
+      "event_id": "event_11",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842324393526375840&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "孤岛生存者",
+      "comment_time": "09-04 18:31",
+      "comment_content": "华为这款小平板真棒，轻薄便携屏幕超赞，日常用着太方便了。",
+      "user_location": "湖南",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 18:14:38",
+      "event_time": "9月4日 17:17"
+    },
+    {
+      "event_title": "华为发布首款8.8英寸旗舰小平板,超强超Mini",
+      "event_id": "event_12",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842323925542074217&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "柠檬喜欢音乐剧",
+      "comment_time": "09-04 17:28",
+      "comment_content": "这款华为小平板真轻啊，255克带着超方便，设计还这么精致，太棒了。",
+      "user_location": "辽宁",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 18:14:54",
+      "event_time": "9月4日 17:12"
+    },
+    {
+      "event_title": "华为平板推出全新“Mini”系列,重新定义小尺寸平板新体验",
+      "event_id": "event_13",
+      "event_url": "http://mobile.zol.com.cn/1041/10413228.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:14:56",
+      "event_time": "9月4日 16:53"
+    },
+    {
+      "event_title": "华为MatePad Mini发布",
+      "event_id": "event_14",
+      "event_url": "http://pad.zol.com.cn/1041/10413225.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:14:58",
+      "event_time": "9月4日 16:48"
+    },
+    {
+      "event_title": "华为 MatePad Mini 小平板发布",
+      "event_id": "event_15",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842322400622371882&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:15:14",
+      "event_time": "9月4日 16:45"
+    },
+    {
+      "event_title": "华为稳坐国内平板第一:MatePad mini今日发布",
+      "event_id": "event_16",
+      "event_url": "http://finance.sina.cn/2025-09-04/detail-infpimri1786050.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:15:16",
+      "event_time": "9月4日 16:40"
+    },
+    {
+      "event_title": "华为MatePad Mini价格公布 今日开启预售",
+      "event_id": "event_17",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842321570751877447&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "骆驼不吃凤梨",
+      "comment_time": "09-04 17:47",
+      "comment_content": "这小pad看着真轻巧，装包里都没负担。随身带着随时开工，华为这波挺贴心。",
+      "user_location": "广西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:15:31",
+      "event_time": "9月4日 16:32"
+    },
+    {
+      "event_title": "华为MatePad Mini价格公布 今日开启预售",
+      "event_id": "event_17",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842321570751877447&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "平淡可能才是真",
+      "comment_time": "09-04 20:18",
+      "comment_content": "价格也上去了，",
+      "user_location": "河南",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 18:15:31",
+      "event_time": "9月4日 16:32"
+    },
+    {
+      "event_title": "8.8英寸“大手机”!华为MatePad mini全系支持插卡",
+      "event_id": "event_18",
+      "event_url": "http://news.pconline.com.cn/1974/19744312.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:15:33",
+      "event_time": "9月4日 16:16"
+    },
+    {
+      "event_title": "华为MatePad Mini来袭,挑战iPad Mini",
+      "event_id": "event_19",
+      "event_url": "http://weibo.com/6456779567/Q30Sjqb4V",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:15:36",
+      "event_time": "9月4日 15:59"
+    },
+    {
+      "event_title": "华为领跑2025平板市场,MatePad mini即将发布",
+      "event_id": "event_20",
+      "event_url": "http://news.zol.com.cn/1041/10414265.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:15:38",
+      "event_time": "9月4日 14:20"
+    },
+    {
+      "event_title": "华为MatePad Mini支持插卡通话",
+      "event_id": "event_21",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842314170892243993&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "减肥再也不翻车",
+      "comment_time": "09-04 18:07",
+      "comment_content": "华为MatePad Mini通信功能真贴心，移动办公更安心便捷。",
+      "user_location": "贵州",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:15:53",
+      "event_time": "9月4日 11:06"
+    },
+    {
+      "event_title": "华为再推全新机型!这是真想买,爆款预定了",
+      "event_id": "event_22",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1757033784&pk=68b851b08e9f0953a120452a",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:15:55",
+      "event_time": "9月4日 09:00"
+    },
+    {
+      "event_title": "华为MatePad Mini即将登场,小尺寸平板市场格局生变!",
+      "event_id": "event_23",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842212753411564546&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "Annie是种植师",
+      "comment_time": "09-03 14:11",
+      "comment_content": "华为新平板登场，轻薄设计真吸引人。期待它带来市场新气象。",
+      "user_location": "江苏",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:16:11",
+      "event_time": "9月3日 11:43"
+    },
+    {
+      "event_title": "华为MatePad Mini官宣",
+      "event_id": "event_24",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842152926258625501&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "老T不吃西红柿",
+      "comment_time": "09-02 20:18",
+      "comment_content": "华为这款小屏平板真贴心，轻薄便携能量十足，日常随身好伴侣。",
+      "user_location": "福建",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:16:26",
+      "event_time": "9月2日 19:52"
+    },
+    {
+      "event_title": "或将支持插卡接打电话 华为MatePad Mini即将发布",
+      "event_id": "event_25",
+      "event_url": "http://pad.pconline.com.cn/1973/19732234.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:16:28",
+      "event_time": "9月2日 16:44"
+    },
+    {
+      "event_title": "华为MatePad Mini小平板将于9月4日正式发布,真机现已曝光",
+      "event_id": "event_26",
+      "event_url": "http://www.gfan.com/info/593310.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:16:30",
+      "event_time": "9月2日 00:00"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 26,
+    "total_comments": 27,
+    "events_with_comments": 26,
+    "level1_scrape_time": "2025-09-12 18:13:21",
+    "level2_scrape_time": "2025-09-12 18:16:30"
+  }
+}

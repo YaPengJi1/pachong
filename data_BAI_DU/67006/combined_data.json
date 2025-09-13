@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 09:57:13"
+  },
+  "core_event": {
+    "core_event_name": "零跑汽车品牌发展",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:56:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "零跑Lafa5将于四季度上市",
+      "link": "http://k.sina.com.cn/article_2298836177_890574d104001diw2.html",
+      "time": "昨天 10:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "零跑两厢车 Lafa 5 欧洲首秀,CEO 朱江明:明年月销 10万辆",
+      "link": "http://www.ifanr.com/1637143",
+      "time": "9月10日 07:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "零跑Lafa5全球首秀",
+      "link": "http://baijiahao.baidu.com/s?id=1842760298471750317&wfr=spider&for=pc",
+      "time": "9月9日 12:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "2025慕尼黑车展:零跑B10亮相",
+      "link": "http://3g.cnfol.com/auto/xincheshangshi/20250908/31624914.shtml",
+      "time": "9月8日 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "零跑Lafa5将于四季度上市",
+      "event_id": "event_1",
+      "event_url": "http://k.sina.com.cn/article_2298836177_890574d104001diw2.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:56:47",
+      "event_time": "昨天 10:23"
+    },
+    {
+      "event_title": "零跑两厢车 Lafa 5 欧洲首秀,CEO 朱江明:明年月销 10万辆",
+      "event_id": "event_2",
+      "event_url": "http://www.ifanr.com/1637143",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:56:49",
+      "event_time": "9月10日 07:35"
+    },
+    {
+      "event_title": "零跑Lafa5全球首秀",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842760298471750317&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "莫莫喜欢手游",
+      "comment_time": "09-09 13:01",
+      "comment_content": "零跑Lafa5这颜值绝了，运动感十足，Q4上市肯定火。雷电黄简直吸睛神器！",
+      "user_location": "江苏",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:57:07",
+      "event_time": "9月9日 12:46"
+    },
+    {
+      "event_title": "2025慕尼黑车展:零跑B10亮相",
+      "event_id": "event_4",
+      "event_url": "http://3g.cnfol.com/auto/xincheshangshi/20250908/31624914.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:57:09",
+      "event_time": "9月8日 00:00"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 09:56:46",
+    "level2_scrape_time": "2025-09-12 09:57:09"
+  }
+}

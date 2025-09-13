@@ -1,0 +1,193 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 15:08:59"
+  },
+  "core_event": {
+    "core_event_name": "泰国新总理人选提前出国避难",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:07:28"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "泰国新总理人选提前锁定,他信似乎预感到了什么,已提前出国避难",
+      "link": "http://www.163.com/dy/article/K8UUDEP50553B0G8.html",
+      "time": "9月8日 17:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "泰国当选总理阿努廷开始组建内阁",
+      "link": "http://baijiahao.baidu.com/s?id=1842563761371390797&wfr=spider&for=pc",
+      "time": "9月7日 08:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "华裔当选泰国总理,自称纯血中国后代,对华立场曝光,泰国变天了",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4151232807062041270",
+      "time": "9月6日 20:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "泰国当选总理阿努廷将面临哪些挑战?",
+      "link": "http://news.sina.cn/2025-09-06/detail-infpppfp6826385.d.html",
+      "time": "9月6日 12:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "华裔总理当选泰国，自称纯血中国后代，对华立场曝光引关注",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7872431920915768740",
+      "time": "9月6日 11:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "阿努廷当选泰国新总理,摇摆者、造王者、流亡者共写“政坛戏剧”",
+      "link": "http://baijiahao.baidu.com/s?id=1842425194801651733&wfr=spider&for=pc",
+      "time": "9月5日 19:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "泰国选出了新总理,但下议院解散也不远了",
+      "link": "http://baijiahao.baidu.com/s?id=1842416448983644217&wfr=spider&for=pc",
+      "time": "9月5日 17:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "阿努廷当选泰国总理",
+      "link": "http://baijiahao.baidu.com/s?id=1842421369881708067&wfr=spider&for=pc",
+      "time": "9月5日 16:54",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "泰国新总理人选提前锁定,他信似乎预感到了什么,已提前出国避难",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8UUDEP50553B0G8.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:07:43",
+      "event_time": "9月8日 17:21"
+    },
+    {
+      "event_title": "泰国当选总理阿努廷开始组建内阁",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842563761371390797&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:08:01",
+      "event_time": "9月7日 08:41"
+    },
+    {
+      "event_title": "华裔当选泰国总理,自称纯血中国后代,对华立场曝光,泰国变天了",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4151232807062041270",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:08:03",
+      "event_time": "9月6日 20:00"
+    },
+    {
+      "event_title": "泰国当选总理阿努廷将面临哪些挑战?",
+      "event_id": "event_4",
+      "event_url": "http://news.sina.cn/2025-09-06/detail-infpppfp6826385.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:08:05",
+      "event_time": "9月6日 12:33"
+    },
+    {
+      "event_title": "华裔总理当选泰国，自称纯血中国后代，对华立场曝光引关注",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7872431920915768740",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:08:07",
+      "event_time": "9月6日 11:14"
+    },
+    {
+      "event_title": "阿努廷当选泰国新总理,摇摆者、造王者、流亡者共写“政坛戏剧”",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842425194801651733&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:08:23",
+      "event_time": "9月5日 19:58"
+    },
+    {
+      "event_title": "泰国选出了新总理,但下议院解散也不远了",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842416448983644217&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:08:39",
+      "event_time": "9月5日 17:38"
+    },
+    {
+      "event_title": "阿努廷当选泰国总理",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842421369881708067&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:08:55",
+      "event_time": "9月5日 16:54"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 8,
+    "total_comments": 8,
+    "events_with_comments": 8,
+    "level1_scrape_time": "2025-09-12 15:07:42",
+    "level2_scrape_time": "2025-09-12 15:08:55"
+  }
+}

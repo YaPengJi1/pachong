@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:39:48"
+  },
+  "core_event": {
+    "core_event_name": "九三阅兵空中梯队亮相",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:39:20"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "九三阅兵空中梯队实现多个“首次”",
+      "link": "http://www.cnr.cn/newscenter/native/gd/20250906/t20250906_527352600.shtml",
+      "time": "9月6日 08:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "九三阅兵空军空中梯队火爆外网,法国网友:太炫酷了!",
+      "link": "http://www.bilibili.com/video/BV1qoaszAE9A",
+      "time": "9月5日 09:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "空中护旗梯队拉开分列式序幕",
+      "link": "http://v.cctv.com/2025/09/03/VIDETIVbcHSHcWOKliNEbu6t250903.shtml",
+      "time": "9月3日 10:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "歼-35A亮相吗?歼-20有啥变化?申进科谈阅兵空中梯队",
+      "link": "http://www.163.com/dy/article/K8FFJK4P05129QAF.html",
+      "time": "9月2日 17:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "新型装备亮相!九三阅兵将实现多个“首次”",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31535689",
+      "time": "9月2日 15:19",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "九三阅兵空中梯队实现多个“首次”",
+      "event_id": "event_1",
+      "event_url": "http://www.cnr.cn/newscenter/native/gd/20250906/t20250906_527352600.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:35",
+      "event_time": "9月6日 08:46"
+    },
+    {
+      "event_title": "九三阅兵空军空中梯队火爆外网,法国网友:太炫酷了!",
+      "event_id": "event_2",
+      "event_url": "http://www.bilibili.com/video/BV1qoaszAE9A",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:37",
+      "event_time": "9月5日 09:43"
+    },
+    {
+      "event_title": "空中护旗梯队拉开分列式序幕",
+      "event_id": "event_3",
+      "event_url": "http://v.cctv.com/2025/09/03/VIDETIVbcHSHcWOKliNEbu6t250903.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:39",
+      "event_time": "9月3日 10:54"
+    },
+    {
+      "event_title": "歼-35A亮相吗?歼-20有啥变化?申进科谈阅兵空中梯队",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8FFJK4P05129QAF.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:41",
+      "event_time": "9月2日 17:13"
+    },
+    {
+      "event_title": "新型装备亮相!九三阅兵将实现多个“首次”",
+      "event_id": "event_5",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31535689",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:44",
+      "event_time": "9月2日 15:19"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 14:39:34",
+    "level2_scrape_time": "2025-09-12 14:39:44"
+  }
+}

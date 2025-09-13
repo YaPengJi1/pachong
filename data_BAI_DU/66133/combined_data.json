@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:47:49"
+  },
+  "core_event": {
+    "core_event_name": "登贝莱受伤离场引发争议",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:47:04"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "法国队内讧爆发，金球巨星受伤",
+      "link": "http://sports.sina.cn/2025-09-09/detail-infpwvhn0412858.d.html",
+      "time": "9月9日 16:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "队报:登贝莱受伤前巴黎就已致函法国足协,表达了担忧和不满",
+      "link": "http://www.dongqiudi.com/articles/5358617.html",
+      "time": "9月7日 03:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "登贝莱将缺阵6周无缘欧冠对亚特兰大&巴萨",
+      "link": "http://k.sina.cn/article_2018499075_784fda0302002hjq6.html",
+      "time": "9月6日 21:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "法国队世预赛战胜乌克兰",
+      "link": "http://weibo.com/3798055657/Q3jVLDEIE",
+      "time": "9月6日 16:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "法媒:巴黎对法国足协非常不满,赛前就提醒不应该让登贝莱出场",
+      "link": "http://baijiahao.baidu.com/s?id=1842467001522246064&wfr=spider&for=pc",
+      "time": "9月6日 07:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "法国队内讧爆发，金球巨星受伤",
+      "event_id": "event_1",
+      "event_url": "http://sports.sina.cn/2025-09-09/detail-infpwvhn0412858.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:47:20",
+      "event_time": "9月9日 16:42"
+    },
+    {
+      "event_title": "队报:登贝莱受伤前巴黎就已致函法国足协,表达了担忧和不满",
+      "event_id": "event_2",
+      "event_url": "http://www.dongqiudi.com/articles/5358617.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:47:22",
+      "event_time": "9月7日 03:17"
+    },
+    {
+      "event_title": "登贝莱将缺阵6周无缘欧冠对亚特兰大&巴萨",
+      "event_id": "event_3",
+      "event_url": "http://k.sina.cn/article_2018499075_784fda0302002hjq6.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:47:24",
+      "event_time": "9月6日 21:29"
+    },
+    {
+      "event_title": "法国队世预赛战胜乌克兰",
+      "event_id": "event_4",
+      "event_url": "http://weibo.com/3798055657/Q3jVLDEIE",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:47:26",
+      "event_time": "9月6日 16:30"
+    },
+    {
+      "event_title": "法媒:巴黎对法国足协非常不满,赛前就提醒不应该让登贝莱出场",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842467001522246064&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:47:45",
+      "event_time": "9月6日 07:00"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 14:47:19",
+    "level2_scrape_time": "2025-09-12 14:47:45"
+  }
+}

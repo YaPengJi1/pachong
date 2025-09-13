@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 00:30:44"
+  },
+  "core_event": {
+    "core_event_name": "八省生育津贴直接发放至个人",
+    "update_time": "更新至20250902",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:30:06"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "20省份已实现生育津贴直接发放至个人,包括重庆",
+      "link": "http://baijiahao.baidu.com/s?id=1842154754153392657&wfr=spider&for=pc",
+      "time": "9月2日 19:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "国家医保局推进生育津贴直接发放至个人 近八成统筹区已实现",
+      "link": "http://news.china.com/socialgd/10000169/20250902/48783378.html",
+      "time": "9月2日 14:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "生育津贴直接发给个人!广西3市已实现,柳州这样发",
+      "link": "http://www.163.com/dy/article/K8EPGRE30530U7LS.html",
+      "time": "9月2日 10:47",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "20省份已实现生育津贴直接发放至个人,包括重庆",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842154754153392657&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "政2凯",
+      "comment_time": "09-02 20:46",
+      "comment_content": "生育津贴直达个人，惠民政策暖人心！",
+      "user_location": "黑龙江",
+      "like_count": 1,
+      "scrape_time": "2025-09-13 00:30:36",
+      "event_time": "9月2日 19:48"
+    },
+    {
+      "event_title": "国家医保局推进生育津贴直接发放至个人 近八成统筹区已实现",
+      "event_id": "event_2",
+      "event_url": "http://news.china.com/socialgd/10000169/20250902/48783378.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:30:38",
+      "event_time": "9月2日 14:22"
+    },
+    {
+      "event_title": "生育津贴直接发给个人!广西3市已实现,柳州这样发",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8EPGRE30530U7LS.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:30:40",
+      "event_time": "9月2日 10:47"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-13 00:30:20",
+    "level2_scrape_time": "2025-09-13 00:30:40"
+  }
+}

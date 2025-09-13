@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "华为麒麟芯片重返市场",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:40:29"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "时隔四年,华为再次公布麒麟芯片",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31546761",
+      "time": "9月6日 07:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "华为新三折叠Mate XTs芯片曝光",
+      "link": "http://baijiahao.baidu.com/s?id=1842326905716000749&wfr=spider&for=pc",
+      "time": "9月4日 17:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "麒麟芯片时隔四年重现华为发布会",
+      "link": "http://weibo.com/tv/show/1034:5207178752229410",
+      "time": "9月4日 15:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "华为发布会!余承东官宣麒麟9020",
+      "link": "http://app.myzaker.com/news/article.php?m=1756972510&pk=68b94470b15ec07bd16ab64b",
+      "time": "9月4日 14:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "华为首次公布三折叠芯片 麒麟芯片时隔四年重磅回归",
+      "link": "http://www.sznews.com/news/content/2025-09/04/content_31683153.htm",
+      "time": "9月4日 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 19:40:44"
+}

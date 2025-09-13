@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "2025女排世锦赛四强及半决赛对阵",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:45:39"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "女排世锦赛四强尘埃落定，世界前5仅有1队被淘汰",
+      "link": "http://www.163.com/dy/article/K8UBNSGQ05564VZ7.html",
+      "time": "9月8日 11:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "2025年女排世锦赛1/4决赛对阵公布",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4246339221543867608",
+      "time": "9月8日 08:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "世锦赛4强全敲定!女排亚洲独苗有望闯进决赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842408725553799451&wfr=spider&for=pc",
+      "time": "9月5日 15:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "2025女排世锦赛半决赛对阵形势即将揭晓",
+      "link": "http://cj.sina.com.cn/articles/view/7705509111/1cb48bcf700101eyx0",
+      "time": "9月4日 18:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "世锦赛1/4决赛对阵出炉!中国女排最差小组第一",
+      "link": "http://cj.sina.com.cn/articles/view/2834321443/a8f0502300101mddw",
+      "time": "9月3日 00:01",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 14:45:53"
+}

@@ -1,0 +1,100 @@
+{
+  "core_info": {
+    "core_event_name": "我国规划撞击一颗小行星",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:57:43"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "我国正规划撞击一颗小行星",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31567731",
+      "time": "9月8日 08:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国力推小行星防御计划",
+      "link": "http://news.sina.com.cn/c/2025-09-08/doc-infptqvs9947733.shtml",
+      "time": "9月8日 07:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "我国正规划撞击一颗小行星 验证防御方案",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15672020594964839435",
+      "time": "9月7日 09:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "我国正规划撞击一颗小行星 验证防御方案 美国曾成功实施“双小行星重定向测试”任务",
+      "link": "http://tv.cctv.com/2025/09/06/VIDEoMsSymkoVlS1kQjHYpZf250906.shtml",
+      "time": "9月6日 23:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "我国规划撞击一颗小行星",
+      "link": "http://baijiahao.baidu.com/s?id=1842522891323045413&wfr=spider&for=pc",
+      "time": "9月6日 17:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "小行星威胁地球,我国将实施撞击!中国探月工程总设计师发出倡议",
+      "link": "http://baijiahao.baidu.com/s?id=1842511091996907710&wfr=spider&for=pc",
+      "time": "9月6日 17:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "我国将对一颗威胁地球的小行星实施撞击",
+      "link": "http://k.sina.cn/article_5953741034_162dee0ea06702eu2u.html",
+      "time": "9月6日 15:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "我国规划撞击一颗小行星 2022年美国曾实施小行星撞击试验",
+      "link": "http://finance.eastmoney.com/a/202509063506752265.html",
+      "time": "9月6日 15:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "中国筹划小行星撞击试验,助力防御技术验证",
+      "link": "http://news.zol.com.cn/1042/10421154.html",
+      "time": "9月6日 15:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "中国正规划撞击一颗小行星验证防御方案",
+      "link": "http://tv.cctv.com/2025/09/06/VIDEbKXeAHPTizqte1FkbLkH250906.shtml",
+      "time": "9月6日 12:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "我国正规划对一颗小行星实施高速撞击",
+      "link": "http://baijiahao.baidu.com/s?id=1842476688705476773&wfr=spider&for=pc",
+      "time": "9月6日 09:04",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 11,
+  "scrape_time": "2025-09-12 14:57:58"
+}

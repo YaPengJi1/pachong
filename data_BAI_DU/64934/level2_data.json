@@ -1,0 +1,72 @@
+{
+  "core_event_name": "小米汽车专利申请及成果",
+  "comments": [
+    {
+      "event_title": "小米汽车申请数据路由控制相关专利",
+      "event_id": "event_1",
+      "event_url": "http://finance.jrj.com.cn/2025/09/04160152922081.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:39:28",
+      "event_time": "9月4日 16:01"
+    },
+    {
+      "event_title": "小米汽车可为避免交通拥堵提供条件专利公布",
+      "event_id": "event_2",
+      "event_url": "http://36kr.com/newsflashes/3450600040387974",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:39:30",
+      "event_time": "9月3日 14:11"
+    },
+    {
+      "event_title": "小米汽车公布车辆安检专利",
+      "event_id": "event_3",
+      "event_url": "http://finance.eastmoney.com/a/202509023502376726.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:39:32",
+      "event_time": "9月2日 16:11"
+    },
+    {
+      "event_title": "小米取得集成信号线和传输线且损耗控制良好专利",
+      "event_id": "event_4",
+      "event_url": "http://m.jrj.com.cn/rss/yidianzixun/2025/8/30/52830789.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:39:34",
+      "event_time": "8月30日 00:00"
+    },
+    {
+      "event_title": "小米汽车取得散热导风通道相关专利",
+      "event_id": "event_5",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:39:36",
+      "event_time": "1970年"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 17:39:36"
+}

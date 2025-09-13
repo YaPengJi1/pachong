@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:59:04"
+  },
+  "core_event": {
+    "core_event_name": "哈弗大狗PLUS曝光",
+    "update_time": "更新至20250903",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:58:40"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "24款哈弗大狗曝光",
+      "link": "http://www.pcauto.com.cn/note/849606986393721266.html",
+      "time": "9月3日 17:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "哈弗大狗 PLUS可1周左右提订金1万",
+      "link": "http://www.autohome.com.cn/dealer/202509/1413544986.html",
+      "time": "9月1日 13:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "哈弗大狗PLUS预售，换新价11.28万起",
+      "link": "http://app.myzaker.com/news/article.php?m=1756601656&pk=68b39d0d8e9f093f25300e65",
+      "time": "8月31日 08:36",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "24款哈弗大狗曝光",
+      "event_id": "event_1",
+      "event_url": "http://www.pcauto.com.cn/note/849606986393721266.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:58:55",
+      "event_time": "9月3日 17:13"
+    },
+    {
+      "event_title": "哈弗大狗 PLUS可1周左右提订金1万",
+      "event_id": "event_2",
+      "event_url": "http://www.autohome.com.cn/dealer/202509/1413544986.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:58:57",
+      "event_time": "9月1日 13:55"
+    },
+    {
+      "event_title": "哈弗大狗PLUS预售，换新价11.28万起",
+      "event_id": "event_3",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1756601656&pk=68b39d0d8e9f093f25300e65",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:58:59",
+      "event_time": "8月31日 08:36"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 17:58:54",
+    "level2_scrape_time": "2025-09-12 17:58:59"
+  }
+}

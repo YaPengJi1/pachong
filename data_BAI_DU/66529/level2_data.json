@@ -1,0 +1,46 @@
+{
+  "core_event_name": "普京访华 中俄蒙签1100万发炮弹",
+  "comments": [
+    {
+      "event_title": "普京刚回国,就收到中方送的两份重磅大礼,美国这下彻底坐不住了",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K90R6GTC0556DZEX.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:37:01",
+      "event_time": "9月9日 11:03"
+    },
+    {
+      "event_title": "普京访华真没白来 中俄蒙签了16项合作文件",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8PUE0C20535I9J6.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:37:03",
+      "event_time": "9月6日 18:45"
+    },
+    {
+      "event_title": "特朗普下禁令卡中国 1200万炮弹抵俄",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=112038309661373434",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:37:05",
+      "event_time": "9月4日 22:08"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 11:37:05"
+}

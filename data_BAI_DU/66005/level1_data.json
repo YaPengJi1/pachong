@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "苹果新款智能手表发布",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:22:59"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "消息称苹果Apple Watch SE 3即将发布:搭S11芯片,新增健康功能",
+      "link": "http://baijiahao.baidu.com/s?id=1842658300795316589&wfr=spider&for=pc",
+      "time": "9月8日 09:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "苹果2新智能手表前瞻 前辈旗舰现冰点价果粉心碎!",
+      "link": "http://mobile.zol.com.cn/1042/10423016_all.html",
+      "time": "9月8日 07:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "9月10日的苹果发布会不仅带来了全新的iPhone17系列,还将推出三款全新的Apple Watch",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4085649192243683527",
+      "time": "9月6日 11:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "苹果 2025 年款智能手表前瞻:Apple Watch Ultra 3升级 S11 芯片",
+      "link": "http://baijiahao.baidu.com/s?id=1842473381646400565&wfr=spider&for=pc",
+      "time": "9月6日 08:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "Apple Watch S11支持5G RedCap与血压监测",
+      "link": "http://baijiahao.baidu.com/s?id=1842466525669384708&wfr=spider&for=pc",
+      "time": "9月5日 15:04",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 14:23:13"
+}

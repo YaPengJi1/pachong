@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 09:58:08"
+  },
+  "core_event": {
+    "core_event_name": "日本对墨西哥友谊赛突发",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:57:40"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "墨西哥主帅:日本队的速度和比赛激烈程度让我惊讶 0-0的结果合理",
+      "link": "http://www.163.com/dy/article/K8S109PU0529AQIE.html",
+      "time": "9月7日 14:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "远藤航:日本队表现值得肯定,我们能压制住墨西哥并创造出机会",
+      "link": "http://www.163.com/dy/article/K8RUI29Q0529AQIE.html",
+      "time": "9月7日 13:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "南野拓实:我们有机会但很遗憾没能进球 希望能够提高射门质量",
+      "link": "http://www.163.com/dy/article/K8RTU55L0529AQIE.html",
+      "time": "9月7日 13:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "板仓滉受伤下场 日本对墨西哥友谊赛突发 蓝武士中卫群又少一人",
+      "link": "http://www.bilibili.com/video/BV1oyYVzvEZc",
+      "time": "9月7日 12:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "半场战报:墨西哥0-0日本,堂安律、久保建英造险",
+      "link": "http://www.dongqiudi.com/articles/5358989.html",
+      "time": "9月7日 10:50",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "墨西哥主帅:日本队的速度和比赛激烈程度让我惊讶 0-0的结果合理",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8S109PU0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:57:55",
+      "event_time": "9月7日 14:08"
+    },
+    {
+      "event_title": "远藤航:日本队表现值得肯定,我们能压制住墨西哥并创造出机会",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8RUI29Q0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:57:57",
+      "event_time": "9月7日 13:25"
+    },
+    {
+      "event_title": "南野拓实:我们有机会但很遗憾没能进球 希望能够提高射门质量",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8RTU55L0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:57:59",
+      "event_time": "9月7日 13:14"
+    },
+    {
+      "event_title": "板仓滉受伤下场 日本对墨西哥友谊赛突发 蓝武士中卫群又少一人",
+      "event_id": "event_4",
+      "event_url": "http://www.bilibili.com/video/BV1oyYVzvEZc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:58:01",
+      "event_time": "9月7日 12:05"
+    },
+    {
+      "event_title": "半场战报:墨西哥0-0日本,堂安律、久保建英造险",
+      "event_id": "event_5",
+      "event_url": "http://www.dongqiudi.com/articles/5358989.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:58:04",
+      "event_time": "9月7日 10:50"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 09:57:54",
+    "level2_scrape_time": "2025-09-12 09:58:04"
+  }
+}

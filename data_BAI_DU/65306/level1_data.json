@@ -1,0 +1,92 @@
+{
+  "core_info": {
+    "core_event_name": "泰国总理选举，华裔阿努廷胜出",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:57:54"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "阿努廷当选新总理!佩通坦发声,给出两个重点",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7161495286609421433",
+      "time": "9月6日 21:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "佩通坦下台,泰选出新总理,还是个华人",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6692381160881591409",
+      "time": "9月6日 15:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "泰国两年来选出第三位总理",
+      "link": "http://news.sina.cn/gj/2025-09-06/detail-infpparn5184266.d.html",
+      "time": "9月6日 06:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "阿努廷当选泰国总理 泰国政局能否重回正轨",
+      "link": "http://www.163.com/dy/article/K8NNMBN205346RC6.html",
+      "time": "9月5日 22:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "阿努廷当选泰国新总理",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6516679296548334340",
+      "time": "9月5日 19:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "华裔阿努廷当选泰国总理:中文名陈锡尧,家里每天说粤语",
+      "link": "http://k.sina.cn/article_1496814565_593793e502001tba0.html",
+      "time": "9月5日 19:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "泰国自豪泰党党首阿努廷在国会下议院投票中获得过半数支持,将出任新任总理",
+      "link": "http://baijiahao.baidu.com/s?id=1842414390140120446&wfr=spider&for=pc",
+      "time": "9月5日 17:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "阿努廷将出任泰国总理",
+      "link": "http://baijiahao.baidu.com/s?id=1842414116884147329&wfr=spider&for=pc",
+      "time": "9月5日 17:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "泰国总理选举，阿努廷握289票支持",
+      "link": "http://www.163.com/dy/article/K8N07J0905566R1T.html",
+      "time": "9月5日 15:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "泰国有望再现华裔总理",
+      "link": "http://finance.sina.com.cn/wm/2025-09-04/doc-infpkapc8409548.shtml",
+      "time": "9月4日 23:48",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 10,
+  "scrape_time": "2025-09-12 21:58:08"
+}

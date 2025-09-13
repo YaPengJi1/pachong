@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "美韩企业大规模移民突袭事件",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:44:17"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "300多名韩国工人在美被捕,韩方称将派包机接人回国",
+      "link": "http://weibo.com/2864717612/Q3BTLgrb6",
+      "time": "9月8日 14:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美执法局突袭韩企，475人被捕，美韩关系受考验",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6562976294631620711",
+      "time": "9月8日 14:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "现代汽车工厂450人被捕，韩国人占多数",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6231040322842741037",
+      "time": "9月6日 20:05",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 14:44:31"
+}

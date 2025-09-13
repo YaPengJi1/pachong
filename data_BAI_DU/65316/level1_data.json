@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "蔚来第四季度能否盈利",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:08:18"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "蔚来中报复苏背后：单车售价持续下滑、中低端车型支撑销量、现金储备大降70%、负债率升至93%",
+      "link": "http://baijiahao.baidu.com/s?id=1842415757373996250&wfr=spider&for=pc",
+      "time": "9月5日 17:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "蔚来2025年第二季度净亏损49.9亿元同比收窄1%",
+      "link": "http://k.sina.cn/article_5952915720_162d2490806702eknw.html",
+      "time": "9月4日 20:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "蔚来半年亏百亿",
+      "link": "http://www.ifanr.com/1636551",
+      "time": "9月4日 09:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "蔚来：离盈利还差一辆爆款车",
+      "link": "http://www.pcauto.com.cn/hot/21989.html",
+      "time": "9月4日 09:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "蔚来提出最强Q4目标:3个月交付15万辆、盈亏平衡",
+      "link": "http://baijiahao.baidu.com/s?id=1842252908175869856&wfr=spider&for=pc",
+      "time": "9月3日 22:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "蔚来汽车业绩喜忧参半，股价反弹缺乏动能",
+      "link": "http://baijiahao.baidu.com/s?id=1842236889476363412&wfr=spider&for=pc",
+      "time": "9月3日 17:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "蔚来Q2营收、销量大涨",
+      "link": "http://baijiahao.baidu.com/s?id=1842215058420384054&wfr=spider&for=pc",
+      "time": "9月3日 11:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "蔚来Q2营收突破190亿元大关",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7872132059281150910",
+      "time": "9月2日 21:54",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-12 22:08:32"
+}

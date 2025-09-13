@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "超300名韩国人在美被抓",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:48:46"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "韩企员工在美被捕事件 韩国外长启程赴美 将就该事件紧急磋商",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEmUlYHWV6d5zPWU2ZONt0250908.shtml",
+      "time": "9月8日 23:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美国强行用镣铐带走300名韩国人",
+      "link": "http://www.163.com/dy/article/K8V5615105561T0I.html",
+      "time": "9月8日 19:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "超300名韩国公民在美被抓捕 韩媒:被捕公民最早将于10日乘包机返韩",
+      "link": "http://tv.cctv.com/2025/09/08/VIDElOX9oxws2ZMk06jIdlNd250908.shtml",
+      "time": "9月8日 17:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "超300名韩国人在美被抓 韩国政府紧急商讨对策",
+      "link": "http://tv.cctv.com/2025/09/07/VIDE3esGoPyseecP3RnrU0PJ250907.shtml",
+      "time": "9月7日 21:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "数百名韩国人在美国现代汽车工厂内被抓捕",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8206424327209088782",
+      "time": "9月7日 17:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "超300名韩国人在美被抓 盟友因何“翻脸”?",
+      "link": "http://baijiahao.baidu.com/s?id=1842563352186259259&wfr=spider&for=pc",
+      "time": "9月7日 08:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "300多名韩国人在美被捕 韩国政府紧急商讨对策",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEUJIcb0XiPWQgzcEcvQVQ250907.shtml",
+      "time": "9月7日 07:22",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 14:49:01"
+}

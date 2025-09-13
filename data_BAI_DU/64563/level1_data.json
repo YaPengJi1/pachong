@@ -1,0 +1,100 @@
+{
+  "core_info": {
+    "core_event_name": "齐鲁秋季车展",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:12:33"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "齐鲁秋季车展各类车型集中亮相",
+      "link": "http://baijiahao.baidu.com/s?id=1842380964729447915&wfr=spider&for=pc",
+      "time": "9月5日 08:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "2025齐鲁秋季车展开幕 近千款车型亮相泉城",
+      "link": "http://baijiahao.baidu.com/s?id=1842329845398640798&wfr=spider&for=pc",
+      "time": "9月4日 18:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "齐鲁秋季车展:六座七座SUV和MPV受青睐",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infpimrh3414736.d.html",
+      "time": "9月4日 14:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "比亚迪“全家福”强势亮相齐鲁秋季车展",
+      "link": "http://baijiahao.baidu.com/s?id=1842301094758301577&wfr=spider&for=pc",
+      "time": "9月4日 11:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "齐鲁车展大放价 红旗全系 好车现订速提",
+      "link": "http://www.autohome.com.cn/dealer/202509/1414812249.html",
+      "time": "9月4日 10:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "齐鲁秋季车展即将开幕，参展商及观众云集展馆",
+      "link": "http://baijiahao.baidu.com/s?id=1842296568515243902&wfr=spider&for=pc",
+      "time": "9月4日 09:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "齐齐”答疑、拍报留念、玩MR乐园,齐鲁车展数字化体验全面升级",
+      "link": "http://baijiahao.baidu.com/s?id=1842312105324203003&wfr=spider&for=pc",
+      "time": "9月4日 02:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "齐鲁秋季车展布展排练忙不停",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12443741819573602790",
+      "time": "9月3日 19:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "齐鲁秋季车展布展忙，明日开幕蓄势待发",
+      "link": "http://finance.sina.cn/2025-09-03/detail-infpfnyf2614240.d.html",
+      "time": "9月3日 18:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "2025齐鲁秋季车展明日开幕",
+      "link": "http://baijiahao.baidu.com/s?id=1842228146018409668&wfr=spider&for=pc",
+      "time": "9月3日 03:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "2026款smart #1 BRABUS性能版上市",
+      "link": "http://k.sina.com.cn/article_5132930861_131f24f2d04001h0j0.html",
+      "time": "8月29日 22:22",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 11,
+  "scrape_time": "2025-09-13 02:12:47"
+}

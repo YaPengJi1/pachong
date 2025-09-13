@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "大马丁加盟曼联传闻",
+    "update_time": "更新至20250902",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:16:14"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "大马丁无意去土超 准备留在维拉 曼联从未正式报价",
+      "link": "http://www.163.com/dy/article/K8FCM7420529AQIE.html",
+      "time": "9月2日 16:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "大马丁缺席维拉比赛名单，距离加盟曼联仅一步之遥",
+      "link": "http://baijiahao.baidu.com/s?id=1841992623853812734&wfr=spider&for=pc",
+      "time": "9月1日 01:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "记者:曼联倾向于签大马丁",
+      "link": "http://www.163.com/dy/article/K8AHPLG80529AQIE.html",
+      "time": "8月31日 19:15",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 20:16:29"
+}

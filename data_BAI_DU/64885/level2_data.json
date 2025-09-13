@@ -1,0 +1,98 @@
+{
+  "core_event_name": "广发证券股价连续4天下跌",
+  "comments": [
+    {
+      "event_title": "广发证券股价连续4天下跌累计跌幅7.04%,南方基金3只基金浮亏1777.59万元",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842316984214013047&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:30:05",
+      "event_time": "9月4日 15:19"
+    },
+    {
+      "event_title": "广发证券股价连续4天下跌 累计跌幅7.04% 国泰基金2只基金浮亏7374.52万元",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842316979959781260&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:30:21",
+      "event_time": "9月4日 15:19"
+    },
+    {
+      "event_title": "广发证券股价连续4天下跌，累计跌幅7.04%，天弘基金3只基金浮亏1648.85万元",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842316979004320485&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:30:37",
+      "event_time": "9月4日 15:19"
+    },
+    {
+      "event_title": "广发证券股价连续4天下跌 累计跌幅7.04%",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842316976836461510&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:30:53",
+      "event_time": "9月4日 15:19"
+    },
+    {
+      "event_title": "广发证券股价连续4天下跌 累计跌幅7.04% 富国基金旗下4只基金合计持295.72万股 浮亏损失455.41万元",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842316975676254327&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:31:08",
+      "event_time": "9月4日 15:19"
+    },
+    {
+      "event_title": "广发证券股价连续4天下跌",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842316972457095263&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:31:24",
+      "event_time": "9月4日 15:19"
+    },
+    {
+      "event_title": "广发证券股价连续4天下跌累计跌幅7.04%,西部利得基金旗下1只基金持32.23万股,浮亏损失49.63万元",
+      "event_id": "event_7",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:31:26",
+      "event_time": "1970年"
+    }
+  ],
+  "total_comments": 7,
+  "scrape_time": "2025-09-12 18:31:26"
+}

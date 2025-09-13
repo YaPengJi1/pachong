@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:36:22"
+  },
+  "core_event": {
+    "core_event_name": "乌克兰向菲律宾提供无人艇战术",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:35:37"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "自己一堆烂摊子,乌克兰还想着腾出手,帮菲律宾“逆袭南海”",
+      "link": "http://baijiahao.baidu.com/s?id=1842870047579911807&wfr=spider&for=pc",
+      "time": "9月10日 18:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "乌克兰想“武装”菲律宾,助其生产无人机,或用于南海搅局挑衅",
+      "link": "http://new.qq.com/rain/a/20250910V04G8T00",
+      "time": "9月10日 13:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "乌克兰竟敢联手菲律宾,用无人艇在南海搞事情",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5718339224609819826",
+      "time": "9月9日 18:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "乌克兰向菲输出无人艇战术,曾击沉俄军舰,用同样手段对付中国",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7908257195381629434",
+      "time": "9月9日 18:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中方回应乌克兰给菲方支招偷袭南海",
+      "link": "http://www.163.com/dy/article/K9183PH105568K61.html",
+      "time": "9月9日 14:48",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "自己一堆烂摊子,乌克兰还想着腾出手,帮菲律宾“逆袭南海”",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842870047579911807&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:36:10",
+      "event_time": "9月10日 18:50"
+    },
+    {
+      "event_title": "乌克兰想“武装”菲律宾,助其生产无人机,或用于南海搅局挑衅",
+      "event_id": "event_2",
+      "event_url": "http://new.qq.com/rain/a/20250910V04G8T00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:36:12",
+      "event_time": "9月10日 13:05"
+    },
+    {
+      "event_title": "乌克兰竟敢联手菲律宾,用无人艇在南海搞事情",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5718339224609819826",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:36:14",
+      "event_time": "9月9日 18:18"
+    },
+    {
+      "event_title": "乌克兰向菲输出无人艇战术,曾击沉俄军舰,用同样手段对付中国",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7908257195381629434",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:36:16",
+      "event_time": "9月9日 18:15"
+    },
+    {
+      "event_title": "中方回应乌克兰给菲方支招偷袭南海",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K9183PH105568K61.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:36:18",
+      "event_time": "9月9日 14:48"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 10:35:51",
+    "level2_scrape_time": "2025-09-12 10:36:18"
+  }
+}

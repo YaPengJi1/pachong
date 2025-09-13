@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "寒武纪、新易盛、工业富联成交额破百亿",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:02:05"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "北方稀土成交额超100亿元",
+      "link": "http://www.cnstock.com/commonDetail/515118",
+      "time": "9月4日 11:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "新易盛成交额达100亿元",
+      "link": "http://finance.sina.cn/7x24/2025-09-04/detail-infphutt8913695.d.html",
+      "time": "9月4日 09:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "工业富联成交额破100亿元",
+      "link": "http://finance.eastmoney.com/a/202509033503483119.html",
+      "time": "9月3日 14:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "寒武纪成交额超100亿元",
+      "link": "http://finance.eastmoney.com/a/202509013500840972.html",
+      "time": "9月1日 10:06",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 02:02:19"
+}

@@ -1,0 +1,85 @@
+{
+  "core_event_name": "华为麒麟芯片回归及新品发布",
+  "comments": [
+    {
+      "event_title": "时隔四年,华为再次公布麒麟芯片",
+      "event_id": "event_1",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31546761",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:27:26",
+      "event_time": "9月6日 07:38"
+    },
+    {
+      "event_title": "华为Mate XTs 非凡大师及全场景新品发布会召开",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842420508070568523&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:27:43",
+      "event_time": "9月5日 17:24"
+    },
+    {
+      "event_title": "时隔4 年!华为 Mate XTs 首次公开麒麟处理器型号",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=3946947165656421125",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:27:45",
+      "event_time": "9月5日 15:09"
+    },
+    {
+      "event_title": "麒麟芯片时隔4年重现华为发布会",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842328676978576373&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:28:01",
+      "event_time": "9月4日 18:25"
+    },
+    {
+      "event_title": "华为公布芯片型号 代表国产芯片供应链已实现全链路自主可控",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842318300048795851&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "薰衣爱甜点",
+      "comment_time": "09-05 08:10",
+      "comment_content": "华为公布芯片型号，真是国产供应链的里程碑时刻，自主可控太不容易了！",
+      "user_location": "陕西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:28:17",
+      "event_time": "9月4日 15:38"
+    },
+    {
+      "event_title": "华为发布会!余承东官宣麒麟9020",
+      "event_id": "event_6",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1756972510&pk=68b94470b15ec07bd16ab64b",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:28:19",
+      "event_time": "9月4日 14:47"
+    }
+  ],
+  "total_comments": 6,
+  "scrape_time": "2025-09-12 18:28:19"
+}

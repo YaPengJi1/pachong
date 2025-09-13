@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "9月4日上证指数跌幅达1%",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:08:25"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "上证指数 日线也一直下跌没完没了啊#A股",
+      "link": "http://guba.sina.com.cn/?s=thread&bid=9279&tid=4168395",
+      "time": "9月5日 15:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "上证指数跌幅扩大至1%,科创50指数跌近3%",
+      "link": "http://finance.sina.com.cn/roll/2025-09-04/doc-infphutn7065847.shtml",
+      "time": "9月4日 10:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "9月4日上证指数跌幅达1%",
+      "link": "http://finance.eastmoney.com/a/202509043504450983.html",
+      "time": "9月4日 10:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "上证指数跌幅扩大至1%,深证成指跌0.68%,创业板指跌0.14%。",
+      "link": "http://finance.sina.cn/7x24/2025-09-03/detail-infperun8000226.d.html",
+      "time": "9月3日 10:33",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 23:08:40"
+}

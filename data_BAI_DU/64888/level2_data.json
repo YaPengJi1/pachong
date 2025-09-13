@@ -1,0 +1,46 @@
+{
+  "core_event_name": "国际黄金价格走势分析",
+  "comments": [
+    {
+      "event_title": "美联储新消息!国际黄金走低,西部黄金涨近3%!机构:金价或站上4000美元",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.com.cn/roll/2025-09-04/doc-infphyzk6955067.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:33:26",
+      "event_time": "9月4日 11:01"
+    },
+    {
+      "event_title": "分析称明年金价或达4000美元/盎司高位,多家国际金融机构看涨",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841954611542348098&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:33:44",
+      "event_time": "8月31日 15:20"
+    },
+    {
+      "event_title": "金价,涨涨涨!",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.com.cn/wm/2025-08-30/doc-infnusvv5936826.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:33:46",
+      "event_time": "8月30日 22:20"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 18:33:46"
+}

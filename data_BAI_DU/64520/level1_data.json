@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "印尼爆发大规模抗议示威",
+    "update_time": "更新至20250902",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:30:13"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "印尼爆发大规模抗议示威",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8405805986752001070",
+      "time": "9月2日 09:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "印尼爆发大规模抗议 当地华人:多位政要住宅被洗劫",
+      "link": "http://baijiahao.baidu.com/s?id=1842052364435362431&wfr=spider&for=pc",
+      "time": "9月1日 17:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "印尼骚乱升级,蔓延至全国",
+      "link": "http://baijiahao.baidu.com/s?id=1842024476343980285&wfr=spider&for=pc",
+      "time": "9月1日 09:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "印尼暴乱持续议员家遭“零元购”",
+      "link": "http://weibo.com/1816750115/Q2pwUmwif",
+      "time": "8月31日 16:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "南苏拉威西省议会大楼遭纵火致3死",
+      "link": "http://k.sina.com.cn/article_7295511724_1b2d8acac0400192ak.html",
+      "time": "8月30日 17:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "印尼防暴警察与群众发生冲突，警方发射催泪瓦斯",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6391667213258407912",
+      "time": "8月29日 08:23",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-13 01:30:27"
+}

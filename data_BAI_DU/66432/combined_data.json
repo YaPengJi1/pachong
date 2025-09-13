@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:44:19"
+  },
+  "core_event": {
+    "core_event_name": "深圳四大一线城市相继楼市松绑",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:43:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "深圳楼市新政再放宽,购房政策大调整!",
+      "link": "http://sz.jiwu.com/news/5790613.html",
+      "time": "9月9日 15:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "深圳分区限购政策再优化 楼市迎来重大转折点",
+      "link": "http://news.china.com/socialgd/10000169/20250908/48800877.html",
+      "time": "9月8日 11:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "深圳楼市新政力度超过京沪,将“吸引外地人群购房”",
+      "link": "http://gz.house.ifeng.com/news/2025_09_08-57163210_0.shtml",
+      "time": "9月8日 00:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "新政引爆深圳楼市,房企连夜抢滩",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12269183400862727116",
+      "time": "9月7日 20:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "深圳发布楼市新政",
+      "link": "http://weibo.com/2891866325/Q3kl0AlfA",
+      "time": "9月6日 17:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "深圳官宣四大一线城市相继楼市“松限”",
+      "link": "http://baijiahao.baidu.com/s?id=1842502546470450554&wfr=spider&for=pc",
+      "time": "9月6日 16:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "深圳深夜松绑楼市，美国就业骤冷，黄金破纪录飙升",
+      "link": "http://finance.sina.com.cn/roll/2025-09-06/doc-infpphxp0023303.shtml",
+      "time": "9月6日 09:58",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "深圳楼市新政再放宽,购房政策大调整!",
+      "event_id": "event_1",
+      "event_url": "http://sz.jiwu.com/news/5790613.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:43:47",
+      "event_time": "9月9日 15:36"
+    },
+    {
+      "event_title": "深圳分区限购政策再优化 楼市迎来重大转折点",
+      "event_id": "event_2",
+      "event_url": "http://news.china.com/socialgd/10000169/20250908/48800877.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:43:49",
+      "event_time": "9月8日 11:21"
+    },
+    {
+      "event_title": "深圳楼市新政力度超过京沪,将“吸引外地人群购房”",
+      "event_id": "event_3",
+      "event_url": "http://gz.house.ifeng.com/news/2025_09_08-57163210_0.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:43:51",
+      "event_time": "9月8日 00:07"
+    },
+    {
+      "event_title": "新政引爆深圳楼市,房企连夜抢滩",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12269183400862727116",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:43:53",
+      "event_time": "9月7日 20:13"
+    },
+    {
+      "event_title": "深圳发布楼市新政",
+      "event_id": "event_5",
+      "event_url": "http://weibo.com/2891866325/Q3kl0AlfA",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:43:55",
+      "event_time": "9月6日 17:32"
+    },
+    {
+      "event_title": "深圳官宣四大一线城市相继楼市“松限”",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842502546470450554&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "Bean曲奇Handmade",
+      "comment_time": "09-06 18:28",
+      "comment_content": "深圳跟进松限了，四大城市齐放松，买房更容易啦，市场回暖在望。",
+      "user_location": "天津",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:44:13",
+      "event_time": "9月6日 16:28"
+    },
+    {
+      "event_title": "深圳深夜松绑楼市，美国就业骤冷，黄金破纪录飙升",
+      "event_id": "event_7",
+      "event_url": "http://finance.sina.com.cn/roll/2025-09-06/doc-infpphxp0023303.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:44:15",
+      "event_time": "9月6日 09:58"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 14:43:46",
+    "level2_scrape_time": "2025-09-12 14:44:15"
+  }
+}

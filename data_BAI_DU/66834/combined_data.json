@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:16:35"
+  },
+  "core_event": {
+    "core_event_name": "王楚钦澳门冠军赛首轮晋级",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:16:11"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "WTT澳门冠军赛男单首轮，王楚钦顺利晋级",
+      "link": "http://finance.sina.cn/2025-09-09/detail-infpxfvy8466092.d.html",
+      "time": "9月9日 21:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "澳门冠军赛王楚钦压轴,松岛辉空挑战,大满贯揭幕",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6939190476587398525",
+      "time": "9月9日 13:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "王楚钦空降澳门,梁靖崑退赛压力山大,独扛重担冲击冠军!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3669268938937426865",
+      "time": "9月9日 04:06",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "WTT澳门冠军赛男单首轮，王楚钦顺利晋级",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.cn/2025-09-09/detail-infpxfvy8466092.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:16:27",
+      "event_time": "9月9日 21:48"
+    },
+    {
+      "event_title": "澳门冠军赛王楚钦压轴,松岛辉空挑战,大满贯揭幕",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6939190476587398525",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:16:29",
+      "event_time": "9月9日 13:11"
+    },
+    {
+      "event_title": "王楚钦空降澳门,梁靖崑退赛压力山大,独扛重担冲击冠军!",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=3669268938937426865",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:16:31",
+      "event_time": "9月9日 04:06"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 10:16:26",
+    "level2_scrape_time": "2025-09-12 10:16:31"
+  }
+}

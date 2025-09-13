@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 19:51:41"
+  },
+  "core_event": {
+    "core_event_name": "16号台风“塔巴”生成",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:50:38"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "台风“塔巴”逼近广东,明后两天广州有大到暴雨局部大暴雨",
+      "link": "http://baijiahao.baidu.com/s?id=1842584524361492926&wfr=spider&for=pc",
+      "time": "9月7日 14:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中央气象台 今年第16号台风“塔巴”生成",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEbolv9gyl0qcq7D71U6vV250907.shtml",
+      "time": "9月7日 02:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "16号台风“塔巴”生成在即 或于8日登陆广东沿海一带",
+      "link": "http://baijiahao.baidu.com/s?id=1842515255071928327&wfr=spider&for=pc",
+      "time": "9月6日 19:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "今年第16号台风即将生成",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31552029",
+      "time": "9月6日 13:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "16号台风即将生成!正面影响广东,深圳将迎大暴雨!",
+      "link": "http://www.163.com/dy/article/K8P7DTNC0553TF93.html",
+      "time": "9月6日 12:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "广东台风大暴雨酝酿中 或发展为16号台风“塔巴”",
+      "link": "http://news.ycwb.com/ikinvkbtko/content_53644059.htm",
+      "time": "9月4日 17:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "16号台风“塔巴”或生成又瞄向广东?15号台风“琵琶”奔日本",
+      "link": "http://it.sohu.com/a/931616720_210667",
+      "time": "9月3日 20:20",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "台风“塔巴”逼近广东,明后两天广州有大到暴雨局部大暴雨",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842584524361492926&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:51:11",
+      "event_time": "9月7日 14:12"
+    },
+    {
+      "event_title": "中央气象台 今年第16号台风“塔巴”生成",
+      "event_id": "event_2",
+      "event_url": "http://tv.cctv.com/2025/09/07/VIDEbolv9gyl0qcq7D71U6vV250907.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:51:13",
+      "event_time": "9月7日 02:17"
+    },
+    {
+      "event_title": "16号台风“塔巴”生成在即 或于8日登陆广东沿海一带",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842515255071928327&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "Gamer小霸王Leo",
+      "comment_time": "09-06 20:06",
+      "comment_content": "台风要来了，大家提前准备，多加小心，愿平安！",
+      "user_location": "重庆",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:51:29",
+      "event_time": "9月6日 19:42"
+    },
+    {
+      "event_title": "今年第16号台风即将生成",
+      "event_id": "event_4",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31552029",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:51:31",
+      "event_time": "9月6日 13:30"
+    },
+    {
+      "event_title": "16号台风即将生成!正面影响广东,深圳将迎大暴雨!",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8P7DTNC0553TF93.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:51:33",
+      "event_time": "9月6日 12:02"
+    },
+    {
+      "event_title": "广东台风大暴雨酝酿中 或发展为16号台风“塔巴”",
+      "event_id": "event_6",
+      "event_url": "http://news.ycwb.com/ikinvkbtko/content_53644059.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:51:35",
+      "event_time": "9月4日 17:19"
+    },
+    {
+      "event_title": "16号台风“塔巴”或生成又瞄向广东?15号台风“琵琶”奔日本",
+      "event_id": "event_7",
+      "event_url": "http://it.sohu.com/a/931616720_210667",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:51:37",
+      "event_time": "9月3日 20:20"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 19:50:53",
+    "level2_scrape_time": "2025-09-12 19:51:37"
+  }
+}

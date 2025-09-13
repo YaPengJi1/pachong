@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:42:56"
+  },
+  "core_event": {
+    "core_event_name": "新热带低压趋向广东沿海",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:42:13"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "台风“塔巴”逼近广东沿海",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6674176241237522169",
+      "time": "9月8日 12:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "今年第16号台风即将生成并趋向广东",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5771287309948701157",
+      "time": "9月6日 16:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "新热带低压预计趋向广东沿海!全省大部将有明显风雨高温缓解",
+      "link": "http://news.sohu.com/a/932370976_161795",
+      "time": "9月6日 10:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "新台风或将生成,周日起广东将现明显降雨",
+      "link": "http://baijiahao.baidu.com/s?id=1842468143956376338&wfr=spider&for=pc",
+      "time": "9月6日 07:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "南海热带低压将给海南岛东北半部地区带来较强风雨",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "台风“塔巴”逼近广东沿海",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6674176241237522169",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:42:29",
+      "event_time": "9月8日 12:20"
+    },
+    {
+      "event_title": "今年第16号台风即将生成并趋向广东",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5771287309948701157",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:42:31",
+      "event_time": "9月6日 16:47"
+    },
+    {
+      "event_title": "新热带低压预计趋向广东沿海!全省大部将有明显风雨高温缓解",
+      "event_id": "event_3",
+      "event_url": "http://news.sohu.com/a/932370976_161795",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:42:33",
+      "event_time": "9月6日 10:04"
+    },
+    {
+      "event_title": "新台风或将生成,周日起广东将现明显降雨",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842468143956376338&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:42:50",
+      "event_time": "9月6日 07:22"
+    },
+    {
+      "event_title": "南海热带低压将给海南岛东北半部地区带来较强风雨",
+      "event_id": "event_5",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:42:52",
+      "event_time": "1970年"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 14:42:27",
+    "level2_scrape_time": "2025-09-12 14:42:52"
+  }
+}

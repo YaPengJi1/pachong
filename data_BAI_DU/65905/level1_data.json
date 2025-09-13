@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "梅西追平C罗，成历史第二",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:24:09"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "梅西世预赛36球分布:玻利维亚7球+委内瑞拉6球 仅剩巴西还没攻破",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hkae",
+      "time": "9月7日 09:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "梅西打入生涯世预赛第36球,追平C罗成历史第二",
+      "link": "http://weibo.com/6076885743/Q3aXlzxDB",
+      "time": "9月5日 17:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "梅开二度!梅西世预赛最后一个主场,阿根廷大胜委内瑞拉",
+      "link": "http://baijiahao.baidu.com/s?id=1842386628739462098&wfr=spider&for=pc",
+      "time": "9月5日 09:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "南美世预赛实时射手榜:梅西7球与迪亚斯并列第一",
+      "link": "http://news.sohu.com/a/932027440_362070",
+      "time": "9月5日 08:38",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 14:24:23"
+}

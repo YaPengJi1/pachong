@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "vivo X300系列升级",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:06:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "vivo X300 系列局部特写公布，采用超厚一体式冷雕技术",
+      "link": "http://new.qq.com/rain/a/20250909A0376R00",
+      "time": "9月9日 10:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "vivo高管曝光X300 Pro屏幕参数",
+      "link": "http://digi.hsw.cn/system/2025/0908/175130.shtml",
+      "time": "9月8日 14:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "vivo X300系列影像再升级",
+      "link": "http://baijiahao.baidu.com/s?id=1842657011032488981&wfr=spider&for=pc",
+      "time": "9月8日 09:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "vivo X300系列被定义为同档最豪华的影像手机",
+      "link": "http://www.163.com/dy/article/K8I52ML40530RMN7.html",
+      "time": "9月3日 18:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "vivo X300 Pro卫星通信版入网",
+      "link": "http://app.myzaker.com/news/article.php?m=1756872989&pk=68b7a72c8e9f090a416739f4",
+      "time": "9月3日 10:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "OriginOS 6 系统 UI 细节设计首曝",
+      "link": "http://finance.sina.cn/tech/2025-09-02/detail-infpatck8875418.d.html",
+      "time": "9月2日 14:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "vivo X300 Pro确认将搭载2亿HPB长焦",
+      "link": "http://www.163.com/dy/article/K8F24R3B055616Z4.html",
+      "time": "9月2日 13:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "全新vivo曝光",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4278532858292652910",
+      "time": "9月2日 02:49",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-12 15:06:45"
+}

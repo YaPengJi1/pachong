@@ -1,0 +1,124 @@
+{
+  "core_info": {
+    "core_event_name": "以色列空袭卡塔尔，哈马斯被精准打击",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:09:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "卫星图像显示:以色列袭击极为精准,“尚不清楚具体手段”",
+      "link": "http://www.guancha.cn/internation/2025_09_11_789743.shtml",
+      "time": "昨天 11:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "以军空袭“震惊世界”,原因揭晓",
+      "link": "http://baijiahao.baidu.com/s?id=1842882260964110648&wfr=spider&for=pc",
+      "time": "9月10日 21:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "以色列“突袭”卡塔尔 打击哈马斯高层",
+      "link": "http://tv.cctv.com/2025/09/10/VIDE2F5dXQ6hP2k9juY5zVPd250910.shtml",
+      "time": "9月10日 18:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "哈马斯高层被炸,4优势,以定点清除能力强",
+      "link": "http://cj.sina.com.cn/articles/view/7295511718/1b2d8aca602001er3m",
+      "time": "9月10日 18:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "以色列空袭卡塔尔,哈马斯险被一锅端!美以或“联手做局”?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8737561376183325952",
+      "time": "9月10日 15:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "以色列“突袭”卡塔尔 中东局势急转直下",
+      "link": "http://live.baidu.com/m/media/multipage/liveshow/index.html?room_id=10647481433&diff_type=review",
+      "time": "9月10日 15:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "以色列空袭卡塔尔,特朗普当局罕见顾左右而言他",
+      "link": "http://www.163.com/dy/article/K93NMIF20512D1R0.html",
+      "time": "9月10日 13:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "美式防空集体失效,以色列袭击卡塔尔如此顺利,美以是否在做局?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=14677275292399095515",
+      "time": "9月10日 12:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "以色列对在卡塔尔的哈马斯高层实施精准打击",
+      "link": "http://new.qq.com/rain/a/20250910A007K000",
+      "time": "9月10日 00:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "以色列:特朗普批准精准打击哈马斯行动",
+      "link": "http://hzdaily.hangzhou.com.cn/dskb/2025/09/10/article_detail_2_20250910A063.html",
+      "time": "9月10日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "以军空袭卡塔尔哈马斯高层细节公布",
+      "link": "http://news.dayoo.com/gzrbrmt/202509/09/170628_54870887.htm",
+      "time": "9月9日 23:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "以色列首次在卡塔尔境内定点清除哈马斯领导层",
+      "link": "http://baijiahao.baidu.com/s?id=1842799629316647072&wfr=spider&for=pc",
+      "time": "9月9日 23:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "特朗普“做局”，以色列第一次空袭卡塔尔，定点清除哈马斯头目",
+      "link": "http://www.163.com/dy/article/K924GP1L055694GH.html",
+      "time": "9月9日 23:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "以色列公然袭击卡塔尔，目标直指哈马斯高层",
+      "link": "http://baijiahao.baidu.com/s?id=1842831065669304026&wfr=spider&for=pc",
+      "time": "9月9日 21:52",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 14,
+  "scrape_time": "2025-09-12 11:09:45"
+}

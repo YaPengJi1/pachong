@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普对中国93大阅兵的评价",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:13:51"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普承认看了阅兵",
+      "link": "http://baijiahao.baidu.com/s?id=1842318768401151383&wfr=spider&for=pc",
+      "time": "9月4日 15:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特朗普罕见“祝福中国”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6077945208997796994",
+      "time": "9月4日 11:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "提到中国93大阅兵,特朗普连说三个“不”字,强调中美关系非常好",
+      "link": "http://www.163.com/dy/article/K8JSLM2M0553RS1E.html",
+      "time": "9月4日 10:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国阅兵后,特朗普发文",
+      "link": "http://baijiahao.baidu.com/s?id=1842273390514306052&wfr=spider&for=pc",
+      "time": "9月4日 03:47",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 02:14:06"
+}

@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "小米前高管王腾被辞",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:12:33"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "王腾被辞退,小米要反思什么?",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31584980",
+      "time": "9月10日 16:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "曾被雷军点名,小米王腾泄密被辞!本人回应",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31581493",
+      "time": "9月10日 10:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "小米高管王腾被辞引热议,本人回应失职与网络传言",
+      "link": "http://news.zol.com.cn/1044/10444806.html",
+      "time": "9月9日 15:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "小米前高管王腾深夜发博:泄密被辞,亲口承认“该罚”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9283165126292151844",
+      "time": "9月9日 15:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "小米员工王腾因泄露机密被辞",
+      "link": "http://news.zol.com.cn/1044/10443465_all.html",
+      "time": "9月9日 11:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "小米中国区市场部总经理王腾因泄密被辞退,本人回应:很惭愧,接受该有的代价,感谢雷总和公司培养",
+      "link": "http://baijiahao.baidu.com/s?id=1842748829115632658&wfr=spider&for=pc",
+      "time": "9月9日 08:11",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 11:12:47"
+}

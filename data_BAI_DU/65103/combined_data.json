@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:22:20"
+  },
+  "core_event": {
+    "core_event_name": "2025女排世锦赛半决赛对阵形势",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:21:35"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "女排世锦赛 | 巴西、土耳其晋级半决赛",
+      "link": "http://news.cnhubei.com/content/2025-09/05/content_19476407.html",
+      "time": "9月5日 09:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "CCTV5转播世锦赛赛程调整，女排奥运冠军已出局，日本女排难度大",
+      "link": "http://baijiahao.baidu.com/s?id=1842384870087024479&wfr=spider&for=pc",
+      "time": "9月5日 09:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "法国女排0-3惨败巴西，输因与中国女排如出一辙?",
+      "link": "http://www.163.com/dy/article/K8M26KED0556923K.html",
+      "time": "9月5日 06:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "巴西女排3-0法国女排，晋级半决赛",
+      "link": "http://news.sina.cn/gj/2025-09-04/detail-infpkanw6550796.d.html",
+      "time": "9月4日 22:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "2025女排世锦赛半决赛对阵形势即将揭晓",
+      "link": "http://cj.sina.com.cn/articles/view/7705509111/1cb48bcf700101eyx0",
+      "time": "9月4日 18:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "巴西锁定世锦赛四强，中国女排对比差距明显",
+      "link": "http://www.sohu.com/a/931217375_122393143",
+      "time": "9月2日 18:57",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "女排世锦赛 | 巴西、土耳其晋级半决赛",
+      "event_id": "event_1",
+      "event_url": "http://news.cnhubei.com/content/2025-09/05/content_19476407.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:21:51",
+      "event_time": "9月5日 09:46"
+    },
+    {
+      "event_title": "CCTV5转播世锦赛赛程调整，女排奥运冠军已出局，日本女排难度大",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842384870087024479&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:22:08",
+      "event_time": "9月5日 09:18"
+    },
+    {
+      "event_title": "法国女排0-3惨败巴西，输因与中国女排如出一辙?",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8M26KED0556923K.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:22:10",
+      "event_time": "9月5日 06:33"
+    },
+    {
+      "event_title": "巴西女排3-0法国女排，晋级半决赛",
+      "event_id": "event_4",
+      "event_url": "http://news.sina.cn/gj/2025-09-04/detail-infpkanw6550796.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:22:12",
+      "event_time": "9月4日 22:37"
+    },
+    {
+      "event_title": "2025女排世锦赛半决赛对阵形势即将揭晓",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/7705509111/1cb48bcf700101eyx0",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:22:14",
+      "event_time": "9月4日 18:58"
+    },
+    {
+      "event_title": "巴西锁定世锦赛四强，中国女排对比差距明显",
+      "event_id": "event_6",
+      "event_url": "http://www.sohu.com/a/931217375_122393143",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:22:16",
+      "event_time": "9月2日 18:57"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 18:21:49",
+    "level2_scrape_time": "2025-09-12 18:22:16"
+  }
+}

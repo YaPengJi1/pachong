@@ -1,0 +1,85 @@
+{
+  "core_event_name": "辛巴滞留香港事件",
+  "comments": [
+    {
+      "event_title": "辛巴被爆跑路香港,回应来了",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.cn/2025-09-08/detail-infpumzm4621694.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:44:43",
+      "event_time": "9月8日 17:16"
+    },
+    {
+      "event_title": "辛选工作人员否认辛巴滞留香港",
+      "event_id": "event_2",
+      "event_url": "http://finance.ce.cn/stock/gsgdbd/202509/t20250908_2468083.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:44:46",
+      "event_time": "9月8日 16:13"
+    },
+    {
+      "event_title": "辛巴回应被带走调查称房又塌了，辛选否认传闻",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/1750070171/684ff39b04001d666",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:44:48",
+      "event_time": "9月7日 11:40"
+    },
+    {
+      "event_title": "被相关部门带走调查后滞留香港?辛巴最新发文回应",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-07/detail-infprsep5667399.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:44:50",
+      "event_time": "9月7日 10:50"
+    },
+    {
+      "event_title": "传辛巴被相关部门带走调查后滞留香港 辛选回应:不属实",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842494346356556351&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:45:07",
+      "event_time": "9月6日 14:18"
+    },
+    {
+      "event_title": "辛巴被带走调查",
+      "event_id": "event_6",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4947691455626615626",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:45:09",
+      "event_time": "9月6日 09:00"
+    }
+  ],
+  "total_comments": 6,
+  "scrape_time": "2025-09-12 14:45:09"
+}

@@ -1,0 +1,108 @@
+{
+  "core_info": {
+    "core_event_name": "中超积分榜：成都蓉城登顶，申花海港均输球",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:49:03"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "成都蓉城4-1海港，30分钟3球，海港被打懵",
+      "link": "http://cj.sina.com.cn/articles/view/1835372902/6d65916600101a806",
+      "time": "9月7日 04:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "申花海港爆冷,双双告负!泰山6-0国安,蓉城争冠“领先一分”",
+      "link": "http://cj.sina.com.cn/articles/view/1089020764/40e9235c0010176ry",
+      "time": "9月4日 19:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "成都蓉城登顶中超",
+      "link": "http://baijiahao.baidu.com/s?id=1842030230887460595&wfr=spider&for=pc",
+      "time": "9月1日 11:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中超争冠战胜局白热化:榜首易主,前4仅相差2分",
+      "link": "http://www.sohu.com/a/930640597_121927239",
+      "time": "9月1日 10:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中超前三皆遭败绩 成都蓉城登顶积分榜",
+      "link": "http://baijiahao.baidu.com/s?id=1842023408407655347&wfr=spider&for=pc",
+      "time": "9月1日 09:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "成都蓉城登顶中超积分榜",
+      "link": "http://ent.people.com.cn/n1/2025/0901/c1012-40554131.html",
+      "time": "9月1日 08:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "[中超]榜首没夺回 上海申花负武汉三镇",
+      "link": "http://tv.cctv.com/2025/09/01/VIDE3n31EgWbRy63NJOBrvSH250901.shtml",
+      "time": "9月1日 07:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "中超形势:争冠3队输球!蓉城1分领跑+国安跌第4,下轮3场焦点战",
+      "link": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001t71y",
+      "time": "8月31日 21:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "中超最新积分榜大揭秘:成都蓉城惊现50分,保级战愈发激烈",
+      "link": "http://news.sohu.com/a/930349766_121953830",
+      "time": "8月31日 09:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "成都蓉城4:1大胜上海海港",
+      "link": "http://baijiahao.baidu.com/s?id=1841929582426180897&wfr=spider&for=pc",
+      "time": "8月31日 08:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "成都蓉城4比1大胜上海海港，暂登中超榜首",
+      "link": "http://www.163.com/dy/article/K88ABG4H051492T3.html",
+      "time": "8月30日 22:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "成都蓉城4-1战胜上海海港",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7375961500840631178",
+      "time": "8月30日 22:21",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 12,
+  "scrape_time": "2025-09-12 19:49:17"
+}

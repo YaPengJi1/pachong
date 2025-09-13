@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 20:23:49"
+  },
+  "core_event": {
+    "core_event_name": "U22国足战东帝汶",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:23:09"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U22男足第二轮战人口不到6万的北马群岛,王钰栋曾率U17大胜对手",
+      "link": "http://baijiahao.baidu.com/s?id=1842482330318003267&wfr=spider&for=pc",
+      "time": "9月6日 11:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "CCTV5直播!亚预赛首战,国足迎战东帝汶,力争6-0胜",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5356415030513897136",
+      "time": "9月5日 16:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "战东帝汶，U22国足不仅要赢，还要完成这四大任务",
+      "link": "http://www.163.com/dy/article/K8H3DLEQ0556DLXG.html",
+      "time": "9月3日 08:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "U22男足第二轮战人口不到6万的北马群岛,王钰栋曾率U17大胜对手",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842482330318003267&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "站啦8",
+      "comment_time": "09-06 11:22",
+      "comment_content": "看好小伙子们踢北马群岛啦，王钰栋上次带U17赢得漂亮，这次肯定稳的。",
+      "user_location": "宁夏",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:23:41",
+      "event_time": "9月6日 11:07"
+    },
+    {
+      "event_title": "CCTV5直播!亚预赛首战,国足迎战东帝汶,力争6-0胜",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5356415030513897136",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:23:43",
+      "event_time": "9月5日 16:33"
+    },
+    {
+      "event_title": "战东帝汶，U22国足不仅要赢，还要完成这四大任务",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8H3DLEQ0556DLXG.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:23:45",
+      "event_time": "9月3日 08:18"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 20:23:23",
+    "level2_scrape_time": "2025-09-12 20:23:45"
+  }
+}

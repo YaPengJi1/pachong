@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "桑乔转会维拉",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:28:22"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "曼联个人协议敲定，大马丁引援二选一，桑乔或租借维拉",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17992853380630018123",
+      "time": "9月4日 20:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "桑乔换大马丁在即 曼联补强后防维拉押注边路",
+      "link": "http://www.163.com/dy/article/K8EN8DRA0556DPKC.html",
+      "time": "9月2日 10:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "曼联边锋桑乔将租借加盟维拉!曼联",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13191200226644937023",
+      "time": "9月1日 18:30",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 18:28:36"
+}

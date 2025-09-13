@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "起亚智跑即将引来全新车型",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:17:41"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "起亚智跑即将引来全新车型",
+      "link": "http://news.m.yiche.com/hao/wenzhang/103384063/",
+      "time": "9月5日 14:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "起亚终于“复活”了!新MPV配侧滑门+航空座椅,还买别克啥GL8",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12905635881077276606",
+      "time": "9月2日 12:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "1.0T 动力、提供 GT-Line 车型,2026 款起亚奕跑发布",
+      "link": "http://baijiahao.baidu.com/s?id=1842056631315707697&wfr=spider&for=pc",
+      "time": "9月1日 18:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "2026 款起亚嘉华 MPV 上市,豪华科技款限时补贴价 21.89 万元",
+      "link": "http://baijiahao.baidu.com/s?id=1842039907175333822&wfr=spider&for=pc",
+      "time": "9月1日 13:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "起亚再添“新成员”",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 18:17:55"
+}

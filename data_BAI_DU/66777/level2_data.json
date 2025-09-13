@@ -1,0 +1,72 @@
+{
+  "core_event_name": "欧盟进口猪肉反倾销调查",
+  "comments": [
+    {
+      "event_title": "欧盟进口猪肉反倾销初裁落地",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250909A02RAX00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:59:17",
+      "event_time": "9月9日 10:57"
+    },
+    {
+      "event_title": "欧盟正研究中方反倾销裁决",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/2025-09-07/detail-infprwnp0853092.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:59:19",
+      "event_time": "9月7日 13:21"
+    },
+    {
+      "event_title": "中国商务部对原产于欧盟的进口相关猪肉及猪副产品实施临时反倾销措施",
+      "event_id": "event_3",
+      "event_url": "http://tv.cctv.com/2025/09/05/VIDEH3tHBbOV2jWINl8UxXZa250905.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:59:21",
+      "event_time": "9月5日 21:26"
+    },
+    {
+      "event_title": "东大初步裁定欧盟进口猪肉及副产品存在倾销",
+      "event_id": "event_4",
+      "event_url": "http://weibo.com/7881153062/Q3clLiwf7",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:59:23",
+      "event_time": "9月5日 21:12"
+    },
+    {
+      "event_title": "商务部对原产于欧盟的进口猪肉及猪副产品反倾销调查初裁",
+      "event_id": "event_5",
+      "event_url": "http://weibo.com/1926909715/Q3arupWJk",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:59:25",
+      "event_time": "9月5日 16:20"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 10:59:25"
+}

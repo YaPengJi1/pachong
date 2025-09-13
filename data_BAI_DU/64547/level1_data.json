@@ -1,0 +1,132 @@
+{
+  "core_info": {
+    "core_event_name": "iPhone17系列eSIM技术变革",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:56:27"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "苹果秋季发布会前瞻",
+      "link": "http://baijiahao.baidu.com/s?id=1842580717796037426&wfr=spider&for=pc",
+      "time": "9月7日 13:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "新iPhone或将迈入无卡时代!iPhone 17 Air取消实体SIM卡槽",
+      "link": "http://baijiahao.baidu.com/s?id=1842411384964499936&wfr=spider&for=pc",
+      "time": "9月5日 18:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "苹果首发!曝iPhone 17系列国行版将落地eSIM",
+      "link": "http://news.mydrivers.com/1/1072/1072634.htm",
+      "time": "9月5日 10:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "再见SIM 卡,eSIM 国行 iPhone 将发布",
+      "link": "http://www.163.com/dy/article/K8LB2CUS0553VQXM.html",
+      "time": "9月4日 23:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中国联通对苹果eSIM业务支撑",
+      "link": "http://baijiahao.baidu.com/s?id=1842263661578551854&wfr=spider&for=pc",
+      "time": "9月4日 01:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "网传中国联通正为iPhone 17筹备eSIM",
+      "link": "http://digi.hsw.cn/system/2025/0903/175095.shtml",
+      "time": "9月3日 16:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "3000毫安电池+高刷屏,iPhone 17 Air真要靠eSIM撑场",
+      "link": "http://baijiahao.baidu.com/s?id=1842229340608093834&wfr=spider&for=pc",
+      "time": "9月3日 16:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "中国联通被曝已发布通知,为苹果iPhone 17系列eSIM提供业务支撑",
+      "link": "http://baijiahao.baidu.com/s?id=1842217168782196688&wfr=spider&for=pc",
+      "time": "9月3日 12:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "中国联通被曝已发布通知,为苹果 iPhone 17 系列 eSIM 提供业务支撑",
+      "link": "http://www.ithome.com/0/880/068.htm",
+      "time": "9月3日 12:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "苹果或在iPhone 17 Air中全面引入eSIM技术,实体SIM卡槽将被淘汰!",
+      "link": "http://it.sohu.com/a/931490586_122004016",
+      "time": "9月3日 09:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "iPhone 17系列eSIM变革",
+      "link": "http://baijiahao.baidu.com/s?id=1842197107132874448&wfr=spider&for=pc",
+      "time": "9月3日 07:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "苹果iPhone 17 Air取消SIM卡槽,全面转向eSIM技术",
+      "link": "http://news.zol.com.cn/1040/10406951.html",
+      "time": "9月3日 01:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "中国联通已下发通知对苹果eSIM进行业务支撑",
+      "link": "http://baijiahao.baidu.com/s?id=1842219680508041240&wfr=spider&for=pc",
+      "time": "9月3日 00:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "iPhone17引爆SIM卡革命",
+      "link": "http://baijiahao.baidu.com/s?id=1842106482385610037&wfr=spider&for=pc",
+      "time": "9月2日 07:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "苹果或于明年推广无物理SIM卡槽的iPhone 17系列",
+      "link": "http://weibo.com/1987543647/Q2woNdUZY",
+      "time": "9月1日 10:24",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 15,
+  "scrape_time": "2025-09-13 01:56:41"
+}

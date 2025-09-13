@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 19:26:46"
+  },
+  "core_event": {
+    "core_event_name": "京沪楼市8月回暖",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:25:57"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "多重政策发力 今年“金九银十”楼市备受关注",
+      "link": "http://baijiahao.baidu.com/s?id=1842384006679912673&wfr=spider&for=pc",
+      "time": "9月5日 09:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "金九银十楼市前瞻:政策暖风频吹 房价企稳信号显现",
+      "link": "http://news.fang.com/open/53456114.html",
+      "time": "9月4日 23:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "一线楼市淡季不淡，新政加持预热“金九银十”",
+      "link": "http://www.yicai.com/news/102809340.html",
+      "time": "9月4日 19:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "沪京新政楼市回暖，“金九银十”来了吗?中国楼市已进入啥阶段",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b8afd08e9f0958b654d77d",
+      "time": "9月4日 05:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "京沪限购放松带动成交回暖,多地政策加码蓄能 “金九银十”",
+      "link": "http://m.sohu.com/a/931269034_122014422",
+      "time": "9月2日 22:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "京沪楼市8月回暖信号明显 政策组合拳激活“金九银十”预期",
+      "link": "http://news.fang.com/open/53446890.html",
+      "time": "9月2日 16:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "上海等城市新政显效 激活市场",
+      "link": "http://news.fang.com/open/53430683.html",
+      "time": "8月31日 05:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "多重政策发力 今年“金九银十”楼市备受关注",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842384006679912673&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:26:29",
+      "event_time": "9月5日 09:05"
+    },
+    {
+      "event_title": "金九银十楼市前瞻:政策暖风频吹 房价企稳信号显现",
+      "event_id": "event_2",
+      "event_url": "http://news.fang.com/open/53456114.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:26:31",
+      "event_time": "9月4日 23:55"
+    },
+    {
+      "event_title": "一线楼市淡季不淡，新政加持预热“金九银十”",
+      "event_id": "event_3",
+      "event_url": "http://www.yicai.com/news/102809340.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:26:33",
+      "event_time": "9月4日 19:52"
+    },
+    {
+      "event_title": "沪京新政楼市回暖，“金九银十”来了吗?中国楼市已进入啥阶段",
+      "event_id": "event_4",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68b8afd08e9f0958b654d77d",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:26:35",
+      "event_time": "9月4日 05:05"
+    },
+    {
+      "event_title": "京沪限购放松带动成交回暖,多地政策加码蓄能 “金九银十”",
+      "event_id": "event_5",
+      "event_url": "http://m.sohu.com/a/931269034_122014422",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:26:37",
+      "event_time": "9月2日 22:25"
+    },
+    {
+      "event_title": "京沪楼市8月回暖信号明显 政策组合拳激活“金九银十”预期",
+      "event_id": "event_6",
+      "event_url": "http://news.fang.com/open/53446890.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:26:39",
+      "event_time": "9月2日 16:24"
+    },
+    {
+      "event_title": "上海等城市新政显效 激活市场",
+      "event_id": "event_7",
+      "event_url": "http://news.fang.com/open/53430683.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:26:41",
+      "event_time": "8月31日 05:18"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 19:26:11",
+    "level2_scrape_time": "2025-09-12 19:26:41"
+  }
+}

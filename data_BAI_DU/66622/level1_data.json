@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "塞尔维亚男篮对阵芬兰，马尔卡宁表现出色",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:08:46"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "小马尔卡宁!记者称赞穆里宁:有基里连科的影子 天空是他的极限",
+      "link": "http://www.163.com/dy/article/K8S28JL30529AQIE.html",
+      "time": "9月7日 14:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "男篮欧锦赛 约老师和申京的对决中败下阵来",
+      "link": "http://weibo.com/3030541433/Q3meGgce8",
+      "time": "9月6日 22:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "马尔卡宁小组赛场均轰赛事第三高25.4分 另8.2板2.6助2.8断",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-05/doc-infpmqqm7793174.shtml",
+      "time": "9月5日 16:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "马尔卡宁15中4仅得11分",
+      "link": "http://sports.sina.cn/nba/other/2025-09-04/detail-infphqmt2040164.d.html",
+      "time": "9月4日 06:54",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 10:09:01"
+}

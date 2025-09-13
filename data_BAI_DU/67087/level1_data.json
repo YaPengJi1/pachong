@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "国乒遭重创多人被淘汰出局",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:22:29"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "男单大爆冷!新科世乒赛冠军1:3被淘汰,遭遇一轮游,林昀儒3:0",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11588192288645081650",
+      "time": "昨天 05:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "澳门冠军赛:国乒出局第2人诞生",
+      "link": "http://www.163.com/dy/article/K94DTQ570529NGL0.html",
+      "time": "9月10日 20:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国乒遭重创!多人被日本球员淘汰出局,男单名将一轮游引不满",
+      "link": "http://cj.sina.com.cn/articles/view/6207555777/171ffc8c102001cdjm",
+      "time": "9月5日 10:02",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 11:22:46"
+}

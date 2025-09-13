@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "国足新帅揭晓，部长钦点他",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:16:22"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国足新帅揭晓,剑指2030世界杯 选聘启动,足协布局新周期",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1259995662767064971",
+      "time": "9月6日 19:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国足协公开选聘国足主教练 目标参加2030世界杯",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4523129290206579175",
+      "time": "9月6日 07:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国足选帅“外教优先”：是破局良药还是饮鸩止渴？",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5357743369383594709",
+      "time": "9月6日 07:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "国足或1个月敲定新帅!已有5大候选,卡纳瓦罗自荐,2人已退出",
+      "link": "http://k.sina.com.cn/article_7880068820_1d5b04ed402001ddsk.html",
+      "time": "9月5日 18:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "足协发布国家队主帅选聘公告",
+      "link": "http://www.163.com/dy/article/K8N4T03N05563FP5.html",
+      "time": "9月5日 16:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "中国足协公开选聘国足主帅",
+      "link": "http://k.sina.com.cn/article_1680430844_642956fc01901jqx0.html",
+      "time": "9月5日 15:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "国足新帅曝光?部长钦点他",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13389446300849310070",
+      "time": "9月1日 11:43",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-13 02:16:36"
+}

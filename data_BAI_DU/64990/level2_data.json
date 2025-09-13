@@ -1,0 +1,59 @@
+{
+  "core_event_name": "欧亚集团涨停",
+  "comments": [
+    {
+      "event_title": "欧亚集团9月5日打开涨停",
+      "event_id": "event_1",
+      "event_url": "http://finance.eastmoney.com/a/202509053505672683.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:39:33",
+      "event_time": "9月5日 09:36"
+    },
+    {
+      "event_title": "欧亚集团9月5日开盘涨停",
+      "event_id": "event_2",
+      "event_url": "http://finance.eastmoney.com/a/202509053505646969.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:39:35",
+      "event_time": "9月5日 09:32"
+    },
+    {
+      "event_title": "免税概念板块大涨 欧亚集团涨停",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8JRKEOB05568W0A.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:39:37",
+      "event_time": "9月4日 10:00"
+    },
+    {
+      "event_title": "欧亚集团(600697)涨停分析",
+      "event_id": "event_4",
+      "event_url": "http://3g.cnfol.com/sc_stock/gushiyaowen/20250904/31614333.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:39:39",
+      "event_time": "9月4日 00:00"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 18:39:39"
+}

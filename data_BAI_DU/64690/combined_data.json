@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:42:07"
+  },
+  "core_event": {
+    "core_event_name": "第15号台风“琵琶”",
+    "update_time": "更新至2025年9月5日 09:26",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:40:46"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "今年第15号台风“琵琶”再次登陆日本",
+      "link": "https://baijiahao.baidu.com/s?id=1842385371205612685&wfr=spider&for=pc",
+      "time": "9月5日 09:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "台风“琵琶”向东北方向移动 趋向日本四国岛南部沿海",
+      "link": "https://baijiahao.baidu.com/s?id=1842331229542935708&wfr=spider&for=pc",
+      "time": "9月4日 19:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "第15号台风“琵琶”生成，对上海无直接影响",
+      "link": "https://baijiahao.baidu.com/s?id=1842315155932786028&wfr=spider&for=pc",
+      "time": "9月4日 13:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "第15号台风“琵琶”生成",
+      "link": "https://baijiahao.baidu.com/s?id=1842289203052853775&wfr=spider&for=pc",
+      "time": "9月4日 07:58",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "今年第15号台风“琵琶”再次登陆日本",
+      "event_id": "event_1",
+      "event_url": "https://baijiahao.baidu.com/s?id=1842385371205612685&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "马龙的弟弟",
+      "comment_time": "09-05 09:59",
+      "comment_content": "台风虽猛，人间有情，预警先行保平安！",
+      "user_location": "宁夏",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:41:15",
+      "event_time": "9月5日 09:26"
+    },
+    {
+      "event_title": "台风“琵琶”向东北方向移动 趋向日本四国岛南部沿海",
+      "event_id": "event_2",
+      "event_url": "https://baijiahao.baidu.com/s?id=1842331229542935708&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "Dota的黑洞控制者",
+      "comment_time": "09-04 22:10",
+      "comment_content": "台风琵琶直扑日本四国岛，愿当地平安度过风雨。",
+      "user_location": "重庆",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:41:31",
+      "event_time": "9月4日 19:05"
+    },
+    {
+      "event_title": "第15号台风“琵琶”生成，对上海无直接影响",
+      "event_id": "event_3",
+      "event_url": "https://baijiahao.baidu.com/s?id=1842315155932786028&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "chinagoodmoney",
+      "comment_time": "09-04 15:23",
+      "comment_content": "我宁愿过十个上海的冬天，也不愿过一个上海的夏天！冬天可以穿多点，睡觉盖多点！夏天除了开空调，别无他法！",
+      "user_location": "上海",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:41:47",
+      "event_time": "9月4日 13:29"
+    },
+    {
+      "event_title": "第15号台风“琵琶”生成，对上海无直接影响",
+      "event_id": "event_3",
+      "event_url": "https://baijiahao.baidu.com/s?id=1842315155932786028&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "宋春不bE",
+      "comment_time": "09-04 14:53",
+      "comment_content": "高温返场了，台风琵琶绕开上海，大家记得带伞防晒防暑。",
+      "user_location": "江西",
+      "like_count": 1,
+      "scrape_time": "2025-09-13 02:41:47",
+      "event_time": "9月4日 13:29"
+    },
+    {
+      "event_title": "第15号台风“琵琶”生成",
+      "event_id": "event_4",
+      "event_url": "https://baijiahao.baidu.com/s?id=1842289203052853775&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "Star裁缝师Tailor",
+      "comment_time": "09-04 08:11",
+      "comment_content": "琵琶台风生成了，移动挺快的，希望大家注意安全平安度过。",
+      "user_location": "陕西",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:42:02"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 5,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-13 02:41:00",
+    "level2_scrape_time": "2025-09-13 02:42:02"
+  }
+}

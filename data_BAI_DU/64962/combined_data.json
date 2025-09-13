@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:12:24"
+  },
+  "core_event": {
+    "core_event_name": "全国游泳锦标赛成都开赛",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:11:57"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "2025 全国游泳锦标赛启幕",
+      "link": "http://cnews.chinadaily.com.cn/a/202509/08/WS68be9a07a310f07257747513.html",
+      "time": "9月8日 16:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "全国游泳锦标赛成都揭幕",
+      "link": "http://www.cdrb.com.cn/epaper/cdrbpad/202509/06/c153827.html",
+      "time": "9月6日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "名将云集 全国游泳锦标赛成都开赛",
+      "link": "http://tv.cctv.com/2025/09/05/VIDEhbu5XUnXw9eD37O4t0Xu250905.shtml",
+      "time": "9月5日 18:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "汪顺100米蛙泳小组第一晋级",
+      "link": "http://www.163.com/dy/article/K8N9L44K0530JPVV.html",
+      "time": "9月5日 18:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "2025年全国游泳锦标赛,明日在川开赛",
+      "link": "http://www.scpublic.cn/news/getNewsDatail?id=839198",
+      "time": "9月4日 09:05",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "2025 全国游泳锦标赛启幕",
+      "event_id": "event_1",
+      "event_url": "http://cnews.chinadaily.com.cn/a/202509/08/WS68be9a07a310f07257747513.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:12:12",
+      "event_time": "9月8日 16:26"
+    },
+    {
+      "event_title": "全国游泳锦标赛成都揭幕",
+      "event_id": "event_2",
+      "event_url": "http://www.cdrb.com.cn/epaper/cdrbpad/202509/06/c153827.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:12:14",
+      "event_time": "9月6日 00:00"
+    },
+    {
+      "event_title": "名将云集 全国游泳锦标赛成都开赛",
+      "event_id": "event_3",
+      "event_url": "http://tv.cctv.com/2025/09/05/VIDEhbu5XUnXw9eD37O4t0Xu250905.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:12:16",
+      "event_time": "9月5日 18:11"
+    },
+    {
+      "event_title": "汪顺100米蛙泳小组第一晋级",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8N9L44K0530JPVV.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:12:18",
+      "event_time": "9月5日 18:03"
+    },
+    {
+      "event_title": "2025年全国游泳锦标赛,明日在川开赛",
+      "event_id": "event_5",
+      "event_url": "http://www.scpublic.cn/news/getNewsDatail?id=839198",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:12:20",
+      "event_time": "9月4日 09:05"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 18:12:11",
+    "level2_scrape_time": "2025-09-12 18:12:20"
+  }
+}

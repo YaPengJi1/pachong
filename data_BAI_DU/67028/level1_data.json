@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "国乒遭重创多人被日本球员淘汰出局",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:20:59"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "薛飞3比0横扫张本智和，教练刘恒情绪价值拉满",
+      "link": "http://new.qq.com/rain/a/20250911V06BHG00",
+      "time": "昨天 17:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "澳门冠军赛:日本男单全军覆没",
+      "link": "http://new.qq.com/rain/a/20250911A046MS00",
+      "time": "昨天 13:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "日乒第2位世锦赛冠军2-3爆冷一轮游，16强决出8席",
+      "link": "http://cj.sina.com.cn/articles/view/5559864694/14b64cd76001018vna",
+      "time": "昨天 06:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "国乒次日2胜，日乒第2位男单出局，新科世锦赛冠军惨遭大逆转",
+      "link": "http://cj.sina.com.cn/articles/view/5559864694/14b64cd76001018vn6",
+      "time": "昨天 06:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "男单大爆冷!新科世乒赛冠军1:3被淘汰,遭遇一轮游,林昀儒3:0",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11588192288645081650",
+      "time": "昨天 05:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "张本智和成日本男乒最后稻草",
+      "link": "http://cj.sina.com.cn/articles/view/1233597000/4987324802001id70",
+      "time": "昨天 00:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "澳门冠军赛:国乒出局第2人诞生!向鹏轰11-1仍输球,男单2胜2负",
+      "link": "http://www.163.com/dy/article/K94DTQ570529NGL0.html",
+      "time": "9月10日 20:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "日乒2大世界冠军出局，张本智和成独苗，国乒欲打破男单3连冠军荒",
+      "link": "http://cj.sina.com.cn/articles/view/3181157500/bd9c9c7c001020yz8",
+      "time": "9月10日 15:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "国乒遭重创!多人被日本球员淘汰出局,男单名将一轮游引不满",
+      "link": "http://cj.sina.com.cn/articles/view/6207555777/171ffc8c102001cdjm",
+      "time": "9月5日 10:02",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 10:21:13"
+}

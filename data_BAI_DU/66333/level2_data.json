@@ -1,0 +1,59 @@
+{
+  "core_event_name": "广东华南多地风雨增强",
+  "comments": [
+    {
+      "event_title": "台风“塔巴”要来了,中央气象台发布预警,广东沿海即将迎来“风王”洗礼",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842592100224691538&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:51:41",
+      "event_time": "9月7日 16:12"
+    },
+    {
+      "event_title": "广东68个台风预警信号生效中,琼州海峡航线全线停运",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842575799192248692&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "气质女神plus",
+      "comment_time": "09-07 12:01",
+      "comment_content": "台风要来了，大家注意安全少出门。提前防范风雨，保护好自己。",
+      "user_location": "陕西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:51:56",
+      "event_time": "9月7日 11:53"
+    },
+    {
+      "event_title": "中央气象台 今年第16号台风“塔巴”生成",
+      "event_id": "event_3",
+      "event_url": "http://tv.cctv.com/2025/09/07/VIDEbolv9gyl0qcq7D71U6vV250907.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:51:59",
+      "event_time": "9月7日 02:17"
+    },
+    {
+      "event_title": "16号台风“塔巴”生成在即,华南掀风雨",
+      "event_id": "event_4",
+      "event_url": "http://news.dayoo.com/society/202509/06/140000_54869504.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:52:01",
+      "event_time": "9月6日 18:49"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 14:52:01"
+}

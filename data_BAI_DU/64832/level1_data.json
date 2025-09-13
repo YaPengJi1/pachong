@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "东风-61核导弹亮相",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:39:10"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "东风-61核导弹亮相",
+      "link": "http://www.163.com/dy/article/K8K4SFHU05564B6N.html",
+      "time": "9月4日 12:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "东风-61首次亮相阅兵场",
+      "link": "http://www.163.com/dy/article/K8IF9KUS0556C2W4.html",
+      "time": "9月3日 21:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "“东风-61”陆基洲际导弹登场",
+      "link": "http://www.163.com/dy/article/K8I3DVTC05346936.html",
+      "time": "9月3日 17:38",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 17:39:24"
+}

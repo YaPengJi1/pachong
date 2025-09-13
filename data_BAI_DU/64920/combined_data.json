@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:25:17"
+  },
+  "core_event": {
+    "core_event_name": "《羊蹄山》限定PS5预售",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:24:50"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "限定PS5主机及配件开启预订，设计灵感源自金继工艺",
+      "link": "http://diy.zol.com.cn/1043/10437924.html",
+      "time": "9月7日 15:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "索尼《羊蹄山之魂》被曝 9 月 25 日开放预载,游戏下载大小超 85GB",
+      "link": "http://www.ithome.com/0/880/817.htm",
+      "time": "9月5日 22:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "《羊蹄山》限定PS5今日开启预购!设计融入日本工艺",
+      "link": "http://www.163.com/dy/article/K8L5RSGV0526K1KN.html",
+      "time": "9月4日 22:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "《羊蹄山之魂》限定PS5太抢手!刚上架就光速售罄",
+      "link": "http://wap.gamersky.com/news/Content-2008521.html",
+      "time": "9月4日 21:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "索尼PS5羊蹄山之魂主题设计引热议,预售将启",
+      "link": "http://news.zol.com.cn/1040/10406979.html",
+      "time": "9月3日 02:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "限定PS5主机及配件开启预订，设计灵感源自金继工艺",
+      "event_id": "event_1",
+      "event_url": "http://diy.zol.com.cn/1043/10437924.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:25:05",
+      "event_time": "9月7日 15:40"
+    },
+    {
+      "event_title": "索尼《羊蹄山之魂》被曝 9 月 25 日开放预载,游戏下载大小超 85GB",
+      "event_id": "event_2",
+      "event_url": "http://www.ithome.com/0/880/817.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:25:07",
+      "event_time": "9月5日 22:29"
+    },
+    {
+      "event_title": "《羊蹄山》限定PS5今日开启预购!设计融入日本工艺",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8L5RSGV0526K1KN.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:25:09",
+      "event_time": "9月4日 22:18"
+    },
+    {
+      "event_title": "《羊蹄山之魂》限定PS5太抢手!刚上架就光速售罄",
+      "event_id": "event_4",
+      "event_url": "http://wap.gamersky.com/news/Content-2008521.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:25:11",
+      "event_time": "9月4日 21:15"
+    },
+    {
+      "event_title": "索尼PS5羊蹄山之魂主题设计引热议,预售将启",
+      "event_id": "event_5",
+      "event_url": "http://news.zol.com.cn/1040/10406979.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:25:13",
+      "event_time": "9月3日 02:00"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 17:25:04",
+    "level2_scrape_time": "2025-09-12 17:25:13"
+  }
+}

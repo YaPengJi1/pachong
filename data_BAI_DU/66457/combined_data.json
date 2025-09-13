@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 15:06:48"
+  },
+  "core_event": {
+    "core_event_name": "苏超第十一轮连云港对阵无锡",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:06:24"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "江苏省城市足球联赛第十一轮 无锡市VS连云港市",
+      "link": "http://live.baidu.com/m/media/multipage/liveshow/index.html?room_id=10620643578&diff_type=review",
+      "time": "9月6日 21:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "无锡队VS连云港队,首发名单来了!",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31557121",
+      "time": "9月6日 19:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "苏超第十一轮连云港对阵无锡，幕后团队“火力拉满”",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "江苏省城市足球联赛第十一轮 无锡市VS连云港市",
+      "event_id": "event_1",
+      "event_url": "http://live.baidu.com/m/media/multipage/liveshow/index.html?room_id=10620643578&diff_type=review",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:06:39",
+      "event_time": "9月6日 21:36"
+    },
+    {
+      "event_title": "无锡队VS连云港队,首发名单来了!",
+      "event_id": "event_2",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31557121",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:06:41",
+      "event_time": "9月6日 19:19"
+    },
+    {
+      "event_title": "苏超第十一轮连云港对阵无锡，幕后团队“火力拉满”",
+      "event_id": "event_3",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:06:43",
+      "event_time": "1970年"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 15:06:38",
+    "level2_scrape_time": "2025-09-12 15:06:43"
+  }
+}

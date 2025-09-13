@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "WTT中国大满贯开票",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:50:40"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "WTT中国大满贯2025门票热销",
+      "link": "http://baijiahao.baidu.com/s?id=1842786165906731493&wfr=spider&for=pc",
+      "time": "9月9日 19:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "王楚钦孙颖莎再合体，WTT中国大满贯门票今起开售",
+      "link": "http://www.163.com/dy/article/K8MIJQH00556DPLZ.html",
+      "time": "9月5日 11:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "WTT中国大满贯2025门票开售",
+      "link": "http://news.hnr.cn/shxw/article/1/1963764435656716289",
+      "time": "9月5日 08:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "WTT中国大满贯将于9月5日10点开票，VIP可观看运动员训练",
+      "link": "http://m.dongqiudi.com/article/5354569.html",
+      "time": "9月4日 22:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "WTT中国大满贯跟国庆撞档期",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infpifip8772373.d.html",
+      "time": "9月4日 14:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "WTT中国大满贯明天开票",
+      "link": "http://cj.sina.com.cn/articles/view/3314280193/c58be70102001f78y",
+      "time": "9月4日 14:21",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-13 01:50:54"
+}

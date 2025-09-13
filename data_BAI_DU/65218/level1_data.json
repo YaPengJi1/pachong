@@ -1,0 +1,100 @@
+{
+  "core_info": {
+    "core_event_name": "博通预计2026财年营收将大幅增长",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:30:38"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "博通美股盘前涨幅扩大,现涨近14%",
+      "link": "http://finance.eastmoney.com/a/202509053506330030.html",
+      "time": "9月5日 21:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "博通第三财季营收159.5亿美元 AI业务依旧贡献近三分之一",
+      "link": "http://baijiahao.baidu.com/s?id=1842419597557419163&wfr=spider&for=pc",
+      "time": "9月5日 18:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "博通 FY2025Q3 营收同比增长 22%",
+      "link": "http://baijiahao.baidu.com/s?id=1842395228206495304&wfr=spider&for=pc",
+      "time": "9月5日 12:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "斩获百亿美元AI芯片新订单，大幅上调2026年增长预期",
+      "link": "http://baijiahao.baidu.com/s?id=1842393251526309082&wfr=spider&for=pc",
+      "time": "9月5日 11:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "博通FY2025Q3营收同比增长22%,拿下新客户AI芯片大单",
+      "link": "http://news.sina.cn/ai/2025-09-05/detail-infpkxsr1058876.d.html?address=60014a",
+      "time": "9月5日 09:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "博通一己之力重振“AI信仰”",
+      "link": "http://cj.sina.com.cn/articles/view/5835524730/15bd30a7a0200203a2",
+      "time": "9月5日 08:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "博通预计2026财年营收将大幅增长",
+      "link": "http://www.donews.com/news/detail/8/6073907.html",
+      "time": "9月5日 06:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "博通公布当季收入展望",
+      "link": "http://baijiahao.baidu.com/s?id=1842370046663466193&wfr=spider&for=pc",
+      "time": "9月5日 05:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "博通高管称,非人工智能半导体需求仍复苏缓慢",
+      "link": "http://finance.sina.cn/7x24/2025-09-05/detail-infpktkv8046620.d.html",
+      "time": "9月5日 05:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "博通高管表示,公司预计2026财年人工智能业务营收前景将显著改善",
+      "link": "http://finance.sina.cn/7x24/2025-09-05/detail-infpkpax8175672.d.html",
+      "time": "9月5日 05:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "博通预计第四季度人工智能(AI)半导体业务营收",
+      "link": "http://baijiahao.baidu.com/s?id=1842366240338835875&wfr=spider&for=pc",
+      "time": "9月5日 04:16",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 11,
+  "scrape_time": "2025-09-12 20:30:52"
+}

@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "以色列突袭卡塔尔，中东局势升级",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:11:25"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "“筹划数月、15架战机参与”!中东局势再升级",
+      "link": "http://new.qq.com/rain/a/20250911A02PJM00",
+      "time": "昨天 11:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "以色列空袭卡塔尔，中东危局更危",
+      "link": "http://finance.sina.cn/2025-09-11/detail-infpzzsv2144916.d.html",
+      "time": "昨天 02:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "以色列空袭卡塔尔",
+      "link": "http://www.dzwww.com/xinwen/guojixinwen/gjsx/202509/t20250911_16455118.htm",
+      "time": "昨天 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "以色列突袭卡塔尔，美国知情时间延迟",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3731923716418125964",
+      "time": "9月10日 14:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "以色列突袭卡塔尔,卡塔尔敢不敢还手?",
+      "link": "http://new.qq.com/rain/a/20250910A04GW700",
+      "time": "9月10日 13:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "以色列空袭多哈,“内塔尼亚胡+特朗普”组合有多疯狂?丨国际观察",
+      "link": "http://baijiahao.baidu.com/s?id=1842838573923468992&wfr=spider&for=pc",
+      "time": "9月10日 09:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "以色列公然袭击卡塔尔，目标直指哈马斯高层",
+      "link": "http://baijiahao.baidu.com/s?id=1842831065669304026&wfr=spider&for=pc",
+      "time": "9月9日 21:52",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 11:11:39"
+}

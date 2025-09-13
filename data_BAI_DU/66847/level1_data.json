@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "阿尔卡拉斯进大满贯决赛",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:28:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "阿尔卡拉斯晋级，横扫德约科维奇",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8531574504842490737",
+      "time": "9月7日 22:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "阿尔卡拉斯美网轰6个3-0!22岁已7进大满贯决赛 创6大神迹",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8115627433218045002",
+      "time": "9月6日 22:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "德约0-3阿卡无缘决赛 今年四大满贯均止步半决赛",
+      "link": "http://news.sohu.com/a/932335617_114977",
+      "time": "9月6日 07:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "阿尔卡拉斯第7次进大满贯决赛，硬地首胜德约+终结交手2连败",
+      "link": "http://cj.sina.com.cn/articles/view/7096022664/1a6f4b68802001bcs0",
+      "time": "9月6日 05:52",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 10:28:46"
+}

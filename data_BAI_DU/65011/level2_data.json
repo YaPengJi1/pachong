@@ -1,0 +1,72 @@
+{
+  "core_event_name": "普京邀泽连斯基会面",
+  "comments": [
+    {
+      "event_title": "普京向泽连斯基发出邀请 “如果准备就绪 就来莫斯科吧” 马克龙承诺乌克兰派兵 俄外交部:绝不接受",
+      "event_id": "event_1",
+      "event_url": "http://weibo.com/7488465698/Q3aQ9lQPH",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:55:23",
+      "event_time": "9月5日 17:21"
+    },
+    {
+      "event_title": "普京:愿意举行俄乌首脑会晤,最佳地点是莫斯科",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/1784473157/6a5ce64502003ajag",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:55:25",
+      "event_time": "9月5日 15:10"
+    },
+    {
+      "event_title": "普京:俄愿与乌举行领导人会晤 最佳举办地是莫斯科",
+      "event_id": "event_3",
+      "event_url": "http://news.cnr.cn/sq/20250905/t20250905_527351929.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:55:27",
+      "event_time": "9月5日 15:01"
+    },
+    {
+      "event_title": "普京:如果泽连斯基愿意会面,那就来莫斯科",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842308012188740561&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:55:44",
+      "event_time": "9月4日 12:57"
+    },
+    {
+      "event_title": "普京邀访后续:俄外交部喊话白宫,特朗普访俄成美俄博弈新焦点",
+      "event_id": "event_5",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_3614839099374557512",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:55:46",
+      "event_time": "9月4日 09:22"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 16:55:46"
+}

@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:01:19"
+  },
+  "core_event": {
+    "core_event_name": "米兰阿德利转会利雅得青年",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:00:36"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "前伯恩利俱乐部队长布朗希尔加盟利雅得青年俱乐部",
+      "link": "http://weibo.com/7807540329/Q3Vs85ZTM",
+      "time": "9月10日 16:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "米兰中场阿德利700万欧转会利雅得青年",
+      "link": "http://k.sina.com.cn/article_2747143811_a3be1683040018kq8.html",
+      "time": "9月9日 08:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "阿德利加盟利雅得青年",
+      "link": "http://m.dongqiudi.com/article/5362059.html",
+      "time": "9月9日 04:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "利雅得青年人今日与阿德利团队谈判，已与米兰达成协议",
+      "link": "http://baijiahao.baidu.com/s?id=1842648445727455834&wfr=spider&for=pc",
+      "time": "9月8日 07:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "阿德利转会利雅得青年人协议初步达成",
+      "link": "http://www.sohu.com/a/932706170_121885030",
+      "time": "9月7日 23:26",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "前伯恩利俱乐部队长布朗希尔加盟利雅得青年俱乐部",
+      "event_id": "event_1",
+      "event_url": "http://weibo.com/7807540329/Q3Vs85ZTM",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:00:51",
+      "event_time": "9月10日 16:01"
+    },
+    {
+      "event_title": "米兰中场阿德利700万欧转会利雅得青年",
+      "event_id": "event_2",
+      "event_url": "http://k.sina.com.cn/article_2747143811_a3be1683040018kq8.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:00:54",
+      "event_time": "9月9日 08:26"
+    },
+    {
+      "event_title": "阿德利加盟利雅得青年",
+      "event_id": "event_3",
+      "event_url": "http://m.dongqiudi.com/article/5362059.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:00:56",
+      "event_time": "9月9日 04:21"
+    },
+    {
+      "event_title": "利雅得青年人今日与阿德利团队谈判，已与米兰达成协议",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842648445727455834&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "千寻音乐老师",
+      "comment_time": "09-08 07:30",
+      "comment_content": "转会谈判今天推进，阿德利的新篇章即将开启，祝他一切顺遂。",
+      "user_location": "安徽",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:01:13",
+      "event_time": "9月8日 07:05"
+    },
+    {
+      "event_title": "阿德利转会利雅得青年人协议初步达成",
+      "event_id": "event_5",
+      "event_url": "http://www.sohu.com/a/932706170_121885030",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:01:15",
+      "event_time": "9月7日 23:26"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 11:00:50",
+    "level2_scrape_time": "2025-09-12 11:01:15"
+  }
+}

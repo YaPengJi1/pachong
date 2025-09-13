@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "委内瑞拉空军战机低空掠飞美军舰",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:24:48"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "委内瑞拉出动战机两次挂弹低空掠飞美军舰",
+      "link": "http://new.qq.com/rain/a/20250908A04S4K00",
+      "time": "9月8日 17:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "委内瑞拉全国战备，进口歼35迫不及待？",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7470907604053350532",
+      "time": "9月8日 17:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美国增兵!“10架F-35已出动”",
+      "link": "http://baijiahao.baidu.com/s?id=1842571058774620113&wfr=spider&for=pc",
+      "time": "9月7日 10:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "委内瑞拉空军两架苏-30战机飞越美国海军舰群",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17047496366357391716",
+      "time": "9月6日 19:42",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 14:25:02"
+}

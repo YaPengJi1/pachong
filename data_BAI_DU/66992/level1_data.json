@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "法国政府被推翻",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:17:34"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "法国政坛地震!总理遭364票碾压式罢免,马克龙被直接逼宫,议员喊话“终结第五共和国”",
+      "link": "http://baijiahao.baidu.com/s?id=1842840506103149772&wfr=spider&for=pc",
+      "time": "昨天 03:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "法国左右翼合流抗议",
+      "link": "http://www.jfdaily.com/news/detail?id=980548",
+      "time": "昨天 01:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "一夜之间，法国政府被推翻，反对派围攻马克龙，中国接到特殊求助",
+      "link": "http://www.163.com/dy/article/K93DA26O0553E8Q8.html",
+      "time": "9月10日 10:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "法国政府“垮台” 总理将辞职",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4459389519764051795",
+      "time": "9月9日 10:02",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 11:17:49"
+}

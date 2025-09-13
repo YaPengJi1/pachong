@@ -1,0 +1,85 @@
+{
+  "core_event_name": "特朗普与莫迪在华热聊",
+  "comments": [
+    {
+      "event_title": "特朗普对印态度转变 期待与莫迪交谈",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250910V03LB100",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:52:12",
+      "event_time": "9月10日 11:21"
+    },
+    {
+      "event_title": "特朗普称:我与莫迪始终是朋友",
+      "event_id": "event_2",
+      "event_url": "http://new.qq.com/rain/a/20250908V094PI00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:52:14",
+      "event_time": "9月9日 08:00"
+    },
+    {
+      "event_title": "莫迪钻进普京专车聊了一个小时,向特朗普发出“印度不跪”信号",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8OQU6K60552NLEX.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:52:16",
+      "event_time": "9月6日 08:25"
+    },
+    {
+      "event_title": "特朗普：没想到莫迪拒接来电后，现身普京专车",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8716947054358439133",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:52:18",
+      "event_time": "9月4日 15:30"
+    },
+    {
+      "event_title": "莫迪和普京坐同一辆车,手拉手热聊40分钟,释放不寻常信号",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842212113771631769&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:52:35",
+      "event_time": "9月3日 16:32"
+    },
+    {
+      "event_title": "又是同车热聊、又是牵手拥抱,莫迪与普京在华“秀默契”是在给特朗普传信号?",
+      "event_id": "event_6",
+      "event_url": "http://www.163.com/dy/article/K8F5V50A05568W0A.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:52:37",
+      "event_time": "9月2日 14:24"
+    }
+  ],
+  "total_comments": 6,
+  "scrape_time": "2025-09-13 00:52:37"
+}

@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "以军袭击哈马斯高级官员",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:28:14"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "以军袭击哈马斯高级官员行动视频曝光",
+      "link": "http://baijiahao.baidu.com/s?id=1842386422806283725&wfr=spider&for=pc",
+      "time": "9月5日 08:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "胡塞武装袭击以色列机场",
+      "link": "http://baijiahao.baidu.com/s?id=1842345024519935840&wfr=spider&for=pc",
+      "time": "9月4日 18:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "胡塞武装称袭击本·古里安国际机场且以美未能拦截",
+      "link": "http://baijiahao.baidu.com/s?id=1842316698291367980&wfr=spider&for=pc",
+      "time": "9月4日 15:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "以军称试图袭击胡塞武装高层",
+      "link": "http://news.cnr.cn/sq/20250829/t20250829_527345692.shtml",
+      "time": "8月29日 23:10",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 01:28:28"
+}

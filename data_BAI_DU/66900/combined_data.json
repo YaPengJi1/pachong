@@ -1,0 +1,350 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 09:48:09"
+  },
+  "core_event": {
+    "core_event_name": "石破茂辞职，日本政坛“十年九相”恐重演",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:46:15"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "“三无”首相石破茂,下台是必然的",
+      "link": "http://app.myzaker.com/news/article.php?m=1757515130&pk=68c18cb7b15ec028ec244f10",
+      "time": "9月10日 22:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "日本政坛“十年九相”恐重演,谁将接替石破茂?",
+      "link": "http://baijiahao.baidu.com/s?id=1842831211269685725&wfr=spider&for=pc",
+      "time": "9月10日 07:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "石破茂终于卸任,下一任日本首相已经锁定?对华立场强硬",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9553704389933037534",
+      "time": "9月9日 11:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "石破茂辞职对日本政坛有何影响",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8513507093012174093",
+      "time": "9月8日 20:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "石破茂宣布辞职,外交部回应",
+      "link": "http://baijiahao.baidu.com/s?id=1842683741068424256&wfr=spider&for=pc",
+      "time": "9月8日 16:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "石破茂宣布辞职,中方回应",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31570133",
+      "time": "9月8日 16:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "石破茂辞职谁来接班?高市早苗呼声最高,她可不是“善茬儿”",
+      "link": "http://baijiahao.baidu.com/s?id=1842663019145112010&wfr=spider&for=pc",
+      "time": "9月8日 10:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "石破茂辞任,日本自民党最快明天公布总裁选举日程",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6564075425020185982",
+      "time": "9月8日 10:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "石破茂后,谁接任日本首相",
+      "link": "http://baijiahao.baidu.com/s?id=1842622525419820075&wfr=spider&for=pc",
+      "time": "9月8日 00:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "日本首相石破茂宣布辞去自民党总裁职务",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2881744582476376751",
+      "time": "9月7日 19:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "石破茂称不参与下任自民党总裁选举",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15291832099068923656",
+      "time": "9月7日 17:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "石破茂将举行紧急记者会",
+      "link": "http://baijiahao.baidu.com/s?id=1842595477625412422&wfr=spider&for=pc",
+      "time": "9月7日 17:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "日本首相石破茂决定辞职",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17790730969126363088",
+      "time": "9月7日 14:57",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "“三无”首相石破茂,下台是必然的",
+      "event_id": "event_1",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1757515130&pk=68c18cb7b15ec028ec244f10",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:46:30",
+      "event_time": "9月10日 22:35"
+    },
+    {
+      "event_title": "日本政坛“十年九相”恐重演,谁将接替石破茂?",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842831211269685725&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:46:47",
+      "event_time": "9月10日 07:18"
+    },
+    {
+      "event_title": "石破茂终于卸任,下一任日本首相已经锁定?对华立场强硬",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9553704389933037534",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:46:49",
+      "event_time": "9月9日 11:43"
+    },
+    {
+      "event_title": "石破茂辞职对日本政坛有何影响",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8513507093012174093",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:46:51",
+      "event_time": "9月8日 20:47"
+    },
+    {
+      "event_title": "石破茂宣布辞职,外交部回应",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842683741068424256&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:47:07",
+      "event_time": "9月8日 16:28"
+    },
+    {
+      "event_title": "石破茂宣布辞职,中方回应",
+      "event_id": "event_6",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31570133",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:47:09",
+      "event_time": "9月8日 16:03"
+    },
+    {
+      "event_title": "石破茂辞职谁来接班?高市早苗呼声最高,她可不是“善茬儿”",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842663019145112010&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "行者513",
+      "comment_time": "09-08 19:50",
+      "comment_content": "这娘们一张大驴脸",
+      "user_location": "河北",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:47:25",
+      "event_time": "9月8日 10:59"
+    },
+    {
+      "event_title": "石破茂辞职谁来接班?高市早苗呼声最高,她可不是“善茬儿”",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842663019145112010&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "深圳揸lift人",
+      "comment_time": "09-08 23:18",
+      "comment_content": "不是小泉进次狼么",
+      "user_location": "广东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:47:25",
+      "event_time": "9月8日 10:59"
+    },
+    {
+      "event_title": "石破茂辞职谁来接班?高市早苗呼声最高,她可不是“善茬儿”",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842663019145112010&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "潴龙河畔苏先生",
+      "comment_time": "09-09 09:20",
+      "comment_content": "肯定不是你",
+      "user_location": "北京",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 09:47:25",
+      "event_time": "9月8日 10:59"
+    },
+    {
+      "event_title": "石破茂辞职谁来接班?高市早苗呼声最高,她可不是“善茬儿”",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842663019145112010&wfr=spider&for=pc",
+      "comment_index": 4,
+      "user_id": "泣忆枫P6",
+      "comment_time": "09-08 11:15",
+      "comment_content": "善不善茬最糟就是打呗，高市上台就是打也是个消耗国力的事，打烂玩事，",
+      "user_location": "天津",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 09:47:25",
+      "event_time": "9月8日 10:59"
+    },
+    {
+      "event_title": "石破茂辞职谁来接班?高市早苗呼声最高,她可不是“善茬儿”",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842663019145112010&wfr=spider&for=pc",
+      "comment_index": 5,
+      "user_id": "中国蜀黍5TD4x",
+      "comment_time": "09-09 07:58",
+      "comment_content": "不重要，美国喜欢才重要。只要美国不喜欢早苗，中稻，晚稻都没有用，都是死啦死啦地。",
+      "user_location": "广西",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 09:47:25",
+      "event_time": "9月8日 10:59"
+    },
+    {
+      "event_title": "石破茂辞任,日本自民党最快明天公布总裁选举日程",
+      "event_id": "event_8",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6564075425020185982",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:47:27",
+      "event_time": "9月8日 10:04"
+    },
+    {
+      "event_title": "石破茂后,谁接任日本首相",
+      "event_id": "event_9",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842622525419820075&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:47:43",
+      "event_time": "9月8日 00:14"
+    },
+    {
+      "event_title": "日本首相石破茂宣布辞去自民党总裁职务",
+      "event_id": "event_10",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=2881744582476376751",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:47:45",
+      "event_time": "9月7日 19:16"
+    },
+    {
+      "event_title": "石破茂称不参与下任自民党总裁选举",
+      "event_id": "event_11",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=15291832099068923656",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:47:47",
+      "event_time": "9月7日 17:40"
+    },
+    {
+      "event_title": "石破茂将举行紧急记者会",
+      "event_id": "event_12",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842595477625412422&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:48:02",
+      "event_time": "9月7日 17:06"
+    },
+    {
+      "event_title": "日本首相石破茂决定辞职",
+      "event_id": "event_13",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=17790730969126363088",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:48:04",
+      "event_time": "9月7日 14:57"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 13,
+    "total_comments": 17,
+    "events_with_comments": 13,
+    "level1_scrape_time": "2025-09-12 09:46:29",
+    "level2_scrape_time": "2025-09-12 09:48:04"
+  }
+}

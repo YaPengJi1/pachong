@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "澳大利亚和加拿大军舰挑衅台海中线",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:10:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "加拿大与澳大利亚军舰过航台湾海峡，解放军硬核通告全球",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11922554526774679843",
+      "time": "9月10日 01:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "九三阅兵刚结束,台海危险一幕!澳大利亚和加拿大军舰上门挑衅",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=14877120108552555226",
+      "time": "9月9日 15:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "澳加军舰强闯台海中线挑衅,九三阅兵后首支外军舰队,赖清德幻想破灭",
+      "link": "http://new.qq.com/rain/a/20250908A07RUP00",
+      "time": "9月8日 19:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "东部战区新闻发言人:全程跟监警戒",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEsdg84kv7sZhhrRqZA37P250907.shtml",
+      "time": "9月7日 08:48",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 11:10:45"
+}

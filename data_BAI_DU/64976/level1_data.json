@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "宝马iX3发布",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:25:09"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "宝马电动新纪元开启新世代 BMW iX3全球首发",
+      "link": "http://baijiahao.baidu.com/s?id=1842502452110643223&wfr=spider&for=pc",
+      "time": "9月6日 13:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "宝马新世代 i3 纯电轿车亮相",
+      "link": "http://weibo.com/3944973214/Q3daJpK69",
+      "time": "9月5日 23:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "宝马中国：全球汽车行业技术竞赛的决胜场",
+      "link": "http://baijiahao.baidu.com/s?id=1842425572862197955&wfr=spider&for=pc",
+      "time": "9月5日 20:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "新世代宝马IX3发布，续航超900公里",
+      "link": "http://www.163.com/dy/article/K8ND7VFD0511DG68.html",
+      "time": "9月5日 19:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "宝马新世代的首款产品——全新 iX3 正式亮相",
+      "link": "http://weibo.com/1242347463/Q3aQCC3yv",
+      "time": "9月5日 17:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "宝马全新iX3定档9月5日首发，续航900km",
+      "link": "http://k.sina.com.cn/article_2298836177_890574d104001de2q.html",
+      "time": "9月1日 15:45",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 18:25:23"
+}

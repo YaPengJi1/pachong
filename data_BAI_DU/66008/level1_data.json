@@ -1,0 +1,92 @@
+{
+  "core_info": {
+    "core_event_name": "世预赛葡萄牙5-0大胜",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:25:53"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "C罗迎来里程碑时刻",
+      "link": "http://news.ycwb.com/ikinvkbtjk/content_53660284.htm",
+      "time": "9月10日 10:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "世预赛:葡萄牙险胜匈牙利,C罗并列历史射手王",
+      "link": "http://baijiahao.baidu.com/s?id=1842840682597225125&wfr=spider&for=pc",
+      "time": "9月10日 10:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "C罗世界杯预选赛个人表现:48场比赛贡献38球14次助攻",
+      "link": "http://m.dongqiudi.com/article/5358996.html",
+      "time": "9月7日 11:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "C罗迫近世预赛射手王",
+      "link": "http://baijiahao.baidu.com/s?id=1842569171764115452&wfr=spider&for=pc",
+      "time": "9月7日 10:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "世预赛葡萄牙5-0迎开门红",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6372302780582014409",
+      "time": "9月7日 09:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "C罗世预赛梅开二度,苏超上座率再破纪录",
+      "link": "http://cj.sina.com.cn/articles/view/5044281310/12ca99fde02002f4t4",
+      "time": "9月7日 08:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "葡萄牙5-0亚美尼亚 C罗双响",
+      "link": "http://baijiahao.baidu.com/s?id=1842560616409862315&wfr=spider&for=pc",
+      "time": "9月7日 07:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "葡萄牙5-0大胜亚美尼亚,C罗双响+世界波,菲利克斯梅开二度",
+      "link": "http://www.dongqiudi.com/articles/5358532.html",
+      "time": "9月7日 01:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "世预赛亚美尼亚vs葡萄牙",
+      "link": "http://live.baidu.com/m/media/multipage/liveshow/index.html?room_id=10636567539&diff_type=review",
+      "time": "9月7日 01:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "C罗本场8射4正进2球+2失良机 18传球全成功&4对抗0成功 获评7.9分",
+      "link": "http://baijiahao.baidu.com/s?id=1842537212946978597&wfr=spider&for=pc",
+      "time": "9月7日 01:24",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 10,
+  "scrape_time": "2025-09-12 14:26:08"
+}

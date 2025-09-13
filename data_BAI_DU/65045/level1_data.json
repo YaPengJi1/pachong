@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "马杜罗:委内瑞拉正面临南美大陆最大威胁",
+    "update_time": "更新至20250903",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:24:31"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "委内瑞拉总统马杜罗稳定局势",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15528155959029338331",
+      "time": "9月3日 03:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "拉美集体声援委内瑞拉抵御美军,这个新兴产油国却站队美国",
+      "link": "http://www.sohu.com/a/931110275_313745",
+      "time": "9月2日 13:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "马杜罗：委内瑞拉正面临南美大陆百年来最大威胁",
+      "link": "http://news.cnr.cn/sq/20250902/t20250902_527349701.shtml",
+      "time": "9月2日 07:24",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 17:24:45"
+}

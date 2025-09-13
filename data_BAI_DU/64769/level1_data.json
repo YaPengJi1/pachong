@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "申京欧锦赛击败约基奇",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:17:42"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "欧锦赛正面击败偶像约基奇 申京告别“小约基奇”成为真正的自己",
+      "link": "http://www.163.com/dy/article/K8MJMAPN0529AQIE.html",
+      "time": "9月5日 11:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "申京欧锦赛大放异彩，力压约基奇",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17088871552575951992",
+      "time": "9月4日 11:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "vs约基奇砍28+13+8!申京小组赛场均轰21.6+9.6+6.8 命中率65.6%",
+      "link": "http://baijiahao.baidu.com/s?id=1842288071181848201&wfr=spider&for=pc",
+      "time": "9月4日 07:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "大小约基奇对决!申京完胜约老师,火箭送走杰伦格林是对的",
+      "link": "http://www.163.com/dy/article/K8JIJPA105566S2A.html",
+      "time": "9月4日 07:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "力压约基奇登顶榜首 申京都欧洲杯的最大惊喜",
+      "link": "http://k.sina.com.cn/article_7880068727_1d5b04e7702002eb4c.html",
+      "time": "9月3日 16:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "FIBA公布欧锦赛MVP投票链接 申京暂领跑 约基奇&字母位列其后",
+      "link": "http://baijiahao.baidu.com/s?id=1842203261008880095&wfr=spider&for=pc",
+      "time": "9月3日 09:11",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-13 02:17:56"
+}

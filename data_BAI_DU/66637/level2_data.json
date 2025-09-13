@@ -1,0 +1,59 @@
+{
+  "core_event_name": "特朗普关税上诉",
+  "comments": [
+    {
+      "event_title": "美国最高法院加速审理特朗普在关税案中的上诉",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-10/detail-infpxwtu4630175.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:20:44",
+      "event_time": "9月10日 04:27"
+    },
+    {
+      "event_title": "特朗普或退税?千亿关税或退回,紧急上诉",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10800666977897399055",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:20:46",
+      "event_time": "9月8日 22:30"
+    },
+    {
+      "event_title": "特朗普政府就关税违法裁决向美最高法院提出上诉",
+      "event_id": "event_3",
+      "event_url": "http://news.cctv.com/2025/09/05/ARTICP6S2FewtzYOSKuMbR8Z250904.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:20:48",
+      "event_time": "9月4日 21:28"
+    },
+    {
+      "event_title": "特朗普关税上诉",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=15829014388153463238",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:20:50",
+      "event_time": "9月4日 16:36"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 10:20:50"
+}

@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "乔治阿玛尼离世",
+    "update_time": "更新至2025年9月5日 08:59",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:30:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "乔治·阿玛尼离世，众星发文悼念",
+      "link": "https://baijiahao.baidu.com/s?id=1842383641562469037&wfr=spider&for=pc",
+      "time": "9月5日 08:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "F1主席发文悼念：他的影响力早已超越时尚界",
+      "link": "https://baijiahao.baidu.com/s?id=1842380523713559329&wfr=spider&for=pc",
+      "time": "9月5日 08:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "乔治·阿玛尼曾公开表示：计划在未来两到三年内退休",
+      "link": "https://baijiahao.baidu.com/s?id=1842379360118517697&wfr=spider&for=pc",
+      "time": "9月5日 07:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "告别仪式本周末举行，葬礼不公开",
+      "link": "https://baijiahao.baidu.com/s?id=1842377598149431189&wfr=spider&for=pc",
+      "time": "9月5日 07:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "意足协主席：乔治-阿玛尼离世是意大利重大损失",
+      "link": "https://baijiahao.baidu.com/s?id=1842376653775808786&wfr=spider&for=pc",
+      "time": "9月5日 07:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "意大利时装设计师乔治·阿玛尼离世，享年91岁",
+      "link": "https://baijiahao.baidu.com/s?id=1842340290047105928",
+      "time": "9月4日 21:27",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-13 02:30:45"
+}

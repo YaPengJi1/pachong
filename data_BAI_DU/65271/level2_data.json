@@ -1,0 +1,85 @@
+{
+  "core_event_name": "日本与美国贸易协议谈判",
+  "comments": [
+    {
+      "event_title": "日本政府同意向美国投资5500亿美元 深化经贸合作",
+      "event_id": "event_1",
+      "event_url": "http://news.china.com/socialgd/10000169/20250905/48793770.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:19:38",
+      "event_time": "9月5日 14:00"
+    },
+    {
+      "event_title": "美日联合声明:确保日本芯片、药品享受最低关税税率",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-05/detail-infpmkhp7817656.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:19:40",
+      "event_time": "9月5日 12:17"
+    },
+    {
+      "event_title": "日本对美国的投资协议将利好双方",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842388891606655068&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:19:58",
+      "event_time": "9月5日 10:16"
+    },
+    {
+      "event_title": "美国将对几乎所有进入美国的日本进口产品征收15%的基准关税",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842383389123245279&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:20:14",
+      "event_time": "9月5日 08:54"
+    },
+    {
+      "event_title": "日本首席贸易谈判代表赤泽亮正:将通过各种外交渠道讨论特朗普可能的访问事宜。",
+      "event_id": "event_5",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-05/detail-infpkxst7954849.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:20:16",
+      "event_time": "9月5日 08:23"
+    },
+    {
+      "event_title": "日本首席贸易谈判代表赤泽亮正:将继续推动相关待遇事宜。",
+      "event_id": "event_6",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-05/detail-infpkxst7952747.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:20:18",
+      "event_time": "9月5日 08:15"
+    }
+  ],
+  "total_comments": 6,
+  "scrape_time": "2025-09-12 21:20:18"
+}

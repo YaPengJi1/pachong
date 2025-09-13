@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "以军持续袭击加沙地",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 12:30:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "以军加强对加沙地带的袭击力度，民众被迫在垃圾场避难，不死于炮火便死于疾病",
+      "link": "http://new.qq.com/rain/a/20250909V02NI400",
+      "time": "9月9日 09:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "内塔尼亚胡:以军部队正在集结 准备进入加沙城展开地面行动",
+      "link": "http://video.sina.cn/finance/2025-09-09/detail-infpvyaw0705875.d.html",
+      "time": "9月9日 07:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "关注巴以局势 以军持续袭击加沙多地 致数十人死亡",
+      "link": "http://tv.cctv.com/2025/09/09/VIDEu06NQCpzP9BySnnnHl1N250909.shtml",
+      "time": "9月9日 00:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "以军持续袭击加沙城 民众艰难决定去留",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16685592714812588243",
+      "time": "9月8日 18:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "以总理称正在加强对加沙城的攻势",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEKy8uujdGQw00KmXSt06r250908.shtml",
+      "time": "9月8日 13:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "加沙地带卫生部门称以军空袭加沙多地 造成超60人死亡",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEgJoNxxGj2HDmqvch9mf4250908.shtml",
+      "time": "9月8日 13:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "加沙地带媒体办公室称以军空袭住宅楼构成战争罪行",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEcBeSFFnWUAoj9RuIYSWg250907.shtml",
+      "time": "9月7日 00:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "总台报道员亲历以军空袭加沙城高层建筑",
+      "link": "http://tv.cctv.com/2025/09/06/VIDEZzVPqbT4KrXgtEGYbBv5250906.shtml",
+      "time": "9月6日 14:43",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-12 12:30:47"
+}

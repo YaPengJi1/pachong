@@ -1,0 +1,59 @@
+{
+  "core_event_name": "8月楼市数据出炉",
+  "comments": [
+    {
+      "event_title": "郑州8月楼市数据出炉:新房二手房成交套数持平,但市场分化加剧",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842426103896061168&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "纽约的王一博",
+      "comment_time": "09-06 06:08",
+      "comment_content": "郑州楼市数据挺稳的，二手房温和回暖是好事，理性消费值得鼓励。",
+      "user_location": "吉林",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 20:03:18",
+      "event_time": "9月5日 17:26"
+    },
+    {
+      "event_title": "8月楼市数据出炉:房价持续分化,政策松绑能否激活“金九银十”",
+      "event_id": "event_2",
+      "event_url": "http://news.fang.com/open/53456120.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:03:20",
+      "event_time": "9月5日 00:05"
+    },
+    {
+      "event_title": "头部房企拿地集中度持续高位",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842238622867070346&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:03:36",
+      "event_time": "9月3日 18:34"
+    },
+    {
+      "event_title": "8月二手房成交同比转增,新房仍跌",
+      "event_id": "event_4",
+      "event_url": "http://m.jrj.com.cn/madapter/finance/2025/08/31132752833008.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:03:38",
+      "event_time": "8月31日 13:27"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 20:03:38"
+}

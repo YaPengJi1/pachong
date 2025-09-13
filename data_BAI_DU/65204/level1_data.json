@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "比亚迪专利申请",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:17:00"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "比亚迪申请电芯防护装置相关专利",
+      "link": "http://m.jrj.com.cn/madapter/finance/2025/09/06123152969083.shtml",
+      "time": "9月6日 12:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "比亚迪公布国际专利申请",
+      "link": "http://sc.stock.cnfol.com/gushiyaowen/20250906/31619926.shtml",
+      "time": "9月6日 08:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "比亚迪公布国际专利申请:“电池和用电设备”",
+      "link": "http://stock.stockstar.com/RB2025090600004171.shtml",
+      "time": "9月6日 05:12",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 20:17:14"
+}

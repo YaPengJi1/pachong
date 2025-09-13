@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "国产AI芯片蓄势与追赶",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:23:57"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国产芯片突围进行时:CPU、GPU、Soc三大领域实现关键突破",
+      "link": "http://www.163.com/dy/article/K8RV9VNB0556DKZT.html",
+      "time": "9月7日 13:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "字节跳动暗战具身智能",
+      "link": "http://www.nbd.com.cn/articles/2025-09-05/4050914.html",
+      "time": "9月5日 21:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国产AI芯片市场正爆发",
+      "link": "http://stock.hexun.com/2025-09-05/221235851.html",
+      "time": "9月5日 11:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "国产AI芯片,集体增加存货",
+      "link": "http://www.163.com/dy/article/K8M83J8L05199NPP.html",
+      "time": "9月5日 08:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "国产AI芯片蓄势与追赶",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpktkq6213666.d.html",
+      "time": "9月5日 07:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 17:24:11"
+}

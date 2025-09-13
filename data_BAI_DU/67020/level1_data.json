@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "申京欧锦赛表现亮眼",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:13:44"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "申京受伤，土耳其男篮轻松进入四强",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5221682576183719333",
+      "time": "9月10日 15:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "土耳其91:77波兰，申京19分12篮板10助攻3抢断，成为欧锦赛历史最年轻的三双选手",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4800788632010989530",
+      "time": "9月10日 11:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "三双到手,申京14中6砍19分12板10助3断,罚球9中7",
+      "link": "http://www.dongqiudi.com/articles/5364052.html",
+      "time": "9月10日 07:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "男篮欧洲杯八强对决出炉",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=18019760311539184454",
+      "time": "9月7日 23:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "申京欧锦赛单场20+15+5",
+      "link": "http://www.sohu.com/a/932490576_122387568",
+      "time": "9月6日 19:40",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 10:13:58"
+}

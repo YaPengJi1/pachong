@@ -1,0 +1,116 @@
+{
+  "core_info": {
+    "core_event_name": "9月8日日全食奇观",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:45:31"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "8日凌晨将出现“红月亮”奇观",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEz4htsMsZSwjf96BHURfL250907.shtml",
+      "time": "9月7日 20:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "今晚再现“红月亮”,错过等三年!专家:俗称“血月”易引误解,系月全食",
+      "link": "http://baijiahao.baidu.com/s?id=1842603336616532165&wfr=spider&for=pc",
+      "time": "9月7日 19:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "月全食将现身天宇",
+      "link": "http://tv.cctv.com/2025/09/07/VIDELjTlt7dNxSNoJjzTDonm250907.shtml",
+      "time": "9月7日 17:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "月全食奇观今夜上演",
+      "link": "http://baijiahao.baidu.com/s?id=1842609002143421028&wfr=spider&for=pc",
+      "time": "9月7日 15:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "9月8日月全食将现“红月亮”与“绿松石带”",
+      "link": "http://k.sina.com.cn/article_1625232640_60df150004001at74.html",
+      "time": "9月6日 21:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "9月7日午夜月全食奇观上演,红月亮持续83分钟",
+      "link": "http://k.sina.cn/article_1436469813_559eca3504001dmp2.html",
+      "time": "9月6日 11:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "9月7日午夜月全食奇观,红月亮持续83分钟",
+      "link": "http://k.sina.com.cn/article_2359224985_8c9eea9904001inqo.html",
+      "time": "9月5日 17:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "罕见天象,即将上演!就在本周末!",
+      "link": "http://www.163.com/dy/article/K8N74R3V0530JPVV.html",
+      "time": "9月5日 17:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "9月7日午夜月全食奇观震撼上演,红月亮持续83分钟",
+      "link": "http://k.sina.cn/article_1686546714_6486a91a0400353ra.html",
+      "time": "9月5日 16:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "9月8日月全食我国各地可见红月亮 持续时间长达83分钟",
+      "link": "http://baijiahao.baidu.com/s?id=1842403188610197626&wfr=spider&for=pc",
+      "time": "9月5日 14:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "月全食全程肉眼可见 福州人定好闹钟",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmkhm0908646.d.html",
+      "time": "9月5日 12:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "9月8日月全食,我国各地可见红月亮",
+      "link": "http://baijiahao.baidu.com/s?id=1842388922972967377&wfr=spider&for=pc",
+      "time": "9月5日 10:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "我国今年境内唯一一次全程肉眼可见的月全食 9 月 8 日凌晨上演",
+      "link": "http://baijiahao.baidu.com/s?id=1842053612865333093&wfr=spider&for=pc",
+      "time": "9月1日 17:33",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 13,
+  "scrape_time": "2025-09-12 23:45:45"
+}

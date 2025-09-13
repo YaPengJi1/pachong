@@ -1,0 +1,303 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:06:55"
+  },
+  "core_event": {
+    "core_event_name": "40岁C罗世预赛38球超梅西独占第2",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:04:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "40岁C罗成为世预赛射手王",
+      "link": "http://sports.huanqiu.com/article/4OHLG8zUyqY",
+      "time": "昨天 11:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "40岁C罗打进第39球,加冕世界杯预选赛历史射手王",
+      "link": "http://baijiahao.baidu.com/s?id=1842839797258031158&wfr=spider&for=pc",
+      "time": "9月10日 09:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "C罗成为世预赛射手王,以39球追平鲁伊斯",
+      "link": "http://baijiahao.baidu.com/s?id=1842837314991870393&wfr=spider&for=pc",
+      "time": "9月10日 09:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "葡萄牙3-2匈牙利，C罗点射成为世预赛射手王",
+      "link": "http://sports.iqilu.com/news/2025/0910/5849141.shtml",
+      "time": "9月10日 08:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "C罗世界杯预选赛打入39球，成为世预赛射手王",
+      "link": "http://news.sina.com.cn/zx/2025-09-10/doc-infpyazq8000604.shtml",
+      "time": "9月10日 07:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "C罗社媒庆祝世预赛进球",
+      "link": "http://baijiahao.baidu.com/s?id=1842825675917873553&wfr=spider&for=pc",
+      "time": "9月10日 06:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "世预赛创纪录夜 C罗成射手王 哈兰德单场5球2助 姆巴佩传射超亨利",
+      "link": "http://www.163.com/dy/article/K92OQ5750529CA1F.html",
+      "time": "9月10日 05:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "葡萄牙3-2匈牙利，C罗点射成为世预赛射手王，坎塞洛B席传射",
+      "link": "http://baijiahao.baidu.com/s?id=1842822550896406181&wfr=spider&for=pc",
+      "time": "9月10日 04:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "40岁C罗世预赛38球独享第二，葡萄牙5-0开门红",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15141675585647782147",
+      "time": "9月8日 14:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "世预赛欧洲区F组:C罗一剑封喉,匈牙利饮恨葡萄牙",
+      "link": "http://baijiahao.baidu.com/s?id=1842565037314029604&wfr=spider&for=pc",
+      "time": "9月8日 00:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "C罗世预赛38球超梅西独占第2",
+      "link": "http://baijiahao.baidu.com/s?id=1842562880835678002&wfr=spider&for=pc",
+      "time": "9月7日 08:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "C罗37球超越梅西独占第二，距第一仅差2球",
+      "link": "http://www.dongqiudi.com/articles/5358430.html",
+      "time": "9月7日 00:46",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "40岁C罗成为世预赛射手王",
+      "event_id": "event_1",
+      "event_url": "http://sports.huanqiu.com/article/4OHLG8zUyqY",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:04:46",
+      "event_time": "昨天 11:36"
+    },
+    {
+      "event_title": "40岁C罗打进第39球,加冕世界杯预选赛历史射手王",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842839797258031158&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "日悦是0O",
+      "comment_time": "09-10 11:36",
+      "comment_content": "C罗40岁成射手王太强了。葡萄牙赢球真为他高兴。",
+      "user_location": "江苏",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:05:03",
+      "event_time": "9月10日 09:49"
+    },
+    {
+      "event_title": "40岁C罗打进第39球,加冕世界杯预选赛历史射手王",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842839797258031158&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "秋雨问寒蝉",
+      "comment_time": "09-10 18:16",
+      "comment_content": "我叫杜君 有人制造声音迷惑人心 用机器害人",
+      "user_location": "河南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:05:03",
+      "event_time": "9月10日 09:49"
+    },
+    {
+      "event_title": "C罗成为世预赛射手王,以39球追平鲁伊斯",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842837314991870393&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "Vinci爱吃蓝莓",
+      "comment_time": "09-10 09:37",
+      "comment_content": "C罗追平世预赛纪录，39球助葡萄牙取胜，老将风采依旧。",
+      "user_location": "贵州",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:05:19",
+      "event_time": "9月10日 09:04"
+    },
+    {
+      "event_title": "C罗成为世预赛射手王,以39球追平鲁伊斯",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842837314991870393&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "社南梓厹8p",
+      "comment_time": "09-10 19:39",
+      "comment_content": "世预赛射手王c罗",
+      "user_location": "广东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:05:19",
+      "event_time": "9月10日 09:04"
+    },
+    {
+      "event_title": "葡萄牙3-2匈牙利，C罗点射成为世预赛射手王",
+      "event_id": "event_4",
+      "event_url": "http://sports.iqilu.com/news/2025/0910/5849141.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:05:21",
+      "event_time": "9月10日 08:49"
+    },
+    {
+      "event_title": "C罗世界杯预选赛打入39球，成为世预赛射手王",
+      "event_id": "event_5",
+      "event_url": "http://news.sina.com.cn/zx/2025-09-10/doc-infpyazq8000604.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:05:23",
+      "event_time": "9月10日 07:08"
+    },
+    {
+      "event_title": "C罗社媒庆祝世预赛进球",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842825675917873553&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "弓长不吃榴莲",
+      "comment_time": "09-10 12:59",
+      "comment_content": "C罗点球稳准狠，射手王实至名归。葡萄牙连胜，全队庆祝真棒。",
+      "user_location": "内蒙古",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:05:40",
+      "event_time": "9月10日 06:04"
+    },
+    {
+      "event_title": "世预赛创纪录夜 C罗成射手王 哈兰德单场5球2助 姆巴佩传射超亨利",
+      "event_id": "event_7",
+      "event_url": "http://www.163.com/dy/article/K92OQ5750529CA1F.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:05:42",
+      "event_time": "9月10日 05:18"
+    },
+    {
+      "event_title": "葡萄牙3-2匈牙利，C罗点射成为世预赛射手王，坎塞洛B席传射",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842822550896406181&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:06:14",
+      "event_time": "9月10日 04:41"
+    },
+    {
+      "event_title": "40岁C罗世预赛38球独享第二，葡萄牙5-0开门红",
+      "event_id": "event_9",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=15141675585647782147",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:06:16",
+      "event_time": "9月8日 14:45"
+    },
+    {
+      "event_title": "世预赛欧洲区F组:C罗一剑封喉,匈牙利饮恨葡萄牙",
+      "event_id": "event_10",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842565037314029604&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "威尼斯Princess我老婆",
+      "comment_time": "09-08 00:05",
+      "comment_content": "C罗宝刀不老，一剑定乾坤，葡萄牙这场赢得漂亮。匈牙利拼得够狠，比赛真刺激！",
+      "user_location": "浙江",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 11:06:33",
+      "event_time": "9月8日 00:01"
+    },
+    {
+      "event_title": "C罗世预赛38球超梅西独占第2",
+      "event_id": "event_11",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842562880835678002&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:06:48",
+      "event_time": "9月7日 08:25"
+    },
+    {
+      "event_title": "C罗37球超越梅西独占第二，距第一仅差2球",
+      "event_id": "event_12",
+      "event_url": "http://www.dongqiudi.com/articles/5358430.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:06:50",
+      "event_time": "9月7日 00:46"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 12,
+    "total_comments": 14,
+    "events_with_comments": 12,
+    "level1_scrape_time": "2025-09-12 11:04:45",
+    "level2_scrape_time": "2025-09-12 11:06:50"
+  }
+}

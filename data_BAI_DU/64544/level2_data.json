@@ -1,0 +1,59 @@
+{
+  "core_event_name": "美国国债收益率跌至数月最低",
+  "comments": [
+    {
+      "event_title": "美债收益率大幅下跌 就业数据疲软引发市场押注美联储加快降息",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842468370246933715&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:53:55",
+      "event_time": "9月6日 07:26"
+    },
+    {
+      "event_title": "美国国债收益率跌至数月最低 更多就业数据为降息提供支撑",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/usstock/mggd/2025-09-04/detail-infpkanz1487983.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:53:57",
+      "event_time": "9月4日 22:54"
+    },
+    {
+      "event_title": "美债收益率集体下跌,10年期美债收益率跌4.27个基点",
+      "event_id": "event_3",
+      "event_url": "http://m.nbd.com.cn/articles/2025-09-04/4048300.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:53:59",
+      "event_time": "9月4日 06:10"
+    },
+    {
+      "event_title": "美国五年期国债收益率跌破3.68% 至4月份以来的最低水平",
+      "event_id": "event_4",
+      "event_url": "http://finance.eastmoney.com/a/202509043503865663.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:54:01",
+      "event_time": "9月4日 01:05"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-13 01:54:01"
+}

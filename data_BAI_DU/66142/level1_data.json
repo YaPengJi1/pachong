@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "泰国政局动荡",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:57:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "泰国选情突变,新“造王者”浮出水面,5人角逐总理大位",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7244984756596236275",
+      "time": "9月9日 02:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "泰国产生新总理,此前一天他信又跑了!",
+      "link": "http://baijiahao.baidu.com/s?id=1842475840380359630&wfr=spider&for=pc",
+      "time": "9月6日 09:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "泰国两年来选出第三位总理",
+      "link": "http://baijiahao.baidu.com/s?id=1842466276208432815&wfr=spider&for=pc",
+      "time": "9月6日 06:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "泰国前首相达信离开泰国",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4869531185393694526",
+      "time": "9月5日 10:02",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 14:58:06"
+}

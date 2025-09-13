@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:38:34"
+  },
+  "core_event": {
+    "core_event_name": "九三阅兵直播引共鸣",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:38:09"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "九三阅兵中的钢铁洪流，战力全面升级",
+      "link": "http://mil.huanqiu.com/article/4OCaI201sYr",
+      "time": "9月5日 18:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "全球网友观看九三阅兵直播引共鸣",
+      "link": "http://d.youth.cn/shrgch/202509/t20250905_16219048.htm",
+      "time": "9月5日 16:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中联重科13台高端设备全程助力阅兵直播",
+      "link": "http://news.changsha.cn/cslb/html/111873/20250904/207735.shtml",
+      "time": "9月4日 09:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "“西南铝造”装备“国之重器”亮相九三阅兵",
+      "link": "http://cq.people.com.cn/n2/2025/0903/c365412-41341253.html",
+      "time": "9月3日 17:03",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "九三阅兵中的钢铁洪流，战力全面升级",
+      "event_id": "event_1",
+      "event_url": "http://mil.huanqiu.com/article/4OCaI201sYr",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:38:24",
+      "event_time": "9月5日 18:00"
+    },
+    {
+      "event_title": "全球网友观看九三阅兵直播引共鸣",
+      "event_id": "event_2",
+      "event_url": "http://d.youth.cn/shrgch/202509/t20250905_16219048.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:38:26",
+      "event_time": "9月5日 16:34"
+    },
+    {
+      "event_title": "中联重科13台高端设备全程助力阅兵直播",
+      "event_id": "event_3",
+      "event_url": "http://news.changsha.cn/cslb/html/111873/20250904/207735.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:38:28",
+      "event_time": "9月4日 09:13"
+    },
+    {
+      "event_title": "“西南铝造”装备“国之重器”亮相九三阅兵",
+      "event_id": "event_4",
+      "event_url": "http://cq.people.com.cn/n2/2025/0903/c365412-41341253.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:38:30",
+      "event_time": "9月3日 17:03"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 17:38:23",
+    "level2_scrape_time": "2025-09-12 17:38:30"
+  }
+}

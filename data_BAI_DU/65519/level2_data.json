@@ -1,0 +1,59 @@
+{
+  "core_event_name": "2025世锦赛国羽首金",
+  "comments": [
+    {
+      "event_title": "羽毛球世锦赛收官 国羽收获2金3银",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=18128493465280694416",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:16:20",
+      "event_time": "9月5日 22:06"
+    },
+    {
+      "event_title": "羽毛球世锦赛落幕!国羽5项决赛夺2金",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7118785460588852245",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:16:22",
+      "event_time": "9月4日 16:48"
+    },
+    {
+      "event_title": "陈雨菲伤情出炉，将暂别赛场",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842202920169472862&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "快手刷boss",
+      "comment_time": "09-03 09:13",
+      "comment_content": "陈雨菲带伤拼搏真坚韧，好好休养早日康复。等你归来再创佳绩。",
+      "user_location": "重庆",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:16:38",
+      "event_time": "9月3日 09:06"
+    },
+    {
+      "event_title": "羽毛球世锦赛国羽斩获2金3银",
+      "event_id": "event_4",
+      "event_url": "http://sports.sdnews.com.cn/zhty/202509/t20250901_4571568.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:16:40",
+      "event_time": "9月1日 15:16"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-13 01:16:40"
+}

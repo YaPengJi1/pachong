@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:28:53"
+  },
+  "core_event": {
+    "core_event_name": "贵州茅台重新夺回股王宝座",
+    "update_time": "更新至20250830",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:28:15"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "“股王争夺战”后,贵州茅台发布两公告",
+      "link": "http://m.guancha.cn/GongSi/2025_08_30_788273.shtml",
+      "time": "8月30日 12:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "贵州茅台将通过集中竞价交易方式增持公司股票",
+      "link": "http://baijiahao.baidu.com/s?id=1841846823613155684&wfr=spider&for=pc",
+      "time": "8月30日 10:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "茅台重新超越寒武纪夺回股王宝座",
+      "link": "http://finance.sina.com.cn/stock/relnews/cn/2025-08-29/doc-infnrstn1176787.shtml",
+      "time": "8月29日 13:49",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "“股王争夺战”后,贵州茅台发布两公告",
+      "event_id": "event_1",
+      "event_url": "http://m.guancha.cn/GongSi/2025_08_30_788273.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:28:31",
+      "event_time": "8月30日 12:30"
+    },
+    {
+      "event_title": "贵州茅台将通过集中竞价交易方式增持公司股票",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841846823613155684&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:28:47",
+      "event_time": "8月30日 10:46"
+    },
+    {
+      "event_title": "茅台重新超越寒武纪夺回股王宝座",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.com.cn/stock/relnews/cn/2025-08-29/doc-infnrstn1176787.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:28:49",
+      "event_time": "8月29日 13:49"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-13 01:28:29",
+    "level2_scrape_time": "2025-09-13 01:28:49"
+  }
+}

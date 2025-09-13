@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:09:57"
+  },
+  "core_event": {
+    "core_event_name": "美股三大指数集体下跌",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:09:33"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美股高开低走，三大指数集体下跌",
+      "link": "http://weibo.com/5871461334/Q3gBCt9Og",
+      "time": "9月6日 08:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "非农数据不及预期 美股三大指数集体高开",
+      "link": "http://finance.eastmoney.com/a/202509053506339448.html",
+      "time": "9月5日 21:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "三大股指开盘涨跌不一",
+      "link": "http://www.sohu.com/a/932046548_120388781",
+      "time": "9月5日 09:32",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "美股高开低走，三大指数集体下跌",
+      "event_id": "event_1",
+      "event_url": "http://weibo.com/5871461334/Q3gBCt9Og",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:09:49",
+      "event_time": "9月6日 08:02"
+    },
+    {
+      "event_title": "非农数据不及预期 美股三大指数集体高开",
+      "event_id": "event_2",
+      "event_url": "http://finance.eastmoney.com/a/202509053506339448.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:09:51",
+      "event_time": "9月5日 21:30"
+    },
+    {
+      "event_title": "三大股指开盘涨跌不一",
+      "event_id": "event_3",
+      "event_url": "http://www.sohu.com/a/932046548_120388781",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:09:53",
+      "event_time": "9月5日 09:32"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 11:09:47",
+    "level2_scrape_time": "2025-09-12 11:09:53"
+  }
+}

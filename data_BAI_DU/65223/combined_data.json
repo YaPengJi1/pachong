@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 20:35:31"
+  },
+  "core_event": {
+    "core_event_name": "美对日汽车关税降了",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:35:02"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美对日汽车关税降了 日本车仍难受",
+      "link": "http://news.mydrivers.com/1/1072/1072834.htm",
+      "time": "9月5日 22:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特朗普签令定调美日贸易15% 关税换日企投资,美国车企却率先抗议",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=14145136867118149300",
+      "time": "9月5日 16:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普签令:执行美日贸易协议!15%关税将对日本汽车业出口造成冲击",
+      "link": "http://www.jfdaily.com/news/detail?id=977391",
+      "time": "9月5日 14:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "日本汽车企业真的能受益吗?",
+      "link": "http://www.sohu.com/a/932170716_121066326",
+      "time": "9月5日 14:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "“15%封顶”的关税落地提振市场情绪 日本车企股价集体上扬",
+      "link": "http://finance.sina.com.cn/stock/hkstock/hkstocknews/2025-09-05/doc-infpmkhm0896551.shtml",
+      "time": "9月5日 12:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "美日贸易协议正式实施,日本出口车关税降至15%",
+      "link": "http://www.jiemian.com/article/13304992.html",
+      "time": "9月5日 09:05",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "美对日汽车关税降了 日本车仍难受",
+      "event_id": "event_1",
+      "event_url": "http://news.mydrivers.com/1/1072/1072834.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:35:17",
+      "event_time": "9月5日 22:57"
+    },
+    {
+      "event_title": "特朗普签令定调美日贸易15% 关税换日企投资,美国车企却率先抗议",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=14145136867118149300",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:35:19",
+      "event_time": "9月5日 16:51"
+    },
+    {
+      "event_title": "特朗普签令:执行美日贸易协议!15%关税将对日本汽车业出口造成冲击",
+      "event_id": "event_3",
+      "event_url": "http://www.jfdaily.com/news/detail?id=977391",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:35:21",
+      "event_time": "9月5日 14:56"
+    },
+    {
+      "event_title": "日本汽车企业真的能受益吗?",
+      "event_id": "event_4",
+      "event_url": "http://www.sohu.com/a/932170716_121066326",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:35:23",
+      "event_time": "9月5日 14:28"
+    },
+    {
+      "event_title": "“15%封顶”的关税落地提振市场情绪 日本车企股价集体上扬",
+      "event_id": "event_5",
+      "event_url": "http://finance.sina.com.cn/stock/hkstock/hkstocknews/2025-09-05/doc-infpmkhm0896551.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:35:25",
+      "event_time": "9月5日 12:01"
+    },
+    {
+      "event_title": "美日贸易协议正式实施,日本出口车关税降至15%",
+      "event_id": "event_6",
+      "event_url": "http://www.jiemian.com/article/13304992.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:35:27",
+      "event_time": "9月5日 09:05"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 20:35:16",
+    "level2_scrape_time": "2025-09-12 20:35:27"
+  }
+}

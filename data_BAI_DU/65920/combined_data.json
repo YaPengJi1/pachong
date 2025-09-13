@@ -1,0 +1,193 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:39:21"
+  },
+  "core_event": {
+    "core_event_name": "中国驻日使馆介绍东风-5C后，石破茂辞职",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:38:33"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "果然视频·看天下|石破茂辞职,特朗普:有点吃惊",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15461454480231429629",
+      "time": "9月9日 12:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "日本首相石破茂召开记者会宣布辞职",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1246417418600390501",
+      "time": "9月8日 15:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "石破茂突然宣布辞职,罕见理由",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17228435071503171238",
+      "time": "9月8日 14:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "石破茂“体面”辞职,谁接任日本首相?",
+      "link": "http://www.jfdaily.com/news/detail?id=978509",
+      "time": "9月8日 06:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "日本首相石破茂宣布辞职",
+      "link": "http://www.163.com/dy/article/K8SESC9P051494GR.html",
+      "time": "9月7日 18:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "中国驻日本大使馆介绍东风-5C，引爆国际舆论一片哗然",
+      "link": "http://baijiahao.baidu.com/s?id=1842582199417839453&wfr=spider&for=pc",
+      "time": "9月7日 13:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "石破茂不想当日本首相了吗 辞职意向已定",
+      "link": "http://military.china.com/news/13004177/20250905/48792604.html",
+      "time": "9月5日 09:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "石破茂表态“无意留任”",
+      "link": "http://k.sina.com.cn/article_1644114654_61ff32de019020try.html",
+      "time": "9月2日 18:14",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "果然视频·看天下|石破茂辞职,特朗普:有点吃惊",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=15461454480231429629",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:38:48",
+      "event_time": "9月9日 12:58"
+    },
+    {
+      "event_title": "日本首相石破茂召开记者会宣布辞职",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=1246417418600390501",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:38:50",
+      "event_time": "9月8日 15:59"
+    },
+    {
+      "event_title": "石破茂突然宣布辞职,罕见理由",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=17228435071503171238",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:38:52",
+      "event_time": "9月8日 14:37"
+    },
+    {
+      "event_title": "石破茂“体面”辞职,谁接任日本首相?",
+      "event_id": "event_4",
+      "event_url": "http://www.jfdaily.com/news/detail?id=978509",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:38:54",
+      "event_time": "9月8日 06:29"
+    },
+    {
+      "event_title": "日本首相石破茂宣布辞职",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8SESC9P051494GR.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:38:56",
+      "event_time": "9月7日 18:10"
+    },
+    {
+      "event_title": "中国驻日本大使馆介绍东风-5C，引爆国际舆论一片哗然",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842582199417839453&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:13",
+      "event_time": "9月7日 13:35"
+    },
+    {
+      "event_title": "石破茂不想当日本首相了吗 辞职意向已定",
+      "event_id": "event_7",
+      "event_url": "http://military.china.com/news/13004177/20250905/48792604.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:15",
+      "event_time": "9月5日 09:59"
+    },
+    {
+      "event_title": "石破茂表态“无意留任”",
+      "event_id": "event_8",
+      "event_url": "http://k.sina.com.cn/article_1644114654_61ff32de019020try.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:17",
+      "event_time": "9月2日 18:14"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 8,
+    "total_comments": 8,
+    "events_with_comments": 8,
+    "level1_scrape_time": "2025-09-12 14:38:47",
+    "level2_scrape_time": "2025-09-12 14:39:17"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "core_info": {
+    "core_event_name": "2025跳水世界杯",
+    "update_time": "更新至2025年5月4日 18:53",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 08:50:44"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "9金收官跳水世界杯总决赛朱子锋、程子龙包揽男子10米台冠亚军",
+      "link": "https://baijiahao.baidu.com/s?id=1831187016437500092",
+      "time": "5月4日 18:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "跳水世界杯总决赛陈佳3米板夺冠 陈艺文获亚军",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_17936995032524829772&sourceFrom=share",
+      "time": "5月4日 14:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "全红婵、陈芋汐回应跳水世界杯新赛制：累到快爬不上10米台",
+      "link": "https://baijiahao.baidu.com/s?id=1831165058506512707",
+      "time": "5月4日 12:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "金牌+1 跳水世界杯总决赛陈佳获得女子3米板冠军",
+      "link": "https://baijiahao.baidu.com/s?id=1831163831706320667",
+      "time": "5月4日 12:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "跳水世界杯总决赛今日收官 男子10米跳台中国新秀直面国际强敌",
+      "link": "https://baijiahao.baidu.com/s?id=1831130831449887684",
+      "time": "5月4日 04:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "巅峰对决！跳水世界杯总决赛女子10米台陈芋汐、全红婵包揽金银",
+      "link": "https://baijiahao.baidu.com/s?id=1831096042349264616",
+      "time": "5月3日 19:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "包揽金银！王宗源、郑九源夺得跳水世界杯总决赛男子3米板冠亚军",
+      "link": "https://baijiahao.baidu.com/s?id=1831073400715743716",
+      "time": "5月3日 12:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "总决赛第二日看点：全红婵陈芋汐 “水立方” 巅峰对决",
+      "link": "https://baijiahao.baidu.com/s?id=1831059993225294908",
+      "time": "5月3日 09:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "女子双人10米台决赛全红婵陈芋汐组合超第二名近50分强势夺冠",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_11015736803832961355&sourceFrom=share",
+      "time": "5月2日 16:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "中国队夺跳水世界杯总决赛首金",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_16589939860023410377&sourceFrom=share",
+      "time": "5月2日 11:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "跳水“梦之队”全主力出战世界杯总决赛 全红婵冲击全满贯",
+      "link": "https://baijiahao.baidu.com/s?id=1830621290748783074",
+      "time": "4月28日 13:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "陈芋汐再夺金！中国队包揽跳水世界杯温莎站10米台金银牌",
+      "link": "https://baijiahao.baidu.com/s?id=1829239150509939484",
+      "time": "4月13日 06:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "跳水世界杯加拿大站 中国队夺混团金牌",
+      "link": "https://baijiahao.baidu.com/s?id=1829148484804832211",
+      "time": "4月12日 07:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "全红婵10米台预赛第一 携手陈芋汐双双晋级决赛",
+      "link": "https://baijiahao.baidu.com/s?id=1829076487154243497",
+      "time": "4月11日 11:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "2025年跳水世界杯（墨西哥站）中国队斩获7金",
+      "link": "https://baijiahao.baidu.com/s?id=1828742000076992592&wfr=spider&for=pc",
+      "time": "4月7日 19:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "跳水世界杯墨西哥站：朱子锋/程子龙男双10米台摘金",
+      "link": "https://baijiahao.baidu.com/s?id=1828605255610324643",
+      "time": "4月6日 06:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "陈芋汐、全红婵包揽跳水世界杯女子10米台冠亚军",
+      "link": "https://baijiahao.baidu.com/s?id=1828604437999714838",
+      "time": "4月6日 06:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "昌雅妮/陈艺文获得跳水世界杯墨西哥站女子双人3米板冠军",
+      "link": "https://baijiahao.baidu.com/s?id=1828584994575854980",
+      "time": "4月6日 01:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "水花消失术×2 全红婵、陈芋汐单人跳也能“神同步”",
+      "link": "https://baijiahao.baidu.com/s?id=1828540954055724733",
+      "time": "4月5日 13:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "世界泳联跳水世界杯墨西哥站：中国队斩获混合团体冠军",
+      "link": "https://baijiahao.baidu.com/s?id=1828527934142411854",
+      "time": "4月5日 10:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_21",
+      "title": "全红婵18岁后首秀 跳水世界杯预赛第一晋级决赛",
+      "link": "https://baijiahao.baidu.com/s?id=1828426892818280816",
+      "time": "4月4日 07:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_22",
+      "title": "五位奥运冠军领衔 中国跳水队出征世界杯",
+      "link": "https://baijiahao.baidu.com/s?id=1828123800509330858&wfr=spider&for=pc",
+      "time": "3月31日 23:24",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 22,
+  "scrape_time": "2025-09-12 08:50:59"
+}

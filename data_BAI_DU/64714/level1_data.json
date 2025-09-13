@@ -1,0 +1,212 @@
+{
+  "core_info": {
+    "core_event_name": "A股固态电池股大面积涨停",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:26:04"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "固态电池概念股再度活跃 天际股份等多股涨停",
+      "link": "http://finance.eastmoney.com/a/202509083507196738.html",
+      "time": "9月8日 09:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "固态电池概念持续上演涨停潮",
+      "link": "http://baijiahao.baidu.com/s?id=1842581183191789464&wfr=spider&for=pc",
+      "time": "9月7日 13:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "固态电池概念火爆 多家上市公司回复相关问题",
+      "link": "http://finance.sina.com.cn/roll/2025-09-07/doc-infprmwt1069008.shtml",
+      "time": "9月7日 08:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "新能源板块集体爆发，固态电池领涨",
+      "link": "http://stock.hexun.com/2025-09-06/221241367.html",
+      "time": "9月6日 11:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "这一板块爆发,超10只ETF涨停",
+      "link": "http://finance.eastmoney.com/a/202509053506353014.html",
+      "time": "9月5日 21:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "A股,强势反弹!超4800股飘红",
+      "link": "http://finance.eastmoney.com/a/202509053506182329.html",
+      "time": "9月5日 16:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "A股大反攻!固态电池概念股掀起涨停潮 后市如何演绎?",
+      "link": "http://finance.eastmoney.com/a/202509053506183028.html",
+      "time": "9月5日 16:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "固态电池暴涨,20只涨停股",
+      "link": "http://baijiahao.baidu.com/s?id=1842408562563544676&wfr=spider&for=pc",
+      "time": "9月5日 16:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "多晶硅涨停 固态电池爆发",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7382158359372441522",
+      "time": "9月5日 16:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "固态电池掀起涨停潮!先导智能等30余股涨超10%",
+      "link": "http://baijiahao.baidu.com/s?id=1842410754129813707&wfr=spider&for=pc",
+      "time": "9月5日 16:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "超4800股上涨,固态电池、体育概念大爆发",
+      "link": "http://finance.eastmoney.com/a/202509053506119867.html",
+      "time": "9月5日 16:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "集体涨停，固态电池又爆发了",
+      "link": "http://cj.sina.com.cn/articles/view/5224789915/1376bf79b00101etmk",
+      "time": "9月5日 15:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "固态电池板块活跃 金银河涨停",
+      "link": "http://finance.sina.com.cn/stock/snipe/2025-09-05/doc-infpmkhm0930135.shtml",
+      "time": "9月5日 14:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "电池板块午后涨幅进一步扩大,天华新能等超10股涨停",
+      "link": "http://finance.sina.com.cn/roll/2025-09-05/doc-infpmkhm0927410.shtml",
+      "time": "9月5日 13:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "固态电池全线走强,多股涨停!天宏锂电、天际股份两连板",
+      "link": "http://baijiahao.baidu.com/s?id=1842396662111132612&wfr=spider&for=pc",
+      "time": "9月5日 12:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "A股固态电池股大面积涨停",
+      "link": "http://m.jrj.com.cn/madapter/stock/2025/09/05103652939587.shtml",
+      "time": "9月5日 10:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "固态电池爆火，锂电池板块集体爆发，锂电池ETF涨超4%",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmcyp0982606.d.html",
+      "time": "9月5日 10:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "先导智能20CM涨停!电池ETF暴力拉涨超6%",
+      "link": "http://fund.jrj.com.cn/2025/09/05100152938707.shtml",
+      "time": "9月5日 08:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "固态电池板块继续走强",
+      "link": "http://www.163.com/dy/article/K8KCO3LF051987V2.html",
+      "time": "9月4日 14:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "固态电池大涨!技术突破来了?",
+      "link": "http://finance.sina.cn/fund/jjgdxw/2025-09-04/detail-infpifim1846515.d.html",
+      "time": "9月4日 14:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_21",
+      "title": "A股电池板块掀涨停潮，天宏锂电、力佳科技30CM涨停",
+      "link": "http://m.jrj.com.cn/madapter/stock/2025/09/04131752916657.shtml",
+      "time": "9月4日 13:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_22",
+      "title": "固态电池板块活跃 正业科技涨停",
+      "link": "http://finance.sina.com.cn/stock/snipe/2025-09-04/doc-infphutq3642054.shtml",
+      "time": "9月4日 09:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_23",
+      "title": "固态电池概念股盘初活跃,东方锆业涨停",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6440612213525100981",
+      "time": "9月4日 09:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_24",
+      "title": "多股大涨,固态电池的竞争已经开始",
+      "link": "http://cj.sina.com.cn/articles/view/5224789915/1376bf79b00101er7y",
+      "time": "9月1日 15:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_25",
+      "title": "锂电板块大涨,产业变化提振市场信心",
+      "link": "http://k.sina.cn/article_5953740931_162dee08306701zvcs.html",
+      "time": "8月29日 16:37",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 25,
+  "scrape_time": "2025-09-13 01:26:20"
+}

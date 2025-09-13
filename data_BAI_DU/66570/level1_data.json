@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "美联储降息概率波动",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 12:16:56"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美联储9月降息概率59.8%",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5667892409008418523",
+      "time": "9月6日 23:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "非农公布前:美联储9月降息概率97.3%",
+      "link": "http://finance.sina.cn/7x24/2025-09-05/detail-infpmzcy5750280.d.html",
+      "time": "9月5日 20:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美国就业数据公布后，美联储9月降息概率再度升温",
+      "link": "http://app.myzaker.com/news/article.php?m=1756949471&pk=68b8e5c38e9f09244b13e162",
+      "time": "9月4日 09:03",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 12:17:10"
+}

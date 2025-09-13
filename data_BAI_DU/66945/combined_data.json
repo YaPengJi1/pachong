@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:29:35"
+  },
+  "core_event": {
+    "core_event_name": "乌克兰女子在美遇刺身亡",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:28:44"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "避难乌克兰女子被美国黑人刺死,命运交汇的4分钟",
+      "link": "http://www.guancha.cn/internation/2025_09_11_789814.shtml",
+      "time": "昨天 21:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "乌克兰女子在美遇刺身亡震惊全国",
+      "link": "http://new.qq.com/rain/a/20250910V09FWE00",
+      "time": "昨天 08:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "乌克兰女难民在美遇袭身亡完整监控公布，家人拒将遗体运回乌",
+      "link": "http://new.qq.com/rain/a/20250910V04K2300",
+      "time": "9月10日 13:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普称遇袭乌难民被怪物屠杀 监控公布",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=14256637512288727354",
+      "time": "9月10日 12:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "23岁乌克兰女子在美国列车上被袭击至死,旁观者却冷漠拍摄",
+      "link": "http://cj.sina.com.cn/articles/view/7295511715/1b2d8aca302001ho2o",
+      "time": "9月10日 08:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "乌克兰女子在美遭刺喉身亡,特朗普:她的血沾满民主党人的手",
+      "link": "http://news.ifeng.com/c/8mVcYCnMZSa",
+      "time": "9月9日 15:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "23岁女孩逃离乌克兰,却在美国轻轨上被杀害:陌生男子对她颈部连刺3刀!特朗普:太可怕了",
+      "link": "http://www.nbd.com.cn/articles/2025-09-08/4053352.html",
+      "time": "9月8日 23:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "23岁乌克兰女子逃难至美国，列车上遭流浪汉连刺三刀当场身亡",
+      "link": "http://baijiahao.baidu.com/s?id=1842667767883226117&wfr=spider&for=pc",
+      "time": "9月8日 12:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "女子刚逃出乌就在美轻轨被刺身亡",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10808937671737867029",
+      "time": "9月7日 11:46",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "避难乌克兰女子被美国黑人刺死,命运交汇的4分钟",
+      "event_id": "event_1",
+      "event_url": "http://www.guancha.cn/internation/2025_09_11_789814.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:29:00",
+      "event_time": "昨天 21:38"
+    },
+    {
+      "event_title": "乌克兰女子在美遇刺身亡震惊全国",
+      "event_id": "event_2",
+      "event_url": "http://new.qq.com/rain/a/20250910V09FWE00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:29:02",
+      "event_time": "昨天 08:15"
+    },
+    {
+      "event_title": "乌克兰女难民在美遇袭身亡完整监控公布，家人拒将遗体运回乌",
+      "event_id": "event_3",
+      "event_url": "http://new.qq.com/rain/a/20250910V04K2300",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:29:04",
+      "event_time": "9月10日 13:18"
+    },
+    {
+      "event_title": "特朗普称遇袭乌难民被怪物屠杀 监控公布",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=14256637512288727354",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:29:06",
+      "event_time": "9月10日 12:41"
+    },
+    {
+      "event_title": "23岁乌克兰女子在美国列车上被袭击至死,旁观者却冷漠拍摄",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/7295511715/1b2d8aca302001ho2o",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:29:08",
+      "event_time": "9月10日 08:31"
+    },
+    {
+      "event_title": "乌克兰女子在美遭刺喉身亡,特朗普:她的血沾满民主党人的手",
+      "event_id": "event_6",
+      "event_url": "http://news.ifeng.com/c/8mVcYCnMZSa",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:29:10",
+      "event_time": "9月9日 15:40"
+    },
+    {
+      "event_title": "23岁女孩逃离乌克兰,却在美国轻轨上被杀害:陌生男子对她颈部连刺3刀!特朗普:太可怕了",
+      "event_id": "event_7",
+      "event_url": "http://www.nbd.com.cn/articles/2025-09-08/4053352.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:29:12",
+      "event_time": "9月8日 23:19"
+    },
+    {
+      "event_title": "23岁乌克兰女子逃难至美国，列车上遭流浪汉连刺三刀当场身亡",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842667767883226117&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:29:29",
+      "event_time": "9月8日 12:15"
+    },
+    {
+      "event_title": "女子刚逃出乌就在美轻轨被刺身亡",
+      "event_id": "event_9",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10808937671737867029",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:29:31",
+      "event_time": "9月7日 11:46"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 9,
+    "total_comments": 9,
+    "events_with_comments": 9,
+    "level1_scrape_time": "2025-09-12 10:28:58",
+    "level2_scrape_time": "2025-09-12 10:29:31"
+  }
+}

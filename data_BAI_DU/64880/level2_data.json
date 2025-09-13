@@ -1,0 +1,72 @@
+{
+  "core_event_name": "新华保险连续4天下跌",
+  "comments": [
+    {
+      "event_title": "新华保险股价连续4天下跌累计跌幅7.96%,安信基金旗下2只基金合计持4.3万股,浮亏损失23.35万元",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8KDS1LF05568W0A.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:24:32",
+      "event_time": "9月4日 15:19"
+    },
+    {
+      "event_title": "新华保险股价连续4天下跌累计跌幅7.96%,工银瑞信基金旗下3只基金合计持29.87万股,浮亏损失162.19万元",
+      "event_id": "event_2",
+      "event_url": "http://www.sohu.com/a/931837083_122014422",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:24:34",
+      "event_time": "9月4日 15:19"
+    },
+    {
+      "event_title": "新华保险股价连续4天下跌",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842316930571313466&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:24:51",
+      "event_time": "9月4日 15:18"
+    },
+    {
+      "event_title": "新华保险股价连续4天下跌累计跌幅7.96%,景顺长城基金旗下1只基金持41.42万股,浮亏损失224.91万元",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8KDRE6H05568W0A.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:24:53",
+      "event_time": "9月4日 15:18"
+    },
+    {
+      "event_title": "新华保险股价连续4天下跌，累计跌幅7.96%",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842316905341725670&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:25:09",
+      "event_time": "9月4日 15:18"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 18:25:09"
+}

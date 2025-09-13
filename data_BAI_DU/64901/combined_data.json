@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:09:05"
+  },
+  "core_event": {
+    "core_event_name": "稀土ETF嘉实半日涨跌",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:08:24"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "稀土ETF嘉实半日收涨1.90%,丰元股份10cm涨停",
+      "link": "http://baijiahao.baidu.com/s?id=1842394302462141473&wfr=spider&for=pc",
+      "time": "9月5日 11:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "稀土ETF嘉实跌3.51%，半日成交额3.61亿元",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infphyzr8835841.d.html",
+      "time": "9月4日 11:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "稀土ETF嘉实跌0.81%，半日成交额2.46亿元",
+      "link": "http://finance.sina.cn/2025-09-03/detail-infperuq4662795.d.html",
+      "time": "9月3日 11:32",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "稀土ETF嘉实半日收涨1.90%,丰元股份10cm涨停",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842394302462141473&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:08:57",
+      "event_time": "9月5日 11:48"
+    },
+    {
+      "event_title": "稀土ETF嘉实跌3.51%，半日成交额3.61亿元",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/2025-09-04/detail-infphyzr8835841.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:08:59",
+      "event_time": "9月4日 11:32"
+    },
+    {
+      "event_title": "稀土ETF嘉实跌0.81%，半日成交额2.46亿元",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.cn/2025-09-03/detail-infperuq4662795.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:09:01",
+      "event_time": "9月3日 11:32"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 17:08:39",
+    "level2_scrape_time": "2025-09-12 17:09:01"
+  }
+}

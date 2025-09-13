@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "苹果iPad Air 7降价促销",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:55:37"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "苹果iPad Air 7 M3版直降,低至3081元",
+      "link": "http://nb.zol.com.cn/1044/10446511.html",
+      "time": "9月10日 11:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "苹果iPad Air 7 M3版平板京东低价来袭",
+      "link": "http://nb.zol.com.cn/1042/10422246_all.html",
+      "time": "9月7日 17:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "苹果iPad Pro 2024款M4版优惠来袭",
+      "link": "http://nb.zol.com.cn/1041/10419642.html",
+      "time": "9月6日 21:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "苹果2025款13英寸MacBook Air优惠来袭",
+      "link": "http://nb.zol.com.cn/1041/10419505.html",
+      "time": "9月6日 17:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "Apple iPad Air 7 M3版平板直降低至2979元",
+      "link": "http://nb.zol.com.cn/1041/10418946.html",
+      "time": "9月6日 14:05",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 09:55:51"
+}

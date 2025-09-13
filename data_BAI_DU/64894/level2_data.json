@@ -1,0 +1,59 @@
+{
+  "core_event_name": "大坂直美王者归来，重返美网4强",
+  "comments": [
+    {
+      "event_title": "大坂直美宣告王者归来,重返美网4强",
+      "event_id": "event_1",
+      "event_url": "http://www.sohu.com/a/932021458_121614014",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:38:55",
+      "event_time": "9月5日 08:15"
+    },
+    {
+      "event_title": "美网:大坂直美晋级女单四强",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/1699432410/654b47da02001k2ta",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:38:57",
+      "event_time": "9月4日 15:40"
+    },
+    {
+      "event_title": "大坂直美五进大满贯八强，此前四次均夺冠",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/6057408771/p1690cb90302701ql66",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:38:59",
+      "event_time": "9月2日 15:24"
+    },
+    {
+      "event_title": "大坂直美强势回归",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8EN3QL205539E3U.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:39:01",
+      "event_time": "9月2日 10:07"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 18:39:01"
+}

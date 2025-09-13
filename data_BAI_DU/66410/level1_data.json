@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "反诈老陈被封禁，茅台官方确认假酒",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:26:01"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "老陈打假茅台反被封禁，茅台官方确认假酒，利益链曝光",
+      "link": "http://baijiahao.baidu.com/s?id=1842752923221578736&wfr=spider&for=pc",
+      "time": "9月9日 10:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "贵州茅台回应“反诈老陈”打假五星茅台酒",
+      "link": "http://www.jiemian.com/article/13313445.html",
+      "time": "9月8日 09:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "茅台回应反诈老陈打假五星茅台酒",
+      "link": "http://baijiahao.baidu.com/s?id=1842615666101047924&wfr=spider&for=pc",
+      "time": "9月7日 21:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "反诈老陈喊话茅台管管直播间“五星茅台”",
+      "link": "http://baijiahao.baidu.com/s?id=1842596413382901718&wfr=spider&for=pc",
+      "time": "9月7日 17:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "茅台回应“五星茅台酒”",
+      "link": "http://finance.eastmoney.com/a/202509073506873064.html",
+      "time": "9月7日 15:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "茅台回应“反诈老陈”打假直播间五星茅台",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31559514",
+      "time": "9月7日 15:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "反诈老陈回应喊话贵州茅台:直播间链接已下架",
+      "link": "http://finance.sina.cn/2025-09-07/detail-infpsaum0741588.d.html",
+      "time": "9月7日 15:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "“攻击、抹黑其他主播”,“反诈老陈”账号被封禁,本人回应",
+      "link": "http://baijiahao.baidu.com/s?id=1842513809043098737&wfr=spider&for=pc",
+      "time": "9月6日 16:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "用廉价散装白酒灌装假茅台和假五粮液被付之一炬",
+      "link": "http://baijiahao.baidu.com/s?id=1842402009980568271&wfr=spider&for=pc",
+      "time": "9月5日 13:50",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 14:26:16"
+}

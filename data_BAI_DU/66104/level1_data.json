@@ -1,0 +1,116 @@
+{
+  "core_info": {
+    "core_event_name": "五大国有银行发布个人消费贷款贴息政策",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:20:41"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "农业银行发布个人消费贷款财政贴息政策",
+      "link": "http://bank.cngold.org/c/2025-09-08/c10065732.html",
+      "time": "9月8日 10:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "国有六大行:积极落实个人消费贷贴息政策",
+      "link": "http://baijiahao.baidu.com/s?id=1842621314587616537&wfr=spider&for=pc",
+      "time": "9月7日 23:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "五大国有银行发布“个人消费贷款财政贴息服务客户问答”",
+      "link": "http://news.yznews.com.cn/2025-09/06/content_7764631.htm",
+      "time": "9月6日 08:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "个人消费贷款贴息政策落地 三方面激活消费新动能",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmzea2316628.d.html",
+      "time": "9月5日 18:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "3部门发布个人消费贷款贴息政策",
+      "link": "http://guba.sina.com.cn/?s=thread&bid=286107&tid=6",
+      "time": "9月5日 15:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "个人消费贷款财政贴息政策正式落地",
+      "link": "http://news.sohu.com/a/931758410_120794256",
+      "time": "9月4日 11:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "个人消费贷“国补”落地 多家银行贴息之外还有优惠",
+      "link": "http://news.yznews.com.cn/2025-09/03/content_7763855.htm",
+      "time": "9月3日 08:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "个人消费贷如何申请“贴息”?银行:线上线下均可办理",
+      "link": "http://baijiahao.baidu.com/s?id=1842148401000519179&wfr=spider&for=pc",
+      "time": "9月2日 18:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "个人消费贷“国补”落地 多家银行App有专区可一键申请",
+      "link": "http://www.163.com/dy/article/K8ETD7C30514R9KQ.html",
+      "time": "9月2日 11:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "消费贷款领域迎来“国补”",
+      "link": "http://news.sina.cn/znl/2025-09-02/detail-infpaafs9066810.d.html?y=$y",
+      "time": "9月2日 06:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "政策落地实施首日 记者探访多家银行—— 个人消费贷款贴息“红包”怎么领",
+      "link": "http://finance.eastmoney.com/a/202509023501430590.html",
+      "time": "9月2日 06:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "个人消费贷“国补”贴息首日 多银行晒操作“指南” 有客户已可签署补充协议",
+      "link": "http://finance.sina.com.cn/money/bank/bank_hydt/2025-09-01/doc-infnzezx7577215.shtml",
+      "time": "9月1日 21:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "个人消费贷贴息明日开闸!多家银行启动预热,五大热点答疑",
+      "link": "http://app.myzaker.com/news/article.php?m=1756707601&pk=68b3e9d18e9f09788c62da9e",
+      "time": "8月31日 14:21",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 13,
+  "scrape_time": "2025-09-12 14:20:55"
+}

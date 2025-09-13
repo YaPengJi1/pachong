@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普称赞中国阅兵",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:23:10"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "被大阅兵震撼,美国防部改战争部,前高官不满怒斥:中国求之不得?",
+      "link": "http://new.qq.com/rain/a/20250909V032EX00",
+      "time": "9月9日 10:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国这场大阅兵让世界屏息!外媒惊呼:军工实力已迈入未来战场",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12968055191111278830",
+      "time": "9月5日 22:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普和美防长都承认看了中国阅兵",
+      "link": "http://baijiahao.baidu.com/s?id=1842405132280451652&wfr=spider&for=pc",
+      "time": "9月5日 14:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普罕见祝福中国",
+      "link": "http://www.163.com/dy/article/K8MDFOGA05520E43.html",
+      "time": "9月5日 10:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "“我确实在看九三阅兵” 特朗普:很精彩 非常非常令人印象深刻",
+      "link": "http://finance.eastmoney.com/a/202509043504872375.html",
+      "time": "9月4日 16:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "特朗普承认看了阅兵",
+      "link": "http://baijiahao.baidu.com/s?id=1842318768401151383&wfr=spider&for=pc",
+      "time": "9月4日 15:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "特朗普与波兰总统会晤时透露看了中国的阅兵",
+      "link": "http://www.bilibili.com/video/BV1vha6zKEjJ",
+      "time": "9月4日 00:51",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 17:23:24"
+}

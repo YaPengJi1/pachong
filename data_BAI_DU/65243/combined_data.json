@@ -1,0 +1,150 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 20:54:14"
+  },
+  "core_event": {
+    "core_event_name": "2025年拱墅女子曲棍球亚洲杯",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:53:13"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "2025年女曲亚洲杯赛在杭州举行 中国队对阵马来西亚队",
+      "link": "http://baijiahao.baidu.com/s?id=1842478104316994585&wfr=spider&for=pc",
+      "time": "9月6日 09:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "2025年拱墅女子曲棍球亚洲杯举行 韩国队9比0战胜中国台北队",
+      "link": "http://cj.sina.com.cn/articles/view/1784473157/6a5ce64502003ak5c",
+      "time": "9月5日 22:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "女曲亚洲杯今天在杭州开赛!中国队主帅:为夺冠而来",
+      "link": "http://www.cztv.com/newsDetail/815106",
+      "time": "9月5日 06:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "2025年拱墅女子曲棍球亚洲杯即将举办 8支参赛球队将带来精彩对决",
+      "link": "http://www.zj.xinhuanet.com/20250904/61e5d9b6219f47819493a35647ee111e/c.html",
+      "time": "9月4日 20:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "2025年拱墅女子曲棍球亚洲杯赛召开赛前新闻发布会",
+      "link": "http://ori.hangzhou.com.cn/ornews/content/2025-09/04/content_9076206.htm",
+      "time": "9月4日 20:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "杭州再迎顶级赛事，2025年拱墅女子曲棍球亚洲杯明日开赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842335980101917436&wfr=spider&for=pc",
+      "time": "9月4日 20:19",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "2025年女曲亚洲杯赛在杭州举行 中国队对阵马来西亚队",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842478104316994585&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "勇敢喜欢喝咖啡coffee",
+      "comment_time": "09-06 10:20",
+      "comment_content": "中国队进球真棒，比赛场面火热。姑娘们拼尽全力，争取世界杯资格加油！",
+      "user_location": "宁夏",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:53:45",
+      "event_time": "9月6日 09:58"
+    },
+    {
+      "event_title": "2025年拱墅女子曲棍球亚洲杯举行 韩国队9比0战胜中国台北队",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/1784473157/6a5ce64502003ak5c",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:53:48",
+      "event_time": "9月5日 22:02"
+    },
+    {
+      "event_title": "女曲亚洲杯今天在杭州开赛!中国队主帅:为夺冠而来",
+      "event_id": "event_3",
+      "event_url": "http://www.cztv.com/newsDetail/815106",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:53:50",
+      "event_time": "9月5日 06:24"
+    },
+    {
+      "event_title": "2025年拱墅女子曲棍球亚洲杯即将举办 8支参赛球队将带来精彩对决",
+      "event_id": "event_4",
+      "event_url": "http://www.zj.xinhuanet.com/20250904/61e5d9b6219f47819493a35647ee111e/c.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:53:52",
+      "event_time": "9月4日 20:41"
+    },
+    {
+      "event_title": "2025年拱墅女子曲棍球亚洲杯赛召开赛前新闻发布会",
+      "event_id": "event_5",
+      "event_url": "http://ori.hangzhou.com.cn/ornews/content/2025-09/04/content_9076206.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:53:54",
+      "event_time": "9月4日 20:39"
+    },
+    {
+      "event_title": "杭州再迎顶级赛事，2025年拱墅女子曲棍球亚洲杯明日开赛",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842335980101917436&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "EZ的骑士",
+      "comment_time": "09-04 20:29",
+      "comment_content": "杭州又办大赛了真开心，球迷们看球赛逛集市，周末一起嗨皮。",
+      "user_location": "河南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:54:10"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 20:53:28",
+    "level2_scrape_time": "2025-09-12 20:54:10"
+  }
+}

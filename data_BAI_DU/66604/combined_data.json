@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 09:53:17"
+  },
+  "core_event": {
+    "core_event_name": "U22国足10-0大胜，王钰栋7球",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:52:34"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U22国足0比0暂平澳大利亚队",
+      "link": "http://baijiahao.baidu.com/s?id=1842791199240270866&wfr=spider&for=pc",
+      "time": "9月9日 20:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "王钰栋半场7球，国足10-0大胜，两连胜仍受质疑",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11026934801276575118",
+      "time": "9月8日 18:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U23国足2-1开门红",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8542999103687288348",
+      "time": "9月5日 15:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22亚洲杯预选赛，国足小将们整体表现可圈可点",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4271854200698191211",
+      "time": "9月4日 02:15",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "U22国足0比0暂平澳大利亚队",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842791199240270866&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "蜗牛写歌谣",
+      "comment_time": "09-09 21:02",
+      "comment_content": "这个视角很独特👍",
+      "user_location": "湖北",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:53:07",
+      "event_time": "9月9日 20:23"
+    },
+    {
+      "event_title": "王钰栋半场7球，国足10-0大胜，两连胜仍受质疑",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11026934801276575118",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:53:09",
+      "event_time": "9月8日 18:30"
+    },
+    {
+      "event_title": "U23国足2-1开门红",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8542999103687288348",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:53:11",
+      "event_time": "9月5日 15:02"
+    },
+    {
+      "event_title": "U22亚洲杯预选赛，国足小将们整体表现可圈可点",
+      "event_id": "event_4",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4271854200698191211",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:53:13",
+      "event_time": "9月4日 02:15"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 09:52:48",
+    "level2_scrape_time": "2025-09-12 09:53:13"
+  }
+}

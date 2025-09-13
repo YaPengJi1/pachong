@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "U23亚洲杯国足大胜",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:57:48"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U22国足0-0战平澳大利亚，成功锁定了明年U23亚洲杯资格",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5886292764927582688",
+      "time": "9月9日 22:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "战平澳大利亚 中国U22男足获得小组第二",
+      "link": "http://tv.cctv.com/2025/09/09/VIDElUcJeHLfjojRzdrzLniM250909.shtml",
+      "time": "9月9日 22:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国队10-0，澳大利亚队6-0，亚洲杯积分：2队6分末轮生死战",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15245508374321444330",
+      "time": "9月8日 22:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22国足10-0战胜北马里亚纳群岛队",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8513342972476643309",
+      "time": "9月6日 22:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "U23亚洲杯疯狂夜:国足大胜,澳大利亚稳居榜首",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11907751456733800138",
+      "time": "9月6日 22:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "亚洲杯一夜6场惨案，日韩澳伊全胜，中国男足形势不妙",
+      "link": "http://cj.sina.com.cn/articles/view/2834321443/a8f0502300101me1g",
+      "time": "9月4日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "国足2-1险胜世界NO195，U23亚洲杯出线难了",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8038675240685336279",
+      "time": "9月3日 22:19",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 14:58:02"
+}

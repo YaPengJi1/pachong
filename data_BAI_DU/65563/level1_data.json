@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "金正恩结束对中国的访问回国",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:56:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "现场画面来了!金正恩回到平壤",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31550147",
+      "time": "9月5日 23:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "金正恩回到平壤",
+      "link": "http://m.yicai.com/brief/102811544.html",
+      "time": "9月5日 21:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "金正恩结束对中国的访问，乘专列离京回国",
+      "link": "http://baijiahao.baidu.com/s?id=1842468656959414461&wfr=spider&for=pc",
+      "time": "9月5日 20:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "金正恩抵达北京",
+      "link": "http://www.jfdaily.com/news/detail?id=975701",
+      "time": "9月2日 21:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "朝鲜劳动党总书记、国务委员长金正恩抵达北京",
+      "link": "http://cj.sina.com.cn/articles/view/1746692527/681c69af02001kyo6",
+      "time": "9月2日 20:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "金正恩乘坐专列抵达北京,将出席九三阅兵",
+      "link": "http://cj.sina.com.cn/articles/view/1643971635/61fd04330200151vu",
+      "time": "9月2日 17:39",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-13 01:57:06"
+}

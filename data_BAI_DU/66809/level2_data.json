@@ -1,0 +1,72 @@
+{
+  "core_event_name": "深圳台风“塔巴”逼近",
+  "comments": [
+    {
+      "event_title": "直击风雨一线!深圳各部门全力防御台风“塔巴”",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842830549779626342&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:51:34",
+      "event_time": "9月9日 11:20"
+    },
+    {
+      "event_title": "台风“塔巴”来袭,深圳海事局全力应对",
+      "event_id": "event_2",
+      "event_url": "http://news.sohu.com/a/932826099_120046696",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:51:36",
+      "event_time": "9月8日 11:20"
+    },
+    {
+      "event_title": "台风“塔巴”逼近,沿海风雨大作,警惕强风暴雨!",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7605952142084876885",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:51:38",
+      "event_time": "9月8日 00:43"
+    },
+    {
+      "event_title": "台风“塔巴”逼近 今年第16号台风“塔巴”将于明天登陆广东",
+      "event_id": "event_4",
+      "event_url": "http://tv.cctv.com/2025/09/07/VIDEssTVqbZpswFG2hTd1HfX250907.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:51:40",
+      "event_time": "9月7日 21:05"
+    },
+    {
+      "event_title": "新台风“塔巴”要来?高温炎热持续,深圳周末迎来“降温雨”",
+      "event_id": "event_5",
+      "event_url": "http://www.sznews.com/news/content/2025-09/05/content_31683673.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:51:42",
+      "event_time": "9月5日 00:00"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 09:51:42"
+}

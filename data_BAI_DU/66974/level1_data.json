@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "中国U16男篮惜败澳大利亚队",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:57:38"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "亚洲杯积分：中国6分，澳大利亚6分",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15245508374321444330",
+      "time": "9月8日 22:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国U16男篮屈居亚军",
+      "link": "http://www.163.com/dy/article/K8UFKSPO0529AQJO.html",
+      "time": "9月8日 13:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国U16男篮惜败澳大利亚男篮",
+      "link": "http://v.qq.com/x/page/u317087h3ge.html",
+      "time": "9月8日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国U16男篮全场24罚13中 罚球命中率54.2%",
+      "link": "http://sports.sina.cn/nba/other/2025-09-07/detail-infpstsc0417404.d.html",
+      "time": "9月7日 20:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "媒体人:U16中国男篮防守策略够成功 进攻打开才能真正掌握主动权",
+      "link": "http://sports.sina.cn/nba/other/2025-09-07/detail-infpspkf0527390.d.html",
+      "time": "9月7日 20:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "中国队男篮U16亚洲杯决赛再战澳大利亚",
+      "link": "http://sports.sina.cn/nba/other/2025-09-06/detail-infpqkky9488025.d.html",
+      "time": "9月6日 20:30",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 10:57:55"
+}

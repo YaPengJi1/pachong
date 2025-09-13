@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:51:28"
+  },
+  "core_event": {
+    "core_event_name": "电商巨头布局硬折扣超市",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:50:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "盒马NB筹备加盟",
+      "link": "http://new.qq.com/rain/a/20250911A000JP00",
+      "time": "9月10日 23:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "超市价格暴跌!美团、阿里、京东又“杀进”折扣超市",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31541523",
+      "time": "9月4日 20:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "电商巨头纷纷布局硬折扣超市寻增量",
+      "link": "http://baijiahao.baidu.com/s?id=1842260248458922515&wfr=spider&for=pc",
+      "time": "9月4日 00:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "京东阿里美团再进折扣超市“巷战”",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b81d181bc8e06123000003",
+      "time": "9月3日 18:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "京东、阿里、美团“生态卡位”折扣超市",
+      "link": "http://www.nbd.com.cn/articles/2025-09-02/4046696.html",
+      "time": "9月2日 22:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "京东盒马美团齐开线下折扣超市,生鲜价格战打响",
+      "link": "http://baijiahao.baidu.com/s?id=1842149818488805832&wfr=spider&for=pc",
+      "time": "9月2日 18:29",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "盒马NB筹备加盟",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250911A000JP00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:50:45",
+      "event_time": "9月10日 23:59"
+    },
+    {
+      "event_title": "超市价格暴跌!美团、阿里、京东又“杀进”折扣超市",
+      "event_id": "event_2",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31541523",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:50:47",
+      "event_time": "9月4日 20:20"
+    },
+    {
+      "event_title": "电商巨头纷纷布局硬折扣超市寻增量",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842260248458922515&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:51:04",
+      "event_time": "9月4日 00:18"
+    },
+    {
+      "event_title": "京东阿里美团再进折扣超市“巷战”",
+      "event_id": "event_4",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68b81d181bc8e06123000003",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:51:06",
+      "event_time": "9月3日 18:48"
+    },
+    {
+      "event_title": "京东、阿里、美团“生态卡位”折扣超市",
+      "event_id": "event_5",
+      "event_url": "http://www.nbd.com.cn/articles/2025-09-02/4046696.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:51:08",
+      "event_time": "9月2日 22:11"
+    },
+    {
+      "event_title": "京东盒马美团齐开线下折扣超市,生鲜价格战打响",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842149818488805832&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:51:24",
+      "event_time": "9月2日 18:29"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 17:50:44",
+    "level2_scrape_time": "2025-09-12 17:51:24"
+  }
+}

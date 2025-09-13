@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 12:32:03"
+  },
+  "core_event": {
+    "core_event_name": "樊振东德甲连胜",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 12:31:14"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "樊振东打疯了!德甲两连胜,全场高呼他的名字",
+      "link": "http://baijiahao.baidu.com/s?id=1842664764052492301&wfr=spider&for=pc",
+      "time": "9月8日 11:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "上海体育局报导樊振东德甲首胜",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4863703133245566788",
+      "time": "9月8日 10:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "樊振东又回来了,豪取德甲比赛两连胜",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9618319810030100221",
+      "time": "9月7日 22:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "樊振东德甲连赢两场 帮助俱乐部取得本赛季首胜",
+      "link": "http://video.sina.cn/finance/2025-09-07/detail-infpspiy8339567.d.html",
+      "time": "9月7日 18:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "樊振东德甲两连胜,助力萨尔布吕肯迎赛季首胜!",
+      "link": "http://www.sohu.com/a/932519925_122507506",
+      "time": "9月7日 00:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "樊振东给观众点赞 德甲第二场",
+      "link": "http://weibo.com/tv/show/1034:5208027719467146",
+      "time": "9月6日 23:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "樊振东德甲首胜!泽利科1-3樊振东,以前的樊振东正在慢慢回来",
+      "link": "http://www.163.com/dy/article/K8QAM45D0556AV27.html",
+      "time": "9月6日 22:26",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "樊振东打疯了!德甲两连胜,全场高呼他的名字",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842664764052492301&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "风中尘埃讨厌拖鞋",
+      "comment_time": "09-08 16:48",
+      "comment_content": "樊振东打疯了，连赢两场真解气！从低谷逆袭，这拼搏精神太酷了。",
+      "user_location": "江西",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 12:31:47",
+      "event_time": "9月8日 11:27"
+    },
+    {
+      "event_title": "上海体育局报导樊振东德甲首胜",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4863703133245566788",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:31:49",
+      "event_time": "9月8日 10:27"
+    },
+    {
+      "event_title": "樊振东又回来了,豪取德甲比赛两连胜",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9618319810030100221",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:31:51",
+      "event_time": "9月7日 22:01"
+    },
+    {
+      "event_title": "樊振东德甲连赢两场 帮助俱乐部取得本赛季首胜",
+      "event_id": "event_4",
+      "event_url": "http://video.sina.cn/finance/2025-09-07/detail-infpspiy8339567.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:31:53",
+      "event_time": "9月7日 18:43"
+    },
+    {
+      "event_title": "樊振东德甲两连胜,助力萨尔布吕肯迎赛季首胜!",
+      "event_id": "event_5",
+      "event_url": "http://www.sohu.com/a/932519925_122507506",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:31:55",
+      "event_time": "9月7日 00:17"
+    },
+    {
+      "event_title": "樊振东给观众点赞 德甲第二场",
+      "event_id": "event_6",
+      "event_url": "http://weibo.com/tv/show/1034:5208027719467146",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:31:57",
+      "event_time": "9月6日 23:53"
+    },
+    {
+      "event_title": "樊振东德甲首胜!泽利科1-3樊振东,以前的樊振东正在慢慢回来",
+      "event_id": "event_7",
+      "event_url": "http://www.163.com/dy/article/K8QAM45D0556AV27.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:31:59",
+      "event_time": "9月6日 22:26"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 12:31:28",
+    "level2_scrape_time": "2025-09-12 12:31:59"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "core_event_name": "美联储理事库克遭刑事调查",
+  "comments": [
+    {
+      "event_title": "美联储理事库克遭刑事调查",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8PERKCI0514BQ68.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:27:10",
+      "event_time": "9月6日 14:12"
+    },
+    {
+      "event_title": "涉及房贷欺诈？美司法部对美联储理事库克展开刑事调查",
+      "event_id": "event_2",
+      "event_url": "http://www.jiemian.com/article/13304891.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:27:12",
+      "event_time": "9月5日 08:44"
+    },
+    {
+      "event_title": "美国司法部对美联储理事库克展开刑事调查 已发出传票",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/1663309857/6324182102001alie",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:27:14",
+      "event_time": "9月5日 02:12"
+    },
+    {
+      "event_title": "美司法部对美联储理事库克展开刑事调查",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842345512006065468&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:27:32",
+      "event_time": "9月4日 22:51"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 21:27:32"
+}

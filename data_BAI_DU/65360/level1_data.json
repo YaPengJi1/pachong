@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "中国短道速滑国家集训队队内选拔赛",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:49:43"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国短道速滑国家集训队队内选拔赛第二阶段完赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842517153454734187&wfr=spider&for=pc",
+      "time": "9月6日 20:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国短道速滑剑指新赛季,名将悉数登场",
+      "link": "http://www.qlwb.com.cn/detail/26591163.html",
+      "time": "9月5日 22:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "林孝埈参加短道速滑国家集训队队内选拔赛",
+      "link": "http://www.163.com/dy/article/K8KEV0NF0529AQIE.html",
+      "time": "9月4日 15:38",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 22:49:57"
+}

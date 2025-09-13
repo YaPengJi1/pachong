@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:09:06"
+  },
+  "core_event": {
+    "core_event_name": "逐步推行免费学前教育",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:08:24"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "我省逐步推行免费学前教育",
+      "link": "http://www.163.com/dy/article/K8RI1U7K055616X5.html",
+      "time": "9月7日 09:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "内蒙古逐步推行免费学前教育政策 今年16.4万大班儿童受益",
+      "link": "http://szb.northnews.cn/bfxb/html/2025-09/05/content_53466_264795.htm",
+      "time": "9月5日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "黄燕芬:逐步推行免费学前教育具有里程碑意义",
+      "link": "http://m.sohu.com/a/930993760_115495",
+      "time": "9月2日 09:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "免费学前教育今秋起逐步推行 部分幼儿园大班出现生源“回流”",
+      "link": "http://baijiahao.baidu.com/s?id=1841975039079991850&wfr=spider&for=pc",
+      "time": "8月31日 20:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "学前教育法正式施行!园长有话说⑥ —— 师资队伍:支撑学前教育高质量发展的中坚力量",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "我省逐步推行免费学前教育",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8RI1U7K055616X5.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:08:39",
+      "event_time": "9月7日 09:46"
+    },
+    {
+      "event_title": "内蒙古逐步推行免费学前教育政策 今年16.4万大班儿童受益",
+      "event_id": "event_2",
+      "event_url": "http://szb.northnews.cn/bfxb/html/2025-09/05/content_53466_264795.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:08:41",
+      "event_time": "9月5日 00:00"
+    },
+    {
+      "event_title": "黄燕芬:逐步推行免费学前教育具有里程碑意义",
+      "event_id": "event_3",
+      "event_url": "http://m.sohu.com/a/930993760_115495",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:08:43",
+      "event_time": "9月2日 09:27"
+    },
+    {
+      "event_title": "免费学前教育今秋起逐步推行 部分幼儿园大班出现生源“回流”",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841975039079991850&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "欲望爱吃巧克力",
+      "comment_time": "09-01 04:14",
+      "comment_content": "免费带娃帮大忙，家长省钱娃开心。幼儿园稳了，这政策真不错！",
+      "user_location": "四川",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:09:00",
+      "event_time": "8月31日 20:21"
+    },
+    {
+      "event_title": "学前教育法正式施行!园长有话说⑥ —— 师资队伍:支撑学前教育高质量发展的中坚力量",
+      "event_id": "event_5",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:09:02",
+      "event_time": "1970年"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-13 01:08:38",
+    "level2_scrape_time": "2025-09-13 01:09:02"
+  }
+}

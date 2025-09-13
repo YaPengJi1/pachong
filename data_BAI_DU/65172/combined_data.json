@@ -1,0 +1,510 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 19:38:55"
+  },
+  "core_event": {
+    "core_event_name": "华为麒麟芯片回归及三折叠屏发布",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:36:28"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "苹果发布会前夕，华为抛出三折叠“王炸”",
+      "link": "http://baijiahao.baidu.com/s?id=1842660177465083486&wfr=spider&for=pc",
+      "time": "9月8日 10:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "华为三折叠屏Mate XTs发布!麒麟9020芯片强势回归!",
+      "link": "http://www.163.com/dy/article/K8SD5FMS0556C17E.html",
+      "time": "9月7日 17:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "时隔四年,华为再次公布麒麟芯片",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31546761",
+      "time": "9月6日 07:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "华为二代三折叠屏手机正式发布",
+      "link": "http://baijiahao.baidu.com/s?id=1842394234212000250&wfr=spider&for=pc",
+      "time": "9月5日 21:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "华为Mate XTs非凡大师再现折叠屏创新",
+      "link": "http://www.cnenergynews.cn/news/2025/09/05/detail_20250905231514.html",
+      "time": "9月5日 16:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "华为三折叠手机发布，苹果或推出首款折叠手机",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmqqi0812074.d.html",
+      "time": "9月5日 13:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "华为再推三折叠手机 麒麟芯片时隔四年高调回归",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12970788410021425752",
+      "time": "9月5日 08:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "华为公开麒麟芯片型号",
+      "link": "http://baijiahao.baidu.com/s?id=1842338967290835937&wfr=spider&for=pc",
+      "time": "9月4日 21:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "华为三折叠手机Mate X3亮相",
+      "link": "http://finance.eastmoney.com/a/202509043505041282.html",
+      "time": "9月4日 20:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "华为成业界唯一推进商用三折叠手机的品牌",
+      "link": "http://finance.sina.cn/tech/2025-09-05/detail-infpiwey6660579.d.html",
+      "time": "9月4日 20:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "华为三折叠只卖1万8",
+      "link": "http://news.mydrivers.com/1/1072/1072544.htm",
+      "time": "9月4日 19:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "华为发布Mate XTs非凡大师折叠屏手机,17999元起售",
+      "link": "http://news.zol.com.cn/1041/10414973.html",
+      "time": "9月4日 18:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "华为新三折叠Mate Xs芯片曝光",
+      "link": "http://baijiahao.baidu.com/s?id=1842326905716000749&wfr=spider&for=pc",
+      "time": "9月4日 17:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "华为新款三折叠手机发布",
+      "link": "http://baijiahao.baidu.com/s?id=1842328707386390952&wfr=spider&for=pc",
+      "time": "9月4日 17:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "麒麟9020冲上热搜",
+      "link": "http://news.mydrivers.com/1/1072/1072459.htm",
+      "time": "9月4日 16:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "华为新款三折叠发布",
+      "link": "http://m.cnhubei.com/content/2025-09/04/content_19474266.html",
+      "time": "9月4日 15:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "麒麟芯片时隔四年重现华为发布会",
+      "link": "http://weibo.com/tv/show/1034:5207178752229410",
+      "time": "9月4日 15:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "华为发布会!余承东官宣麒麟9020",
+      "link": "http://app.myzaker.com/news/article.php?m=1756972510&pk=68b94470b15ec07bd16ab64b",
+      "time": "9月4日 14:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "麒麟芯片时隔4年重现华为发布会,搭载于华为第二款三折叠手机",
+      "link": "http://baijiahao.baidu.com/s?id=1842329512911329444&wfr=spider&for=pc",
+      "time": "9月4日 06:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "华为首次公布三折叠芯片 麒麟芯片时隔四年重磅回归",
+      "link": "http://www.sznews.com/news/content/2025-09/04/content_31683153.htm",
+      "time": "9月4日 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "苹果发布会前夕，华为抛出三折叠“王炸”",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842660177465083486&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "众太工程师",
+      "comment_time": "09-08 23:00",
+      "comment_content": "遥遥领先",
+      "user_location": "广东",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 19:37:01",
+      "event_time": "9月8日 10:13"
+    },
+    {
+      "event_title": "苹果发布会前夕，华为抛出三折叠“王炸”",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842660177465083486&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "峰峰视听",
+      "comment_time": "09-08 16:05",
+      "comment_content": "你定了吗？还热情订购。",
+      "user_location": "河南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:37:01",
+      "event_time": "9月8日 10:13"
+    },
+    {
+      "event_title": "苹果发布会前夕，华为抛出三折叠“王炸”",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842660177465083486&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "跑男特效",
+      "comment_time": "09-08 10:26",
+      "comment_content": "华为抢先推出三折叠手机，高端市场错位竞争真妙，消费者热情预订，创新实力满满。",
+      "user_location": "天津",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 19:37:01",
+      "event_time": "9月8日 10:13"
+    },
+    {
+      "event_title": "苹果发布会前夕，华为抛出三折叠“王炸”",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842660177465083486&wfr=spider&for=pc",
+      "comment_index": 4,
+      "user_id": "峰峰视听",
+      "comment_time": "09-08 16:04",
+      "comment_content": "跟之前的三折叠屏区别不大啊。",
+      "user_location": "河南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:37:01",
+      "event_time": "9月8日 10:13"
+    },
+    {
+      "event_title": "华为三折叠屏Mate XTs发布!麒麟9020芯片强势回归!",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8SD5FMS0556C17E.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:37:03",
+      "event_time": "9月7日 17:45"
+    },
+    {
+      "event_title": "时隔四年,华为再次公布麒麟芯片",
+      "event_id": "event_3",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31546761",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:37:05",
+      "event_time": "9月6日 07:38"
+    },
+    {
+      "event_title": "华为二代三折叠屏手机正式发布",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842394234212000250&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "wangyong1201作者",
+      "comment_time": "09-06 08:35",
+      "comment_content": "继续关注",
+      "user_location": "安徽",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:37:21",
+      "event_time": "9月5日 21:01"
+    },
+    {
+      "event_title": "华为二代三折叠屏手机正式发布",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842394234212000250&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "阳阳爱吃hotdogYang",
+      "comment_time": "09-05 23:49",
+      "comment_content": "华为这次三折叠屏铰链耐久性还是硬伤，上一代用户吐槽频繁返修，拖累使用体验。股民短期炒作概念股得谨慎点。",
+      "user_location": "辽宁",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:37:21",
+      "event_time": "9月5日 21:01"
+    },
+    {
+      "event_title": "华为Mate XTs非凡大师再现折叠屏创新",
+      "event_id": "event_5",
+      "event_url": "http://www.cnenergynews.cn/news/2025/09/05/detail_20250905231514.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:37:23",
+      "event_time": "9月5日 16:35"
+    },
+    {
+      "event_title": "华为三折叠手机发布，苹果或推出首款折叠手机",
+      "event_id": "event_6",
+      "event_url": "http://finance.sina.cn/2025-09-05/detail-infpmqqi0812074.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:37:25",
+      "event_time": "9月5日 13:53"
+    },
+    {
+      "event_title": "华为再推三折叠手机 麒麟芯片时隔四年高调回归",
+      "event_id": "event_7",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12970788410021425752",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:37:27",
+      "event_time": "9月5日 08:01"
+    },
+    {
+      "event_title": "华为公开麒麟芯片型号",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842338967290835937&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "文艺编剧米勒",
+      "comment_time": "09-04 21:31",
+      "comment_content": "华为新折叠屏手机真香，麒麟芯片亮相了，性能提升还给降价，软件升级更实用。",
+      "user_location": "江苏",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:37:43",
+      "event_time": "9月4日 21:08"
+    },
+    {
+      "event_title": "华为公开麒麟芯片型号",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842338967290835937&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "啊吖腌67",
+      "comment_time": "09-06 23:15",
+      "comment_content": "麒麟的GPU软件评分是0分，软件测不出不支持，所以总分低。很多人都好像听不懂一样。",
+      "user_location": "浙江",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:37:43",
+      "event_time": "9月4日 21:08"
+    },
+    {
+      "event_title": "华为三折叠手机Mate X3亮相",
+      "event_id": "event_9",
+      "event_url": "http://finance.eastmoney.com/a/202509043505041282.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:37:45",
+      "event_time": "9月4日 20:34"
+    },
+    {
+      "event_title": "华为成业界唯一推进商用三折叠手机的品牌",
+      "event_id": "event_10",
+      "event_url": "http://finance.sina.cn/tech/2025-09-05/detail-infpiwey6660579.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:37:47",
+      "event_time": "9月4日 20:02"
+    },
+    {
+      "event_title": "华为三折叠只卖1万8",
+      "event_id": "event_11",
+      "event_url": "http://news.mydrivers.com/1/1072/1072544.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:37:49",
+      "event_time": "9月4日 19:37"
+    },
+    {
+      "event_title": "华为发布Mate XTs非凡大师折叠屏手机,17999元起售",
+      "event_id": "event_12",
+      "event_url": "http://news.zol.com.cn/1041/10414973.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:37:51",
+      "event_time": "9月4日 18:40"
+    },
+    {
+      "event_title": "华为新三折叠Mate Xs芯片曝光",
+      "event_id": "event_13",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842326905716000749&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "Kenny喜欢夜Run",
+      "comment_time": "09-04 23:00",
+      "comment_content": "华为工程师太拼了，技术突破真给力，职场人都有底气了。",
+      "user_location": "上海",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:38:09",
+      "event_time": "9月4日 17:57"
+    },
+    {
+      "event_title": "华为新款三折叠手机发布",
+      "event_id": "event_14",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842328707386390952&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:38:25",
+      "event_time": "9月4日 17:00"
+    },
+    {
+      "event_title": "麒麟9020冲上热搜",
+      "event_id": "event_15",
+      "event_url": "http://news.mydrivers.com/1/1072/1072459.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:38:27",
+      "event_time": "9月4日 16:04"
+    },
+    {
+      "event_title": "华为新款三折叠发布",
+      "event_id": "event_16",
+      "event_url": "http://m.cnhubei.com/content/2025-09/04/content_19474266.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:38:29",
+      "event_time": "9月4日 15:56"
+    },
+    {
+      "event_title": "麒麟芯片时隔四年重现华为发布会",
+      "event_id": "event_17",
+      "event_url": "http://weibo.com/tv/show/1034:5207178752229410",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:38:31",
+      "event_time": "9月4日 15:40"
+    },
+    {
+      "event_title": "华为发布会!余承东官宣麒麟9020",
+      "event_id": "event_18",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1756972510&pk=68b94470b15ec07bd16ab64b",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:38:33",
+      "event_time": "9月4日 14:47"
+    },
+    {
+      "event_title": "麒麟芯片时隔4年重现华为发布会,搭载于华为第二款三折叠手机",
+      "event_id": "event_19",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842329512911329444&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "瑜伽Sophia云",
+      "comment_time": "09-04 18:44",
+      "comment_content": "继续加油，期待更多🌼",
+      "user_location": "上海",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 19:38:48",
+      "event_time": "9月4日 06:38"
+    },
+    {
+      "event_title": "华为首次公布三折叠芯片 麒麟芯片时隔四年重磅回归",
+      "event_id": "event_20",
+      "event_url": "http://www.sznews.com/news/content/2025-09/04/content_31683153.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:38:50",
+      "event_time": "9月4日 00:00"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 20,
+    "total_comments": 25,
+    "events_with_comments": 20,
+    "level1_scrape_time": "2025-09-12 19:36:42",
+    "level2_scrape_time": "2025-09-12 19:38:50"
+  }
+}

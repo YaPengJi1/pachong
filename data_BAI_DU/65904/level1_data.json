@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "新国标出台，中小学生躺平午睡实现",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:22:47"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "新国标出台，中小学生“躺平午睡”要实现了",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31568160",
+      "time": "9月8日 10:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "2026年2月1日正式实施",
+      "link": "http://weibo.com/1822206482/Q3qAznzQE",
+      "time": "9月7日 09:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "午休课桌椅新国标让孩子休息更舒适",
+      "link": "http://baijiahao.baidu.com/s?id=1842478796341360350&wfr=spider&for=pc",
+      "time": "9月6日 10:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "事关中小学生午休!“国标”来了!",
+      "link": "http://baijiahao.baidu.com/s?id=1842395355694516425&wfr=spider&for=pc",
+      "time": "9月5日 11:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "能坐也能躺 中小学生午休课桌椅有了国家标准",
+      "link": "http://www.ahwang.cn/newsflash/2025/0905/2905355.html",
+      "time": "9月5日 08:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "中小学生午休课桌椅“国标”出台,实施时间→",
+      "link": "http://baijiahao.baidu.com/s?id=1842228316118058925&wfr=spider&for=pc",
+      "time": "9月3日 15:50",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 14:23:01"
+}

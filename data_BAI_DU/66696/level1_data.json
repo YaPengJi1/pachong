@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "巴克利盛赞哈登，批评雷霆教练",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:16:59"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "巴克利盛赞哈登：NBA史上最强进攻球员",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15943121813466965756",
+      "time": "9月9日 18:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "乔丹离世二十年,詹皇对比引热议,巴克利惊人言论",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10660134582771446123",
+      "time": "9月7日 21:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "巴克利:勒布朗非常伟大,但不说他是历史最佳就像犯判国罪了",
+      "link": "http://www.163.com/dy/article/K8P6SKNO0529DS7F.html",
+      "time": "9月6日 11:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "巴克利:乔丹和科比“致命”,但詹姆斯是个“好人”",
+      "link": "http://www.jfdaily.com/wx/detail.do?id=976777",
+      "time": "9月4日 16:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "巴克利批评雷霆教练决策失误,险些丢掉总冠军!",
+      "link": "http://www.sohu.com/a/931640594_122340728",
+      "time": "9月4日 03:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "巴克利:雷霆是最有深度的球队之一 他们让我想起坏孩子活塞",
+      "link": "http://sports.sina.cn/nba/other/2025-09-03/detail-infpftha4196465.d.html",
+      "time": "9月3日 21:33",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 11:17:13"
+}

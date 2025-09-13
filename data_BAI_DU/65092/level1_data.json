@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "京东盒马美团折扣超市大战",
+    "update_time": "更新至20250903",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:08:42"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "京东阿里美团再进折扣超市巷战",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b81d181bc8e06123000003",
+      "time": "9月3日 18:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "马云打破质疑,盒马脱胎换骨",
+      "link": "http://baijiahao.baidu.com/s?id=1842234057369973889&wfr=spider&for=pc",
+      "time": "9月3日 17:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "阿里、美团、京东“生态卡位”折扣超市",
+      "link": "http://www.nbd.com.cn/articles/2025-09-02/4046696.html",
+      "time": "9月2日 22:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "京东盒马美团齐开线下折扣超市,生鲜价格战打响",
+      "link": "http://baijiahao.baidu.com/s?id=1842149818488805832&wfr=spider&for=pc",
+      "time": "9月2日 18:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美团、京东、盒马激战“硬折扣”,鸡蛋9.9元/30枚、猪肉5.99元/斤",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31524493",
+      "time": "9月2日 13:49",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 18:08:57"
+}

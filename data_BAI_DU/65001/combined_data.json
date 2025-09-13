@@ -1,0 +1,277 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 16:46:41"
+  },
+  "core_event": {
+    "core_event_name": "华为Mate XTs发布及鸿蒙游戏生态发展",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 16:45:44"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "20余款全新游戏大作即将登陆鸿蒙5",
+      "link": "http://news.sina.cn/sx/2025-09-05/detail-infpmkhm0923497.d.html",
+      "time": "9月5日 13:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "华为Mate XTs开启鸿蒙版飞书新体验",
+      "link": "http://www.cb.com.cn/index/show/gd/cv/cv1362426301490",
+      "time": "9月5日 09:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "QQ飞车手游鸿蒙版正式上架，MateTV，鸿蒙全场景游戏大有不同",
+      "link": "http://www.geekpark.net/news/353505",
+      "time": "9月5日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "华为Mate XTs 非凡大师携全新品牌LOGO亮相",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b9c483b15ec015cc64d698",
+      "time": "9月4日 22:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "华为发布Mate XTs三折叠屏手机,搭载全新麒麟9020芯片",
+      "link": "http://news.zol.com.cn/1041/10415014.html",
+      "time": "9月4日 19:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "《金铲铲之战》鸿蒙版9月25日上架，Mate XTs超宽视界颠覆游戏体验",
+      "link": "http://baijiahao.baidu.com/s?id=1842330379382917659&wfr=spider&for=pc",
+      "time": "9月4日 18:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "三屏自由切换、多窗并行效率翻倍,华为 Mate XTs 开启鸿蒙版飞书新体验",
+      "link": "http://www.ithome.com/0/880/480.htm",
+      "time": "9月4日 18:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "QQ飞车手游鸿蒙版正式上架MateTV",
+      "link": "http://news.sina.com.cn/shangxunfushen/2025-09-04/detail-infpirxf1690492.shtml",
+      "time": "9月4日 18:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "鸿蒙游戏大有不同!华为MateXTs与MateTV重塑游戏体验",
+      "link": "http://www.ithome.com/0/880/435.htm",
+      "time": "9月4日 16:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "华为发布会官宣:九月起大批热门鸿蒙游戏上线",
+      "link": "http://www.ithome.com/0/880/399.htm",
+      "time": "9月4日 15:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "华为携手刘德华发布Mate XTs 非凡大师及全场景新品",
+      "link": "http://news.zol.com.cn/1041/10414043.html",
+      "time": "9月4日 12:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "华为鸿蒙5发布",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2993224696767354475",
+      "time": "8月30日 17:20",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "20余款全新游戏大作即将登陆鸿蒙5",
+      "event_id": "event_1",
+      "event_url": "http://news.sina.cn/sx/2025-09-05/detail-infpmkhm0923497.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:45:59",
+      "event_time": "9月5日 13:40"
+    },
+    {
+      "event_title": "华为Mate XTs开启鸿蒙版飞书新体验",
+      "event_id": "event_2",
+      "event_url": "http://www.cb.com.cn/index/show/gd/cv/cv1362426301490",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:46:01",
+      "event_time": "9月5日 09:26"
+    },
+    {
+      "event_title": "QQ飞车手游鸿蒙版正式上架，MateTV，鸿蒙全场景游戏大有不同",
+      "event_id": "event_3",
+      "event_url": "http://www.geekpark.net/news/353505",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:46:03",
+      "event_time": "9月5日 00:00"
+    },
+    {
+      "event_title": "华为Mate XTs 非凡大师携全新品牌LOGO亮相",
+      "event_id": "event_4",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68b9c483b15ec015cc64d698",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:46:05",
+      "event_time": "9月4日 22:51"
+    },
+    {
+      "event_title": "华为发布Mate XTs三折叠屏手机,搭载全新麒麟9020芯片",
+      "event_id": "event_5",
+      "event_url": "http://news.zol.com.cn/1041/10415014.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:46:07",
+      "event_time": "9月4日 19:20"
+    },
+    {
+      "event_title": "《金铲铲之战》鸿蒙版9月25日上架，Mate XTs超宽视界颠覆游戏体验",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842330379382917659&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:46:24",
+      "event_time": "9月4日 18:52"
+    },
+    {
+      "event_title": "三屏自由切换、多窗并行效率翻倍,华为 Mate XTs 开启鸿蒙版飞书新体验",
+      "event_id": "event_7",
+      "event_url": "http://www.ithome.com/0/880/480.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:46:26",
+      "event_time": "9月4日 18:34"
+    },
+    {
+      "event_title": "QQ飞车手游鸿蒙版正式上架MateTV",
+      "event_id": "event_8",
+      "event_url": "http://news.sina.com.cn/shangxunfushen/2025-09-04/detail-infpirxf1690492.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:46:28",
+      "event_time": "9月4日 18:32"
+    },
+    {
+      "event_title": "鸿蒙游戏大有不同!华为MateXTs与MateTV重塑游戏体验",
+      "event_id": "event_9",
+      "event_url": "http://www.ithome.com/0/880/435.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:46:30",
+      "event_time": "9月4日 16:54"
+    },
+    {
+      "event_title": "华为发布会官宣:九月起大批热门鸿蒙游戏上线",
+      "event_id": "event_10",
+      "event_url": "http://www.ithome.com/0/880/399.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:46:32",
+      "event_time": "9月4日 15:48"
+    },
+    {
+      "event_title": "华为携手刘德华发布Mate XTs 非凡大师及全场景新品",
+      "event_id": "event_11",
+      "event_url": "http://news.zol.com.cn/1041/10414043.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:46:34",
+      "event_time": "9月4日 12:20"
+    },
+    {
+      "event_title": "华为鸿蒙5发布",
+      "event_id": "event_12",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=2993224696767354475",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 16:46:36",
+      "event_time": "8月30日 17:20"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 12,
+    "total_comments": 12,
+    "events_with_comments": 12,
+    "level1_scrape_time": "2025-09-12 16:45:58",
+    "level2_scrape_time": "2025-09-12 16:46:36"
+  }
+}

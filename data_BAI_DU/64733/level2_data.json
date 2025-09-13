@@ -1,0 +1,46 @@
+{
+  "core_event_name": "成都蓉城与上海海港巅峰对决",
+  "comments": [
+    {
+      "event_title": "海港对蓉城历史输球率已超六成",
+      "event_id": "event_1",
+      "event_url": "http://k.sina.cn/article_5938422670_161f5238e001018j6w.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:45:18",
+      "event_time": "8月30日 22:15"
+    },
+    {
+      "event_title": "成都蓉城3-0上海海港",
+      "event_id": "event_2",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5068248593594940915",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:45:20",
+      "event_time": "8月30日 20:12"
+    },
+    {
+      "event_title": "海港在中超很少有苦主! 拿下隔壁“司机”后 就剩成都蓉城",
+      "event_id": "event_3",
+      "event_url": "http://k.sina.com.cn/article_2478495117_93bad58d001014vpw.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:45:22",
+      "event_time": "8月29日 20:53"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-13 01:45:22"
+}

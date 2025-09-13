@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:51:27"
+  },
+  "core_event": {
+    "core_event_name": "U22国足晋级，两战全胜",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:50:29"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U22国足0:0澳大利亚轻松晋级",
+      "link": "http://baijiahao.baidu.com/s?id=1842794276323037491&wfr=spider&for=pc",
+      "time": "9月9日 21:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "热议U22赢球靠王玉栋，非教练战术，对手仅4.7万人口",
+      "link": "http://news.sohu.com/a/932652646_121683270",
+      "time": "9月7日 16:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国U22两战全胜，净胜球优势藏玄机，末轮生死战谁能全身而退？",
+      "link": "http://www.163.com/dy/article/K8RN9T580556B3RN.html",
+      "time": "9月7日 13:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22国足迎大胜，王钰栋一人造7球",
+      "link": "http://baijiahao.baidu.com/s?id=1842527913214378942&wfr=spider&for=pc",
+      "time": "9月6日 23:11",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "U22国足0:0澳大利亚轻松晋级",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842794276323037491&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "雪媚果瓜12",
+      "comment_time": "09-09 21:58",
+      "comment_content": "作者用心了，点个赞👍",
+      "user_location": "重庆",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:51:02",
+      "event_time": "9月9日 21:46"
+    },
+    {
+      "event_title": "U22国足0:0澳大利亚轻松晋级",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842794276323037491&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "百度网友8699a4905",
+      "comment_time": "09-10 09:26",
+      "comment_content": "现在进正赛都这么吃力了？",
+      "user_location": "江苏",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:51:02",
+      "event_time": "9月9日 21:46"
+    },
+    {
+      "event_title": "热议U22赢球靠王玉栋，非教练战术，对手仅4.7万人口",
+      "event_id": "event_2",
+      "event_url": "http://news.sohu.com/a/932652646_121683270",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:51:04",
+      "event_time": "9月7日 16:11"
+    },
+    {
+      "event_title": "中国U22两战全胜，净胜球优势藏玄机，末轮生死战谁能全身而退？",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8RN9T580556B3RN.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:51:06",
+      "event_time": "9月7日 13:12"
+    },
+    {
+      "event_title": "U22国足迎大胜，王钰栋一人造7球",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842527913214378942&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:51:23",
+      "event_time": "9月6日 23:11"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 5,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 14:50:43",
+    "level2_scrape_time": "2025-09-12 14:51:23"
+  }
+}

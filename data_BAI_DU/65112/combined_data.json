@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:30:41"
+  },
+  "core_event": {
+    "core_event_name": "比亚迪上半年财报",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:30:03"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "主要车企上半年财报:比亚迪吉利营收创新高",
+      "link": "http://www.sohu.com/a/932206412_122189",
+      "time": "9月5日 16:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "2025上半年财报:比亚迪净利=吉利+长城,蔚来单车亏10万",
+      "link": "http://baijiahao.baidu.com/s?id=1842386286727838797&wfr=spider&for=pc",
+      "time": "9月5日 09:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "比亚迪25年上半年财报中营收3713亿,净利润只有155亿",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6564629273585451509",
+      "time": "9月2日 16:41",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "主要车企上半年财报:比亚迪吉利营收创新高",
+      "event_id": "event_1",
+      "event_url": "http://www.sohu.com/a/932206412_122189",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:30:18",
+      "event_time": "9月5日 16:13"
+    },
+    {
+      "event_title": "2025上半年财报:比亚迪净利=吉利+长城,蔚来单车亏10万",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842386286727838797&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "a298024",
+      "comment_time": "09-07 19:12",
+      "comment_content": "赞一个",
+      "user_location": "广东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:30:35",
+      "event_time": "9月5日 09:41"
+    },
+    {
+      "event_title": "2025上半年财报:比亚迪净利=吉利+长城,蔚来单车亏10万",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842386286727838797&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "BubbleTea泡仔",
+      "comment_time": "09-05 15:06",
+      "comment_content": "比亚迪利润真猛，顶吉利长城之和。零跑也盈利了，行业前景看好。",
+      "user_location": "天津",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:30:35",
+      "event_time": "9月5日 09:41"
+    },
+    {
+      "event_title": "比亚迪25年上半年财报中营收3713亿,净利润只有155亿",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6564629273585451509",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:30:37",
+      "event_time": "9月2日 16:41"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 4,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 18:30:17",
+    "level2_scrape_time": "2025-09-12 18:30:37"
+  }
+}

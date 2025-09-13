@@ -1,0 +1,193 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:18:01"
+  },
+  "core_event": {
+    "core_event_name": "尤文引进奥蓬达取得进展",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:17:27"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "奥蓬达:尤文是意大利最重要的俱乐部之一,意甲的伊布激励了我",
+      "link": "http://www.163.com/dy/article/K973U7MU0529AQIE.html",
+      "time": "9月11日 21:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "尤文为莱比锡前锋奥蓬达在意甲登记合同",
+      "link": "http://www.163.com/dy/article/K8DRMM6T0529AQIE.html",
+      "time": "9月2日 02:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "莱比锡在等待敲定哈德,然后就会放行奥蓬达加盟尤文",
+      "link": "http://www.dongqiudi.com/articles/5349307.html",
+      "time": "9月2日 01:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "德天空:奥蓬达租借费400万欧+4700万欧强制买断,有浮动和二转",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hbom",
+      "time": "9月1日 15:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "尤文在对奥蓬达的竞争中处于领先地位",
+      "link": "http://www.163.com/dy/article/K8CKC7IJ0549BAP0.html",
+      "time": "9月1日 14:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "尤文已在和莱比锡就先租后买奥蓬达谈判",
+      "link": "http://k.sina.com.cn/article_2018499075_784fda0302002hb0k.html",
+      "time": "9月1日 06:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "奥蓬达可能租借加盟尤文，进意甲前三就4000万欧强制买断",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002haa2",
+      "time": "8月31日 21:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "莱比锡超2000万欧报价哈德尔 尤文引进奥蓬达取得进展",
+      "link": "http://www.163.com/dy/article/K87ROK8R0529AQIE.html",
+      "time": "8月30日 18:11",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "奥蓬达:尤文是意大利最重要的俱乐部之一,意甲的伊布激励了我",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K973U7MU0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:17:43",
+      "event_time": "9月11日 21:31"
+    },
+    {
+      "event_title": "尤文为莱比锡前锋奥蓬达在意甲登记合同",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8DRMM6T0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:17:45",
+      "event_time": "9月2日 02:06"
+    },
+    {
+      "event_title": "莱比锡在等待敲定哈德,然后就会放行奥蓬达加盟尤文",
+      "event_id": "event_3",
+      "event_url": "http://www.dongqiudi.com/articles/5349307.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:17:47",
+      "event_time": "9月2日 01:02"
+    },
+    {
+      "event_title": "德天空:奥蓬达租借费400万欧+4700万欧强制买断,有浮动和二转",
+      "event_id": "event_4",
+      "event_url": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hbom",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:17:49",
+      "event_time": "9月1日 15:16"
+    },
+    {
+      "event_title": "尤文在对奥蓬达的竞争中处于领先地位",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8CKC7IJ0549BAP0.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:17:51",
+      "event_time": "9月1日 14:38"
+    },
+    {
+      "event_title": "尤文已在和莱比锡就先租后买奥蓬达谈判",
+      "event_id": "event_6",
+      "event_url": "http://k.sina.com.cn/article_2018499075_784fda0302002hb0k.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:17:53",
+      "event_time": "9月1日 06:25"
+    },
+    {
+      "event_title": "奥蓬达可能租借加盟尤文，进意甲前三就4000万欧强制买断",
+      "event_id": "event_7",
+      "event_url": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002haa2",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:17:55",
+      "event_time": "8月31日 21:05"
+    },
+    {
+      "event_title": "莱比锡超2000万欧报价哈德尔 尤文引进奥蓬达取得进展",
+      "event_id": "event_8",
+      "event_url": "http://www.163.com/dy/article/K87ROK8R0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:17:57",
+      "event_time": "8月30日 18:11"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 8,
+    "total_comments": 8,
+    "events_with_comments": 8,
+    "level1_scrape_time": "2025-09-13 01:17:42",
+    "level2_scrape_time": "2025-09-13 01:17:57"
+  }
+}

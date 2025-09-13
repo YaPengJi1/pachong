@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "魅族22核心配置曝光",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:29:20"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "魅族22定档9月15日:外观、配置全公布",
+      "link": "http://app.myzaker.com/news/article.php?pk=68be44e38e9f091a413010ef",
+      "time": "9月8日 10:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "魅族22有动静了!即将进入倒计时",
+      "link": "http://www.163.com/dy/article/K8RP3PVH05568VTV.html",
+      "time": "9月7日 11:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "魅族22影像调教全力投入,只为最佳拍摄效果",
+      "link": "http://baijiahao.baidu.com/s?id=1842497261308376557&wfr=spider&for=pc",
+      "time": "9月6日 15:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "魅族22核心配置曝光,有望定位影像轻薄旗舰",
+      "link": "http://www.163.com/dy/article/K8NE29AC0511BE1V.html",
+      "time": "9月5日 19:20",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 14:29:34"
+}

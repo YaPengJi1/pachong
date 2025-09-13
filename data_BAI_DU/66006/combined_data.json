@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:25:15"
+  },
+  "core_event": {
+    "core_event_name": "柯文哲民众党动员接他回家",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:24:19"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "柯文哲交保?民众党动员:8日下午1时“一起接柯P回家”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7713251898274475682",
+      "time": "9月8日 10:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "民众党预告:今天下午1点,一起接柯文哲回家",
+      "link": "http://www.taihainet.com/news/twnews/twdnsz/2025-09-08/2841899.html",
+      "time": "9月8日 08:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "柯文哲交保白营变“两颗太阳”?周榆修:民众党主席不会改选",
+      "link": "http://baijiahao.baidu.com/s?id=1842434844478909210&wfr=spider&for=pc",
+      "time": "9月5日 22:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "柯文哲,可以回家了",
+      "link": "http://baijiahao.baidu.com/s?id=1842467786094670875&wfr=spider&for=pc",
+      "time": "9月5日 14:20",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "柯文哲交保?民众党动员:8日下午1时“一起接柯P回家”",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7713251898274475682",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:24:35",
+      "event_time": "9月8日 10:43"
+    },
+    {
+      "event_title": "民众党预告:今天下午1点,一起接柯文哲回家",
+      "event_id": "event_2",
+      "event_url": "http://www.taihainet.com/news/twnews/twdnsz/2025-09-08/2841899.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:24:37",
+      "event_time": "9月8日 08:44"
+    },
+    {
+      "event_title": "柯文哲交保白营变“两颗太阳”?周榆修:民众党主席不会改选",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842434844478909210&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "丨秋道灬丁次丶0c",
+      "comment_time": "09-06 16:09",
+      "comment_content": "希望柯文哲交保出来后继续和黄囯昌共同推动蓝白合，反台独推动国家统一才能振兴台湾。",
+      "user_location": "福建",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:24:55",
+      "event_time": "9月5日 22:34"
+    },
+    {
+      "event_title": "柯文哲,可以回家了",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842467786094670875&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:25:11",
+      "event_time": "9月5日 14:20"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 14:24:34",
+    "level2_scrape_time": "2025-09-12 14:25:11"
+  }
+}

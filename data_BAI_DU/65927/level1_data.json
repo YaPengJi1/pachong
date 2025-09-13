@@ -1,0 +1,108 @@
+{
+  "core_info": {
+    "core_event_name": "世预赛西班牙3-0大胜保加利亚",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:45:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "西班牙前锋奥亚萨瓦尔近5场国家队比赛造9球",
+      "link": "http://www.163.com/dy/article/K8UDM7HD0529AQIE.html",
+      "time": "9月8日 12:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "西班牙3-0大胜保加利亚",
+      "link": "http://cj.sina.com.cn/articles/view/5330749727/13dbcc91f00101i2iu",
+      "time": "9月7日 12:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "世预赛:西班牙3-0大胜,罗德里、卡瓦哈尔复出助球队完美开局",
+      "link": "http://www.163.com/dy/article/K8N8M97305562G28.html",
+      "time": "9月5日 17:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "世界杯预选赛:西班牙胜保加利亚",
+      "link": "http://baijiahao.baidu.com/s?id=1842412335595793222&wfr=spider&for=pc",
+      "time": "9月5日 16:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "(外代二线)足球——世界杯预选赛:西班牙胜保加利亚",
+      "link": "http://baijiahao.baidu.com/s?id=1842412303050187584&wfr=spider&for=pc",
+      "time": "9月5日 16:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "库库雷利亚:能打入自己在西班牙国家队的首球,我感到非常开心",
+      "link": "http://baijiahao.baidu.com/s?id=1842375519937382490&wfr=spider&for=pc",
+      "time": "9月5日 06:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "库库雷利亚晒模仿企鹅庆祝:3分是好的开始",
+      "link": "http://baijiahao.baidu.com/s?id=1842372878806165335&wfr=spider&for=pc",
+      "time": "9月5日 06:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "世预赛-西班牙3-0客胜保加利亚",
+      "link": "http://baijiahao.baidu.com/s?id=1842371455346898096&wfr=spider&for=pc",
+      "time": "9月5日 04:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "西班牙3-0保加利亚,奥亚萨瓦尔、库库雷利亚、梅里诺破门",
+      "link": "http://m.dongqiudi.com/article/5354863.html",
+      "time": "9月5日 04:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "西班牙3-0保加利亚，奥亚萨瓦尔、库库雷利亚破门",
+      "link": "http://www.dongqiudi.com/articles/5354820.html",
+      "time": "9月5日 03:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "西班牙历史5战保加利亚4胜1平,还打出过队史最大获胜比分13-0",
+      "link": "http://baijiahao.baidu.com/s?id=1842360044182845729&wfr=spider&for=pc",
+      "time": "9月5日 02:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "世预赛 保加利亚VS西班牙 3.0二串",
+      "link": "http://www.sohu.com/a/931220563_122450354",
+      "time": "9月2日 19:16",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 12,
+  "scrape_time": "2025-09-12 14:46:07"
+}

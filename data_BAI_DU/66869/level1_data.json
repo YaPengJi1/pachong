@@ -1,0 +1,124 @@
+{
+  "core_info": {
+    "core_event_name": "深圳楼市松绑政策",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:48:58"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "深圳楼市新政再放宽,购房政策大调整!",
+      "link": "http://sz.jiwu.com/news/5790613.html",
+      "time": "9月9日 15:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "广东深圳:新政提升楼市热度 看房量明显增加",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6669805318198081115",
+      "time": "9月9日 12:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "深圳分区限购政策再优化 楼市迎来重大转折点",
+      "link": "http://news.china.com/socialgd/10000169/20250908/48800877.html",
+      "time": "9月8日 11:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "深圳跟进,一线城市集体再松绑",
+      "link": "http://cj.sina.com.cn/articles/view/5902176990/15fcc12de02001pmcq",
+      "time": "9月8日 09:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "深圳:限购范围大幅缩小 新政推动购房需求释放",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13545683492584499423",
+      "time": "9月8日 08:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "深圳楼市新政力度超过京沪,将“吸引外地人群购房”",
+      "link": "http://gz.house.ifeng.com/news/2025_09_08-57163210_0.shtml",
+      "time": "9月8日 00:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "新政引爆深圳楼市,房企连夜抢滩",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12269183400862727116",
+      "time": "9月7日 20:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "深圳发布楼市新政,进一步松绑限购",
+      "link": "http://weibo.com/2891866325/Q3kl0AlfA",
+      "time": "9月6日 17:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "深圳官宣四大一线城市相继楼市“松限”",
+      "link": "http://baijiahao.baidu.com/s?id=1842502546470450554&wfr=spider&for=pc",
+      "time": "9月6日 16:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "深圳房地产新政来了,放开商品房限购!",
+      "link": "http://m.gmw.cn/toutiao/2025-09/06/content_1304137580.htm",
+      "time": "9月6日 14:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "深圳进一步放宽房地产限购",
+      "link": "http://cj.sina.com.cn/articles/view/5953190035/162d67893019016ubk",
+      "time": "9月6日 11:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "深圳8区进一步放松住房限购政策",
+      "link": "http://weibo.com/5182171545/Q3h669Bsd",
+      "time": "9月6日 09:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "深圳刚刚发布楼市重磅“松绑”新政",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4526887477642370977",
+      "time": "9月6日 08:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "深圳放开八区商品房限购",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31551234",
+      "time": "9月5日 23:54",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 14,
+  "scrape_time": "2025-09-12 10:49:13"
+}

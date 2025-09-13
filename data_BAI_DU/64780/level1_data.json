@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "惊雷-1亮相，成为三位一体战略核力量国家",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:31:41"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "轰-6已能打到美国,美防长:我们无意与中国发生冲突",
+      "link": "http://cj.sina.com.cn/articles/view/7879923851/1d5ae188b02001ipo2",
+      "time": "9月8日 13:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "“惊雷-1”首次亮相!它到底有多牛?",
+      "link": "http://news.sina.com.cn/c/2025-09-04/doc-infpkany3136318.shtml",
+      "time": "9月4日 19:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "“惊雷-1”空基远程导弹震撼亮相，台退将：解放军“核三位一体”最后一块拼图拼上了",
+      "link": "http://news.sina.com.cn/c/2025-09-04/doc-infphyzn3571388.shtml",
+      "time": "9月4日 12:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "全球唯一空射高超音速核导弹震撼亮相",
+      "link": "http://cj.sina.com.cn/articles/view/7295052889/1b2d1ac590200187p6",
+      "time": "9月4日 10:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "惊雷-1,巨浪-3首次亮相 军事专家: 我国成为为数不多拥有三位一体战略核力量的国家",
+      "link": "http://news.sina.com.cn/c/2025-09-03/doc-infpfthf9454547.shtml",
+      "time": "9月3日 21:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "惊雷-1、巨浪-3首次亮相",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31538894",
+      "time": "9月3日 17:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "惊雷-1亮相阅兵式 中国向“三位一体”核力量进发",
+      "link": "http://baijiahao.baidu.com/s?id=1842222957373570938&wfr=spider&for=pc",
+      "time": "9月3日 14:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "“惊雷-1”,震撼登场!",
+      "link": "http://www.gxnews.com.cn/staticpages/20250903/newgx68b7bb03-21840096.shtml",
+      "time": "9月3日 11:50",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-13 02:31:56"
+}

@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "曼联门将奥纳纳转会土超",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:43:16"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "奥纳纳赛季归队时本想与曼联续约,但阿莫林对他并不满意",
+      "link": "http://m.dongqiudi.com/article/5361268.html",
+      "time": "9月8日 17:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "曼联正在与特拉布宗体育谈奥纳纳,租借不含买断选项",
+      "link": "http://www.163.com/dy/article/K8QJB30H0529DS7F.html",
+      "time": "9月7日 00:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "土耳其媒体:主力门将离队后,特拉布宗体育求租奥纳纳",
+      "link": "http://baijiahao.baidu.com/s?id=1842301266230624826&wfr=spider&for=pc",
+      "time": "9月4日 11:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "曝土超向曼联求租奥纳纳",
+      "link": "http://www.163.com/dy/article/K8JIU3HH0529999M.html",
+      "time": "9月4日 07:40",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 09:43:30"
+}

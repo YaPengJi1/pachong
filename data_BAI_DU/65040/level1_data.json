@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "塞尔维亚男篮伤病情况",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:21:35"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "篮球欧洲杯淘汰赛对阵出炉",
+      "link": "http://www.titan24.com/publish/app/data/2025/09/05/568012/os_news.html",
+      "time": "9月5日 10:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "塞尔维亚媒体:阿夫拉莫维奇伤病并不严重 是否出战芬兰仍存疑",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hgh0",
+      "time": "9月4日 18:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "塞尔维亚男篮遭重创!博格丹确诊腿筋撕裂 将缺席欧洲杯余下比赛",
+      "link": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001t6v4",
+      "time": "8月31日 16:23",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 17:21:49"
+}

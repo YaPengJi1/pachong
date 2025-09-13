@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普关税政策被判非法",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:11:22"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "联邦法院裁决：大规模征税无效，特朗普要上诉至美国最高法",
+      "link": "http://cj.sina.com.cn/articles/view/7295052889/1b2d1ac5902001888o",
+      "time": "9月5日 11:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特朗普:坚决上诉,美国输不起",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11095310344958438002",
+      "time": "9月4日 16:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "联邦巡回上诉法院裁决对特朗普关税意味着什么?",
+      "link": "http://finance.sina.com.cn/stock/stockzmt/2025-09-03/doc-infpemns4730160.shtml",
+      "time": "9月3日 08:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美上诉法院裁决:特朗普实施的大部分全球关税政策越权违法",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13116944213909686773",
+      "time": "9月2日 09:24",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 22:11:36"
+}

@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:30:41"
+  },
+  "core_event": {
+    "core_event_name": "特朗普关税正式落地",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:30:14"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普或退税?千亿关税或退回,紧急上诉",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10800666977897399055",
+      "time": "9月8日 22:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特朗普对中印等国征收的关税被判定无效",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4333337579752450942",
+      "time": "9月8日 16:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美国或需退还半数已征关税",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12756121555854701428",
+      "time": "9月8日 10:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普全球关税正式落地,美国国内迎来黑暗一天",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5063979730090806717",
+      "time": "9月6日 12:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "联邦巡回上诉法院裁决对特朗普关税意味着什么?",
+      "link": "http://finance.sina.com.cn/stock/stockzmt/2025-09-03/doc-infpemns4730160.shtml",
+      "time": "9月3日 08:43",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "特朗普或退税?千亿关税或退回,紧急上诉",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10800666977897399055",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:30:29",
+      "event_time": "9月8日 22:30"
+    },
+    {
+      "event_title": "特朗普对中印等国征收的关税被判定无效",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4333337579752450942",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:30:31",
+      "event_time": "9月8日 16:57"
+    },
+    {
+      "event_title": "美国或需退还半数已征关税",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12756121555854701428",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:30:33",
+      "event_time": "9月8日 10:48"
+    },
+    {
+      "event_title": "特朗普全球关税正式落地,美国国内迎来黑暗一天",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5063979730090806717",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:30:35",
+      "event_time": "9月6日 12:40"
+    },
+    {
+      "event_title": "联邦巡回上诉法院裁决对特朗普关税意味着什么?",
+      "event_id": "event_5",
+      "event_url": "http://finance.sina.com.cn/stock/stockzmt/2025-09-03/doc-infpemns4730160.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:30:37",
+      "event_time": "9月3日 08:43"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 11:30:28",
+    "level2_scrape_time": "2025-09-12 11:30:37"
+  }
+}

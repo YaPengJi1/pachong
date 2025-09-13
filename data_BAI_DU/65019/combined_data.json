@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:03:51"
+  },
+  "core_event": {
+    "core_event_name": "河南暴雨预警",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:02:18"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "河南54个暴雨预警生效中!三地发布暴雨红色预警,许昌大暴雨破纪录",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31595056",
+      "time": "昨天 17:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "许昌、周口太康、扶沟发布暴雨红色预警",
+      "link": "http://baijiahao.baidu.com/s?id=1842927221800964959&wfr=spider&for=pc",
+      "time": "昨天 08:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "河南这些地区中到大雨!局部暴雨!警惕防范",
+      "link": "http://m.gmw.cn/2025-09/05/content_1304136422.htm",
+      "time": "9月5日 15:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "河南发布地质灾害气象风险黄色预警",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12527887731902233441",
+      "time": "9月5日 11:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "一地出现大暴雨,河南多家景区临时闭园",
+      "link": "http://baijiahao.baidu.com/s?id=1842322234148648599&wfr=spider&for=pc",
+      "time": "9月4日 16:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "河南多地发布暴雨预警信号",
+      "link": "http://weibo.com/1924558143/Q30Fq7X9P",
+      "time": "9月4日 15:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "河南发布地质灾害气象风险预警",
+      "link": "http://baijiahao.baidu.com/s?id=1842314276375211061&wfr=spider&for=pc",
+      "time": "9月4日 11:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "河南近期集中降雨警惕“小白虫”,恐迎繁殖高峰",
+      "link": "http://baijiahao.baidu.com/s?id=1842193987509001808&wfr=spider&for=pc",
+      "time": "9月3日 06:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "河南多地暴雨预警!9月2日至3日,这些城市需警惕!",
+      "link": "http://www.sohu.com/a/930616204_121976704",
+      "time": "9月1日 09:38",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "河南54个暴雨预警生效中!三地发布暴雨红色预警,许昌大暴雨破纪录",
+      "event_id": "event_1",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31595056",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:02:34",
+      "event_time": "昨天 17:26"
+    },
+    {
+      "event_title": "许昌、周口太康、扶沟发布暴雨红色预警",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842927221800964959&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:02:51",
+      "event_time": "昨天 08:58"
+    },
+    {
+      "event_title": "河南这些地区中到大雨!局部暴雨!警惕防范",
+      "event_id": "event_3",
+      "event_url": "http://m.gmw.cn/2025-09/05/content_1304136422.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:02:53",
+      "event_time": "9月5日 15:53"
+    },
+    {
+      "event_title": "河南发布地质灾害气象风险黄色预警",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12527887731902233441",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:02:55",
+      "event_time": "9月5日 11:20"
+    },
+    {
+      "event_title": "一地出现大暴雨,河南多家景区临时闭园",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842322234148648599&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:03:11",
+      "event_time": "9月4日 16:37"
+    },
+    {
+      "event_title": "河南多地发布暴雨预警信号",
+      "event_id": "event_6",
+      "event_url": "http://weibo.com/1924558143/Q30Fq7X9P",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:03:13",
+      "event_time": "9月4日 15:27"
+    },
+    {
+      "event_title": "河南发布地质灾害气象风险预警",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842314276375211061&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:03:29",
+      "event_time": "9月4日 11:04"
+    },
+    {
+      "event_title": "河南近期集中降雨警惕“小白虫”,恐迎繁殖高峰",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842193987509001808&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "电竞玩家雪碧",
+      "comment_time": "09-03 06:48",
+      "comment_content": "带伞出门哦，雨天虫子多小心点。凉快了就好啦！",
+      "user_location": "浙江",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:03:44",
+      "event_time": "9月3日 06:44"
+    },
+    {
+      "event_title": "河南多地暴雨预警!9月2日至3日,这些城市需警惕!",
+      "event_id": "event_9",
+      "event_url": "http://www.sohu.com/a/930616204_121976704",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:03:46",
+      "event_time": "9月1日 09:38"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 9,
+    "total_comments": 9,
+    "events_with_comments": 9,
+    "level1_scrape_time": "2025-09-12 17:02:33",
+    "level2_scrape_time": "2025-09-12 17:03:46"
+  }
+}

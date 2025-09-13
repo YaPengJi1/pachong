@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "勇士迎来五巨头时代，库里心愿终得满足",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:59:27"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "勇士新阵容基本成型!组“死亡五老”,助库里冲冠",
+      "link": "http://baijiahao.baidu.com/s?id=1842926930285462400&wfr=spider&for=pc",
+      "time": "昨天 08:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "勇士迎来五巨头时代,库里心愿终得满足",
+      "link": "http://news.sohu.com/a/933424490_121927959",
+      "time": "9月10日 07:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "库里420秒得41分",
+      "link": "http://baijiahao.baidu.com/s?id=1842611714743832621&wfr=spider&for=pc",
+      "time": "9月7日 21:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "勇士签霍福德组15人,死亡5老领衔,锋线短板待补",
+      "link": "http://m.sohu.com/a/932647708_120171272",
+      "time": "9月7日 17:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "39岁霍福德2年1170万加盟勇士",
+      "link": "http://k.sina.com.cn/article_6579233538_18827230200102k9v4.html",
+      "time": "9月7日 17:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "库里联手总冠军内线",
+      "link": "http://m.sohu.com/a/932638411_121705641",
+      "time": "9月7日 14:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "勇士迎来重要争冠拼图,他和库里堪称绝配",
+      "link": "http://app.myzaker.com/news/article.php?pk=68bb6bbd8e9f0926457a0b5e",
+      "time": "9月6日 07:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 09:59:41"
+}

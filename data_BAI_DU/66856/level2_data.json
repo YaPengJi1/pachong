@@ -1,0 +1,59 @@
+{
+  "core_event_name": "九三阅兵引发国际热议",
+  "comments": [
+    {
+      "event_title": "九三阅兵当天，菲澳加三国联军进入南海",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250909A06LBH00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:36:47",
+      "event_time": "9月9日 17:09"
+    },
+    {
+      "event_title": "九三阅兵过后,国际风向真的变了,外媒纷纷感慨:中国成为引领者",
+      "event_id": "event_2",
+      "event_url": "http://new.qq.com/rain/a/20250908A07HM700",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:36:49",
+      "event_time": "9月8日 18:27"
+    },
+    {
+      "event_title": "九三阅兵引发国际热议 各国反应不一",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=1481504137462084588",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:36:51",
+      "event_time": "9月4日 22:09"
+    },
+    {
+      "event_title": "九三阅兵对维护世界和平有何意义",
+      "event_id": "event_4",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_3908518736688424852",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:36:53",
+      "event_time": "9月4日 08:13"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 10:36:53"
+}

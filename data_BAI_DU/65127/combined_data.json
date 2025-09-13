@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:45:10"
+  },
+  "core_event": {
+    "core_event_name": "华为折叠屏手机发布",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:44:42"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "华为MateXTs上架即“秒光”",
+      "link": "http://finance.sina.cn/tech/2025-09-05/detail-infpmkhp7846653.d.html",
+      "time": "9月5日 13:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "华为首款折叠屏手机产自松山湖",
+      "link": "http://www.163.com/dy/article/K8MQ9LMI0553RS1E.html",
+      "time": "9月5日 13:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "华为秋季新品发布",
+      "link": "http://news.china.com/socialgd/10000169/20250905/48793073_1.html",
+      "time": "9月5日 11:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "华为新一代三折叠手机起售价降了2000元",
+      "link": "http://www.time-weekly.com/wap-article/323691",
+      "time": "9月4日 23:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "曝华为折叠屏手机国内市场份额超65%!小米仅第六",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13285617623276823761",
+      "time": "9月4日 21:34",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "华为MateXTs上架即“秒光”",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.cn/tech/2025-09-05/detail-infpmkhp7846653.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:44:57",
+      "event_time": "9月5日 13:48"
+    },
+    {
+      "event_title": "华为首款折叠屏手机产自松山湖",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8MQ9LMI0553RS1E.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:44:59",
+      "event_time": "9月5日 13:34"
+    },
+    {
+      "event_title": "华为秋季新品发布",
+      "event_id": "event_3",
+      "event_url": "http://news.china.com/socialgd/10000169/20250905/48793073_1.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:45:01",
+      "event_time": "9月5日 11:43"
+    },
+    {
+      "event_title": "华为新一代三折叠手机起售价降了2000元",
+      "event_id": "event_4",
+      "event_url": "http://www.time-weekly.com/wap-article/323691",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:45:03",
+      "event_time": "9月4日 23:54"
+    },
+    {
+      "event_title": "曝华为折叠屏手机国内市场份额超65%!小米仅第六",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=13285617623276823761",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:45:05",
+      "event_time": "9月4日 21:34"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 18:44:56",
+    "level2_scrape_time": "2025-09-12 18:45:05"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "歼20S震撼亮相阅兵",
+    "update_time": "更新至20250903",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:18:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "空中梯队,致敬胜利",
+      "link": "http://www.yangtse.com/news/yw/202509/t20250903_259031.html",
+      "time": "9月3日 21:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "歼-35A隐形战斗机首次在大型阅兵中亮相",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5005348496698457438",
+      "time": "9月3日 12:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "歼20S震撼亮相阅兵",
+      "link": "http://www.163.com/dy/article/K8HA0D9K0556C2X9.html",
+      "time": "9月3日 10:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "空中梯队战机起飞 即将飞越天安门广场 光荣接受检阅",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3184719525573638007",
+      "time": "9月3日 09:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "“歼-20家族”再添新成员 歼-20S亮相阅兵场",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 17:19:06"
+}

@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 15:08:57"
+  },
+  "core_event": {
+    "core_event_name": "广东暴雨",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:07:40"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "台风“塔巴”要来了，中央气象台发布预警，广东沿海即将迎来“风王”洗礼",
+      "link": "http://baijiahao.baidu.com/s?id=1842592100224691538&wfr=spider&for=pc",
+      "time": "9月7日 16:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "台风“塔巴”即将登陆,这些地方注意→",
+      "link": "http://baijiahao.baidu.com/s?id=1842583453267510243&wfr=spider&for=pc",
+      "time": "9月7日 13:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "台风“塔巴”要来了",
+      "link": "http://www.sxwbs.com/detail/99b6abfc23ba4e198c4224e89be2115b?t=MjAyNS0wOS0wNw==&contentType=1",
+      "time": "9月7日 12:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "广东68个台风预警信号生效中",
+      "link": "http://baijiahao.baidu.com/s?id=1842575799192248692&wfr=spider&for=pc",
+      "time": "9月7日 11:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "台风“塔巴”直扑广东",
+      "link": "http://finance.sina.com.cn/wm/2025-09-07/doc-infprser0967696.shtml",
+      "time": "9月7日 11:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "中央气象台 今年第16号台风“塔巴”生成",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEbolv9gyl0qcq7D71U6vV250907.shtml",
+      "time": "9月7日 02:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "广东台风大暴雨酝酿中 或发展为16号台风“塔巴”",
+      "link": "http://news.ycwb.com/ikinvkbtko/content_53644059.htm",
+      "time": "9月4日 17:19",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "台风“塔巴”要来了，中央气象台发布预警，广东沿海即将迎来“风王”洗礼",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842592100224691538&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:08:13",
+      "event_time": "9月7日 16:12"
+    },
+    {
+      "event_title": "台风“塔巴”即将登陆,这些地方注意→",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842583453267510243&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:08:28",
+      "event_time": "9月7日 13:46"
+    },
+    {
+      "event_title": "台风“塔巴”要来了",
+      "event_id": "event_3",
+      "event_url": "http://www.sxwbs.com/detail/99b6abfc23ba4e198c4224e89be2115b?t=MjAyNS0wOS0wNw==&contentType=1",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:08:30",
+      "event_time": "9月7日 12:33"
+    },
+    {
+      "event_title": "广东68个台风预警信号生效中",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842575799192248692&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "气质女神plus",
+      "comment_time": "09-07 12:01",
+      "comment_content": "台风要来了，大家注意安全少出门。提前防范风雨，保护好自己。",
+      "user_location": "陕西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:08:46",
+      "event_time": "9月7日 11:53"
+    },
+    {
+      "event_title": "台风“塔巴”直扑广东",
+      "event_id": "event_5",
+      "event_url": "http://finance.sina.com.cn/wm/2025-09-07/doc-infprser0967696.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:08:48",
+      "event_time": "9月7日 11:11"
+    },
+    {
+      "event_title": "中央气象台 今年第16号台风“塔巴”生成",
+      "event_id": "event_6",
+      "event_url": "http://tv.cctv.com/2025/09/07/VIDEbolv9gyl0qcq7D71U6vV250907.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:08:50",
+      "event_time": "9月7日 02:17"
+    },
+    {
+      "event_title": "广东台风大暴雨酝酿中 或发展为16号台风“塔巴”",
+      "event_id": "event_7",
+      "event_url": "http://news.ycwb.com/ikinvkbtko/content_53644059.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:08:52",
+      "event_time": "9月4日 17:19"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 15:07:54",
+    "level2_scrape_time": "2025-09-12 15:08:52"
+  }
+}

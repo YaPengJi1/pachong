@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "申京闪耀欧锦赛",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:27:20"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "申京闪耀欧锦赛我们为你加油",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=14712666509551668316",
+      "time": "9月6日 19:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "欧锦赛官推盛赞申京",
+      "link": "http://cj.sina.com.cn/articles/view/7880068820/1d5b04ed402001de6y",
+      "time": "9月6日 08:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "火记晒申京数据力挺MVP",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-04/doc-infphyzn3559224.shtml",
+      "time": "9月4日 11:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "申京vs葡萄牙集锦 全面发挥轰下20+7+5率队完成大胜",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2115047874319169643",
+      "time": "8月31日 07:49",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 23:27:35"
+}

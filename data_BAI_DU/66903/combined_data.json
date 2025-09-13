@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 09:50:35"
+  },
+  "core_event": {
+    "core_event_name": "比亚迪在欧洲车展亮剑",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:49:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "迪拜记者体验极氪9X，直呼“倍儿棒”“法哈么”",
+      "link": "http://baijiahao.baidu.com/s?id=1842952098681633510&wfr=spider&for=pc",
+      "time": "昨天 15:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "比亚迪亮剑慕尼黑:中国车企的欧洲反攻与西方焦虑",
+      "link": "http://cj.sina.com.cn/articles/view/3684007222/db957d36001016giu",
+      "time": "9月10日 11:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "2025慕尼黑车展,比亚迪在欧洲秀肌肉!",
+      "link": "http://new.qq.com/rain/a/20250910A02I4Z00",
+      "time": "9月10日 10:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "“达尔文式”竞争开启欧洲车市三大变化",
+      "link": "http://cj.sina.com.cn/articles/view/1887344341/707e96d502001nx4o",
+      "time": "9月5日 09:29",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "迪拜记者体验极氪9X，直呼“倍儿棒”“法哈么”",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842952098681633510&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:50:24",
+      "event_time": "昨天 15:34"
+    },
+    {
+      "event_title": "比亚迪亮剑慕尼黑:中国车企的欧洲反攻与西方焦虑",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/3684007222/db957d36001016giu",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:50:26",
+      "event_time": "9月10日 11:24"
+    },
+    {
+      "event_title": "2025慕尼黑车展,比亚迪在欧洲秀肌肉!",
+      "event_id": "event_3",
+      "event_url": "http://new.qq.com/rain/a/20250910A02I4Z00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:50:28",
+      "event_time": "9月10日 10:05"
+    },
+    {
+      "event_title": "“达尔文式”竞争开启欧洲车市三大变化",
+      "event_id": "event_4",
+      "event_url": "http://cj.sina.com.cn/articles/view/1887344341/707e96d502001nx4o",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:50:30",
+      "event_time": "9月5日 09:29"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 09:50:06",
+    "level2_scrape_time": "2025-09-12 09:50:30"
+  }
+}

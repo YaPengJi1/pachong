@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "U22国足大胜澳大利亚",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:59:57"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国队0-0平澳大利亚，7分11个净胜球小组第二出线",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10926976387212505350",
+      "time": "9月10日 10:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U22国足0比0暂平澳大利亚队",
+      "link": "http://baijiahao.baidu.com/s?id=1842791199240270866&wfr=spider&for=pc",
+      "time": "9月9日 20:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U23国足2-1东帝汶",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8542999103687288348",
+      "time": "9月5日 15:02",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 10:00:11"
+}

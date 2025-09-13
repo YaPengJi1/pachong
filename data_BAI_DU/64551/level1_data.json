@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "南向资金净流入，机构称外资存在超预期回流可能",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:02:29"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "南向资金年内净流入超万亿港元 大金融及科技股受追捧",
+      "link": "http://m.caijing.com.cn/article/202509/379345?target=blank",
+      "time": "9月4日 09:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "南向资金“扫货”港股,年内净流入超万亿港元",
+      "link": "http://cj.sina.com.cn/articles/view/1651428902/626ece2602001cz64",
+      "time": "9月3日 20:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "南向资金净买入超50亿港元",
+      "link": "http://www.cnstock.com/commonDetail/514737",
+      "time": "9月3日 15:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "南向资金净买入额达20亿港元",
+      "link": "http://www.nbd.com.cn/articles/2025-09-03/4047209.html",
+      "time": "9月3日 10:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "南向资金改变港股投资生态",
+      "link": "http://www.cnstock.com/commonDetail/514596",
+      "time": "9月3日 07:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "南向资金持续净流入，机构称外资存在超预期回流可能，港股科技板块有望获外资青睐",
+      "link": "http://baijiahao.baidu.com/s?id=1842117193699765218&wfr=spider&for=pc",
+      "time": "9月2日 10:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "南向资金加速流入,港股成增量资金市",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-13 02:02:44"
+}

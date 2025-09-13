@@ -1,0 +1,235 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:36:47"
+  },
+  "core_event": {
+    "core_event_name": "中国新型战略导弹震撼亮相",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:36:09"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "以色列空袭首都多哈，卡塔尔防空系统没有反应",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10186515422399254944",
+      "time": "昨天 16:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "鹰击导弹系列展示海空天一体化全域战力实现大区域吓阻",
+      "link": "http://cj.sina.com.cn/articles/view/1438357323/55bb974b001019xuu",
+      "time": "昨天 10:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "战略导弹新系列\"惊雷\"",
+      "link": "http://weibo.com/6005428381/Q3p3BaMPF",
+      "time": "9月7日 05:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国“青春版”鹰击-21导弹，让俄军“匕首”黯然失色",
+      "link": "http://cj.sina.com.cn/articles/view/7879923848/1d5ae188802001jn98",
+      "time": "9月6日 12:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "东风61震撼阅兵 撑起核保护伞 惊雷-1空射导弹颠覆反导规则",
+      "link": "http://www.163.com/dy/article/K8P61R1T0553RVN3.html",
+      "time": "9月6日 11:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "红旗29才是美军最想要的装备",
+      "link": "http://cj.sina.com.cn/articles/view/7879923848/1d5ae188802001jn2m",
+      "time": "9月6日 10:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "“惊雷-1”首次亮相!它到底有多牛?",
+      "link": "http://news.sina.com.cn/c/2025-09-04/doc-infpkany3136318.shtml",
+      "time": "9月4日 19:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "空中重锤惊雷-1登场",
+      "link": "http://cj.sina.com.cn/articles/view/7295052889/1b2d1ac590200187p6",
+      "time": "9月4日 10:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "惊雷-1,巨浪-3首次亮相 军事专家: 我国成为为数不多拥有三位一体战略核力量的国家",
+      "link": "http://news.sina.com.cn/c/2025-09-03/doc-infpfthf9454547.shtml",
+      "time": "9月3日 21:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "高超声速、防空反导、战略导弹集中亮相 展示我军强大战略威慑实力",
+      "link": "http://tv.cctv.com/2025/09/03/VIDEV1YyMyvbOyYJCr59F1Fy250903.shtml",
+      "time": "9月3日 21:06",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "以色列空袭首都多哈，卡塔尔防空系统没有反应",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10186515422399254944",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:36:24",
+      "event_time": "昨天 16:19"
+    },
+    {
+      "event_title": "鹰击导弹系列展示海空天一体化全域战力实现大区域吓阻",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/1438357323/55bb974b001019xuu",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:36:26",
+      "event_time": "昨天 10:15"
+    },
+    {
+      "event_title": "战略导弹新系列\"惊雷\"",
+      "event_id": "event_3",
+      "event_url": "http://weibo.com/6005428381/Q3p3BaMPF",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:36:28",
+      "event_time": "9月7日 05:33"
+    },
+    {
+      "event_title": "中国“青春版”鹰击-21导弹，让俄军“匕首”黯然失色",
+      "event_id": "event_4",
+      "event_url": "http://cj.sina.com.cn/articles/view/7879923848/1d5ae188802001jn98",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:36:30",
+      "event_time": "9月6日 12:11"
+    },
+    {
+      "event_title": "东风61震撼阅兵 撑起核保护伞 惊雷-1空射导弹颠覆反导规则",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8P61R1T0553RVN3.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:36:32",
+      "event_time": "9月6日 11:38"
+    },
+    {
+      "event_title": "红旗29才是美军最想要的装备",
+      "event_id": "event_6",
+      "event_url": "http://cj.sina.com.cn/articles/view/7879923848/1d5ae188802001jn2m",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:36:34",
+      "event_time": "9月6日 10:33"
+    },
+    {
+      "event_title": "“惊雷-1”首次亮相!它到底有多牛?",
+      "event_id": "event_7",
+      "event_url": "http://news.sina.com.cn/c/2025-09-04/doc-infpkany3136318.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:36:36",
+      "event_time": "9月4日 19:05"
+    },
+    {
+      "event_title": "空中重锤惊雷-1登场",
+      "event_id": "event_8",
+      "event_url": "http://cj.sina.com.cn/articles/view/7295052889/1b2d1ac590200187p6",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:36:38",
+      "event_time": "9月4日 10:58"
+    },
+    {
+      "event_title": "惊雷-1,巨浪-3首次亮相 军事专家: 我国成为为数不多拥有三位一体战略核力量的国家",
+      "event_id": "event_9",
+      "event_url": "http://news.sina.com.cn/c/2025-09-03/doc-infpfthf9454547.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:36:40",
+      "event_time": "9月3日 21:42"
+    },
+    {
+      "event_title": "高超声速、防空反导、战略导弹集中亮相 展示我军强大战略威慑实力",
+      "event_id": "event_10",
+      "event_url": "http://tv.cctv.com/2025/09/03/VIDEV1YyMyvbOyYJCr59F1Fy250903.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:36:42",
+      "event_time": "9月3日 21:06"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 10,
+    "total_comments": 10,
+    "events_with_comments": 10,
+    "level1_scrape_time": "2025-09-12 14:36:23",
+    "level2_scrape_time": "2025-09-12 14:36:42"
+  }
+}

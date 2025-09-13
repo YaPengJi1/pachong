@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "米兰阿德利转会利雅得青年",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:00:36"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "前伯恩利俱乐部队长布朗希尔加盟利雅得青年俱乐部",
+      "link": "http://weibo.com/7807540329/Q3Vs85ZTM",
+      "time": "9月10日 16:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "米兰中场阿德利700万欧转会利雅得青年",
+      "link": "http://k.sina.com.cn/article_2747143811_a3be1683040018kq8.html",
+      "time": "9月9日 08:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "阿德利加盟利雅得青年",
+      "link": "http://m.dongqiudi.com/article/5362059.html",
+      "time": "9月9日 04:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "利雅得青年人今日与阿德利团队谈判，已与米兰达成协议",
+      "link": "http://baijiahao.baidu.com/s?id=1842648445727455834&wfr=spider&for=pc",
+      "time": "9月8日 07:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "阿德利转会利雅得青年人协议初步达成",
+      "link": "http://www.sohu.com/a/932706170_121885030",
+      "time": "9月7日 23:26",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 11:00:50"
+}

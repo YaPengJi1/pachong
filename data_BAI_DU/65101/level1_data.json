@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "梅西在阿根廷国家队告别",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:19:14"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "梅西：难忘主场最后一战，衷心感谢所有球迷的支持",
+      "link": "http://www.dongqiudi.com/articles/5356426.html",
+      "time": "9月5日 23:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "梅西的世预赛主场谢幕:在留白中远去,把未来交给时间",
+      "link": "http://baijiahao.baidu.com/s?id=1842409936566942170&wfr=spider&for=pc",
+      "time": "9月5日 15:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "梅西确认:这是正赛主场告别 已实现梦想",
+      "link": "http://cj.sina.com.cn/articles/view/6645066132/18c13a9940200181mg",
+      "time": "9月5日 10:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "梅西可能迎来阿根廷国家队主场最后一战",
+      "link": "http://www.dongqiudi.com/articles/5354940.html",
+      "time": "9月5日 06:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "阿根廷vs委内瑞拉:梅西领衔,马斯坦托诺、德保罗出战",
+      "link": "http://www.163.com/dy/article/K8M1I5RT0549BAP0.html",
+      "time": "9月5日 06:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "阿根廷队发布对阵委内瑞拉海报 队长梅西单人出镜",
+      "link": "http://www.163.com/dy/article/K8L0IU0N0529AQIE.html",
+      "time": "9月4日 20:46",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 18:19:28"
+}

@@ -1,0 +1,59 @@
+{
+  "core_event_name": "日本与美国签署投资计划备忘录",
+  "comments": [
+    {
+      "event_title": "日本政府同意向美国投资5500亿美元 深化经贸合作",
+      "event_id": "event_1",
+      "event_url": "http://news.china.com/socialgd/10000169/20250905/48793770.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:27:55",
+      "event_time": "9月5日 14:00"
+    },
+    {
+      "event_title": "美国商务部长：与日本达成的贸易协议为美国提供了5500亿美元资金",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/2025-09-05/detail-infpmcyk6041359.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:27:57",
+      "event_time": "9月5日 10:26"
+    },
+    {
+      "event_title": "日本和美国发布5500亿美元投资计划的谅解备忘录",
+      "event_id": "event_3",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_3967613865817939295",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:27:59",
+      "event_time": "9月5日 09:54"
+    },
+    {
+      "event_title": "日本经济再生大臣赤泽亮正:已签署日本投资方案备忘录,将忠实、迅速",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842380774783493353&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:28:16",
+      "event_time": "9月5日 08:07"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 21:28:16"
+}

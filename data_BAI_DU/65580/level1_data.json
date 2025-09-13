@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "泰国新总理靠“背刺”上位",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:16:57"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "泰国新总理靠“背刺”上位?佩通坦喊话为泰党,他信家族仍未认输",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9844771549217440743",
+      "time": "9月6日 16:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "泰国新总理刚上台,说了一句中国话,获中国网友狂赞",
+      "link": "http://www.163.com/dy/article/K8P1VLGP054679X8.html",
+      "time": "9月6日 10:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "泰国选出新总理",
+      "link": "http://baijiahao.baidu.com/s?id=1842423868633893518&wfr=spider&for=pc",
+      "time": "9月5日 17:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "泰国选举结果出炉，阿努廷将出任泰国总理",
+      "link": "http://cj.sina.com.cn/articles/view/1784473157/6a5ce64502003aji2",
+      "time": "9月5日 17:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "泰国将迎来华裔总理?对华态度不简单",
+      "link": "http://www.163.com/dy/article/K8M58QKF0556561T.html",
+      "time": "9月5日 07:27",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 02:17:11"
+}

@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:26:22"
+  },
+  "core_event": {
+    "core_event_name": "阅兵新亮相装备",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:25:56"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "阅兵场上惊现“土豪金”!这一装备到底是啥?",
+      "link": "http://news.southcn.com/node_179d29f1ce/748c8919ba.shtml",
+      "time": "9月5日 12:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "LY-1亮相阅兵式,外媒:“全球最强激光防空系统”",
+      "link": "http://www.163.com/dy/article/K8MC123F055040N3.html",
+      "time": "9月5日 09:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "台退役将领观大陆阅兵自嘲“军盲”",
+      "link": "http://www.163.com/dy/article/K8KF4V1K055616X1.html",
+      "time": "9月4日 15:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "9.3阅兵新亮相!这些国之重器让美国也望尘莫及,已实现量产!",
+      "link": "http://www.163.com/dy/article/K8I4QNEK0553TFC0.html",
+      "time": "9月3日 18:02",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "阅兵场上惊现“土豪金”!这一装备到底是啥?",
+      "event_id": "event_1",
+      "event_url": "http://news.southcn.com/node_179d29f1ce/748c8919ba.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:26:12",
+      "event_time": "9月5日 12:07"
+    },
+    {
+      "event_title": "LY-1亮相阅兵式,外媒:“全球最强激光防空系统”",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8MC123F055040N3.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:26:14",
+      "event_time": "9月5日 09:25"
+    },
+    {
+      "event_title": "台退役将领观大陆阅兵自嘲“军盲”",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8KF4V1K055616X1.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:26:16",
+      "event_time": "9月4日 15:41"
+    },
+    {
+      "event_title": "9.3阅兵新亮相!这些国之重器让美国也望尘莫及,已实现量产!",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8I4QNEK0553TFC0.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:26:18",
+      "event_time": "9月3日 18:02"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 17:26:10",
+    "level2_scrape_time": "2025-09-12 17:26:18"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core_event_name": "A股大消息，证监会发布重要公告",
+  "comments": [
+    {
+      "event_title": "A股：无需等周五开盘了，种种迹象表明，明天股市很可能这样走",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8K2F1CB053735CL.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:09:30",
+      "event_time": "9月4日 15:03"
+    },
+    {
+      "event_title": "A股:市场突发四条消息,如何影响下周A股表现?",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12607257463673477216",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:09:32",
+      "event_time": "8月31日 11:22"
+    },
+    {
+      "event_title": "A股大消息!证监会刚刚发布",
+      "event_id": "event_3",
+      "event_url": "http://finance.stockstar.com/IG2025082900044563.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:09:34",
+      "event_time": "8月29日 20:45"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 18:09:34"
+}

@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 19:33:06"
+  },
+  "core_event": {
+    "core_event_name": "美国就业数据恶化",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:32:09"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美就业数据恶化,美联储或开启新一轮降息",
+      "link": "http://baijiahao.baidu.com/s?id=1842490987618348657&wfr=spider&for=pc",
+      "time": "9月6日 13:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美国就业市场频传走弱信号 美联储利率路径或更为曲折",
+      "link": "http://finance.eastmoney.com/a/202509053506226329.html",
+      "time": "9月5日 17:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美国黑人失业率攀升至近三年新高 引发经济预警",
+      "link": "http://baijiahao.baidu.com/s?id=1842047577270748975&wfr=spider&for=pc",
+      "time": "9月1日 15:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "全球经济展望:美联储会议前夕,预计美国就业增长将趋于平缓",
+      "link": "http://finance.sina.com.cn/world/2025-08-31/doc-infnvitw2687290.shtml",
+      "time": "8月31日 04:50",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "美就业数据恶化,美联储或开启新一轮降息",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842490987618348657&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:32:41",
+      "event_time": "9月6日 13:25"
+    },
+    {
+      "event_title": "美国就业市场频传走弱信号 美联储利率路径或更为曲折",
+      "event_id": "event_2",
+      "event_url": "http://finance.eastmoney.com/a/202509053506226329.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:32:43",
+      "event_time": "9月5日 17:50"
+    },
+    {
+      "event_title": "美国黑人失业率攀升至近三年新高 引发经济预警",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842047577270748975&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "Multiman的旋风",
+      "comment_time": "09-02 13:48",
+      "comment_content": "失业率飙升根源在系统性歧视，历史数据黑人就业障碍远超白人，政策必须改革才能治本。",
+      "user_location": "山东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:33:00",
+      "event_time": "9月1日 15:57"
+    },
+    {
+      "event_title": "全球经济展望:美联储会议前夕,预计美国就业增长将趋于平缓",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.com.cn/world/2025-08-31/doc-infnvitw2687290.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:33:02",
+      "event_time": "8月31日 04:50"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 19:32:23",
+    "level2_scrape_time": "2025-09-12 19:33:02"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "护士全马夺冠后续，喊话调休",
+    "update_time": "更新至20250903",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:21:57"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "护士哭诉调休难后续,多同事曝猛料,卫健委回应,丈夫称4天连休",
+      "link": "http://www.163.com/dy/article/K8HK7D7Q05566X2U.html",
+      "time": "9月3日 13:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "“最快女护士”马拉松夺冠后哭求调休,同行:同事、科室的牺牲应该被看见",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31530816",
+      "time": "9月2日 19:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "“最快女护士”马拉松夺冠后哭求领导调休遭网暴,所属MCN回应",
+      "link": "http://baijiahao.baidu.com/s?id=1842148032563855365&wfr=spider&for=pc",
+      "time": "9月2日 16:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "护士全马夺冠后续，三个月参赛十次，喊话调休惹争议",
+      "link": "http://www.163.com/dy/article/K8EP2MH40556E2D3.html",
+      "time": "9月2日 10:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "哈尔滨马拉松张水华哭求调休参赛",
+      "link": "http://cj.sina.com.cn/articles/view/7879923942/1d5ae18e602001l4vu",
+      "time": "9月1日 21:39",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 23:22:11"
+}

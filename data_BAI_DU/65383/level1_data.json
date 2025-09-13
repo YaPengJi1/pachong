@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "国足亚预赛首战对阵东帝汶",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:10:29"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "CCTV5直播!亚预赛首战,国足迎战东帝汶,力争6-0胜",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5356415030513897136",
+      "time": "9月5日 16:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "国青横扫东帝汶，十四球零封劲敌，残暴战绩引爆关注",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17411905014574056333",
+      "time": "9月5日 01:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U22男足亚预赛首战对阵东帝汶，面临关键问题是磨合时间短",
+      "link": "http://baijiahao.baidu.com/s?id=1842213571328181266&wfr=spider&for=pc",
+      "time": "9月3日 11:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22国足战东帝汶：不仅要赢，还要完成这四大任务",
+      "link": "http://www.163.com/dy/article/K8H3DLEQ0556DLXG.html",
+      "time": "9月3日 08:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 23:10:43"
+}

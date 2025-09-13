@@ -1,0 +1,72 @@
+{
+  "core_event_name": "腾讯AI应用在重庆智博会首发",
+  "comments": [
+    {
+      "event_title": "腾讯地图即将发布AI新品",
+      "event_id": "event_1",
+      "event_url": "http://www.iyiou.com/news/202509111108689",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:54:34",
+      "event_time": "9月10日 15:42"
+    },
+    {
+      "event_title": "重庆 2025世界智能产业博览会开幕",
+      "event_id": "event_2",
+      "event_url": "http://tv.cctv.com/2025/09/06/VIDENVIk7CJjOwiyKoVWVvSe250906.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:54:36",
+      "event_time": "9月6日 05:47"
+    },
+    {
+      "event_title": "2025世界智能产业博览会开幕",
+      "event_id": "event_3",
+      "event_url": "http://news.cctv.com/2025/09/05/ARTIUAt4fw9sGXx4AP2bJh8X250905.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:54:38",
+      "event_time": "9月5日 19:32"
+    },
+    {
+      "event_title": "腾讯携多项AI应用“首发”重庆智博会",
+      "event_id": "event_4",
+      "event_url": "http://www.donews.com/news/detail/4/6078172.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:54:40",
+      "event_time": "9月5日 17:20"
+    },
+    {
+      "event_title": "中国移动“AI+”智慧应用亮相2025智博会",
+      "event_id": "event_5",
+      "event_url": "http://cq.people.com.cn/BIG5/n2/2025/0905/c365407-41342857.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:54:42",
+      "event_time": "9月5日 13:42"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-13 00:54:42"
+}

@@ -1,0 +1,100 @@
+{
+  "core_info": {
+    "core_event_name": "超300名韩国公民在美被抓捕",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:27:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "超300名韩国人在美“非法打工”被捕 张延廷:完全配合美国就没有筹码了",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9304016350933302445",
+      "time": "9月9日 15:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "超300名韩国公民在美被抓捕 韩媒:韩外长将赴美协商 确保韩国公民早日回国",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5701011130291209109",
+      "time": "9月9日 11:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "超300名韩国公民在美被抓捕 韩国外长启程赴美进行磋商",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEees3e9xe5zg0MUDplXoD250908.shtml",
+      "time": "9月8日 21:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美国怒抓300韩国人",
+      "link": "http://new.qq.com/rain/a/20250908V06SQT00",
+      "time": "9月8日 17:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "超300名韩国公民在美被抓捕 韩媒:被捕公民最早将于10日乘包机返韩",
+      "link": "http://tv.cctv.com/2025/09/08/VIDElOX9oxws2ZMk06jIdlNd250908.shtml",
+      "time": "9月8日 17:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "美执法局突袭韩企，475人被捕，美韩关系受考验",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6562976294631620711",
+      "time": "9月8日 14:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "美国移民执法部门抓捕475人 大多来自韩国 韩国政府紧急磋商 回应公民在美被捕事件",
+      "link": "http://tv.cctv.com/2025/09/08/VIDElTyiGgpU1QagMw9Zuf9N250908.shtml",
+      "time": "9月8日 05:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "美国移民执法部门抓捕475人 大多来自韩国·媒体分析 事件或引发美两项政策矛盾并影响美韩关系",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEYSD8bUe5Sii99QzeY99P250907.shtml",
+      "time": "9月7日 18:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "超300名韩国人在美被抓 韩国政府紧急商讨对策",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEFan57D0bdEhUazBxXjkX250907.shtml",
+      "time": "9月7日 12:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "超300名韩国人在美被抓,李在明急了",
+      "link": "http://finance.sina.com.cn/jjxw/2025-09-07/doc-infprsep5667592.shtml",
+      "time": "9月7日 10:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "300多名韩国人在美被捕 韩国政府紧急商讨对策",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEkB86FJBE8NehwsnETMOl250907.shtml",
+      "time": "9月7日 08:48",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 11,
+  "scrape_time": "2025-09-12 11:27:46"
+}

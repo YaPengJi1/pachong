@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "德转列今夏身价上涨比例榜",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:28:08"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "德转列今夏重磅溢价引援",
+      "link": "http://www.163.com/dy/article/K8SOOFEU0529AQIE.html",
+      "time": "9月7日 21:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "德转列切尔西队内薪资榜",
+      "link": "http://www.163.com/dy/article/K8SHDSGT0529AQIE.html",
+      "time": "9月7日 18:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "德转列今夏身价上涨比例榜:桑德兰+69%列第7,汉堡、萨索洛在列",
+      "link": "http://www.sohu.com/a/932526264_362070",
+      "time": "9月7日 01:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "德转列今夏U18最贵转会榜:马斯坦托诺居首,埃斯特旺&莱奥尼在列",
+      "link": "http://www.163.com/dy/article/K8NCIJ730529AQIE.html",
+      "time": "9月5日 18:54",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 10:28:22"
+}

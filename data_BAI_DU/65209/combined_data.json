@@ -1,0 +1,219 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 20:22:36"
+  },
+  "core_event": {
+    "core_event_name": "陈雨菲世锦赛伤情出炉",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:21:04"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "陈雨菲深夜就医，原因找到，张军不该犯错",
+      "link": "http://cj.sina.com.cn/articles/view/1835372902/6d65916600101a8t0",
+      "time": "9月6日 13:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "陈雨菲伤情出炉，将暂别赛场",
+      "link": "http://baijiahao.baidu.com/s?id=1842202920169472862&wfr=spider&for=pc",
+      "time": "9月3日 09:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "陈雨菲公布伤情:右脚踝踝后撞击并伴少量骨髓水肿,前距腓韧带部分撕裂,跟腓、三角韧带1级损伤",
+      "link": "http://baijiahao.baidu.com/s?id=1842163724006236090&wfr=spider&for=pc",
+      "time": "9月2日 22:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "陈雨菲伤情公布:右踝韧带损伤、部分撕裂,需休养三周",
+      "link": "http://baijiahao.baidu.com/s?id=1842155311403310158&wfr=spider&for=pc",
+      "time": "9月2日 20:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "陈雨菲坐轮椅现身,伤情公布:跟腓、三角韧带1级损伤",
+      "link": "http://baijiahao.baidu.com/s?id=1842154536660578099&wfr=spider&for=pc",
+      "time": "9月2日 20:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "羽毛球世锦赛中国女单折戟，卫冕冠军惨遭淘汰",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8097782198259555088",
+      "time": "9月1日 12:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "陈雨菲赛后被搀扶离场",
+      "link": "http://cj.sina.com.cn/articles/view/2289815244/887bcecc00102myj8",
+      "time": "8月31日 10:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "陈雨菲3年前决赛负山口茜，个人大满贯只差世锦赛",
+      "link": "http://k.sina.com.cn/article_2018499075_784fda0302002h8jc.html",
+      "time": "8月30日 21:52",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "陈雨菲深夜就医，原因找到，张军不该犯错",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/1835372902/6d65916600101a8t0",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:21:19",
+      "event_time": "9月6日 13:24"
+    },
+    {
+      "event_title": "陈雨菲伤情出炉，将暂别赛场",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842202920169472862&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "快手刷boss",
+      "comment_time": "09-03 09:13",
+      "comment_content": "陈雨菲带伤拼搏真坚韧，好好休养早日康复。等你归来再创佳绩。",
+      "user_location": "重庆",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:21:37",
+      "event_time": "9月3日 09:06"
+    },
+    {
+      "event_title": "陈雨菲公布伤情:右脚踝踝后撞击并伴少量骨髓水肿,前距腓韧带部分撕裂,跟腓、三角韧带1级损伤",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842163724006236090&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:21:53",
+      "event_time": "9月2日 22:43"
+    },
+    {
+      "event_title": "陈雨菲伤情公布:右踝韧带损伤、部分撕裂,需休养三周",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842155311403310158&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "丙夏dE",
+      "comment_time": "09-03 11:34",
+      "comment_content": "雨菲大帝不愧为中国羽毛球一姐",
+      "user_location": "上海",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:22:09",
+      "event_time": "9月2日 20:30"
+    },
+    {
+      "event_title": "陈雨菲伤情公布:右踝韧带损伤、部分撕裂,需休养三周",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842155311403310158&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "全宇宙的爱恋",
+      "comment_time": "09-02 20:57",
+      "comment_content": "陈雨菲带伤拼搏够硬气，安心养伤期待赛场再见。",
+      "user_location": "上海",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 20:22:09",
+      "event_time": "9月2日 20:30"
+    },
+    {
+      "event_title": "陈雨菲伤情公布:右踝韧带损伤、部分撕裂,需休养三周",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842155311403310158&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "美梅晨曦",
+      "comment_time": "09-03 06:45",
+      "comment_content": "遗憾，要不然这次能够获得冠军",
+      "user_location": "河北",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 20:22:09",
+      "event_time": "9月2日 20:30"
+    },
+    {
+      "event_title": "陈雨菲坐轮椅现身,伤情公布:跟腓、三角韧带1级损伤",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842154536660578099&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "赵sir的sing天",
+      "comment_time": "09-02 21:18",
+      "comment_content": "陈雨菲真坚强，带伤拼搏到亚军。乐观面对伤情，明年巴黎再战！",
+      "user_location": "湖南",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 20:22:26",
+      "event_time": "9月2日 20:17"
+    },
+    {
+      "event_title": "羽毛球世锦赛中国女单折戟，卫冕冠军惨遭淘汰",
+      "event_id": "event_6",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8097782198259555088",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:22:28",
+      "event_time": "9月1日 12:32"
+    },
+    {
+      "event_title": "陈雨菲赛后被搀扶离场",
+      "event_id": "event_7",
+      "event_url": "http://cj.sina.com.cn/articles/view/2289815244/887bcecc00102myj8",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:22:30",
+      "event_time": "8月31日 10:58"
+    },
+    {
+      "event_title": "陈雨菲3年前决赛负山口茜，个人大满贯只差世锦赛",
+      "event_id": "event_8",
+      "event_url": "http://k.sina.com.cn/article_2018499075_784fda0302002h8jc.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:22:32",
+      "event_time": "8月30日 21:52"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 8,
+    "total_comments": 10,
+    "events_with_comments": 8,
+    "level1_scrape_time": "2025-09-12 20:21:18",
+    "level2_scrape_time": "2025-09-12 20:22:32"
+  }
+}

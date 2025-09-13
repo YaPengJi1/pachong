@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:52:21"
+  },
+  "core_event": {
+    "core_event_name": "京东、阿里、美团折扣超市大战",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:51:35"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "外卖补贴“大战”刚停,三巨头再战线下折扣超市",
+      "link": "http://news.dayoo.com/finance/202509/08/171077_54869869.htm",
+      "time": "9月8日 06:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "京东美团阿里，“三大巨头”展开线下 “拼多多模式”?",
+      "link": "http://cj.sina.com.cn/articles/view/6531603564/185505c6c00101cciw",
+      "time": "9月5日 10:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "京东阿里美团再进折扣超市巷战",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b81d181bc8e06123000003",
+      "time": "9月3日 18:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "京东、阿里、美团“生态卡位”折扣超市",
+      "link": "http://www.nbd.com.cn/articles/2025-09-02/4046696.html",
+      "time": "9月2日 22:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "京东盒马美团齐开线下折扣超市,生鲜价格战打响",
+      "link": "http://baijiahao.baidu.com/s?id=1842149818488805832&wfr=spider&for=pc",
+      "time": "9月2日 18:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "外卖战还没停，线下折扣烽烟又起，京东、盒马、美团“巷战”折扣超市",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b63a69b15ec037da514c89",
+      "time": "9月2日 08:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "阿里巴巴、京东、美团的“三强战”升温",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "外卖补贴“大战”刚停,三巨头再战线下折扣超市",
+      "event_id": "event_1",
+      "event_url": "http://news.dayoo.com/finance/202509/08/171077_54869869.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:51:50",
+      "event_time": "9月8日 06:50"
+    },
+    {
+      "event_title": "京东美团阿里，“三大巨头”展开线下 “拼多多模式”?",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/6531603564/185505c6c00101cciw",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:51:52",
+      "event_time": "9月5日 10:13"
+    },
+    {
+      "event_title": "京东阿里美团再进折扣超市巷战",
+      "event_id": "event_3",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68b81d181bc8e06123000003",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:51:54",
+      "event_time": "9月3日 18:48"
+    },
+    {
+      "event_title": "京东、阿里、美团“生态卡位”折扣超市",
+      "event_id": "event_4",
+      "event_url": "http://www.nbd.com.cn/articles/2025-09-02/4046696.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:51:56",
+      "event_time": "9月2日 22:11"
+    },
+    {
+      "event_title": "京东盒马美团齐开线下折扣超市,生鲜价格战打响",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842149818488805832&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:52:13",
+      "event_time": "9月2日 18:29"
+    },
+    {
+      "event_title": "外卖战还没停，线下折扣烽烟又起，京东、盒马、美团“巷战”折扣超市",
+      "event_id": "event_6",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68b63a69b15ec037da514c89",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:52:15",
+      "event_time": "9月2日 08:29"
+    },
+    {
+      "event_title": "阿里巴巴、京东、美团的“三强战”升温",
+      "event_id": "event_7",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:52:17",
+      "event_time": "1970年"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 17:51:49",
+    "level2_scrape_time": "2025-09-12 17:52:17"
+  }
+}

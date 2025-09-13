@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 15:08:13"
+  },
+  "core_event": {
+    "core_event_name": "U22国足亚洲杯决赛圈席位争夺",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:07:49"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "澳大利亚狂胜北马里亚纳,国足小胜东帝汶,亚预赛D组积分榜刷新",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16830087503752234559",
+      "time": "9月7日 12:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U22国足将帅:全队状态良好,力争亚洲杯决赛圈席位",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11226820290328829982",
+      "time": "9月6日 00:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U22激战澳大利亚,北马里亚纳惨败,国足同组对决",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6539935372563207524",
+      "time": "9月4日 23:24",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "澳大利亚狂胜北马里亚纳,国足小胜东帝汶,亚预赛D组积分榜刷新",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=16830087503752234559",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:08:05",
+      "event_time": "9月7日 12:15"
+    },
+    {
+      "event_title": "U22国足将帅:全队状态良好,力争亚洲杯决赛圈席位",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11226820290328829982",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:08:07",
+      "event_time": "9月6日 00:16"
+    },
+    {
+      "event_title": "U22激战澳大利亚,北马里亚纳惨败,国足同组对决",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6539935372563207524",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:08:09",
+      "event_time": "9月4日 23:24"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 15:08:04",
+    "level2_scrape_time": "2025-09-12 15:08:09"
+  }
+}

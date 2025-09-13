@@ -1,0 +1,59 @@
+{
+  "core_event_name": "澳门冠军赛国乒男单悬",
+  "comments": [
+    {
+      "event_title": "澳门冠军赛男单签位",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250909A00UE200",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:35:21",
+      "event_time": "9月9日 01:16"
+    },
+    {
+      "event_title": "澳门冠军赛签表出炉",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842658534494749597&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "心理咨询师熊猫",
+      "comment_time": "09-08 14:11",
+      "comment_content": "签运真不理想，全员首轮风险高，但相信国乒小伙子们会全力以赴拼出精彩。",
+      "user_location": "北京",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 14:35:39",
+      "event_time": "9月8日 09:48"
+    },
+    {
+      "event_title": "WTT澳门冠军赛签表出炉",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842601928530123369&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:35:55",
+      "event_time": "9月7日 18:48"
+    },
+    {
+      "event_title": "WTT澳门冠军赛9月9日开赛，林昀儒亮相倒计时海报",
+      "event_id": "event_4",
+      "event_url": "http://k.sina.com.cn/article_6320391439_178b9850f040016tx6.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:35:57",
+      "event_time": "9月5日 09:39"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 14:35:57"
+}

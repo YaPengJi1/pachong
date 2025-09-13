@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:31:31"
+  },
+  "core_event": {
+    "core_event_name": "海外侨胞相约“九三”",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:30:49"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "第三届港澳台侨企业(四川)发展大会在蓉举办",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5661873189849497901",
+      "time": "9月6日 21:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "海外人士聚焦九三纪念大会:展现坚实力量 坚定和平决心",
+      "link": "http://www.ts.cn/xwzx/gnxw/202509/t20250905_30481017.shtml",
+      "time": "9月5日 12:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "纪念大会参会侨胞:弘扬伟大抗战精神 传递世界和平愿景",
+      "link": "http://baijiahao.baidu.com/s?id=1842305389596199335&wfr=spider&for=pc",
+      "time": "9月4日 12:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "海外侨胞相约“九三”:缅怀遇难同胞,呼吁世界和平",
+      "link": "http://news.dayoo.com/china/202509/04/139997_54868883.htm",
+      "time": "9月4日 10:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "5位侨胞代表追忆烽火岁月,传承家国情怀、守护和平记忆",
+      "link": "http://news.yunnan.cn/system/2025/09/02/033621064.shtml",
+      "time": "9月2日 14:48",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "第三届港澳台侨企业(四川)发展大会在蓉举办",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5661873189849497901",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:31:04",
+      "event_time": "9月6日 21:22"
+    },
+    {
+      "event_title": "海外人士聚焦九三纪念大会:展现坚实力量 坚定和平决心",
+      "event_id": "event_2",
+      "event_url": "http://www.ts.cn/xwzx/gnxw/202509/t20250905_30481017.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:31:06",
+      "event_time": "9月5日 12:25"
+    },
+    {
+      "event_title": "纪念大会参会侨胞:弘扬伟大抗战精神 传递世界和平愿景",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842305389596199335&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:31:23",
+      "event_time": "9月4日 12:15"
+    },
+    {
+      "event_title": "海外侨胞相约“九三”:缅怀遇难同胞,呼吁世界和平",
+      "event_id": "event_4",
+      "event_url": "http://news.dayoo.com/china/202509/04/139997_54868883.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:31:25",
+      "event_time": "9月4日 10:55"
+    },
+    {
+      "event_title": "5位侨胞代表追忆烽火岁月,传承家国情怀、守护和平记忆",
+      "event_id": "event_5",
+      "event_url": "http://news.yunnan.cn/system/2025/09/02/033621064.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:31:27",
+      "event_time": "9月2日 14:48"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 18:31:03",
+    "level2_scrape_time": "2025-09-12 18:31:27"
+  }
+}

@@ -1,0 +1,403 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:27:28"
+  },
+  "core_event": {
+    "core_event_name": "谷歌反垄断案获有利裁决",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:25:25"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "最高人民法院发布2025年人民法院反垄断典型案例",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31593049",
+      "time": "9月10日 21:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "谷歌反垄断案获有利裁决，CEO皮查伊白宫晚宴当面致谢特朗普",
+      "link": "http://k.sina.com.cn/article_5953466437_162dab04506709ckau.html",
+      "time": "9月5日 19:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "无需剥离浏览器 谷歌反垄断案躲过一劫",
+      "link": "http://baijiahao.baidu.com/s?id=1842383261913295158&wfr=spider&for=pc",
+      "time": "9月5日 00:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "谷歌市值一夜涨出2个寒武纪 赢下世纪反垄断大案 Chrome和安卓都保住了",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31534950",
+      "time": "9月4日 14:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "谷歌取得“罕见胜利”!股价暴涨",
+      "link": "http://www.cnstock.com/commonDetail/515036",
+      "time": "9月4日 09:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "谷歌赢了,苹果笑了",
+      "link": "http://baijiahao.baidu.com/s?id=1842292820466009427&wfr=spider&for=pc",
+      "time": "9月4日 08:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "谷歌避免业务拆分 股价飙升9%,市值单日暴增2334亿美元创历史新高",
+      "link": "http://m.jrj.com.cn/madapter/finance/2025/09/04064352908787.shtml",
+      "time": "9月4日 06:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "法院裁定不拆分谷歌,母公司Alphabet股价上涨逾6%",
+      "link": "http://baijiahao.baidu.com/s?id=1842252366691666870&wfr=spider&for=pc",
+      "time": "9月3日 21:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "苹果200亿美元搜索收入“保住了”",
+      "link": "http://baijiahao.baidu.com/s?id=1842245918360639820&wfr=spider&for=pc",
+      "time": "9月3日 20:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "谷歌在反垄断案中“躲过一劫”,生成式人工智能意外“救局”",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31534123",
+      "time": "9月3日 19:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "谷歌反垄断案落幕 分析师称裁决构成温和利好 并上调目标价",
+      "link": "http://finance.eastmoney.com/a/202509033503691611.html",
+      "time": "9月3日 19:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "谷歌被判非法垄断,股价应声大涨",
+      "link": "http://baijiahao.baidu.com/s?id=1842232384640697898&wfr=spider&for=pc",
+      "time": "9月3日 16:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "美国谷歌搜索业务垄断案裁定出炉 无需剥离Chrome与安卓",
+      "link": "http://tv.cctv.com/2025/09/03/VIDErraOceQxPoACCMv9YXmm250903.shtml",
+      "time": "9月3日 12:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "美媒:谷歌在美国反垄断案中躲过最严厉处罚",
+      "link": "http://k.sina.cn/article_7295052889_1b2d1ac59020018778.html",
+      "time": "9月3日 11:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "谷歌免于被拆分，保住搜索“江山”，盘后股价大涨近7%，苹果公司也将受益",
+      "link": "http://m.jrj.com.cn/madapter/usstock/2025/09/03111652885500.shtml",
+      "time": "9月3日 11:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "欧盟暂缓对谷歌广告技术业务处以罚款",
+      "link": "http://auto.sina.cn/zz/cj/2025-09-03/detail-infpcqia5175926.d.html",
+      "time": "9月3日 09:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "谷歌赢得重大胜利，美法官裁决其无需剥离Chrome浏览器和安卓系统",
+      "link": "http://finance.sina.com.cn/stock/usstock/c/2025-09-03/doc-infpefeu4823585.shtml",
+      "time": "9月3日 07:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "谷歌在线搜索垄断案裁定出炉 无需剥离Chrome和安卓系统",
+      "link": "http://m.yicai.com/brief/102806141.html",
+      "time": "9月3日 04:59",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "最高人民法院发布2025年人民法院反垄断典型案例",
+      "event_id": "event_1",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31593049",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:25:40",
+      "event_time": "9月10日 21:07"
+    },
+    {
+      "event_title": "谷歌反垄断案获有利裁决，CEO皮查伊白宫晚宴当面致谢特朗普",
+      "event_id": "event_2",
+      "event_url": "http://k.sina.com.cn/article_5953466437_162dab04506709ckau.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:25:42",
+      "event_time": "9月5日 19:34"
+    },
+    {
+      "event_title": "无需剥离浏览器 谷歌反垄断案躲过一劫",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842383261913295158&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:25:59",
+      "event_time": "9月5日 00:38"
+    },
+    {
+      "event_title": "谷歌市值一夜涨出2个寒武纪 赢下世纪反垄断大案 Chrome和安卓都保住了",
+      "event_id": "event_4",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31534950",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:26:01",
+      "event_time": "9月4日 14:24"
+    },
+    {
+      "event_title": "谷歌取得“罕见胜利”!股价暴涨",
+      "event_id": "event_5",
+      "event_url": "http://www.cnstock.com/commonDetail/515036",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:26:03",
+      "event_time": "9月4日 09:06"
+    },
+    {
+      "event_title": "谷歌赢了,苹果笑了",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842292820466009427&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:26:19",
+      "event_time": "9月4日 08:46"
+    },
+    {
+      "event_title": "谷歌避免业务拆分 股价飙升9%,市值单日暴增2334亿美元创历史新高",
+      "event_id": "event_7",
+      "event_url": "http://m.jrj.com.cn/madapter/finance/2025/09/04064352908787.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:26:21",
+      "event_time": "9月4日 06:43"
+    },
+    {
+      "event_title": "法院裁定不拆分谷歌,母公司Alphabet股价上涨逾6%",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842252366691666870&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:26:37",
+      "event_time": "9月3日 21:53"
+    },
+    {
+      "event_title": "苹果200亿美元搜索收入“保住了”",
+      "event_id": "event_9",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842245918360639820&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:26:52",
+      "event_time": "9月3日 20:28"
+    },
+    {
+      "event_title": "谷歌在反垄断案中“躲过一劫”,生成式人工智能意外“救局”",
+      "event_id": "event_10",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31534123",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:26:54",
+      "event_time": "9月3日 19:25"
+    },
+    {
+      "event_title": "谷歌反垄断案落幕 分析师称裁决构成温和利好 并上调目标价",
+      "event_id": "event_11",
+      "event_url": "http://finance.eastmoney.com/a/202509033503691611.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:26:56",
+      "event_time": "9月3日 19:12"
+    },
+    {
+      "event_title": "谷歌被判非法垄断,股价应声大涨",
+      "event_id": "event_12",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842232384640697898&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:27:12",
+      "event_time": "9月3日 16:55"
+    },
+    {
+      "event_title": "美国谷歌搜索业务垄断案裁定出炉 无需剥离Chrome与安卓",
+      "event_id": "event_13",
+      "event_url": "http://tv.cctv.com/2025/09/03/VIDErraOceQxPoACCMv9YXmm250903.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:27:14",
+      "event_time": "9月3日 12:57"
+    },
+    {
+      "event_title": "美媒:谷歌在美国反垄断案中躲过最严厉处罚",
+      "event_id": "event_14",
+      "event_url": "http://k.sina.cn/article_7295052889_1b2d1ac59020018778.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:27:16",
+      "event_time": "9月3日 11:17"
+    },
+    {
+      "event_title": "谷歌免于被拆分，保住搜索“江山”，盘后股价大涨近7%，苹果公司也将受益",
+      "event_id": "event_15",
+      "event_url": "http://m.jrj.com.cn/madapter/usstock/2025/09/03111652885500.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:27:18",
+      "event_time": "9月3日 11:16"
+    },
+    {
+      "event_title": "欧盟暂缓对谷歌广告技术业务处以罚款",
+      "event_id": "event_16",
+      "event_url": "http://auto.sina.cn/zz/cj/2025-09-03/detail-infpcqia5175926.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:27:20",
+      "event_time": "9月3日 09:09"
+    },
+    {
+      "event_title": "谷歌赢得重大胜利，美法官裁决其无需剥离Chrome浏览器和安卓系统",
+      "event_id": "event_17",
+      "event_url": "http://finance.sina.com.cn/stock/usstock/c/2025-09-03/doc-infpefeu4823585.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:27:22",
+      "event_time": "9月3日 07:05"
+    },
+    {
+      "event_title": "谷歌在线搜索垄断案裁定出炉 无需剥离Chrome和安卓系统",
+      "event_id": "event_18",
+      "event_url": "http://m.yicai.com/brief/102806141.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:27:24",
+      "event_time": "9月3日 04:59"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 18,
+    "total_comments": 18,
+    "events_with_comments": 18,
+    "level1_scrape_time": "2025-09-12 17:25:39",
+    "level2_scrape_time": "2025-09-12 17:27:24"
+  }
+}

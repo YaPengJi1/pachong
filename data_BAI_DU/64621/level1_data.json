@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "中兴通讯股价跌5.01%",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:31:22"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中兴通讯股价跌5.01%,富国基金旗下5只基金重仓,合计持有210万股浮亏损失462.01万元",
+      "link": "http://baijiahao.baidu.com/s?id=1842299850271683689&wfr=spider&for=pc",
+      "time": "9月4日 10:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中兴通讯股价跌5.01%,南方基金旗下7只基金重仓,合计持有67.68万股浮亏损失148.9万元",
+      "link": "http://baijiahao.baidu.com/s?id=1842299844032762187&wfr=spider&for=pc",
+      "time": "9月4日 10:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中兴通讯股价跌5.01%,兴业基金旗下4只基金重仓,合计持有205.31万股浮亏损失451.68万元",
+      "link": "http://baijiahao.baidu.com/s?id=1842299837988054224&wfr=spider&for=pc",
+      "time": "9月4日 10:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中兴通讯股价跌5.01%,广发基金旗下3只基金重仓,合计持有22.94万股浮亏损失50.48万元",
+      "link": "http://baijiahao.baidu.com/s?id=1842299833653710233&wfr=spider&for=pc",
+      "time": "9月4日 10:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中兴通讯股价跌5.01%,工银瑞信基金旗下2只基金重仓,合计持有872.68万股浮亏损失1919.9万元",
+      "link": "http://news.sohu.com/a/931740568_122014422",
+      "time": "9月4日 10:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "中兴通讯股价跌5.01%,西藏东财基金旗下1只基金重仓,持有81.11万股浮亏损失178.45万元",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infphutn7074316.d.html",
+      "time": "9月4日 10:46",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-13 01:31:36"
+}

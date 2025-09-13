@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 09:45:37"
+  },
+  "core_event": {
+    "core_event_name": "快船与莱纳德合同争议",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:44:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "名记:规避薪资帽算谋杀级别的指控 快船欢迎NBA的调查",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-09/doc-infpvyat3849721.shtml",
+      "time": "9月9日 07:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "快船正式向联盟提出申诉要求联盟撤销对伦纳德阴阳合同禁赛处罚",
+      "link": "http://www.bilibili.com/video/BV1jaaYzpE7v",
+      "time": "9月5日 23:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "鲍尔默:工资帽规避规则对联盟非常重要 希望进行严肃调查",
+      "link": "http://baijiahao.baidu.com/s?id=1842402951029494601&wfr=spider&for=pc",
+      "time": "9月5日 14:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "鲍尔默:我感到既愤怒又难过 同时也为我们员工的处境感到悲伤",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-05/doc-infpmkhh5981964.shtml",
+      "time": "9月5日 13:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "快船否认阴阳合同，TA记者硬刚，鲍尔默早被问询",
+      "link": "http://www.sohu.com/a/931874897_120171272",
+      "time": "9月4日 17:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "联盟宣布准备调查快船与莱纳德之间是否存在阴阳合同",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4673611966029362585",
+      "time": "9月4日 15:19",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "名记:规避薪资帽算谋杀级别的指控 快船欢迎NBA的调查",
+      "event_id": "event_1",
+      "event_url": "http://sports.sina.com.cn/basketball/nba/2025-09-09/doc-infpvyat3849721.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:45:07",
+      "event_time": "9月9日 07:25"
+    },
+    {
+      "event_title": "快船正式向联盟提出申诉要求联盟撤销对伦纳德阴阳合同禁赛处罚",
+      "event_id": "event_2",
+      "event_url": "http://www.bilibili.com/video/BV1jaaYzpE7v",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:45:10",
+      "event_time": "9月5日 23:50"
+    },
+    {
+      "event_title": "鲍尔默:工资帽规避规则对联盟非常重要 希望进行严肃调查",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842402951029494601&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "欢子水果侠",
+      "comment_time": "09-05 15:57",
+      "comment_content": "鲍尔默说得对，工资帽规则是联盟基石，支持严肃调查确保公平。（27字）",
+      "user_location": "浙江",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:45:27",
+      "event_time": "9月5日 14:05"
+    },
+    {
+      "event_title": "鲍尔默:我感到既愤怒又难过 同时也为我们员工的处境感到悲伤",
+      "event_id": "event_4",
+      "event_url": "http://sports.sina.com.cn/basketball/nba/2025-09-05/doc-infpmkhh5981964.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:45:29",
+      "event_time": "9月5日 13:27"
+    },
+    {
+      "event_title": "快船否认阴阳合同，TA记者硬刚，鲍尔默早被问询",
+      "event_id": "event_5",
+      "event_url": "http://www.sohu.com/a/931874897_120171272",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:45:31",
+      "event_time": "9月4日 17:28"
+    },
+    {
+      "event_title": "联盟宣布准备调查快船与莱纳德之间是否存在阴阳合同",
+      "event_id": "event_6",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4673611966029362585",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:45:33",
+      "event_time": "9月4日 15:19"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 09:45:06",
+    "level2_scrape_time": "2025-09-12 09:45:33"
+  }
+}

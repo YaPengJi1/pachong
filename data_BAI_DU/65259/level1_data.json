@@ -1,0 +1,132 @@
+{
+  "core_info": {
+    "core_event_name": "台风塔巴",
+    "update_time": "更新至2025年9月9日 12:24",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:07:58"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "台风“塔巴”停止编号",
+      "link": "https://haokan.baidu.com/v?vid=9945255266253694355",
+      "time": "9月9日 12:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中央气象台：台风“塔巴”强度继续减弱",
+      "link": "https://baijiahao.baidu.com/s?id=1842737310977713277&wfr=spider&for=pc",
+      "time": "9月9日 06:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "相关部门部署应对台风“塔巴”",
+      "link": "https://baijiahao.baidu.com/s?id=1842730704893144414&wfr=spider&for=pc",
+      "time": "9月9日 04:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "深湛铁路、广茂铁路全部列车停运",
+      "link": "https://haokan.baidu.com/v?pd=wisenatural&vid=9714345946685193207",
+      "time": "9月8日 09:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "台风“塔巴”在广东台山市登陆",
+      "link": "https://baijiahao.baidu.com/s?id=1842655525486218154",
+      "time": "9月8日 09:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "中央气象台9月8日发布台风黄色预警",
+      "link": "https://baijiahao.baidu.com/s?id=1842653477302982854&wfr=spider&for=pc",
+      "time": "9月8日 08:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "受台风影响，深圳9月8日全日停课",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_7842407078867052200",
+      "time": "9月7日 21:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "台风“塔巴”将带来狂风暴雨 广东多地停课",
+      "link": "https://baijiahao.baidu.com/s?id=1842602171528521531",
+      "time": "9月7日 18:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "台风塔巴预计登陆广东，广州将有局部大暴雨",
+      "link": "https://baijiahao.baidu.com/s?id=1842568857652832453&wfr=spider&for=pc",
+      "time": "9月7日 09:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "台风塔巴8日凌晨将登陆广东沿海",
+      "link": "https://baijiahao.baidu.com/s?id=1842563321618588002&wfr=spider&for=pc",
+      "time": "9月7日 08:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "台风“塔巴”靠近华南风雨渐起 江南多地高温仍不退场",
+      "link": "https://baijiahao.baidu.com/s?id=1842562062720060638&wfr=spider&for=pc",
+      "time": "9月7日 08:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "今年第16号台风“塔巴”已生成，将于8日登陆广东沿海",
+      "link": "https://baijiahao.baidu.com/s?id=1842561812350752825&wfr=spider&for=pc",
+      "time": "9月7日 08:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "直扑广东！台风“塔巴”正在生成，广东将迎严重风雨过程",
+      "link": "https://baijiahao.baidu.com/s?id=1842508672102122294",
+      "time": "9月6日 18:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "刚刚确认！台风“塔巴”即将生成！福建大雨、暴雨、强对流！",
+      "link": "https://baijiahao.baidu.com/s?id=1842479162522031330&wfr=spider&for=pc",
+      "time": "9月6日 10:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "新台风“塔巴”要来？深圳周末将迎“降温雨”",
+      "link": "https://baijiahao.baidu.com/s?id=1842401002762172773&wfr=spider&for=pc",
+      "time": "9月5日 13:26",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 15,
+  "scrape_time": "2025-09-12 21:08:12"
+}

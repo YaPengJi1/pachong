@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "金价大涨，刷新历史新高",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:55:06"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "金价,爆了!",
+      "link": "http://cj.sina.com.cn/articles/view/1919072083/7262b753020016ria",
+      "time": "9月4日 16:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "伦敦纽约金价再创新高，国内金价突破810元克",
+      "link": "http://cj.sina.com.cn/articles/view/2660940103/9e9ab94704001jmx0",
+      "time": "9月4日 10:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "纽约金价3日盘中再创历史新高",
+      "link": "http://finance.eastmoney.com/a/202509043504068645.html",
+      "time": "9月4日 08:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "现货黄金突破3500美元,刷新历史新高",
+      "link": "http://finance.sina.cn/2025-09-02/detail-infpatck8858532.d.html",
+      "time": "9月2日 11:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "金价,大涨!创历史新高",
+      "link": "http://www.dzwww.com/xinwen/guoneixinwen/202509/t20250902_16417855.htm",
+      "time": "9月2日 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 01:55:20"
+}

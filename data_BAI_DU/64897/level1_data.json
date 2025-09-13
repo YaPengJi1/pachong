@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "泽连斯基与特朗普通话，普京回应特朗普对话",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:40:44"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "普京表示愿与美国总统特朗普对话",
+      "link": "http://weibo.com/2181597154/Q3biDweCQ",
+      "time": "9月5日 18:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "泽连斯基发文称与特朗普通电话",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16916837432539486274",
+      "time": "9月5日 11:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "普京透露与特朗普“车内密谈”:我用蹩脚英语交流 只会日常用语",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13602496941001559444",
+      "time": "9月4日 10:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普向普京发出电话挑战,普京的态度让人震惊",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7458626943561993868",
+      "time": "8月30日 14:56",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 18:40:58"
+}

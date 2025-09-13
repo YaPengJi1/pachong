@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "国际黄金价格走势分析",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:33:11"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美联储新消息!国际黄金走低,西部黄金涨近3%!机构:金价或站上4000美元",
+      "link": "http://finance.sina.com.cn/roll/2025-09-04/doc-infphyzk6955067.shtml",
+      "time": "9月4日 11:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "分析称明年金价或达4000美元/盎司高位,多家国际金融机构看涨",
+      "link": "http://baijiahao.baidu.com/s?id=1841954611542348098&wfr=spider&for=pc",
+      "time": "8月31日 15:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "金价,涨涨涨!",
+      "link": "http://finance.sina.com.cn/wm/2025-08-30/doc-infnusvv5936826.shtml",
+      "time": "8月30日 22:20",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 18:33:25"
+}

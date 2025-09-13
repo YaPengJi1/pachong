@@ -1,0 +1,72 @@
+{
+  "core_event_name": "深圳应对台风塔巴",
+  "comments": [
+    {
+      "event_title": "台风“塔巴”登陆广东",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10714634681747117468",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:52:10",
+      "event_time": "9月9日 12:26"
+    },
+    {
+      "event_title": "直击风雨一线!深圳各部门全力防御台风“塔巴”",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842830549779626342&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:52:28",
+      "event_time": "9月9日 11:20"
+    },
+    {
+      "event_title": "台风“塔巴”直扑广东",
+      "event_id": "event_3",
+      "event_url": "http://m.gmw.cn/2025-09/07/content_1304138389.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:52:30",
+      "event_time": "9月7日 11:25"
+    },
+    {
+      "event_title": "台风“塔巴”直扑广东!今天起东莞有暴雨、局部大暴雨降水过程",
+      "event_id": "event_4",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31558296",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:52:32",
+      "event_time": "9月7日 11:23"
+    },
+    {
+      "event_title": "台风“塔巴”要来了",
+      "event_id": "event_5",
+      "event_url": "http://m.gmw.cn/2025-09/07/content_1304138357.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:52:34",
+      "event_time": "9月7日 10:56"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 10:52:34"
+}

@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "鸿蒙智行全新问界M7上市",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:09:48"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "全国首家鸿蒙智行智界用户中心揭幕",
+      "link": "http://baijiahao.baidu.com/s?id=1842951975322876044&wfr=spider&for=pc",
+      "time": "昨天 15:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "全国首家鸿蒙智行智界用户中心・武汉白沙洲大道店揭幕",
+      "link": "http://www.ithome.com/0/882/181.htm",
+      "time": "昨天 15:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "华美挚献,因你而曜,全国首家鸿蒙智行·智界用户中心耀启江城",
+      "link": "http://baijiahao.baidu.com/s?id=1842871320054539186&wfr=spider&for=pc",
+      "time": "9月10日 18:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "鸿蒙智行全新问界M7开启预订 全国百店同步亮相",
+      "link": "http://news.china.com/socialgd/10000169/20250905/48795681_all.html",
+      "time": "9月5日 20:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "全新问界M7亮相2025智博会 赛力斯全方位展示智能化实践成果",
+      "link": "http://finance.eastmoney.com/a/202509053506234772.html",
+      "time": "9月5日 18:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "鸿蒙智行:全新问界 M7 部分配置预生产,可在上市后 1-4 周快速交付",
+      "link": "http://finance.sina.com.cn/tech/digi/2025-09-05/doc-infpmkhh5958457.shtml",
+      "time": "9月5日 11:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "问界M7焕新版正式官宣上市",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13430404934662296198",
+      "time": "9月1日 23:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "全新问界M7来袭，上市价格要上涨",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17653837756404776100",
+      "time": "8月29日 16:23",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-12 18:10:02"
+}

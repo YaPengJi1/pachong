@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "联想新品发布",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:53:50"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "联想ThinkPad旗舰移动工作站P16Gen3发布",
+      "link": "http://www.ithome.com/0/880/720.htm",
+      "time": "9月5日 16:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "联想推出 UHD 240Hz OLED 显示器拯救者 Legion Pro 32UD-10 / 27UD-10",
+      "link": "http://finance.sina.com.cn/tech/digi/2025-09-05/doc-infpmqqh2487282.shtml",
+      "time": "9月5日 15:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "联想推出 Legion Pro 7 游戏本:Ryzen 9 9955HX3D+RTX 5080 组合",
+      "link": "http://app.myzaker.com/news/article.php?pk=68ba8a9e8e9f09187858384d",
+      "time": "9月5日 14:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "联想发布Legion Pro 27Q-10电竞显示器:27英寸QHD OLED屏+280Hz刷新率",
+      "link": "http://www.gfan.com/info/593439.html",
+      "time": "9月5日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "联想发布新款Legion Blade 7000K超竞版台式机 搭载RTX 5060Ti",
+      "link": "http://baijiahao.baidu.com/s?id=1841943069121896792&wfr=spider&for=pc",
+      "time": "8月31日 12:16",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 01:54:04"
+}

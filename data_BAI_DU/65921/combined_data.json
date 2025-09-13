@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:39:55"
+  },
+  "core_event": {
+    "core_event_name": "美股三大股指收跌",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:39:28"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美股收盘:科技巨头集体走强",
+      "link": "http://news.china.com/socialgd/10000169/20250905/48791783_all.html",
+      "time": "9月5日 07:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美股大跌问题出在欧洲",
+      "link": "http://m.huxiu.com/article/4762536.html",
+      "time": "9月3日 16:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美股三大股指收跌 英伟达跌近2%",
+      "link": "http://www.sohu.com/a/931299486_122014422",
+      "time": "9月3日 04:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美股大跌,只是开始",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "美股收盘:科技巨头集体走强",
+      "event_id": "event_1",
+      "event_url": "http://news.china.com/socialgd/10000169/20250905/48791783_all.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:44",
+      "event_time": "9月5日 07:38"
+    },
+    {
+      "event_title": "美股大跌问题出在欧洲",
+      "event_id": "event_2",
+      "event_url": "http://m.huxiu.com/article/4762536.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:46",
+      "event_time": "9月3日 16:07"
+    },
+    {
+      "event_title": "美股三大股指收跌 英伟达跌近2%",
+      "event_id": "event_3",
+      "event_url": "http://www.sohu.com/a/931299486_122014422",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:48",
+      "event_time": "9月3日 04:01"
+    },
+    {
+      "event_title": "美股大跌,只是开始",
+      "event_id": "event_4",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:50",
+      "event_time": "1970年"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 14:39:43",
+    "level2_scrape_time": "2025-09-12 14:39:50"
+  }
+}

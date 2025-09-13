@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:45:54"
+  },
+  "core_event": {
+    "core_event_name": "谷歌反垄断案胜利",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:45:09"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "谷歌市值一夜涨出2个寒武纪!赢下世纪反垄断大案,Chrome和安卓都保住了",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31534950",
+      "time": "9月4日 14:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "谷歌避免业务拆分股价飙升9%,市值单日暴增2334亿美元创历史新高",
+      "link": "http://m.jrj.com.cn/madapter/finance/2025/09/04064352908787.shtml",
+      "time": "9月4日 06:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "谷歌被判非法垄断,股价应声大涨",
+      "link": "http://baijiahao.baidu.com/s?id=1842232384640697898&wfr=spider&for=pc",
+      "time": "9月3日 16:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美媒:谷歌在美国反垄断案中躲过最严厉处罚",
+      "link": "http://k.sina.cn/article_7295052889_1b2d1ac59020018778.html",
+      "time": "9月3日 11:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "谷歌免于被拆分,保住搜索“江山”!盘后股价大涨近7%,苹果公司也将受益",
+      "link": "http://m.jrj.com.cn/madapter/usstock/2025/09/03111652885500.shtml",
+      "time": "9月3日 11:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "谷歌赢得重大胜利,美法官裁决其无需剥离Chrome浏览器和安卓系统",
+      "link": "http://finance.sina.com.cn/stock/usstock/c/2025-09-03/doc-infpefeu4823585.shtml",
+      "time": "9月3日 07:05",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "谷歌市值一夜涨出2个寒武纪!赢下世纪反垄断大案,Chrome和安卓都保住了",
+      "event_id": "event_1",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31534950",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:45:24",
+      "event_time": "9月4日 14:24"
+    },
+    {
+      "event_title": "谷歌避免业务拆分股价飙升9%,市值单日暴增2334亿美元创历史新高",
+      "event_id": "event_2",
+      "event_url": "http://m.jrj.com.cn/madapter/finance/2025/09/04064352908787.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:45:26",
+      "event_time": "9月4日 06:43"
+    },
+    {
+      "event_title": "谷歌被判非法垄断,股价应声大涨",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842232384640697898&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:45:43",
+      "event_time": "9月3日 16:55"
+    },
+    {
+      "event_title": "美媒:谷歌在美国反垄断案中躲过最严厉处罚",
+      "event_id": "event_4",
+      "event_url": "http://k.sina.cn/article_7295052889_1b2d1ac59020018778.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:45:45",
+      "event_time": "9月3日 11:17"
+    },
+    {
+      "event_title": "谷歌免于被拆分,保住搜索“江山”!盘后股价大涨近7%,苹果公司也将受益",
+      "event_id": "event_5",
+      "event_url": "http://m.jrj.com.cn/madapter/usstock/2025/09/03111652885500.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:45:47",
+      "event_time": "9月3日 11:16"
+    },
+    {
+      "event_title": "谷歌赢得重大胜利,美法官裁决其无需剥离Chrome浏览器和安卓系统",
+      "event_id": "event_6",
+      "event_url": "http://finance.sina.com.cn/stock/usstock/c/2025-09-03/doc-infpefeu4823585.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:45:49",
+      "event_time": "9月3日 07:05"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-13 01:45:23",
+    "level2_scrape_time": "2025-09-13 01:45:49"
+  }
+}

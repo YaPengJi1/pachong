@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普对华芯片关税",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:04:05"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普:征收芯片关税,普京宣布对华免签,A股狂飙反弹",
+      "link": "http://www.163.com/dy/article/K8NGVBLT0511816V.html",
+      "time": "9月5日 20:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特朗普称将对芯片征收“相当可观”关税",
+      "link": "http://baijiahao.baidu.com/s?id=1842384643325594391&wfr=spider&for=pc",
+      "time": "9月5日 09:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普:必须在美国建厂,否则免谈?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7664563740968300301",
+      "time": "9月3日 17:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普政府关税“B计划”曝光",
+      "link": "http://www.163.com/dy/article/K8H4B34Q0519DDQ2.html",
+      "time": "9月3日 08:34",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 21:04:20"
+}

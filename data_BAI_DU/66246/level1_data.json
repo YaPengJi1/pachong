@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "华裔总理执掌泰国",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:08:16"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "华裔总理执掌泰国",
+      "link": "http://m.sohu.com/a/932580171_122480037",
+      "time": "9月7日 10:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "泰国新总理,又是华人!历任泰国总理为何喜欢强调“华人血统”?",
+      "link": "http://www.163.com/dy/article/K8O1PNQP05566E3N.html",
+      "time": "9月6日 01:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "泰国选出新总理",
+      "link": "http://baijiahao.baidu.com/s?id=1842423868633893518&wfr=spider&for=pc",
+      "time": "9月5日 17:09",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 15:08:31"
+}

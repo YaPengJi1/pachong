@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "国足新帅人选浮出",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:17:05"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "男足新帅3大人选浮现,54岁徐正源将符合选聘标准,董路观点“一针见血”",
+      "link": "http://new.qq.com/rain/a/20250910V044TA00",
+      "time": "9月10日 12:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中超名帅自荐执教国足",
+      "link": "http://www.sohu.com/a/933431236_121194442",
+      "time": "9月10日 07:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国足新帅会是谁?名记曝出新选项,前英格兰主帅或执教?够大牌了",
+      "link": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001tdri",
+      "time": "9月9日 12:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "国足公开选帅，吴金贵、谢晖、陈洋“自由身”",
+      "link": "http://www.163.com/dy/article/K8N4K3AS0529AQIE.html",
+      "time": "9月5日 16:35",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 10:17:19"
+}

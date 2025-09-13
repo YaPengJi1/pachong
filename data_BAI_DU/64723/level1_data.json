@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "AI生成内容必须“亮明身份”",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:37:16"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "AI内容“持证上岗”首测:35款应用,谁是漏网之鱼",
+      "link": "http://www.163.com/dy/article/K8KM5KJ105199NPP.html",
+      "time": "9月4日 17:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "今起正式施行!AI生成内容必须“亮明身份”!",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31543373",
+      "time": "9月2日 10:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "9月1日起,AI生成合成内容必须添加标识",
+      "link": "http://www.163.com/dy/article/K8DGVQ2T05348K72.html",
+      "time": "9月1日 22:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "今起实施!AI生成内容必须带“身份证”",
+      "link": "http://www.yicai.com/news/102804051.html",
+      "time": "9月1日 21:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "《人工智能生成合成内容标识办法》9月1日起施行 明确所有AI生成的内容必须打标识",
+      "link": "http://news.cctv.com/2025/09/01/ARTI3ZlXK7MyM39Pm3PuZ5Hm250901.shtml",
+      "time": "9月1日 00:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "微信公告:发布此类内容需主动声明",
+      "link": "http://baijiahao.baidu.com/s?id=1841969660184763334&wfr=spider&for=pc",
+      "time": "8月31日 19:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "《人工智能生成合成内容标识办法》明起施行 明确所有AI生成的内容必须打标识",
+      "link": "http://tv.cctv.com/2025/08/31/VIDEuVmYiz2ICmYcr8qd125u250831.shtml",
+      "time": "8月31日 12:19",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-13 01:37:30"
+}

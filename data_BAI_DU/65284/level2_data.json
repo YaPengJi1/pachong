@@ -1,0 +1,59 @@
+{
+  "core_event_name": "特朗普签令美调整关税政策生效范围",
+  "comments": [
+    {
+      "event_title": "特朗普签令:部分关税为零!",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842488932164953411&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "游若雁0KD",
+      "comment_time": "09-06 13:34",
+      "comment_content": "关税归零，合作共赢！世界需要更多这样的‘减法’~",
+      "user_location": "河南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:40:17",
+      "event_time": "9月6日 10:04"
+    },
+    {
+      "event_title": "特朗普签令 美调整关税政策生效范围 美日贸易协议达成",
+      "event_id": "event_2",
+      "event_url": "http://news.china.com/socialgd/10000169/20250906/48796017.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:40:19",
+      "event_time": "9月6日 08:31"
+    },
+    {
+      "event_title": "特朗普签令征日货 15% 关税!日本还得买 80 亿农产品 + 投5500亿",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=14509513883236073404",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:40:21",
+      "event_time": "9月5日 16:54"
+    },
+    {
+      "event_title": "特朗普签署行政令实施美日贸易协议后,日本国债期货上涨",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-05/detail-infpkxsq2685007.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:40:23",
+      "event_time": "9月5日 08:08"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 21:40:23"
+}

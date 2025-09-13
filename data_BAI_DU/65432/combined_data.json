@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 23:53:18"
+  },
+  "core_event": {
+    "core_event_name": "电池类ETF连续四日获净流入",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:52:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "新能源板块集体爆发，固态电池领涨",
+      "link": "http://stock.hexun.com/2025-09-06/221241367.html",
+      "time": "9月6日 11:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "储能锂电板块全线爆发",
+      "link": "http://weibo.com/7673417550/Q3b4OAARp",
+      "time": "9月5日 17:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "满屏涨停板,电池类ETF涨疯了",
+      "link": "http://app.myzaker.com/news/article.php?m=1757061394&pk=68ba9a0e8e9f0935dc50e2c9",
+      "time": "9月5日 16:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "固态电池板块继续走强",
+      "link": "http://www.163.com/dy/article/K8KCO3LF051987V2.html",
+      "time": "9月4日 14:59",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "新能源板块集体爆发，固态电池领涨",
+      "event_id": "event_1",
+      "event_url": "http://stock.hexun.com/2025-09-06/221241367.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:53:08",
+      "event_time": "9月6日 11:30"
+    },
+    {
+      "event_title": "储能锂电板块全线爆发",
+      "event_id": "event_2",
+      "event_url": "http://weibo.com/7673417550/Q3b4OAARp",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:53:10",
+      "event_time": "9月5日 17:57"
+    },
+    {
+      "event_title": "满屏涨停板,电池类ETF涨疯了",
+      "event_id": "event_3",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1757061394&pk=68ba9a0e8e9f0935dc50e2c9",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:53:12",
+      "event_time": "9月5日 16:05"
+    },
+    {
+      "event_title": "固态电池板块继续走强",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8KCO3LF051987V2.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:53:14",
+      "event_time": "9月4日 14:59"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 23:53:06",
+    "level2_scrape_time": "2025-09-12 23:53:14"
+  }
+}

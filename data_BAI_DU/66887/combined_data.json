@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:05:58"
+  },
+  "core_event": {
+    "core_event_name": "美网女单阿尼西莫娃复仇成功",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:04:49"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美网女单再次爆冷，阿尼西莫娃成功复仇，晋级四强并拿走百万奖金",
+      "link": "http://baijiahao.baidu.com/s?id=1842594634675010630&wfr=spider&for=pc",
+      "time": "9月7日 16:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "阿尼西莫娃三连杀大阪直美，生涯首进美网决赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842410298610038553&wfr=spider&for=pc",
+      "time": "9月5日 16:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美网女单下半区阿尼西莫娃击败斯瓦泰克 大阪直美则两盘力克穆霍娃",
+      "link": "http://baijiahao.baidu.com/s?id=1842298091746344410&wfr=spider&for=pc",
+      "time": "9月4日 10:21",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "美网女单再次爆冷，阿尼西莫娃成功复仇，晋级四强并拿走百万奖金",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842594634675010630&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "营销达人yoyo",
+      "comment_time": "09-07 23:56",
+      "comment_content": "阿尼西莫娃复仇晋级拿奖金，稳扎稳打真出色，网坛新星闪耀美网。",
+      "user_location": "青海",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:05:22",
+      "event_time": "9月7日 16:52"
+    },
+    {
+      "event_title": "阿尼西莫娃三连杀大阪直美，生涯首进美网决赛",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842410298610038553&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "麦兜私家烘焙cw7dc",
+      "comment_time": "09-05 19:29",
+      "comment_content": "阿尼西莫娃真牛，落后一盘不放弃，强势逆转进决赛，为她开心。",
+      "user_location": "河南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:05:38",
+      "event_time": "9月5日 16:03"
+    },
+    {
+      "event_title": "美网女单下半区阿尼西莫娃击败斯瓦泰克 大阪直美则两盘力克穆霍娃",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842298091746344410&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "杭州LeeSin",
+      "comment_time": "09-05 03:10",
+      "comment_content": "阿尼西莫娃挑落世界第一，大阪直美逆转太精彩了。两位选手太强了，半决赛值得期待。",
+      "user_location": "广东",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 11:05:54"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 11:05:03",
+    "level2_scrape_time": "2025-09-12 11:05:54"
+  }
+}

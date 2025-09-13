@@ -1,0 +1,306 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 21:25:23"
+  },
+  "core_event": {
+    "core_event_name": "泰山队6-0大胜国安",
+    "update_time": "更新至20250901",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:24:24"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "六球赢下“京鲁大战” 泰山队焕然一新",
+      "link": "http://baijiahao.baidu.com/s?id=1842065165044814898&wfr=spider&for=pc",
+      "time": "9月1日 20:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中超：泰山大获全胜，国安溃不成军，申花遭绝杀",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6105482442135754899",
+      "time": "9月1日 09:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "瓦科大四喜+马德鲁加梅开二度,山东泰山主场6:0大胜北京国安",
+      "link": "http://news.e23.cn/tiyu/2025-09-01/2025090100031.html",
+      "time": "9月1日 07:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "瓦科大四喜独霸射手榜",
+      "link": "http://www.163.com/dy/article/K8APOR640556C2XO.html",
+      "time": "8月31日 21:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "泰山6-0大胜国安，中超最大失利",
+      "link": "http://www.163.com/dy/article/K8APMPRN0529AQIE.html",
+      "time": "8月31日 21:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "泰山梦幻开局!瓦科6场连入8球,首破国安球门,冲击中超金靴",
+      "link": "http://baijiahao.baidu.com/s?id=1841971903928813349&wfr=spider&for=pc",
+      "time": "8月31日 19:54",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "六球赢下“京鲁大战” 泰山队焕然一新",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842065165044814898&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "手艺人Hanhan手感",
+      "comment_time": "09-01 20:48",
+      "comment_content": "泰山队这场踢得真痛快，瓦科开挂进四球太猛了。战术调整见效，球迷们都乐开花了。",
+      "user_location": "重庆",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 21:24:54",
+      "event_time": "9月1日 20:36"
+    },
+    {
+      "event_title": "中超：泰山大获全胜，国安溃不成军，申花遭绝杀",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6105482442135754899",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:24:56",
+      "event_time": "9月1日 09:50"
+    },
+    {
+      "event_title": "瓦科大四喜+马德鲁加梅开二度,山东泰山主场6:0大胜北京国安",
+      "event_id": "event_3",
+      "event_url": "http://news.e23.cn/tiyu/2025-09-01/2025090100031.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:24:58",
+      "event_time": "9月1日 07:03"
+    },
+    {
+      "event_title": "瓦科大四喜独霸射手榜",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8APOR640556C2XO.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:25:00",
+      "event_time": "8月31日 21:34"
+    },
+    {
+      "event_title": "泰山6-0大胜国安，中超最大失利",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8APMPRN0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:25:02",
+      "event_time": "8月31日 21:33"
+    },
+    {
+      "event_title": "泰山梦幻开局!瓦科6场连入8球,首破国安球门,冲击中超金靴",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841971903928813349&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "宗斌LN",
+      "comment_time": "08-31 22:03",
+      "comment_content": "换外国裁判国安就不行了",
+      "user_location": "山东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:25:19"
+    },
+    {
+      "event_title": "泰山梦幻开局!瓦科6场连入8球,首破国安球门,冲击中超金靴",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841971903928813349&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "秘笑泪包幸00",
+      "comment_time": "08-31 21:58",
+      "comment_content": "离开了裁判，啥也不是。",
+      "user_location": "山东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:25:19"
+    },
+    {
+      "event_title": "泰山梦幻开局!瓦科6场连入8球,首破国安球门,冲击中超金靴",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841971903928813349&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "百度网友077aef4",
+      "comment_time": "08-31 21:38",
+      "comment_content": "裁判怎么不表演了？小黑屋的是哪个？",
+      "user_location": "山东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:25:19"
+    },
+    {
+      "event_title": "泰山梦幻开局!瓦科6场连入8球,首破国安球门,冲击中超金靴",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841971903928813349&wfr=spider&for=pc",
+      "comment_index": 4,
+      "user_id": "止战之殇6a",
+      "comment_time": "08-31 21:39",
+      "comment_content": "山东踢出今年最强一战",
+      "user_location": "山东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:25:19"
+    },
+    {
+      "event_title": "泰山梦幻开局!瓦科6场连入8球,首破国安球门,冲击中超金靴",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841971903928813349&wfr=spider&for=pc",
+      "comment_index": 5,
+      "user_id": "打个响指灭了你",
+      "comment_time": "08-31 21:29",
+      "comment_content": "想拿冠军先过泰山队这一关！",
+      "user_location": "山东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:25:19"
+    },
+    {
+      "event_title": "泰山梦幻开局!瓦科6场连入8球,首破国安球门,冲击中超金靴",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841971903928813349&wfr=spider&for=pc",
+      "comment_index": 6,
+      "user_id": "yRJ1969",
+      "comment_time": "08-31 21:28",
+      "comment_content": "对自己喊一声儿童节快乐的机会我安都没给！",
+      "user_location": "北京",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:25:19"
+    },
+    {
+      "event_title": "泰山梦幻开局!瓦科6场连入8球,首破国安球门,冲击中超金靴",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841971903928813349&wfr=spider&for=pc",
+      "comment_index": 7,
+      "user_id": "JayCoder挖代码",
+      "comment_time": "08-31 19:58",
+      "comment_content": "瓦科状态火热，连破国安魔咒，金靴在望真厉害。",
+      "user_location": "福建",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:25:19"
+    },
+    {
+      "event_title": "泰山梦幻开局!瓦科6场连入8球,首破国安球门,冲击中超金靴",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841971903928813349&wfr=spider&for=pc",
+      "comment_index": 8,
+      "user_id": "心碎泪流59",
+      "comment_time": "08-31 21:47",
+      "comment_content": "悲哀一百万把国安买了，总经理",
+      "user_location": "北京",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:25:19"
+    },
+    {
+      "event_title": "泰山梦幻开局!瓦科6场连入8球,首破国安球门,冲击中超金靴",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841971903928813349&wfr=spider&for=pc",
+      "comment_index": 9,
+      "user_id": "林者神喵40",
+      "comment_time": "08-31 21:54",
+      "comment_content": "国安自己的问题，踢啥三后卫，漏勺一样。",
+      "user_location": "北京",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:25:19"
+    },
+    {
+      "event_title": "泰山梦幻开局!瓦科6场连入8球,首破国安球门,冲击中超金靴",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841971903928813349&wfr=spider&for=pc",
+      "comment_index": 10,
+      "user_id": "原古龙镶063",
+      "comment_time": "08-31 20:41",
+      "comment_content": "国安3后卫就是漏，池忠国就是山东的第12位队员",
+      "user_location": "北京",
+      "like_count": 6,
+      "scrape_time": "2025-09-12 21:25:19"
+    },
+    {
+      "event_title": "泰山梦幻开局!瓦科6场连入8球,首破国安球门,冲击中超金靴",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841971903928813349&wfr=spider&for=pc",
+      "comment_index": 11,
+      "user_id": "典镶炜p9",
+      "comment_time": "08-31 21:14",
+      "comment_content": "教练太固执！创造国安比赛多项历史。摆不正自己的位置。丢人现眼。",
+      "user_location": "北京",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 21:25:19"
+    },
+    {
+      "event_title": "泰山梦幻开局!瓦科6场连入8球,首破国安球门,冲击中超金靴",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841971903928813349&wfr=spider&for=pc",
+      "comment_index": 12,
+      "user_id": "原古龙镶063",
+      "comment_time": "08-31 21:14",
+      "comment_content": "今天国安在教练的带领下成全了山东",
+      "user_location": "北京",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 21:25:19"
+    },
+    {
+      "event_title": "泰山梦幻开局!瓦科6场连入8球,首破国安球门,冲击中超金靴",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841971903928813349&wfr=spider&for=pc",
+      "comment_index": 13,
+      "user_id": "原古龙镶063",
+      "comment_time": "08-31 21:07",
+      "comment_content": "国安的教练就是脑子有问题的",
+      "user_location": "北京",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 21:25:19"
+    },
+    {
+      "event_title": "泰山梦幻开局!瓦科6场连入8球,首破国安球门,冲击中超金靴",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841971903928813349&wfr=spider&for=pc",
+      "comment_index": 14,
+      "user_id": "体坛老蔡",
+      "comment_time": "08-31 21:36",
+      "comment_content": "瓦科这波操作真牛！六场八球，破国安首球，金靴有戏！",
+      "user_location": "北京",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:25:19"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 19,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 21:24:38",
+    "level2_scrape_time": "2025-09-12 21:25:19"
+  }
+}

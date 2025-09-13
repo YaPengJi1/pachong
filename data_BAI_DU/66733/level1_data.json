@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "小米16系列配置曝光",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:16:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "小米16,真机现身!",
+      "link": "http://www.163.com/dy/article/K8V0V4SC05118UEG.html",
+      "time": "9月8日 18:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "神秘手机渲染图曝光:大 R 角、窄边框、小打孔,预估为小米 16",
+      "link": "http://finance.sina.cn/tech/2025-09-06/detail-infpppfk9902545.d.html",
+      "time": "9月6日 10:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "小米16系列配置曝光",
+      "link": "http://baijiahao.baidu.com/s?id=1842327409783904969&wfr=spider&for=pc",
+      "time": "9月4日 18:05",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 10:16:45"
+}

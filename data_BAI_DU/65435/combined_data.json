@@ -1,0 +1,213 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 23:56:34"
+  },
+  "core_event": {
+    "core_event_name": "102岁抗战老兵看阅兵后离世",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:55:15"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "王福义中将逝世",
+      "link": "http://www.jfdaily.com/news/detail?id=980579",
+      "time": "昨天 06:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "王福义同志逝世",
+      "link": "http://china.huanqiu.com/article/4OGkxyylcSK",
+      "time": "9月10日 18:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "102岁抗战老兵看完阅兵后安详离世 家人称“圆梦” 网友叹“归队”",
+      "link": "http://www.163.com/dy/article/K8PIPJJ40514D3UH.html",
+      "time": "9月6日 15:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "抗战烈士周叔屏之孙周文进:现场看阅兵感到无上光荣",
+      "link": "http://baijiahao.baidu.com/s?id=1842467397629829447&wfr=spider&for=pc",
+      "time": "9月5日 16:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "102岁抗战老兵在ICU看完阅兵,当晚安详离世",
+      "link": "http://baijiahao.baidu.com/s?id=1842393483159998275&wfr=spider&for=pc",
+      "time": "9月5日 11:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "原陆军第31集团军军长王昭堃逝世,享年98岁,身上留有10多处枪伤",
+      "link": "http://news.hangzhou.com.cn/shxw/content/2025-09/04/content_9076084_0.htm",
+      "time": "9月4日 16:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "102岁海南抗战老兵符国冠:“国家强大,人民才幸福”",
+      "link": "http://www.hainan.gov.cn/hainan/ywzl70nms/202509/87bcccef84664fd1941f2f1cd6615ff8.shtml",
+      "time": "9月4日 09:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "“一定要珍惜和平!”96岁抗战老兵热泪盈眶看阅兵",
+      "link": "http://cj.sina.com.cn/articles/view/1652484947/627eeb5302001rezo",
+      "time": "9月3日 21:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "曾“唱空城计”吓跑日伪军 102岁新四军老兵陈开义收到“抗战胜利80周年”纪念章",
+      "link": "http://baijiahao.baidu.com/s?id=1842136762489945747&wfr=spider&for=pc",
+      "time": "9月2日 15:34",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "王福义中将逝世",
+      "event_id": "event_1",
+      "event_url": "http://www.jfdaily.com/news/detail?id=980579",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:55:30",
+      "event_time": "昨天 06:34"
+    },
+    {
+      "event_title": "王福义同志逝世",
+      "event_id": "event_2",
+      "event_url": "http://china.huanqiu.com/article/4OGkxyylcSK",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:55:32",
+      "event_time": "9月10日 18:40"
+    },
+    {
+      "event_title": "102岁抗战老兵看完阅兵后安详离世 家人称“圆梦” 网友叹“归队”",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8PIPJJ40514D3UH.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:55:34",
+      "event_time": "9月6日 15:21"
+    },
+    {
+      "event_title": "抗战烈士周叔屏之孙周文进:现场看阅兵感到无上光荣",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842467397629829447&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:55:51",
+      "event_time": "9月5日 16:31"
+    },
+    {
+      "event_title": "102岁抗战老兵在ICU看完阅兵,当晚安详离世",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842393483159998275&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:56:07",
+      "event_time": "9月5日 11:34"
+    },
+    {
+      "event_title": "原陆军第31集团军军长王昭堃逝世,享年98岁,身上留有10多处枪伤",
+      "event_id": "event_6",
+      "event_url": "http://news.hangzhou.com.cn/shxw/content/2025-09/04/content_9076084_0.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:56:09",
+      "event_time": "9月4日 16:14"
+    },
+    {
+      "event_title": "102岁海南抗战老兵符国冠:“国家强大,人民才幸福”",
+      "event_id": "event_7",
+      "event_url": "http://www.hainan.gov.cn/hainan/ywzl70nms/202509/87bcccef84664fd1941f2f1cd6615ff8.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:56:11",
+      "event_time": "9月4日 09:02"
+    },
+    {
+      "event_title": "“一定要珍惜和平!”96岁抗战老兵热泪盈眶看阅兵",
+      "event_id": "event_8",
+      "event_url": "http://cj.sina.com.cn/articles/view/1652484947/627eeb5302001rezo",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:56:13",
+      "event_time": "9月3日 21:29"
+    },
+    {
+      "event_title": "曾“唱空城计”吓跑日伪军 102岁新四军老兵陈开义收到“抗战胜利80周年”纪念章",
+      "event_id": "event_9",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842136762489945747&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "fhfh137",
+      "comment_time": "09-04 16:03",
+      "comment_content": "向革命英雄致敬。",
+      "user_location": "山东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:56:29"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 9,
+    "total_comments": 9,
+    "events_with_comments": 9,
+    "level1_scrape_time": "2025-09-12 23:55:29",
+    "level2_scrape_time": "2025-09-12 23:56:29"
+  }
+}

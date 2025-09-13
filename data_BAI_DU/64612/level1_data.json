@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "巴勒斯坦赴联大代表团被拒签",
+    "update_time": "更新至20250831",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:25:07"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "阿拉伯-伊斯兰特别峰会发表声明 对美拒签巴勒斯坦赴联大代表团表示遗憾",
+      "link": "http://tv.cctv.com/2025/08/31/VIDEtk41zwAwCnrUJuqiLoiF250831.shtml",
+      "time": "8月31日 12:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美国拒签巴勒斯坦,联合国大会悬了?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13142402668540766852",
+      "time": "8月30日 18:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美国不给出席联大的巴勒斯坦代表团发签证 巴方抗议 联合国过问",
+      "link": "http://cj.sina.com.cn/articles/view/1893892941/70e2834d02001tm6o",
+      "time": "8月30日 17:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-13 01:25:21"
+}

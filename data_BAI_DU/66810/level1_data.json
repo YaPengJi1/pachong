@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "国足生死战，澳大利亚狂胜",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:51:54"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国足生死战 1-0澳大利亚",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7348029449171024022",
+      "time": "9月10日 17:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U22国足0-0战平澳大利亚，成功锁定了明年U23亚洲杯资格",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5886292764927582688",
+      "time": "9月9日 22:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "战平澳大利亚 中国U22男足获得小组第二",
+      "link": "http://tv.cctv.com/2025/09/09/VIDElUcJeHLfjojRzdrzLniM250909.shtml",
+      "time": "9月9日 22:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22国足0-0澳洲:死守策略贯彻得当,王钰栋踢得拧巴",
+      "link": "http://cj.sina.com.cn/articles/view/7880068727/1d5b04e7702002fgys",
+      "time": "9月9日 21:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "U22国足0比0暂平澳大利亚队",
+      "link": "http://baijiahao.baidu.com/s?id=1842791199240270866&wfr=spider&for=pc",
+      "time": "9月9日 20:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "澳大利亚狂胜北马里亚纳，国足小胜东帝汶，亚预赛D组积分榜刷新",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16830087503752234559",
+      "time": "9月7日 12:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "U22国足10-0胜北马里亚纳群岛队",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8513342972476643309",
+      "time": "9月6日 22:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "U23亚洲杯疯狂夜:国足大胜,澳大利亚稳居榜首",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11907751456733800138",
+      "time": "9月6日 22:10",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-12 09:52:09"
+}

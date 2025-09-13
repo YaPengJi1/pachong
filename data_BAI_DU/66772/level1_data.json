@@ -1,0 +1,92 @@
+{
+  "core_info": {
+    "core_event_name": "新国标出台，中小学生午休课桌椅要求",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:53:34"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "午休不用“趴桌睡”!记者实测“国标”里的午睡课桌椅",
+      "link": "http://scnews.newssc.org/system/20250909/001553761.html",
+      "time": "9月9日 07:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "即将实施!事关泗洪所有中小学生",
+      "link": "http://www.163.com/dy/article/K8UQ6EGF05453LIT.html",
+      "time": "9月8日 16:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "新国标出台，中小学生“躺平午睡”要实现了",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31568160",
+      "time": "9月8日 10:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "新国标出台,中小学生将实现“躺平午休”",
+      "link": "http://news.k618.cn/kczxy/kjtjy/202509/t20250908_19907317.html",
+      "time": "9月8日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "2026年2月1日正式实施",
+      "link": "http://weibo.com/1822206482/Q3qAznzQE",
+      "time": "9月7日 09:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "《中小学生午休课桌椅通用技术要求》国家标准将于2026年2月1日起正式实施",
+      "link": "http://tv.cctv.com/2025/09/06/VIDEwGc1dfNzryyv7WZP6KZw250906.shtml",
+      "time": "9月6日 08:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "午休课桌椅“国标”出台，“凑合趴睡”变“舒适躺睡”",
+      "link": "http://tv.cctv.com/2025/09/05/VIDEQ2kXQf0U17Ce0jIxk5lY250905.shtml",
+      "time": "9月5日 18:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "午休课桌椅“国标”出台 关注舒适安全耐用 兼顾学习与午休",
+      "link": "http://tv.cctv.com/2025/09/05/VIDEe5e6dWJVNELvvYTEc9jd250905.shtml",
+      "time": "9月5日 18:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "《中小学生午休课桌椅通用技术要求》国家标准 将于2026年2月1日正式实施",
+      "link": "http://tv.cctv.com/2025/09/05/VIDE1HgZBZs6GkDHkSH0M4fh250905.shtml",
+      "time": "9月5日 18:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "中小学生午休课桌椅“国标”出台",
+      "link": "http://baijiahao.baidu.com/s?id=1842228316118058925&wfr=spider&for=pc",
+      "time": "9月3日 15:50",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 10,
+  "scrape_time": "2025-09-12 10:53:48"
+}

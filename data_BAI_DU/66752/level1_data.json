@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "张雪峰捐款5000万支持统一",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:37:26"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "张雪峰老师称要捐款5000万元",
+      "link": "http://new.qq.com/rain/a/20250909V012G500",
+      "time": "9月9日 02:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "张雪峰老师声称要捐5000万元",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6179520583662014478",
+      "time": "9月9日 02:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "张雪峰回应承诺捐款5000万支持统一",
+      "link": "http://weibo.com/tv/show/1034:5208365396328455",
+      "time": "9月7日 22:15",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 10:37:40"
+}

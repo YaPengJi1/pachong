@@ -1,0 +1,46 @@
+{
+  "core_event_name": "申花与成都蓉城对决",
+  "comments": [
+    {
+      "event_title": "9月申花赛程 最硬核还是跟成都蓉城对决",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/2478495117/93bad58d0010150py",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:33:46",
+      "event_time": "9月3日 22:21"
+    },
+    {
+      "event_title": "申花主场战蓉城不好踢，届时的策略选择很关键",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K88AAVDK0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:33:48",
+      "event_time": "8月30日 22:26"
+    },
+    {
+      "event_title": "中超冠军争夺硝烟四起:成都蓉城崛起,申花冠军之路面临考验",
+      "event_id": "event_3",
+      "event_url": "http://www.sohu.com/a/930264758_122387568",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:33:50",
+      "event_time": "8月30日 21:47"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 18:33:50"
+}

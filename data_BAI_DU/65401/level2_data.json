@@ -1,0 +1,85 @@
+{
+  "core_event_name": "詹姆斯成都行",
+  "comments": [
+    {
+      "event_title": "詹姆斯成都站行程正式开启",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=1988334235571108118",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:23:28",
+      "event_time": "9月5日 19:52"
+    },
+    {
+      "event_title": "勒布朗·詹姆斯中国行抵达成都，双子塔点亮巨幅海报",
+      "event_id": "event_2",
+      "event_url": "http://news.cnhubei.com/content/2025-09/05/content_19476795.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:23:30",
+      "event_time": "9月5日 11:48"
+    },
+    {
+      "event_title": "成都双子塔为詹姆斯亮起巨幅灯光秀",
+      "event_id": "event_3",
+      "event_url": "http://m.dongqiudi.com/article/5355413.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:23:32",
+      "event_time": "9月5日 11:17"
+    },
+    {
+      "event_title": "点亮成都夜空,成都双子塔为詹姆斯亮起巨幅灯光秀",
+      "event_id": "event_4",
+      "event_url": "http://www.dongqiudi.com/articles/5355413.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:23:34",
+      "event_time": "9月5日 11:17"
+    },
+    {
+      "event_title": "詹姆斯开启中国行,球迷人山人海,勒布朗詹姆斯",
+      "event_id": "event_5",
+      "event_url": "http://www.iqiyi.com/v_1el7noffduk.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:23:36",
+      "event_time": "9月5日 00:00"
+    },
+    {
+      "event_title": "球迷酒店健身房蹲守詹皇成功",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842293883701469643&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:23:53",
+      "event_time": "9月4日 09:12"
+    }
+  ],
+  "total_comments": 6,
+  "scrape_time": "2025-09-12 23:23:53"
+}

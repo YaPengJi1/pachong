@@ -1,0 +1,318 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:09:53"
+  },
+  "core_event": {
+    "core_event_name": "世预赛葡萄牙3比2匈牙利",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:07:38"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "C罗平纪录,坎塞洛绝杀,葡萄牙3比2匈牙利",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4787750442957642241",
+      "time": "昨天 04:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "C罗将对世预赛历史射手王发起冲击",
+      "link": "http://weibo.com/7830536719/Q3Vsl2Nmc",
+      "time": "9月10日 16:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "C罗并列历史射手王",
+      "link": "http://china.zjol.com.cn/sz/202509/t20250910_31221273.shtml",
+      "time": "9月10日 14:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "(外代二线)足球——世预赛:葡萄牙队胜匈牙利队",
+      "link": "http://baijiahao.baidu.com/s?id=1842855938679699118&wfr=spider&for=pc",
+      "time": "9月10日 14:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "C罗迎来里程碑时刻",
+      "link": "http://news.ycwb.com/ikinvkbtjk/content_53660284.htm",
+      "time": "9月10日 10:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "世预赛:葡萄牙队胜匈牙利队",
+      "link": "http://www.xinhuanet.com/sports/20250910/f33303730d8d4d45aa240c34bd693321/c.html",
+      "time": "9月10日 10:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "葡萄牙3-2险胜匈牙利，C罗并列世预赛历史射手王",
+      "link": "http://baijiahao.baidu.com/s?id=1842841074542600954&wfr=spider&for=pc",
+      "time": "9月10日 10:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "世预赛:葡萄牙险胜匈牙利,C罗并列历史射手王",
+      "link": "http://baijiahao.baidu.com/s?id=1842840682597225125&wfr=spider&for=pc",
+      "time": "9月10日 10:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "足球——世预赛:葡萄牙队胜匈牙利队",
+      "link": "http://baijiahao.baidu.com/s?id=1842835427460801277&wfr=spider&for=pc",
+      "time": "9月10日 08:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "马丁内斯:我们有一种重要的韧性;没想到匈牙利的效率这么高",
+      "link": "http://www.dongqiudi.com/articles/5364093.html",
+      "time": "9月10日 08:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "坎塞洛成为葡萄牙队史进球最多的后卫",
+      "link": "http://www.dongqiudi.com/articles/5363990.html",
+      "time": "9月10日 07:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "C罗社媒庆祝世预赛进球",
+      "link": "http://baijiahao.baidu.com/s?id=1842825675917873553&wfr=spider&for=pc",
+      "time": "9月10日 06:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "葡萄牙客场3-2逆转匈牙利，C罗点射，沃尔高双响，坎塞洛建功",
+      "link": "http://m.dongqiudi.com/article/5363881.html",
+      "time": "9月10日 04:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "世预赛欧洲区F组:C罗一剑封喉,匈牙利饮恨葡萄牙",
+      "link": "http://baijiahao.baidu.com/s?id=1842565037314029604&wfr=spider&for=pc",
+      "time": "9月8日 00:01",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "C罗平纪录,坎塞洛绝杀,葡萄牙3比2匈牙利",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4787750442957642241",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:07:54",
+      "event_time": "昨天 04:10"
+    },
+    {
+      "event_title": "C罗将对世预赛历史射手王发起冲击",
+      "event_id": "event_2",
+      "event_url": "http://weibo.com/7830536719/Q3Vsl2Nmc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:07:56",
+      "event_time": "9月10日 16:01"
+    },
+    {
+      "event_title": "C罗并列历史射手王",
+      "event_id": "event_3",
+      "event_url": "http://china.zjol.com.cn/sz/202509/t20250910_31221273.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:07:58",
+      "event_time": "9月10日 14:49"
+    },
+    {
+      "event_title": "(外代二线)足球——世预赛:葡萄牙队胜匈牙利队",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842855938679699118&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "风云啦啦队",
+      "comment_time": "09-10 14:51",
+      "comment_content": "葡萄牙客场赢匈牙利真不容易，坎塞洛进球锁定胜局，C罗点球稳如泰山。",
+      "user_location": "福建",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:08:15",
+      "event_time": "9月10日 14:04"
+    },
+    {
+      "event_title": "C罗迎来里程碑时刻",
+      "event_id": "event_5",
+      "event_url": "http://news.ycwb.com/ikinvkbtjk/content_53660284.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:08:17",
+      "event_time": "9月10日 10:42"
+    },
+    {
+      "event_title": "世预赛:葡萄牙队胜匈牙利队",
+      "event_id": "event_6",
+      "event_url": "http://www.xinhuanet.com/sports/20250910/f33303730d8d4d45aa240c34bd693321/c.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:08:19",
+      "event_time": "9月10日 10:11"
+    },
+    {
+      "event_title": "葡萄牙3-2险胜匈牙利，C罗并列世预赛历史射手王",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842841074542600954&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "Vicky妮妮戒辣条",
+      "comment_time": "09-10 12:08",
+      "comment_content": "葡萄牙艰难取胜真刺激，C罗平纪录太牛了，看得热血沸腾。",
+      "user_location": "青海",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:08:36",
+      "event_time": "9月10日 10:10"
+    },
+    {
+      "event_title": "世预赛:葡萄牙险胜匈牙利,C罗并列历史射手王",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842840682597225125&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "星星讨厌黑夜",
+      "comment_time": "09-10 10:30",
+      "comment_content": "C罗追平纪录真牛，葡萄牙险胜看得心跳加速！",
+      "user_location": "吉林",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 11:08:52",
+      "event_time": "9月10日 10:03"
+    },
+    {
+      "event_title": "足球——世预赛:葡萄牙队胜匈牙利队",
+      "event_id": "event_9",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842835427460801277&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "云南的小殿闪",
+      "comment_time": "09-10 09:33",
+      "comment_content": "葡萄牙客场赢球真精彩，C罗点球稳准狠，团队配合够默契。",
+      "user_location": "安徽",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:09:08",
+      "event_time": "9月10日 08:39"
+    },
+    {
+      "event_title": "马丁内斯:我们有一种重要的韧性;没想到匈牙利的效率这么高",
+      "event_id": "event_10",
+      "event_url": "http://www.dongqiudi.com/articles/5364093.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:09:10",
+      "event_time": "9月10日 08:26"
+    },
+    {
+      "event_title": "坎塞洛成为葡萄牙队史进球最多的后卫",
+      "event_id": "event_11",
+      "event_url": "http://www.dongqiudi.com/articles/5363990.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:09:12",
+      "event_time": "9月10日 07:11"
+    },
+    {
+      "event_title": "C罗社媒庆祝世预赛进球",
+      "event_id": "event_12",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842825675917873553&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "弓长不吃榴莲",
+      "comment_time": "09-10 12:59",
+      "comment_content": "C罗点球稳准狠，射手王实至名归。葡萄牙连胜，全队庆祝真棒。",
+      "user_location": "内蒙古",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:09:31",
+      "event_time": "9月10日 06:04"
+    },
+    {
+      "event_title": "葡萄牙客场3-2逆转匈牙利，C罗点射，沃尔高双响，坎塞洛建功",
+      "event_id": "event_13",
+      "event_url": "http://m.dongqiudi.com/article/5363881.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:09:33",
+      "event_time": "9月10日 04:41"
+    },
+    {
+      "event_title": "世预赛欧洲区F组:C罗一剑封喉,匈牙利饮恨葡萄牙",
+      "event_id": "event_14",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842565037314029604&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "威尼斯Princess我老婆",
+      "comment_time": "09-08 00:05",
+      "comment_content": "C罗宝刀不老，一剑定乾坤，葡萄牙这场赢得漂亮。匈牙利拼得够狠，比赛真刺激！",
+      "user_location": "浙江",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 11:09:49"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 14,
+    "total_comments": 14,
+    "events_with_comments": 14,
+    "level1_scrape_time": "2025-09-12 11:07:52",
+    "level2_scrape_time": "2025-09-12 11:09:49"
+  }
+}

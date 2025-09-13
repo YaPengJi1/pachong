@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:09:09"
+  },
+  "core_event": {
+    "core_event_name": "A股大消息",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:08:41"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "董事长陈勇“回归”永安药业 被留置期间股价大涨控股股东拟减持",
+      "link": "http://www.163.com/dy/article/K8N1IAOU05199DKK.html",
+      "time": "9月5日 15:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "A股:无需等周五开盘了,种种迹象表明,明天股市很可能这样走",
+      "link": "http://www.163.com/dy/article/K8K2F1CB053735CL.html",
+      "time": "9月4日 15:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "A股:市场突发四条消息,如何影响下周A股表现?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12607257463673477216",
+      "time": "8月31日 11:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "A股大消息!证监会刚刚发布",
+      "link": "http://finance.stockstar.com/IG2025082900044563.shtml",
+      "time": "8月29日 20:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "10余家上市公司宣布紧急补税 朗姿股份需再缴2227万元",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "董事长陈勇“回归”永安药业 被留置期间股价大涨控股股东拟减持",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8N1IAOU05199DKK.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:08:56",
+      "event_time": "9月5日 15:41"
+    },
+    {
+      "event_title": "A股:无需等周五开盘了,种种迹象表明,明天股市很可能这样走",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8K2F1CB053735CL.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:08:58",
+      "event_time": "9月4日 15:03"
+    },
+    {
+      "event_title": "A股:市场突发四条消息,如何影响下周A股表现?",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12607257463673477216",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:09:00",
+      "event_time": "8月31日 11:22"
+    },
+    {
+      "event_title": "A股大消息!证监会刚刚发布",
+      "event_id": "event_4",
+      "event_url": "http://finance.stockstar.com/IG2025082900044563.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:09:02",
+      "event_time": "8月29日 20:45"
+    },
+    {
+      "event_title": "10余家上市公司宣布紧急补税 朗姿股份需再缴2227万元",
+      "event_id": "event_5",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:09:04",
+      "event_time": "1970年"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 18:08:55",
+    "level2_scrape_time": "2025-09-12 18:09:04"
+  }
+}

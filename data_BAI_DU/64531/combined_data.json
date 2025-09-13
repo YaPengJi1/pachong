@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:40:44"
+  },
+  "core_event": {
+    "core_event_name": "申京在欧锦赛大放异彩",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:39:48"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "场均21.6分9.6篮板6.8助攻!欧锦赛官推盛赞申京:本届赛事MVP?",
+      "link": "http://www.163.com/dy/article/K8LHIOGI0529AQIE.html",
+      "time": "9月5日 01:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "申京:约基奇是当世最佳球员 战胜他给了我额外的动力",
+      "link": "http://baijiahao.baidu.com/s?id=1842290712083073131&wfr=spider&for=pc",
+      "time": "9月4日 08:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "力压约基奇登顶榜首 申京都欧洲杯的最大惊喜",
+      "link": "http://k.sina.com.cn/article_7880068727_1d5b04e7702002eb4c.html",
+      "time": "9月3日 16:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "申京在欧锦赛大放异彩",
+      "link": "http://baijiahao.baidu.com/s?id=1842128937672443093&wfr=spider&for=pc",
+      "time": "9月2日 17:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "欧锦赛汇总:德国63分狂胜创纪录!约基奇6+7划水,马尔卡宁首败",
+      "link": "http://k.sina.cn/article_7096022651_1a6f4b67b02001fsr2.html",
+      "time": "9月2日 06:55",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "场均21.6分9.6篮板6.8助攻!欧锦赛官推盛赞申京:本届赛事MVP?",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8LHIOGI0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:40:04",
+      "event_time": "9月5日 01:43"
+    },
+    {
+      "event_title": "申京:约基奇是当世最佳球员 战胜他给了我额外的动力",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842290712083073131&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "Bob潮流游戏设计师",
+      "comment_time": "09-04 17:48",
+      "comment_content": "申京这场太硬气了，对阵约基奇打出28+13+8还赢球，夸对手最佳，动力满满真棒。",
+      "user_location": "广西",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:40:20",
+      "event_time": "9月4日 08:21"
+    },
+    {
+      "event_title": "力压约基奇登顶榜首 申京都欧洲杯的最大惊喜",
+      "event_id": "event_3",
+      "event_url": "http://k.sina.com.cn/article_7880068727_1d5b04e7702002eb4c.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:40:22",
+      "event_time": "9月3日 16:52"
+    },
+    {
+      "event_title": "申京在欧锦赛大放异彩",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842128937672443093&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "悉心又平静灬抹香鲸8",
+      "comment_time": "09-02 17:12",
+      "comment_content": "申京欧锦赛真亮眼，火箭21届就你成才了。球队添了杜兰特，下赛季更强劲，保护好身体别受伤哈。",
+      "user_location": "贵州",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:40:38",
+      "event_time": "9月2日 17:04"
+    },
+    {
+      "event_title": "欧锦赛汇总:德国63分狂胜创纪录!约基奇6+7划水,马尔卡宁首败",
+      "event_id": "event_5",
+      "event_url": "http://k.sina.cn/article_7096022651_1a6f4b67b02001fsr2.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:40:40",
+      "event_time": "9月2日 06:55"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-13 01:40:02",
+    "level2_scrape_time": "2025-09-13 01:40:40"
+  }
+}

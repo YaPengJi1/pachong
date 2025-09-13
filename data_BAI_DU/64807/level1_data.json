@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "智己LS6亮相成都车展",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:13:47"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "全新智己LS6上市",
+      "link": "http://new.qq.com/rain/a/20250911A05JEU00",
+      "time": "昨天 16:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "新一代智己LS6上市,“恒星超级增程”领衔,20万级市场要变天?",
+      "link": "http://app.myzaker.com/news/article.php?m=1757554192&pk=68c224a28e9f091ca5207caf",
+      "time": "昨天 09:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "新一代智己LS6震撼上市",
+      "link": "http://cj.sina.com.cn/articles/view/5977208353/16444f6210270157m2",
+      "time": "9月10日 21:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "智己LS6首发",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4466671697034219111",
+      "time": "9月4日 11:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "智己汽车新一代LS6上市 上汽和宁德时代联合开发电池",
+      "link": "http://www.cnstock.com/commonDetail/514633",
+      "time": "9月3日 09:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "大电池大五座增程SUV 智己LS6亮相成都车展",
+      "link": "http://baijiahao.baidu.com/s?id=1842136792958062717&wfr=spider&for=pc",
+      "time": "9月2日 15:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "成都车展震撼上市!现场直击,人潮攒动",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4152121649181959533",
+      "time": "9月1日 15:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "DoNews汽车直击2025成都车展-智己LS6展台",
+      "link": "http://www.donews.com/news/detail/7/6025634.html",
+      "time": "8月29日 17:12",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-12 17:14:02"
+}

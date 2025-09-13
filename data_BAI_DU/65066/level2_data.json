@@ -1,0 +1,59 @@
+{
+  "core_event_name": "中国央行逆回购操作",
+  "comments": [
+    {
+      "event_title": "规模一万亿元 央行今日开展买断式逆回购",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.cn/2025-09-05/detail-infpmcyr7932176.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:46:13",
+      "event_time": "9月5日 11:00"
+    },
+    {
+      "event_title": "央行进行 1,883 亿元 7 天期逆回购操作,操作利率 1.4%。",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-05/detail-infpkxsr1059195.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:46:15",
+      "event_time": "9月5日 09:20"
+    },
+    {
+      "event_title": "央行进行 2,557 亿元 7 天期逆回购操作 操作利率 1.4%",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-02/detail-infpahpi8540700.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:46:17",
+      "event_time": "9月2日 09:21"
+    },
+    {
+      "event_title": "中国央行逆回购操作当日实现净回笼1057亿元",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-01/detail-infnxxhm9584423.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:46:19",
+      "event_time": "9月1日 09:22"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 17:46:19"
+}

@@ -1,0 +1,193 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:28:11"
+  },
+  "core_event": {
+    "core_event_name": "寒武纪股价暴跌",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:27:10"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "寒武纪登顶后失守",
+      "link": "http://baijiahao.baidu.com/s?id=1842388858729394961&wfr=spider&for=pc",
+      "time": "9月5日 10:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "寒武纪跌超14%,岭南控股涨停",
+      "link": "http://m.hexun.com/stock/2025-09-05/221234528.html",
+      "time": "9月5日 07:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "寒武纪市值日内蒸发超700亿 市场情绪逆转",
+      "link": "http://news.china.com/socialgd/10000169/20250904/48790131.html",
+      "time": "9月4日 15:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "寒武纪股价跌5.27%,农银汇理基金旗下6只基金重仓,合计持有23.89万股浮亏损失1769.88万元",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infphutr1985710.d.html",
+      "time": "9月4日 10:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "芯片股走低 寒武纪跌逾7%",
+      "link": "http://finance.sina.com.cn/roll/2025-09-04/doc-infphutr1975095.shtml",
+      "time": "9月4日 09:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "寒武纪艰难保住红盘,大量科技股出现暴跌",
+      "link": "http://baijiahao.baidu.com/s?id=1842122447867147473&wfr=spider&for=pc",
+      "time": "9月2日 11:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "寒武纪大跌",
+      "link": "http://cj.sina.com.cn/articles/view/5953190035/162d67893019016s50",
+      "time": "9月1日 17:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "A股3200股飘绿,锂电股逆势爆发,半导体大跌,寒武纪跌6%",
+      "link": "http://www.163.com/dy/article/K84JIR8Q05199NPP.html",
+      "time": "8月29日 11:51",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "寒武纪登顶后失守",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842388858729394961&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "春天骄0jN",
+      "comment_time": "09-05 10:37",
+      "comment_content": "这个视角很有趣哦👀",
+      "user_location": "河北",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:27:39",
+      "event_time": "9月5日 10:21"
+    },
+    {
+      "event_title": "寒武纪跌超14%,岭南控股涨停",
+      "event_id": "event_2",
+      "event_url": "http://m.hexun.com/stock/2025-09-05/221234528.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:27:42",
+      "event_time": "9月5日 07:15"
+    },
+    {
+      "event_title": "寒武纪市值日内蒸发超700亿 市场情绪逆转",
+      "event_id": "event_3",
+      "event_url": "http://news.china.com/socialgd/10000169/20250904/48790131.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:27:44",
+      "event_time": "9月4日 15:09"
+    },
+    {
+      "event_title": "寒武纪股价跌5.27%,农银汇理基金旗下6只基金重仓,合计持有23.89万股浮亏损失1769.88万元",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.cn/2025-09-04/detail-infphutr1985710.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:27:46",
+      "event_time": "9月4日 10:07"
+    },
+    {
+      "event_title": "芯片股走低 寒武纪跌逾7%",
+      "event_id": "event_5",
+      "event_url": "http://finance.sina.com.cn/roll/2025-09-04/doc-infphutr1975095.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:27:48",
+      "event_time": "9月4日 09:52"
+    },
+    {
+      "event_title": "寒武纪艰难保住红盘,大量科技股出现暴跌",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842122447867147473&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "李牧寻访青蛙",
+      "comment_time": "09-02 11:50",
+      "comment_content": "作者大大辛苦了💪",
+      "user_location": "湖北",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:28:03",
+      "event_time": "9月2日 11:47"
+    },
+    {
+      "event_title": "寒武纪大跌",
+      "event_id": "event_7",
+      "event_url": "http://cj.sina.com.cn/articles/view/5953190035/162d67893019016s50",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:28:05",
+      "event_time": "9月1日 17:00"
+    },
+    {
+      "event_title": "A股3200股飘绿,锂电股逆势爆发,半导体大跌,寒武纪跌6%",
+      "event_id": "event_8",
+      "event_url": "http://www.163.com/dy/article/K84JIR8Q05199NPP.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:28:07",
+      "event_time": "8月29日 11:51"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 8,
+    "total_comments": 8,
+    "events_with_comments": 8,
+    "level1_scrape_time": "2025-09-13 01:27:24",
+    "level2_scrape_time": "2025-09-13 01:28:07"
+  }
+}

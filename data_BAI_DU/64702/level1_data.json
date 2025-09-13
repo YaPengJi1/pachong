@@ -1,0 +1,92 @@
+{
+  "core_info": {
+    "core_event_name": "消费贷款领域迎来“国补”",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:13:33"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "消费贷“国补”上线,建行泉州分行高效服务让政策首日“变现”",
+      "link": "http://baijiahao.baidu.com/s?id=1842318834288239350&wfr=spider&for=pc",
+      "time": "9月4日 15:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "个人消费贷“国补”落地 多家银行贴息之外还有优惠",
+      "link": "http://news.yznews.com.cn/2025-09/03/content_7763855.htm",
+      "time": "9月3日 08:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "消费贷国补落地 五大行已上线贴息专区",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_3978213729384624277",
+      "time": "9月2日 23:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "消费贷“国补”启动首日:多家银行App设专区支持一键申请",
+      "link": "http://baijiahao.baidu.com/s?id=1842145065730458014&wfr=spider&for=pc",
+      "time": "9月2日 17:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "个人消费贷“国补”落地 多家银行App有专区可一键申请",
+      "link": "http://www.163.com/dy/article/K8ETD7C30514R9KQ.html",
+      "time": "9月2日 11:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "消费贷款领域迎来“国补”",
+      "link": "http://news.sina.cn/znl/2025-09-02/detail-infpaafs9066810.d.html?mtch=tech",
+      "time": "9月2日 06:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "消费贷“国补”,今日上线!",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31525576",
+      "time": "9月1日 17:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "个人消费贷款贴息政策9月1日起实施",
+      "link": "http://finance.sina.cn/2025-09-01/detail-infnyiwn1214122.d.html",
+      "time": "9月1日 11:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "@沈阳人,“金融国补”来啦!银行提醒→",
+      "link": "http://baijiahao.baidu.com/s?id=1842050870391311297&wfr=spider&for=pc",
+      "time": "9月1日 11:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "消费贷“国补”今起上线,国补政策9月1日重启继续领取",
+      "link": "http://baijiahao.baidu.com/s?id=1842026583797025380&wfr=spider&for=pc",
+      "time": "9月1日 10:24",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 10,
+  "scrape_time": "2025-09-13 01:13:47"
+}

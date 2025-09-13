@@ -1,0 +1,116 @@
+{
+  "core_info": {
+    "core_event_name": "WTT澳门冠军赛王楚钦晋级16强",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:27:34"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "王楚钦3-1逆转晋级，开始发球吃多了",
+      "link": "http://new.qq.com/rain/a/20250911V08VPW00",
+      "time": "昨天 21:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "WTT中国澳门冠军赛男单16强对阵:王楚钦vs格罗特 林诗栋vs吴晙诚",
+      "link": "http://www.163.com/dy/article/K96D00HC0529AQIE.html",
+      "time": "昨天 14:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "澳门冠军赛16强全诞生，陈熠冲女单全胜",
+      "link": "http://baijiahao.baidu.com/s?id=1842928331394473088&wfr=spider&for=pc",
+      "time": "昨天 09:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "澳门冠军赛:薛飞、陈垣宇冲击16强任务艰巨",
+      "link": "http://www.163.com/dy/article/K95HPG0805563FP5.html",
+      "time": "昨天 06:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "王楚钦晋级WTT澳门16强",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31587502",
+      "time": "9月10日 19:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "WTT澳门冠军赛首日:王楚钦晋级16强",
+      "link": "http://www.163.com/dy/article/K93TOG9A0556C2TY.html",
+      "time": "9月10日 15:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "王楚钦晋级男单16强",
+      "link": "http://tv.cctv.com/2025/09/10/VIDEXrCk2d8Yqtl5SY5zebih250910.shtml",
+      "time": "9月10日 09:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "WTT澳门冠军赛王楚钦战胜松岛辉空，晋级16强",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12032557740551418627",
+      "time": "9月9日 22:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "王楚钦回应澳门赛开门红",
+      "link": "http://video.sina.cn/finance/2025-09-09/detail-infpxfvy8467616.d.html",
+      "time": "9月9日 21:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "澳门赛首日压轴战上演!王楚钦闪亮登场迎首秀,球迷举手机狂拍",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10951086225169013487",
+      "time": "9月9日 21:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "王楚钦空降澳门,梁靖崑退赛压力山大,独扛重担冲击冠军!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3669268938937426865",
+      "time": "9月9日 04:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "WTT澳门冠军赛男单签表出炉,王楚钦独守半区",
+      "link": "http://baijiahao.baidu.com/s?id=1842650143315683746&wfr=spider&for=pc",
+      "time": "9月8日 07:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "WTT澳门冠军赛男单签表正式出炉",
+      "link": "http://baijiahao.baidu.com/s?id=1842601574361317063&wfr=spider&for=pc",
+      "time": "9月7日 18:34",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 13,
+  "scrape_time": "2025-09-12 11:27:49"
+}

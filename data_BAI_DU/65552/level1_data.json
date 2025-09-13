@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普关税被指非法",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:47:38"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中美密谈3天，特朗普关税被裁定非法",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13400607661465397762",
+      "time": "9月4日 18:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特朗普：坚决上诉，美国输不起",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11095310344958438002",
+      "time": "9月4日 16:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美国爆发内讧!上诉法院公开裁定特朗普非法,对华关税可能作废",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5619452197238435956",
+      "time": "9月2日 14:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普关税霸权崩塌,法院裁定违法,上诉之路困难重重",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9904320141154108766",
+      "time": "9月1日 18:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "特朗普关税被指非法 白宫顾问驳斥法院裁定:这是有偏见的不公行为",
+      "link": "http://news.mydrivers.com/1/1071/1071754.htm",
+      "time": "9月1日 17:08",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 01:47:52"
+}

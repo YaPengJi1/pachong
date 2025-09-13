@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:26:19"
+  },
+  "core_event": {
+    "core_event_name": "日本经济再生大臣赤泽亮正访问美国",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:24:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "日高官再次赴美 敦促美方尽快降低关税",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1358275284127873545",
+      "time": "9月5日 09:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "日本经济再生大臣：与特朗普会面是可能的，但现在尚未决定",
+      "link": "http://baijiahao.baidu.com/s?id=1842345007180547100&wfr=spider&for=pc",
+      "time": "9月4日 22:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "日本经济再生大臣赤泽亮正:因行政问题已得到解决,将访问美国",
+      "link": "http://baijiahao.baidu.com/s?id=1842294770115552629&wfr=spider&for=pc",
+      "time": "9月4日 09:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "日本贸易谈判代表赤泽亮正:将继续推动发布总统令,以落实已达成的关税协议",
+      "link": "http://finance.sina.cn/7x24/2025-09-04/detail-infphutn7007624.d.html",
+      "time": "9月4日 09:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "日本首席贸易谈判代表赤泽亮正计划下周一前会见商务部长霍华德·卢特",
+      "link": "http://baijiahao.baidu.com/s?id=1842226170338464004&wfr=spider&for=pc",
+      "time": "9月3日 15:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "日本将在免税进口总额限制范围内购买美国大米",
+      "link": "http://baijiahao.baidu.com/s?id=1842127861754069167&wfr=spider&for=pc",
+      "time": "9月2日 13:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "日本经济再生大臣赤泽亮正:关税正在损害国内产业,我一直对此感到担忧",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "日高官再次赴美 敦促美方尽快降低关税",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=1358275284127873545",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:25:07",
+      "event_time": "9月5日 09:55"
+    },
+    {
+      "event_title": "日本经济再生大臣：与特朗普会面是可能的，但现在尚未决定",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842345007180547100&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:25:24",
+      "event_time": "9月4日 22:44"
+    },
+    {
+      "event_title": "日本经济再生大臣赤泽亮正:因行政问题已得到解决,将访问美国",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842294770115552629&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:25:39",
+      "event_time": "9月4日 09:18"
+    },
+    {
+      "event_title": "日本贸易谈判代表赤泽亮正:将继续推动发布总统令,以落实已达成的关税协议",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-04/detail-infphutn7007624.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:25:41",
+      "event_time": "9月4日 09:17"
+    },
+    {
+      "event_title": "日本首席贸易谈判代表赤泽亮正计划下周一前会见商务部长霍华德·卢特",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842226170338464004&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:25:57",
+      "event_time": "9月3日 15:13"
+    },
+    {
+      "event_title": "日本将在免税进口总额限制范围内购买美国大米",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842127861754069167&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:26:13",
+      "event_time": "9月2日 13:03"
+    },
+    {
+      "event_title": "日本经济再生大臣赤泽亮正:关税正在损害国内产业,我一直对此感到担忧",
+      "event_id": "event_7",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:26:15",
+      "event_time": "1970年"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-13 01:25:06",
+    "level2_scrape_time": "2025-09-13 01:26:15"
+  }
+}

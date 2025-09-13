@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:44:10"
+  },
+  "core_event": {
+    "core_event_name": "申京欧锦赛逆袭成巨星",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:43:43"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "欧锦赛正面击败偶像约基奇 申京告别“小约基奇”成为真正的自己",
+      "link": "http://www.163.com/dy/article/K8MJMAPN0529AQIE.html",
+      "time": "9月5日 11:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "场均21.6分9.6篮板6.8助攻!欧锦赛官推盛赞申京:本届赛事MVP?",
+      "link": "http://www.163.com/dy/article/K8LHIOGI0529AQIE.html",
+      "time": "9月5日 01:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "申京4连胜，成欧锦赛第一人，阿塔曼谈约基奇摊牌了",
+      "link": "http://cj.sina.com.cn/articles/view/1884314201/70505a5900101dggy",
+      "time": "9月4日 17:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "力压约基奇登顶榜首 申京都欧洲杯的最大惊喜",
+      "link": "http://k.sina.com.cn/article_7880068727_1d5b04e7702002eb4c.html",
+      "time": "9月3日 16:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "约基奇当选MVP",
+      "link": "http://cj.sina.com.cn/articles/view/6221719065/172d7e6190010200uy",
+      "time": "9月2日 19:03",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "欧锦赛正面击败偶像约基奇 申京告别“小约基奇”成为真正的自己",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8MJMAPN0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:43:58",
+      "event_time": "9月5日 11:39"
+    },
+    {
+      "event_title": "场均21.6分9.6篮板6.8助攻!欧锦赛官推盛赞申京:本届赛事MVP?",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8LHIOGI0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:44:00",
+      "event_time": "9月5日 01:43"
+    },
+    {
+      "event_title": "申京4连胜，成欧锦赛第一人，阿塔曼谈约基奇摊牌了",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/1884314201/70505a5900101dggy",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:44:02",
+      "event_time": "9月4日 17:47"
+    },
+    {
+      "event_title": "力压约基奇登顶榜首 申京都欧洲杯的最大惊喜",
+      "event_id": "event_4",
+      "event_url": "http://k.sina.com.cn/article_7880068727_1d5b04e7702002eb4c.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:44:04",
+      "event_time": "9月3日 16:52"
+    },
+    {
+      "event_title": "约基奇当选MVP",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/6221719065/172d7e6190010200uy",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:44:06",
+      "event_time": "9月2日 19:03"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 17:43:57",
+    "level2_scrape_time": "2025-09-12 17:44:06"
+  }
+}

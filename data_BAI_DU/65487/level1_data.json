@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "辽篮新赛季14人名单",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:42:26"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "辽篮本土16人大名单",
+      "link": "http://cj.sina.com.cn/articles/view/5887996859/15ef3b3bb001014mzk",
+      "time": "9月5日 19:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "辽宁男篮仅注册14名球员",
+      "link": "http://www.163.com/dy/article/K8K66A4M0529SJ15.html",
+      "time": "9月4日 13:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "辽宁男篮新赛季14人名单出炉",
+      "link": "http://cj.sina.com.cn/articles/view/7270284342/1b157bc36001016lji",
+      "time": "9月1日 13:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "辽篮注册名单更新:张陈治锋续约5年,邢维皓、代彦龙升一队",
+      "link": "http://www.dongqiudi.com/articles/5341027.html",
+      "time": "8月30日 11:27",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 00:42:41"
+}

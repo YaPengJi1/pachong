@@ -1,0 +1,193 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 09:59:19"
+  },
+  "core_event": {
+    "core_event_name": "2025年东京田径世锦赛",
+    "update_time": "更新至20250912",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:58:16"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "田径世锦赛13日打响 中国军团精锐尽出",
+      "link": "http://whwb.cjn.cn/html/2025-09/12/content_48091_2617125.htm",
+      "time": "今天 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国田径队东京开启赛前备战 世锦赛力争佳绩",
+      "link": "http://baijiahao.baidu.com/s?id=1842957860818547163&wfr=spider&for=pc",
+      "time": "昨天 16:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "2025东京田径世锦赛13日打响，中国军团精锐尽出",
+      "link": "http://baijiahao.baidu.com/s?id=1842949083030145401&wfr=spider&for=pc",
+      "time": "昨天 02:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国田径队第6次参加世锦赛",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8375010950722507347",
+      "time": "9月10日 22:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "2025田径世锦赛即将打响，日本队拟在主场突破过往单届最佳战绩",
+      "link": "http://cj.sina.com.cn/articles/view/7705509111/1cb48bcf700101f076",
+      "time": "9月10日 18:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "2025年东京田径世锦赛开赛在即",
+      "link": "http://new.qq.com/rain/a/20250910A0220G00",
+      "time": "9月10日 09:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "戴倩倩领衔中国田径队",
+      "link": "http://www.sohu.com/a/933120298_122001006",
+      "time": "9月8日 15:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "田径世锦赛9月13日开幕",
+      "link": "http://www.jfdaily.com/wx/detail.do?id=977971",
+      "time": "9月6日 16:16",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "田径世锦赛13日打响 中国军团精锐尽出",
+      "event_id": "event_1",
+      "event_url": "http://whwb.cjn.cn/html/2025-09/12/content_48091_2617125.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:58:32",
+      "event_time": "今天 00:00"
+    },
+    {
+      "event_title": "中国田径队东京开启赛前备战 世锦赛力争佳绩",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842957860818547163&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "阿根讨厌打架",
+      "comment_time": "14小时前",
+      "comment_content": "这个视角很独特👍",
+      "user_location": "海南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:58:49",
+      "event_time": "昨天 16:39"
+    },
+    {
+      "event_title": "2025东京田径世锦赛13日打响，中国军团精锐尽出",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842949083030145401&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:59:05",
+      "event_time": "昨天 02:46"
+    },
+    {
+      "event_title": "中国田径队第6次参加世锦赛",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8375010950722507347",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:59:07",
+      "event_time": "9月10日 22:13"
+    },
+    {
+      "event_title": "2025田径世锦赛即将打响，日本队拟在主场突破过往单届最佳战绩",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/7705509111/1cb48bcf700101f076",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:59:09",
+      "event_time": "9月10日 18:53"
+    },
+    {
+      "event_title": "2025年东京田径世锦赛开赛在即",
+      "event_id": "event_6",
+      "event_url": "http://new.qq.com/rain/a/20250910A0220G00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:59:11",
+      "event_time": "9月10日 09:28"
+    },
+    {
+      "event_title": "戴倩倩领衔中国田径队",
+      "event_id": "event_7",
+      "event_url": "http://www.sohu.com/a/933120298_122001006",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:59:13",
+      "event_time": "9月8日 15:57"
+    },
+    {
+      "event_title": "田径世锦赛9月13日开幕",
+      "event_id": "event_8",
+      "event_url": "http://www.jfdaily.com/wx/detail.do?id=977971",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:59:15",
+      "event_time": "9月6日 16:16"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 8,
+    "total_comments": 8,
+    "events_with_comments": 8,
+    "level1_scrape_time": "2025-09-12 09:58:31",
+    "level2_scrape_time": "2025-09-12 09:59:15"
+  }
+}

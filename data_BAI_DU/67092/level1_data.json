@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "甲骨文云计算订单获5000亿美元",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:26:59"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "甲骨文股价暴涨36%",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9875726120454392424",
+      "time": "昨天 14:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "甲骨文RPO大增 国内算力产业链再迎催化",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11681960877486987043",
+      "time": "昨天 10:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "甲骨文云业务前景推动股价飙升36%",
+      "link": "http://finance.sina.cn/usstock/mggd/2025-09-11/detail-infqafys3587107.d.html?froms=bdmp",
+      "time": "昨天 04:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "甲骨文预计获得5000亿美元云计算订单",
+      "link": "http://finance.sina.cn/7x24/2025-09-10/detail-infpzraz2363489.d.html",
+      "time": "9月10日 21:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "甲骨文法兰克福股价上涨31%",
+      "link": "http://finance.eastmoney.com/a/202509103509811767.html",
+      "time": "9月10日 14:08",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 11:27:14"
+}

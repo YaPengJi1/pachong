@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:41:05"
+  },
+  "core_event": {
+    "core_event_name": "中科曙光发布首个AI计算开放架构",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:40:38"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国内首个AI计算开放架构发布",
+      "link": "http://www.nbd.com.cn/articles/2025-09-08/4052449.html",
+      "time": "9月8日 14:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "曙光数创亮相智博会:液冷加持,AI集群走向高效与可持续",
+      "link": "http://tech.ce.cn/xxfw/202509/t20250908_2467632.shtml",
+      "time": "9月8日 10:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国首个AI计算开放架构发布",
+      "link": "http://tv.cctv.com/2025/09/06/VIDEBrhUF6lCRaOcSn5OndQD250906.shtml",
+      "time": "9月6日 21:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "首个AI计算开放架构发布 国产智算迎来“安卓模式”",
+      "link": "http://finance.sina.com.cn/tech/roll/2025-09-06/doc-infppxvm1883922.shtml",
+      "time": "9月6日 17:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "国内首个AI计算开放架构在重庆发布",
+      "link": "http://cq.people.com.cn/BIG5/n2/2025/0905/c365401-41343297.html",
+      "time": "9月5日 20:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "国内首个AI计算开放架构发布",
+      "event_id": "event_1",
+      "event_url": "http://www.nbd.com.cn/articles/2025-09-08/4052449.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:40:53",
+      "event_time": "9月8日 14:31"
+    },
+    {
+      "event_title": "曙光数创亮相智博会:液冷加持,AI集群走向高效与可持续",
+      "event_id": "event_2",
+      "event_url": "http://tech.ce.cn/xxfw/202509/t20250908_2467632.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:40:55",
+      "event_time": "9月8日 10:49"
+    },
+    {
+      "event_title": "中国首个AI计算开放架构发布",
+      "event_id": "event_3",
+      "event_url": "http://tv.cctv.com/2025/09/06/VIDEBrhUF6lCRaOcSn5OndQD250906.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:40:57",
+      "event_time": "9月6日 21:29"
+    },
+    {
+      "event_title": "首个AI计算开放架构发布 国产智算迎来“安卓模式”",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.com.cn/tech/roll/2025-09-06/doc-infppxvm1883922.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:40:59",
+      "event_time": "9月6日 17:25"
+    },
+    {
+      "event_title": "国内首个AI计算开放架构在重庆发布",
+      "event_id": "event_5",
+      "event_url": "http://cq.people.com.cn/BIG5/n2/2025/0905/c365401-41343297.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:41:01",
+      "event_time": "9月5日 20:18"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 10:40:52",
+    "level2_scrape_time": "2025-09-12 10:41:01"
+  }
+}

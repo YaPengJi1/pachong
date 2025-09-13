@@ -1,0 +1,268 @@
+{
+  "core_info": {
+    "core_event_name": "以色列空袭卡塔尔",
+    "update_time": "更新至20250912",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:53:47"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美媒:特朗普要求以方承诺不再袭击卡塔尔",
+      "link": "http://tv.cctv.com/2025/09/12/VIDEKJqEZizaMgoIn6ltXFue250912.shtml",
+      "time": "3小时前",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "以色列突袭卡塔尔,美国事先不知情?",
+      "link": "http://new.qq.com/rain/a/20250911V062RX00",
+      "time": "昨天 16:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "以色列表面轰炸多哈,其实是在试探底线,为吞并周边领土做准备",
+      "link": "http://cj.sina.com.cn/articles/view/7307143125/1b38a27d502001922o",
+      "time": "昨天 16:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "以色列袭击卡塔尔",
+      "link": "http://www.163.com/dy/article/K96H7F6H05566ZZD.html",
+      "time": "昨天 16:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "哈马斯高层提前转移,以色列千里追杀失败?外媒:土耳其告密",
+      "link": "http://new.qq.com/rain/a/20250911A03RN800",
+      "time": "昨天 12:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "以色列空袭卡塔尔，史无前例",
+      "link": "http://baijiahao.baidu.com/s?id=1842931246227315167&wfr=spider&for=pc",
+      "time": "昨天 10:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "10枚导弹从天而降,以色列“斩首”失败?特朗普:不是我的决定",
+      "link": "http://new.qq.com/rain/a/20250911A0273C00",
+      "time": "昨天 09:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "以色列空袭卡塔尔，中东危局更危",
+      "link": "http://finance.sina.cn/2025-09-11/detail-infpzzsv2146046.d.html",
+      "time": "昨天 03:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "卡塔尔遇袭再敲警钟",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_3905971825253747435",
+      "time": "9月10日 22:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "以色列袭击卡塔尔首都，美国里外不是人",
+      "link": "http://baijiahao.baidu.com/s?id=1842885300902812794&wfr=spider&for=pc",
+      "time": "9月10日 21:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "以军战机轰炸卡塔尔首都,全球经济或将迎来突变",
+      "link": "http://live.baidu.com/m/media/multipage/liveshow/index.html?room_id=10647796615&diff_type=review",
+      "time": "9月10日 21:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "以色列“突袭”卡塔尔 中国外交部:武力换不来中东和平",
+      "link": "http://tv.cctv.com/2025/09/10/VIDEJZy3QhMs2zV0DF78e5IJ250910.shtml",
+      "time": "9月10日 20:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "以军空袭在卡塔尔的哈马斯高层成员",
+      "link": "http://tv.cctv.com/2025/09/10/VIDEavAa8HR6nXBq0izy68x2250910.shtml",
+      "time": "9月10日 16:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "以军10枚导弹砸向多哈，特朗普提前知道消息，卡塔尔只字不提报仇",
+      "link": "http://cj.sina.com.cn/articles/view/6240526731/173f6e18b00102z64s",
+      "time": "9月10日 16:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "卡塔尔宣布调解暂停",
+      "link": "http://www.163.com/dy/article/K93UTUID0553V3ZM.html",
+      "time": "9月10日 16:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "以色列“突袭”卡塔尔 中东局势急转直下",
+      "link": "http://live.baidu.com/m/media/multipage/liveshow/index.html?room_id=10647481433&diff_type=review",
+      "time": "9月10日 15:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "以色列轰炸卡塔尔首都，美国盟友都敢炸",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10344783819312856727",
+      "time": "9月10日 14:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "以色列突袭卡塔尔，美国知情时间再度升级",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3731923716418125964",
+      "time": "9月10日 14:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "袭击哈马斯高层,以军筹划数月,15架战斗机数秒内发射约10枚导弹",
+      "link": "http://www.nbd.com.cn/articles/2025-09-10/4055630.html",
+      "time": "9月10日 14:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "以色列轰炸卡塔尔首都",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13446605574368660801",
+      "time": "9月10日 12:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_21",
+      "title": "特朗普:以色列袭击卡塔尔“不是我的决定”",
+      "link": "http://www.cztv.com/newsDetail/816229",
+      "time": "9月10日 10:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_22",
+      "title": "特朗普亲自设局，以色列千里空袭卡塔尔，哈马斯高层逃过一劫",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1211520251349900092",
+      "time": "9月10日 10:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_23",
+      "title": "以色列“突袭”卡塔尔 整件事有多严重",
+      "link": "http://baijiahao.baidu.com/s?id=1842841339733678114&wfr=spider&for=pc",
+      "time": "9月10日 10:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_24",
+      "title": "特朗普:以色列袭击卡塔尔“不是我做出的决定”",
+      "link": "http://www.chinaqw.com/yw/2025/09-10/397400.shtml",
+      "time": "9月10日 10:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_25",
+      "title": "卡塔尔首相遭以军空袭10分钟后才接到美方电话",
+      "link": "http://news.ycwb.com/ikinvkbtjk/content_53660223.htm",
+      "time": "9月10日 09:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_26",
+      "title": "卡塔尔首相:卡方保留回应以色列的权利",
+      "link": "http://baijiahao.baidu.com/s?id=1842840177814076298&wfr=spider&for=pc",
+      "time": "9月10日 09:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_27",
+      "title": "哈马斯高层刚躲进防空洞,以军导弹下一秒就扎进会场",
+      "link": "http://new.qq.com/rain/a/20250910V01YPX00",
+      "time": "9月10日 09:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_28",
+      "title": "美国称以色列在卡塔尔搞单方面轰炸",
+      "link": "http://news.sohu.com/a/933437593_120012588",
+      "time": "9月10日 08:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_29",
+      "title": "以军筹划数月越境袭击哈马斯高层，中东局势再升级",
+      "link": "http://baijiahao.baidu.com/s?id=1842849498701403670&wfr=spider&for=pc",
+      "time": "9月10日 08:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_30",
+      "title": "以色列:对在卡塔尔的哈马斯高层实施精准打击",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16496620429736055661",
+      "time": "9月10日 07:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_31",
+      "title": "卡塔尔被以色列空军抽巴掌，12枚导弹精确斩首",
+      "link": "http://cj.sina.com.cn/articles/view/7295511708/1b2d8ac9c020016ady",
+      "time": "9月9日 23:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_32",
+      "title": "哈马斯部分领导人在多哈遭以色列袭击",
+      "link": "http://tv.cctv.com/2025/09/09/VIDEbn8mJpmL9E62jLgPXVM9250909.shtml",
+      "time": "9月9日 22:21",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 32,
+  "scrape_time": "2025-09-12 09:54:04"
+}

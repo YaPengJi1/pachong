@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:26:09"
+  },
+  "core_event": {
+    "core_event_name": "科捷智能顺丰投资减持",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:25:45"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "顺丰投资首次减持科捷智能",
+      "link": "http://new.qq.com/rain/a/20250908A07SJ200",
+      "time": "9月8日 19:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "顺丰投资拟减持不超3%公司股份",
+      "link": "http://finance.eastmoney.com/a/202509083507463329.html",
+      "time": "9月8日 12:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "科捷智能股东顺丰投资拟减持不超3%公司股份",
+      "link": "http://finance.eastmoney.com/a/202509073506875197.html",
+      "time": "9月7日 16:20",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "顺丰投资首次减持科捷智能",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250908A07SJ200",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:26:00",
+      "event_time": "9月8日 19:03"
+    },
+    {
+      "event_title": "顺丰投资拟减持不超3%公司股份",
+      "event_id": "event_2",
+      "event_url": "http://finance.eastmoney.com/a/202509083507463329.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:26:02",
+      "event_time": "9月8日 12:48"
+    },
+    {
+      "event_title": "科捷智能股东顺丰投资拟减持不超3%公司股份",
+      "event_id": "event_3",
+      "event_url": "http://finance.eastmoney.com/a/202509073506875197.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:26:04",
+      "event_time": "9月7日 16:20"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 10:25:59",
+    "level2_scrape_time": "2025-09-12 10:26:04"
+  }
+}

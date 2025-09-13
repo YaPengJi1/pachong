@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "成都地铁被诬陷偷拍案",
+    "update_time": "更新至2025年9月8日 18:29",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:51:09"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "“男子地铁被诬陷偷拍案”二审未宣判",
+      "link": "https://baijiahao.baidu.com/s?id=1842692015085163498&wfr=spider&for=pc",
+      "time": "9月8日 18:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "二审将开庭，当事人：诉求是公开道歉和5万元赔偿",
+      "link": "https://baijiahao.baidu.com/s?id=1842635224037332972&wfr=spider&for=pc",
+      "time": "9月8日 00:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "成都“地铁被诬陷偷拍”案将二审开庭 当事人：诉求仍是公开道歉",
+      "link": "https://baijiahao.baidu.com/s?id=1842379297231692490&wfr=baike",
+      "time": "9月5日 07:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "成都地铁被诬陷偷拍男子初十办喜酒：老婆是重庆人，支持自己维权",
+      "link": "https://baijiahao.baidu.com/s?id=1823015776810646927",
+      "time": "2月3日 14:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "当事人：分歧已缩小至女方公开道歉的具体措施",
+      "link": "https://baijiahao.baidu.com/s?id=1803828557670408237&wfr=baike",
+      "time": "2024年7月6日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "“成都地铁偷拍事件”一审宣判",
+      "link": "https://baijiahao.baidu.com/s?id=1785120409655819373&wfr=spider&for=pc",
+      "time": "2023年12月13日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "当事人：将起诉两名女生和地铁方，要求道歉及经济赔偿",
+      "link": "https://baijiahao.baidu.com/s?id=1781356762449182863&wfr=baike",
+      "time": "2023年11月1日",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "男子在成都地铁被诬陷偷拍案11月1日开庭，将不公开审理",
+      "link": "https://baijiahao.baidu.com/s?id=1781250910917500537&wfr=baike",
+      "time": "2023年10月31日",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-12 14:51:23"
+}

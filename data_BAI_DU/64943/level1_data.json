@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "韩德君退役",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:51:38"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "韩德君官宣退役,18年薪资揭秘,谢绝辽篮安排,职务公布",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8648669675111140573",
+      "time": "9月5日 19:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "韩德君退役引多方关注:官媒送祝福,国际篮联发声,队友不舍",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2777506386389367228",
+      "time": "9月5日 14:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "韩德君正式退出,18年薪水曝光,拒绝辽篮安排,新岗位曝光",
+      "link": "http://cj.sina.com.cn/articles/view/1340604587/4fe800ab001016fbw",
+      "time": "9月4日 12:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "多位老将新赛季未注册 辽宁队名将韩德君官宣退役",
+      "link": "http://baijiahao.baidu.com/s?id=1842121975917460593&wfr=spider&for=pc",
+      "time": "9月2日 11:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "韩德君退役",
+      "link": "http://baijiahao.baidu.com/s?id=1842114560565599813&wfr=spider&for=pc",
+      "time": "9月2日 09:42",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 17:51:52"
+}

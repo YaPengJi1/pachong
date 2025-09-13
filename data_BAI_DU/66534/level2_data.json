@@ -1,0 +1,45 @@
+{
+  "core_event_name": "金价持续攀升突破3600大关",
+  "comments": [
+    {
+      "event_title": "金价又涨了,创历史新高",
+      "event_id": "event_1",
+      "event_url": "http://m.sohu.com/a/933384270_120988533",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:41:14",
+      "event_time": "9月9日 22:40"
+    },
+    {
+      "event_title": "金价,又涨了!",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/2137950223/7f6e880f01902d3y2",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:41:16",
+      "event_time": "9月9日 16:04"
+    },
+    {
+      "event_title": "金价持续攀升突破3600大关,机构:还能涨",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842697579545455354&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "北京Babycarry",
+      "comment_time": "09-08 20:19",
+      "comment_content": "内容很精彩，期待更新！",
+      "user_location": "重庆",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 11:41:33"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 11:41:33"
+}

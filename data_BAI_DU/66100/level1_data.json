@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "比亚迪加速中国新能源汽车出海",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:17:26"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "比亚迪欧洲市场份额超越特斯拉",
+      "link": "http://weibo.com/6369480804/Q3DNZdUiM",
+      "time": "9月8日 19:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "比亚迪与深圳港签署战略合作协议，汽车滚装滚装船出口等方面深化合作",
+      "link": "http://baijiahao.baidu.com/s?id=1842657850099527935&wfr=spider&for=pc",
+      "time": "9月8日 09:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "比亚迪加速中国新能源汽车出海",
+      "link": "http://cj.sina.com.cn/articles/view/1964158257/7512ad3100101i9o0",
+      "time": "9月6日 23:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "比亚迪:8 艘滚装船中已有 7 艘投入运营",
+      "link": "http://baijiahao.baidu.com/s?id=1842334730578917263&wfr=spider&for=pc",
+      "time": "9月4日 20:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "比亚迪取代特斯拉,成为电动车行业“领头羊”",
+      "link": "http://cj.sina.com.cn/articles/view/1657987915/62d2e34b00102mo1m",
+      "time": "9月4日 18:30",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 14:17:40"
+}

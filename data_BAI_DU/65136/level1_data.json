@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "王楚钦北大入学照",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:57:41"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "入学北大!王楚钦晒照发文:冬去秋来,又是一程",
+      "link": "http://baijiahao.baidu.com/s?id=1842513996326006898&wfr=spider&for=pc",
+      "time": "9月6日 19:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "王楚钦晒北大入学照，“冬去秋来，又是一程”",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31552397",
+      "time": "9月6日 13:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "王楚钦晒北大入学照:冬去秋来,又是一程",
+      "link": "http://finance.sina.com.cn/jjxw/2025-09-06/doc-infppart7044706.shtml",
+      "time": "9月6日 07:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "入学北大!王楚钦晒照发文",
+      "link": "http://news.cyol.com/gb/articles/2025-09/06/content_LgndmdhGKN.html",
+      "time": "9月6日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "王楚钦晒北大入学照，“冬去秋来，又是一程”，此前北大曾回应其考研，以奥运冠军身份申请，不占普通学生名额",
+      "link": "http://baijiahao.baidu.com/s?id=1842431326564358298&wfr=spider&for=pc",
+      "time": "9月5日 21:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "王楚钦晒北大入学照",
+      "link": "http://baijiahao.baidu.com/s?id=1842429855777169971&wfr=spider&for=pc",
+      "time": "9月5日 21:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "王楚钦入选北大",
+      "link": "http://baijiahao.baidu.com/s?id=1842303759172240496&wfr=spider&for=pc",
+      "time": "9月4日 11:49",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 18:57:56"
+}

@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:26:27"
+  },
+  "core_event": {
+    "core_event_name": "寒武纪大跌",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:25:59"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "寒武纪早盘大跌8%,主力资金流出超9亿",
+      "link": "http://www.donews.com/news/detail/8/6065415.html",
+      "time": "9月4日 11:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "寒武纪成交额超100亿元,现跌8%",
+      "link": "http://finance.eastmoney.com/a/202509043504478694.html",
+      "time": "9月4日 10:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "寒武纪-U成交额达100亿元,现跌超7%",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infphutn7047920.d.html",
+      "time": "9月4日 10:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "科创50指数调整,寒武纪权重下调引股价波动",
+      "link": "http://weibo.com/6881597902/Q2Tt1iGID",
+      "time": "9月3日 21:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "寒武纪大跌",
+      "link": "http://cj.sina.com.cn/articles/view/5953190035/162d67893019016s50",
+      "time": "9月1日 17:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "寒武纪早盘大跌8%,主力资金流出超9亿",
+      "event_id": "event_1",
+      "event_url": "http://www.donews.com/news/detail/8/6065415.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:26:15",
+      "event_time": "9月4日 11:01"
+    },
+    {
+      "event_title": "寒武纪成交额超100亿元,现跌8%",
+      "event_id": "event_2",
+      "event_url": "http://finance.eastmoney.com/a/202509043504478694.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:26:17",
+      "event_time": "9月4日 10:17"
+    },
+    {
+      "event_title": "寒武纪-U成交额达100亿元,现跌超7%",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.cn/2025-09-04/detail-infphutn7047920.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:26:19",
+      "event_time": "9月4日 10:03"
+    },
+    {
+      "event_title": "科创50指数调整,寒武纪权重下调引股价波动",
+      "event_id": "event_4",
+      "event_url": "http://weibo.com/6881597902/Q2Tt1iGID",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:26:21",
+      "event_time": "9月3日 21:07"
+    },
+    {
+      "event_title": "寒武纪大跌",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/5953190035/162d67893019016s50",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:26:23",
+      "event_time": "9月1日 17:00"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-13 02:26:14",
+    "level2_scrape_time": "2025-09-13 02:26:23"
+  }
+}

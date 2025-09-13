@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "东契奇欧锦赛场均34分",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:42:25"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "东契奇场均34+8+7打服德国核心 美媒:MVP赛季来了",
+      "link": "http://app.myzaker.com/news/article.php?m=1757569623&pk=68c260e78e9f09485742b8d1",
+      "time": "昨天 13:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "东契奇42+10狂刷纪录透露伤处很痛 统治欧洲杯引称赞",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-09/doc-infpwvhe8634256.shtml",
+      "time": "9月9日 16:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "东契奇单节轰22分，欧锦赛场均34分8.3分",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hlhu",
+      "time": "9月8日 07:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "东契奇欧锦赛场均34分排名第一，字母哥30分居次",
+      "link": "http://k.sina.com.cn/article_7880068820_1d5b04ed402001dfik.html",
+      "time": "9月8日 06:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "欧锦赛小组赛得分榜:东契奇场均32.4分傲视群雄 字母哥命中率逆天",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-05/doc-infpkxsr1063159.shtml",
+      "time": "9月5日 09:27",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 10:42:40"
+}

@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "零跑汽车成都车展大秀肌肉",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:43:34"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "成都车展:零跑B01万台交付 B10新色登场",
+      "link": "http://www.pcauto.com.cn/ask/3886592.html",
+      "time": "9月6日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "零跑B10新色首发暨B01万台交付",
+      "link": "http://m.sohu.com/a/930718609_115201",
+      "time": "9月5日 12:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "零跑汽车连续5个月蝉联中国新势力销量冠军",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_3729330343160570361",
+      "time": "9月3日 09:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "零跑B10&B01双星闪耀成都车展",
+      "link": "http://www.pcauto.com.cn/hj/article/3046658.html",
+      "time": "9月2日 20:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "零跑B10摩根粉亮相,B01实现万台交付",
+      "link": "http://finance.eastmoney.com/a/202508303500145424.html",
+      "time": "8月30日 19:47",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 18:43:48"
+}

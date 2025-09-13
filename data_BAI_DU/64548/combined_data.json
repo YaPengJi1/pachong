@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:00:13"
+  },
+  "core_event": {
+    "core_event_name": "蔚来研发投入加大",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:59:10"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "蔚来2025年第二季度净亏损49.9亿元同比收窄1%",
+      "link": "http://k.sina.cn/article_5952915720_162d2490806702eknw.html",
+      "time": "9月4日 20:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "蔚来半年又亏百亿",
+      "link": "http://www.ifanr.com/1636551",
+      "time": "9月4日 09:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "蔚来离盈利还差一辆爆款车",
+      "link": "http://www.pcauto.com.cn/hot/21989.html",
+      "time": "9月4日 09:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "蔚来大手笔砸研发 李斌:明年研发投入超20亿",
+      "link": "http://finance.sina.cn/stock/relnews/hk/2025-09-03/detail-infpftha4189600.d.html",
+      "time": "9月3日 18:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "蔚来汽车业绩喜忧参半，股价反弹缺乏动能",
+      "link": "http://baijiahao.baidu.com/s?id=1842236889476363412&wfr=spider&for=pc",
+      "time": "9月3日 17:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "蔚来Q2营收、销量大涨，仍净亏近50亿",
+      "link": "http://baijiahao.baidu.com/s?id=1842215058420384054&wfr=spider&for=pc",
+      "time": "9月3日 11:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "蔚来Q2营收突破190亿元大关",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7872132059281150910",
+      "time": "9月2日 21:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "从巨亏到重回千亿,蔚来凭ES8、乐道L90打了场翻身仗 市值激增90%",
+      "link": "http://k.sina.cn/article_3089293505_b822e0c102701h16m.html",
+      "time": "9月1日 14:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "蔚来股价接近翻倍!李斌:对新ES8的市场热情预估保守了 正全力增加产能",
+      "link": "http://news.17173.com/content/08312025/202701767.shtml",
+      "time": "8月31日 20:27",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "蔚来2025年第二季度净亏损49.9亿元同比收窄1%",
+      "event_id": "event_1",
+      "event_url": "http://k.sina.cn/article_5952915720_162d2490806702eknw.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:59:25",
+      "event_time": "9月4日 20:10"
+    },
+    {
+      "event_title": "蔚来半年又亏百亿",
+      "event_id": "event_2",
+      "event_url": "http://www.ifanr.com/1636551",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:59:27",
+      "event_time": "9月4日 09:15"
+    },
+    {
+      "event_title": "蔚来离盈利还差一辆爆款车",
+      "event_id": "event_3",
+      "event_url": "http://www.pcauto.com.cn/hot/21989.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:59:29",
+      "event_time": "9月4日 09:00"
+    },
+    {
+      "event_title": "蔚来大手笔砸研发 李斌:明年研发投入超20亿",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.cn/stock/relnews/hk/2025-09-03/detail-infpftha4189600.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:59:31",
+      "event_time": "9月3日 18:31"
+    },
+    {
+      "event_title": "蔚来汽车业绩喜忧参半，股价反弹缺乏动能",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842236889476363412&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:59:48",
+      "event_time": "9月3日 17:16"
+    },
+    {
+      "event_title": "蔚来Q2营收、销量大涨，仍净亏近50亿",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842215058420384054&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "玫瑰女神Venus",
+      "comment_time": "09-03 13:30",
+      "comment_content": "蔚来销量收入双涨，亏损收窄显进步，看好未来势头趋好。",
+      "user_location": "广东",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:00:03",
+      "event_time": "9月3日 11:22"
+    },
+    {
+      "event_title": "蔚来Q2营收突破190亿元大关",
+      "event_id": "event_7",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7872132059281150910",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:00:05",
+      "event_time": "9月2日 21:54"
+    },
+    {
+      "event_title": "从巨亏到重回千亿,蔚来凭ES8、乐道L90打了场翻身仗 市值激增90%",
+      "event_id": "event_8",
+      "event_url": "http://k.sina.cn/article_3089293505_b822e0c102701h16m.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:00:07",
+      "event_time": "9月1日 14:39"
+    },
+    {
+      "event_title": "蔚来股价接近翻倍!李斌:对新ES8的市场热情预估保守了 正全力增加产能",
+      "event_id": "event_9",
+      "event_url": "http://news.17173.com/content/08312025/202701767.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:00:09",
+      "event_time": "8月31日 20:27"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 9,
+    "total_comments": 9,
+    "events_with_comments": 9,
+    "level1_scrape_time": "2025-09-13 01:59:24",
+    "level2_scrape_time": "2025-09-13 02:00:09"
+  }
+}

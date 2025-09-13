@@ -1,0 +1,46 @@
+{
+  "core_event_name": "北京国安惨败山东泰山",
+  "comments": [
+    {
+      "event_title": "北京国安球迷扬言要横扫河南",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4011807046943221492",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:56:06",
+      "event_time": "9月4日 16:10"
+    },
+    {
+      "event_title": "国安客场0-6惨败泰山，塞蒂恩执教生涯再现单场净负6球",
+      "event_id": "event_2",
+      "event_url": "http://k.sina.com.cn/article_1698513182_653d411e04001n7pk.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:56:08",
+      "event_time": "8月31日 21:13"
+    },
+    {
+      "event_title": "京媒怒斥国安被带节奏",
+      "event_id": "event_3",
+      "event_url": "http://www.sohu.com/a/930053613_121644096",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:56:10",
+      "event_time": "8月30日 07:26"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-13 01:56:10"
+}

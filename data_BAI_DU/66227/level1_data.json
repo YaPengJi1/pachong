@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "美网男单决赛",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:49:28"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美网男单决赛,辛纳VS阿尔卡拉斯,CCTV-5直播",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2763234400062176240",
+      "time": "9月9日 11:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美网男单决赛:阿卡6-1拿下第三盘,大比分2-1领先辛纳",
+      "link": "http://voice.hupu.com/bbs/634736428",
+      "time": "9月8日 04:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "2025美网男单决赛，辛纳6-3阿尔卡拉斯",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8957208545918017935",
+      "time": "9月8日 04:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美网第13日男单决赛出炉:阿卡直落三盘胜德约 辛纳苦战艰难晋级",
+      "link": "http://www.163.com/dy/article/K8P7AE560529S1EA.html",
+      "time": "9月6日 12:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "今年第5度辛卡决!美网男单决赛对阵:辛纳vs阿尔卡拉斯",
+      "link": "http://www.163.com/dy/article/K8P4FIBL0529DS7F.html",
+      "time": "9月6日 11:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "美网男单决赛对阵出炉",
+      "link": "http://baijiahao.baidu.com/s?id=1842481631548749909&wfr=spider&for=pc",
+      "time": "9月6日 10:57",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 14:49:42"
+}

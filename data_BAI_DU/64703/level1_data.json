@@ -1,0 +1,100 @@
+{
+  "core_info": {
+    "core_event_name": "梅西连续20年阿根廷国家队进球",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:15:12"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "梅西在阿根廷的20年:194场造175球+10戴帽,赢得世界杯等6座冠军",
+      "link": "http://www.163.com/dy/article/K8ND6NG60529AQIE.html",
+      "time": "9月5日 19:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "阿根廷队晒梅西数据:194场114球59助,世预赛36球&世界杯13球",
+      "link": "http://www.163.com/dy/article/K8MKA3FL0529AQIE.html",
+      "time": "9月5日 11:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "阿根廷队主场3比0完胜委内瑞拉队 梅西在本场完成梅开二度",
+      "link": "http://baijiahao.baidu.com/s?id=1842392382058864314&wfr=spider&for=pc",
+      "time": "9月5日 11:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "梅罗最新进球数:C罗1284场940球,梅西1120场879球",
+      "link": "http://www.163.com/dy/article/K8MH95890529AQIE.html",
+      "time": "9月5日 10:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "梅西连续20年在阿根廷国家队有进球入账",
+      "link": "http://www.163.com/dy/article/K8M9RDGO0549BAP0.html",
+      "time": "9月5日 08:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "梅西可能迎来阿根廷国家队主场最后一战",
+      "link": "http://www.dongqiudi.com/articles/5354940.html",
+      "time": "9月5日 06:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "阿根廷vs委内瑞拉:梅西领衔,马斯坦托诺、德保罗出战",
+      "link": "http://www.dongqiudi.com/articles/5353815.html",
+      "time": "9月5日 06:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "阿根廷VS委内瑞拉",
+      "link": "http://m.dongqiudi.com/article/5353815.html",
+      "time": "9月5日 06:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "梅西领衔阿根廷出战世预赛，CCTV5转美网+篮球公园",
+      "link": "http://cj.sina.com.cn/articles/view/1685707867/6479dc5b00101e3sk",
+      "time": "9月5日 01:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "8万人见证世预赛主场最后一舞 38岁梅西冲击金靴首发曝光",
+      "link": "http://cj.sina.com.cn/articles/view/6645066132/18c13a99402001817q",
+      "time": "9月4日 08:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "梅西复出引爆世预赛,阿根廷剑指胜利!",
+      "link": "http://www.sohu.com/a/931661593_122001006",
+      "time": "9月4日 06:42",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 11,
+  "scrape_time": "2025-09-13 01:15:26"
+}

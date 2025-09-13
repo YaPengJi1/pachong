@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "美股三大股指收跌",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:39:28"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美股收盘:科技巨头集体走强",
+      "link": "http://news.china.com/socialgd/10000169/20250905/48791783_all.html",
+      "time": "9月5日 07:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美股大跌问题出在欧洲",
+      "link": "http://m.huxiu.com/article/4762536.html",
+      "time": "9月3日 16:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美股三大股指收跌 英伟达跌近2%",
+      "link": "http://www.sohu.com/a/931299486_122014422",
+      "time": "9月3日 04:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美股大跌,只是开始",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 14:39:43"
+}

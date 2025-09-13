@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "泰山队6-0大胜国安",
+    "update_time": "更新至20250901",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:24:24"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "六球赢下“京鲁大战” 泰山队焕然一新",
+      "link": "http://baijiahao.baidu.com/s?id=1842065165044814898&wfr=spider&for=pc",
+      "time": "9月1日 20:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中超：泰山大获全胜，国安溃不成军，申花遭绝杀",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6105482442135754899",
+      "time": "9月1日 09:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "瓦科大四喜+马德鲁加梅开二度,山东泰山主场6:0大胜北京国安",
+      "link": "http://news.e23.cn/tiyu/2025-09-01/2025090100031.html",
+      "time": "9月1日 07:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "瓦科大四喜独霸射手榜",
+      "link": "http://www.163.com/dy/article/K8APOR640556C2XO.html",
+      "time": "8月31日 21:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "泰山6-0大胜国安，中超最大失利",
+      "link": "http://www.163.com/dy/article/K8APMPRN0529AQIE.html",
+      "time": "8月31日 21:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "泰山梦幻开局!瓦科6场连入8球,首破国安球门,冲击中超金靴",
+      "link": "http://baijiahao.baidu.com/s?id=1841971903928813349&wfr=spider&for=pc",
+      "time": "8月31日 19:54",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 21:24:38"
+}

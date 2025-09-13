@@ -1,0 +1,206 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 21:26:50"
+  },
+  "core_event": {
+    "core_event_name": "国青横扫东帝汶，十四球零封劲敌",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:25:28"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国足U22险胜东帝汶原因揭晓",
+      "link": "http://www.163.com/dy/article/K8PCSK4D055333FL.html",
+      "time": "9月6日 13:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "国青横扫东帝汶，十四球零封劲敌，残暴战绩引爆关注",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17411905014574056333",
+      "time": "9月5日 01:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "拜合拉木:场地多多少少会有点影响发挥,但更多是我们自己失误",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hfuy",
+      "time": "9月4日 09:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22国足2-1险胜东帝汶",
+      "link": "http://baijiahao.baidu.com/s?id=1842285152940565968&wfr=spider&for=pc",
+      "time": "9月4日 06:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "U23亚洲杯预选赛，中国队首战击败东帝汶队",
+      "link": "http://cj.sina.com.cn/articles/view/1699432410/654b47da02001k2he",
+      "time": "9月3日 23:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "U23亚洲杯中国男足2-1东帝汶 最后5分钟 国足狂轰乱炸 疯狂围攻",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7757536933312574782",
+      "time": "9月3日 21:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "U22男足亚预赛首战对阵东帝汶",
+      "link": "http://baijiahao.baidu.com/s?id=1842213571328181266&wfr=spider&for=pc",
+      "time": "9月3日 11:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "U22国足在战东帝汶",
+      "link": "http://www.163.com/dy/article/K8H3DLEQ0556DLXG.html",
+      "time": "9月3日 08:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "国足U22险胜东帝汶原因揭晓",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8PCSK4D055333FL.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:26:01",
+      "event_time": "9月6日 13:38"
+    },
+    {
+      "event_title": "国青横扫东帝汶，十四球零封劲敌，残暴战绩引爆关注",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=17411905014574056333",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:26:03",
+      "event_time": "9月5日 01:55"
+    },
+    {
+      "event_title": "拜合拉木:场地多多少少会有点影响发挥,但更多是我们自己失误",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hfuy",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:26:05",
+      "event_time": "9月4日 09:55"
+    },
+    {
+      "event_title": "U22国足2-1险胜东帝汶",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842285152940565968&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "zhichengzhaxuyaoshi",
+      "comment_time": "09-04 07:21",
+      "comment_content": "国足超常发挥，险胜东南亚劲旅东帝汶。",
+      "user_location": "辽宁",
+      "like_count": 3,
+      "scrape_time": "2025-09-12 21:26:24",
+      "event_time": "9月4日 06:53"
+    },
+    {
+      "event_title": "U22国足2-1险胜东帝汶",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842285152940565968&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "凝思破晓1q",
+      "comment_time": "09-04 10:54",
+      "comment_content": "这还叫超常发挥呀，险胜可以理解为几乎不胜，场地不好，双方都一样，究其原因：1.过于轻敌，这应和教练组灌输的指导思想有关。2.进攻不力，无章法， 无套路，白白浪费了全场的控球率占优。3.防御不抵对方的防守反击，对手打出的威胁球远胜于我方。",
+      "user_location": "河南",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 21:26:24",
+      "event_time": "9月4日 06:53"
+    },
+    {
+      "event_title": "U23亚洲杯预选赛，中国队首战击败东帝汶队",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/1699432410/654b47da02001k2he",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:26:26",
+      "event_time": "9月3日 23:48"
+    },
+    {
+      "event_title": "U23亚洲杯中国男足2-1东帝汶 最后5分钟 国足狂轰乱炸 疯狂围攻",
+      "event_id": "event_6",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7757536933312574782",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:26:28",
+      "event_time": "9月3日 21:47"
+    },
+    {
+      "event_title": "U22男足亚预赛首战对阵东帝汶",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842213571328181266&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:26:44",
+      "event_time": "9月3日 11:56"
+    },
+    {
+      "event_title": "U22国足在战东帝汶",
+      "event_id": "event_8",
+      "event_url": "http://www.163.com/dy/article/K8H3DLEQ0556DLXG.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:26:46",
+      "event_time": "9月3日 08:18"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 8,
+    "total_comments": 9,
+    "events_with_comments": 8,
+    "level1_scrape_time": "2025-09-12 21:26:00",
+    "level2_scrape_time": "2025-09-12 21:26:46"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "黄金价格续创历史新高",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:58:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "黄金价格续创历史新高",
+      "link": "http://baijiahao.baidu.com/s?id=1842392417321211036&wfr=spider&for=pc",
+      "time": "9月5日 11:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "金价,爆了!",
+      "link": "http://cj.sina.com.cn/articles/view/1919072083/7262b753020016ria",
+      "time": "9月4日 16:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "金价,创历史新高",
+      "link": "http://baijiahao.baidu.com/s?id=1842312921853804373&wfr=spider&for=pc",
+      "time": "9月4日 14:09",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 17:58:45"
+}

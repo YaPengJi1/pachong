@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "南京队对战徐州队，苏超活动引爆进化论",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:14:01"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "南京队战平徐州队 现场观赛人数再破纪录",
+      "link": "http://tv.cctv.com/2025/09/08/VIDE6USoCbOFGcCvaVLBWcuZ250908.shtml",
+      "time": "9月8日 16:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "“赛事+”新“夜”态,“苏超\"第二现场持续火热",
+      "link": "http://njrb.njdaily.cn/h5/html5/2025-09/07/content_52_226990.htm",
+      "time": "9月7日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "9月6日晚南京队对战徐州队比赛的“第二现场”，由南京市文明办组织的“三进城”文明实践活动火热上演",
+      "link": "http://weibo.com/1807431510/Q3m3ka77w",
+      "time": "9月6日 21:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "南京一球胜徐州，苏超重塑区域认同引爆“进化论”",
+      "link": "http://baijiahao.baidu.com/s?id=1842520735385871355&wfr=spider&for=pc",
+      "time": "9月6日 21:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "南京VS徐州球迷齐唱老男孩破防了 苏超现场老男孩的青春DNA动了",
+      "link": "http://finance.sina.cn/2025-09-06/detail-infpqkmf1646017.d.html",
+      "time": "9月6日 19:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "南京球迷谈“苏超”南京队VS徐州队",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 10:14:16"
+}

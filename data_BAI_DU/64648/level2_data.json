@@ -1,0 +1,72 @@
+{
+  "core_event_name": "中国女排世锦赛失利",
+  "comments": [
+    {
+      "event_title": "中国女排面临大规模重组",
+      "event_id": "event_1",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_3102855401115595979",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:00:07",
+      "event_time": "9月2日 19:27"
+    },
+    {
+      "event_title": "中国女排输法国让世界积分排名跌至第7 第四次无缘世锦赛八强",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8BJRFU60556C2XP.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:00:09",
+      "event_time": "9月1日 05:10"
+    },
+    {
+      "event_title": "法国队主教练:针对中国女排我们做了一些冒险的拦防布置",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8B2K7EJ05346RC6.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:00:11",
+      "event_time": "9月1日 00:09"
+    },
+    {
+      "event_title": "中国女排1比3负法国 无缘世锦赛八强",
+      "event_id": "event_4",
+      "event_url": "http://news.dayoo.com/gzrbrmt/202508/31/170628_54868150.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:00:13",
+      "event_time": "8月31日 20:57"
+    },
+    {
+      "event_title": "中国女排1-3不敌法国女排，止步女排世锦赛16强",
+      "event_id": "event_5",
+      "event_url": "http://news.sina.cn/2025-08-31/detail-infnwrph2045724.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:00:15",
+      "event_time": "8月31日 20:03"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-13 02:00:15"
+}

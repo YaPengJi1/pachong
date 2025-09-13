@@ -1,0 +1,235 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 22:22:31"
+  },
+  "core_event": {
+    "core_event_name": "政策加码助力楼市“金九银十”",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:21:39"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "一线城市密集松绑限购",
+      "link": "http://www.163.com/dy/article/K94ERSL405568O5D.html",
+      "time": "9月10日 20:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "楼市新政利好“组合拳”持续显效发力",
+      "link": "http://www.nxtv.com.cn/19/gn/62522.shtml",
+      "time": "9月9日 15:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "多地出新政助力楼市“金九银十”",
+      "link": "http://fdc.rednet.cn/m/content/646943/90/15263707.html",
+      "time": "9月8日 10:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "20余城“采取有力措施”稳楼市政策报告",
+      "link": "http://cj.sina.com.cn/articles/view/5902176990/15fcc12de02001pluu",
+      "time": "9月5日 17:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "政策加码助力楼市“金九银十”",
+      "link": "http://k.sina.cn/article_6510167665_18409467100101nbum.html",
+      "time": "9月5日 16:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "今年“金九银十”楼市备受关注",
+      "link": "http://baijiahao.baidu.com/s?id=1842384006679912673&wfr=spider&for=pc",
+      "time": "9月5日 09:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "一线楼市淡季不淡，新政加持预热“金九银十”",
+      "link": "http://www.yicai.com/news/102809340.html",
+      "time": "9月4日 19:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "沪京新政楼市回暖，“金九银十”来了吗?中国楼市已进入啥阶段",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b8afd08e9f0958b654d77d",
+      "time": "9月4日 05:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "京沪楼市8月回暖信号明显 政策组合拳激活“金九银十”预期",
+      "link": "http://news.fang.com/open/53446890.html",
+      "time": "9月2日 16:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "多城继续调整公积金政策 市场热度提升助力“金九银十”",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "一线城市密集松绑限购",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K94ERSL405568O5D.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:21:54",
+      "event_time": "9月10日 20:46"
+    },
+    {
+      "event_title": "楼市新政利好“组合拳”持续显效发力",
+      "event_id": "event_2",
+      "event_url": "http://www.nxtv.com.cn/19/gn/62522.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:21:56",
+      "event_time": "9月9日 15:34"
+    },
+    {
+      "event_title": "多地出新政助力楼市“金九银十”",
+      "event_id": "event_3",
+      "event_url": "http://fdc.rednet.cn/m/content/646943/90/15263707.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:21:59",
+      "event_time": "9月8日 10:15"
+    },
+    {
+      "event_title": "20余城“采取有力措施”稳楼市政策报告",
+      "event_id": "event_4",
+      "event_url": "http://cj.sina.com.cn/articles/view/5902176990/15fcc12de02001pluu",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:22:01",
+      "event_time": "9月5日 17:43"
+    },
+    {
+      "event_title": "政策加码助力楼市“金九银十”",
+      "event_id": "event_5",
+      "event_url": "http://k.sina.cn/article_6510167665_18409467100101nbum.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:22:03",
+      "event_time": "9月5日 16:19"
+    },
+    {
+      "event_title": "今年“金九银十”楼市备受关注",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842384006679912673&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:22:19",
+      "event_time": "9月5日 09:05"
+    },
+    {
+      "event_title": "一线楼市淡季不淡，新政加持预热“金九银十”",
+      "event_id": "event_7",
+      "event_url": "http://www.yicai.com/news/102809340.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:22:21",
+      "event_time": "9月4日 19:52"
+    },
+    {
+      "event_title": "沪京新政楼市回暖，“金九银十”来了吗?中国楼市已进入啥阶段",
+      "event_id": "event_8",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68b8afd08e9f0958b654d77d",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:22:23",
+      "event_time": "9月4日 05:05"
+    },
+    {
+      "event_title": "京沪楼市8月回暖信号明显 政策组合拳激活“金九银十”预期",
+      "event_id": "event_9",
+      "event_url": "http://news.fang.com/open/53446890.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:22:25",
+      "event_time": "9月2日 16:24"
+    },
+    {
+      "event_title": "多城继续调整公积金政策 市场热度提升助力“金九银十”",
+      "event_id": "event_10",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:22:27",
+      "event_time": "1970年"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 10,
+    "total_comments": 10,
+    "events_with_comments": 10,
+    "level1_scrape_time": "2025-09-12 22:21:53",
+    "level2_scrape_time": "2025-09-12 22:22:27"
+  }
+}

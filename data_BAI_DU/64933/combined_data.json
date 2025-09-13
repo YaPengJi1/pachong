@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:39:06"
+  },
+  "core_event": {
+    "core_event_name": "中国九三阅兵新型装备亮相",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:38:41"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "九三阅兵震撼外国网友:中国最好的“武器”,是不把钱花在战争上",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmzcy5751309.d.html",
+      "time": "9月5日 20:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "九三阅兵中的钢铁洪流实现了哪些升级?",
+      "link": "http://news.youth.cn/js/202509/t20250905_16218206.htm",
+      "time": "9月5日 09:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "大批国产新装备震撼亮相九三阅兵",
+      "link": "http://www.chinaqw.com/yw/2025/09-04/397171.shtml",
+      "time": "9月4日 14:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国九三阅兵数种新型装备一一亮相,一个比一个还猛",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8009227072446031901",
+      "time": "9月3日 22:47",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "九三阅兵震撼外国网友:中国最好的“武器”,是不把钱花在战争上",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.cn/2025-09-05/detail-infpmzcy5751309.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:38:56",
+      "event_time": "9月5日 20:12"
+    },
+    {
+      "event_title": "九三阅兵中的钢铁洪流实现了哪些升级?",
+      "event_id": "event_2",
+      "event_url": "http://news.youth.cn/js/202509/t20250905_16218206.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:38:58",
+      "event_time": "9月5日 09:09"
+    },
+    {
+      "event_title": "大批国产新装备震撼亮相九三阅兵",
+      "event_id": "event_3",
+      "event_url": "http://www.chinaqw.com/yw/2025/09-04/397171.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:39:00",
+      "event_time": "9月4日 14:00"
+    },
+    {
+      "event_title": "中国九三阅兵数种新型装备一一亮相,一个比一个还猛",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8009227072446031901",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:39:02",
+      "event_time": "9月3日 22:47"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 17:38:55",
+    "level2_scrape_time": "2025-09-12 17:39:02"
+  }
+}

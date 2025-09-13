@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "登贝莱受伤离场引发争议",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:47:04"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "法国队内讧爆发，金球巨星受伤",
+      "link": "http://sports.sina.cn/2025-09-09/detail-infpwvhn0412858.d.html",
+      "time": "9月9日 16:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "队报:登贝莱受伤前巴黎就已致函法国足协,表达了担忧和不满",
+      "link": "http://www.dongqiudi.com/articles/5358617.html",
+      "time": "9月7日 03:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "登贝莱将缺阵6周无缘欧冠对亚特兰大&巴萨",
+      "link": "http://k.sina.cn/article_2018499075_784fda0302002hjq6.html",
+      "time": "9月6日 21:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "法国队世预赛战胜乌克兰",
+      "link": "http://weibo.com/3798055657/Q3jVLDEIE",
+      "time": "9月6日 16:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "法媒:巴黎对法国足协非常不满,赛前就提醒不应该让登贝莱出场",
+      "link": "http://baijiahao.baidu.com/s?id=1842467001522246064&wfr=spider&for=pc",
+      "time": "9月6日 07:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 14:47:19"
+}

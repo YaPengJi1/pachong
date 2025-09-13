@@ -1,0 +1,228 @@
+{
+  "core_info": {
+    "core_event_name": "深圳楼市新政引爆购房热潮",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:39:45"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "深圳房地产新政后,罗湖区涨价了",
+      "link": "http://new.qq.com/rain/a/20250911V06TV400",
+      "time": "昨天 17:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "楼市“金九银十”观察",
+      "link": "http://www.nbd.com.cn/articles/2025-09-10/4056551.html",
+      "time": "9月10日 23:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "深圳楼市新政提升热度，看房量明显增加",
+      "link": "http://stock.hexun.com/2025-09-10/221268953.html",
+      "time": "9月10日 09:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "深圳楼市又燃起来了",
+      "link": "http://baijiahao.baidu.com/s?id=1842801515546166680&wfr=spider&for=pc",
+      "time": "9月9日 23:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "楼市新观察 广东深圳:楼市新政分区优化调整 看房量明显增加",
+      "link": "http://tv.cctv.com/2025/09/09/VIDEfLUnwbGw3MqwllOxQDXV250909.shtml",
+      "time": "9月9日 10:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "深圳楼市新政重磅出击:取消外围区域限购,二套房贷利率大降40基点",
+      "link": "http://news.fang.com/open/53486592.html",
+      "time": "9月9日 10:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "广东深圳:楼市新政分区优化调整 看房量明显增加",
+      "link": "http://tv.cctv.com/2025/09/09/VIDEsVL3j3DZxiuTsFsfZcD3250909.shtml",
+      "time": "9月9日 08:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "一月内 京沪深三地接连放宽住房限购",
+      "link": "http://jingji.cctv.com/2025/09/09/ARTIoQPfaAvF9kSlR4yFYRbs250909.shtml",
+      "time": "9月8日 21:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "广东深圳:楼市新政分区优化调整",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEW2nknzJoqu9wDX7iSwxj250908.shtml",
+      "time": "9月8日 17:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "[正点财经]广东深圳:新政提升楼市热度 看房量明显增加",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEK7OsFvOnDQhCwvEYlhzb250908.shtml",
+      "time": "9月8日 16:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "深圳9.5 新政炸场!限购缩至 3 区,首日就有客户签约",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1922699961939687155",
+      "time": "9月8日 16:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "广东深圳 楼市新政分区优化调整 放宽限购政策",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEqsBxhwq5cpbBeKKTH8oo250908.shtml",
+      "time": "9月8日 14:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "深圳楼市新政出台“除了福田和南山,符合条件就不限购”",
+      "link": "http://new.qq.com/rain/a/20250908A04UAO00",
+      "time": "9月8日 14:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "实探深圳楼市新政实施首日：热度飙升，房企连夜更新信息",
+      "link": "http://gz.house.ifeng.com/news/2025_09_08-57163206_0.shtml",
+      "time": "9月8日 00:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "新政引爆深圳楼市,房企连夜抢滩",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12269183400862727116",
+      "time": "9月7日 20:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "深圳楼市新政重磅出台！房价跌破6万后调控大松绑",
+      "link": "http://news.fang.com/open/53469442.html",
+      "time": "9月7日 17:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "深圳楼市新政首日,罗湖盘降价百万抢客",
+      "link": "http://news.pedaily.cn/202509/554586.shtml",
+      "time": "9月7日 14:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "深圳楼市新政引爆购房热潮 限购松绑首日签约量激增",
+      "link": "http://news.fang.com/open/53467704.html",
+      "time": "9月7日 12:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "深圳多区放开限购 意向购房人群大增",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEfNY0hMcDecyGQScOxtEt250907.shtml",
+      "time": "9月7日 12:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "深圳多区放开限购",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEcEwbfMN5SpI66SvPltMn250907.shtml",
+      "time": "9月7日 08:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_21",
+      "title": "深圳楼市政策优化调整!多区购房不限套数",
+      "link": "http://www.163.com/dy/article/K8QHSA4005568W0A.html",
+      "time": "9月7日 00:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_22",
+      "title": "深圳多区放开限购 广东深圳:限购范围大幅缩小 楼市新政推动购房需求释放",
+      "link": "http://tv.cctv.com/2025/09/06/VIDEZSEWA3xf899CKaCPpHE3250906.shtml",
+      "time": "9月6日 20:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_23",
+      "title": "深圳多区放开限购 广东深圳:多区放开楼市限购 意向购房人群大增",
+      "link": "http://tv.cctv.com/2025/09/06/VIDE4VFpb9s4TJ2SGxhum39I250906.shtml",
+      "time": "9月6日 20:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_24",
+      "title": "利好突袭!深圳楼市大消息,降房贷利率!",
+      "link": "http://cj.sina.com.cn/articles/view/1958132051/74b6b95300101yhx6",
+      "time": "9月6日 16:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_25",
+      "title": "深圳楼市新政12小时",
+      "link": "http://app.myzaker.com/news/article.php?pk=68bbc5748e9f09309b428019",
+      "time": "9月6日 13:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_26",
+      "title": "深圳优化调整房地产政策",
+      "link": "http://tv.cctv.com/2025/09/06/VIDEzjX3FHATIyDTC09fjCtJ250906.shtml",
+      "time": "9月6日 07:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_27",
+      "title": "深圳二手房市场持续活跃 2025年前8月成交创近五年新高",
+      "link": "http://www.163.com/dy/article/K8KE2QK80534SX5N.html",
+      "time": "9月4日 15:22",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 27,
+  "scrape_time": "2025-09-12 14:40:01"
+}

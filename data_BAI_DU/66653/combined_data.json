@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:35:56"
+  },
+  "core_event": {
+    "core_event_name": "大阅兵举行，专家解读亮点",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:35:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "九三阅兵有6大特色，俄罗斯总统普京点评",
+      "link": "http://www.163.com/dy/article/K8JJMQCD0556C2W4.html",
+      "time": "9月4日 07:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "专家解读胜利日阅兵硬核亮点",
+      "link": "http://www.163.com/dy/article/K8ISD5RU0556C2WL.html",
+      "time": "9月4日 00:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "大阅兵今日举行,铭记历史,共筑梦想。祖国,愿您永远繁荣富强!🌟",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_3689576490913019512",
+      "time": "9月3日 14:57",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "九三阅兵有6大特色，俄罗斯总统普京点评",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8JJMQCD0556C2W4.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:35:48",
+      "event_time": "9月4日 07:41"
+    },
+    {
+      "event_title": "专家解读胜利日阅兵硬核亮点",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8ISD5RU0556C2WL.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:35:50",
+      "event_time": "9月4日 00:54"
+    },
+    {
+      "event_title": "大阅兵今日举行,铭记历史,共筑梦想。祖国,愿您永远繁荣富强!🌟",
+      "event_id": "event_3",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_3689576490913019512",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:35:52",
+      "event_time": "9月3日 14:57"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 10:35:46",
+    "level2_scrape_time": "2025-09-12 10:35:52"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "广东队引进得分王，杜锋夺冠阵容",
+    "update_time": "更新至20250901",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:01:19"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "曝广东引进得分王后,另有强操作!朱总积更是进大外援,助杜锋全力夺冠",
+      "link": "http://www.sohu.com/a/930779012_122321592",
+      "time": "9月1日 16:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "广东队已经拿下萨姆纳，杜锋得到冲冠豪阵",
+      "link": "http://m.sohu.com/a/930657038_122441760",
+      "time": "9月1日 11:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "广东报价CBA得分王,辽宁4冠功勋转型,四川压哨注册,朱彦西退役",
+      "link": "http://www.sohu.com/a/930519655_121501772",
+      "time": "9月1日 00:16",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 21:01:33"
+}

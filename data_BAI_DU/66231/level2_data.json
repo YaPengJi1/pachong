@@ -1,0 +1,72 @@
+{
+  "core_event_name": "险资系私募基金重仓ETF结构调整",
+  "comments": [
+    {
+      "event_title": "险资上半年ETF持仓突破2800亿元",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842955378244520104&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "坦率又宁静丶鱼丸d",
+      "comment_time": "17小时前",
+      "comment_content": "险资ETF持仓猛增，但利率上行风险常被忽略哦；结构性机会需匹配宏观数据，否则收益波动大。",
+      "user_location": "云南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:53:59",
+      "event_time": "昨天 16:13"
+    },
+    {
+      "event_title": "青睐红利股!千亿元险资私募基金持仓曝光",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842346192353992638&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "冒险Journey者",
+      "comment_time": "09-04 23:35",
+      "comment_content": "通胀高企，红利股实际收益率缩水，险资布局该谨慎点，毕竟购买力贬值风险大。",
+      "user_location": "海南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:54:15",
+      "event_time": "9月4日 23:04"
+    },
+    {
+      "event_title": "险资系证券私募,持仓曝光",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.com.cn/jjxw/2025-09-03/doc-infpewan4547127.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:54:17",
+      "event_time": "9月3日 12:23"
+    },
+    {
+      "event_title": "2688亿元!险资重仓ETF结构调整",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.cn/fund/jjgdxw/2025-09-02/detail-infpccte0120378.d.html?mon=$(mon)",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:54:19",
+      "event_time": "9月2日 19:43"
+    },
+    {
+      "event_title": "险资系私募基金买了这些票股",
+      "event_id": "event_5",
+      "event_url": "http://finance.sina.com.cn/stock/zqgd/2025-09-02/doc-infpatck0245647.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:54:21",
+      "event_time": "9月2日 14:48"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 14:54:21"
+}

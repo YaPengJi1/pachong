@@ -1,0 +1,59 @@
+{
+  "core_event_name": "U22国足晋级亚洲杯正赛",
+  "comments": [
+    {
+      "event_title": "U22国足0:0澳大利亚轻松晋级，门将李昊神一次扑拯救球队",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842794276323037491&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:04:11",
+      "event_time": "9月9日 21:46"
+    },
+    {
+      "event_title": "U22国足晋级亚洲杯正赛",
+      "event_id": "event_2",
+      "event_url": "http://weibo.com/7425040369/Q3OfnFckw",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:04:14",
+      "event_time": "9月9日 21:40"
+    },
+    {
+      "event_title": "U22赢球靠王玉栋,非教练战术,对手仅4.7万人口",
+      "event_id": "event_3",
+      "event_url": "http://news.sohu.com/a/932652646_121683270",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:04:16",
+      "event_time": "9月7日 16:11"
+    },
+    {
+      "event_title": "U22国足终于迎大胜",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842527913214378942&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:04:32",
+      "event_time": "9月6日 23:11"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 12:04:32"
+}

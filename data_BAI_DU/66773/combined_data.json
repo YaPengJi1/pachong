@@ -1,0 +1,190 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:55:43"
+  },
+  "core_event": {
+    "core_event_name": "王钰栋改变国足比赛局面",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:54:36"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "王钰栋2射3传!亚足联官方将U22国足第5球记录为向余望进球",
+      "link": "http://www.sohu.com/a/932513569_362070",
+      "time": "9月6日 23:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U22国足10比0击败北马里亚纳群岛队",
+      "link": "http://baijiahao.baidu.com/s?id=1842524912213870938&wfr=spider&for=pc",
+      "time": "9月6日 22:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "王钰栋替补上场，彻底改变了比赛局面",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4796992335929277138",
+      "time": "9月6日 22:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22国足10比0北马里亚纳群岛",
+      "link": "http://baijiahao.baidu.com/s?id=1842523365471144432&wfr=spider&for=pc",
+      "time": "9月6日 22:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "王钰栋外围发炮 轰入世界波",
+      "link": "http://sports.cctv.com/2025/09/06/VIDELKaayMNf9mfCtJlHwOFO250906.shtml",
+      "time": "9月6日 21:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "中国U22男足10球大胜北马里亚纳",
+      "link": "http://news.sina.cn/2025-09-06/detail-infpqkmc6376938.d.html",
+      "time": "9月6日 21:35",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "王钰栋2射3传!亚足联官方将U22国足第5球记录为向余望进球",
+      "event_id": "event_1",
+      "event_url": "http://www.sohu.com/a/932513569_362070",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:54:51",
+      "event_time": "9月6日 23:12"
+    },
+    {
+      "event_title": "U22国足10比0击败北马里亚纳群岛队",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842524912213870938&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:55:08",
+      "event_time": "9月6日 22:24"
+    },
+    {
+      "event_title": "王钰栋替补上场，彻底改变了比赛局面",
+      "event_id": "event_3",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4796992335929277138",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:55:10",
+      "event_time": "9月6日 22:07"
+    },
+    {
+      "event_title": "U22国足10比0北马里亚纳群岛",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842523365471144432&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "昌月明a6",
+      "comment_time": "09-06 23:50",
+      "comment_content": "昌月明a609-06 23:50陕西举报回复赞",
+      "user_location": "陕西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:55:34",
+      "event_time": "9月6日 22:00"
+    },
+    {
+      "event_title": "U22国足10比0北马里亚纳群岛",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842523365471144432&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "清风里清风",
+      "comment_time": "09-06 22:54",
+      "comment_content": "开场的进球并没有越位。两个点球漏判。这裁判…",
+      "user_location": "陕西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:55:34",
+      "event_time": "9月6日 22:00"
+    },
+    {
+      "event_title": "U22国足10比0北马里亚纳群岛",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842523365471144432&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "曲昀茗61",
+      "comment_time": "09-06 22:18",
+      "comment_content": "踢得太恶心了",
+      "user_location": "甘肃",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 10:55:34",
+      "event_time": "9月6日 22:00"
+    },
+    {
+      "event_title": "U22国足10比0北马里亚纳群岛",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842523365471144432&wfr=spider&for=pc",
+      "comment_index": 4,
+      "user_id": "情下点0n",
+      "comment_time": "09-06 22:04",
+      "comment_content": "替补王钰栋太灵了，造五球带飞全队！拜合拉木帽子戏法也帅，小伙子们这场踢得真痛快。",
+      "user_location": "内蒙古",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 10:55:34",
+      "event_time": "9月6日 22:00"
+    },
+    {
+      "event_title": "王钰栋外围发炮 轰入世界波",
+      "event_id": "event_5",
+      "event_url": "http://sports.cctv.com/2025/09/06/VIDELKaayMNf9mfCtJlHwOFO250906.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:55:36",
+      "event_time": "9月6日 21:41"
+    },
+    {
+      "event_title": "中国U22男足10球大胜北马里亚纳",
+      "event_id": "event_6",
+      "event_url": "http://news.sina.cn/2025-09-06/detail-infpqkmc6376938.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:55:38",
+      "event_time": "9月6日 21:35"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 9,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 10:54:50",
+    "level2_scrape_time": "2025-09-12 10:55:38"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "core_event_name": "金价突破3600美元",
+  "comments": [
+    {
+      "event_title": "金价盘中突破3600美元",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842483451591917664&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "DeckSwagDj",
+      "comment_time": "09-06 11:28",
+      "comment_content": "金价飙升，避险情绪主导。看看乌俄冲突升级，投资者恐慌涌入黄金，类似2020年疫情爆发时的避险趋势。",
+      "user_location": "广西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:40:53",
+      "event_time": "9月6日 11:25"
+    },
+    {
+      "event_title": "黄金期货创 3600 美元新高",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=1958112500697713053",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:40:55",
+      "event_time": "9月4日 13:53"
+    },
+    {
+      "event_title": "国际黄金期价再次刷新历史新高",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5847124899391861463",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:40:57",
+      "event_time": "9月4日 11:03"
+    },
+    {
+      "event_title": "黄金突破3600美元创历史新高",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8GVKBBE0519C6T9.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:40:59",
+      "event_time": "9月3日 07:12"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 23:40:59"
+}

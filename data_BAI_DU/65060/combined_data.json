@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:40:30"
+  },
+  "core_event": {
+    "core_event_name": "金价上涨，降息预期，避险需求和技术破位",
+    "update_time": "更新至20250901",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:40:04"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "总统大选年第四季度金价平均上涨8%",
+      "link": "http://weibo.com/6336852598/Q2AMt02pB",
+      "time": "9月1日 21:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "黄金震荡了几个月的时间，多空的拉锯战也即将落下帷幕",
+      "link": "http://weibo.com/6857866400/Q2qHptvaU",
+      "time": "8月31日 19:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "当前金价上涨是 降息预期 + 避险需求 + 技术破位 的综合结果。短期看涨格局未改(支撑位3400美元),但需警惕9月美联储决议及非农数据带来的回调风险。",
+      "link": "http://weibo.com/2003291675/Q2iRJoIjH",
+      "time": "8月30日 23:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "金价近期大涨逻辑",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "总统大选年第四季度金价平均上涨8%",
+      "event_id": "event_1",
+      "event_url": "http://weibo.com/6336852598/Q2AMt02pB",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:40:20",
+      "event_time": "9月1日 21:33"
+    },
+    {
+      "event_title": "黄金震荡了几个月的时间，多空的拉锯战也即将落下帷幕",
+      "event_id": "event_2",
+      "event_url": "http://weibo.com/6857866400/Q2qHptvaU",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:40:22",
+      "event_time": "8月31日 19:53"
+    },
+    {
+      "event_title": "当前金价上涨是 降息预期 + 避险需求 + 技术破位 的综合结果。短期看涨格局未改(支撑位3400美元),但需警惕9月美联储决议及非农数据带来的回调风险。",
+      "event_id": "event_3",
+      "event_url": "http://weibo.com/2003291675/Q2iRJoIjH",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:40:24",
+      "event_time": "8月30日 23:56"
+    },
+    {
+      "event_title": "金价近期大涨逻辑",
+      "event_id": "event_4",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:40:26",
+      "event_time": "1970年"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 17:40:19",
+    "level2_scrape_time": "2025-09-12 17:40:26"
+  }
+}

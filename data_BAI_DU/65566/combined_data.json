@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:01:55"
+  },
+  "core_event": {
+    "core_event_name": "热刺主席列维离任",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:00:28"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "列维离任完全出乎我的意料,从未想过他会离开热刺",
+      "link": "http://baijiahao.baidu.com/s?id=1842473667651830042&wfr=spider&for=pc",
+      "time": "9月6日 08:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "列维与热刺老板会谈后被解雇",
+      "link": "http://k.sina.com.cn/article_7880068727_1d5b04e7702002etho.html",
+      "time": "9月5日 18:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "热刺主席列维离职",
+      "link": "http://baijiahao.baidu.com/s?id=1842390212201922942&wfr=spider&for=pc",
+      "time": "9月5日 10:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "英超重磅宫斗!63岁列维离任:结束25年热刺生涯 被老板子女逼走",
+      "link": "http://www.163.com/dy/article/K8M0VM8005566VBM.html",
+      "time": "9月5日 06:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "列维:为所完成的工作感到自豪,我们将热刺打造成世界强队之一",
+      "link": "http://baijiahao.baidu.com/s?id=1842356017339861864&wfr=spider&for=pc",
+      "time": "9月5日 01:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "列维执掌热刺25年功绩",
+      "link": "http://baijiahao.baidu.com/s?id=1842358233943723839&wfr=spider&for=pc",
+      "time": "9月5日 01:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "热刺官方:热刺主席列维卸任主席近25年职务",
+      "link": "http://www.163.com/dy/article/K8LEI7IO0529AQIE.html",
+      "time": "9月5日 00:50",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "列维离任完全出乎我的意料,从未想过他会离开热刺",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842473667651830042&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:00:57",
+      "event_time": "9月6日 08:48"
+    },
+    {
+      "event_title": "列维与热刺老板会谈后被解雇",
+      "event_id": "event_2",
+      "event_url": "http://k.sina.com.cn/article_7880068727_1d5b04e7702002etho.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:00:59",
+      "event_time": "9月5日 18:22"
+    },
+    {
+      "event_title": "热刺主席列维离职",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842390212201922942&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:01:15",
+      "event_time": "9月5日 10:43"
+    },
+    {
+      "event_title": "英超重磅宫斗!63岁列维离任:结束25年热刺生涯 被老板子女逼走",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8M0VM8005566VBM.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:01:17",
+      "event_time": "9月5日 06:14"
+    },
+    {
+      "event_title": "列维:为所完成的工作感到自豪,我们将热刺打造成世界强队之一",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842356017339861864&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:01:33",
+      "event_time": "9月5日 01:37"
+    },
+    {
+      "event_title": "列维执掌热刺25年功绩",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842358233943723839&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:01:49",
+      "event_time": "9月5日 01:16"
+    },
+    {
+      "event_title": "热刺官方:热刺主席列维卸任主席近25年职务",
+      "event_id": "event_7",
+      "event_url": "http://www.163.com/dy/article/K8LEI7IO0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:01:51",
+      "event_time": "9月5日 00:50"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-13 02:00:42",
+    "level2_scrape_time": "2025-09-13 02:01:51"
+  }
+}

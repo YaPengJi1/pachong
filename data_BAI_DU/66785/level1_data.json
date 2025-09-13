@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "东风61震撼阅兵，惊雷-1导弹亮相",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:03:55"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国首次公开惊雷1空射弹道导弹，完成核三位一体布局",
+      "link": "http://cj.sina.com.cn/articles/view/7879923848/1d5ae188802001jox6",
+      "time": "9月8日 11:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "惊雷1亮相!全球唯一空基核导弹,中国“三位一体”拼图补齐",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10695840445511846388",
+      "time": "9月6日 13:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "东风61震撼阅兵，撑起核保护伞，惊雷-1空射导弹颠覆反导规则",
+      "link": "http://cj.sina.com.cn/articles/view/7879923848/1d5ae188802001jn2q",
+      "time": "9月6日 10:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "核导弹第一方队震撼登场",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1383073342937910871",
+      "time": "9月3日 10:48",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 11:04:09"
+}

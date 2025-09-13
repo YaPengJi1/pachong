@@ -1,0 +1,193 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:03:58"
+  },
+  "core_event": {
+    "core_event_name": "美国8月非农就业数据疲软",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:02:54"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美国8月劳动数据公布",
+      "link": "http://baijiahao.baidu.com/s?id=1842622014294566921&wfr=spider&for=pc",
+      "time": "9月8日 00:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美国8月非农就业远不及预期",
+      "link": "http://finance.huanqiu.com/article/4OD5UVX8Q8n",
+      "time": "9月6日 08:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美国8月非农就业数据疲软 美联储9月降息概率达92%",
+      "link": "http://cj.sina.com.cn/articles/view/2258727970/86a17422040027qvg",
+      "time": "9月6日 08:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普再施压：鲍威尔早就该降息了",
+      "link": "http://baijiahao.baidu.com/s?id=1842451695015343250&wfr=spider&for=pc",
+      "time": "9月6日 03:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美国8月非农数据大幅低于预期 失业率创近4年来新高",
+      "link": "http://finance.sina.com.cn/stock/usstock/c/2025-09-05/doc-infpmzcy5755999.shtml",
+      "time": "9月5日 20:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "美国8月就业数据疲软 医疗保健等稳健行业开始走弱",
+      "link": "http://tv.cctv.com/2025/09/05/VIDEqAvVeRrKuZJSMTTA7Djj250905.shtml",
+      "time": "9月5日 16:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "美国8月“小非农”数据不及预期",
+      "link": "http://app.myzaker.com/news/article.php?m=1757035216&pk=68ba3a618e9f0922164d28bd",
+      "time": "9月5日 09:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "美国企业8月招聘计划放缓 裁员人数增加",
+      "link": "http://finance.sina.com.cn/stock/bxjj/2025-09-04/doc-infpirxa6773047.shtml",
+      "time": "9月4日 19:43",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "美国8月劳动数据公布",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842622014294566921&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:03:26",
+      "event_time": "9月8日 00:08"
+    },
+    {
+      "event_title": "美国8月非农就业远不及预期",
+      "event_id": "event_2",
+      "event_url": "http://finance.huanqiu.com/article/4OD5UVX8Q8n",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:03:28",
+      "event_time": "9月6日 08:34"
+    },
+    {
+      "event_title": "美国8月非农就业数据疲软 美联储9月降息概率达92%",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/2258727970/86a17422040027qvg",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:03:30",
+      "event_time": "9月6日 08:34"
+    },
+    {
+      "event_title": "特朗普再施压：鲍威尔早就该降息了",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842451695015343250&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:03:46",
+      "event_time": "9月6日 03:01"
+    },
+    {
+      "event_title": "美国8月非农数据大幅低于预期 失业率创近4年来新高",
+      "event_id": "event_5",
+      "event_url": "http://finance.sina.com.cn/stock/usstock/c/2025-09-05/doc-infpmzcy5755999.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:03:48",
+      "event_time": "9月5日 20:35"
+    },
+    {
+      "event_title": "美国8月就业数据疲软 医疗保健等稳健行业开始走弱",
+      "event_id": "event_6",
+      "event_url": "http://tv.cctv.com/2025/09/05/VIDEqAvVeRrKuZJSMTTA7Djj250905.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:03:50",
+      "event_time": "9月5日 16:26"
+    },
+    {
+      "event_title": "美国8月“小非农”数据不及预期",
+      "event_id": "event_7",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1757035216&pk=68ba3a618e9f0922164d28bd",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:03:52",
+      "event_time": "9月5日 09:16"
+    },
+    {
+      "event_title": "美国企业8月招聘计划放缓 裁员人数增加",
+      "event_id": "event_8",
+      "event_url": "http://finance.sina.com.cn/stock/bxjj/2025-09-04/doc-infpirxa6773047.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:03:54",
+      "event_time": "9月4日 19:43"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 8,
+    "total_comments": 8,
+    "events_with_comments": 8,
+    "level1_scrape_time": "2025-09-12 18:03:08",
+    "level2_scrape_time": "2025-09-12 18:03:54"
+  }
+}

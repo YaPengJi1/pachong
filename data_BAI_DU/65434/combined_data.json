@@ -1,0 +1,235 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 23:55:10"
+  },
+  "core_event": {
+    "core_event_name": "阿根廷队备战2026世界杯",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:54:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "奥莱报分析阿根廷世界杯名单:梅西、劳塔罗等15人铁定入选",
+      "link": "http://www.dongqiudi.com/articles/5366430.html",
+      "time": "昨天 18:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "因凡蒂诺：两天后将会关于世界杯的重大消息宣布",
+      "link": "http://www.dongqiudi.com/articles/5361948.html",
+      "time": "9月9日 01:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "因凡蒂诺:两天后将有关于世界杯的重大消息宣布",
+      "link": "http://m.dongqiudi.com/article/5361948.html",
+      "time": "9月9日 01:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "阿根廷队10月份将在美国对阵委内瑞拉和波多黎各",
+      "link": "http://www.dongqiudi.com/articles/5358612.html",
+      "time": "9月7日 03:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "是否会参加明年世界杯?梅西:这取决于我的状态",
+      "link": "http://www.dongqiudi.com/articles/5355426.html",
+      "time": "9月5日 11:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "梅西可能迎来阿根廷国家队主场最后一战",
+      "link": "http://www.dongqiudi.com/articles/5354940.html",
+      "time": "9月5日 06:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "阿根廷队发布对阵委内瑞拉海报 队长梅西单人出镜",
+      "link": "http://www.163.com/dy/article/K8L0IU0N0529AQIE.html",
+      "time": "9月4日 20:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "阿根廷对阵委内瑞拉，梅西率队出战",
+      "link": "http://k.sina.com.cn/article_2427613143_90b26fd70400186ku.html",
+      "time": "9月2日 09:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "阿根廷队备战2026世界杯",
+      "link": "http://www.163.com/dy/article/K8E13K7L05415IEQ.html",
+      "time": "9月2日 03:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "阿根廷国家队安排:3日举行主帅新闻发布会,5日8时对阵委内瑞拉",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hb1o",
+      "time": "9月1日 07:01",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "奥莱报分析阿根廷世界杯名单:梅西、劳塔罗等15人铁定入选",
+      "event_id": "event_1",
+      "event_url": "http://www.dongqiudi.com/articles/5366430.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:54:47",
+      "event_time": "昨天 18:04"
+    },
+    {
+      "event_title": "因凡蒂诺：两天后将会关于世界杯的重大消息宣布",
+      "event_id": "event_2",
+      "event_url": "http://www.dongqiudi.com/articles/5361948.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:54:49",
+      "event_time": "9月9日 01:22"
+    },
+    {
+      "event_title": "因凡蒂诺:两天后将有关于世界杯的重大消息宣布",
+      "event_id": "event_3",
+      "event_url": "http://m.dongqiudi.com/article/5361948.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:54:51",
+      "event_time": "9月9日 01:22"
+    },
+    {
+      "event_title": "阿根廷队10月份将在美国对阵委内瑞拉和波多黎各",
+      "event_id": "event_4",
+      "event_url": "http://www.dongqiudi.com/articles/5358612.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:54:53",
+      "event_time": "9月7日 03:09"
+    },
+    {
+      "event_title": "是否会参加明年世界杯?梅西:这取决于我的状态",
+      "event_id": "event_5",
+      "event_url": "http://www.dongqiudi.com/articles/5355426.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:54:55",
+      "event_time": "9月5日 11:27"
+    },
+    {
+      "event_title": "梅西可能迎来阿根廷国家队主场最后一战",
+      "event_id": "event_6",
+      "event_url": "http://www.dongqiudi.com/articles/5354940.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:54:57",
+      "event_time": "9月5日 06:49"
+    },
+    {
+      "event_title": "阿根廷队发布对阵委内瑞拉海报 队长梅西单人出镜",
+      "event_id": "event_7",
+      "event_url": "http://www.163.com/dy/article/K8L0IU0N0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:54:59",
+      "event_time": "9月4日 20:46"
+    },
+    {
+      "event_title": "阿根廷对阵委内瑞拉，梅西率队出战",
+      "event_id": "event_8",
+      "event_url": "http://k.sina.com.cn/article_2427613143_90b26fd70400186ku.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:55:01",
+      "event_time": "9月2日 09:18"
+    },
+    {
+      "event_title": "阿根廷队备战2026世界杯",
+      "event_id": "event_9",
+      "event_url": "http://www.163.com/dy/article/K8E13K7L05415IEQ.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:55:03",
+      "event_time": "9月2日 03:40"
+    },
+    {
+      "event_title": "阿根廷国家队安排:3日举行主帅新闻发布会,5日8时对阵委内瑞拉",
+      "event_id": "event_10",
+      "event_url": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hb1o",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:55:05",
+      "event_time": "9月1日 07:01"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 10,
+    "total_comments": 10,
+    "events_with_comments": 10,
+    "level1_scrape_time": "2025-09-12 23:54:46",
+    "level2_scrape_time": "2025-09-12 23:55:05"
+  }
+}

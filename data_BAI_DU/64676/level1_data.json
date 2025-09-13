@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "东风61导弹亮相",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:29:14"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "东风5C、东风61、歼20S 亮相九三阅兵!",
+      "link": "http://www.163.com/dy/article/K8KPCP1305567429.html",
+      "time": "9月4日 18:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "东风5C和东风61公开亮相，射程2万公里，覆盖全球？",
+      "link": "http://cj.sina.com.cn/articles/view/7301049552/1b32d2cd00200185n0",
+      "time": "9月4日 17:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "东风-61核导弹亮相",
+      "link": "http://www.163.com/dy/article/K8K4SFHU05564B6N.html",
+      "time": "9月4日 12:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "东风61导弹亮相，东风51哪里去了？",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5476540355818694690",
+      "time": "9月4日 11:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "东风61罕见亮相",
+      "link": "http://www.bilibili.com/video/BV1fCauzdEqu",
+      "time": "9月3日 07:49",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 02:29:28"
+}

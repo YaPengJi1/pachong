@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 22:29:10"
+  },
+  "core_event": {
+    "core_event_name": "特朗普关税违法事件",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:28:46"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普签署行政令,调整关税政策生效范围",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31551289",
+      "time": "9月6日 08:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "7比4 裁决掀波澜",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6923192861554497875",
+      "time": "9月4日 17:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美关税再被判违法!“杀伤力”不仅在关税本身",
+      "link": "http://www.sdnews.com.cn/news/%2F/gj/202508/t20250831_4571100.html",
+      "time": "8月31日 09:33",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "特朗普签署行政令,调整关税政策生效范围",
+      "event_id": "event_1",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31551289",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:29:02",
+      "event_time": "9月6日 08:56"
+    },
+    {
+      "event_title": "7比4 裁决掀波澜",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6923192861554497875",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:29:04",
+      "event_time": "9月4日 17:05"
+    },
+    {
+      "event_title": "美关税再被判违法!“杀伤力”不仅在关税本身",
+      "event_id": "event_3",
+      "event_url": "http://www.sdnews.com.cn/news/%2F/gj/202508/t20250831_4571100.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:29:06",
+      "event_time": "8月31日 09:33"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 22:29:00",
+    "level2_scrape_time": "2025-09-12 22:29:06"
+  }
+}

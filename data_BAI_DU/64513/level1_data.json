@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "中国军队装备亮相",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:24:20"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "震撼亮相!中国军队装备已Next Level",
+      "link": "http://www.163.com/dy/article/K8KA39QT0530Q188.html",
+      "time": "9月4日 14:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "我军新一代武器装备集中亮相阅兵仪式,南理工校友深度参与",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infphqmq7104258.d.html",
+      "time": "9月4日 07:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "80周年九三阅兵仪式上首次亮相的六种新型地对空导弹",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9113567287040896318",
+      "time": "9月3日 19:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "反隐身防空导弹亮相阅兵,采用米波雷达系统,该类型是我国首创",
+      "link": "http://www.163.com/dy/article/K8HBLUJJ05568PE7.html",
+      "time": "9月3日 10:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "新一代武器装备将集中亮相",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b78fd48e9f093e9c18ded6",
+      "time": "9月3日 08:33",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 01:24:35"
+}

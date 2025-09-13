@@ -1,0 +1,358 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:44:22"
+  },
+  "core_event": {
+    "core_event_name": "詹姆斯成都之行",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:42:55"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "詹姆斯凌晨抵蓉，双子塔巨幅海报见证巨星魅力",
+      "link": "http://www.163.com/dy/article/K8PROSIG0556C2ZP.html",
+      "time": "9月6日 17:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "41岁詹姆斯暴扣引爆4万人!李梦娇羞拥抱,赵睿一句话让全场沸腾",
+      "link": "http://baijiahao.baidu.com/s?id=1842481046093235957&wfr=spider&for=pc",
+      "time": "9月6日 10:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "詹姆斯:中国球迷热情“不可思议” 愿激励下一代球员成长",
+      "link": "http://cj.sina.com.cn/articles/view/1699432410/654b47da02001k46s",
+      "time": "9月6日 10:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "詹姆斯晒成都行活动图集",
+      "link": "http://www.dongqiudi.com/articles/5356931.html",
+      "time": "9月6日 09:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "耐克官方晒詹姆斯在成都双子塔灯光秀前合影",
+      "link": "http://baijiahao.baidu.com/s?id=1842468633488530490&wfr=spider&for=pc",
+      "time": "9月6日 07:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "詹姆斯成都行创新高 40000人现场",
+      "link": "http://www.163.com/dy/article/K8NDKB4S05566S2A.html",
+      "time": "9月5日 19:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "NBA巨星詹姆斯时隔14年再来成都,雨中与粉丝互动,球迷集体高呼“LBJ”",
+      "link": "http://baijiahao.baidu.com/s?id=1842419970283550670&wfr=spider&for=pc",
+      "time": "9月5日 18:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "詹姆斯在暴雨中和球迷互动:你好成都!",
+      "link": "http://www.dongqiudi.com/articles/5355921.html",
+      "time": "9月5日 17:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "勒布朗·詹姆斯中国行抵达成都,双子塔点亮巨幅海报",
+      "link": "http://news.cnhubei.com/content/2025-09/05/content_19476795.html",
+      "time": "9月5日 11:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "詹姆斯在成都双子塔的灯光秀",
+      "link": "http://m.dongqiudi.com/article/5355413.html",
+      "time": "9月5日 11:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "成都双子塔为詹姆斯亮起巨幅灯光秀",
+      "link": "http://www.dongqiudi.com/articles/5355413.html",
+      "time": "9月5日 11:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "凌晨时分球迷在成都机场出口欢迎詹姆斯，酒店地下车库看到詹姆斯",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-05/doc-infpkxsq2676446.shtml",
+      "time": "9月5日 07:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "詹姆斯飞抵成都",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-05/doc-infpkhuw3026997.shtml",
+      "time": "9月5日 01:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "耐克官宣詹姆斯中国行成都免费门票将再次开启预约",
+      "link": "http://sports.sina.cn/nba/other/2025-09-01/detail-infnyiwf9428131.d.html",
+      "time": "9月1日 12:17",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "詹姆斯凌晨抵蓉，双子塔巨幅海报见证巨星魅力",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8PROSIG0556C2ZP.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:43:10",
+      "event_time": "9月6日 17:58"
+    },
+    {
+      "event_title": "41岁詹姆斯暴扣引爆4万人!李梦娇羞拥抱,赵睿一句话让全场沸腾",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842481046093235957&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "星域旅人qF",
+      "comment_time": "09-10 09:52",
+      "comment_content": "没那么夸张吧？觉得两人伯仲之间",
+      "user_location": "黑龙江",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:43:27",
+      "event_time": "9月6日 10:47"
+    },
+    {
+      "event_title": "41岁詹姆斯暴扣引爆4万人!李梦娇羞拥抱,赵睿一句话让全场沸腾",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842481046093235957&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "视界热点作者",
+      "comment_time": "09-06 10:57",
+      "comment_content": "求关注",
+      "user_location": "陕西",
+      "like_count": 4,
+      "scrape_time": "2025-09-13 01:43:27",
+      "event_time": "9月6日 10:47"
+    },
+    {
+      "event_title": "41岁詹姆斯暴扣引爆4万人!李梦娇羞拥抱,赵睿一句话让全场沸腾",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842481046093235957&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "左慧036",
+      "comment_time": "09-07 13:15",
+      "comment_content": "詹姆斯比科比差十万八千里。",
+      "user_location": "河南",
+      "like_count": 2,
+      "scrape_time": "2025-09-13 01:43:27",
+      "event_time": "9月6日 10:47"
+    },
+    {
+      "event_title": "詹姆斯:中国球迷热情“不可思议” 愿激励下一代球员成长",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/1699432410/654b47da02001k46s",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:43:29",
+      "event_time": "9月6日 10:25"
+    },
+    {
+      "event_title": "詹姆斯晒成都行活动图集",
+      "event_id": "event_4",
+      "event_url": "http://www.dongqiudi.com/articles/5356931.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:43:31",
+      "event_time": "9月6日 09:15"
+    },
+    {
+      "event_title": "耐克官方晒詹姆斯在成都双子塔灯光秀前合影",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842468633488530490&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "ss1107d",
+      "comment_time": "09-06 13:58",
+      "comment_content": "有了AI ，评论都简单了！",
+      "user_location": "辽宁",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:43:46",
+      "event_time": "9月6日 07:28"
+    },
+    {
+      "event_title": "耐克官方晒詹姆斯在成都双子塔灯光秀前合影",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842468633488530490&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "仲谦爱吃布丁",
+      "comment_time": "09-06 07:50",
+      "comment_content": "詹姆斯成都灯光秀留影帅翻了，耐克致敬真有爱，传奇故事还在继续。",
+      "user_location": "福建",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:43:46",
+      "event_time": "9月6日 07:28"
+    },
+    {
+      "event_title": "詹姆斯成都行创新高 40000人现场",
+      "event_id": "event_6",
+      "event_url": "http://www.163.com/dy/article/K8NDKB4S05566S2A.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:43:48",
+      "event_time": "9月5日 19:12"
+    },
+    {
+      "event_title": "NBA巨星詹姆斯时隔14年再来成都,雨中与粉丝互动,球迷集体高呼“LBJ”",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842419970283550670&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "Trainer芸芸",
+      "comment_time": "09-05 19:24",
+      "comment_content": "雨中粉丝热情不减，詹姆斯回应爱意，十四年重逢太温馨啦。",
+      "user_location": "贵州",
+      "like_count": 1,
+      "scrape_time": "2025-09-13 01:44:04",
+      "event_time": "9月5日 18:06"
+    },
+    {
+      "event_title": "詹姆斯在暴雨中和球迷互动:你好成都!",
+      "event_id": "event_8",
+      "event_url": "http://www.dongqiudi.com/articles/5355921.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:44:06",
+      "event_time": "9月5日 17:36"
+    },
+    {
+      "event_title": "勒布朗·詹姆斯中国行抵达成都,双子塔点亮巨幅海报",
+      "event_id": "event_9",
+      "event_url": "http://news.cnhubei.com/content/2025-09/05/content_19476795.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:44:08",
+      "event_time": "9月5日 11:48"
+    },
+    {
+      "event_title": "詹姆斯在成都双子塔的灯光秀",
+      "event_id": "event_10",
+      "event_url": "http://m.dongqiudi.com/article/5355413.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:44:10",
+      "event_time": "9月5日 11:17"
+    },
+    {
+      "event_title": "成都双子塔为詹姆斯亮起巨幅灯光秀",
+      "event_id": "event_11",
+      "event_url": "http://www.dongqiudi.com/articles/5355413.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:44:12",
+      "event_time": "9月5日 11:17"
+    },
+    {
+      "event_title": "凌晨时分球迷在成都机场出口欢迎詹姆斯，酒店地下车库看到詹姆斯",
+      "event_id": "event_12",
+      "event_url": "http://sports.sina.com.cn/basketball/nba/2025-09-05/doc-infpkxsq2676446.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:44:14",
+      "event_time": "9月5日 07:27"
+    },
+    {
+      "event_title": "詹姆斯飞抵成都",
+      "event_id": "event_13",
+      "event_url": "http://sports.sina.com.cn/basketball/nba/2025-09-05/doc-infpkhuw3026997.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:44:16",
+      "event_time": "9月5日 01:29"
+    },
+    {
+      "event_title": "耐克官宣詹姆斯中国行成都免费门票将再次开启预约",
+      "event_id": "event_14",
+      "event_url": "http://sports.sina.cn/nba/other/2025-09-01/detail-infnyiwf9428131.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:44:18",
+      "event_time": "9月1日 12:17"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 14,
+    "total_comments": 17,
+    "events_with_comments": 14,
+    "level1_scrape_time": "2025-09-13 01:43:09",
+    "level2_scrape_time": "2025-09-13 01:44:18"
+  }
+}

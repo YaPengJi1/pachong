@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "柯文哲交保事件",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:59:07"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "民众党前主席柯文哲7000万新台币交保",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEI7IX2iILvhvULyJeEz1q250908.shtml",
+      "time": "9月8日 19:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "柯文哲暂不交保2原因!白营:不爱借钱、无声抗议",
+      "link": "http://www.163.com/dy/article/K8RJ39920553YUSR.html",
+      "time": "9月7日 10:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "柯文哲将交保 台南基层:蓝白合作大势所趋 民进党逼出来的",
+      "link": "http://baijiahao.baidu.com/s?id=1842564328281136384&wfr=spider&for=pc",
+      "time": "9月7日 08:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "柯文哲获释交保,各方表态回应",
+      "link": "http://www.163.com/dy/article/K8PNCSJK0556C769.html",
+      "time": "9月6日 16:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "台北地方法院裁定柯文哲7000万新台币交保,理由曝光",
+      "link": "http://finance.sina.com.cn/roll/2025-09-05/doc-infpmuwf0769211.shtml",
+      "time": "9月5日 17:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "台湾民众党前主席柯文哲被裁定交保",
+      "link": "http://news.fjsen.com/wap/2025-09/05/content_32033734.htm",
+      "time": "9月5日 16:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "黄国昌：高额交保金，柯文哲恐不接受",
+      "link": "http://baijiahao.baidu.com/s?id=1842407539861679551&wfr=spider&for=pc",
+      "time": "9月5日 15:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "柯文哲关押一年睡马桶旁,这次能回家了",
+      "link": "http://baijiahao.baidu.com/s?id=1842406503027171955&wfr=spider&for=pc",
+      "time": "9月5日 15:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "柯文哲能交保?京华城案明开羁押庭 “这些人”尚未作证添变数",
+      "link": "http://www.163.com/dy/article/K8ISD3570553RUC8.html",
+      "time": "9月4日 00:54",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-13 01:59:21"
+}

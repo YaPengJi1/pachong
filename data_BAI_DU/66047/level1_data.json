@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "美国8月非农就业人数增长低于预期",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:04:03"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美国上一年度非农数据被大幅下修91.1万人",
+      "link": "http://tv.cctv.com/2025/09/10/VIDED473SWlnX4B0U93q1Hg1250910.shtml",
+      "time": "9月10日 11:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美国非农年度数据被大幅下修91.1万人",
+      "link": "http://tv.cctv.com/2025/09/10/VIDE9ypwDFofDemz2g7IeeVH250910.shtml",
+      "time": "9月10日 09:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美国8月非农新增就业2.2万大幅低于预期",
+      "link": "http://baijiahao.baidu.com/s?id=1842656010115107529&wfr=spider&for=pc",
+      "time": "9月8日 09:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美国8月非农就业远不及预期，2020年以来首次出现月度就业萎缩",
+      "link": "http://baijiahao.baidu.com/s?id=1842566970308564223&wfr=spider&for=pc",
+      "time": "9月7日 09:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美国8月非农就业人数增加2.2万",
+      "link": "http://baijiahao.baidu.com/s?id=1842432051161126443&wfr=spider&for=pc",
+      "time": "9月5日 21:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "美国8月份非农就业人数新增2.2万人 低于预期",
+      "link": "http://finance.sina.com.cn/jjxw/2025-09-05/doc-infpnfmz0580357.shtml",
+      "time": "9月5日 20:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "美国8月大非农预期悲观，美元指数或遭冲击",
+      "link": "http://baijiahao.baidu.com/s?id=1842418148494171070&wfr=spider&for=pc",
+      "time": "9月5日 17:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "美国8月“小非农”不及预期 赛富时AI变现乏力重压股价 博通第四财季AI芯片收入展望超预期",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7741745326965747191",
+      "time": "9月5日 10:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-12 15:04:17"
+}

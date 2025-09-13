@@ -1,0 +1,59 @@
+{
+  "core_event_name": "意大利世预赛大胜爱沙尼亚",
+  "comments": [
+    {
+      "event_title": "加图索5球暴击揭开新意大利面纱，世界杯有戏了",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842552222947630596&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "嘴炮的小公举",
+      "comment_time": "09-07 07:34",
+      "comment_content": "加图索首秀太猛了，新战术真犀利，球员火力全开，世界杯真有戏了。",
+      "user_location": "四川",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:03:57",
+      "event_time": "9月7日 05:40"
+    },
+    {
+      "event_title": "莫斯科中央陆军女足4-0大胜喀山红宝石女足",
+      "event_id": "event_2",
+      "event_url": "http://m.dongqiudi.com/article/5357764.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:03:59",
+      "event_time": "9月6日 19:52"
+    },
+    {
+      "event_title": "意大利世预赛大胜爱沙尼亚 雷特吉双响",
+      "event_id": "event_3",
+      "event_url": "http://www.xinhuanet.com/sports/20250906/54f46899125345b0a267c14148f384fb/c.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:04:01",
+      "event_time": "9月6日 11:51"
+    },
+    {
+      "event_title": "意大利0-0爱沙尼亚",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8OAD98P0549BAP0.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:04:03",
+      "event_time": "9月6日 03:35"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 15:04:03"
+}

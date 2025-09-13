@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "乔伊斯和费迪南德揭露格伊转会真相",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:17:29"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "乔伊斯发文称我军不会在冬窗的时候考虑签下格伊",
+      "link": "http://weibo.com/6448011846/Q3vP0rA36",
+      "time": "9月7日 22:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "费迪南德揭示格伊转会真相:水晶宫早知其离队意愿,利物浦错失良机",
+      "link": "http://www.sohu.com/a/931267343_122001004",
+      "time": "9月2日 22:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "格伊加盟利物浦告吹",
+      "link": "http://www.sohu.com/a/930929321_122387568",
+      "time": "9月2日 04:30",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 14:17:44"
+}

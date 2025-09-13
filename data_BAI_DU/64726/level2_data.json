@@ -1,0 +1,45 @@
+{
+  "core_event_name": "胡塞武装袭击以色列",
+  "comments": [
+    {
+      "event_title": "胡塞武装出击!本古里安机场遇袭,美以拦截失败",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=661493531198488115",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:40:05",
+      "event_time": "9月5日 11:44"
+    },
+    {
+      "event_title": "胡塞武装称再袭以色列并命中目标，以军为进攻加沙城做准备",
+      "event_id": "event_2",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1756858924&pk=68b783d28e9f09461e29f6df",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:40:07",
+      "event_time": "9月3日 07:52"
+    },
+    {
+      "event_title": "胡塞武装称再袭以色列并命中目标",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842167563125998404&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "应静秀0HT",
+      "comment_time": "09-02 23:55",
+      "comment_content": "愿世界和平，共筑美好未来！",
+      "user_location": "福建",
+      "like_count": 1,
+      "scrape_time": "2025-09-13 01:40:23"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-13 01:40:23"
+}

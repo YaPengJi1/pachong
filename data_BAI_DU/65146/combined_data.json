@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 19:10:16"
+  },
+  "core_event": {
+    "core_event_name": "比特币现货ETF净流入",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:09:47"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "9月 10 日比特币现货 ETF 总净流入 7.57 亿美",
+      "link": "http://finance.sina.com.cn/blockchain/roll/2025-09-11/doc-infqawwm1777603.shtml",
+      "time": "昨天 12:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "9月 5 日比特币现货 ETF 总净流出 1.60 亿美元",
+      "link": "http://finance.sina.com.cn/blockchain/roll/2025-09-07/doc-infpsaum0730342.shtml",
+      "time": "9月7日 14:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "9月 4 日比特币现货 ETF 总净流出 2.27 亿美元",
+      "link": "http://finance.sina.com.cn/blockchain/roll/2025-09-05/doc-infpmkhm0897212.shtml",
+      "time": "9月5日 12:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "9月 3 日比特币现货 ETF 总净流入 3.01 亿美元",
+      "link": "http://finance.sina.com.cn/blockchain/roll/2025-09-04/doc-infphyzn3585779.shtml",
+      "time": "9月4日 12:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "上周资金大幅净流入ETF市场452.45亿元",
+      "link": "http://finance.sina.com.cn/roll/2025-09-01/doc-infnycqm8026452.shtml",
+      "time": "9月1日 11:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "美国现货比特币ETF本周净流入4.408亿美元",
+      "link": "http://www.iyiou.com/briefing/202508301817537",
+      "time": "8月30日 15:23",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "9月 10 日比特币现货 ETF 总净流入 7.57 亿美",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.com.cn/blockchain/roll/2025-09-11/doc-infqawwm1777603.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:10:02",
+      "event_time": "昨天 12:18"
+    },
+    {
+      "event_title": "9月 5 日比特币现货 ETF 总净流出 1.60 亿美元",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.com.cn/blockchain/roll/2025-09-07/doc-infpsaum0730342.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:10:04",
+      "event_time": "9月7日 14:19"
+    },
+    {
+      "event_title": "9月 4 日比特币现货 ETF 总净流出 2.27 亿美元",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.com.cn/blockchain/roll/2025-09-05/doc-infpmkhm0897212.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:10:06",
+      "event_time": "9月5日 12:18"
+    },
+    {
+      "event_title": "9月 3 日比特币现货 ETF 总净流入 3.01 亿美元",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.com.cn/blockchain/roll/2025-09-04/doc-infphyzn3585779.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:10:08",
+      "event_time": "9月4日 12:18"
+    },
+    {
+      "event_title": "上周资金大幅净流入ETF市场452.45亿元",
+      "event_id": "event_5",
+      "event_url": "http://finance.sina.com.cn/roll/2025-09-01/doc-infnycqm8026452.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:10:10",
+      "event_time": "9月1日 11:15"
+    },
+    {
+      "event_title": "美国现货比特币ETF本周净流入4.408亿美元",
+      "event_id": "event_6",
+      "event_url": "http://www.iyiou.com/briefing/202508301817537",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:10:12",
+      "event_time": "8月30日 15:23"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 19:10:01",
+    "level2_scrape_time": "2025-09-12 19:10:12"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:43:01"
+  },
+  "core_event": {
+    "core_event_name": "iPhone 17系列价格上调",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:42:37"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "iPhone 17预计售价近800美元,全系列价格揭晓。",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5927604166260899350",
+      "time": "9月5日 03:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "大摩:苹果将小幅上调iPhone 17系列价格",
+      "link": "http://fund.eastmoney.com/a/202509043505043192.html",
+      "time": "9月4日 20:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "iPhone17Pro Max 已提前上架店里",
+      "link": "http://www.163.com/dy/article/K8K751RM0556D62U.html",
+      "time": "9月4日 13:22",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "iPhone 17预计售价近800美元,全系列价格揭晓。",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5927604166260899350",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:42:52",
+      "event_time": "9月5日 03:58"
+    },
+    {
+      "event_title": "大摩:苹果将小幅上调iPhone 17系列价格",
+      "event_id": "event_2",
+      "event_url": "http://fund.eastmoney.com/a/202509043505043192.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:42:55",
+      "event_time": "9月4日 20:42"
+    },
+    {
+      "event_title": "iPhone17Pro Max 已提前上架店里",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8K751RM0556D62U.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:42:57",
+      "event_time": "9月4日 13:22"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-13 01:42:51",
+    "level2_scrape_time": "2025-09-13 01:42:57"
+  }
+}

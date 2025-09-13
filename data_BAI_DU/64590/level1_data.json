@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "卡夫亨氏拆分事件",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:42:27"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "95岁的巴菲特罕见发怒,并发出重大警告!",
+      "link": "http://news.hnr.cn/shxw/article/1/1964652064900456449",
+      "time": "9月7日 19:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "卡夫亨氏决定拆分重组",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31538662",
+      "time": "9月4日 14:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美国食品企业卡夫亨氏宣布将拆分为两家公司",
+      "link": "http://tv.cctv.com/2025/09/03/VIDExP6RsGl1q360p0qtw9jl250903.shtml",
+      "time": "9月3日 22:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "巴菲特牵头合并的交易十年后终落幕",
+      "link": "http://finance.sina.com.cn/roll/2025-09-03/doc-infpfnyf2622185.shtml",
+      "time": "9月3日 20:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "卡夫亨氏花3亿美元分家,巴菲特恼火",
+      "link": "http://app.myzaker.com/news/article.php?m=1756972229&pk=68b7f439b15ec02c1f3f5cca",
+      "time": "9月3日 15:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "卡夫亨氏联姻十年后分手，“主婚人”巴菲特:对拆分失望,股价一度跌超7%",
+      "link": "http://baijiahao.baidu.com/s?id=1842188309923956583&wfr=spider&for=pc",
+      "time": "9月3日 05:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "卡夫亨氏股价跌幅扩大至3.7%",
+      "link": "http://finance.eastmoney.com/a/202509023502638243.html",
+      "time": "9月2日 22:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "卡夫亨氏拆分或为时已晚,难挡 “让美国再次健康” 运动的威胁",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-13 02:42:41"
+}

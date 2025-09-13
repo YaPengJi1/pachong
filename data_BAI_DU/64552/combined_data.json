@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:04:01"
+  },
+  "core_event": {
+    "core_event_name": "特朗普看阅兵",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:03:21"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普称九三阅兵令人印象深刻!中东羡慕要像中国一样强!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10995982620332152797",
+      "time": "9月5日 01:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特朗普承认看了阅兵",
+      "link": "http://baijiahao.baidu.com/s?id=1842318768401151383&wfr=spider&for=pc",
+      "time": "9月4日 15:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普看了中国阅兵，白宫给五角大楼派任务",
+      "link": "http://www.163.com/dy/article/K8K52JS30553TIXP.html",
+      "time": "9月4日 12:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普与波兰总统会晤时透露看了中国的阅兵",
+      "link": "http://www.bilibili.com/video/BV1vha6zKEjJ",
+      "time": "9月4日 00:51",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "特朗普称九三阅兵令人印象深刻!中东羡慕要像中国一样强!",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10995982620332152797",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:03:37",
+      "event_time": "9月5日 01:16"
+    },
+    {
+      "event_title": "特朗普承认看了阅兵",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842318768401151383&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:03:53",
+      "event_time": "9月4日 15:48"
+    },
+    {
+      "event_title": "特朗普看了中国阅兵，白宫给五角大楼派任务",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8K52JS30553TIXP.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:03:55",
+      "event_time": "9月4日 12:45"
+    },
+    {
+      "event_title": "特朗普与波兰总统会晤时透露看了中国的阅兵",
+      "event_id": "event_4",
+      "event_url": "http://www.bilibili.com/video/BV1vha6zKEjJ",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:03:57",
+      "event_time": "9月4日 00:51"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-13 02:03:35",
+    "level2_scrape_time": "2025-09-13 02:03:57"
+  }
+}

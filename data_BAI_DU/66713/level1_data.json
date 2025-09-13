@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "金价暴涨",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:00:43"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "黄金狂飙再创新高!年内超60%涨幅,这些黄金主题基金火到不行",
+      "link": "http://baijiahao.baidu.com/s?id=1842842712663261984&wfr=spider&for=pc",
+      "time": "9月10日 11:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "金价,彻底爆了!",
+      "link": "http://www.163.com/dy/article/K93AVSMT0530JPVV.html",
+      "time": "9月10日 10:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "金价再创新高!银行紧急调整",
+      "link": "http://baijiahao.baidu.com/s?id=1842797583344245819&wfr=spider&for=pc",
+      "time": "9月9日 20:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "金价再度大涨吸引投资客出手",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10155974124095133604",
+      "time": "9月5日 08:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "国际金价再次暴涨",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13904219391103095721",
+      "time": "9月4日 18:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "金价,创历史新高",
+      "link": "http://baijiahao.baidu.com/s?id=1842312921853804373&wfr=spider&for=pc",
+      "time": "9月4日 14:09",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 10:00:58"
+}

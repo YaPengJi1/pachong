@@ -1,0 +1,72 @@
+{
+  "core_event_name": "吉利银河M9销量暴涨",
+  "comments": [
+    {
+      "event_title": "吉利汽车8月销量超25万台",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/2283833712/8820897000101xal4",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:49:09",
+      "event_time": "9月7日 00:00"
+    },
+    {
+      "event_title": "吉利8月销量暴涨",
+      "event_id": "event_2",
+      "event_url": "http://www.pcauto.com.cn/hj/article/3049491.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:49:11",
+      "event_time": "9月4日 18:07"
+    },
+    {
+      "event_title": "吉利银河8月销量110666辆,同比大增173%!银河A7上市即热销,M9火爆预售",
+      "event_id": "event_3",
+      "event_url": "http://www.zhev.com.cn/news/show-1657903979-6.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:49:13",
+      "event_time": "9月2日 00:00"
+    },
+    {
+      "event_title": "银河品牌月销11万辆,星愿/银河E5等热销",
+      "event_id": "event_4",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_3645258844990234390",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:49:15",
+      "event_time": "9月1日 18:54"
+    },
+    {
+      "event_title": "吉利汽车冠名杭州马拉松",
+      "event_id": "event_5",
+      "event_url": "http://www.banyuetan.org/qyzx/detail/20250901/1000200033137541756695975458184780_1.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:49:17",
+      "event_time": "9月1日 11:06"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-13 01:49:17"
+}

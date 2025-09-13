@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "美网女单阿尼西莫娃复仇成功",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:04:49"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美网女单再次爆冷，阿尼西莫娃成功复仇，晋级四强并拿走百万奖金",
+      "link": "http://baijiahao.baidu.com/s?id=1842594634675010630&wfr=spider&for=pc",
+      "time": "9月7日 16:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "阿尼西莫娃三连杀大阪直美，生涯首进美网决赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842410298610038553&wfr=spider&for=pc",
+      "time": "9月5日 16:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美网女单下半区阿尼西莫娃击败斯瓦泰克 大阪直美则两盘力克穆霍娃",
+      "link": "http://baijiahao.baidu.com/s?id=1842298091746344410&wfr=spider&for=pc",
+      "time": "9月4日 10:21",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 11:05:03"
+}

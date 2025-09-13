@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:08:25"
+  },
+  "core_event": {
+    "core_event_name": "创业板指涨超3%",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:07:29"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "创业板涨超3%",
+      "link": "http://baijiahao.baidu.com/s?id=1842405723354366086&wfr=spider&for=pc",
+      "time": "9月5日 12:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "创业板指涨超4%,深成指涨2.2%,沪指涨0.4%。CPO概念、PEEK材料、锂电池、光刻机板块涨幅居前",
+      "link": "http://weibo.com/7753499378/Q38lkwCNp",
+      "time": "9月5日 11:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "创业板指涨超3% 超4000股上涨",
+      "link": "http://cj.sina.com.cn/articles/view/5115326071/130e5ae7702002n5ew",
+      "time": "9月5日 10:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "创业板指跌超4% 倒车接人?",
+      "link": "http://baijiahao.baidu.com/s?id=1842327197318848933&wfr=spider&for=pc",
+      "time": "9月4日 18:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "创业板指半日涨3.48% 新能源产业链爆发",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "创业板涨超3%",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842405723354366086&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "热烈且认真的小茱萸f",
+      "comment_time": "09-05 18:51",
+      "comment_content": "降准刺激资金流入，创业板科技股反弹明显。但短期涨幅过快，小心泡沫风险。",
+      "user_location": "天津",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:07:59",
+      "event_time": "9月5日 12:02"
+    },
+    {
+      "event_title": "创业板指涨超4%,深成指涨2.2%,沪指涨0.4%。CPO概念、PEEK材料、锂电池、光刻机板块涨幅居前",
+      "event_id": "event_2",
+      "event_url": "http://weibo.com/7753499378/Q38lkwCNp",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:08:01",
+      "event_time": "9月5日 11:00"
+    },
+    {
+      "event_title": "创业板指涨超3% 超4000股上涨",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/5115326071/130e5ae7702002n5ew",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:08:03",
+      "event_time": "9月5日 10:33"
+    },
+    {
+      "event_title": "创业板指跌超4% 倒车接人?",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842327197318848933&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:08:18",
+      "event_time": "9月4日 18:02"
+    },
+    {
+      "event_title": "创业板指半日涨3.48% 新能源产业链爆发",
+      "event_id": "event_5",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:08:20",
+      "event_time": "1970年"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-13 02:07:43",
+    "level2_scrape_time": "2025-09-13 02:08:20"
+  }
+}

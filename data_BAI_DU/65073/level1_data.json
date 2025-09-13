@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "普京：俄罗斯将对中国免签",
+    "update_time": "更新至20250912",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:53:29"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "俄罗斯“已着手执行”对华免签",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7642359628558656914",
+      "time": "今天 08:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国将对俄罗斯公民试行免签政策 普京:俄罗斯将对等实施对华免签",
+      "link": "http://tv.cctv.com/2025/09/06/VIDE8qTWNhaMMGnHWEJeXVTt250906.shtml",
+      "time": "9月6日 13:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "普京:俄罗斯将对等实施对等实施对等实施对等实施对等",
+      "link": "http://tv.cctv.com/2025/09/06/VIDEvl5wiMP6UliDiO0MPX4r250906.shtml",
+      "time": "9月6日 12:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "普京:俄罗斯将对等实施对等签证",
+      "link": "http://tv.cctv.com/2025/09/06/VIDE7RAn0OokZwtY5ZmNroPj250906.shtml",
+      "time": "9月6日 08:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "普京:俄罗斯将对等回应中方对俄免签",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7889385534048154604",
+      "time": "9月5日 22:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "普京:俄罗斯将对中国免签,为两国商贸交流创造有利环境",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8750367998490559916",
+      "time": "9月5日 17:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "中俄免签成了,扎哈罗哈对国民千叮咤万嘱咐,不能给中国添麻烦",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2491661231533676019",
+      "time": "9月5日 15:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "中国对俄罗斯试行免签，边境小城想要接住流量",
+      "link": "http://www.163.com/dy/article/K8L57IB705199NPP.html",
+      "time": "9月4日 22:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "明年9月起俄免签!机票搜索量涨近4倍,中俄交流更畅达啦～",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15165032619335041918",
+      "time": "9月4日 10:08",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 17:53:43"
+}

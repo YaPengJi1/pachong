@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "格伊转会利物浦或转会利物浦球迷心态爆表",
+    "update_time": "更新至20250902",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:14:35"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "格伊拒绝水晶宫续约,明年夏天或转会利物浦,利物浦球迷:心态爆了!",
+      "link": "http://www.sohu.com/a/931279705_122387568",
+      "time": "9月2日 23:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "水晶宫无法找到替代者，格伊转会岌岌可危",
+      "link": "http://www.163.com/dy/article/K8DNDQP60529AQIE.html",
+      "time": "9月2日 00:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "利物浦势必在关窗前压哨签下格伊",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15468260878637955541",
+      "time": "9月1日 09:28",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 20:14:50"
+}

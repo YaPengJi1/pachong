@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "汽车行业网络乱象整治行动",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:45:47"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "6部门联合开展汽车网络乱象整治",
+      "link": "http://video.sina.cn/finance/2025-09-11/detail-infqasqk6939035.d.html",
+      "time": "昨天 10:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "六部门联合部署开展汽车行业网络乱象专项整治行动",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31592599",
+      "time": "昨天 08:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "六部门联合出手!剑指汽车行业网络乱象",
+      "link": "http://www.zhitongcaijing.com/content/detail/1343851.html",
+      "time": "9月10日 22:39",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 10:46:02"
+}

@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:21:42"
+  },
+  "core_event": {
+    "core_event_name": "亚马尔赢得金球奖",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:21:17"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "亚马尔仍可能赢得今年金球奖,众多名宿和球星都力挺他",
+      "link": "http://www.dongqiudi.com/articles/5359612.html",
+      "time": "9月7日 19:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "亚马尔仍有机会赢得今年金球奖",
+      "link": "http://www.163.com/dy/article/K8SHDSUQ0529AQIE.html",
+      "time": "9月7日 18:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "拉明亚马尔闪耀足坛",
+      "link": "http://www.sohu.com/a/932672735_122354592",
+      "time": "9月7日 18:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "亚马尔配得上金球奖",
+      "link": "http://www.dongqiudi.com/articles/5355553.html",
+      "time": "9月5日 12:47",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "亚马尔仍可能赢得今年金球奖,众多名宿和球星都力挺他",
+      "event_id": "event_1",
+      "event_url": "http://www.dongqiudi.com/articles/5359612.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:21:32",
+      "event_time": "9月7日 19:46"
+    },
+    {
+      "event_title": "亚马尔仍有机会赢得今年金球奖",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8SHDSUQ0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:21:34",
+      "event_time": "9月7日 18:55"
+    },
+    {
+      "event_title": "拉明亚马尔闪耀足坛",
+      "event_id": "event_3",
+      "event_url": "http://www.sohu.com/a/932672735_122354592",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:21:36",
+      "event_time": "9月7日 18:02"
+    },
+    {
+      "event_title": "亚马尔配得上金球奖",
+      "event_id": "event_4",
+      "event_url": "http://www.dongqiudi.com/articles/5355553.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:21:38",
+      "event_time": "9月5日 12:47"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 10:21:31",
+    "level2_scrape_time": "2025-09-12 10:21:38"
+  }
+}

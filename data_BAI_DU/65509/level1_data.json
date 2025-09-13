@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "泰国国会下议院总理选举",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:06:04"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "泰国国会今日投票选总理",
+      "link": "http://baijiahao.baidu.com/s?id=1842386836432828280&wfr=spider&for=pc",
+      "time": "9月5日 09:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "泰国国会下议院将于5日选举新一任总理",
+      "link": "http://baijiahao.baidu.com/s?id=1842314085900054604&wfr=spider&for=pc",
+      "time": "9月4日 13:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "泰国选情生变,新的造王者诞生,5人竞选新总理,他信成为关键?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7892358313784683407",
+      "time": "9月3日 17:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "角逐总理“宝座”,泰国各政党展开博弈",
+      "link": "http://baijiahao.baidu.com/s?id=1842109392662242298&wfr=spider&for=pc",
+      "time": "9月2日 08:05",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 01:06:18"
+}

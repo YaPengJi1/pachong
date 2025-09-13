@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "全新问界M7展车亮相",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:16:46"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "全新问界M7大定“抢眼”，重点升级之处竞品无法赶超",
+      "link": "http://baijiahao.baidu.com/s?id=1842709222777720920&wfr=spider&for=pc",
+      "time": "9月8日 23:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "问界新M7订单1小时破10万",
+      "link": "http://www.163.com/dy/article/K8R98A4U0553T94S.html",
+      "time": "9月7日 07:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "问界全系亮相2025智博会",
+      "link": "http://baijiahao.baidu.com/s?id=1842501601785263336&wfr=spider&for=pc",
+      "time": "9月6日 16:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "全新问界M7全国首批展车亮相",
+      "link": "http://baijiahao.baidu.com/s?id=1842495202535751639&wfr=spider&for=pc",
+      "time": "9月6日 01:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "全新问界M7开启预定，理想L6/L7松口气",
+      "link": "http://www.163.com/dy/article/K8MJET0E054783YK.html",
+      "time": "9月5日 11:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "全新问界M7更多卖点官宣",
+      "link": "http://www.163.com/dy/article/K8KHFDN50511DG68.html",
+      "time": "9月4日 16:22",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 14:17:18"
+}

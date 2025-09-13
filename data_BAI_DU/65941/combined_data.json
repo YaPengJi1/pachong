@@ -1,0 +1,193 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 15:02:50"
+  },
+  "core_event": {
+    "core_event_name": "中国外交部全球治理倡议",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:01:59"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "外交部:奉劝个别大国以地区和平稳定为重",
+      "link": "http://baijiahao.baidu.com/s?id=1842862201716165636&wfr=spider&for=pc",
+      "time": "9月10日 15:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "联大通过决议，中国应尽快恢复在联合国的合法席位",
+      "link": "http://finance.sina.cn/2025-09-07/detail-infprfqq0629387.d.html",
+      "time": "9月7日 06:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "全球治理倡议引发国际社会广泛共鸣",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4260661438381217734",
+      "time": "9月6日 14:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国四大倡议出击 破解全球乱局 再造安全、公平与发展新规则",
+      "link": "http://news.sohu.com/a/932410001_121142129",
+      "time": "9月6日 12:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "上合组织天津峰会上,习近平主席提出这一重大全球倡议",
+      "link": "http://www.e0734.com/index.php?c=wap&a=show&catid=116&id=604980",
+      "time": "9月4日 15:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "外交部 全球治理倡议引发国际社会广泛共鸣",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12432657569853873720",
+      "time": "9月3日 11:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "上合天津峰会习近平提出全球治理倡议",
+      "link": "http://m.cnhubei.com/content/2025-09/02/content_19467995.html",
+      "time": "9月2日 10:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "外交部发布《全球治理倡议概念文件》",
+      "link": "http://finance.sina.com.cn/roll/2025-09-01/doc-infnzmiy0793482.shtml",
+      "time": "9月1日 23:55",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "外交部:奉劝个别大国以地区和平稳定为重",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842862201716165636&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:02:32",
+      "event_time": "9月10日 15:45"
+    },
+    {
+      "event_title": "联大通过决议，中国应尽快恢复在联合国的合法席位",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/2025-09-07/detail-infprfqq0629387.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:02:34",
+      "event_time": "9月7日 06:00"
+    },
+    {
+      "event_title": "全球治理倡议引发国际社会广泛共鸣",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4260661438381217734",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:02:36",
+      "event_time": "9月6日 14:47"
+    },
+    {
+      "event_title": "中国四大倡议出击 破解全球乱局 再造安全、公平与发展新规则",
+      "event_id": "event_4",
+      "event_url": "http://news.sohu.com/a/932410001_121142129",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:02:38",
+      "event_time": "9月6日 12:15"
+    },
+    {
+      "event_title": "上合组织天津峰会上,习近平主席提出这一重大全球倡议",
+      "event_id": "event_5",
+      "event_url": "http://www.e0734.com/index.php?c=wap&a=show&catid=116&id=604980",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:02:40",
+      "event_time": "9月4日 15:06"
+    },
+    {
+      "event_title": "外交部 全球治理倡议引发国际社会广泛共鸣",
+      "event_id": "event_6",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12432657569853873720",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:02:42",
+      "event_time": "9月3日 11:07"
+    },
+    {
+      "event_title": "上合天津峰会习近平提出全球治理倡议",
+      "event_id": "event_7",
+      "event_url": "http://m.cnhubei.com/content/2025-09/02/content_19467995.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:02:44",
+      "event_time": "9月2日 10:59"
+    },
+    {
+      "event_title": "外交部发布《全球治理倡议概念文件》",
+      "event_id": "event_8",
+      "event_url": "http://finance.sina.com.cn/roll/2025-09-01/doc-infnzmiy0793482.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:02:46",
+      "event_time": "9月1日 23:55"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 8,
+    "total_comments": 8,
+    "events_with_comments": 8,
+    "level1_scrape_time": "2025-09-12 15:02:13",
+    "level2_scrape_time": "2025-09-12 15:02:46"
+  }
+}

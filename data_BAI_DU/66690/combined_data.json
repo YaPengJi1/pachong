@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:12:20"
+  },
+  "core_event": {
+    "core_event_name": "美网：阿尔卡拉斯3-1辛纳夺冠",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:11:33"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "阿尔卡拉斯3-1辛纳登，世界第一",
+      "link": "http://www.163.com/dy/article/K90KE17P0556DPL1.html",
+      "time": "9月9日 09:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "阿卡3-1战胜辛纳，夺得美网冠军",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6834976158607508579",
+      "time": "9月8日 23:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "阿尔卡拉斯3:1战胜辛纳，时隔三年再夺美网男单冠军",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12852124274233781359",
+      "time": "9月8日 10:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "阿卡硬地首胜德约，7进大满贯决赛，冲第6冠，静候世界第1辛纳",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4249891236932085188",
+      "time": "9月7日 14:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "阿卡解锁新成就:3种场地击败德约+连续8站进决赛",
+      "link": "http://sports.sina.com.cn/o/2025-09-06/doc-infpptph1447225.shtml",
+      "time": "9月6日 14:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "美网男单决赛对阵出炉",
+      "link": "http://baijiahao.baidu.com/s?id=1842481631548749909&wfr=spider&for=pc",
+      "time": "9月6日 10:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "德约0-3阿卡无缘决赛 今年四大满贯均止步半决赛",
+      "link": "http://news.sohu.com/a/932335617_114977",
+      "time": "9月6日 07:09",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "阿尔卡拉斯3-1辛纳登，世界第一",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K90KE17P0556DPL1.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:11:48",
+      "event_time": "9月9日 09:04"
+    },
+    {
+      "event_title": "阿卡3-1战胜辛纳，夺得美网冠军",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6834976158607508579",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:11:50",
+      "event_time": "9月8日 23:12"
+    },
+    {
+      "event_title": "阿尔卡拉斯3:1战胜辛纳，时隔三年再夺美网男单冠军",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12852124274233781359",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:11:52",
+      "event_time": "9月8日 10:55"
+    },
+    {
+      "event_title": "阿卡硬地首胜德约，7进大满贯决赛，冲第6冠，静候世界第1辛纳",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4249891236932085188",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:11:54",
+      "event_time": "9月7日 14:41"
+    },
+    {
+      "event_title": "阿卡解锁新成就:3种场地击败德约+连续8站进决赛",
+      "event_id": "event_5",
+      "event_url": "http://sports.sina.com.cn/o/2025-09-06/doc-infpptph1447225.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:11:57",
+      "event_time": "9月6日 14:45"
+    },
+    {
+      "event_title": "美网男单决赛对阵出炉",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842481631548749909&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "风神不吃Durian",
+      "comment_time": "09-06 11:01",
+      "comment_content": "一场精彩的巅峰对决，辛纳卫冕之路不易，阿卡的状态也火热，期待决赛火花四溅！",
+      "user_location": "甘肃",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 11:12:14",
+      "event_time": "9月6日 10:57"
+    },
+    {
+      "event_title": "德约0-3阿卡无缘决赛 今年四大满贯均止步半决赛",
+      "event_id": "event_7",
+      "event_url": "http://news.sohu.com/a/932335617_114977",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:12:16",
+      "event_time": "9月6日 07:09"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 11:11:47",
+    "level2_scrape_time": "2025-09-12 11:12:16"
+  }
+}

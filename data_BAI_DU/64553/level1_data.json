@@ -1,0 +1,100 @@
+{
+  "core_info": {
+    "core_event_name": "中俄免签政策引热议",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:04:06"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "俄罗斯将对华免签:北京飞莫斯科1482元,国庆赴俄游客有望大增",
+      "link": "http://baijiahao.baidu.com/s?id=1842500311932852456&wfr=spider&for=pc",
+      "time": "9月6日 15:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "回应中方友好政策,便利两国人员往来,普京:俄将对等实施对华免签",
+      "link": "http://baijiahao.baidu.com/s?id=1842466025592100823&wfr=spider&for=pc",
+      "time": "9月6日 06:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "普京访华 中俄免签 30天畅游不再烦恼",
+      "link": "http://www.163.com/dy/article/K8N5AHF40553TKFR.html",
+      "time": "9月5日 16:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中俄免签成了,扎哈罗哈对国民千叮咤万嘱咐,不能给中国添麻烦",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2491661231533676019",
+      "time": "9月5日 15:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "普京称将回应中国对俄试行免签",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12149357880540024004",
+      "time": "9月5日 00:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "中俄一口气签20多份文件，普京得偿所愿",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9734024116238717589",
+      "time": "9月4日 15:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "特朗普反对无效 中俄签署合作大单 俄罗斯卖石油 中国对俄免签",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2642550247966689558",
+      "time": "9月3日 16:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "中方对俄罗斯试行免签政策",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6078271844594725864",
+      "time": "9月2日 22:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "中国队俄罗斯免签了 俄罗斯应该很快也对中国免签",
+      "link": "http://weibo.com/1652184490/Q2IjsDiZM",
+      "time": "9月2日 16:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "中国对俄罗斯试行免签",
+      "link": "http://www.jfdaily.com/news/detail?id=975432",
+      "time": "9月2日 16:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "中俄关系再升级",
+      "link": "http://baijiahao.baidu.com/s?id=1842138402209437109&wfr=spider&for=pc",
+      "time": "9月2日 16:01",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 11,
+  "scrape_time": "2025-09-13 02:04:20"
+}

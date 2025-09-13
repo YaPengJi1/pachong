@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "美军对委内瑞拉扫射",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:08:16"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美军做好准备,特朗普认真权衡,随时准备对委内瑞拉开枪",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8515781107106858977",
+      "time": "9月8日 17:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特朗普一声令下,美军向委内瑞拉船只开火,已致死11人",
+      "link": "http://new.qq.com/rain/a/20250905V06KZO00",
+      "time": "9月8日 17:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普:若委内瑞拉战机危及美国则将被击落",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6544321138240887778",
+      "time": "9月8日 15:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美军打响第一枪,猛烈扫射摧毁船只,委内瑞拉亮“中国王牌”迎战",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13573774216900049496",
+      "time": "9月7日 15:28",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 10:08:30"
+}

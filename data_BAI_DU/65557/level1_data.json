@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "国足帅位选聘及目标进世界杯",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:51:03"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国足选帅风波再起，卡纳瓦罗自荐背后隐藏深意",
+      "link": "http://cj.sina.com.cn/articles/view/1510039900/5a01615c001011qoo",
+      "time": "9月9日 11:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "国足公开选帅，15天真能选出“真命天子”吗？",
+      "link": "http://cj.sina.com.cn/articles/view/7096022664/1a6f4b68802001bcyi",
+      "time": "9月6日 14:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国足协公开选聘国足主教练 目标参加2030世界杯",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4523129290206579175",
+      "time": "9月6日 07:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "15天火速敲定人选 冲2030世界杯国足又开始公开选帅了",
+      "link": "http://baijiahao.baidu.com/s?id=1842422557204208425&wfr=spider&for=pc",
+      "time": "9月5日 19:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "国足最快1个月敲定新帅?已有5大候选,2人已退出",
+      "link": "http://cj.sina.com.cn/articles/view/7880068820/1d5b04ed402001ddvo",
+      "time": "9月5日 17:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "国足帅位再掀波澜!选帅背后那些不为人知的故事与数据解析",
+      "link": "http://www.sohu.com/a/932207004_121894857",
+      "time": "9月5日 16:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "中国足协：公开选聘国家男子足球队主教练",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12472238394760857014",
+      "time": "9月5日 15:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "足协公开选聘国足新帅，目标进下届世界杯",
+      "link": "http://www.163.com/dy/article/K8MUF0DG0529CA1F.html",
+      "time": "9月5日 14:55",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-13 01:51:17"
+}

@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:57:59"
+  },
+  "core_event": {
+    "core_event_name": "北京杜莎夫人蜡像馆关闭",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:57:20"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "北京杜莎夫人蜡像馆将永久关闭",
+      "link": "http://www.ctdsb.net/c1716_202509/2529083.html",
+      "time": "9月6日 00:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "北京杜莎夫人蜡像馆永久关闭",
+      "link": "http://baijiahao.baidu.com/s?id=1842407570165836808&wfr=spider&for=pc",
+      "time": "9月5日 15:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "北京杜莎夫人蜡像馆宣布:将永久关闭!网友:这些“明星”怎么办",
+      "link": "http://finance.sina.com.cn/roll/2025-09-05/doc-infpmcyn2645108.shtml",
+      "time": "9月5日 10:46",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "北京杜莎夫人蜡像馆将永久关闭",
+      "event_id": "event_1",
+      "event_url": "http://www.ctdsb.net/c1716_202509/2529083.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:57:36",
+      "event_time": "9月6日 00:16"
+    },
+    {
+      "event_title": "北京杜莎夫人蜡像馆永久关闭",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842407570165836808&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:57:53",
+      "event_time": "9月5日 15:31"
+    },
+    {
+      "event_title": "北京杜莎夫人蜡像馆宣布:将永久关闭!网友:这些“明星”怎么办",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.com.cn/roll/2025-09-05/doc-infpmcyn2645108.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:57:55",
+      "event_time": "9月5日 10:46"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 17:57:34",
+    "level2_scrape_time": "2025-09-12 17:57:55"
+  }
+}

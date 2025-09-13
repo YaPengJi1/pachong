@@ -1,0 +1,85 @@
+{
+  "core_event_name": "蓝思科技股价大涨",
+  "comments": [
+    {
+      "event_title": "蓝思科技股价涨5.16%,嘉实基金旗下3只基金重仓,合计持有69.44万股浮盈赚取106.94万元",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842301024811364937&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:48:51",
+      "event_time": "9月4日 11:06"
+    },
+    {
+      "event_title": "蓝思科技股价涨5.16%,中金基金旗下2只基金重仓,合计持有42.14万股浮盈赚取64.9万元",
+      "event_id": "event_2",
+      "event_url": "http://news.sohu.com/a/931717345_122014422",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:48:53",
+      "event_time": "9月4日 09:40"
+    },
+    {
+      "event_title": "蓝思科技股价涨5.16%,申万菱信基金旗下1只基金重仓,持有126.38万股浮盈赚取194.63万元",
+      "event_id": "event_3",
+      "event_url": "http://news.sohu.com/a/931713591_122014422",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:48:55",
+      "event_time": "9月4日 09:40"
+    },
+    {
+      "event_title": "蓝思科技股价涨5.16%,万家基金旗下1只基金重仓,持有10.09万股浮盈赚取15.54万元",
+      "event_id": "event_4",
+      "event_url": "http://news.sohu.com/a/931708559_122014422",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:48:57",
+      "event_time": "9月4日 09:39"
+    },
+    {
+      "event_title": "蓝思科技9月4日盘中涨幅达5%",
+      "event_id": "event_5",
+      "event_url": "http://finance.eastmoney.com/a/202509043504345177.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:48:59",
+      "event_time": "9月4日 09:38"
+    },
+    {
+      "event_title": "蓝思科技涨3.97%,成交额36.91亿元,今日主力净流入1.50亿",
+      "event_id": "event_6",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:49:02",
+      "event_time": "1970年"
+    }
+  ],
+  "total_comments": 6,
+  "scrape_time": "2025-09-13 01:49:02"
+}

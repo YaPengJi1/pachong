@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "欧亚集团涨停",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:39:17"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "欧亚集团9月5日打开涨停",
+      "link": "http://finance.eastmoney.com/a/202509053505672683.html",
+      "time": "9月5日 09:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "欧亚集团9月5日开盘涨停",
+      "link": "http://finance.eastmoney.com/a/202509053505646969.html",
+      "time": "9月5日 09:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "免税概念板块大涨 欧亚集团涨停",
+      "link": "http://www.163.com/dy/article/K8JRKEOB05568W0A.html",
+      "time": "9月4日 10:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "欧亚集团(600697)涨停分析",
+      "link": "http://3g.cnfol.com/sc_stock/gushiyaowen/20250904/31614333.shtml",
+      "time": "9月4日 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 18:39:32"
+}

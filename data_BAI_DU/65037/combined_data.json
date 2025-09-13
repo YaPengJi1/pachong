@@ -1,0 +1,108 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:18:45"
+  },
+  "core_event": {
+    "core_event_name": "午休课桌椅“国标”出台",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:17:50"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "午休课桌椅“国标”彰显教育温度",
+      "link": "http://m.gmw.cn/2025-09/05/content_1304136138.htm",
+      "time": "9月5日 14:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "事关中小学生午休!“国标”来了!",
+      "link": "http://baijiahao.baidu.com/s?id=1842395355694516425&wfr=spider&for=pc",
+      "time": "9月5日 11:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "让中小学生午休“躺睡”,有国标了",
+      "link": "http://www.163.com/dy/article/K8KS497A0514BE2Q.html",
+      "time": "9月4日 19:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中小学生午休课桌椅“国标”出台 2026年2月1日起施行",
+      "link": "http://baijiahao.baidu.com/s?id=1842055400489136327&wfr=spider&for=pc",
+      "time": "9月1日 18:02",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "午休课桌椅“国标”彰显教育温度",
+      "event_id": "event_1",
+      "event_url": "http://m.gmw.cn/2025-09/05/content_1304136138.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:18:05",
+      "event_time": "9月5日 14:01"
+    },
+    {
+      "event_title": "事关中小学生午休!“国标”来了!",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842395355694516425&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "nicky的partynight",
+      "comment_time": "09-05 15:25",
+      "comment_content": "国家标准出台了，这下孩子们午休更舒服了，休息好学习棒。",
+      "user_location": "福建",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:18:23",
+      "event_time": "9月5日 11:07"
+    },
+    {
+      "event_title": "让中小学生午休“躺睡”,有国标了",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8KS497A0514BE2Q.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:18:25",
+      "event_time": "9月4日 19:28"
+    },
+    {
+      "event_title": "中小学生午休课桌椅“国标”出台 2026年2月1日起施行",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842055400489136327&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "游戏开发者飞翔",
+      "comment_time": "09-02 15:38",
+      "comment_content": "作者用心了，点个赞👍",
+      "user_location": "江西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:18:41"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 17:18:04",
+    "level2_scrape_time": "2025-09-12 17:18:41"
+  }
+}

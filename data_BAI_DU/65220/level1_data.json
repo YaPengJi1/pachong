@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "华为首款8.8英寸旗舰小平板发布",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:33:17"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "华为阅读眼动翻页功能新增适配 MatePad Mini、Mate X6 系列设备",
+      "link": "http://www.ithome.com/0/881/043.htm",
+      "time": "9月7日 16:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "华为MatePad Mini亮相,超轻薄设计打造“不一样的Mini”",
+      "link": "http://baijiahao.baidu.com/s?id=1842484523046469039&wfr=spider&for=pc",
+      "time": "9月6日 11:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "华为发布首款8.8英寸旗舰小平板，以全场景能力改变市场格局",
+      "link": "http://www.163.com/dy/article/K8MQAKN80511DP7O.html",
+      "time": "9月5日 13:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "华为全新小尺寸平板MatePad Mini发布",
+      "link": "http://economy.southcn.com/node_cc06cbe708/5efe38e8fd.shtml",
+      "time": "9月4日 19:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "华为发布3299元8.8寸大手机!苹果没做到的 华为全做到了",
+      "link": "http://news.pconline.com.cn/1974/19744753.html",
+      "time": "9月4日 17:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "华为发布首款8.8英寸OLED平板",
+      "link": "http://weibo.com/3780537534/Q31iZ7naE",
+      "time": "9月4日 17:05",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 20:33:31"
+}

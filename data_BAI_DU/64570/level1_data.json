@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "美联储降息预期提高",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:21:11"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美联储沃勒力推本月启动降息，释放9月首降+连续宽松信号",
+      "link": "http://baijiahao.baidu.com/s?id=1842334156115946594&wfr=spider&for=pc",
+      "time": "9月4日 19:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美联储9月降息概率攀升至90%",
+      "link": "http://weibo.com/7637728252/Q2Fst8dwm",
+      "time": "9月2日 09:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "市场押注美联储将降息,美元势将下跌",
+      "link": "http://baijiahao.baidu.com/s?id=1842035217350755461&wfr=spider&for=pc",
+      "time": "9月1日 12:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美联储公布，信息量很大",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4915789871894081007",
+      "time": "9月1日 03:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美联储大消息,事关降息",
+      "link": "http://baijiahao.baidu.com/s?id=1841746026125173031&wfr=spider&for=pc",
+      "time": "8月29日 08:04",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 02:21:26"
+}

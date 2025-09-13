@@ -1,0 +1,116 @@
+{
+  "core_info": {
+    "core_event_name": "葡萄牙著名景点缆车脱轨事故",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:13:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "葡萄牙调查机构:钢缆断裂导致里斯本缆车事故",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17471965063849050535",
+      "time": "9月8日 10:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "葡萄牙里斯本发生缆车脱轨撞击事故,16人死亡20多人受伤",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4087269012303986708",
+      "time": "9月5日 15:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "葡萄牙里斯本缆车事故已造成16人死亡",
+      "link": "http://tv.cctv.com/2025/09/05/VIDE2m5g5ITW2lAXDsSoG7gi250905.shtml",
+      "time": "9月5日 12:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "葡萄牙:里斯本旅游缆车侧翻出轨 致16人死亡",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=18134056228705500559",
+      "time": "9月5日 07:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "葡萄牙缆车脱轨16死",
+      "link": "http://epaper.oeeee.com/epaper/A/html/2025-09/05/content_9320.htm",
+      "time": "9月5日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "葡萄牙:里斯本旅游缆车侧翻出轨 致三十余人死伤",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15380243194338633028",
+      "time": "9月4日 19:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "葡萄牙著名景点缆车脱轨事故已致17人死亡",
+      "link": "http://baijiahao.baidu.com/s?id=1842323679430365063&wfr=spider&for=pc",
+      "time": "9月4日 17:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "葡萄牙里斯本著名旅游缆车侧翻出轨 已致15人死亡",
+      "link": "http://tv.cctv.com/2025/09/04/VIDEAo19xZWhj7g4ESnNB9iB250904.shtml",
+      "time": "9月4日 14:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "葡萄牙一升降机缆车发生脱轨事故 造成3人死亡",
+      "link": "http://baijiahao.baidu.com/s?id=1842301633150899485&wfr=spider&for=pc",
+      "time": "9月4日 11:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "著名景点缆车事故，15死18伤",
+      "link": "http://www.jfdaily.com/wx/detail.do?id=976553",
+      "time": "9月4日 10:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "葡萄牙里斯本登山缆车出轨 造成至少15死18伤",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5806770554890441738",
+      "time": "9月4日 09:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "葡萄牙:里斯本著名旅游缆车脱轨 15人死亡",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=298152334465686963",
+      "time": "9月4日 09:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "葡萄牙:升降机缆车脱轨 造成15人死亡",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10073536544128763779",
+      "time": "9月4日 09:03",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 13,
+  "scrape_time": "2025-09-13 01:13:44"
+}

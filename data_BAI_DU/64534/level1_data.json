@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "2025年暑期档电影票房超119亿元",
+    "update_time": "更新至20250903",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:43:51"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "2025暑期档电影票房亮眼,相关概念股应声上涨",
+      "link": "http://m.yicai.com/news/102806485.html",
+      "time": "9月3日 10:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "暑期档动画电影票房近30亿",
+      "link": "http://www.sohu.com/a/931253949_161795",
+      "time": "9月2日 21:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "2025年暑期档票房超119亿元",
+      "link": "http://tv.cctv.com/2025/09/02/VIDEzGFAf2QbfD1pnkd5OgNK250902.shtml",
+      "time": "9月2日 18:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "国产片集体发力 2025年暑期档票房超119亿元",
+      "link": "http://news.cctv.com/2025/09/02/ARTIN5S0uZYQ6NWBvgfoGZN2250902.shtml",
+      "time": "9月2日 09:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "国产片集体发力 2025年暑期档票房超119亿元 座位可拆过道够宽 “轮椅友好厅”服务升级",
+      "link": "http://news.cctv.com/2025/09/02/ARTIbuEbp4zmSHY4721W29Vg250902.shtml",
+      "time": "9月1日 23:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "2025年暑期档票房超119亿元 多项“电影+”举措激发文旅市场消费活力",
+      "link": "http://tv.cctv.com/2025/09/01/VIDEDV6nGFxAwWqyOQ54aiUC250901.shtml",
+      "time": "9月1日 23:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "我国2025年暑期档电影票房为119.66亿元",
+      "link": "http://finance.sina.cn/2025-09-01/detail-infnyunh9708165.d.html",
+      "time": "9月1日 17:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "今年暑期档票房已超去年同期",
+      "link": "http://m.gmw.cn/toutiao/2025-08/29/content_1304129878.htm",
+      "time": "8月29日 20:32",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-13 01:44:06"
+}

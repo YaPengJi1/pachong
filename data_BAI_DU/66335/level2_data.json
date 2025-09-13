@@ -1,0 +1,46 @@
+{
+  "core_event_name": "苏超南京VS徐州",
+  "comments": [
+    {
+      "event_title": "“苏超”南京VS徐州今晚打响,皖南皖北应援旗现身助威",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/1720962692/6693ce8402002wtbk",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:53:18",
+      "event_time": "9月6日 19:54"
+    },
+    {
+      "event_title": "南京VS徐州，苏超上演巅峰对决",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842507548305616965&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "极地的小哑妹",
+      "comment_time": "09-06 18:31",
+      "comment_content": "南京徐州争二哥，今晚比赛刺激看点足。大家加油，围观精彩对决。",
+      "user_location": "江苏",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:53:36",
+      "event_time": "9月6日 17:16"
+    },
+    {
+      "event_title": "“苏超”球迷和徐州市民专属“文旅大礼包”来了",
+      "event_id": "event_3",
+      "event_url": "http://njrb.njdaily.cn/h5/html5/2025-09/06/content_53_226965.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:53:38",
+      "event_time": "9月6日 00:00"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 14:53:38"
+}

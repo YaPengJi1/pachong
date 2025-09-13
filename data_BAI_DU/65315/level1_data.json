@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "歼-20S首次亮相阅兵",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:07:41"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "央视披露：“空战规则改变者”，歼-20S首次以实机亮相",
+      "link": "http://www.163.com/dy/article/K8OT4TF0051482MP.html",
+      "time": "9月6日 09:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "“歼-20家族”再添新成员 歼-20S亮相阅兵场",
+      "link": "http://m.cnhubei.com/content/2025-09/04/content_19475355.html",
+      "time": "9月4日 21:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "“成都造”歼-20、歼-20A、歼-20S、歼-10震撼亮相",
+      "link": "http://sc.people.com.cn/n2/2025/0904/c345167-41341681.html",
+      "time": "9月4日 10:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "歼-35A隐形战斗机首次在大型阅兵中亮相",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5005348496698457438",
+      "time": "9月3日 12:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "歼20S震撼登场!中国歼击机家族编成两个楔队亮相",
+      "link": "http://www.jfdaily.com/news/detail?id=975891",
+      "time": "9月3日 10:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "歼-20S震撼亮相",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6594765572523184330",
+      "time": "9月3日 10:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "歼20S震撼亮相阅兵",
+      "link": "http://www.163.com/dy/article/K8HA0D9K0556C2X9.html",
+      "time": "9月3日 10:13",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 22:07:55"
+}

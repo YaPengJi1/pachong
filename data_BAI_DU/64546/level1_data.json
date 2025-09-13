@@ -1,0 +1,116 @@
+{
+  "core_info": {
+    "core_event_name": "电影《731》上映",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:54:42"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "电影《731》发布导演特辑",
+      "link": "http://tv.cctv.com/2025/09/09/VIDErNdwlyDob4RKwboGVm1g250909.shtml",
+      "time": "9月9日 22:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "28岁陈靖可把被“731”折磨过的状态演绝了",
+      "link": "http://new.qq.com/rain/a/20250908A064LW00",
+      "time": "9月8日 16:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "《731》发布人物海报 以血色印记揭开尘封历史",
+      "link": "http://fun.youth.cn/gnzx/202509/t20250908_16223334.htm",
+      "time": "9月8日 13:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "731发布人物海报,揭露侵华日军细菌战罪行",
+      "link": "http://dcdv.zol.com.cn/1042/10421187.html",
+      "time": "9月6日 16:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "电影《731》英文片名亮了",
+      "link": "http://baijiahao.baidu.com/s?id=1842402133778999823&wfr=spider&for=pc",
+      "time": "9月5日 13:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "《731》9月18日上映 片长125分钟",
+      "link": "http://m.mnw.cn/movie/huayu/3041211.html",
+      "time": "9月4日 18:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "电影《731》发行通知出炉!9月18日上映,片长125分钟",
+      "link": "http://www.gxnews.com.cn/staticpages/20250904/newgx68b96489-21840616.shtml",
+      "time": "9月4日 18:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "电影《731》发行通知出炉,9月18日上映",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31540735",
+      "time": "9月4日 16:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "影片《731》今日开启预售,票房已突破100万!",
+      "link": "http://baijiahao.baidu.com/s?id=1842321887709688017&wfr=spider&for=pc",
+      "time": "9月4日 16:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "电影《731》片长125分钟,想看人数超666万,将于9月18日上映",
+      "link": "http://baijiahao.baidu.com/s?id=1842318825305375330&wfr=spider&for=pc",
+      "time": "9月4日 15:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "电影《731》发行通知出炉,片长125分钟,9月18日上映",
+      "link": "http://baijiahao.baidu.com/s?id=1842297031852139740&wfr=spider&for=pc",
+      "time": "9月4日 10:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "影片《731》发行通知出炉,片长125分钟",
+      "link": "http://news.hnr.cn/shxw/article/1/1963422204729634818",
+      "time": "9月4日 10:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "9月片单来了,超百万观众想看《731》",
+      "link": "http://www.163.com/dy/article/K8IL55JT05345ARG.html",
+      "time": "9月3日 22:49",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 13,
+  "scrape_time": "2025-09-13 01:54:56"
+}

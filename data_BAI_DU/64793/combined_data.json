@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:44:08"
+  },
+  "core_event": {
+    "core_event_name": "华为MateXTs上架即“秒光”",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:43:16"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "华为MateXTs上架即“秒光”",
+      "link": "http://baijiahao.baidu.com/s?id=1842396789769560113&wfr=spider&for=pc",
+      "time": "9月5日 12:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "华为上新,价格降了!三星、苹果、小米……密集官宣",
+      "link": "http://baijiahao.baidu.com/s?id=1842399477965924808&wfr=spider&for=pc",
+      "time": "9月5日 11:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "华为携手刘德华发布Mate XTs 非凡大师及全场景新品",
+      "link": "http://news.zol.com.cn/1041/10414043.html",
+      "time": "9月4日 12:20",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "华为MateXTs上架即“秒光”",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842396789769560113&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "草之宝d44b1",
+      "comment_time": "09-08 04:48",
+      "comment_content": "华为折叠屏预售秒空，技术真牛掰，鸿蒙生态领先值得期待。",
+      "user_location": "天津",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:43:46",
+      "event_time": "9月5日 12:28"
+    },
+    {
+      "event_title": "华为上新,价格降了!三星、苹果、小米……密集官宣",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842399477965924808&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "波塞冬看晚霞",
+      "comment_time": "09-05 17:49",
+      "comment_content": "很棒，期待更多内容！",
+      "user_location": "河北",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:44:02",
+      "event_time": "9月5日 11:21"
+    },
+    {
+      "event_title": "华为携手刘德华发布Mate XTs 非凡大师及全场景新品",
+      "event_id": "event_3",
+      "event_url": "http://news.zol.com.cn/1041/10414043.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:44:04",
+      "event_time": "9月4日 12:20"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-13 02:43:30",
+    "level2_scrape_time": "2025-09-13 02:44:04"
+  }
+}

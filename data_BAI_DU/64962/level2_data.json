@@ -1,0 +1,72 @@
+{
+  "core_event_name": "全国游泳锦标赛成都开赛",
+  "comments": [
+    {
+      "event_title": "2025 全国游泳锦标赛启幕",
+      "event_id": "event_1",
+      "event_url": "http://cnews.chinadaily.com.cn/a/202509/08/WS68be9a07a310f07257747513.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:12:12",
+      "event_time": "9月8日 16:26"
+    },
+    {
+      "event_title": "全国游泳锦标赛成都揭幕",
+      "event_id": "event_2",
+      "event_url": "http://www.cdrb.com.cn/epaper/cdrbpad/202509/06/c153827.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:12:14",
+      "event_time": "9月6日 00:00"
+    },
+    {
+      "event_title": "名将云集 全国游泳锦标赛成都开赛",
+      "event_id": "event_3",
+      "event_url": "http://tv.cctv.com/2025/09/05/VIDEhbu5XUnXw9eD37O4t0Xu250905.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:12:16",
+      "event_time": "9月5日 18:11"
+    },
+    {
+      "event_title": "汪顺100米蛙泳小组第一晋级",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8N9L44K0530JPVV.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:12:18",
+      "event_time": "9月5日 18:03"
+    },
+    {
+      "event_title": "2025年全国游泳锦标赛,明日在川开赛",
+      "event_id": "event_5",
+      "event_url": "http://www.scpublic.cn/news/getNewsDatail?id=839198",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:12:20",
+      "event_time": "9月4日 09:05"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 18:12:20"
+}

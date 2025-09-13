@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:01:20"
+  },
+  "core_event": {
+    "core_event_name": "顺丰控股回购股票启动员工持股计划",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:00:19"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "顺丰控股启动10亿元回购计划",
+      "link": "http://baijiahao.baidu.com/s?id=1842293672658587603&wfr=spider&for=pc",
+      "time": "9月4日 09:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "顺丰控股首次回购118.5万股，启动员工持股计划",
+      "link": "http://news.zol.com.cn/1041/10411038.html",
+      "time": "9月4日 01:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "顺丰控股回购118.5万股",
+      "link": "http://baijiahao.baidu.com/s?id=1842242742186096405&wfr=spider&for=pc",
+      "time": "9月3日 19:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "百亿持股计划,引发顺丰控股“震荡”",
+      "link": "http://finance.sina.com.cn/stock/relnews/hk/2025-09-03/doc-infpfhsm9664721.shtml",
+      "time": "9月3日 17:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "顺丰控股跌2.01%,成交额16.75亿元,主力资金净流出2.12亿元",
+      "link": "http://finance.sina.cn/2025-09-02/detail-infpahpi8617210.d.html",
+      "time": "9月2日 11:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "顺丰控股跌3.97%,成交额61.15亿元",
+      "link": "http://finance.sina.cn/2025-09-01/detail-infnyqek9767456.d.html",
+      "time": "9月1日 15:31",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "顺丰控股启动10亿元回购计划",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842293672658587603&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:00:52",
+      "event_time": "9月4日 09:07"
+    },
+    {
+      "event_title": "顺丰控股首次回购118.5万股，启动员工持股计划",
+      "event_id": "event_2",
+      "event_url": "http://news.zol.com.cn/1041/10411038.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:00:54",
+      "event_time": "9月4日 01:42"
+    },
+    {
+      "event_title": "顺丰控股回购118.5万股",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842242742186096405&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:01:09",
+      "event_time": "9月3日 19:29"
+    },
+    {
+      "event_title": "百亿持股计划,引发顺丰控股“震荡”",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.com.cn/stock/relnews/hk/2025-09-03/doc-infpfhsm9664721.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:01:11",
+      "event_time": "9月3日 17:31"
+    },
+    {
+      "event_title": "顺丰控股跌2.01%,成交额16.75亿元,主力资金净流出2.12亿元",
+      "event_id": "event_5",
+      "event_url": "http://finance.sina.cn/2025-09-02/detail-infpahpi8617210.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:01:13",
+      "event_time": "9月2日 11:02"
+    },
+    {
+      "event_title": "顺丰控股跌3.97%,成交额61.15亿元",
+      "event_id": "event_6",
+      "event_url": "http://finance.sina.cn/2025-09-01/detail-infnyqek9767456.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:01:15",
+      "event_time": "9月1日 15:31"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 17:00:33",
+    "level2_scrape_time": "2025-09-12 17:01:15"
+  }
+}

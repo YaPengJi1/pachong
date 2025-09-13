@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "华为MateXT发布及鸿蒙5发布",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:17:10"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "三屏自由切换、多窗并行效率翻倍,华为 Mate XTs 开启鸿蒙版飞书新体验",
+      "link": "http://www.ithome.com/0/880/480.htm",
+      "time": "9月4日 18:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "华为携手刘德华发布Mate XTs 非凡大师及全场景新品",
+      "link": "http://news.zol.com.cn/1041/10414043.html",
+      "time": "9月4日 12:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "华为鸿蒙5发布",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2993224696767354475",
+      "time": "8月30日 17:20",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 18:17:25"
+}

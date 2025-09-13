@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:01:29"
+  },
+  "core_event": {
+    "core_event_name": "国足10-0大胜，U23国足平局线考验安东尼奥",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:01:02"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国足生死战1-0澳大利亚",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7348029449171024022",
+      "time": "9月10日 17:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U22国足0-0澳大利亚，晋级亚洲杯",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7631228490509089385",
+      "time": "9月9日 22:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "王钰栋半场7球，国足10-0大胜，两连胜仍受质疑",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11026934801276575118",
+      "time": "9月8日 18:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "王钰栋带伤硬撑，U23国足平局线考验安东尼奥",
+      "link": "http://www.163.com/dy/article/K8U7G0C60556DPBH.html",
+      "time": "9月8日 10:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "U22国足10-0战胜北马里亚纳群岛队",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8513342972476643309",
+      "time": "9月6日 22:40",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "国足生死战1-0澳大利亚",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7348029449171024022",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:01:17",
+      "event_time": "9月10日 17:53"
+    },
+    {
+      "event_title": "U22国足0-0澳大利亚，晋级亚洲杯",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7631228490509089385",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:01:19",
+      "event_time": "9月9日 22:03"
+    },
+    {
+      "event_title": "王钰栋半场7球，国足10-0大胜，两连胜仍受质疑",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11026934801276575118",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:01:21",
+      "event_time": "9月8日 18:30"
+    },
+    {
+      "event_title": "王钰栋带伤硬撑，U23国足平局线考验安东尼奥",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8U7G0C60556DPBH.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:01:23",
+      "event_time": "9月8日 10:40"
+    },
+    {
+      "event_title": "U22国足10-0战胜北马里亚纳群岛队",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8513342972476643309",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:01:25",
+      "event_time": "9月6日 22:40"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 10:01:16",
+    "level2_scrape_time": "2025-09-12 10:01:25"
+  }
+}

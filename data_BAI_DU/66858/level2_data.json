@@ -1,0 +1,59 @@
+{
+  "core_event_name": "石破茂辞职，中方回应",
+  "comments": [
+    {
+      "event_title": "日本首相石破茂宣布辞去自民党总裁职务",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7834805585417475786",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:37:54",
+      "event_time": "9月9日 14:05"
+    },
+    {
+      "event_title": "石破茂辞职!汇率大贬值,股市大跌?",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8V1MSPR055616YC.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:37:56",
+      "event_time": "9月8日 18:18"
+    },
+    {
+      "event_title": "石破茂宣布辞职,外交部回应",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842683741068424256&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:13",
+      "event_time": "9月8日 16:28"
+    },
+    {
+      "event_title": "石破茂宣布辞职,中方回应",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842682795536924204&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:38:29",
+      "event_time": "9月8日 16:11"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 10:38:29"
+}

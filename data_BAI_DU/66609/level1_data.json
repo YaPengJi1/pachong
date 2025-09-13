@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "索尔纳伊萨克转会利物浦",
+    "update_time": "更新至20250903",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:56:18"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "伊萨克周薪高达28万镑",
+      "link": "http://www.sohu.com/a/931572402_362070",
+      "time": "9月3日 19:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "索尔纳将因伊萨克转会利物浦获得近240万英镑收益",
+      "link": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001t9jc",
+      "time": "9月3日 16:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "利物浦今夏引援规划曝光，维尔茨伊萨克成焦点",
+      "link": "http://k.sina.com.cn/article_7857263903_1d454551f04001d4pg.html",
+      "time": "9月3日 14:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "利物浦夏窗:豪掷4.83亿,标王伊萨克1.44亿压哨官宣",
+      "link": "http://news.sina.com.cn/o/2025-09-02/doc-infpatcc8446694.shtml",
+      "time": "9月2日 14:49",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 09:56:32"
+}

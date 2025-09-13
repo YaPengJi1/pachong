@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "国补政策重启，汽车消费受益",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:45:59"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国补政策9月7日最新消息：9月国补恢复继续领取，第三批690亿国补来了，2025年年底结束",
+      "link": "http://baijiahao.baidu.com/s?id=1842598219389955563&wfr=spider&for=pc",
+      "time": "9月7日 17:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "9月6日国补政策2025最新消息",
+      "link": "http://baijiahao.baidu.com/s?id=1842479652740179782&wfr=spider&for=pc",
+      "time": "9月6日 14:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "9月6日国补政策最新消息：9月国补恢复继续领取，国补第三批690亿补贴下达，2025年年底结束",
+      "link": "http://baijiahao.baidu.com/s?id=1842481691013568327&wfr=spider&for=pc",
+      "time": "9月6日 10:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "“金九银十”购车补贴再升级 政策红利促消费",
+      "link": "http://news.china.com/socialgd/10000169/20250905/48795800.html",
+      "time": "9月5日 22:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "国补预计将带动汽车销量增长10%,多地在懂车帝推出“抢券”模式",
+      "link": "http://www.xhby.net/content/s68baab43e4b063f4f54f72f9.html",
+      "time": "9月5日 17:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "国补续杯690亿,家电汽车消费药效分化",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmqqe5903033.d.html",
+      "time": "9月5日 11:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "国补政策9月5日最新消息:9月国补恢复继续重启时间,第三批690亿国补资金下达,2025年年底结束",
+      "link": "http://baijiahao.baidu.com/s?id=1842390635021776609&wfr=spider&for=pc",
+      "time": "9月5日 10:50",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 19:46:13"
+}

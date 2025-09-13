@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "王钰栋改变国足比赛局面",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:54:36"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "王钰栋2射3传!亚足联官方将U22国足第5球记录为向余望进球",
+      "link": "http://www.sohu.com/a/932513569_362070",
+      "time": "9月6日 23:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U22国足10比0击败北马里亚纳群岛队",
+      "link": "http://baijiahao.baidu.com/s?id=1842524912213870938&wfr=spider&for=pc",
+      "time": "9月6日 22:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "王钰栋替补上场，彻底改变了比赛局面",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4796992335929277138",
+      "time": "9月6日 22:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22国足10比0北马里亚纳群岛",
+      "link": "http://baijiahao.baidu.com/s?id=1842523365471144432&wfr=spider&for=pc",
+      "time": "9月6日 22:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "王钰栋外围发炮 轰入世界波",
+      "link": "http://sports.cctv.com/2025/09/06/VIDELKaayMNf9mfCtJlHwOFO250906.shtml",
+      "time": "9月6日 21:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "中国U22男足10球大胜北马里亚纳",
+      "link": "http://news.sina.cn/2025-09-06/detail-infpqkmc6376938.d.html",
+      "time": "9月6日 21:35",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 10:54:50"
+}

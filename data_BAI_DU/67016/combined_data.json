@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:11:18"
+  },
+  "core_event": {
+    "core_event_name": "中国反制日本议员石平",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:10:42"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "北大高材生石平叛国丑态全曝光,中日民众齐声唾弃!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9162258956087485811",
+      "time": "9月10日 19:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中方反制开启,当着全球的面收拾日籍议员,日本预感不妙",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1766838456707203489",
+      "time": "9月10日 04:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "日本华裔参议员石平遭中日舆论谴责",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5131627978499128951",
+      "time": "9月9日 15:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "外交部正式通告全球:对日本参议员石平采取反制措施",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10157555398690186573",
+      "time": "9月9日 08:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "被外交部决定制裁的日本议员石平沈逸教授：我就是叛徒",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11311533890915938522",
+      "time": "9月9日 08:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "中方对日本参议员石平采取反制措施 这是对石平之流的强力惩戒和严厉警示",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6686113657169953472",
+      "time": "9月9日 08:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "中国外交部公布关于对石平采取反制措施的决定",
+      "link": "http://video.sina.cn/finance/2025-09-08/detail-infpvaxh1158977.d.html",
+      "time": "9月8日 22:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "日本参议员石平因恶劣行径遭中国反制",
+      "link": "http://weibo.com/6279456501/Q3DoZqTMR",
+      "time": "9月8日 18:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "石破茂被逼辞职",
+      "link": "http://weibo.com/7859746604/Q3AuBrHny",
+      "time": "9月8日 10:39",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "北大高材生石平叛国丑态全曝光,中日民众齐声唾弃!",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9162258956087485811",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:10:57",
+      "event_time": "9月10日 19:43"
+    },
+    {
+      "event_title": "中方反制开启,当着全球的面收拾日籍议员,日本预感不妙",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=1766838456707203489",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:10:59",
+      "event_time": "9月10日 04:40"
+    },
+    {
+      "event_title": "日本华裔参议员石平遭中日舆论谴责",
+      "event_id": "event_3",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5131627978499128951",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:11:01",
+      "event_time": "9月9日 15:12"
+    },
+    {
+      "event_title": "外交部正式通告全球:对日本参议员石平采取反制措施",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10157555398690186573",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:11:03",
+      "event_time": "9月9日 08:49"
+    },
+    {
+      "event_title": "被外交部决定制裁的日本议员石平沈逸教授：我就是叛徒",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11311533890915938522",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:11:05",
+      "event_time": "9月9日 08:40"
+    },
+    {
+      "event_title": "中方对日本参议员石平采取反制措施 这是对石平之流的强力惩戒和严厉警示",
+      "event_id": "event_6",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6686113657169953472",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:11:07",
+      "event_time": "9月9日 08:17"
+    },
+    {
+      "event_title": "中国外交部公布关于对石平采取反制措施的决定",
+      "event_id": "event_7",
+      "event_url": "http://video.sina.cn/finance/2025-09-08/detail-infpvaxh1158977.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:11:09",
+      "event_time": "9月8日 22:03"
+    },
+    {
+      "event_title": "日本参议员石平因恶劣行径遭中国反制",
+      "event_id": "event_8",
+      "event_url": "http://weibo.com/6279456501/Q3DoZqTMR",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:11:11",
+      "event_time": "9月8日 18:04"
+    },
+    {
+      "event_title": "石破茂被逼辞职",
+      "event_id": "event_9",
+      "event_url": "http://weibo.com/7859746604/Q3AuBrHny",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:11:13",
+      "event_time": "9月8日 10:39"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 9,
+    "total_comments": 9,
+    "events_with_comments": 9,
+    "level1_scrape_time": "2025-09-12 10:10:56",
+    "level2_scrape_time": "2025-09-12 10:11:13"
+  }
+}

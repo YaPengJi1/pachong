@@ -1,0 +1,108 @@
+{
+  "core_info": {
+    "core_event_name": "A股强势反弹，创业板大涨超6%",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:18:11"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "A股强势反弹，创业板大涨超6%",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=486021683139296217",
+      "time": "9月6日 09:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "创业板指大涨6%强势反包",
+      "link": "http://finance.eastmoney.com/a/202509053506373170.html",
+      "time": "9月5日 21:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "股市分析:大反包!创业板大涨超6%",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8750515370890431503",
+      "time": "9月5日 19:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "A股近10年首次出现,创业板指大涨6.55%",
+      "link": "http://m.jrj.com.cn/madapter/stock/2025/09/05170652951339.shtml",
+      "time": "9月5日 17:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "A股收评:创业板指涨6.55%,超4800只个股飘红!新能源赛道,全线走强",
+      "link": "http://baijiahao.baidu.com/s?id=1842409212722896828&wfr=spider&for=pc",
+      "time": "9月5日 15:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "创业板领涨6%背后的推手：电芯涨价20%+资金狂涌25亿布局",
+      "link": "http://finance.sina.cn/tech/2025-09-05/detail-infpmqqe5907924.d.html",
+      "time": "9月5日 15:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "近十年首次!创业板指昨日跌超4%后第二天实现“反包”,今日大涨6.55%收复昨天失地",
+      "link": "http://baijiahao.baidu.com/s?id=1842408363053089785&wfr=spider&for=pc",
+      "time": "9月5日 15:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "A股收评:创业板指大涨6.55% 固态电池概念股集体爆发",
+      "link": "http://baijiahao.baidu.com/s?id=1842408110877100899&wfr=spider&for=pc",
+      "time": "9月5日 15:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "创业板指大涨6.55%,固态电池、光伏板块爆发",
+      "link": "http://news.sina.cn/2025-09-05/detail-infpmqqm7755847.d.html",
+      "time": "9月5日 15:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "A股反弹，创业板大涨6%",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9701056007678124526",
+      "time": "9月5日 15:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "创业板指收涨6.55% 全市场超4800股飘红",
+      "link": "http://cj.sina.com.cn/articles/view/5993531560/1653e08a802001iav8",
+      "time": "9月5日 15:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "9月5日上证指数收盘上涨1.24%,创业板指上涨6.55%,电池股集体爆发",
+      "link": "http://m.nbd.com.cn/articles/2025-09-05/4050259.html",
+      "time": "9月5日 15:02",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 12,
+  "scrape_time": "2025-09-13 02:18:25"
+}

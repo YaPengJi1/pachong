@@ -1,0 +1,100 @@
+{
+  "core_info": {
+    "core_event_name": "新国标电动自行车9月正式实施",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:23:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "“小电驴”新国标已实施!旧车还能骑吗?新车怎么买?",
+      "link": "http://baijiahao.baidu.com/s?id=1842838259026579511&wfr=spider&for=pc",
+      "time": "9月10日 09:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "电动自行车新国标正式实施 济南交警解读过渡期政策",
+      "link": "http://baijiahao.baidu.com/s?id=1842841717051658044&wfr=spider&for=pc",
+      "time": "9月10日 09:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "新国标电动自行车9月正式实施,选购指南全解析",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=646992433836559121",
+      "time": "9月10日 08:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "电动自行车“新国标”正式实施",
+      "link": "http://fashion.ce.cn/xx/202509/t20250908_2468123.shtml",
+      "time": "9月8日 16:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "电动自行车新国标9月实施",
+      "link": "http://k.sina.com.cn/article_2773976700_a557867c0400172um.html",
+      "time": "9月8日 09:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "电动自行车新国标引发抢购潮:老车集体涨价,新车“解速”问题待解",
+      "link": "http://www.163.com/dy/article/K8NL729P05199DKK.html",
+      "time": "9月5日 21:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "电动自行车新国标实施",
+      "link": "http://www.northnews.cn/p/2437632.html",
+      "time": "9月5日 17:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "电动自行车“新国标”上线 “旧标”遭遇“淘汰期”?",
+      "link": "http://www.163.com/dy/article/K8KN14S00514D3UH.html",
+      "time": "9月4日 17:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "新国标执行:多家电动自行车品牌行动 不再售卖旧国标车型",
+      "link": "http://news.mydrivers.com/1/1072/1072347.htm",
+      "time": "9月4日 09:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "新国标,今起实施!",
+      "link": "http://news.china.com.cn/2025-09/01/content_118052965.shtml",
+      "time": "9月1日 10:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "[午夜新闻]电动自行车新国标9月1日起实施",
+      "link": "http://tv.cctv.com/2025/09/01/VIDEx43dGvAQBYhbVXV90GaT250901.shtml",
+      "time": "9月1日 00:36",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 11,
+  "scrape_time": "2025-09-12 10:23:44"
+}

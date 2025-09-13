@@ -1,0 +1,59 @@
+{
+  "core_event_name": "苹果16系列价格调整",
+  "comments": [
+    {
+      "event_title": "苹果17 系列发布后 iPhone 16 Pro/Max 已下架,16/Plus 降价 600/1000 元",
+      "event_id": "event_1",
+      "event_url": "http://www.ithome.com/0/881/833.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:30:03",
+      "event_time": "9月10日 14:13"
+    },
+    {
+      "event_title": "苹果“科技春晚”前瞻 iPhone 16价格滑铁卢果粉悲伤不已!",
+      "event_id": "event_2",
+      "event_url": "http://mobile.zol.com.cn/1042/10423015_all.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:30:05",
+      "event_time": "9月8日 07:35"
+    },
+    {
+      "event_title": "iPhone 17全系价格出炉,涨价1000元?",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842524964961897268&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "Tom的飞机云",
+      "comment_time": "09-06 22:31",
+      "comment_content": "Pro版加量涨价，还算合理。Air新登场，值得期待。",
+      "user_location": "北京",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:30:22",
+      "event_time": "9月6日 22:25"
+    },
+    {
+      "event_title": "iPhone 17新机OLED显示屏亮相",
+      "event_id": "event_4",
+      "event_url": "http://mobile.zol.com.cn/1041/10414085_all.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:30:24",
+      "event_time": "9月5日 08:40"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 14:30:24"
+}

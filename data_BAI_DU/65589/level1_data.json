@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "埃德森妻子告别曼城",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:25:03"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "曼城生涯8送助攻!哈兰德社媒告别埃德森:感谢一切,尤其是助攻",
+      "link": "http://www.163.com/dy/article/K8O6P4LK0529AQIE.html",
+      "time": "9月6日 02:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "埃德森妻子告别曼城",
+      "link": "http://www.dongqiudi.com/articles/5351404.html",
+      "time": "9月3日 01:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "再次告别曼城!传奇免费离队,欧冠冠军官宣加盟",
+      "link": "http://www.sohu.com/a/931233643_122001006",
+      "time": "9月2日 19:04",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-13 02:25:17"
+}

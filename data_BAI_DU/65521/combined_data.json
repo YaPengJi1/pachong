@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:18:20"
+  },
+  "core_event": {
+    "core_event_name": "俄罗斯总统普京对北约的警告",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:17:36"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "普京对北约划出战争红线:部队进乌即成合法目标,绝无例外!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12644756673684760550",
+      "time": "9月7日 10:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "普京：若军队出现在乌克兰，将被俄合法打击",
+      "link": "http://www.163.com/dy/article/K8QUMG890556E06Y.html",
+      "time": "9月7日 04:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "俄罗斯总统普京：外国军队如在乌出现将成俄军合法打击目标",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16517601416650458856",
+      "time": "9月6日 14:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "CNN:普京称,如果西方军队进入乌克兰,将成为“合法目标”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3090148616358757852",
+      "time": "9月6日 10:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "普京:北约军队如在乌出现 将成俄军合法打击目标",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12347846276928304665",
+      "time": "9月6日 09:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "普京:保护主义不仅对实施者自身有害,也破坏全球经济",
+      "link": "http://baijiahao.baidu.com/s?id=1842408425276698609&wfr=spider&for=pc",
+      "time": "9月5日 15:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "普京对北约划出战争红线:部队进乌即成合法目标,绝无例外!",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12644756673684760550",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:17:51",
+      "event_time": "9月7日 10:16"
+    },
+    {
+      "event_title": "普京：若军队出现在乌克兰，将被俄合法打击",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8QUMG890556E06Y.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:17:53",
+      "event_time": "9月7日 04:08"
+    },
+    {
+      "event_title": "俄罗斯总统普京：外国军队如在乌出现将成俄军合法打击目标",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=16517601416650458856",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:17:55",
+      "event_time": "9月6日 14:24"
+    },
+    {
+      "event_title": "CNN:普京称,如果西方军队进入乌克兰,将成为“合法目标”",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=3090148616358757852",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:17:57",
+      "event_time": "9月6日 10:38"
+    },
+    {
+      "event_title": "普京:北约军队如在乌出现 将成俄军合法打击目标",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12347846276928304665",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:17:59",
+      "event_time": "9月6日 09:34"
+    },
+    {
+      "event_title": "普京:保护主义不仅对实施者自身有害,也破坏全球经济",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842408425276698609&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:18:15",
+      "event_time": "9月5日 15:18"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-13 01:17:50",
+    "level2_scrape_time": "2025-09-13 01:18:15"
+  }
+}

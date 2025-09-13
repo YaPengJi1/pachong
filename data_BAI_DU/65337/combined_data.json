@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 22:24:52"
+  },
+  "core_event": {
+    "core_event_name": "中国科普资源突破40万个",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:23:44"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国科协:加快推进AI等新技术深度应用于科普",
+      "link": "http://baijiahao.baidu.com/s?id=1842373822235925933&wfr=spider&for=pc",
+      "time": "9月4日 23:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国科协：推进“小而美”国际合作科普项目",
+      "link": "http://www.cnr.cn/jingji/ycbd/20250904/t20250904_527351336.shtml",
+      "time": "9月4日 23:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "首个全国科普月将推出一批创新展品",
+      "link": "http://baijiahao.baidu.com/s?id=1842333817213200371&wfr=spider&for=pc",
+      "time": "9月4日 19:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "“科普中国”平台建设成效显著",
+      "link": "http://baijiahao.baidu.com/s?id=1842327521119526475&wfr=spider&for=pc",
+      "time": "9月4日 17:51",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "中国科协:加快推进AI等新技术深度应用于科普",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842373822235925933&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:24:14",
+      "event_time": "9月4日 23:21"
+    },
+    {
+      "event_title": "中国科协：推进“小而美”国际合作科普项目",
+      "event_id": "event_2",
+      "event_url": "http://www.cnr.cn/jingji/ycbd/20250904/t20250904_527351336.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:24:16",
+      "event_time": "9月4日 23:01"
+    },
+    {
+      "event_title": "首个全国科普月将推出一批创新展品",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842333817213200371&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:24:32",
+      "event_time": "9月4日 19:45"
+    },
+    {
+      "event_title": "“科普中国”平台建设成效显著",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842327521119526475&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:24:48",
+      "event_time": "9月4日 17:51"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 22:23:58",
+    "level2_scrape_time": "2025-09-12 22:24:48"
+  }
+}

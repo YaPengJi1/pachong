@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "携程创始人梁建章套现超7亿",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:06:50"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "梁建章领衔减持,携程高管集体套现超7亿",
+      "link": "http://www.163.com/dy/article/K8V6E5LH0552Z4HL.html",
+      "time": "9月8日 19:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "梁建章等携程高管减持套现7.6亿元",
+      "link": "http://www.163.com/dy/article/K8UHILML05129QAF.html",
+      "time": "9月8日 13:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美团、飞猪、京东等围猎携程 老板梁建章拟套现5个亿 外资已成大股东",
+      "link": "http://news.mydrivers.com/1/1072/1072884.htm",
+      "time": "9月6日 13:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "梁建章减持携程股权:套现超5亿",
+      "link": "http://36kr.com/newsflashes/3454713985308292",
+      "time": "9月6日 11:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "梁建章减持携程股权 套现超5亿 范敏套现6200万",
+      "link": "http://www.cnenergynews.cn/news/2025/09/06/detail_20250906231618.html",
+      "time": "9月6日 10:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "携程创始人梁建章年内首度减持套现",
+      "link": "http://app.myzaker.com/news/article.php?pk=68babfac1bc8e0a024000013",
+      "time": "9月5日 18:47",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 15:07:05"
+}

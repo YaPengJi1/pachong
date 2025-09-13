@@ -1,0 +1,72 @@
+{
+  "core_event_name": "墨西哥对阵日本比赛0-0平",
+  "comments": [
+    {
+      "event_title": "墨西哥主帅:日本队的速度和比赛激烈程度让我惊讶 0-0的结果合理",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8S109PU0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:00:25",
+      "event_time": "9月7日 14:08"
+    },
+    {
+      "event_title": "日本足协主席:战墨西哥强度是世界杯8强战应有的 球员们渴望赢球",
+      "event_id": "event_2",
+      "event_url": "http://news.sohu.com/a/932621780_362070",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:00:27",
+      "event_time": "9月7日 13:22"
+    },
+    {
+      "event_title": "日本队已经29年没能击败墨西哥",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hkik",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:00:29",
+      "event_time": "9月7日 13:10"
+    },
+    {
+      "event_title": "日本0-0墨西哥，板仓滉伤退，上田绮世造红牌，铃木彩艳救险",
+      "event_id": "event_4",
+      "event_url": "http://www.dongqiudi.com/articles/5359091.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:00:31",
+      "event_time": "9月7日 11:59"
+    },
+    {
+      "event_title": "日本&墨西哥排名17vs13,半场0-0战平",
+      "event_id": "event_5",
+      "event_url": "http://k.sina.cn/article_2018499075_784fda0302002hkeo.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:00:33",
+      "event_time": "9月7日 10:56"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 11:00:33"
+}

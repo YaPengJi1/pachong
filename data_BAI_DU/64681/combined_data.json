@@ -1,0 +1,129 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:35:04"
+  },
+  "core_event": {
+    "core_event_name": "美网:萨巴伦卡晋级女单八强",
+    "update_time": "更新至20250903",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:34:21"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "万卓索娃因伤退赛，萨巴伦卡晋级美网女单四强",
+      "link": "http://www.dongqiudi.com/articles/5351591.html",
+      "time": "9月3日 06:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "焦科维奇、阿尔卡拉斯轻松晋级,美网女单头号种子萨巴伦卡续写传奇!",
+      "link": "http://www.sohu.com/a/931010161_122001006",
+      "time": "9月2日 09:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美网女单8强半数出炉",
+      "link": "http://www.163.com/dy/article/K8CTK7400556CHBA.html",
+      "time": "9月1日 17:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美网:萨巴伦卡晋级女单八强",
+      "link": "http://news.yunnan.cn/system/2025/09/01/033619401.shtml",
+      "time": "9月1日 16:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "网球——美网:萨巴伦卡晋级",
+      "link": "http://baijiahao.baidu.com/s?id=1841681668979885615&wfr=spider&for=pc",
+      "time": "8月28日 15:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "万卓索娃因伤退赛，萨巴伦卡晋级美网女单四强",
+      "event_id": "event_1",
+      "event_url": "http://www.dongqiudi.com/articles/5351591.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:34:37",
+      "event_time": "9月3日 06:16"
+    },
+    {
+      "event_title": "焦科维奇、阿尔卡拉斯轻松晋级,美网女单头号种子萨巴伦卡续写传奇!",
+      "event_id": "event_2",
+      "event_url": "http://www.sohu.com/a/931010161_122001006",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:34:39",
+      "event_time": "9月2日 09:14"
+    },
+    {
+      "event_title": "美网女单8强半数出炉",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8CTK7400556CHBA.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:34:41",
+      "event_time": "9月1日 17:20"
+    },
+    {
+      "event_title": "美网:萨巴伦卡晋级女单八强",
+      "event_id": "event_4",
+      "event_url": "http://news.yunnan.cn/system/2025/09/01/033619401.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:34:43",
+      "event_time": "9月1日 16:47"
+    },
+    {
+      "event_title": "网球——美网:萨巴伦卡晋级",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841681668979885615&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "Lala的魔法师",
+      "comment_time": "08-28 15:42",
+      "comment_content": "萨巴伦卡这场打得真精彩，顺利晋级太棒了。赛后拥抱对手，体育精神真暖心。",
+      "user_location": "河南",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:35:00"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-13 02:34:35",
+    "level2_scrape_time": "2025-09-13 02:35:00"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "石破茂辞职后日本首相继任者未出现",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:50:07"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "石破茂决定辞职后 日本自民党定下新任党总裁选举方式",
+      "link": "http://www.nbd.com.cn/articles/2025-09-09/4053779.html",
+      "time": "9月9日 10:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "石破茂宣布辞职,外交部回应",
+      "link": "http://baijiahao.baidu.com/s?id=1842683741068424256&wfr=spider&for=pc",
+      "time": "9月8日 16:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "石破茂后,谁接任日本首相",
+      "link": "http://baijiahao.baidu.com/s?id=1842622525419820075&wfr=spider&for=pc",
+      "time": "9月8日 00:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "石破茂在退意中观望,自民党继任者未出现",
+      "link": "http://baijiahao.baidu.com/s?id=1842410741236153382&wfr=spider&for=pc",
+      "time": "9月5日 16:09",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 10:50:21"
+}

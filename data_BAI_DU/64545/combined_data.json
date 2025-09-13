@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:54:37"
+  },
+  "core_event": {
+    "core_event_name": "印度半导体战略重启，莫迪力拓新市场",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:54:09"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "莫迪的造芯梦:不止要做“印度芯” 还要做全球芯片创新中心",
+      "link": "http://finance.eastmoney.com/a/202509053506358253.html",
+      "time": "9月5日 19:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "阿斯麦(ASML.US)涨逾2% 公司积极拓展印度业务",
+      "link": "http://finance.sina.cn/hkstock/gsxw/2025-09-04/detail-infpkanz1493904.d.html",
+      "time": "9月4日 23:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "印度重启半导体战略,阿斯麦助力本土芯片制造",
+      "link": "http://news.zol.com.cn/1041/10410811.html",
+      "time": "9月3日 19:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "印度欲造芯片，ASML CEO：我们愿意支持",
+      "link": "http://weibo.com/1659643027/Q2SILwsnK",
+      "time": "9月3日 19:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "印度硬气反击，莫迪力拓新市场",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1665769668536049844",
+      "time": "8月31日 20:42",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "莫迪的造芯梦:不止要做“印度芯” 还要做全球芯片创新中心",
+      "event_id": "event_1",
+      "event_url": "http://finance.eastmoney.com/a/202509053506358253.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:54:25",
+      "event_time": "9月5日 19:04"
+    },
+    {
+      "event_title": "阿斯麦(ASML.US)涨逾2% 公司积极拓展印度业务",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/hkstock/gsxw/2025-09-04/detail-infpkanz1493904.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:54:27",
+      "event_time": "9月4日 23:28"
+    },
+    {
+      "event_title": "印度重启半导体战略,阿斯麦助力本土芯片制造",
+      "event_id": "event_3",
+      "event_url": "http://news.zol.com.cn/1041/10410811.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:54:29",
+      "event_time": "9月3日 19:40"
+    },
+    {
+      "event_title": "印度欲造芯片，ASML CEO：我们愿意支持",
+      "event_id": "event_4",
+      "event_url": "http://weibo.com/1659643027/Q2SILwsnK",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:54:31",
+      "event_time": "9月3日 19:13"
+    },
+    {
+      "event_title": "印度硬气反击，莫迪力拓新市场",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=1665769668536049844",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:54:33",
+      "event_time": "8月31日 20:42"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-13 01:54:24",
+    "level2_scrape_time": "2025-09-13 01:54:33"
+  }
+}

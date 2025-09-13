@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "阿里对美团发起全面进攻",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:20:31"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "阿里26周年,马云发狠了",
+      "link": "http://www.163.com/dy/article/K962RFK705198V6E.html",
+      "time": "昨天 11:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "阿里向美团发起全面进攻",
+      "link": "http://app.myzaker.com/news/article.php?pk=68c13de88e9f09568e019b68",
+      "time": "9月10日 16:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "高德扫街榜横空出世",
+      "link": "http://m.jrj.com.cn/madapter/finance/2025/09/10145853045869.shtml",
+      "time": "9月10日 14:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "阿里借高德切入大众点评业务 剑指美团第二战场",
+      "link": "http://www.163.com/dy/article/K93F8Q4V0550B1DU.html",
+      "time": "9月10日 11:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "阿里推高德团购对标美团?多只零售、地图股逆市大涨",
+      "link": "http://baijiahao.baidu.com/s?id=1842783333976964919&wfr=spider&for=pc",
+      "time": "9月9日 18:51",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 11:20:46"
+}

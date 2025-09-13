@@ -1,0 +1,277 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:06:14"
+  },
+  "core_event": {
+    "core_event_name": "雷鸟创新开启AI+AR眼镜新篇章",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:05:04"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "Rokid Glasses SDK 正式上线开放平台,首次开放面向 AR 智能眼镜的完整开发工具链",
+      "link": "http://www.ithome.com/0/880/994.htm",
+      "time": "9月7日 10:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "雷鸟创新宣布与 B&O 合作,首款产品雷鸟 Air 4 将于 10 月份在中国首发",
+      "link": "http://www.ithome.com/0/880/725.htm",
+      "time": "9月5日 16:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "雷鸟创新领跑全球AR眼镜市场,联合Bang & Olufsen打造高端视听旗舰",
+      "link": "http://www.cet.com.cn/wzsy/kjzx/10251430.shtml",
+      "time": "9月5日 14:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "雷鸟创新与Bang & Olufsen合作",
+      "link": "http://www.donews.com/news/detail/4/6075837.html",
+      "time": "9月5日 13:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "出货量全球第一、牵手 Bang & Olufsen,雷鸟创新开启 AI+AR 眼镜新篇章",
+      "link": "http://www.ithome.com/0/880/656.htm",
+      "time": "9月5日 13:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "雷鸟创新宣布与Bang & Olufsen 达成全球长期技术合作",
+      "link": "http://www.donews.com/news/detail/5/6074699.html",
+      "time": "9月5日 11:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "市场格局改写在即!音响巨头B&O被曝10月发布AR眼镜",
+      "link": "http://baijiahao.baidu.com/s?id=1842388105912329186&wfr=spider&for=pc",
+      "time": "9月5日 10:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "雷鸟创新宣布与B&O合作，2025年全球出货量领先",
+      "link": "http://www.cinic.org.cn/zgzz/qy/1603057.html",
+      "time": "9月5日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "Rokid Glasses SDK正式上线开放平台",
+      "link": "http://baijiahao.baidu.com/s?id=1842333425367502025&wfr=spider&for=pc",
+      "time": "9月4日 19:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "理想汽车AI眼镜虽未官宣，却藏着智能出行与AI融合大秘密",
+      "link": "http://g.pconline.com.cn/x/1971/19712453.html",
+      "time": "9月1日 17:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "Rokid Glasses四天即破百万美元众筹",
+      "link": "http://www.163.com/dy/article/K8C4B52K05269O3G.html",
+      "time": "9月1日 09:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "Meta Connect大会透露，消费级智能眼镜“Hypernova”发布在即",
+      "link": "http://www.sohu.com/a/930510240_362225",
+      "time": "8月31日 22:07",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "Rokid Glasses SDK 正式上线开放平台,首次开放面向 AR 智能眼镜的完整开发工具链",
+      "event_id": "event_1",
+      "event_url": "http://www.ithome.com/0/880/994.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:05:19",
+      "event_time": "9月7日 10:25"
+    },
+    {
+      "event_title": "雷鸟创新宣布与 B&O 合作,首款产品雷鸟 Air 4 将于 10 月份在中国首发",
+      "event_id": "event_2",
+      "event_url": "http://www.ithome.com/0/880/725.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:05:21",
+      "event_time": "9月5日 16:34"
+    },
+    {
+      "event_title": "雷鸟创新领跑全球AR眼镜市场,联合Bang & Olufsen打造高端视听旗舰",
+      "event_id": "event_3",
+      "event_url": "http://www.cet.com.cn/wzsy/kjzx/10251430.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:05:23",
+      "event_time": "9月5日 14:25"
+    },
+    {
+      "event_title": "雷鸟创新与Bang & Olufsen合作",
+      "event_id": "event_4",
+      "event_url": "http://www.donews.com/news/detail/4/6075837.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:05:25",
+      "event_time": "9月5日 13:46"
+    },
+    {
+      "event_title": "出货量全球第一、牵手 Bang & Olufsen,雷鸟创新开启 AI+AR 眼镜新篇章",
+      "event_id": "event_5",
+      "event_url": "http://www.ithome.com/0/880/656.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:05:27",
+      "event_time": "9月5日 13:39"
+    },
+    {
+      "event_title": "雷鸟创新宣布与Bang & Olufsen 达成全球长期技术合作",
+      "event_id": "event_6",
+      "event_url": "http://www.donews.com/news/detail/5/6074699.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:05:29",
+      "event_time": "9月5日 11:21"
+    },
+    {
+      "event_title": "市场格局改写在即!音响巨头B&O被曝10月发布AR眼镜",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842388105912329186&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "Versace画师",
+      "comment_time": "09-05 11:21",
+      "comment_content": "B&O联手雷鸟推AR眼镜，殿堂级音质遇上顶级显示，十月新品值得期待。",
+      "user_location": "青海",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:05:46",
+      "event_time": "9月5日 10:08"
+    },
+    {
+      "event_title": "雷鸟创新宣布与B&O合作，2025年全球出货量领先",
+      "event_id": "event_8",
+      "event_url": "http://www.cinic.org.cn/zgzz/qy/1603057.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:05:48",
+      "event_time": "9月5日 00:00"
+    },
+    {
+      "event_title": "Rokid Glasses SDK正式上线开放平台",
+      "event_id": "event_9",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842333425367502025&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:06:04",
+      "event_time": "9月4日 19:41"
+    },
+    {
+      "event_title": "理想汽车AI眼镜虽未官宣，却藏着智能出行与AI融合大秘密",
+      "event_id": "event_10",
+      "event_url": "http://g.pconline.com.cn/x/1971/19712453.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:06:06",
+      "event_time": "9月1日 17:03"
+    },
+    {
+      "event_title": "Rokid Glasses四天即破百万美元众筹",
+      "event_id": "event_11",
+      "event_url": "http://www.163.com/dy/article/K8C4B52K05269O3G.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:06:08",
+      "event_time": "9月1日 09:59"
+    },
+    {
+      "event_title": "Meta Connect大会透露，消费级智能眼镜“Hypernova”发布在即",
+      "event_id": "event_12",
+      "event_url": "http://www.sohu.com/a/930510240_362225",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:06:10",
+      "event_time": "8月31日 22:07"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 12,
+    "total_comments": 12,
+    "events_with_comments": 12,
+    "level1_scrape_time": "2025-09-12 17:05:18",
+    "level2_scrape_time": "2025-09-12 17:06:10"
+  }
+}

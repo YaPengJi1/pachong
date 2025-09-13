@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:06:17"
+  },
+  "core_event": {
+    "core_event_name": "辛芷蕾威尼斯获奖",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:05:22"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "辛芷蕾获威尼斯影后",
+      "link": "http://baijiahao.baidu.com/s?id=1842638381283855817&wfr=spider&for=pc",
+      "time": "9月8日 04:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "辛芷蕾威尼斯封后,鼓励女性勇敢追梦",
+      "link": "http://k.sina.com.cn/article_6891885433_19ac9d3790400204mu.html",
+      "time": "9月7日 09:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "辛芷蕾威尼斯获奖,东方玫瑰映射情感纠葛困境",
+      "link": "http://baijiahao.baidu.com/s?id=1842546533729898100&wfr=spider&for=pc",
+      "time": "9月7日 04:08",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "辛芷蕾获威尼斯影后",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842638381283855817&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:05:55",
+      "event_time": "9月8日 04:28"
+    },
+    {
+      "event_title": "辛芷蕾威尼斯封后,鼓励女性勇敢追梦",
+      "event_id": "event_2",
+      "event_url": "http://k.sina.com.cn/article_6891885433_19ac9d3790400204mu.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:05:57",
+      "event_time": "9月7日 09:28"
+    },
+    {
+      "event_title": "辛芷蕾威尼斯获奖,东方玫瑰映射情感纠葛困境",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842546533729898100&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:06:13",
+      "event_time": "9月7日 04:08"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 11:05:36",
+    "level2_scrape_time": "2025-09-12 11:06:13"
+  }
+}

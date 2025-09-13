@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:54:51"
+  },
+  "core_event": {
+    "core_event_name": "东契奇带领斯洛文尼亚队晋级欧洲杯16强",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:54:20"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "东契奇入围最佳防守球员",
+      "link": "http://new.qq.com/rain/a/20250910A05MR200",
+      "time": "9月10日 15:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "东契奇单节轰22分 创造欧锦赛场均34分8.3分纪录",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hlhu",
+      "time": "9月8日 07:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "东契奇破纪录，字母哥25+14+9",
+      "link": "http://cj.sina.com.cn/articles/view/6504901717/183b8ec5500101ibjw",
+      "time": "9月7日 12:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "欧洲杯16强对阵赛程:东契奇率队迎战意大利卫冕冠军西班牙出局",
+      "link": "http://www.sohu.com/a/932570104_122286997",
+      "time": "9月7日 09:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "小组赛阶段东契奇场均创造51.4分 占斯洛文尼亚场均得分54.8%",
+      "link": "http://www.163.com/dy/article/K8NQJ6JT0529AQIE.html",
+      "time": "9月5日 22:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "东契奇带队晋级，2连胜带队晋级",
+      "link": "http://cj.sina.com.cn/articles/view/2289815244/887bcecc02002n2ak",
+      "time": "9月3日 08:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "男篮欧锦赛：博格丹因伤退出赛事，东契奇三双助队首胜",
+      "link": "http://www.dongqiudi.com/articles/5347326.html",
+      "time": "9月1日 10:32",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "东契奇入围最佳防守球员",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250910A05MR200",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:54:35",
+      "event_time": "9月10日 15:37"
+    },
+    {
+      "event_title": "东契奇单节轰22分 创造欧锦赛场均34分8.3分纪录",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hlhu",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:54:37",
+      "event_time": "9月8日 07:37"
+    },
+    {
+      "event_title": "东契奇破纪录，字母哥25+14+9",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/6504901717/183b8ec5500101ibjw",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:54:39",
+      "event_time": "9月7日 12:32"
+    },
+    {
+      "event_title": "欧洲杯16强对阵赛程:东契奇率队迎战意大利卫冕冠军西班牙出局",
+      "event_id": "event_4",
+      "event_url": "http://www.sohu.com/a/932570104_122286997",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:54:41",
+      "event_time": "9月7日 09:26"
+    },
+    {
+      "event_title": "小组赛阶段东契奇场均创造51.4分 占斯洛文尼亚场均得分54.8%",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8NQJ6JT0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:54:43",
+      "event_time": "9月5日 22:59"
+    },
+    {
+      "event_title": "东契奇带队晋级，2连胜带队晋级",
+      "event_id": "event_6",
+      "event_url": "http://cj.sina.com.cn/articles/view/2289815244/887bcecc02002n2ak",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:54:45",
+      "event_time": "9月3日 08:07"
+    },
+    {
+      "event_title": "男篮欧锦赛：博格丹因伤退出赛事，东契奇三双助队首胜",
+      "event_id": "event_7",
+      "event_url": "http://www.dongqiudi.com/articles/5347326.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:54:47",
+      "event_time": "9月1日 10:32"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 14:54:34",
+    "level2_scrape_time": "2025-09-12 14:54:47"
+  }
+}

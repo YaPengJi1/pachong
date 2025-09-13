@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "华为Mate XTs三折叠手机发布",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:32:19"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "华为Mate XTs 非凡大师及全场景新品发布会召开,多款产品正式亮相",
+      "link": "http://www.xinhuanet.com/tech/20250905/62da5ad5d1574597a06b0ced7debaac5/c.html",
+      "time": "9月5日 09:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "拆解华为新三折叠机核心供应商,前期备货量 40-60 万台",
+      "link": "http://www.geekpark.net/news/353547",
+      "time": "9月5日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "华为Mate XTs 三折叠手机非凡影像升级",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b940038e9f09113408fcf1",
+      "time": "9月4日 15:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "华为携手刘德华发布Mate XTs 非凡大师及全场景新品",
+      "link": "http://news.zol.com.cn/1041/10414043.html",
+      "time": "9月4日 12:20",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 17:32:34"
+}

@@ -1,0 +1,46 @@
+{
+  "core_event_name": "九三阅兵装备展示",
+  "comments": [
+    {
+      "event_title": "新一代装甲装备震撼亮相!九三阅兵中的钢铁洪流,战力全面升级",
+      "event_id": "event_1",
+      "event_url": "http://mil.huanqiu.com/article/4OCaI201sYr",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:54:51",
+      "event_time": "9月5日 18:00"
+    },
+    {
+      "event_title": "“西南铝造”装备“国之重器”亮相九三阅兵",
+      "event_id": "event_2",
+      "event_url": "http://cq.people.com.cn/n2/2025/0903/c365412-41341253.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:54:53",
+      "event_time": "9月3日 17:03"
+    },
+    {
+      "event_title": "KD-21高超音速导弹,九三阅兵新锐装备",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8ADADS90552AOD9.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:54:55",
+      "event_time": "9月1日 09:55"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-13 01:54:55"
+}

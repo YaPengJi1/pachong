@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:09:37"
+  },
+  "core_event": {
+    "core_event_name": "蔚来融资成功",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:08:53"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "蔚来今年募资已超100亿",
+      "link": "http://finance.sina.com.cn/jjxw/2025-09-11/doc-infqawwh6823773.shtml",
+      "time": "昨天 11:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "蔚来募资10亿美元助力保持竞争优势",
+      "link": "http://www.163.com/dy/article/K95UV6C805386EN4.html",
+      "time": "昨天 10:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "蔚来完成总额达10亿美元的股权增发融资",
+      "link": "http://finance.eastmoney.com/a/202509103510146819.html",
+      "time": "9月10日 22:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "蔚来融资正式开启，为长期发展提供资金支持",
+      "link": "http://baijiahao.baidu.com/s?id=1842867196670234885&wfr=spider&for=pc",
+      "time": "9月10日 17:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "蔚来成功完成10亿美元融资",
+      "link": "http://m.jrj.com.cn/rss/yidianzixun/2025/9/10/53060002.shtml",
+      "time": "9月10日 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "蔚来今年募资已超100亿",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.com.cn/jjxw/2025-09-11/doc-infqawwh6823773.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:09:09",
+      "event_time": "昨天 11:27"
+    },
+    {
+      "event_title": "蔚来募资10亿美元助力保持竞争优势",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K95UV6C805386EN4.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:09:11",
+      "event_time": "昨天 10:50"
+    },
+    {
+      "event_title": "蔚来完成总额达10亿美元的股权增发融资",
+      "event_id": "event_3",
+      "event_url": "http://finance.eastmoney.com/a/202509103510146819.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:09:13",
+      "event_time": "9月10日 22:09"
+    },
+    {
+      "event_title": "蔚来融资正式开启，为长期发展提供资金支持",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842867196670234885&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:09:30",
+      "event_time": "9月10日 17:05"
+    },
+    {
+      "event_title": "蔚来成功完成10亿美元融资",
+      "event_id": "event_5",
+      "event_url": "http://m.jrj.com.cn/rss/yidianzixun/2025/9/10/53060002.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:09:32",
+      "event_time": "9月10日 00:00"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 10:09:08",
+    "level2_scrape_time": "2025-09-12 10:09:32"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:40:40"
+  },
+  "core_event": {
+    "core_event_name": "vivo Y500发布与销售",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:40:01"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "1399元起 vivo Y500开售:8200mAh电池 史上最强续航",
+      "link": "http://baijiahao.baidu.com/s?id=1842386846164117101&wfr=spider&for=pc",
+      "time": "9月5日 09:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "vivo Y500开启预售",
+      "link": "http://www.163.com/dy/article/K8FVHBGQ05314WMW.html",
+      "time": "9月2日 21:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "千元机也很耐摔?vivo Y500最新官方爆料",
+      "link": "http://www.163.com/dy/article/K889UT7J0530QEBS.html",
+      "time": "8月30日 22:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "vivo Y500带来360°防水无死角,耐用性升级",
+      "link": "http://www.sohu.com/a/929900520_122482421",
+      "time": "8月29日 17:04",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "1399元起 vivo Y500开售:8200mAh电池 史上最强续航",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842386846164117101&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "怕瑾仪00",
+      "comment_time": "09-05 10:25",
+      "comment_content": "这款vivo Y500续航真厉害，8200mAh电池加90W快充，防水防摔还耐用，1399起太值了。",
+      "user_location": "海南",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:40:30",
+      "event_time": "9月5日 09:15"
+    },
+    {
+      "event_title": "vivo Y500开启预售",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8FVHBGQ05314WMW.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:40:32",
+      "event_time": "9月2日 21:51"
+    },
+    {
+      "event_title": "千元机也很耐摔?vivo Y500最新官方爆料",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K889UT7J0530QEBS.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:40:34",
+      "event_time": "8月30日 22:20"
+    },
+    {
+      "event_title": "vivo Y500带来360°防水无死角,耐用性升级",
+      "event_id": "event_4",
+      "event_url": "http://www.sohu.com/a/929900520_122482421",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:40:36",
+      "event_time": "8月29日 17:04"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-13 02:40:15",
+    "level2_scrape_time": "2025-09-13 02:40:36"
+  }
+}

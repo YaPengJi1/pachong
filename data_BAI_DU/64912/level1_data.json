@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "方正科技、赣锋锂业、兴业科技9月5日涨停",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:19:04"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "9月5日兴业科技涨停",
+      "link": "http://app.myzaker.com/news/article.php?m=1757058291&pk=68ba93128e9f09656f028616",
+      "time": "9月5日 15:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "方正科技(600601)涨停分析",
+      "link": "http://app.myzaker.com/news/article.php?pk=68ba8f818e9f09642133589c",
+      "time": "9月5日 15:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "方正科技9月5日打开涨停",
+      "link": "http://finance.eastmoney.com/a/202509053506031317.html",
+      "time": "9月5日 14:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "赣锋锂业9月5日盘中涨停",
+      "link": "http://finance.eastmoney.com/a/202509053506015829.html",
+      "time": "9月5日 14:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "兴业科技9月5日盘中涨停",
+      "link": "http://finance.eastmoney.com/a/202509053505980810.html",
+      "time": "9月5日 13:43",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 17:19:18"
+}

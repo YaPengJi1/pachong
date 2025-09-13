@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "火车学生票优惠新政",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:26:12"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "学生旅客铁路购票优惠新政实施",
+      "link": "http://www.taihainet.com/news/xmnews/shms/2025-09-07/2841838.html",
+      "time": "9月7日 08:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "火车学生票优惠新规9月6日起实施",
+      "link": "http://video.sina.cn/finance/2025-09-04/detail-infpiwey6658911.d.html",
+      "time": "9月4日 20:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "火车学生票优惠新政,即将上线!",
+      "link": "http://news.fjsen.com/wap/2025-09/02/content_32030622.htm",
+      "time": "9月2日 11:03",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-13 00:26:27"
+}

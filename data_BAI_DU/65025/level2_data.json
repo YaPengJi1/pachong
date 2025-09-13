@@ -1,0 +1,72 @@
+{
+  "core_event_name": "国务院发布人工智能+行动意见",
+  "comments": [
+    {
+      "event_title": "国务院发布《关于深入实施“人工智能+”行动的意见》",
+      "event_id": "event_1",
+      "event_url": "http://weibo.com/7539994918/Q317R2kqn",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:08:36",
+      "event_time": "9月4日 16:37"
+    },
+    {
+      "event_title": "国务院发布“人工智能+”行动意见，央行结构性工具提供适宜金融环境",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.com.cn/jjxw/2025-09-04/doc-infphyzn3586818.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:08:38",
+      "event_time": "9月4日 12:10"
+    },
+    {
+      "event_title": "普惠智算云底座成关键支撑",
+      "event_id": "event_3",
+      "event_url": "http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS68b7dd17a310f0725774687f.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:08:40",
+      "event_time": "9月3日 09:59"
+    },
+    {
+      "event_title": "长城基金刘疆解读人工智能+",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8EP5R6K055696KT.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:08:42",
+      "event_time": "9月2日 10:41"
+    },
+    {
+      "event_title": "阿里持续投入AI建设",
+      "event_id": "event_5",
+      "event_url": "http://www.cnenergynews.cn/jinrong/2025/09/01/detail_20250901230374.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:08:44",
+      "event_time": "9月1日 09:38"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 17:08:44"
+}

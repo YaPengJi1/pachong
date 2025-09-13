@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "山东泰山6-0大胜北京国安",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:20:08"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "山东泰山8月中超进球最多",
+      "link": "http://www.163.com/dy/article/K8QA0TAG0556DMYT.html",
+      "time": "9月6日 22:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中超：泰山大获全胜，国安溃不成军，申花遭绝杀",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6105482442135754899",
+      "time": "9月1日 09:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中超：泰山6-0大胜国安",
+      "link": "http://www.163.com/dy/article/K8APMPRN0529AQIE.html",
+      "time": "8月31日 21:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "泰山梦幻开局!瓦科6场连入8球,首破国安球门,冲击中超金靴",
+      "link": "http://baijiahao.baidu.com/s?id=1841971903928813349&wfr=spider&for=pc",
+      "time": "8月31日 19:54",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 01:20:22"
+}

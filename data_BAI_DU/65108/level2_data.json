@@ -1,0 +1,46 @@
+{
+  "core_event_name": "华为智慧屏新品发布",
+  "comments": [
+    {
+      "event_title": "华为智慧屏MateTV发布",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842465831774644048&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "清颜茶饮尚",
+      "comment_time": "09-06 07:14",
+      "comment_content": "华为这波上新确实硬核，哥们儿堆料真狠！画质音效拉满，就是钱包有点顶不住了。",
+      "user_location": "内蒙古",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:25:59",
+      "event_time": "9月5日 15:47"
+    },
+    {
+      "event_title": "首次把旗舰手机级芯片装进智慧屏,华为 MateTV 单核提升 490%",
+      "event_id": "event_2",
+      "event_url": "http://www.sohu.com/a/931848502_114760",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:26:01",
+      "event_time": "9月4日 15:50"
+    },
+    {
+      "event_title": "华为Vision智慧屏5 Pro上新",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842319623596681232&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:26:17",
+      "event_time": "9月4日 15:48"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 18:26:17"
+}

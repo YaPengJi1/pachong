@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "泰国政坛突变",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:35:02"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "泰国国王退回解散令 为泰党下野成定局",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5138906053639486998",
+      "time": "9月5日 14:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "泰国政坛突发!人民党五个条件押注阿努廷,为泰党叫板:解散议会",
+      "link": "http://www.163.com/dy/article/K8LE71D005568E38.html",
+      "time": "9月5日 00:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "泰国政坛突变 阿努廷获人民党支持组阁",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17344487551084752184",
+      "time": "9月4日 16:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "泰国为泰党领袖Anutin:我们的联盟有146名议员,将组建政府",
+      "link": "http://baijiahao.baidu.com/s?id=1842218016427680463&wfr=spider&for=pc",
+      "time": "9月3日 13:05",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 02:35:17"
+}

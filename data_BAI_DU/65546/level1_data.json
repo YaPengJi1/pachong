@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "泽连斯基与欧洲领导人会晤",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:42:24"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "泽连斯基回应普京俄乌莫斯科会晤提议:可以来基辅",
+      "link": "http://item.btime.com/f2vmffnghug8enoii6g97qjgdk8",
+      "time": "9月6日 16:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "泽连斯基在乌克兰会见欧洲理事会主席Costa。",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5119217691899261554",
+      "time": "9月5日 18:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "丹麦首相将于周三接待乌克兰总统泽连斯基",
+      "link": "http://finance.sina.cn/7x24/2025-09-03/detail-infpfakk4489783.d.html",
+      "time": "9月3日 15:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "泽连斯基计划9月4日在巴黎与欧洲多国领导人举行会晤",
+      "link": "http://weibo.com/2150758415/Q2GaRCvsA",
+      "time": "9月2日 11:17",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 01:42:38"
+}

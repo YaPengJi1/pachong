@@ -1,0 +1,59 @@
+{
+  "core_event_name": "恒生科技指数ETF冲击三连阳",
+  "comments": [
+    {
+      "event_title": "港股互联网板块延续涨势,恒生互联网科技ETF大涨超3%,创历史新高",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842844299530704395&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:54:14",
+      "event_time": "9月10日 10:06"
+    },
+    {
+      "event_title": "恒生科技指数ETF冲击三连阳,年内涨幅28.96%",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K90SVMB20519D4UH.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:54:16",
+      "event_time": "9月9日 11:34"
+    },
+    {
+      "event_title": "恒生科技指数ETF持续溢价交易，最新份额创新高",
+      "event_id": "event_3",
+      "event_url": "http://www.jiemian.com/article/13301066.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:54:18",
+      "event_time": "9月4日 12:15"
+    },
+    {
+      "event_title": "美联储降息概率再抬升，港股科技优质资产价值渐显",
+      "event_id": "event_4",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:54:20",
+      "event_time": "1970年"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 09:54:20"
+}

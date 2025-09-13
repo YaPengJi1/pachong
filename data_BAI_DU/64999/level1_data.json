@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "抗战胜利80周年邮票首发",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 16:44:04"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "抗战胜利80周年纪念邮票全国首发腾冲同步举行首发仪式",
+      "link": "http://baoshan.yunnan.cn/system/2025/09/05/033625861.shtml",
+      "time": "9月5日 14:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "《中国人民抗日战争暨世界反法西斯战争胜利八十周年》邮票全国发行 烟台海阳举办邮票首发赠送仪式",
+      "link": "http://yantai.iqilu.com/ytyaowen/2025/0904/5847467.shtml",
+      "time": "9月4日 10:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "《中国人民抗日战争暨世界反法西斯战争胜利八十周年》纪念邮票在聊发售",
+      "link": "http://baijiahao.baidu.com/s?id=1842288166404384214&wfr=spider&for=pc",
+      "time": "9月4日 07:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "《中国人民抗日战争暨世界反法西斯战争胜利八十周年》纪念邮票9月3日发行",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11225386677605612029",
+      "time": "9月3日 20:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "《中国人民抗日战争暨世界反法西斯战争胜利八十周年》纪念邮票发行 鹤壁部分邮政网点同步发售",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31533825",
+      "time": "9月3日 20:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "《中国人民抗日战争暨世界反法西斯战争胜利80周年》纪念邮票在上海静安首发",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31548745",
+      "time": "9月3日 16:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "抗战胜利80周年纪念邮票上海首发",
+      "link": "http://www.jfdaily.com/news/detail?id=975954",
+      "time": "9月3日 12:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "抗战胜利八十周年纪念邮票于9月3日发行",
+      "link": "http://baijiahao.baidu.com/s?id=1842198731106701067&wfr=spider&for=pc",
+      "time": "9月3日 08:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-12 16:44:18"
+}

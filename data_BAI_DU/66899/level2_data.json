@@ -1,0 +1,72 @@
+{
+  "core_event_name": "美国非农就业数据大幅下修",
+  "comments": [
+    {
+      "event_title": "美国年度非农就业数据大幅向下修正超91万人",
+      "event_id": "event_1",
+      "event_url": "http://tv.cctv.com/2025/09/11/VIDE1NxUNURXsgEar1guYyUe250911.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:45:55",
+      "event_time": "昨天 07:21"
+    },
+    {
+      "event_title": "美国大幅下调年度就业增长数据",
+      "event_id": "event_2",
+      "event_url": "http://news.cctv.com/2025/09/11/ARTIFIl0RREPNTux2RgsKGVd250911.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:45:58",
+      "event_time": "9月10日 21:45"
+    },
+    {
+      "event_title": "美国就业数据“差出想象”",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K93GQUV0051481US.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:46:00",
+      "event_time": "9月10日 11:59"
+    },
+    {
+      "event_title": "美国非农就业数据大幅下修超90万",
+      "event_id": "event_4",
+      "event_url": "http://new.qq.com/rain/a/20250910V03B6H00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:46:02",
+      "event_time": "9月10日 10:56"
+    },
+    {
+      "event_title": "美国就业数据恐再遭大幅下修 或刺激降息押注",
+      "event_id": "event_5",
+      "event_url": "http://flash.jin10.com/detail/20250908182213537800",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:46:04",
+      "event_time": "9月8日 00:00"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 09:46:04"
+}

@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:58:52"
+  },
+  "core_event": {
+    "core_event_name": "U22国足备战第二轮冲小组",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:57:55"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U22国足将帅:全队状态良好,力争亚洲杯决赛圈席位",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11226820290328829982",
+      "time": "9月6日 00:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U22国足面临澳大利亚队的挑战，想要取胜悬了",
+      "link": "http://baijiahao.baidu.com/s?id=1842401583500625938&wfr=spider&for=pc",
+      "time": "9月5日 13:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U22国足重返训练场，宋凯亲自督军备战第二轮冲小组第一",
+      "link": "http://baijiahao.baidu.com/s?id=1842310708526964868&wfr=spider&for=pc",
+      "time": "9月4日 13:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22国足今天上午重返训练场,足协主席宋凯到场督军",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hg5u",
+      "time": "9月4日 13:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "U22国足一直在封闭备战,足协副主席许基仁随队督军",
+      "link": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001t7wg",
+      "time": "9月1日 16:07",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "U22国足将帅:全队状态良好,力争亚洲杯决赛圈席位",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11226820290328829982",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:58:11",
+      "event_time": "9月6日 00:16"
+    },
+    {
+      "event_title": "U22国足面临澳大利亚队的挑战，想要取胜悬了",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842401583500625938&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "花落叶残残月时6",
+      "comment_time": "09-05 13:50",
+      "comment_content": "首轮虽胜但需提升，徐彬缺阵挑战大。小伙子们加油拼，相信你们的努力！",
+      "user_location": "四川",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:58:28",
+      "event_time": "9月5日 13:44"
+    },
+    {
+      "event_title": "U22国足重返训练场，宋凯亲自督军备战第二轮冲小组第一",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842310708526964868&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:58:44",
+      "event_time": "9月4日 13:40"
+    },
+    {
+      "event_title": "U22国足今天上午重返训练场,足协主席宋凯到场督军",
+      "event_id": "event_4",
+      "event_url": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hg5u",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:58:46",
+      "event_time": "9月4日 13:30"
+    },
+    {
+      "event_title": "U22国足一直在封闭备战,足协副主席许基仁随队督军",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001t7wg",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:58:48",
+      "event_time": "9月1日 16:07"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 17:58:10",
+    "level2_scrape_time": "2025-09-12 17:58:48"
+  }
+}

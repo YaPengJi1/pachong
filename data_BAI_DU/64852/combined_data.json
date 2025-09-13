@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:00:31"
+  },
+  "core_event": {
+    "core_event_name": "U23亚预赛东帝汶逆袭",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:59:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "媒体人深度解读东帝汶U22逆袭之路",
+      "link": "http://www.sohu.com/a/932011615_121179537",
+      "time": "9月5日 07:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U22国足首秀：安东尼奥表示“满意”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16263348094469128354",
+      "time": "9月4日 19:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U23亚预赛1:2惜败国足，赛后东帝汶主帅：为队员的表现感到骄傲！",
+      "link": "http://www.163.com/dy/article/K8IIKACT0537B2DW.html",
+      "time": "9月3日 22:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U23亚预赛国足2-1险胜东帝汶",
+      "link": "http://baijiahao.baidu.com/s?id=1842252712141135090&wfr=spider&for=pc",
+      "time": "9月3日 22:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "U22国足1-0险胜东帝汶!拜合拉木破门,亚洲杯前景几何?",
+      "link": "http://www.sohu.com/a/931587393_121976701",
+      "time": "9月3日 20:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "U22男足亚预赛首战对阵东帝汶，面临关键问题是磨合时间短",
+      "link": "http://baijiahao.baidu.com/s?id=1842213571328181266&wfr=spider&for=pc",
+      "time": "9月3日 11:56",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "媒体人深度解读东帝汶U22逆袭之路",
+      "event_id": "event_1",
+      "event_url": "http://www.sohu.com/a/932011615_121179537",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:59:47",
+      "event_time": "9月5日 07:30"
+    },
+    {
+      "event_title": "U22国足首秀：安东尼奥表示“满意”",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=16263348094469128354",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:59:49",
+      "event_time": "9月4日 19:11"
+    },
+    {
+      "event_title": "U23亚预赛1:2惜败国足，赛后东帝汶主帅：为队员的表现感到骄傲！",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8IIKACT0537B2DW.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:59:51",
+      "event_time": "9月3日 22:43"
+    },
+    {
+      "event_title": "U23亚预赛国足2-1险胜东帝汶",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842252712141135090&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "宇航员MonsterMike",
+      "comment_time": "09-03 22:28",
+      "comment_content": "这个视角很有趣哦👀",
+      "user_location": "广东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:00:09",
+      "event_time": "9月3日 22:18"
+    },
+    {
+      "event_title": "U22国足1-0险胜东帝汶!拜合拉木破门,亚洲杯前景几何?",
+      "event_id": "event_5",
+      "event_url": "http://www.sohu.com/a/931587393_121976701",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:00:11",
+      "event_time": "9月3日 20:28"
+    },
+    {
+      "event_title": "U22男足亚预赛首战对阵东帝汶，面临关键问题是磨合时间短",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842213571328181266&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:00:26",
+      "event_time": "9月3日 11:56"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 17:59:46",
+    "level2_scrape_time": "2025-09-12 18:00:26"
+  }
+}

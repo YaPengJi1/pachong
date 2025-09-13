@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "纪念抗战胜利80周年阅兵",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:51:27"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "纪念中国人民抗日战争暨世界反法西斯战争胜利80周年 雄师列阵气势如虹 共同感受国家强盛荣光",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9206540405740663573",
+      "time": "9月6日 10:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "9.3阅兵盛况，日军后裔受邀，90岁老兵感动落泪",
+      "link": "http://www.163.com/dy/article/K8O64GRH05566GMU.html",
+      "time": "9月6日 02:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国际学术界热议纪念抗战胜利80周年阅兵",
+      "link": "http://baijiahao.baidu.com/s?id=1842458190659242237&wfr=spider&for=pc",
+      "time": "9月5日 18:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "抗战胜利80周年阅兵受阅部队开始回撤",
+      "link": "http://tv.cctv.com/2025/09/05/VIDELftaZxX41rgZvmWruAVr250905.shtml",
+      "time": "9月5日 12:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "9月3日天安门举行纪念反法西斯胜利大会",
+      "link": "http://weibo.com/3046828120/Q31xbE0js",
+      "time": "9月4日 17:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "胜利日大阅兵 中国举行盛大阅兵 纪念抗战胜利80周年",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4907533490147921407",
+      "time": "9月3日 18:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "纪念抗战胜利80周年 天安门广场举行盛大阅兵 隐身战机制胜未来 舰载机体系更完善",
+      "link": "http://tv.cctv.com/2025/09/03/VIDEINbJ5EWU8PssRDdesiUr250903.shtml",
+      "time": "9月3日 13:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "[胜利日]抗战胜利80周年阅兵活动 阅兵将实现多个“首次”",
+      "link": "http://news.cctv.com/2025/09/02/ARTI0oAOEwIQ0nxuM8v1T7LX250902.shtml",
+      "time": "9月2日 11:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "铭记历史观盛典 凝心聚力启新程——华容县鲇鱼须镇集中组织观看抗战胜利80周年阅兵仪式",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 21:51:41"
+}

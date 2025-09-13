@@ -1,0 +1,345 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:43:47"
+  },
+  "core_event": {
+    "core_event_name": "景甜冯绍峰被传闪婚",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:41:50"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "冯绍峰景甜被传闪婚辟谣",
+      "link": "http://www.163.com/dy/article/K8KM19J105566S2A.html",
+      "time": "9月4日 17:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "冯绍峰景甜闪婚?双方回应",
+      "link": "http://www.jfdaily.com/news/detail?id=976778",
+      "time": "9月4日 15:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "演员冯绍峰、景甜闪婚?最新回应",
+      "link": "http://baijiahao.baidu.com/s?id=1842375047732863072&wfr=spider&for=pc",
+      "time": "9月4日 13:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "景甜、冯绍峰双双回应结婚传闻",
+      "link": "http://baijiahao.baidu.com/s?id=1842306307582052509&wfr=spider&for=pc",
+      "time": "9月4日 12:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "景甜工作室回应“冯绍峰景甜闪婚”",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infphyzn3583644.d.html",
+      "time": "9月4日 12:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "演员冯绍峰方辟谣与景甜闪婚",
+      "link": "http://www.cnhubei.com/pcmedia/detail?id=1983419",
+      "time": "9月4日 11:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "冯绍峰工作室回应与景甜恋情：假消息",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31539213",
+      "time": "9月4日 10:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "景甜工作室否认“冯绍峰景甜闪婚”",
+      "link": "http://yule.bandao.cn/a/1756952411846696.html",
+      "time": "9月4日 10:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "冯绍峰、景甜闪婚?景甜工作室发文:“假!!!”",
+      "link": "http://news.hangzhou.com.cn/shxw/content/2025-09/04/content_9075796.htm",
+      "time": "9月4日 10:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "景甜与冯绍峰闪婚?紧急回应!",
+      "link": "http://baijiahao.baidu.com/s?id=1842297054482480590&wfr=spider&for=pc",
+      "time": "9月4日 10:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "景甜工作室否认“冯绍峰景甜闪婚” 连发6个感叹号",
+      "link": "http://baijiahao.baidu.com/s?id=1842298168089486377&wfr=spider&for=pc",
+      "time": "9月4日 09:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "景甜工作室连发4个感叹号回应",
+      "link": "http://baijiahao.baidu.com/s?id=1842307884040766468&wfr=spider&for=pc",
+      "time": "9月4日 09:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "曝冯绍峰景甜闪婚,景甜方辟谣:景甜女士未婚单身",
+      "link": "http://news.cnhubei.com/content/2025-09/04/content_19473288.html",
+      "time": "9月4日 09:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "37岁景甜与46岁冯绍峰被疯传已闪婚?景甜方澄清:她未婚单身",
+      "link": "http://www.163.com/dy/article/K8JNU1TR05565655.html",
+      "time": "9月4日 08:55",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "冯绍峰景甜被传闪婚辟谣",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8KM19J105566S2A.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:42:06",
+      "event_time": "9月4日 17:41"
+    },
+    {
+      "event_title": "冯绍峰景甜闪婚?双方回应",
+      "event_id": "event_2",
+      "event_url": "http://www.jfdaily.com/news/detail?id=976778",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:42:08",
+      "event_time": "9月4日 15:58"
+    },
+    {
+      "event_title": "演员冯绍峰、景甜闪婚?最新回应",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842375047732863072&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:42:25",
+      "event_time": "9月4日 13:36"
+    },
+    {
+      "event_title": "景甜、冯绍峰双双回应结婚传闻",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842306307582052509&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "劳星泽Fp",
+      "comment_time": "09-04 14:04",
+      "comment_content": "造谣者应承担法律责任",
+      "user_location": "浙江",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:42:40",
+      "event_time": "9月4日 12:30"
+    },
+    {
+      "event_title": "景甜、冯绍峰双双回应结婚传闻",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842306307582052509&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "MENGHUAN1106",
+      "comment_time": "09-04 19:29",
+      "comment_content": "峰哥威武    谁红………",
+      "user_location": "江苏",
+      "like_count": 2,
+      "scrape_time": "2025-09-13 01:42:40",
+      "event_time": "9月4日 12:30"
+    },
+    {
+      "event_title": "景甜、冯绍峰双双回应结婚传闻",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842306307582052509&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "来自什刹海姿色天然的霖雨",
+      "comment_time": "09-07 15:23",
+      "comment_content": "就算真的在一起也没事都是单身有什么避讳的",
+      "user_location": "江苏",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:42:41",
+      "event_time": "9月4日 12:30"
+    },
+    {
+      "event_title": "景甜工作室回应“冯绍峰景甜闪婚”",
+      "event_id": "event_5",
+      "event_url": "http://finance.sina.cn/2025-09-04/detail-infphyzn3583644.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:42:43",
+      "event_time": "9月4日 12:00"
+    },
+    {
+      "event_title": "演员冯绍峰方辟谣与景甜闪婚",
+      "event_id": "event_6",
+      "event_url": "http://www.cnhubei.com/pcmedia/detail?id=1983419",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:42:45",
+      "event_time": "9月4日 11:16"
+    },
+    {
+      "event_title": "冯绍峰工作室回应与景甜恋情：假消息",
+      "event_id": "event_7",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31539213",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:42:47",
+      "event_time": "9月4日 10:43"
+    },
+    {
+      "event_title": "景甜工作室否认“冯绍峰景甜闪婚”",
+      "event_id": "event_8",
+      "event_url": "http://yule.bandao.cn/a/1756952411846696.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:42:49",
+      "event_time": "9月4日 10:20"
+    },
+    {
+      "event_title": "冯绍峰、景甜闪婚?景甜工作室发文:“假!!!”",
+      "event_id": "event_9",
+      "event_url": "http://news.hangzhou.com.cn/shxw/content/2025-09/04/content_9075796.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:42:51",
+      "event_time": "9月4日 10:09"
+    },
+    {
+      "event_title": "景甜与冯绍峰闪婚?紧急回应!",
+      "event_id": "event_10",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842297054482480590&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:43:06",
+      "event_time": "9月4日 10:03"
+    },
+    {
+      "event_title": "景甜工作室否认“冯绍峰景甜闪婚” 连发6个感叹号",
+      "event_id": "event_11",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842298168089486377&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:43:23",
+      "event_time": "9月4日 09:20"
+    },
+    {
+      "event_title": "景甜工作室连发4个感叹号回应",
+      "event_id": "event_12",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842307884040766468&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:43:39",
+      "event_time": "9月4日 09:14"
+    },
+    {
+      "event_title": "曝冯绍峰景甜闪婚,景甜方辟谣:景甜女士未婚单身",
+      "event_id": "event_13",
+      "event_url": "http://news.cnhubei.com/content/2025-09/04/content_19473288.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:43:41",
+      "event_time": "9月4日 09:14"
+    },
+    {
+      "event_title": "37岁景甜与46岁冯绍峰被疯传已闪婚?景甜方澄清:她未婚单身",
+      "event_id": "event_14",
+      "event_url": "http://www.163.com/dy/article/K8JNU1TR05565655.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:43:43",
+      "event_time": "9月4日 08:55"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 14,
+    "total_comments": 16,
+    "events_with_comments": 14,
+    "level1_scrape_time": "2025-09-13 01:42:05",
+    "level2_scrape_time": "2025-09-13 01:43:43"
+  }
+}

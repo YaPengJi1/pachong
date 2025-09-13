@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "美联储理事米兰提名人",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:51:49"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美联储理事提名人Miran:如果在美联储的任期超过4.5个月,我将因为这样的提名而辞去(在总统特朗普白宫的)职务",
+      "link": "http://baijiahao.baidu.com/s?id=1842350732703821407&wfr=spider&for=pc",
+      "time": "9月5日 00:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美联储理事提名人Miran:不曾建议将美联储控制权交给特朗普。",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4643862033066984726",
+      "time": "9月5日 00:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美联储理事会提名人米兰:敦促总统考虑更换所有美联储理事这一想法",
+      "link": "http://finance.sina.cn/7x24/2025-09-04/detail-infpkanz1490746.d.html",
+      "time": "9月4日 23:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美联储理事提名人Miran：将退出特朗普的CEA",
+      "link": "http://baijiahao.baidu.com/s?id=1842346140285999915&wfr=spider&for=pc",
+      "time": "9月4日 23:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美联储理事提名人米兰:美联储的主要工作是防止萧条和通胀",
+      "link": "http://finance.sina.cn/7x24/2025-09-04/detail-infpfxpy4087091.d.html",
+      "time": "9月4日 01:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "美联储理事提名人米兰听证会核心要点梳理",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 23:52:03"
+}

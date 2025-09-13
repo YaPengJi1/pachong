@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "南京队滕帅进球，手握7球重返射手榜榜首",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:14:54"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "南京队战平徐州队 现场观赛人数再破纪录",
+      "link": "http://tv.cctv.com/2025/09/08/VIDE6USoCbOFGcCvaVLBWcuZ250908.shtml",
+      "time": "9月8日 16:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "南京队滕帅进球!手握7球,重返射手榜榜首!“吉戈连线”惊喜亮相",
+      "link": "http://cj.sina.com.cn/articles/view/3769670485/pe0b09b5502701fp4k",
+      "time": "9月6日 22:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "苏超“宁徐”1:1握手言和!吉翔替补登场,南京队能否守住榜首?",
+      "link": "http://www.sohu.com/a/932503888_121976701",
+      "time": "9月6日 22:01",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 10:15:08"
+}

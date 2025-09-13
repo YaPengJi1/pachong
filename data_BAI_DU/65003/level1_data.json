@@ -1,0 +1,92 @@
+{
+  "core_info": {
+    "core_event_name": "泰山6-0大胜国安，瓦科大四喜独霸射手榜",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 16:47:28"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "媒体人谈国安0-6惨败:很久没踢亚冠,不适应外籍裁判的尺度",
+      "link": "http://www.dongqiudi.com/articles/5355289.html",
+      "time": "9月5日 10:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "泰山战胜国安前前后后:那些“谚语”背后的故事",
+      "link": "http://sports.dzwww.com/news/202509/t20250902_16418949.htm",
+      "time": "9月2日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中超：泰山大获全胜，国安溃不成军，申花遭绝杀",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6105482442135754899",
+      "time": "9月1日 09:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "瓦科:很开心暂时排在射手榜首位,但最重要的是球队取胜",
+      "link": "http://m.dongqiudi.com/article/5346091.html",
+      "time": "9月1日 00:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "泰山队6-0大胜国安 瓦科赛后回应升至射手榜首位",
+      "link": "http://baijiahao.baidu.com/s?id=1841987809892454136&wfr=spider&for=pc",
+      "time": "9月1日 00:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "山东泰山6:0北京国安!瓦科完成“大四喜”",
+      "link": "http://baijiahao.baidu.com/s?id=1841979616580085015&wfr=spider&for=pc",
+      "time": "8月31日 21:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "瓦科大四喜独霸射手榜",
+      "link": "http://www.163.com/dy/article/K8APOR640556C2XO.html",
+      "time": "8月31日 21:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "泰山6-0大胜国安，中超最大失利",
+      "link": "http://www.163.com/dy/article/K8APMPRN0529AQIE.html",
+      "time": "8月31日 21:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "泰山梦幻开局!瓦科6场连入8球,首破国安球门,冲击中超金靴",
+      "link": "http://baijiahao.baidu.com/s?id=1841971903928813349&wfr=spider&for=pc",
+      "time": "8月31日 19:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "中超联赛第23轮，泰山主场复仇夜，国安带刀赴宴，1-6后谁在颤抖？",
+      "link": "http://www.sohu.com/a/930035414_121146026",
+      "time": "8月30日 05:11",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 10,
+  "scrape_time": "2025-09-12 16:47:42"
+}

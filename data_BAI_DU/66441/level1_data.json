@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "委内瑞拉出动战机两次挂弹低空掠飞美军舰",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:51:34"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "两架委内瑞拉空军的F-16战机超低空掠过美国军舰",
+      "link": "http://baijiahao.baidu.com/s?id=1842763721148298354&wfr=spider&for=pc",
+      "time": "9月9日 13:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "委内瑞拉出动战机两次挂弹低空掠飞美军舰",
+      "link": "http://new.qq.com/rain/a/20250908A04S4K00",
+      "time": "9月8日 17:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美国增兵!“10架F-35已出动”",
+      "link": "http://baijiahao.baidu.com/s?id=1842571059388071480&wfr=spider&for=pc",
+      "time": "9月7日 10:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "委内瑞拉空军两架苏-30战机飞越美国海军舰群",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17047496366357391716",
+      "time": "9月6日 19:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美将向波多黎各部署10架F35战机",
+      "link": "http://m.yicai.com/brief/102811048.html",
+      "time": "9月5日 16:39",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 14:51:48"
+}

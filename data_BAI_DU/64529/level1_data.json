@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "中国女排输给法国",
+    "update_time": "更新至20250902",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:38:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国女排面临大规模重组",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_3102855401115595979",
+      "time": "9月2日 19:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国女排输法国让世界积分排名跌至第7 第四次无缘世锦赛八强",
+      "link": "http://www.163.com/dy/article/K8BJRFU60556C2XP.html",
+      "time": "9月1日 05:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "法国队主教练:针对中国女排我们做了一些冒险的拦防布置",
+      "link": "http://www.163.com/dy/article/K8B2K7EJ05346RC6.html",
+      "time": "9月1日 00:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国女排1-3不敌法国",
+      "link": "http://baijiahao.baidu.com/s?id=1841979291358243975&wfr=spider&for=pc",
+      "time": "8月31日 21:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中国女排1比3负法国 无缘世锦赛八强",
+      "link": "http://news.dayoo.com/gzrbrmt/202508/31/170628_54868150.htm",
+      "time": "8月31日 20:57",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 01:38:44"
+}

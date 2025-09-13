@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "新城控股中报观察",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:04:51"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "新城控股商业运营发力，融资破局谋远",
+      "link": "http://cj.sina.com.cn/articles/view/1971148057/757d551900102f76k",
+      "time": "昨天 13:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "新城控股王晓松：商业双位增长，融资落地应付减少",
+      "link": "http://cj.sina.com.cn/articles/view/7390874094/1b887c9ee00101m2um",
+      "time": "9月4日 14:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "新城控股毛利率飙升26.85%,运营突围秘笈大揭秘",
+      "link": "http://www.163.com/dy/article/K8HF0DTO0556BQCI.html",
+      "time": "9月3日 11:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "新城控股:商管毛利占比已超七成",
+      "link": "http://finance.sina.com.cn/roll/2025-09-02/doc-infpaafm8627241.shtml",
+      "time": "9月2日 02:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "新城控股商场租金快增 偿债压力减轻",
+      "link": "http://stock.hexun.com/2025-08-30/221205755.html",
+      "time": "8月30日 19:10",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 18:05:05"
+}

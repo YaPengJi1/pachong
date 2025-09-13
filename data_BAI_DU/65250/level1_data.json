@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "护士张水华周末参赛引争议",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:00:19"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "张水华哈尔滨马拉松成绩",
+      "link": "http://weibo.com/6901776669/Q3deUhZif",
+      "time": "9月5日 23:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "张水华,这位被称为\"最快女护士\"的马拉松冠军,最近因为一场夺冠后的哭诉再次成为公众焦点",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4648585771124060902",
+      "time": "9月4日 22:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国最快护士想周末调休参赛被痛批",
+      "link": "http://www.163.com/dy/article/K8KADN790552MEV3.html",
+      "time": "9月4日 14:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "“最快女护士”丈夫发声:并非经常调休,科室大多数护士每月能有两次或以上的完整周末!医院、人社部门等多方回应争议点",
+      "link": "http://baijiahao.baidu.com/s?id=1842209260632060478&wfr=spider&for=pc",
+      "time": "9月3日 10:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "“最快女护士”丈夫发声:并非经常调休,科室大多数护士每月能有两次或以上的完整周末",
+      "link": "http://baijiahao.baidu.com/s?id=1842205777864615056&wfr=spider&for=pc",
+      "time": "9月3日 09:49",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 21:00:33"
+}

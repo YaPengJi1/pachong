@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "A股大消息",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:08:41"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "董事长陈勇“回归”永安药业 被留置期间股价大涨控股股东拟减持",
+      "link": "http://www.163.com/dy/article/K8N1IAOU05199DKK.html",
+      "time": "9月5日 15:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "A股:无需等周五开盘了,种种迹象表明,明天股市很可能这样走",
+      "link": "http://www.163.com/dy/article/K8K2F1CB053735CL.html",
+      "time": "9月4日 15:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "A股:市场突发四条消息,如何影响下周A股表现?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12607257463673477216",
+      "time": "8月31日 11:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "A股大消息!证监会刚刚发布",
+      "link": "http://finance.stockstar.com/IG2025082900044563.shtml",
+      "time": "8月29日 20:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "10余家上市公司宣布紧急补税 朗姿股份需再缴2227万元",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 18:08:55"
+}

@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:46:11"
+  },
+  "core_event": {
+    "core_event_name": "汽车行业网络乱象整治行动",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:45:47"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "6部门联合开展汽车网络乱象整治",
+      "link": "http://video.sina.cn/finance/2025-09-11/detail-infqasqk6939035.d.html",
+      "time": "昨天 10:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "六部门联合部署开展汽车行业网络乱象专项整治行动",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31592599",
+      "time": "昨天 08:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "六部门联合出手!剑指汽车行业网络乱象",
+      "link": "http://www.zhitongcaijing.com/content/detail/1343851.html",
+      "time": "9月10日 22:39",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "6部门联合开展汽车网络乱象整治",
+      "event_id": "event_1",
+      "event_url": "http://video.sina.cn/finance/2025-09-11/detail-infqasqk6939035.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:46:03",
+      "event_time": "昨天 10:52"
+    },
+    {
+      "event_title": "六部门联合部署开展汽车行业网络乱象专项整治行动",
+      "event_id": "event_2",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31592599",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:46:05",
+      "event_time": "昨天 08:31"
+    },
+    {
+      "event_title": "六部门联合出手!剑指汽车行业网络乱象",
+      "event_id": "event_3",
+      "event_url": "http://www.zhitongcaijing.com/content/detail/1343851.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:46:07",
+      "event_time": "9月10日 22:39"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 10:46:02",
+    "level2_scrape_time": "2025-09-12 10:46:07"
+  }
+}

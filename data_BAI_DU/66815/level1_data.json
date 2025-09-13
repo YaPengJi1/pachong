@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "国台办回应赖清德“对等尊严”",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:55:59"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国台办发布会 两岸沟通协商谈判当然要在一个中国原则基础上进行",
+      "link": "http://tv.cctv.com/2025/09/10/VIDEPwFke2A04GyzShiVcQ4h250910.shtml",
+      "time": "9月10日 20:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "赖清德称希望两岸谈判交流秉持“对等尊严”,国台办:停止“台独”分裂活动,否则都是空谈",
+      "link": "http://www.163.com/dy/article/K93ROFV20514NR4I.html",
+      "time": "9月10日 15:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国务院台办 赖清德的“对等尊严” 实际上为两岸对话制造障碍",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=14401775405352141792",
+      "time": "9月10日 15:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "国台办:赖清德所谓“对等尊严”注定枉费心机",
+      "link": "http://baijiahao.baidu.com/s?id=1842852666643600831&wfr=spider&for=pc",
+      "time": "9月10日 11:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "赖清德称两岸谈判交流应秉持“对等尊严”,国台办回应",
+      "link": "http://baijiahao.baidu.com/s?id=1842843512337726634&wfr=spider&for=pc",
+      "time": "9月10日 10:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "赖清德妄议大陆，国台办震怒，引爆国际舆论",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7646070449793103039",
+      "time": "9月9日 18:41",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 09:56:13"
+}

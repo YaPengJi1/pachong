@@ -1,0 +1,193 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:17:27"
+  },
+  "core_event": {
+    "core_event_name": "李月汝收购欧洲女子球队",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:16:06"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "李月汝将收购一支欧洲女子篮球队，帮助更多中国球员走出去",
+      "link": "http://www.163.com/dy/article/K96AU2ER0556DMZG.html",
+      "time": "昨天 14:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国女篮李月汝计划收购欧洲球队",
+      "link": "http://www.163.com/dy/article/K93L4EJ305567V1J.html",
+      "time": "9月10日 13:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "李月汝要当老板:第一中锋将收购欧洲球队",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=206742794560750754",
+      "time": "9月10日 01:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "李月汝收购欧洲球队为中国球员留洋铺路?球迷:多虑了",
+      "link": "http://cj.sina.com.cn/articles/view/2723256025/a25196d900101a8mi",
+      "time": "9月9日 19:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "经纪人称中国女篮球员李月汝将收购一支欧洲女子篮球队",
+      "link": "http://baijiahao.baidu.com/s?id=1842764243135912674&wfr=spider&for=pc",
+      "time": "9月9日 13:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "李月汝交叉韧带扭伤赛季报销，直播间透露意欲收购欧洲女篮球队",
+      "link": "http://news.sohu.com/a/933128659_122427922",
+      "time": "9月9日 09:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "媒体人谈李月汝收购欧洲女篮球队:不算贵 毕竟篮球在欧洲不赚钱",
+      "link": "http://baijiahao.baidu.com/s?id=1842722548972390645&wfr=spider&for=pc",
+      "time": "9月9日 01:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "李月汝要为女篮打通欧洲赛场",
+      "link": "http://new.qq.com/rain/a/20250908V09BJ200",
+      "time": "9月8日 23:45",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "李月汝将收购一支欧洲女子篮球队，帮助更多中国球员走出去",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K96AU2ER0556DMZG.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:16:40",
+      "event_time": "昨天 14:14"
+    },
+    {
+      "event_title": "中国女篮李月汝计划收购欧洲球队",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K93L4EJ305567V1J.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:16:42",
+      "event_time": "9月10日 13:14"
+    },
+    {
+      "event_title": "李月汝要当老板:第一中锋将收购欧洲球队",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=206742794560750754",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:16:44",
+      "event_time": "9月10日 01:41"
+    },
+    {
+      "event_title": "李月汝收购欧洲球队为中国球员留洋铺路?球迷:多虑了",
+      "event_id": "event_4",
+      "event_url": "http://cj.sina.com.cn/articles/view/2723256025/a25196d900101a8mi",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:16:46",
+      "event_time": "9月9日 19:14"
+    },
+    {
+      "event_title": "经纪人称中国女篮球员李月汝将收购一支欧洲女子篮球队",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842764243135912674&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "BD无畏英雄",
+      "comment_time": "09-09 14:05",
+      "comment_content": "小宝收购欧洲球队帮球员走出去，这份心意真暖心啊。",
+      "user_location": "浙江",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 11:17:03",
+      "event_time": "9月9日 13:48"
+    },
+    {
+      "event_title": "李月汝交叉韧带扭伤赛季报销，直播间透露意欲收购欧洲女篮球队",
+      "event_id": "event_6",
+      "event_url": "http://news.sohu.com/a/933128659_122427922",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:17:05",
+      "event_time": "9月9日 09:51"
+    },
+    {
+      "event_title": "媒体人谈李月汝收购欧洲女篮球队:不算贵 毕竟篮球在欧洲不赚钱",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842722548972390645&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "豪豪喜欢cookie",
+      "comment_time": "09-09 03:47",
+      "comment_content": "李月汝收购欧洲女篮球队真暖心，帮球员出国打球值得点赞，祝她顺利。",
+      "user_location": "黑龙江",
+      "like_count": 6,
+      "scrape_time": "2025-09-12 11:17:21",
+      "event_time": "9月9日 01:15"
+    },
+    {
+      "event_title": "李月汝要为女篮打通欧洲赛场",
+      "event_id": "event_8",
+      "event_url": "http://new.qq.com/rain/a/20250908V09BJ200",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:17:23",
+      "event_time": "9月8日 23:45"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 8,
+    "total_comments": 8,
+    "events_with_comments": 8,
+    "level1_scrape_time": "2025-09-12 11:16:39",
+    "level2_scrape_time": "2025-09-12 11:17:23"
+  }
+}

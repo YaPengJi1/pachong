@@ -1,0 +1,46 @@
+{
+  "core_event_name": "法国政府“垮台”",
+  "comments": [
+    {
+      "event_title": "法国总理贝鲁递交辞呈",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842787171955677892&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:32:40",
+      "event_time": "9月9日 19:35"
+    },
+    {
+      "event_title": "政府又双叒叕垮台,马克龙深陷危机,法国将何去何从?",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.com.cn/roll/2025-09-09/doc-infpwqyk5265257.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:32:43",
+      "event_time": "9月9日 15:56"
+    },
+    {
+      "event_title": "法国政府“垮台” 总理将辞职",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4459389519764051795",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:32:45",
+      "event_time": "9月9日 10:02"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 14:32:45"
+}

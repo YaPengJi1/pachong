@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "中国U22队迎战北马里亚纳群岛队",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:03:02"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国U22队迎战北马里亚纳群岛，王钰栋有望助球队实现大胜",
+      "link": "http://www.163.com/dy/article/K8QBHOTE0556DOSD.html",
+      "time": "9月6日 22:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国队10比0北马里亚纳群岛队",
+      "link": "http://www.163.com/dy/article/K8Q9UFF90529BBMT.html",
+      "time": "9月6日 22:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国足U23以10:0横扫北马里亚纳",
+      "link": "http://weibo.com/1904135181/Q3m46etQN",
+      "time": "9月6日 21:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22国足已保存体力 或在迎战北马里亚纳群岛比赛中取胜收获自信",
+      "link": "http://baijiahao.baidu.com/s?id=1842482941389625643&wfr=spider&for=pc",
+      "time": "9月6日 12:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "2026亚足联U23亚洲杯预选赛第二轮 北马里亚纳群岛队 VS 中国队",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hhz6",
+      "time": "9月5日 16:32",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 00:03:16"
+}

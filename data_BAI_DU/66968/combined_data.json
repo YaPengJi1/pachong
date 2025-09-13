@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:52:25"
+  },
+  "core_event": {
+    "core_event_name": "美军袭击委内瑞拉",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:51:59"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普:美军袭击了委内瑞拉运毒船,干掉11人",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7566617020827868020",
+      "time": "昨天 13:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美军打响第一枪,猛烈扫射摧毁船只,委内瑞拉亮“中国王牌”迎战",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13573774216900049496",
+      "time": "9月7日 15:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美军扫射11人引爆危机，委内瑞拉亮出中国导弹反制",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=14077062547710783985",
+      "time": "9月6日 18:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普炫耀美军在加勒比海真实打死11人",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpkany3149589.d.html",
+      "time": "9月5日 00:22",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "特朗普:美军袭击了委内瑞拉运毒船,干掉11人",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7566617020827868020",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:52:15",
+      "event_time": "昨天 13:12"
+    },
+    {
+      "event_title": "美军打响第一枪,猛烈扫射摧毁船只,委内瑞拉亮“中国王牌”迎战",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=13573774216900049496",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:52:17",
+      "event_time": "9月7日 15:28"
+    },
+    {
+      "event_title": "美军扫射11人引爆危机，委内瑞拉亮出中国导弹反制",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=14077062547710783985",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:52:19",
+      "event_time": "9月6日 18:05"
+    },
+    {
+      "event_title": "特朗普炫耀美军在加勒比海真实打死11人",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.cn/2025-09-05/detail-infpkany3149589.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:52:21",
+      "event_time": "9月5日 00:22"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 10:52:14",
+    "level2_scrape_time": "2025-09-12 10:52:21"
+  }
+}

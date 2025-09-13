@@ -1,0 +1,72 @@
+{
+  "core_event_name": "特朗普突袭韩国企业抓人事件",
+  "comments": [
+    {
+      "event_title": "韩企遭突袭执法，美国营商环境再受质疑",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842791921432776668&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:42:58",
+      "event_time": "9月9日 20:57"
+    },
+    {
+      "event_title": "韩国媒体：“抓人”事件凸显美引资环境令人担忧",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842710919580122680&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:43:14",
+      "event_time": "9月8日 23:40"
+    },
+    {
+      "event_title": "特朗普突袭韩国企业抓人内幕曝光",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=3364514068479461753",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:43:16",
+      "event_time": "9月8日 18:29"
+    },
+    {
+      "event_title": "美执法局突袭韩企，475人被捕，美韩关系受考验",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6562976294631620711",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:43:18",
+      "event_time": "9月8日 14:06"
+    },
+    {
+      "event_title": "美国 移民执法部门抓捕475人 大多来自韩国",
+      "event_id": "event_5",
+      "event_url": "http://tv.cctv.com/2025/09/06/VIDEcUQBumOdoU8lbm6aXmva250906.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:43:20",
+      "event_time": "9月6日 18:02"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 14:43:20"
+}

@@ -1,0 +1,132 @@
+{
+  "core_info": {
+    "core_event_name": "申京击败约基奇，成为欧洲杯最大惊喜",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:58:44"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "申京欧锦赛最年轻三双先生",
+      "link": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001tekc",
+      "time": "9月10日 08:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "东契奇、字母哥、申京是本届欧锦赛至今仅有的3位场均至少20+5+5球员",
+      "link": "http://sports.sina.cn/nba/other/2025-09-06/detail-infpppfh4972729.d.html",
+      "time": "9月6日 10:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "欧锦赛官推盛赞申京",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-06/doc-infpphxn1659488.shtml",
+      "time": "9月6日 09:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "欧锦赛正面击败偶像约基奇 申京告别“小约基奇”成为真正的自己",
+      "link": "http://www.163.com/dy/article/K8MJMAPN0529AQIE.html",
+      "time": "9月5日 11:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "申京完胜约基奇,拿下小组头名",
+      "link": "http://m.dongqiudi.com/article/5353692.html",
+      "time": "9月4日 12:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "小火龙超进化，申京完胜约基奇",
+      "link": "http://cj.sina.com.cn/articles/view/7880068820/1d5b04ed402001dcwq",
+      "time": "9月4日 12:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "申京欧锦赛大放异彩，力压约基奇",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17088871552575951992",
+      "time": "9月4日 11:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "欧锦赛官方晒申京霸气庆祝照:他不是小约基奇 请叫他申京爸爸",
+      "link": "http://sports.sina.cn/nba/other/2025-09-04/detail-infphutr1952790.d.html",
+      "time": "9月4日 09:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "申京17中10砍28分13板8助，约基奇16中10得22分9板4助3断",
+      "link": "http://www.dongqiudi.com/articles/5353332.html",
+      "time": "9月4日 08:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "申京在约基奇头上摘下篮板打进关键球 最后4罚全中",
+      "link": "http://sports.sina.cn/nba/other/2025-09-04/detail-infphutn7017656.d.html",
+      "time": "9月4日 08:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "申京:约基奇是当世最佳球员 战胜他给了我额外的动力",
+      "link": "http://baijiahao.baidu.com/s?id=1842290712083073131&wfr=spider&for=pc",
+      "time": "9月4日 08:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "vs约基奇砍28+13+8!申京小组赛场均轰21.6+9.6+6.8 命中率65.6%",
+      "link": "http://baijiahao.baidu.com/s?id=1842288071181848201&wfr=spider&for=pc",
+      "time": "9月4日 07:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "大小约基奇对决!申京完胜约老师,火箭送走杰伦格林是对的",
+      "link": "http://www.163.com/dy/article/K8JIJPA105566S2A.html",
+      "time": "9月4日 07:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "申京都欧洲杯的最大惊喜",
+      "link": "http://k.sina.com.cn/article_7880068727_1d5b04e7702002eb4c.html",
+      "time": "9月3日 16:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "申京领跑欧洲杯MVP奖项的球迷投票",
+      "link": "http://baijiahao.baidu.com/s?id=1842133930480680608&wfr=spider&for=pc",
+      "time": "9月2日 14:48",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 15,
+  "scrape_time": "2025-09-12 20:58:59"
+}

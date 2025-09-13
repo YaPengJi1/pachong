@@ -1,0 +1,59 @@
+{
+  "core_event_name": "阿尔卡拉斯首胜德约科维奇",
+  "comments": [
+    {
+      "event_title": "德约科维奇再度四强上步",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842490737759372081&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "星北醉6",
+      "comment_time": "09-06 15:28",
+      "comment_content": "德约科维奇这场虽败犹荣，38岁创纪录进四强。体能不足但精神可嘉，期待他继续拼搏。",
+      "user_location": "山东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:24:24",
+      "event_time": "9月6日 13:21"
+    },
+    {
+      "event_title": "阿尔卡拉斯硬地赛场首胜德约科维奇",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8OO08RB05539E3U.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:24:26",
+      "event_time": "9月6日 07:35"
+    },
+    {
+      "event_title": "阿尔卡拉斯横扫德约，超1700万奖金",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4723402873780457264",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:24:28",
+      "event_time": "9月6日 06:05"
+    },
+    {
+      "event_title": "德约科维奇与阿尔卡拉斯再度对决",
+      "event_id": "event_4",
+      "event_url": "http://www.sohu.com/a/931446586_122001004",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:24:30",
+      "event_time": "9月3日 12:26"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 20:24:30"
+}

@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "女子遭前夫家暴致死案",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:21:50"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "警方通报“女子遭殴打经抢救无效死亡”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8274268493542862166",
+      "time": "9月8日 20:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "女子被前夫家暴致死",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13343767201902687925",
+      "time": "9月8日 15:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "警方通报女子遭前夫殴打致死案，前夫已被批捕",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9288442911025545606",
+      "time": "9月8日 12:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "女子被前夫殴打致死,离婚证照片触目惊心",
+      "link": "http://cj.sina.com.cn/articles/view/1154814715/44d512fb04001do20",
+      "time": "9月8日 10:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "43岁女子被前夫打进ICU后死亡",
+      "link": "http://baijiahao.baidu.com/s?id=1842608451341616940&wfr=spider&for=pc",
+      "time": "9月7日 20:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "辽宁警方通报“女子遭前夫殴打致死”",
+      "link": "http://baijiahao.baidu.com/s?id=1842647437511390429&wfr=spider&for=pc",
+      "time": "9月7日 20:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "警方通报女子遭前夫殴打后死亡",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12636097277923245974",
+      "time": "9月7日 19:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "张某萍抢救无效死亡 前夫被刑拘",
+      "link": "http://baijiahao.baidu.com/s?id=1842601592129427185&wfr=spider&for=pc",
+      "time": "9月7日 17:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "辽宁女子遭前夫殴打进ICU后死亡",
+      "link": "http://baijiahao.baidu.com/s?id=1842613275778376661&wfr=spider&for=pc",
+      "time": "9月7日 17:03",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 10:22:04"
+}

@@ -1,0 +1,46 @@
+{
+  "core_event_name": "广东男篮新赛季阵容确定",
+  "comments": [
+    {
+      "event_title": "广东全运会阵容确定，辽宁签21+11新星，上海接触欧锦赛28分外援",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8I19MMM05528SBU.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:25:12",
+      "event_time": "9月3日 17:04"
+    },
+    {
+      "event_title": "广东男篮注册球员更新",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=15176679770360450404",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:25:14",
+      "event_time": "8月31日 21:00"
+    },
+    {
+      "event_title": "广东男篮更新注册名单，核心阵容清晰",
+      "event_id": "event_3",
+      "event_url": "http://k.sina.com.cn/article_1340604587_4fe800ab001016ec6.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:25:16",
+      "event_time": "8月31日 15:30"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 22:25:16"
+}

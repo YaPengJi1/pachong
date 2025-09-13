@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "《空洞骑士:丝之歌》上线被喷爆",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:55:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "丝之歌上线引发商店崩溃,Steam和Switch都遭殃",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8197138255897737019",
+      "time": "9月9日 23:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "前作卖了1500W的游戏 《空洞骑士:丝之歌》上线就被喷爆",
+      "link": "http://news.17173.com/content/09092025/130607194.shtml",
+      "time": "9月9日 13:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "《空洞骑士:丝之歌》Steam 国区好评率跌破 50%",
+      "link": "http://baijiahao.baidu.com/s?id=1842496536756093764&wfr=spider&for=pc",
+      "time": "9月6日 14:38",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 10:55:44"
+}

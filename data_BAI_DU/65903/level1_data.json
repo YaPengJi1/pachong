@@ -1,0 +1,100 @@
+{
+  "core_info": {
+    "core_event_name": "萨巴伦卡卫冕美网冠军",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:20:48"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "郑钦文伤缺美网跌至第9",
+      "link": "http://news.sina.com.cn/zx/2025-09-09/doc-infpwksp3730393.shtml",
+      "time": "9月9日 12:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美网决赛2-0萨巴伦卡再次夺冠",
+      "link": "http://news.sohu.com/a/932747113_121142444",
+      "time": "9月8日 07:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "萨巴伦卡用卫冕为第一正名",
+      "link": "http://baijiahao.baidu.com/s?id=1842597077533212106&wfr=spider&for=pc",
+      "time": "9月7日 16:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "萨巴伦卡卫冕美网冠军",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9622362996604658932",
+      "time": "9月7日 16:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美网:萨巴伦卡获得女单冠军",
+      "link": "http://news.cnhubei.com/content/2025-09/07/content_19480842.html",
+      "time": "9月7日 11:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "萨巴伦卡美网卫冕成功，奖金冠军和100胜全到手",
+      "link": "http://baijiahao.baidu.com/s?id=1842571019303167941&wfr=spider&for=pc",
+      "time": "9月7日 10:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "萨巴伦卡大满贯100胜,美网卫冕狂揽500万美元",
+      "link": "http://baijiahao.baidu.com/s?id=1842570155500470769&wfr=spider&for=pc",
+      "time": "9月7日 10:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "萨巴伦卡击败阿尼西莫娃卫冕女单冠军",
+      "link": "http://baijiahao.baidu.com/s?id=1842569297478061118&wfr=spider&for=pc",
+      "time": "9月7日 10:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "萨巴伦卡卫冕美网女单冠军",
+      "link": "http://www.titan24.com/literalLive/2025/09/07/568151/os_quick.html",
+      "time": "9月7日 09:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "萨巴伦卡美网卫冕解锁一系列新成就",
+      "link": "http://baijiahao.baidu.com/s?id=1842559550107281764&wfr=spider&for=pc",
+      "time": "9月7日 07:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "萨巴伦卡成功卫冕美网女单冠军",
+      "link": "http://m.dongqiudi.com/article/5358701.html",
+      "time": "9月7日 05:55",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 11,
+  "scrape_time": "2025-09-12 14:21:03"
+}

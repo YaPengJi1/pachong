@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "男篮欧锦赛四强出炉",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:16:02"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "欧锦赛四强三个小组第一，法国被格鲁吉亚淘汰",
+      "link": "http://sports.sina.cn/nba/other/2025-09-11/detail-infqawwh6821303.d.html",
+      "time": "昨天 11:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "欧锦赛Day15赛果:芬兰三分淹没格鲁吉亚 德国末节逆转斯洛文尼亚",
+      "link": "http://www.163.com/dy/article/K95UVGBL0529AQIE.html",
+      "time": "昨天 10:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "男篮欧锦赛四强出炉:土耳其希腊相遇,德国芬兰对决",
+      "link": "http://www.163.com/dy/article/K95Q7HE80549BAP0.html",
+      "time": "昨天 09:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "欧锦赛四强出炉：德国逆转东契奇39分神迹晋级四强，芬兰轻取黑马格鲁吉亚",
+      "link": "http://new.qq.com/rain/a/20250911A01QYV00",
+      "time": "昨天 08:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "字母哥轰29分挺进四强",
+      "link": "http://baijiahao.baidu.com/s?id=1842843579258846341&wfr=spider&for=pc",
+      "time": "9月10日 10:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "19分12板10助,申京创造历史!火箭官方直呼统治 队友:已超恩比德",
+      "link": "http://baijiahao.baidu.com/s?id=1842837456650295175&wfr=spider&for=pc",
+      "time": "9月10日 09:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "奥运会亚军季军都被淘汰!欧锦赛8强出炉,塞尔维亚法国双双出局",
+      "link": "http://baijiahao.baidu.com/s?id=1842665028168496345&wfr=spider&for=pc",
+      "time": "9月8日 11:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "欧锦赛八强出炉:德国斯洛文尼亚将对决,塞尔维亚法国出局",
+      "link": "http://www.dongqiudi.com/articles/5360540.html",
+      "time": "9月8日 06:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "男篮欧锦赛一夜四队晋级8强",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16599930194430328019",
+      "time": "9月7日 23:22",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 10:16:16"
+}

@@ -1,0 +1,111 @@
+{
+  "core_event_name": "苹果17系列新品发布会",
+  "comments": [
+    {
+      "event_title": "iPhone17系列的下一代,可能是大改款",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K93GGKFF0519EF7K.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:01:34",
+      "event_time": "9月10日 11:54"
+    },
+    {
+      "event_title": "苹果发布iPhone 17系列",
+      "event_id": "event_2",
+      "event_url": "http://weibo.com/7416959170/Q3TcLrYNY",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:01:36",
+      "event_time": "9月10日 10:18"
+    },
+    {
+      "event_title": "明天凌晨1点,苹果iPhone 17将发布,有“重大改版”",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.cn/2025-09-09/detail-infpxfwc3405705.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:01:38",
+      "event_time": "9月9日 22:03"
+    },
+    {
+      "event_title": "苹果2025秋季新品发布会明日凌晨开启,iPhone 17系列及多款新品将亮相",
+      "event_id": "event_4",
+      "event_url": "http://mobile.zol.com.cn/1044/10445195.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:01:40",
+      "event_time": "9月9日 20:00"
+    },
+    {
+      "event_title": "苹果年度盛会:iPhone 17 与新款智能手表发布会",
+      "event_id": "event_5",
+      "event_url": "http://weibo.com/7943876498/Q3MDQcymI",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:01:42",
+      "event_time": "9月9日 17:35"
+    },
+    {
+      "event_title": "苹果iPhone17即将发布,阿联酋售价预测",
+      "event_id": "event_6",
+      "event_url": "http://www.sohu.com/a/933290464_121124435",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:01:44",
+      "event_time": "9月9日 16:40"
+    },
+    {
+      "event_title": "iPhone 17即将发布,苹果还会带来哪些惊喜产品?",
+      "event_id": "event_7",
+      "event_url": "http://www.sohu.com/a/933278245_122004016",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:01:46",
+      "event_time": "9月9日 16:15"
+    },
+    {
+      "event_title": "苹果发布会将推出超8款新品:iPhone 17大改 还有这些",
+      "event_id": "event_8",
+      "event_url": "http://finance.sina.com.cn/roll/2025-09-08/doc-infpumzh9649212.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:01:48",
+      "event_time": "9月8日 13:22"
+    }
+  ],
+  "total_comments": 8,
+  "scrape_time": "2025-09-12 11:01:48"
+}

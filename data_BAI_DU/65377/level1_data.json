@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "日本首席谈判代表赤泽亮正推动美日贸易协议",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:05:54"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美国总统已发布关于汽车关税的行政命令",
+      "link": "http://baijiahao.baidu.com/s?id=1842496699586761171&wfr=spider&for=pc",
+      "time": "9月6日 14:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "日本政府同意向美国投资5500亿美元 深化经贸合作",
+      "link": "http://news.china.com/socialgd/10000169/20250905/48793770.html",
+      "time": "9月5日 14:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "日美贸易协议联合声明:日本的承诺包括探索新的阿拉斯加液化天然气出口",
+      "link": "http://baijiahao.baidu.com/s?id=1842399494538694958&wfr=spider&for=pc",
+      "time": "9月5日 13:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美日联合声明:确保日本芯片、药品享受最低关税税率。",
+      "link": "http://finance.sina.cn/7x24/2025-09-05/detail-infpmkhp7817656.d.html",
+      "time": "9月5日 12:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "日本对美国的投资协议将利好双方",
+      "link": "http://baijiahao.baidu.com/s?id=1842388891606655068&wfr=spider&for=pc",
+      "time": "9月5日 10:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "日本首席贸易谈判代表赤泽亮正:将通过各种外交渠道讨论特朗普可能的访问事宜",
+      "link": "http://finance.sina.cn/7x24/2025-09-05/detail-infpkxst7954849.d.html",
+      "time": "9月5日 08:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "日本首席贸易谈判代表赤泽亮正:将继续推动相关待遇事宜。",
+      "link": "http://finance.sina.cn/7x24/2025-09-05/detail-infpkxst7952747.d.html",
+      "time": "9月5日 08:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "日本首席贸易谈判代表赤泽亮正:修订后的行政命令未提及药品和芯片的最惠国待遇",
+      "link": "http://finance.sina.cn/7x24/2025-09-05/detail-infpkxsq2686642.d.html",
+      "time": "9月5日 08:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "日本经济再生大臣赤泽亮正:已签署日本投资方案备忘录,将忠实、迅速",
+      "link": "http://baijiahao.baidu.com/s?id=1842380774783493353&wfr=spider&for=pc",
+      "time": "9月5日 08:07",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 23:06:08"
+}

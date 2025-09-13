@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:22:22"
+  },
+  "core_event": {
+    "core_event_name": "意大利无缘世界杯，挪威晋级",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:21:56"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "意大利连续3届无缘世界杯，沦为三流",
+      "link": "http://www.163.com/dy/article/K94PCSS005497GLB.html",
+      "time": "9月10日 23:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "意大利上次踢世界杯淘汰赛是2006年决赛",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hp5w",
+      "time": "9月10日 17:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "挪威11:1摩尔多瓦，意大利首回合赢摩尔多瓦才2个球",
+      "link": "http://weibo.com/6153327274/Q3Vju1lRp",
+      "time": "9月10日 15:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "哈兰德闪耀全场，挪威11-1大胜创历史，意大利难了",
+      "link": "http://www.163.com/dy/article/K93J4QV805562G28.html",
+      "time": "9月10日 12:39",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "意大利连续3届无缘世界杯，沦为三流",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K94PCSS005497GLB.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:22:12",
+      "event_time": "9月10日 23:48"
+    },
+    {
+      "event_title": "意大利上次踢世界杯淘汰赛是2006年决赛",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hp5w",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:22:14",
+      "event_time": "9月10日 17:25"
+    },
+    {
+      "event_title": "挪威11:1摩尔多瓦，意大利首回合赢摩尔多瓦才2个球",
+      "event_id": "event_3",
+      "event_url": "http://weibo.com/6153327274/Q3Vju1lRp",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:22:16",
+      "event_time": "9月10日 15:40"
+    },
+    {
+      "event_title": "哈兰德闪耀全场，挪威11-1大胜创历史，意大利难了",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K93J4QV805562G28.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:22:18",
+      "event_time": "9月10日 12:39"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 11:22:10",
+    "level2_scrape_time": "2025-09-12 11:22:18"
+  }
+}

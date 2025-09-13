@@ -1,0 +1,46 @@
+{
+  "core_event_name": "国足进军U23亚洲杯",
+  "comments": [
+    {
+      "event_title": "国足0-0澳大利亚进军U23亚洲杯",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/7880068820/1d5b04ed402001dgrg",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:43:45",
+      "event_time": "9月9日 22:36"
+    },
+    {
+      "event_title": "亚预赛中国队出线多了两个对手",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K91PRO3B05497GLB.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:43:47",
+      "event_time": "9月9日 19:58"
+    },
+    {
+      "event_title": "U23亚洲杯曝出大冷门，中国男足暂列小组第二",
+      "event_id": "event_3",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4977926174326998312",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:43:49",
+      "event_time": "9月4日 00:39"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 10:43:49"
+}

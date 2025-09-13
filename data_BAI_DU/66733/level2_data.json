@@ -1,0 +1,69 @@
+{
+  "core_event_name": "小米16系列配置曝光",
+  "comments": [
+    {
+      "event_title": "小米16,真机现身!",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8V0V4SC05118UEG.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:16:46",
+      "event_time": "9月8日 18:05"
+    },
+    {
+      "event_title": "神秘手机渲染图曝光:大 R 角、窄边框、小打孔,预估为小米 16",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/tech/2025-09-06/detail-infpppfk9902545.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:16:48",
+      "event_time": "9月6日 10:44"
+    },
+    {
+      "event_title": "小米16系列配置曝光",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842327409783904969&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "刹那3319",
+      "comment_time": "09-04 21:26",
+      "comment_content": "照相什么的我不在意 玩游戏看视频什么的是我关注的",
+      "user_location": "辽宁",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 10:17:06"
+    },
+    {
+      "event_title": "小米16系列配置曝光",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842327409783904969&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "London的野蛮人",
+      "comment_time": "09-04 18:07",
+      "comment_content": "继续加油，期待更多🌼",
+      "user_location": "陕西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:17:06"
+    },
+    {
+      "event_title": "小米16系列配置曝光",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842327409783904969&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "职业幽魂玩家",
+      "comment_time": "09-08 08:42",
+      "comment_content": "小屏的神！！！",
+      "user_location": "重庆",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:17:06"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 10:17:06"
+}

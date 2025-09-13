@@ -1,0 +1,542 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 22:55:23"
+  },
+  "core_event": {
+    "core_event_name": "法国队官宣变阵，登贝莱受伤离场",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:52:38"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "德尚:我们始终认真对待伤病问题,但球员上场后不可能零风险",
+      "link": "http://m.dongqiudi.com/article/5359434.html",
+      "time": "9月7日 18:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "金球奖将在9月22日颁布 登贝莱受伤不影响评选",
+      "link": "http://www.163.com/dy/article/K8S6TCEV0529DS7F.html",
+      "time": "9月7日 15:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "大巴黎损兵折将，俱乐部与法国队矛盾激化",
+      "link": "http://baijiahao.baidu.com/s?id=1842607898652113379&wfr=spider&for=pc",
+      "time": "9月7日 08:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "登贝莱预计伤缺大约6周,杜埃预计伤缺4周左右",
+      "link": "http://m.dongqiudi.com/article/5358621.html",
+      "time": "9月7日 03:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "登贝莱预计伤缺6-8周,缺阵欧冠对阵巴萨",
+      "link": "http://baijiahao.baidu.com/s?id=1842541310356450293&wfr=spider&for=pc",
+      "time": "9月7日 02:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "队报:登贝莱预计伤缺6-8周,将缺席与马赛、巴萨等比赛",
+      "link": "http://m.dongqiudi.com/article/5358561.html",
+      "time": "9月7日 02:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "法国队官方:登贝莱右腿筋撕裂&杜埃比目鱼肌撕裂,均已返回巴黎",
+      "link": "http://baijiahao.baidu.com/s?id=1842535952190723027&wfr=spider&for=pc",
+      "time": "9月7日 01:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "登贝莱和杜埃因伤退出,法国队补招科曼",
+      "link": "http://www.dongqiudi.com/articles/5358472.html",
+      "time": "9月7日 01:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "队报&RMC:登贝莱伤缺6周,杜埃伤缺3-4周",
+      "link": "http://m.dongqiudi.com/article/5358195.html",
+      "time": "9月6日 22:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "法国队2比0战胜乌克兰，登贝莱受伤离场",
+      "link": "http://weibo.com/3798055657/Q3jVLDEIE",
+      "time": "9月6日 16:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "德尚确认登贝莱右腿受伤提前返巴黎 杜埃留队",
+      "link": "http://sports.sina.com.cn/g/2025-09-06/doc-infpptph1451324.shtml",
+      "time": "9月6日 15:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "巴黎一夜伤仨:杜埃、登贝莱、甚至主帅恩里克也伤了",
+      "link": "http://m.dongqiudi.com/article/5357079.html",
+      "time": "9月6日 11:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "登贝莱因右腿腘绳肌不适将提前返回巴黎圣日耳曼",
+      "link": "http://weibo.com/6979466448/Q3hK0088d",
+      "time": "9月6日 10:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "登贝莱国家队替补受伤 大巴黎赛前已提醒但德尚未理会",
+      "link": "http://baijiahao.baidu.com/s?id=1842480903378477331&wfr=spider&for=pc",
+      "time": "9月6日 10:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "法国赢了巴黎输了 一天将帅全伤简直气疯",
+      "link": "http://www.titan24.com/publish/app/data/2025/09/06/568080/os_news.html",
+      "time": "9月6日 10:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "欧冠冠军震怒:登贝莱被法国队“用废”+又伤了 主帅骑车离奇受伤",
+      "link": "http://cj.sina.com.cn/articles/view/7880068820/1d5b04ed402001de5a",
+      "time": "9月6日 07:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "埃基蒂克完成法国国家队首秀",
+      "link": "http://www.dongqiudi.com/articles/5356777.html",
+      "time": "9月6日 05:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "世预赛-法国2-0客胜乌克兰开门红 姆巴佩破门登贝莱替补+伤退",
+      "link": "http://baijiahao.baidu.com/s?id=1842462044241021764&wfr=spider&for=pc",
+      "time": "9月6日 04:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "乌克兰0-2法国,姆巴佩、奥利塞建功,登贝莱伤退",
+      "link": "http://m.dongqiudi.com/article/5356722.html",
+      "time": "9月6日 04:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "姆巴佩成为法国队史第二射手，仅次于吉鲁",
+      "link": "http://www.dongqiudi.com/articles/5356710.html",
+      "time": "9月6日 04:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_21",
+      "title": "登贝莱未参加法国队最近一次训练,对乌克兰不会首发",
+      "link": "http://www.dongqiudi.com/articles/5353243.html",
+      "time": "9月4日 06:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_22",
+      "title": "金球巨星缺席训练，法国队官宣变阵，解决德尚难题，姆巴佩再上位",
+      "link": "http://cj.sina.com.cn/articles/view/2295178185/88cda3c900101fsuk",
+      "time": "9月3日 14:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_23",
+      "title": "巴黎前锋登贝莱因大腿后肌不适缺席法国集训",
+      "link": "http://www.dongqiudi.com/articles/5351762.html",
+      "time": "9月3日 08:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_24",
+      "title": "法国队伤情总览:萨利巴&谢尔基退出,埃基蒂克&帕瓦尔进入",
+      "link": "http://m.dongqiudi.com/article/5347186.html",
+      "time": "9月1日 09:32",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "德尚:我们始终认真对待伤病问题,但球员上场后不可能零风险",
+      "event_id": "event_1",
+      "event_url": "http://m.dongqiudi.com/article/5359434.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:52:55",
+      "event_time": "9月7日 18:01"
+    },
+    {
+      "event_title": "金球奖将在9月22日颁布 登贝莱受伤不影响评选",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8S6TCEV0529DS7F.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:52:57",
+      "event_time": "9月7日 15:51"
+    },
+    {
+      "event_title": "大巴黎损兵折将，俱乐部与法国队矛盾激化",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842607898652113379&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "小卡门露西亚",
+      "comment_time": "09-07 21:07",
+      "comment_content": "德尚有利物浦埃基蒂克当替补！水晶宫让马特塔不征招！把老将偏要弄伤了就心死了",
+      "user_location": "上海",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 22:53:13",
+      "event_time": "9月7日 08:23"
+    },
+    {
+      "event_title": "大巴黎损兵折将，俱乐部与法国队矛盾激化",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842607898652113379&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "书画艺术酱",
+      "comment_time": "09-07 20:37",
+      "comment_content": "大巴黎真关心球员健康，推动医疗协作值得点赞。",
+      "user_location": "天津",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:53:13",
+      "event_time": "9月7日 08:23"
+    },
+    {
+      "event_title": "登贝莱预计伤缺大约6周,杜埃预计伤缺4周左右",
+      "event_id": "event_4",
+      "event_url": "http://m.dongqiudi.com/article/5358621.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:53:15",
+      "event_time": "9月7日 03:30"
+    },
+    {
+      "event_title": "登贝莱预计伤缺6-8周,缺阵欧冠对阵巴萨",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842541310356450293&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "邪酥昂趴Cxc71",
+      "comment_time": "09-10 11:14",
+      "comment_content": "登贝莱受伤真可惜，祝他早日康复。巴黎队少了主力，关键战加油啊。",
+      "user_location": "四川",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:53:31",
+      "event_time": "9月7日 02:11"
+    },
+    {
+      "event_title": "队报:登贝莱预计伤缺6-8周,将缺席与马赛、巴萨等比赛",
+      "event_id": "event_6",
+      "event_url": "http://m.dongqiudi.com/article/5358561.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:53:33",
+      "event_time": "9月7日 02:06"
+    },
+    {
+      "event_title": "法国队官方:登贝莱右腿筋撕裂&杜埃比目鱼肌撕裂,均已返回巴黎",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842535952190723027&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "课间爱听音乐",
+      "comment_time": "09-07 01:24",
+      "comment_content": "球员受伤真可惜，祝早日恢复健康，巴黎好好照顾他们。",
+      "user_location": "河北",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:53:49",
+      "event_time": "9月7日 01:19"
+    },
+    {
+      "event_title": "登贝莱和杜埃因伤退出,法国队补招科曼",
+      "event_id": "event_8",
+      "event_url": "http://www.dongqiudi.com/articles/5358472.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:53:51",
+      "event_time": "9月7日 01:12"
+    },
+    {
+      "event_title": "队报&RMC:登贝莱伤缺6周,杜埃伤缺3-4周",
+      "event_id": "event_9",
+      "event_url": "http://m.dongqiudi.com/article/5358195.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:53:53",
+      "event_time": "9月6日 22:50"
+    },
+    {
+      "event_title": "法国队2比0战胜乌克兰，登贝莱受伤离场",
+      "event_id": "event_10",
+      "event_url": "http://weibo.com/3798055657/Q3jVLDEIE",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:53:55",
+      "event_time": "9月6日 16:30"
+    },
+    {
+      "event_title": "德尚确认登贝莱右腿受伤提前返巴黎 杜埃留队",
+      "event_id": "event_11",
+      "event_url": "http://sports.sina.com.cn/g/2025-09-06/doc-infpptph1451324.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:53:58",
+      "event_time": "9月6日 15:06"
+    },
+    {
+      "event_title": "巴黎一夜伤仨:杜埃、登贝莱、甚至主帅恩里克也伤了",
+      "event_id": "event_12",
+      "event_url": "http://m.dongqiudi.com/article/5357079.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:54:00",
+      "event_time": "9月6日 11:19"
+    },
+    {
+      "event_title": "登贝莱因右腿腘绳肌不适将提前返回巴黎圣日耳曼",
+      "event_id": "event_13",
+      "event_url": "http://weibo.com/6979466448/Q3hK0088d",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:54:02",
+      "event_time": "9月6日 10:55"
+    },
+    {
+      "event_title": "登贝莱国家队替补受伤 大巴黎赛前已提醒但德尚未理会",
+      "event_id": "event_14",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842480903378477331&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:54:18",
+      "event_time": "9月6日 10:45"
+    },
+    {
+      "event_title": "法国赢了巴黎输了 一天将帅全伤简直气疯",
+      "event_id": "event_15",
+      "event_url": "http://www.titan24.com/publish/app/data/2025/09/06/568080/os_news.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:54:20",
+      "event_time": "9月6日 10:02"
+    },
+    {
+      "event_title": "欧冠冠军震怒:登贝莱被法国队“用废”+又伤了 主帅骑车离奇受伤",
+      "event_id": "event_16",
+      "event_url": "http://cj.sina.com.cn/articles/view/7880068820/1d5b04ed402001de5a",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:54:22",
+      "event_time": "9月6日 07:44"
+    },
+    {
+      "event_title": "埃基蒂克完成法国国家队首秀",
+      "event_id": "event_17",
+      "event_url": "http://www.dongqiudi.com/articles/5356777.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:54:24",
+      "event_time": "9月6日 05:36"
+    },
+    {
+      "event_title": "世预赛-法国2-0客胜乌克兰开门红 姆巴佩破门登贝莱替补+伤退",
+      "event_id": "event_18",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842462044241021764&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "Boho设计师",
+      "comment_time": "09-06 05:50",
+      "comment_content": "法国客场拿下开门红，姆巴佩这球进得真漂亮，开局顺利。",
+      "user_location": "河南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:55:07",
+      "event_time": "9月6日 04:36"
+    },
+    {
+      "event_title": "乌克兰0-2法国,姆巴佩、奥利塞建功,登贝莱伤退",
+      "event_id": "event_19",
+      "event_url": "http://m.dongqiudi.com/article/5356722.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:55:09",
+      "event_time": "9月6日 04:36"
+    },
+    {
+      "event_title": "姆巴佩成为法国队史第二射手，仅次于吉鲁",
+      "event_id": "event_20",
+      "event_url": "http://www.dongqiudi.com/articles/5356710.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:55:11",
+      "event_time": "9月6日 04:33"
+    },
+    {
+      "event_title": "登贝莱未参加法国队最近一次训练,对乌克兰不会首发",
+      "event_id": "event_21",
+      "event_url": "http://www.dongqiudi.com/articles/5353243.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:55:13",
+      "event_time": "9月4日 06:33"
+    },
+    {
+      "event_title": "金球巨星缺席训练，法国队官宣变阵，解决德尚难题，姆巴佩再上位",
+      "event_id": "event_22",
+      "event_url": "http://cj.sina.com.cn/articles/view/2295178185/88cda3c900101fsuk",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:55:15",
+      "event_time": "9月3日 14:47"
+    },
+    {
+      "event_title": "巴黎前锋登贝莱因大腿后肌不适缺席法国集训",
+      "event_id": "event_23",
+      "event_url": "http://www.dongqiudi.com/articles/5351762.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:55:17",
+      "event_time": "9月3日 08:55"
+    },
+    {
+      "event_title": "法国队伤情总览:萨利巴&谢尔基退出,埃基蒂克&帕瓦尔进入",
+      "event_id": "event_24",
+      "event_url": "http://m.dongqiudi.com/article/5347186.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:55:19",
+      "event_time": "9月1日 09:32"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 24,
+    "total_comments": 25,
+    "events_with_comments": 24,
+    "level1_scrape_time": "2025-09-12 22:52:54",
+    "level2_scrape_time": "2025-09-12 22:55:19"
+  }
+}

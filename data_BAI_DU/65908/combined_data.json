@@ -1,0 +1,269 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:28:01"
+  },
+  "core_event": {
+    "core_event_name": "华为MatePad Mini发布及价格公布",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:26:51"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "华为发布首款8.8英寸旗舰小平板",
+      "link": "http://www.163.com/dy/article/K8MQAKN80511DP7O.html",
+      "time": "9月5日 13:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "华为阅读+华为MatePad Mini小平板,读书智能体验拉满!",
+      "link": "http://pad.zol.com.cn/1041/10415069.html",
+      "time": "9月5日 10:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "华为MatePad Mini 8.8英寸正式发布",
+      "link": "http://www.cinic.org.cn/zgzz/qy/1602970.html",
+      "time": "9月5日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "华为平板推出全新“Mini”系列",
+      "link": "http://www.cnhubei.com/content/2025-09/04/content_19474495.html",
+      "time": "9月4日 20:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "华为稳坐国内平板第一:MatePad mini今日发布",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infpimri1786050.d.html",
+      "time": "9月4日 16:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "华为MatePad Mini价格公布 今日开启预售",
+      "link": "http://baijiahao.baidu.com/s?id=1842321570751877447&wfr=spider&for=pc",
+      "time": "9月4日 16:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "8.8英寸“大手机”!华为MatePad mini全系支持插卡",
+      "link": "http://news.pconline.com.cn/1974/19744312.html",
+      "time": "9月4日 16:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "华为MatePad Mini来袭，挑战iPad Mini",
+      "link": "http://weibo.com/6456779567/Q30Sjqb4V",
+      "time": "9月4日 15:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "华为MatePad Mini平板亮相,配置曝光引发热议",
+      "link": "http://news.zol.com.cn/1041/10414024.html",
+      "time": "9月4日 13:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "华为MatePad Mini即将登场,小尺寸平板市场格局生变!",
+      "link": "http://baijiahao.baidu.com/s?id=1842212753411564546&wfr=spider&for=pc",
+      "time": "9月3日 11:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "华为MatePad Mini小平板将于9月4日正式发布，真机现已曝光",
+      "link": "http://www.gfan.com/info/593310.html",
+      "time": "9月2日 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "华为发布首款8.8英寸旗舰小平板",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8MQAKN80511DP7O.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:27:07",
+      "event_time": "9月5日 13:35"
+    },
+    {
+      "event_title": "华为阅读+华为MatePad Mini小平板,读书智能体验拉满!",
+      "event_id": "event_2",
+      "event_url": "http://pad.zol.com.cn/1041/10415069.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:27:09",
+      "event_time": "9月5日 10:17"
+    },
+    {
+      "event_title": "华为MatePad Mini 8.8英寸正式发布",
+      "event_id": "event_3",
+      "event_url": "http://www.cinic.org.cn/zgzz/qy/1602970.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:27:11",
+      "event_time": "9月5日 00:00"
+    },
+    {
+      "event_title": "华为平板推出全新“Mini”系列",
+      "event_id": "event_4",
+      "event_url": "http://www.cnhubei.com/content/2025-09/04/content_19474495.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:27:13",
+      "event_time": "9月4日 20:06"
+    },
+    {
+      "event_title": "华为稳坐国内平板第一:MatePad mini今日发布",
+      "event_id": "event_5",
+      "event_url": "http://finance.sina.cn/2025-09-04/detail-infpimri1786050.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:27:15",
+      "event_time": "9月4日 16:40"
+    },
+    {
+      "event_title": "华为MatePad Mini价格公布 今日开启预售",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842321570751877447&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "骆驼不吃凤梨",
+      "comment_time": "09-04 17:47",
+      "comment_content": "这小pad看着真轻巧，装包里都没负担。随身带着随时开工，华为这波挺贴心。",
+      "user_location": "广西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:27:32",
+      "event_time": "9月4日 16:32"
+    },
+    {
+      "event_title": "华为MatePad Mini价格公布 今日开启预售",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842321570751877447&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "平淡可能才是真",
+      "comment_time": "09-04 20:18",
+      "comment_content": "价格也上去了，",
+      "user_location": "河南",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 14:27:32",
+      "event_time": "9月4日 16:32"
+    },
+    {
+      "event_title": "8.8英寸“大手机”!华为MatePad mini全系支持插卡",
+      "event_id": "event_7",
+      "event_url": "http://news.pconline.com.cn/1974/19744312.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:27:35",
+      "event_time": "9月4日 16:16"
+    },
+    {
+      "event_title": "华为MatePad Mini来袭，挑战iPad Mini",
+      "event_id": "event_8",
+      "event_url": "http://weibo.com/6456779567/Q30Sjqb4V",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:27:37",
+      "event_time": "9月4日 15:59"
+    },
+    {
+      "event_title": "华为MatePad Mini平板亮相,配置曝光引发热议",
+      "event_id": "event_9",
+      "event_url": "http://news.zol.com.cn/1041/10414024.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:27:39",
+      "event_time": "9月4日 13:20"
+    },
+    {
+      "event_title": "华为MatePad Mini即将登场,小尺寸平板市场格局生变!",
+      "event_id": "event_10",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842212753411564546&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "Annie是种植师",
+      "comment_time": "09-03 14:11",
+      "comment_content": "华为新平板登场，轻薄设计真吸引人。期待它带来市场新气象。",
+      "user_location": "江苏",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:27:55",
+      "event_time": "9月3日 11:43"
+    },
+    {
+      "event_title": "华为MatePad Mini小平板将于9月4日正式发布，真机现已曝光",
+      "event_id": "event_11",
+      "event_url": "http://www.gfan.com/info/593310.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:27:57",
+      "event_time": "9月2日 00:00"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 11,
+    "total_comments": 12,
+    "events_with_comments": 11,
+    "level1_scrape_time": "2025-09-12 14:27:06",
+    "level2_scrape_time": "2025-09-12 14:27:57"
+  }
+}

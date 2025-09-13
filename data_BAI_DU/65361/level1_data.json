@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "亚马尔点球制胜崛起",
+    "update_time": "更新至20250901",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:50:25"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "巴列卡诺vs巴萨比分战报",
+      "link": "http://www.qiumiwu.com/news/1771700403020",
+      "time": "9月1日 06:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "亚马尔首秀以来各项赛事6次造点",
+      "link": "http://k.sina.com.cn/article_2018499075_784fda0302002haxg.html",
+      "time": "9月1日 04:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "亚马尔:从闪电突破到点球制胜,西甲赛场的新星崛起!",
+      "link": "http://www.sohu.com/a/930545097_122001006",
+      "time": "9月1日 04:15",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 22:50:39"
+}

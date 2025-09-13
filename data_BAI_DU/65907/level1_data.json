@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "中国气象局 华西秋雨已开启",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:26:20"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "华西秋雨已开启",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7039436774906828773",
+      "time": "9月6日 09:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "华西秋雨已开启 较常年偏早8天",
+      "link": "http://tv.cctv.com/2025/09/06/VIDE9WzuNSNtybbBGFN1LP2S250906.shtml",
+      "time": "9月6日 06:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "川陕等地大范围降雨持续",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8970134518696614710",
+      "time": "9月5日 20:03",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 14:26:34"
+}

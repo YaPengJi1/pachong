@@ -1,0 +1,85 @@
+{
+  "core_event_name": "顺丰控股回购股票",
+  "comments": [
+    {
+      "event_title": "顺丰控股首次回购118.5万股，启动员工持股计划",
+      "event_id": "event_1",
+      "event_url": "http://news.zol.com.cn/1041/10411038.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:04:13",
+      "event_time": "9月4日 01:42"
+    },
+    {
+      "event_title": "顺丰控股回购118.5万股",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842242742186096405&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:04:30",
+      "event_time": "9月3日 19:29"
+    },
+    {
+      "event_title": "百亿持股计划,引发顺丰控股“震荡”",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.com.cn/stock/relnews/hk/2025-09-03/doc-infpfhsm9664721.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:04:32",
+      "event_time": "9月3日 17:31"
+    },
+    {
+      "event_title": "顺丰控股股价连续3天下跌累计跌幅13.6%,农银汇理基金旗下5只基金合计持518.02万股,浮亏损失3408.57万元",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842183256794352092&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "冲浪明星Kai",
+      "comment_time": "09-03 05:23",
+      "comment_content": "顺丰这波跌，电商放缓是主因，快递量少了基本面自然弱。",
+      "user_location": "陕西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:04:48",
+      "event_time": "9月3日 03:54"
+    },
+    {
+      "event_title": "顺丰控股跌2.01%,成交额16.75亿元,主力资金净流出2.12亿元",
+      "event_id": "event_5",
+      "event_url": "http://finance.sina.cn/2025-09-02/detail-infpahpi8617210.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:04:50",
+      "event_time": "9月2日 11:02"
+    },
+    {
+      "event_title": "顺丰控股跌3.97%,成交额61.15亿元",
+      "event_id": "event_6",
+      "event_url": "http://finance.sina.cn/2025-09-01/detail-infnyqek9767456.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:04:52",
+      "event_time": "9月1日 15:31"
+    }
+  ],
+  "total_comments": 6,
+  "scrape_time": "2025-09-12 17:04:52"
+}

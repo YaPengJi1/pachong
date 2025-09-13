@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:08:14"
+  },
+  "core_event": {
+    "core_event_name": "广东队引进得分王，朱总积更是进大外援，助杜锋全力夺冠",
+    "update_time": "更新至20250901",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:07:51"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "广东男篮重磅引援接近达成",
+      "link": "http://cj.sina.com.cn/articles/view/2039811883/79950f2b00101cbos",
+      "time": "9月1日 16:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "广东队已经拿下萨姆纳，杜锋得到冲冠豪阵",
+      "link": "http://m.sohu.com/a/930657038_122441760",
+      "time": "9月1日 11:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "CBA得分王广东报价,朱彦西退役",
+      "link": "http://www.sohu.com/a/930519655_121501772",
+      "time": "9月1日 00:16",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "广东男篮重磅引援接近达成",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/2039811883/79950f2b00101cbos",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:08:06",
+      "event_time": "9月1日 16:34"
+    },
+    {
+      "event_title": "广东队已经拿下萨姆纳，杜锋得到冲冠豪阵",
+      "event_id": "event_2",
+      "event_url": "http://m.sohu.com/a/930657038_122441760",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:08:08",
+      "event_time": "9月1日 11:18"
+    },
+    {
+      "event_title": "CBA得分王广东报价,朱彦西退役",
+      "event_id": "event_3",
+      "event_url": "http://www.sohu.com/a/930519655_121501772",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:08:10",
+      "event_time": "9月1日 00:16"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 17:08:05",
+    "level2_scrape_time": "2025-09-12 17:08:10"
+  }
+}

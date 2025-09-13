@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "国足选帅风波",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:09:02"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "61岁前浙江主帅乔迪都急不可耐了",
+      "link": "http://www.163.com/dy/article/K8USS3DC0537B2DW.html",
+      "time": "9月8日 16:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "足协官宣再次招聘国足主帅",
+      "link": "http://news.sohu.com/a/932569943_122287319",
+      "time": "9月7日 09:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国足公开选帅:目标打进2030世界杯",
+      "link": "http://baijiahao.baidu.com/s?id=1842433972155987792&wfr=spider&for=pc",
+      "time": "9月5日 18:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "国足帅位再掀波澜!选帅背后那些不为人知的故事与数据解析",
+      "link": "http://www.sohu.com/a/932207004_121894857",
+      "time": "9月5日 16:10",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 15:09:16"
+}

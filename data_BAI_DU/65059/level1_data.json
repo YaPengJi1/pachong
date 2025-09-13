@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "刘圣书谭宁羽毛球世锦赛女双夺冠",
+    "update_time": "更新至20250902",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:39:24"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "刘圣书谭宁逆转夺冠，世锦赛女双登顶",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17573092028278171090",
+      "time": "9月2日 06:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "羽毛球世锦赛 中国队2金3银1铜收官",
+      "link": "http://tv.cctv.com/2025/09/01/VIDEX0dcsCdK07f646tYVaZ1250901.shtml",
+      "time": "9月1日 22:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "2025羽毛球世锦赛:中国队收获2金3银 石宇奇首夺世锦赛冠军 刘圣书/谭宁女双摘冠",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7566021419782237949",
+      "time": "9月1日 08:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "刘圣书谭宁夺得羽毛球世锦赛女双冠军",
+      "link": "http://sports.cctv.com/2025/08/31/ARTIfvHmDA4VWwHWm6reu8jX250831.shtml",
+      "time": "9月1日 07:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中国组合刘圣书/谭宁羽毛球世锦赛女双夺冠",
+      "link": "http://news.youth.cn/zc/202508/t20250831_16209592.htm",
+      "time": "8月31日 23:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "刘圣书/谭宁获得羽毛球世锦赛女双冠军",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2613650155828278366",
+      "time": "8月31日 23:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "刘圣书谭宁获得世锦赛女双冠军",
+      "link": "http://sports.cctv.com/2025/08/31/VIDEXGFMfCvk2qAnZb3CjIAd250831.shtml",
+      "time": "8月31日 22:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "国羽斩获2金3银，泉州选手谭宁首夺世锦赛冠军",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-12 17:39:38"
+}

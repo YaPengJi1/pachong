@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "iPhone 17系列eSIM变革",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:48:05"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国行iPhone 17 Air将首发eSIM，开启无卡时代",
+      "link": "http://baijiahao.baidu.com/s?id=1842463677298408296&wfr=spider&for=pc",
+      "time": "9月6日 06:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "新iPhone或将迈入无卡时代!iPhone 17 Air取消实体SIM卡槽",
+      "link": "http://baijiahao.baidu.com/s?id=1842411384964499936&wfr=spider&for=pc",
+      "time": "9月5日 18:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "联通突然曝光,国行 eSIM 四大要求,买 iPhone 17 建议考虑清楚",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11389531002159637475",
+      "time": "9月5日 00:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "iPhone 17系列eSIM变革",
+      "link": "http://baijiahao.baidu.com/s?id=1842197107132874448&wfr=spider&for=pc",
+      "time": "9月3日 07:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "曝iPhone 17 Air国行版或支持eSIM，标准版、Pro版和Pro Max版预计会保留实体卡槽",
+      "link": "http://finance.sina.com.cn/roll/2025-09-02/doc-infpccte0096682.shtml",
+      "time": "9月2日 18:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "更多迹象表明苹果 iPhone 17 将取消 SIM 卡槽",
+      "link": "http://baijiahao.baidu.com/s?id=1842016373477605330&wfr=spider&for=pc",
+      "time": "9月1日 07:37",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 17:48:38"
+}

@@ -1,0 +1,72 @@
+{
+  "core_event_name": "以军袭击哈马斯高级官员",
+  "comments": [
+    {
+      "event_title": "以军袭击哈马斯高级官员行动视频曝光",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842386422806283725&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:28:43",
+      "event_time": "9月5日 08:21"
+    },
+    {
+      "event_title": "胡塞武装袭击以色列机场",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842345024519935840&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "先君手手月当圆",
+      "comment_time": "09-05 06:48",
+      "comment_content": "胡塞不能再来狠点给以色列",
+      "user_location": "江苏",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:28:59",
+      "event_time": "9月4日 18:21"
+    },
+    {
+      "event_title": "胡塞武装袭击以色列机场",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842345024519935840&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "赵晓锐bNs",
+      "comment_time": "09-04 22:56",
+      "comment_content": "愿世界少些冲突，多些和平的阳光！",
+      "user_location": "广东",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:28:59",
+      "event_time": "9月4日 18:21"
+    },
+    {
+      "event_title": "胡塞武装称袭击本·古里安国际机场且以美未能拦截",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842316698291367980&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "空镜子pai",
+      "comment_time": "09-04 15:40",
+      "comment_content": "愿世界和平，携手共创美好未来！",
+      "user_location": "山西",
+      "like_count": 1,
+      "scrape_time": "2025-09-13 01:29:15",
+      "event_time": "9月4日 15:13"
+    },
+    {
+      "event_title": "以军称试图袭击胡塞武装高层",
+      "event_id": "event_4",
+      "event_url": "http://news.cnr.cn/sq/20250829/t20250829_527345692.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:29:17",
+      "event_time": "8月29日 23:10"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-13 01:29:17"
+}

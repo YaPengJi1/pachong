@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 22:11:18"
+  },
+  "core_event": {
+    "core_event_name": "多纳鲁马加盟曼城",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:10:55"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "世界杯、欧冠功勋门将加盟，曼城",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16561984059797305317",
+      "time": "9月5日 22:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "曼城即将签下多纳鲁马，埃德森将加盟费内巴切",
+      "link": "http://m.dongqiudi.com/article/5349365.html",
+      "time": "9月2日 01:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "多纳鲁马即将空降曼市",
+      "link": "http://www.sohu.com/a/930770386_121976701",
+      "time": "9月1日 16:38",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "世界杯、欧冠功勋门将加盟，曼城",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=16561984059797305317",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:11:10",
+      "event_time": "9月5日 22:46"
+    },
+    {
+      "event_title": "曼城即将签下多纳鲁马，埃德森将加盟费内巴切",
+      "event_id": "event_2",
+      "event_url": "http://m.dongqiudi.com/article/5349365.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:11:12",
+      "event_time": "9月2日 01:28"
+    },
+    {
+      "event_title": "多纳鲁马即将空降曼市",
+      "event_id": "event_3",
+      "event_url": "http://www.sohu.com/a/930770386_121976701",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:11:14",
+      "event_time": "9月1日 16:38"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 22:11:09",
+    "level2_scrape_time": "2025-09-12 22:11:14"
+  }
+}

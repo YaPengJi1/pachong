@@ -1,0 +1,59 @@
+{
+  "core_event_name": "王心凌舒淇辛芷蕾威尼斯电影节",
+  "comments": [
+    {
+      "event_title": "辛芷蕾夺得威尼斯电影节最佳女演员奖",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842561372841970637&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:38:01",
+      "event_time": "9月7日 07:48"
+    },
+    {
+      "event_title": "王心凌OST响彻威尼斯，舒淇女孩登三大影坛，世界看见华语音乐",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842528915358040929&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "希蜡帅伟",
+      "comment_time": "09-07 00:34",
+      "comment_content": "王心凌歌声穿透人心，华语音乐威尼斯绽放光彩，舒淇导演真会选歌，感动满满。",
+      "user_location": "北京",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:38:17",
+      "event_time": "9月7日 00:06"
+    },
+    {
+      "event_title": "《女孩》主创亮相威尼斯电影节Photocall",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/5573262723/p14c313d8302701h3n8",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:38:19",
+      "event_time": "9月4日 21:10"
+    },
+    {
+      "event_title": "辛芷蕾现身北京机场奔赴威尼斯电影节",
+      "event_id": "event_4",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4479623505651741674",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:38:21",
+      "event_time": "9月2日 11:38"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 14:38:21"
+}

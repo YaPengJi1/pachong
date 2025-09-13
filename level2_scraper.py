@@ -142,6 +142,11 @@ class Level2Scraper:
         """从单个URL爬取评论"""
         logger.info(f"开始爬取评论: {event_title[:30]}...")
         
+        # 检查URL是否为百度百家号页面（支持http和https）
+        if not (url.startswith('https://baijiahao.baidu.com/') or url.startswith('http://baijiahao.baidu.com/')):
+            logger.info(f"跳过非百家号页面: {url}")
+            return []
+        
         if not self.driver:
             logger.error("WebDriver未初始化，无法爬取")
             return []
@@ -464,39 +469,64 @@ class Level2Scraper:
                 
                 # 为评论添加子事件时间信息
                 event_time = event.get('time', '')
+                event_url = event.get('link', '')
                 
-                comments = self.scrape_comments_from_url(
-                    event['link'], 
-                    event['title'], 
-                    event['id']
-                )
+                # 先判断URL类型（支持http和https）
+                is_baijiahao = event_url.startswith('https://baijiahao.baidu.com/') or event_url.startswith('http://baijiahao.baidu.com/')
                 
-                # 为每条评论添加子事件时间
-                for comment in comments:
-                    comment['event_time'] = event_time
-                
-                # 若无评论，添加占位行以在表格中占据一行
-                if len(comments) == 0:
+                if is_baijiahao:
+                    # 百家号页面：尝试爬取评论
+                    comments = self.scrape_comments_from_url(
+                        event_url, 
+                        event['title'], 
+                        event['id']
+                    )
+                    
+                    # 为每条评论添加子事件时间
+                    for comment in comments:
+                        comment['event_time'] = event_time
+                    
+                    # 若无评论，添加占位行
+                    if len(comments) == 0:
+                        placeholder_comment = {
+                            'event_title': event['title'],
+                            'event_id': event['id'],
+                            'event_url': event_url,
+                            'comment_index': 0,
+                            'user_id': '',
+                            'comment_time': '',
+                            'comment_content': '无评论',
+                            'user_location': '',
+                            'like_count': 0,
+                            'scrape_time': time.strftime('%Y-%m-%d %H:%M:%S'),
+                            'event_time': event_time
+                        }
+                        self._save_single_comment(placeholder_comment)
+                else:
+                    # 非百家号页面：直接添加占位行
+                    comments = []
                     placeholder_comment = {
                         'event_title': event['title'],
                         'event_id': event['id'],
-                        'event_url': event.get('link', ''),
+                        'event_url': event_url,
                         'comment_index': 0,
                         'user_id': '',
                         'comment_time': '',
-                        'comment_content': '',
+                        'comment_content': '非百家号页面，跳过评论爬取',
                         'user_location': '',
                         'like_count': 0,
                         'scrape_time': time.strftime('%Y-%m-%d %H:%M:%S'),
                         'event_time': event_time
                     }
-                    # 直接保存占位评论，确保顺序与一级数据一致
                     self._save_single_comment(placeholder_comment)
                 
                 total_comments += len(comments)
                 
                 # 显示进度
-                print(f"✅ {i+1}/{len(sub_events_data)} - {event['title'][:30]}... - {len(comments)} 条评论")
+                if is_baijiahao:
+                    print(f"✅ {i+1}/{len(sub_events_data)} - {event['title'][:30]}... - {len(comments)} 条评论")
+                else:
+                    print(f"⏭️ {i+1}/{len(sub_events_data)} - {event['title'][:30]}... - 非百家号页面，跳过")
                 
                 # 避免请求过快
                 time.sleep(2)

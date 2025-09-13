@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:37:50"
+  },
+  "core_event": {
+    "core_event_name": "张雪峰捐款5000万支持统一",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:37:26"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "张雪峰老师称要捐款5000万元",
+      "link": "http://new.qq.com/rain/a/20250909V012G500",
+      "time": "9月9日 02:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "张雪峰老师声称要捐5000万元",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6179520583662014478",
+      "time": "9月9日 02:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "张雪峰回应承诺捐款5000万支持统一",
+      "link": "http://weibo.com/tv/show/1034:5208365396328455",
+      "time": "9月7日 22:15",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "张雪峰老师称要捐款5000万元",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250909V012G500",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:37:41",
+      "event_time": "9月9日 02:39"
+    },
+    {
+      "event_title": "张雪峰老师声称要捐5000万元",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6179520583662014478",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:37:43",
+      "event_time": "9月9日 02:31"
+    },
+    {
+      "event_title": "张雪峰回应承诺捐款5000万支持统一",
+      "event_id": "event_3",
+      "event_url": "http://weibo.com/tv/show/1034:5208365396328455",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:37:45",
+      "event_time": "9月7日 22:15"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 10:37:40",
+    "level2_scrape_time": "2025-09-12 10:37:45"
+  }
+}

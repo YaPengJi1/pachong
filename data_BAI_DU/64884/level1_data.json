@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "2025款阿维塔06上市",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:28:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "阿维塔XPECTRA概念车发布 全新车头立标",
+      "link": "http://www.pcauto.com.cn/nation/4999/49999587.html",
+      "time": "9月8日 14:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "2025慕尼黑车展:阿维塔 VISION XPECTRA全球首秀",
+      "link": "http://auto.sina.cn/newcar/x/2025-09-07/detail-infpstsc0421331.d.html",
+      "time": "9月7日 23:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "阿维塔06增程版成都车展上市,直降1万售25.49万元",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmzcy5737793.d.html",
+      "time": "9月5日 19:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "双5C超充+1250公里续航,新款阿维塔06上市",
+      "link": "http://www.pcauto.com.cn/hj/article/3049812.html",
+      "time": "9月4日 11:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "阿维塔06成为行业首个通过5倍电池新国标测试车型",
+      "link": "http://www.163.com/dy/article/K8JRURJV0552K4UG.html",
+      "time": "9月4日 10:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "20.99万-27.99万元 新款阿维塔06搭载大容量电池",
+      "link": "http://www.pcauto.com.cn/hj/article/3048763.html",
+      "time": "9月3日 15:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "2025款阿维塔06订金5000元 接受预订",
+      "link": "http://www.autohome.com.cn/dealer/202509/1414085108.html",
+      "time": "9月2日 14:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "新款阿维塔06,新增大电池增程车型",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11553566868702766659",
+      "time": "8月29日 20:45",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-12 18:29:06"
+}

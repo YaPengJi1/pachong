@@ -1,0 +1,132 @@
+{
+  "core_info": {
+    "core_event_name": "OPEC+增产预期打压国际油价",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:58:59"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "欧佩克+增产,沙特下调亚洲原油价格",
+      "link": "http://baijiahao.baidu.com/s?id=1842706893786604784&wfr=spider&for=pc",
+      "time": "9月8日 22:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "FGE主席:欧佩克+增产或低于预期 油价明年恐跌破60美元大关",
+      "link": "http://new.qq.com/rain/a/20250908A0536300",
+      "time": "9月8日 14:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "OPEC+原则上同意10月增产,国际油价下跌",
+      "link": "http://finance.sina.com.cn/stock/relnews/hk/2025-09-08/doc-infptqvr4634566.shtml",
+      "time": "9月8日 07:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "OPEC+“原则上同意”:10月扩产",
+      "link": "http://baijiahao.baidu.com/s?id=1842575084358822321&wfr=spider&for=pc",
+      "time": "9月7日 11:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "欧佩克+10月再增产，全球油市“紧平衡”面临考验",
+      "link": "http://finance.huanqiu.com/article/4ODz9aFpEw9",
+      "time": "9月7日 10:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "沙特据悉希望OPEC+加速增产 渴望夺回被蚕食的市场份额",
+      "link": "http://baijiahao.baidu.com/s?id=1842437398477655587&wfr=spider&for=pc",
+      "time": "9月5日 23:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "OPEC+周日会议在即,沙特力推加速增产,誓言重夺市场份额!",
+      "link": "http://baijiahao.baidu.com/s?id=1842431140766076407&wfr=spider&for=pc",
+      "time": "9月5日 21:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "OPEC+考虑提前增产引发油价下跌，美国库存意外增加加剧市场担忧",
+      "link": "http://baijiahao.baidu.com/s?id=1842386752658033361&wfr=spider&for=pc",
+      "time": "9月5日 09:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "OPEC+周日或再度增产抢夺市场",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infpirxi8605269.d.html",
+      "time": "9月4日 18:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "传OPEC+计划再次提高产量 国际油价下跌1%延续跌势",
+      "link": "http://baijiahao.baidu.com/s?id=1842321024160148727&wfr=spider&for=pc",
+      "time": "9月4日 16:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "欧佩克增产预期打压，国际油价大跌超2%",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9480090523369253465",
+      "time": "9月4日 15:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "OPEC+预计再度增产",
+      "link": "http://baijiahao.baidu.com/s?id=1842316189299821855&wfr=spider&for=pc",
+      "time": "9月4日 15:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "OPEC可能进一步增产的消息打压了油价",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4255970509930908922",
+      "time": "9月4日 13:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "OPEC+增产箭在弦上,油价连跌!非农能否“落井下石”?",
+      "link": "http://3g.cnfol.com/forex/jingjiyaowen/20250904/31613976.shtml",
+      "time": "9月4日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "OPEC+正在酝酿大动作，油价或将面临巨变",
+      "link": "http://baijiahao.baidu.com/s?id=1842235444432139369&wfr=spider&for=pc",
+      "time": "9月3日 17:34",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 15,
+  "scrape_time": "2025-09-12 17:59:13"
+}

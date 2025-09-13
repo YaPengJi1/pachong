@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 15:03:56"
+  },
+  "core_event": {
+    "core_event_name": "中国U23积分榜全乱了，国足反超三队登顶晋级",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:02:56"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U23亚洲杯国足晋级有望",
+      "link": "http://baijiahao.baidu.com/s?id=1842593055545941812&wfr=spider&for=pc",
+      "time": "9月7日 16:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "澳大利亚狂胜北马里亚纳,国足小胜东帝汶,亚预赛D组积分榜刷新",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16830087503752234559",
+      "time": "9月7日 12:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国队第一，U23积分榜全乱了，国足反超三队登顶晋级在望",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3488861171214030525",
+      "time": "9月7日 09:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "国足提前出线，升至排名第一，3队确定出局，国足输球也能晋级",
+      "link": "http://baijiahao.baidu.com/s?id=1842563344952496419&wfr=spider&for=pc",
+      "time": "9月7日 08:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "亚预赛多支球队踢疯,中国U23形势不妙",
+      "link": "http://www.163.com/dy/article/K8JUJJ4B0549WGPN.html",
+      "time": "9月4日 10:54",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "U23亚洲杯国足晋级有望",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842593055545941812&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "王二喜欢画画",
+      "comment_time": "09-07 21:26",
+      "comment_content": "小伙子们这场踢得太牛了，10-0大胜太解气，晋级希望大增啊。",
+      "user_location": "陕西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:03:29",
+      "event_time": "9月7日 16:27"
+    },
+    {
+      "event_title": "澳大利亚狂胜北马里亚纳,国足小胜东帝汶,亚预赛D组积分榜刷新",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=16830087503752234559",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:03:31",
+      "event_time": "9月7日 12:15"
+    },
+    {
+      "event_title": "中国队第一，U23积分榜全乱了，国足反超三队登顶晋级在望",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=3488861171214030525",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:03:33",
+      "event_time": "9月7日 09:06"
+    },
+    {
+      "event_title": "国足提前出线，升至排名第一，3队确定出局，国足输球也能晋级",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842563344952496419&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "闪闪爱吃鸭脖",
+      "comment_time": "09-07 08:40",
+      "comment_content": "这个作者有点东西哦～",
+      "user_location": "山东",
+      "like_count": 4,
+      "scrape_time": "2025-09-12 15:03:50",
+      "event_time": "9月7日 08:35"
+    },
+    {
+      "event_title": "国足提前出线，升至排名第一，3队确定出局，国足输球也能晋级",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842563344952496419&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "嘉佑ZU",
+      "comment_time": "09-07 13:11",
+      "comment_content": "傻编是一个标题党。",
+      "user_location": "广东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:03:50",
+      "event_time": "9月7日 08:35"
+    },
+    {
+      "event_title": "亚预赛多支球队踢疯,中国U23形势不妙",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8JUJJ4B0549WGPN.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:03:52",
+      "event_time": "9月4日 10:54"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 6,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 15:03:11",
+    "level2_scrape_time": "2025-09-12 15:03:52"
+  }
+}

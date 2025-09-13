@@ -1,0 +1,59 @@
+{
+  "core_event_name": "火车学生票优惠新规",
+  "comments": [
+    {
+      "event_title": "学生购票福利再升级 铁路护航学子求学之路",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842393765295511670&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:35:25",
+      "event_time": "9月5日 11:30"
+    },
+    {
+      "event_title": "火车学生票优惠新规9月6日起实施",
+      "event_id": "event_2",
+      "event_url": "http://video.sina.cn/finance/2025-09-04/detail-infpiwey6658911.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:35:27",
+      "event_time": "9月4日 20:58"
+    },
+    {
+      "event_title": "火车学生票优惠新政,即将上线!",
+      "event_id": "event_3",
+      "event_url": "http://news.fjsen.com/wap/2025-09/02/content_32030622.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:35:29",
+      "event_time": "9月2日 11:03"
+    },
+    {
+      "event_title": "火车学生票优惠新政即将上线 9月6日正式实施",
+      "event_id": "event_4",
+      "event_url": "http://news.hsw.cn/system/2025/0901/1869551.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:35:31",
+      "event_time": "9月1日 10:04"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 18:35:31"
+}

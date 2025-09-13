@@ -1,0 +1,59 @@
+{
+  "core_event_name": "石破茂辞职危机",
+  "comments": [
+    {
+      "event_title": "日本首相石破茂以“不愿党内分裂”为由,决定辞职",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8S2VUHK05345ARG.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:35:23",
+      "event_time": "9月7日 14:42"
+    },
+    {
+      "event_title": "石破茂决意辞职",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842585637814700317&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:35:39",
+      "event_time": "9月7日 14:29"
+    },
+    {
+      "event_title": "石破茂大势已去,9月面临罢免危机",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/7295052889/1b2d1ac590200187pu",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:35:41",
+      "event_time": "9月4日 11:01"
+    },
+    {
+      "event_title": "要辞职?石破茂:将适时作出决定",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842153765566530962&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:35:57",
+      "event_time": "9月2日 08:05"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-13 01:35:57"
+}

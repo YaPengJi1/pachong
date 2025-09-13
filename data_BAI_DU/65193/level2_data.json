@@ -1,0 +1,59 @@
+{
+  "core_event_name": "CBA国内球员注册截止，老将告别",
+  "comments": [
+    {
+      "event_title": "中国篮协关于25-26赛季全国男子篮球联赛球队首次注册事宜的通知",
+      "event_id": "event_1",
+      "event_url": "http://sports.sina.com.cn/basketball/nba/2025-09-09/doc-infpwekr3828138.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:05:17",
+      "event_time": "9月9日 11:30"
+    },
+    {
+      "event_title": "CBA国内球员注册截止",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8CBEI8I0530WJIN.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:05:19",
+      "event_time": "9月1日 12:02"
+    },
+    {
+      "event_title": "CBA注册更新！大韩二飞无缘，5海外预注册，辽宁仅15人，四川压哨",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841971240108311775&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "你们的厨神我",
+      "comment_time": "08-31 19:47",
+      "comment_content": "CBA更新真热闹，老将退位值得尊敬，年轻人海外追梦加油，各队尽力就好啦。",
+      "user_location": "辽宁",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:05:36",
+      "event_time": "8月31日 19:44"
+    },
+    {
+      "event_title": "CBA注册重大更新!韩德君任骏飞退役,五位海外球员预注册,辽宁仅15人,四川压哨完成",
+      "event_id": "event_4",
+      "event_url": "http://www.sohu.com/a/930491601_122387568",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:05:38",
+      "event_time": "8月31日 19:44"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 20:05:38"
+}

@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "快船伦纳德阴阳合同",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:34:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "伦纳德陷阴阳合同疑云、鲍尔默被要求卖队",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13478730208166641378",
+      "time": "9月8日 20:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "快船伦纳德或成自由身,联盟“零容忍”处罚将至?",
+      "link": "http://m.sohu.com/a/931934277_121683270",
+      "time": "9月4日 21:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "快船否认阴阳合同，TA记者硬刚，鲍尔默早被问询",
+      "link": "http://www.sohu.com/a/931874897_120171272",
+      "time": "9月4日 17:28",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 14:34:46"
+}

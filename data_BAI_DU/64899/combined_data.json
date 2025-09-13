@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:07:29"
+  },
+  "core_event": {
+    "core_event_name": "曼联大马丁转会传闻",
+    "update_time": "更新至20250902",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:07:01"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "邮报:夏窗仅曼联一队报价大马丁",
+      "link": "http://sports.sina.com.cn/g/2025-09-02/doc-infpatck8862721.shtml",
+      "time": "9月2日 14:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "记者:曼联没有选择大马丁是因为桑乔不愿永久转会加盟维拉",
+      "link": "http://m.dongqiudi.com/article/5349359.html",
+      "time": "9月2日 01:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "放弃大马丁!记者:曼联评估大马丁,但最终认为拉门斯是正确选择",
+      "link": "http://www.163.com/dy/article/K8D4IVLB0529AQIE.html",
+      "time": "9月1日 19:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "曼联救命稻草!大马丁或压哨驰援,红魔门将危机迎终极答案",
+      "link": "http://www.sohu.com/a/930796915_121315928",
+      "time": "9月1日 17:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "曼联暗度陈仓压哨签大马丁桑乔，奥纳纳要被发配",
+      "link": "http://www.bilibili.com/video/BV1hAaHzkEoR",
+      "time": "9月1日 15:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "邮报:夏窗仅曼联一队报价大马丁",
+      "event_id": "event_1",
+      "event_url": "http://sports.sina.com.cn/g/2025-09-02/doc-infpatck8862721.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:07:16",
+      "event_time": "9月2日 14:48"
+    },
+    {
+      "event_title": "记者:曼联没有选择大马丁是因为桑乔不愿永久转会加盟维拉",
+      "event_id": "event_2",
+      "event_url": "http://m.dongqiudi.com/article/5349359.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:07:19",
+      "event_time": "9月2日 01:19"
+    },
+    {
+      "event_title": "放弃大马丁!记者:曼联评估大马丁,但最终认为拉门斯是正确选择",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8D4IVLB0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:07:21",
+      "event_time": "9月1日 19:22"
+    },
+    {
+      "event_title": "曼联救命稻草!大马丁或压哨驰援,红魔门将危机迎终极答案",
+      "event_id": "event_4",
+      "event_url": "http://www.sohu.com/a/930796915_121315928",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:07:23",
+      "event_time": "9月1日 17:36"
+    },
+    {
+      "event_title": "曼联暗度陈仓压哨签大马丁桑乔，奥纳纳要被发配",
+      "event_id": "event_5",
+      "event_url": "http://www.bilibili.com/video/BV1hAaHzkEoR",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:07:25",
+      "event_time": "9月1日 15:18"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 17:07:15",
+    "level2_scrape_time": "2025-09-12 17:07:25"
+  }
+}

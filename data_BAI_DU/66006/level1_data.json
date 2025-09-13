@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "柯文哲民众党动员接他回家",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:24:19"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "柯文哲交保?民众党动员:8日下午1时“一起接柯P回家”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7713251898274475682",
+      "time": "9月8日 10:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "民众党预告:今天下午1点,一起接柯文哲回家",
+      "link": "http://www.taihainet.com/news/twnews/twdnsz/2025-09-08/2841899.html",
+      "time": "9月8日 08:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "柯文哲交保白营变“两颗太阳”?周榆修:民众党主席不会改选",
+      "link": "http://baijiahao.baidu.com/s?id=1842434844478909210&wfr=spider&for=pc",
+      "time": "9月5日 22:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "柯文哲,可以回家了",
+      "link": "http://baijiahao.baidu.com/s?id=1842467786094670875&wfr=spider&for=pc",
+      "time": "9月5日 14:20",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 14:24:34"
+}

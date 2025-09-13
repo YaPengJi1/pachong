@@ -1,0 +1,71 @@
+{
+  "core_event_name": "阿里对美团发起全面进攻",
+  "comments": [
+    {
+      "event_title": "阿里26周年,马云发狠了",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K962RFK705198V6E.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:20:47",
+      "event_time": "昨天 11:52"
+    },
+    {
+      "event_title": "阿里向美团发起全面进攻",
+      "event_id": "event_2",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68c13de88e9f09568e019b68",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:20:49",
+      "event_time": "9月10日 16:52"
+    },
+    {
+      "event_title": "高德扫街榜横空出世",
+      "event_id": "event_3",
+      "event_url": "http://m.jrj.com.cn/madapter/finance/2025/09/10145853045869.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:20:51",
+      "event_time": "9月10日 14:58"
+    },
+    {
+      "event_title": "阿里借高德切入大众点评业务 剑指美团第二战场",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K93F8Q4V0550B1DU.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:20:53",
+      "event_time": "9月10日 11:32"
+    },
+    {
+      "event_title": "阿里推高德团购对标美团?多只零售、地图股逆市大涨",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842783333976964919&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "淼淼不吃葱",
+      "comment_time": "09-09 19:06",
+      "comment_content": "阿里这波团购会推高地图股估值，但美团护城河太深实际盈利难，小心炒作泡沫。",
+      "user_location": "四川",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:21:10"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 11:21:10"
+}

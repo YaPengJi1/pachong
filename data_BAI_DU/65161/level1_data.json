@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "16号台风即将生成",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:23:39"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "第16号台风即将生成直奔广东",
+      "link": "http://www.gxnews.com.cn/staticpages/20250906/newgx68bbc3bf-21841311.shtml",
+      "time": "9月6日 13:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "今年第16号台风即将生成并趋向广东",
+      "link": "http://tv.cctv.com/2025/09/06/VIDE9J5HJYq9i9hVoYEj0mOU250906.shtml",
+      "time": "9月6日 12:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "16号台风即将生成!正面影响广东,深圳将迎大暴雨!",
+      "link": "http://www.163.com/dy/article/K8P7DTNC0553TF93.html",
+      "time": "9月6日 12:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "今年第16号台风即将生成,将严重影响广东",
+      "link": "http://news.sina.com.cn/o/2025-09-06/doc-infpppfk9912696.shtml",
+      "time": "9月6日 11:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "第16号台风要来了?广东广西等地或将遭遇强降雨局地大暴雨",
+      "link": "http://baijiahao.baidu.com/s?id=1842467489865153293&wfr=spider&for=pc",
+      "time": "9月5日 17:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "广东将迎暴雨、大暴雨",
+      "link": "http://www.sznews.com/news/content/2025-09/05/content_31683553.htm",
+      "time": "9月5日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "广东台风大暴雨酝酿中 或发展为16号台风“塔巴”",
+      "link": "http://news.ycwb.com/ikinvkbtko/content_53644059.htm",
+      "time": "9月4日 17:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "台风“塔巴”或生成又瞄向广东",
+      "link": "http://it.sohu.com/a/931616720_210667",
+      "time": "9月3日 20:20",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-12 19:23:54"
+}

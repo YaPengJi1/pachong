@@ -1,0 +1,277 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:22:14"
+  },
+  "core_event": {
+    "core_event_name": "泰国前总理他信“跑路”传闻",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:20:37"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "泰国产生新总理,又跑路的他信还回得去吗?",
+      "link": "http://www.jfdaily.com/news/detail?id=978560",
+      "time": "9月8日 09:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "泰国政坛动荡，他信预感不妙，提前出国避难，以防军方釜底抽薪",
+      "link": "http://www.163.com/dy/article/K8S0997R0556F3JP.html",
+      "time": "9月7日 13:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "泰国新总理选举当日 前总理他信发声:正前往迪拜",
+      "link": "http://baijiahao.baidu.com/s?id=1842486046369703233&wfr=spider&for=pc",
+      "time": "9月6日 12:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "他信在法院裁决前离开泰国",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9948002117729164807",
+      "time": "9月6日 10:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "泰国产生新总理，此前一天他信又跑了",
+      "link": "http://news.sina.cn/gj/2025-09-06/detail-infpphxn1659013.d.html",
+      "time": "9月6日 09:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "泰国前总理他信回应“跑路”传闻",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4014295242809588040",
+      "time": "9月6日 05:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "他信亲自澄清:没有跑!8日返泰出庭!女儿也没随行!",
+      "link": "http://www.163.com/dy/article/K8NRAVL805248NJC.html",
+      "time": "9月5日 23:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "新总理选举前,他信离开泰国前往阿联酋",
+      "link": "http://baijiahao.baidu.com/s?id=1842412736742643722&wfr=spider&for=pc",
+      "time": "9月5日 16:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "他信乘私人飞机离开泰国,本人和护照一度被短暂扣留",
+      "link": "http://baijiahao.baidu.com/s?id=1842411224447428523&wfr=spider&for=pc",
+      "time": "9月5日 16:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "飞机临时改变航线!他信凌晨发声",
+      "link": "http://news.inewsweek.cn/world/2025-09-05/26573.shtml",
+      "time": "9月5日 15:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "他信飞离泰国",
+      "link": "http://baijiahao.baidu.com/s?id=1842423967899939221&wfr=spider&for=pc",
+      "time": "9月5日 13:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "总理选举前一天 ，他信离开泰国",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31546947",
+      "time": "9月5日 13:28",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "泰国产生新总理,又跑路的他信还回得去吗?",
+      "event_id": "event_1",
+      "event_url": "http://www.jfdaily.com/news/detail?id=978560",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:20:53",
+      "event_time": "9月8日 09:02"
+    },
+    {
+      "event_title": "泰国政坛动荡，他信预感不妙，提前出国避难，以防军方釜底抽薪",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8S0997R0556F3JP.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:20:55",
+      "event_time": "9月7日 13:55"
+    },
+    {
+      "event_title": "泰国新总理选举当日 前总理他信发声:正前往迪拜",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842486046369703233&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:21:11",
+      "event_time": "9月6日 12:07"
+    },
+    {
+      "event_title": "他信在法院裁决前离开泰国",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9948002117729164807",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:21:13",
+      "event_time": "9月6日 10:43"
+    },
+    {
+      "event_title": "泰国产生新总理，此前一天他信又跑了",
+      "event_id": "event_5",
+      "event_url": "http://news.sina.cn/gj/2025-09-06/detail-infpphxn1659013.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:21:15",
+      "event_time": "9月6日 09:10"
+    },
+    {
+      "event_title": "泰国前总理他信回应“跑路”传闻",
+      "event_id": "event_6",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4014295242809588040",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:21:17",
+      "event_time": "9月6日 05:54"
+    },
+    {
+      "event_title": "他信亲自澄清:没有跑!8日返泰出庭!女儿也没随行!",
+      "event_id": "event_7",
+      "event_url": "http://www.163.com/dy/article/K8NRAVL805248NJC.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:21:19",
+      "event_time": "9月5日 23:24"
+    },
+    {
+      "event_title": "新总理选举前,他信离开泰国前往阿联酋",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842412736742643722&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:21:35",
+      "event_time": "9月5日 16:40"
+    },
+    {
+      "event_title": "他信乘私人飞机离开泰国,本人和护照一度被短暂扣留",
+      "event_id": "event_9",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842411224447428523&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:21:50",
+      "event_time": "9月5日 16:16"
+    },
+    {
+      "event_title": "飞机临时改变航线!他信凌晨发声",
+      "event_id": "event_10",
+      "event_url": "http://news.inewsweek.cn/world/2025-09-05/26573.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:21:52",
+      "event_time": "9月5日 15:37"
+    },
+    {
+      "event_title": "他信飞离泰国",
+      "event_id": "event_11",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842423967899939221&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:22:08",
+      "event_time": "9月5日 13:44"
+    },
+    {
+      "event_title": "总理选举前一天 ，他信离开泰国",
+      "event_id": "event_12",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31546947",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:22:10",
+      "event_time": "9月5日 13:28"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 12,
+    "total_comments": 12,
+    "events_with_comments": 12,
+    "level1_scrape_time": "2025-09-13 02:20:51",
+    "level2_scrape_time": "2025-09-13 02:22:10"
+  }
+}

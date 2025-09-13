@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "阿富汗东部发生地震",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:19:26"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "已造成两千余人遇难,阿富汗震情为何如此严重?",
+      "link": "http://baijiahao.baidu.com/s?id=1842418022535154022&wfr=spider&for=pc",
+      "time": "9月5日 18:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "阿富汗东部发生地震",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17861298724933005730",
+      "time": "9月4日 17:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "阿富汗突发大地震，全球一国伸出援手",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6464810621074197666",
+      "time": "9月4日 11:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "阿富汗地震死伤惨重,中国第一时间表态愿伸援手",
+      "link": "http://www.163.com/dy/article/K8EKHH4U0556DBGY.html",
+      "time": "9月2日 09:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中方回应阿富汗东部发生地震",
+      "link": "http://weibo.com/5051077448/Q2yoqzj3b",
+      "time": "9月1日 15:28",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 02:19:40"
+}

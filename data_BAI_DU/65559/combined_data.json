@@ -1,0 +1,129 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:54:32"
+  },
+  "core_event": {
+    "core_event_name": "联想新品发布",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:53:50"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "联想ThinkPad旗舰移动工作站P16Gen3发布",
+      "link": "http://www.ithome.com/0/880/720.htm",
+      "time": "9月5日 16:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "联想推出 UHD 240Hz OLED 显示器拯救者 Legion Pro 32UD-10 / 27UD-10",
+      "link": "http://finance.sina.com.cn/tech/digi/2025-09-05/doc-infpmqqh2487282.shtml",
+      "time": "9月5日 15:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "联想推出 Legion Pro 7 游戏本:Ryzen 9 9955HX3D+RTX 5080 组合",
+      "link": "http://app.myzaker.com/news/article.php?pk=68ba8a9e8e9f09187858384d",
+      "time": "9月5日 14:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "联想发布Legion Pro 27Q-10电竞显示器:27英寸QHD OLED屏+280Hz刷新率",
+      "link": "http://www.gfan.com/info/593439.html",
+      "time": "9月5日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "联想发布新款Legion Blade 7000K超竞版台式机 搭载RTX 5060Ti",
+      "link": "http://baijiahao.baidu.com/s?id=1841943069121896792&wfr=spider&for=pc",
+      "time": "8月31日 12:16",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "联想ThinkPad旗舰移动工作站P16Gen3发布",
+      "event_id": "event_1",
+      "event_url": "http://www.ithome.com/0/880/720.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:54:05",
+      "event_time": "9月5日 16:22"
+    },
+    {
+      "event_title": "联想推出 UHD 240Hz OLED 显示器拯救者 Legion Pro 32UD-10 / 27UD-10",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.com.cn/tech/digi/2025-09-05/doc-infpmqqh2487282.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:54:07",
+      "event_time": "9月5日 15:03"
+    },
+    {
+      "event_title": "联想推出 Legion Pro 7 游戏本:Ryzen 9 9955HX3D+RTX 5080 组合",
+      "event_id": "event_3",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68ba8a9e8e9f09187858384d",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:54:09",
+      "event_time": "9月5日 14:49"
+    },
+    {
+      "event_title": "联想发布Legion Pro 27Q-10电竞显示器:27英寸QHD OLED屏+280Hz刷新率",
+      "event_id": "event_4",
+      "event_url": "http://www.gfan.com/info/593439.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:54:11",
+      "event_time": "9月5日 00:00"
+    },
+    {
+      "event_title": "联想发布新款Legion Blade 7000K超竞版台式机 搭载RTX 5060Ti",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841943069121896792&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "江湖上我最美",
+      "comment_time": "08-31 18:00",
+      "comment_content": "这款新台式机配置真猛，RTX 5060Ti和乾坤散热很给力，价格也实在，科技爱好者值得关注。",
+      "user_location": "江西",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:54:28"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-13 01:54:04",
+    "level2_scrape_time": "2025-09-13 01:54:28"
+  }
+}

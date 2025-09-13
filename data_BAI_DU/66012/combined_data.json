@@ -1,0 +1,256 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:31:31"
+  },
+  "core_event": {
+    "core_event_name": "快船与莱纳德合同疑云",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:30:08"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "名记:规避薪资帽算谋杀级别的指控 快船欢迎NBA的调查",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-09/doc-infpvyat3849721.shtml",
+      "time": "9月9日 07:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "快船恐遭调查!伦纳德“遭重”:或涉嫌“阴阳合同”规避工资帽?",
+      "link": "http://baijiahao.baidu.com/s?id=1842681490969060989&wfr=spider&for=pc",
+      "time": "9月8日 15:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "名记力挺快船:球队因莱昂纳德承受足够多灾难!已支付2.5亿薪水",
+      "link": "http://cj.sina.com.cn/articles/view/6221719065/172d7e6190010204uw",
+      "time": "9月7日 17:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "鲍尔默:我和伦纳德关系很好 他因少言寡语招致许多猜测",
+      "link": "http://baijiahao.baidu.com/s?id=1842413647035106700&wfr=spider&for=pc",
+      "time": "9月5日 16:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "鲍尔默:球星和球队赞助商达成合作是合规的 是否审查由联盟决定",
+      "link": "http://sports.sina.cn/nba/other/2025-09-05/detail-infpmqqe5871273.d.html",
+      "time": "9月5日 14:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "鲍尔默:工资帽规避规则对联盟非常重要 希望进行严肃调查",
+      "link": "http://baijiahao.baidu.com/s?id=1842402951029494601&wfr=spider&for=pc",
+      "time": "9月5日 14:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "鲍尔默:我感到既愤怒又难过 同时也为我们员工的处境感到悲伤",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-05/doc-infpmkhh5981964.shtml",
+      "time": "9月5日 13:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "爆料者预测鲍尔默可能参加访谈博同情 此言论今晨应验",
+      "link": "http://sports.sina.cn/nba/other/2025-09-05/detail-infpmkhm0900530.d.html",
+      "time": "9月5日 12:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "快船否认阴阳合同，TA记者硬刚，鲍尔默早被问询",
+      "link": "http://www.sohu.com/a/931874897_120171272",
+      "time": "9月4日 17:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "联盟宣布准备调查快船与莱纳德之间是否存在阴阳合同",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4673611966029362585",
+      "time": "9月4日 15:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "曝小卡涉嫌签约阴阳合同,NBA介入调查恐抄没5年首轮签",
+      "link": "http://www.163.com/dy/article/K8ILCUHC0552NV18.html",
+      "time": "9月3日 22:53",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "名记:规避薪资帽算谋杀级别的指控 快船欢迎NBA的调查",
+      "event_id": "event_1",
+      "event_url": "http://sports.sina.com.cn/basketball/nba/2025-09-09/doc-infpvyat3849721.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:30:24",
+      "event_time": "9月9日 07:25"
+    },
+    {
+      "event_title": "快船恐遭调查!伦纳德“遭重”:或涉嫌“阴阳合同”规避工资帽?",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842681490969060989&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "塔海亦0G5",
+      "comment_time": "09-08 15:57",
+      "comment_content": "快船阵容强大，但愿调查别耽误夺冠机会。",
+      "user_location": "山西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:30:41",
+      "event_time": "9月8日 15:53"
+    },
+    {
+      "event_title": "名记力挺快船:球队因莱昂纳德承受足够多灾难!已支付2.5亿薪水",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/6221719065/172d7e6190010204uw",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:30:43",
+      "event_time": "9月7日 17:34"
+    },
+    {
+      "event_title": "鲍尔默:我和伦纳德关系很好 他因少言寡语招致许多猜测",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842413647035106700&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "小王子打来得战",
+      "comment_time": "09-05 18:49",
+      "comment_content": "老板澄清关系好，伦纳德少说话招猜疑。友谊常在就安心。",
+      "user_location": "重庆",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:30:59",
+      "event_time": "9月5日 16:55"
+    },
+    {
+      "event_title": "鲍尔默:球星和球队赞助商达成合作是合规的 是否审查由联盟决定",
+      "event_id": "event_5",
+      "event_url": "http://sports.sina.cn/nba/other/2025-09-05/detail-infpmqqe5871273.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:31:01",
+      "event_time": "9月5日 14:12"
+    },
+    {
+      "event_title": "鲍尔默:工资帽规避规则对联盟非常重要 希望进行严肃调查",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842402951029494601&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "欢子水果侠",
+      "comment_time": "09-05 15:57",
+      "comment_content": "鲍尔默说得对，工资帽规则是联盟基石，支持严肃调查确保公平。（27字）",
+      "user_location": "浙江",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:31:17",
+      "event_time": "9月5日 14:05"
+    },
+    {
+      "event_title": "鲍尔默:我感到既愤怒又难过 同时也为我们员工的处境感到悲伤",
+      "event_id": "event_7",
+      "event_url": "http://sports.sina.com.cn/basketball/nba/2025-09-05/doc-infpmkhh5981964.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:31:19",
+      "event_time": "9月5日 13:27"
+    },
+    {
+      "event_title": "爆料者预测鲍尔默可能参加访谈博同情 此言论今晨应验",
+      "event_id": "event_8",
+      "event_url": "http://sports.sina.cn/nba/other/2025-09-05/detail-infpmkhm0900530.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:31:21",
+      "event_time": "9月5日 12:10"
+    },
+    {
+      "event_title": "快船否认阴阳合同，TA记者硬刚，鲍尔默早被问询",
+      "event_id": "event_9",
+      "event_url": "http://www.sohu.com/a/931874897_120171272",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:31:23",
+      "event_time": "9月4日 17:28"
+    },
+    {
+      "event_title": "联盟宣布准备调查快船与莱纳德之间是否存在阴阳合同",
+      "event_id": "event_10",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4673611966029362585",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:31:25",
+      "event_time": "9月4日 15:19"
+    },
+    {
+      "event_title": "曝小卡涉嫌签约阴阳合同,NBA介入调查恐抄没5年首轮签",
+      "event_id": "event_11",
+      "event_url": "http://www.163.com/dy/article/K8ILCUHC0552NV18.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:31:27",
+      "event_time": "9月3日 22:53"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 11,
+    "total_comments": 11,
+    "events_with_comments": 11,
+    "level1_scrape_time": "2025-09-12 14:30:23",
+    "level2_scrape_time": "2025-09-12 14:31:27"
+  }
+}

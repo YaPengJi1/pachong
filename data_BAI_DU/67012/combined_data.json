@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:07:56"
+  },
+  "core_event": {
+    "core_event_name": "澳门冠军赛国乒12将出击",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:06:57"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "澳门冠军赛今日看点:薛飞迎战张本智和能否获胜,陈熠对阵金娜英",
+      "link": "http://new.qq.com/rain/a/20250911V02YNV00",
+      "time": "昨天 10:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "澳门冠军赛今天16强悉数落定，薛飞拦阻张本智和，陈熠争女单全胜",
+      "link": "http://baijiahao.baidu.com/s?id=1842932166083599701&wfr=spider&for=pc",
+      "time": "昨天 10:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "9月11日冠军赛赛程:王楚钦冲击8强,薛飞对阵张本智和,CCTV直播计划公布",
+      "link": "http://new.qq.com/rain/a/20250911A01NCP00",
+      "time": "昨天 08:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "澳门冠军赛签表出炉",
+      "link": "http://baijiahao.baidu.com/s?id=1842658534494749597&wfr=spider&for=pc",
+      "time": "9月8日 09:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "WTT澳门赛国乒12将出击",
+      "link": "http://m.sohu.com/a/932268080_122507062",
+      "time": "9月5日 21:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "澳门冠军赛今日看点:薛飞迎战张本智和能否获胜,陈熠对阵金娜英",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250911V02YNV00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:07:13",
+      "event_time": "昨天 10:46"
+    },
+    {
+      "event_title": "澳门冠军赛今天16强悉数落定，薛飞拦阻张本智和，陈熠争女单全胜",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842932166083599701&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:07:31",
+      "event_time": "昨天 10:17"
+    },
+    {
+      "event_title": "9月11日冠军赛赛程:王楚钦冲击8强,薛飞对阵张本智和,CCTV直播计划公布",
+      "event_id": "event_3",
+      "event_url": "http://new.qq.com/rain/a/20250911A01NCP00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:07:33",
+      "event_time": "昨天 08:32"
+    },
+    {
+      "event_title": "澳门冠军赛签表出炉",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842658534494749597&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "心理咨询师熊猫",
+      "comment_time": "09-08 14:11",
+      "comment_content": "签运真不理想，全员首轮风险高，但相信国乒小伙子们会全力以赴拼出精彩。",
+      "user_location": "北京",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 10:07:49",
+      "event_time": "9月8日 09:48"
+    },
+    {
+      "event_title": "WTT澳门赛国乒12将出击",
+      "event_id": "event_5",
+      "event_url": "http://m.sohu.com/a/932268080_122507062",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:07:51",
+      "event_time": "9月5日 21:18"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 10:07:12",
+    "level2_scrape_time": "2025-09-12 10:07:51"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 15:06:20"
+  },
+  "core_event": {
+    "core_event_name": "法国队“用废”巴黎两将",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:05:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "法国队“用废”巴黎两将",
+      "link": "http://k.sina.com.cn/article_7880068727_1d5b04e7702002eyfm.html",
+      "time": "9月7日 09:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "登贝莱预计伤缺大约6周,杜埃预计伤缺4周左右",
+      "link": "http://m.dongqiudi.com/article/5358621.html",
+      "time": "9月7日 03:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "队报:登贝莱受伤前巴黎就已致函法国足协,表达了担忧和不满",
+      "link": "http://www.dongqiudi.com/articles/5358617.html",
+      "time": "9月7日 03:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "官方:登贝莱和杜埃因伤退出,法国队补招科曼",
+      "link": "http://www.dongqiudi.com/articles/5358472.html",
+      "time": "9月7日 01:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "登贝莱伤愈待命,法国队变阵备战!姆巴佩再度崭露头角",
+      "link": "http://www.sohu.com/a/931773810_121953519",
+      "time": "9月4日 12:08",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "法国队“用废”巴黎两将",
+      "event_id": "event_1",
+      "event_url": "http://k.sina.com.cn/article_7880068727_1d5b04e7702002eyfm.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:06:07",
+      "event_time": "9月7日 09:09"
+    },
+    {
+      "event_title": "登贝莱预计伤缺大约6周,杜埃预计伤缺4周左右",
+      "event_id": "event_2",
+      "event_url": "http://m.dongqiudi.com/article/5358621.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:06:09",
+      "event_time": "9月7日 03:30"
+    },
+    {
+      "event_title": "队报:登贝莱受伤前巴黎就已致函法国足协,表达了担忧和不满",
+      "event_id": "event_3",
+      "event_url": "http://www.dongqiudi.com/articles/5358617.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:06:11",
+      "event_time": "9月7日 03:17"
+    },
+    {
+      "event_title": "官方:登贝莱和杜埃因伤退出,法国队补招科曼",
+      "event_id": "event_4",
+      "event_url": "http://www.dongqiudi.com/articles/5358472.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:06:13",
+      "event_time": "9月7日 01:12"
+    },
+    {
+      "event_title": "登贝莱伤愈待命,法国队变阵备战!姆巴佩再度崭露头角",
+      "event_id": "event_5",
+      "event_url": "http://www.sohu.com/a/931773810_121953519",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:06:15",
+      "event_time": "9月4日 12:08"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 15:06:06",
+    "level2_scrape_time": "2025-09-12 15:06:15"
+  }
+}

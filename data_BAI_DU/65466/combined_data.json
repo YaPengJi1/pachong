@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 00:26:36"
+  },
+  "core_event": {
+    "core_event_name": "火车学生票优惠新政",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:26:12"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "学生旅客铁路购票优惠新政实施",
+      "link": "http://www.taihainet.com/news/xmnews/shms/2025-09-07/2841838.html",
+      "time": "9月7日 08:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "火车学生票优惠新规9月6日起实施",
+      "link": "http://video.sina.cn/finance/2025-09-04/detail-infpiwey6658911.d.html",
+      "time": "9月4日 20:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "火车学生票优惠新政,即将上线!",
+      "link": "http://news.fjsen.com/wap/2025-09/02/content_32030622.htm",
+      "time": "9月2日 11:03",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "学生旅客铁路购票优惠新政实施",
+      "event_id": "event_1",
+      "event_url": "http://www.taihainet.com/news/xmnews/shms/2025-09-07/2841838.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:26:28",
+      "event_time": "9月7日 08:46"
+    },
+    {
+      "event_title": "火车学生票优惠新规9月6日起实施",
+      "event_id": "event_2",
+      "event_url": "http://video.sina.cn/finance/2025-09-04/detail-infpiwey6658911.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:26:30",
+      "event_time": "9月4日 20:58"
+    },
+    {
+      "event_title": "火车学生票优惠新政,即将上线!",
+      "event_id": "event_3",
+      "event_url": "http://news.fjsen.com/wap/2025-09/02/content_32030622.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:26:32",
+      "event_time": "9月2日 11:03"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-13 00:26:27",
+    "level2_scrape_time": "2025-09-13 00:26:32"
+  }
+}

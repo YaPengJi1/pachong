@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "意大利队苦战险胜土耳其，女排世锦赛半决赛",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:59:26"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "意大利队苦战险胜土耳其,奇兵14分力挽狂澜",
+      "link": "http://www.163.com/dy/article/K90K1BMM0556DIQQ.html",
+      "time": "9月9日 08:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "土耳其女排获世锦赛最佳接应",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4732656835366966983",
+      "time": "9月8日 07:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "意大利女排3-2土耳其夺冠",
+      "link": "http://cj.sina.com.cn/articles/view/7096022664/1a6f4b68802001bdea",
+      "time": "9月7日 23:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "世界女排锦标赛决赛，意大利女排3比2战胜土耳其女排，夺得冠军",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7672667683240716674",
+      "time": "9月7日 22:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "意大利3:2战胜土耳其，埃格努就是中国女排与世界冠军的距离",
+      "link": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001tcrs",
+      "time": "9月7日 22:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "2025女排世锦赛:意大利队和土耳其队会师决赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842565273091898101&wfr=spider&for=pc",
+      "time": "9月7日 09:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "女排世锦赛半决赛:土耳其VS日本",
+      "link": "http://sports.cctv.com/2025/09/06/VIDE7omRKeCuLUMefejC85Db250906.shtml",
+      "time": "9月6日 18:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "土耳其女排战胜日本 晋级决赛",
+      "link": "http://sports.cctv.com/2025/09/06/VIDE8rtbnGPxSeIvIr2uu9Yc250906.shtml",
+      "time": "9月6日 18:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "女排世锦赛半决赛 巴尔加斯杀疯了一剑封喉 土耳其第二局暴揍日本",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3370237502912888905",
+      "time": "9月6日 17:31",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 11:59:41"
+}

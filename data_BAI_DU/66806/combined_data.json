@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 09:49:10"
+  },
+  "core_event": {
+    "core_event_name": "iPhone 17 Pro Max发布",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:48:44"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "淘宝闪购同步首发iPhone 17新机,4000多家授权专营店已全量上线",
+      "link": "http://finance.sina.com.cn/jjxw/2025-09-10/doc-infpyiin7957031.shtml",
+      "time": "9月10日 10:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "iPhone 17 Pro Max正式发布:续航提升,9月19日开售",
+      "link": "http://mobile.zol.com.cn/1044/10447110.html",
+      "time": "9月10日 03:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "苹果为 iPhone 17 Pro / Max 推出科技织物保护壳,售价 479 元",
+      "link": "http://www.ithome.com/0/881/702.htm",
+      "time": "9月10日 03:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "iPhone 17全系内存、电池容量抢先曝光",
+      "link": "http://news.mydrivers.com/1/1073/1073477.htm",
+      "time": "9月9日 18:20",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "淘宝闪购同步首发iPhone 17新机,4000多家授权专营店已全量上线",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.com.cn/jjxw/2025-09-10/doc-infpyiin7957031.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:49:00",
+      "event_time": "9月10日 10:13"
+    },
+    {
+      "event_title": "iPhone 17 Pro Max正式发布:续航提升,9月19日开售",
+      "event_id": "event_2",
+      "event_url": "http://mobile.zol.com.cn/1044/10447110.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:49:02",
+      "event_time": "9月10日 03:40"
+    },
+    {
+      "event_title": "苹果为 iPhone 17 Pro / Max 推出科技织物保护壳,售价 479 元",
+      "event_id": "event_3",
+      "event_url": "http://www.ithome.com/0/881/702.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:49:04",
+      "event_time": "9月10日 03:04"
+    },
+    {
+      "event_title": "iPhone 17全系内存、电池容量抢先曝光",
+      "event_id": "event_4",
+      "event_url": "http://news.mydrivers.com/1/1073/1073477.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:49:06",
+      "event_time": "9月9日 18:20"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 09:48:59",
+    "level2_scrape_time": "2025-09-12 09:49:06"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "core_info": {
+    "core_event_name": "日本自民党总裁选举",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:23:07"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "日本自民党将于10月4日进行党总裁选举",
+      "link": "http://tv.cctv.com/2025/09/10/VIDEjQ4WOEIUJIAxBgTYRgMC250910.shtml",
+      "time": "9月10日 13:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "日本自民党有意于10月4日举行总裁选举",
+      "link": "http://tv.cctv.com/2025/09/09/VIDEAYx9ODiNR49iK7sN0PeK250909.shtml",
+      "time": "9月9日 08:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "政坛争斗加剧!日本自民党总裁职位成“烫手山芋”",
+      "link": "http://www.bjd.com.cn/news/2025/09/08/11300210.shtml",
+      "time": "9月8日 21:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "日本自民党召开会议讨论总裁选举方针",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEIZV2MsRb3hQ7L8MMqRPW250908.shtml",
+      "time": "9月8日 15:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "日本自民党正式敲定举行总裁选举 结果初步计划将于10月4日出炉",
+      "link": "http://www.163.com/dy/article/K8UKFTBR05198CJN.html",
+      "time": "9月8日 14:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "最快明天,日本自民党将公布总裁选举日程",
+      "link": "http://www.163.com/dy/article/K8UAH99S0530JPVV.html",
+      "time": "9月8日 11:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "石破茂辞任，日本自民党最快明天公布总裁选举日程",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6564075425020185982",
+      "time": "9月8日 10:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "选出日本新首相，自民党面临大问题",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13421378210063847648",
+      "time": "9月7日 19:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "日本自民党8日将决定是否提前进行总裁选举",
+      "link": "http://baijiahao.baidu.com/s?id=1842590450922843139&wfr=spider&for=pc",
+      "time": "9月7日 15:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "日本首相石破茂决定辞职:称“不愿党内分裂” 决定辞去职务",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4674721617631871828",
+      "time": "9月7日 14:34",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 10,
+  "scrape_time": "2025-09-12 14:23:21"
+}

@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "黄金价格突破3600美元关口",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:53:13"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "金价3600美元攻防战白热化!降息预期VS技术面超买警报",
+      "link": "http://finance.sina.com.cn/money/nmetal/hjfx/2025-09-08/doc-infpuftp4675313.shtml",
+      "time": "9月8日 14:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "香港第一金:非农利多金银局势紧张 黄金刷新3600美元新高",
+      "link": "http://www.163.com/dy/article/K8UJJ5Q50556FCAQ.html",
+      "time": "9月8日 14:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美国国债收益率下降",
+      "link": "http://app.myzaker.com/news/article.php?pk=68be33a8b15ec0320c750c2a",
+      "time": "9月8日 09:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "国际黄金期价再次刷新历史新高",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5847124899391861463",
+      "time": "9月4日 11:03",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 09:53:28"
+}

@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:23:42"
+  },
+  "core_event": {
+    "core_event_name": "以色列对哈马斯领导层打击",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:23:10"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "以色列总统表示将哈马斯高级官员作为袭击目标",
+      "link": "http://weibo.com/5051077448/Q3Yii3y6c",
+      "time": "9月10日 23:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "以色列官员称将继续打击哈马斯领导层",
+      "link": "http://tv.cctv.com/2025/09/10/VIDE9yHm4ghR8wjXI6W968D2250910.shtml",
+      "time": "9月10日 19:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "以色列空袭在卡塔尔的哈马斯高层成员",
+      "link": "http://tv.cctv.com/2025/09/10/VIDEiTXknykJphTaO90cgjPb250910.shtml",
+      "time": "9月10日 18:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "以军空袭在卡塔尔的哈马斯高层成员 以色列官员称将继续打击哈马斯领导层",
+      "link": "http://tv.cctv.com/2025/09/10/VIDEwgFHtwmK9AMTJToN6kfs250910.shtml",
+      "time": "9月10日 16:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "卡塔尔首都多哈发生爆炸 以色列称对哈马斯高级领导层实施打击",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9419420097939156447",
+      "time": "9月10日 16:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "以色列对哈马斯高层领导动手",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4683813251931464475",
+      "time": "9月9日 23:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "以色列称对哈马斯高级领导层实施打击",
+      "link": "http://tv.cctv.com/2025/09/09/VIDEuxT9kQ9e1530ZMGUfsAf250909.shtml",
+      "time": "9月9日 23:30",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "以色列总统表示将哈马斯高级官员作为袭击目标",
+      "event_id": "event_1",
+      "event_url": "http://weibo.com/5051077448/Q3Yii3y6c",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:23:25",
+      "event_time": "9月10日 23:15"
+    },
+    {
+      "event_title": "以色列官员称将继续打击哈马斯领导层",
+      "event_id": "event_2",
+      "event_url": "http://tv.cctv.com/2025/09/10/VIDE9yHm4ghR8wjXI6W968D2250910.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:23:27",
+      "event_time": "9月10日 19:18"
+    },
+    {
+      "event_title": "以色列空袭在卡塔尔的哈马斯高层成员",
+      "event_id": "event_3",
+      "event_url": "http://tv.cctv.com/2025/09/10/VIDEiTXknykJphTaO90cgjPb250910.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:23:29",
+      "event_time": "9月10日 18:18"
+    },
+    {
+      "event_title": "以军空袭在卡塔尔的哈马斯高层成员 以色列官员称将继续打击哈马斯领导层",
+      "event_id": "event_4",
+      "event_url": "http://tv.cctv.com/2025/09/10/VIDEwgFHtwmK9AMTJToN6kfs250910.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:23:31",
+      "event_time": "9月10日 16:19"
+    },
+    {
+      "event_title": "卡塔尔首都多哈发生爆炸 以色列称对哈马斯高级领导层实施打击",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9419420097939156447",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:23:33",
+      "event_time": "9月10日 16:14"
+    },
+    {
+      "event_title": "以色列对哈马斯高层领导动手",
+      "event_id": "event_6",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4683813251931464475",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:23:35",
+      "event_time": "9月9日 23:48"
+    },
+    {
+      "event_title": "以色列称对哈马斯高级领导层实施打击",
+      "event_id": "event_7",
+      "event_url": "http://tv.cctv.com/2025/09/09/VIDEuxT9kQ9e1530ZMGUfsAf250909.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:23:37",
+      "event_time": "9月9日 23:30"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 10:23:24",
+    "level2_scrape_time": "2025-09-12 10:23:37"
+  }
+}

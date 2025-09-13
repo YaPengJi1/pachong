@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "欧洲26国向乌克兰派兵威胁",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:35:54"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "26国联军将进驻乌克兰，就等美国批准，普京动真格了",
+      "link": "http://baijiahao.baidu.com/s?id=1842751530846462390&wfr=spider&for=pc",
+      "time": "9月9日 10:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "普京放话谈不成就打，欧洲26国决定派兵入乌",
+      "link": "http://new.qq.com/rain/a/20250905A068SR00",
+      "time": "9月8日 19:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "26国要派军驻乌 “保和平”,普京撂狠话:敢来就是合法打击目标",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5944117555948318233",
+      "time": "9月7日 23:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "普京回应欧洲26国向乌派遣部队威胁",
+      "link": "http://www.163.com/dy/article/K8O71IDC0534BZ9P.html",
+      "time": "9月6日 18:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "西方再升级!马克龙正式通告全球,26国将向乌克兰派“保障部队”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11447363820236812019",
+      "time": "9月6日 15:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "欧洲26国随时出兵,普京放狠话,来一个打一个",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2907489734479686118",
+      "time": "9月6日 15:54",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 14:36:09"
+}

@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "美国女排1-3淘汰，土耳其女排杀入世锦赛四强",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:50:12"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "2025年女排世锦赛1/4决赛对阵公布",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4246339221543867608",
+      "time": "9月8日 08:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美国女排1-3淘汰，土耳其女排杀入世锦赛4强",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9791226904320621833",
+      "time": "9月6日 10:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "土耳其女排首次晋级世锦赛四强",
+      "link": "http://tv.cctv.com/2025/09/05/VIDE4vn3rjV76XKa1v18kGPf250905.shtml",
+      "time": "9月5日 07:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "女排世锦赛1/4决赛:美国VS土耳其",
+      "link": "http://sports.cctv.com/2025/09/04/VIDE2k7z5iPD9GAcmbbNjlpg250904.shtml",
+      "time": "9月4日 23:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "女排世锦赛四强全部出炉，亚洲球队仅剩日本",
+      "link": "http://www.163.com/dy/article/K8L9AJLN05497GLB.html",
+      "time": "9月4日 23:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "土耳其女排晋级八强，斯洛文尼亚崛起，中国女排沦为三流球队",
+      "link": "http://cj.sina.com.cn/articles/view/7563502179/1c2d1e26300101fee8",
+      "time": "9月2日 10:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "女排世锦赛土耳其3-0完胜晋级八强",
+      "link": "http://cj.sina.com.cn/articles/view/7880068727/1d5b04e7702002dsoo",
+      "time": "9月1日 23:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 14:50:26"
+}

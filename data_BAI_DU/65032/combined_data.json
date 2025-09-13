@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:13:25"
+  },
+  "core_event": {
+    "core_event_name": "特斯拉Model Y L交付启动",
+    "update_time": "更新至20250903",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:12:59"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特斯拉盘前涨1.4% Model Y L已开始交付 早于预期",
+      "link": "http://finance.sina.com.cn/stock/bxjj/2025-09-03/doc-infpfhse7761755.shtml",
+      "time": "9月3日 16:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特斯拉Model Y L已开始交付 早于预期",
+      "link": "http://www.163.com/dy/article/K8HVNSGS05119MAU.html",
+      "time": "9月3日 16:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "Model Y L首批交付开始!上市到交付仅用十余天,特斯拉效率拉满",
+      "link": "http://www.163.com/dy/article/K8HLUNIT05561BXR.html",
+      "time": "9月3日 13:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特斯拉Model Y L全国首批交付启动",
+      "link": "http://www.pcauto.com.cn/ask/3880402.html",
+      "time": "9月2日 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "特斯拉盘前涨1.4% Model Y L已开始交付 早于预期",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.com.cn/stock/bxjj/2025-09-03/doc-infpfhse7761755.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:13:15",
+      "event_time": "9月3日 16:46"
+    },
+    {
+      "event_title": "特斯拉Model Y L已开始交付 早于预期",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8HVNSGS05119MAU.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:13:17",
+      "event_time": "9月3日 16:33"
+    },
+    {
+      "event_title": "Model Y L首批交付开始!上市到交付仅用十余天,特斯拉效率拉满",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8HLUNIT05561BXR.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:13:19",
+      "event_time": "9月3日 13:43"
+    },
+    {
+      "event_title": "特斯拉Model Y L全国首批交付启动",
+      "event_id": "event_4",
+      "event_url": "http://www.pcauto.com.cn/ask/3880402.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:13:21",
+      "event_time": "9月2日 00:00"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 17:13:14",
+    "level2_scrape_time": "2025-09-12 17:13:21"
+  }
+}

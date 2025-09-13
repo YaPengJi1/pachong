@@ -1,0 +1,85 @@
+{
+  "core_event_name": "詹姆斯入选名人堂",
+  "comments": [
+    {
+      "event_title": "詹姆斯入选名人堂",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K90QS8JI0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:29:23",
+      "event_time": "9月9日 10:57"
+    },
+    {
+      "event_title": "救赎之队迈进名人堂!詹姆斯:科比改变了那个团队",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8SBOPNR05299JMD.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:29:25",
+      "event_time": "9月7日 17:16"
+    },
+    {
+      "event_title": "詹姆斯随梦八入选名人堂",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842572380503686980&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "风中奇缘做义工",
+      "comment_time": "09-07 12:15",
+      "comment_content": "恭喜梦八队荣耀入选，詹姆斯帅气亮相，救赎之旅圆满收官。",
+      "user_location": "江苏",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:29:42",
+      "event_time": "9月7日 10:52"
+    },
+    {
+      "event_title": "詹姆斯提前入选了NBA名人堂",
+      "event_id": "event_4",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1757298599&pk=68bceecfb15ec01cbc506c7a",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:29:44",
+      "event_time": "9月7日 10:32"
+    },
+    {
+      "event_title": "湖人官方晒现场照:詹姆斯入选名人堂",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hkbe",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:29:46",
+      "event_time": "9月7日 09:45"
+    },
+    {
+      "event_title": "詹姆斯抵达名人堂入选仪式现场 隆多的战术板微博视频",
+      "event_id": "event_6",
+      "event_url": "http://weibo.com/2431485513/Q3pJBcctg",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:29:48",
+      "event_time": "9月7日 07:16"
+    }
+  ],
+  "total_comments": 6,
+  "scrape_time": "2025-09-12 12:29:48"
+}

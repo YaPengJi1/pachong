@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "领克08参配曝光",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:41:49"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "领克08参配曝光",
+      "link": "http://www.pcauto.com.cn/note/849799504208071827.html",
+      "time": "9月5日 10:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "浩思动力IAA车展首发领克08EM-P",
+      "link": "http://www.sohu.com/a/932011288_121885028",
+      "time": "9月5日 04:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "采用全新设计理念,领克08正式亮相",
+      "link": "http://www.pcauto.com.cn/aichat/1219922.html",
+      "time": "9月3日 09:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "成都车展领克展台9月新车齐聚",
+      "link": "http://weibo.com/tv/show/1034:5205699970662536",
+      "time": "8月31日 13:44",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 21:42:03"
+}

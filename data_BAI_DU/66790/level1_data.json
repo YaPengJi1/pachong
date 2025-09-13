@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "U22国足两战全胜，净胜球优势藏玄机",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:07:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U22国足满意0-0!3场7分出线,教练组激动庆祝,两队球员都笑了",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4353777558073624348",
+      "time": "9月9日 22:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "热议U22赢球靠王玉栋,非教练战术,对手仅4.7万人口",
+      "link": "http://news.sohu.com/a/932652646_121683270",
+      "time": "9月7日 16:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国U22两战全胜，净胜球优势藏玄机，末轮生死战谁能全身而退？",
+      "link": "http://www.163.com/dy/article/K8RN9T580556B3RN.html",
+      "time": "9月7日 13:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国U23男足10比0战胜北马里亚纳群岛 末轮将与澳大利亚争夺直接出线权",
+      "link": "http://news.cnwest.com/bwyc/a/2025/09/06/23190545.html",
+      "time": "9月6日 23:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "U23亚洲杯预选赛中国队暂列小组次席",
+      "link": "http://news.cnr.cn/native/gd/kx/20250906/t20250906_527353113.shtml",
+      "time": "9月6日 23:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "U22国足1-0战胜新西兰队",
+      "link": "http://baijiahao.baidu.com/s?id=1842527913214378942&wfr=spider&for=pc",
+      "time": "9月6日 23:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "U22国足10-0胜北马里亚纳群岛队",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8513342972476643309",
+      "time": "9月6日 22:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "U22国足制定出线计划时，也考虑了净胜球的可能性",
+      "link": "http://www.dongqiudi.com/articles/5352007.html",
+      "time": "9月3日 12:05",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-12 11:07:47"
+}

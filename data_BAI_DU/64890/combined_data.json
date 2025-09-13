@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:35:16"
+  },
+  "core_event": {
+    "core_event_name": "曼联清洗桑乔要谢拉什福德，说服好友去维拉",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:34:48"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "曼联个人协议敲定，大马丁引援二选一，桑乔或租借维拉",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17992853380630018123",
+      "time": "9月4日 20:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "曼联成功清洗桑乔，要谢拉什福德，说服好友去维拉",
+      "link": "http://www.sohu.com/a/931086318_518672",
+      "time": "9月2日 12:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "桑乔换大马丁在即 曼联补强后防维拉押注边路",
+      "link": "http://www.163.com/dy/article/K8EN8DRA0556DPKC.html",
+      "time": "9月2日 10:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "曼联边锋桑乔将租借加盟维拉!曼联",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13191200226644937023",
+      "time": "9月1日 18:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "曼晚:维拉有意桑乔&曼联有意大马丁,两人薪水差不多",
+      "link": "http://www.163.com/dy/article/K8CQD9G00529AQIE.html",
+      "time": "9月1日 16:24",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "曼联个人协议敲定，大马丁引援二选一，桑乔或租借维拉",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=17992853380630018123",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:35:04",
+      "event_time": "9月4日 20:04"
+    },
+    {
+      "event_title": "曼联成功清洗桑乔，要谢拉什福德，说服好友去维拉",
+      "event_id": "event_2",
+      "event_url": "http://www.sohu.com/a/931086318_518672",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:35:06",
+      "event_time": "9月2日 12:32"
+    },
+    {
+      "event_title": "桑乔换大马丁在即 曼联补强后防维拉押注边路",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8EN8DRA0556DPKC.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:35:08",
+      "event_time": "9月2日 10:08"
+    },
+    {
+      "event_title": "曼联边锋桑乔将租借加盟维拉!曼联",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=13191200226644937023",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:35:10",
+      "event_time": "9月1日 18:30"
+    },
+    {
+      "event_title": "曼晚:维拉有意桑乔&曼联有意大马丁,两人薪水差不多",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8CQD9G00529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:35:12",
+      "event_time": "9月1日 16:24"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 18:35:03",
+    "level2_scrape_time": "2025-09-12 18:35:12"
+  }
+}

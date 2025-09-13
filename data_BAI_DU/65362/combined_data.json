@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 22:51:33"
+  },
+  "core_event": {
+    "core_event_name": "国足U23亚洲杯，与东帝汶的较量",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:50:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国足险胜东帝汶，菜鸟互啄惹争议",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11435743421094328304",
+      "time": "9月4日 19:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "国足U22首战险胜东帝汶，澳大利亚14-0狂胜",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17706217764563277810",
+      "time": "9月4日 15:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "男足U23亚洲杯中国队2:1艰难击败东帝汶",
+      "link": "http://baijiahao.baidu.com/s?id=1842242627900125269&wfr=spider&for=pc",
+      "time": "9月3日 21:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22国足2比1胜东帝汶,向余望三失绝佳机会",
+      "link": "http://k.sina.com.cn/article_2018499075_784fda0304002hf7s.html",
+      "time": "9月3日 20:55",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "国足险胜东帝汶，菜鸟互啄惹争议",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11435743421094328304",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:51:08",
+      "event_time": "9月4日 19:13"
+    },
+    {
+      "event_title": "国足U22首战险胜东帝汶，澳大利亚14-0狂胜",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=17706217764563277810",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:51:10",
+      "event_time": "9月4日 15:34"
+    },
+    {
+      "event_title": "男足U23亚洲杯中国队2:1艰难击败东帝汶",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842242627900125269&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "缔造笑依旧",
+      "comment_time": "09-03 21:40",
+      "comment_content": "说的很中肯了，确实很难看。进攻组织不起来，一个个都要停下球，太黏球了。而且随便就出脚，一直被打防守反击。",
+      "user_location": "广西",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 22:51:27",
+      "event_time": "9月3日 21:33"
+    },
+    {
+      "event_title": "U22国足2比1胜东帝汶,向余望三失绝佳机会",
+      "event_id": "event_4",
+      "event_url": "http://k.sina.com.cn/article_2018499075_784fda0304002hf7s.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:51:29",
+      "event_time": "9月3日 20:55"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 22:51:07",
+    "level2_scrape_time": "2025-09-12 22:51:29"
+  }
+}

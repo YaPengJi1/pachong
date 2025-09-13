@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 12:23:49"
+  },
+  "core_event": {
+    "core_event_name": "虞书欣虞书欣霸凌风波",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 12:23:25"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "虞书欣搞“霸凌”?吐槽《一年级毕业季》",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8806315052534470245",
+      "time": "9月9日 17:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "女演员控诉遭虞书欣霸凌",
+      "link": "http://cj.sina.com.cn/articles/view/1653603955/628ffe7302001t08g",
+      "time": "9月7日 15:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "虞书欣彻底凉凉!法律圈集体开撕,粉丝作死坑偶像,结局惊呆众人",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4913904378021051597",
+      "time": "9月3日 11:44",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "虞书欣搞“霸凌”?吐槽《一年级毕业季》",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8806315052534470245",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:23:41",
+      "event_time": "9月9日 17:23"
+    },
+    {
+      "event_title": "女演员控诉遭虞书欣霸凌",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/1653603955/628ffe7302001t08g",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:23:43",
+      "event_time": "9月7日 15:50"
+    },
+    {
+      "event_title": "虞书欣彻底凉凉!法律圈集体开撕,粉丝作死坑偶像,结局惊呆众人",
+      "event_id": "event_3",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4913904378021051597",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:23:45",
+      "event_time": "9月3日 11:44"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 12:23:39",
+    "level2_scrape_time": "2025-09-12 12:23:45"
+  }
+}

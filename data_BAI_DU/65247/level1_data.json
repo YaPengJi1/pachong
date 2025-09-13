@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "申京与约基奇的对决",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:57:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "欧锦赛正面击败偶像约基奇 申京告别“小约基奇”成为真正的自己",
+      "link": "http://www.163.com/dy/article/K8MJMAPN0529AQIE.html",
+      "time": "9月5日 11:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "大小约基奇对决!申京完胜约老师,火箭送走杰伦格林是对的",
+      "link": "http://www.163.com/dy/article/K8JIJPA105566S2A.html",
+      "time": "9月4日 07:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "火记:不败土耳其对阵全胜塞尔维亚 申京vs约基奇 胜者小组第一",
+      "link": "http://www.163.com/dy/article/K8ETQ0B50529AQIE.html",
+      "time": "9月2日 12:02",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 20:57:46"
+}

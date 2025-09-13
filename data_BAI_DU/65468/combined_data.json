@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 00:28:20"
+  },
+  "core_event": {
+    "core_event_name": "全国多地实现生育津贴直接发放至个人",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:27:56"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "生育津贴直接发放至个人,黄岩已实现→",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31550023",
+      "time": "9月4日 09:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "吉安全面实现生育津贴直发个人 超600人次已享便捷服务",
+      "link": "http://nc.jxnews.com.cn/system/2025/09/03/020974154.shtml",
+      "time": "9月4日 09:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "20个省份实现生育津贴直接发放至个人",
+      "link": "http://weibo.com/3907394279/Q2IlVv5as",
+      "time": "9月2日 16:50",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "生育津贴直接发放至个人,黄岩已实现→",
+      "event_id": "event_1",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31550023",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:28:12",
+      "event_time": "9月4日 09:45"
+    },
+    {
+      "event_title": "吉安全面实现生育津贴直发个人 超600人次已享便捷服务",
+      "event_id": "event_2",
+      "event_url": "http://nc.jxnews.com.cn/system/2025/09/03/020974154.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:28:14",
+      "event_time": "9月4日 09:13"
+    },
+    {
+      "event_title": "20个省份实现生育津贴直接发放至个人",
+      "event_id": "event_3",
+      "event_url": "http://weibo.com/3907394279/Q2IlVv5as",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:28:16",
+      "event_time": "9月2日 16:50"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-13 00:28:11",
+    "level2_scrape_time": "2025-09-13 00:28:16"
+  }
+}

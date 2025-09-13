@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:38:10"
+  },
+  "core_event": {
+    "core_event_name": "主力板块资金流入前10",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:37:44"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "电力设备板块主力资金净流入170亿元",
+      "link": "http://www.cnstock.com/commonDetail/515781",
+      "time": "9月5日 14:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "主力板块资金流入前10",
+      "link": "http://www.sohu.com/a/931135903_121478296",
+      "time": "9月2日 15:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "主力板块资金流入前10:银行流入15.55亿元、石油行业流入2.00亿元",
+      "link": "http://m.jrj.com.cn/madapter/24h/2025/09/02125652859989.shtml",
+      "time": "9月2日 12:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "电池流入58.21亿元、汽车整车流入17.47亿元",
+      "link": "http://www.sohu.com/a/929787988_121478296",
+      "time": "8月29日 11:43",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "电力设备板块主力资金净流入170亿元",
+      "event_id": "event_1",
+      "event_url": "http://www.cnstock.com/commonDetail/515781",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:37:59",
+      "event_time": "9月5日 14:28"
+    },
+    {
+      "event_title": "主力板块资金流入前10",
+      "event_id": "event_2",
+      "event_url": "http://www.sohu.com/a/931135903_121478296",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:38:01",
+      "event_time": "9月2日 15:08"
+    },
+    {
+      "event_title": "主力板块资金流入前10:银行流入15.55亿元、石油行业流入2.00亿元",
+      "event_id": "event_3",
+      "event_url": "http://m.jrj.com.cn/madapter/24h/2025/09/02125652859989.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:38:03",
+      "event_time": "9月2日 12:56"
+    },
+    {
+      "event_title": "电池流入58.21亿元、汽车整车流入17.47亿元",
+      "event_id": "event_4",
+      "event_url": "http://www.sohu.com/a/929787988_121478296",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:38:05",
+      "event_time": "8月29日 11:43"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-13 02:37:58",
+    "level2_scrape_time": "2025-09-13 02:38:05"
+  }
+}

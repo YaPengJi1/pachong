@@ -1,0 +1,46 @@
+{
+  "core_event_name": "华为Mate XTs预售秒售罄",
+  "comments": [
+    {
+      "event_title": "华为Mate XTs 非凡大师登场",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.cn/tech/2025-09-05/detail-infpiwey6660579.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:07:46",
+      "event_time": "9月4日 20:02"
+    },
+    {
+      "event_title": "华为Mate XTs预售不到一分钟即售罄 9月29日前发货",
+      "event_id": "event_2",
+      "event_url": "http://phone.cnmo.com/news/796642.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:07:48",
+      "event_time": "9月4日 18:12"
+    },
+    {
+      "event_title": "华为Mate XTs 非凡大师,到底还藏着多少惊喜?",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8F73AMP05318PIH.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:07:50",
+      "event_time": "9月2日 14:48"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 23:07:50"
+}

@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "中国阅兵及尖端武器亮相",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:13:43"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "尖端武器集中亮相 解密阅兵新锐装备",
+      "link": "http://tv.cctv.com/2025/09/05/VIDEk9PaR6JuqsAQasNyvClG250905.shtml",
+      "time": "9月5日 12:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "高超音速武器震撼亮相",
+      "link": "http://military.china.com/news/13004177/20250905/48792980_1.html",
+      "time": "9月5日 11:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "CNN:这次中国阅兵透露出一重要信息,无人武器亮相透露关键信息",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1323939342577020228",
+      "time": "9月4日 22:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "九三阅兵,新一代武器装备震撼亮相",
+      "link": "http://www.163.com/dy/article/K8JT1DHM05504DOQ.html",
+      "time": "9月4日 10:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "以剑止战:黑科技集中亮相阅兵式为何不寻常?",
+      "link": "http://www.china.com.cn/opinion/2025-09/04/content_118061177.html",
+      "time": "9月4日 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 17:13:58"
+}

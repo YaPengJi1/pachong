@@ -1,0 +1,45 @@
+{
+  "core_event_name": "iPhone 17 Air系列",
+  "comments": [
+    {
+      "event_title": "传iPhone 17 Air仅支持eSIM或在华推迟发布",
+      "event_id": "event_1",
+      "event_url": "http://news.sina.com.cn/zx/2025-09-09/doc-infpxfwa4960442.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:49:59",
+      "event_time": "9月9日 20:42"
+    },
+    {
+      "event_title": "iPhone 17 Air惊艳消息曝光，iPhone 16低至百元创爱疯记录",
+      "event_id": "event_2",
+      "event_url": "http://mobile.zol.com.cn/1044/10441126.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:50:01",
+      "event_time": "9月9日 07:39"
+    },
+    {
+      "event_title": "iPhone 17系列eSIM变革",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842197107132874448&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "彤彤不吃豆腐",
+      "comment_time": "09-03 09:38",
+      "comment_content": "苹果在欧盟推eSIM，国行Air跟上，创新兼顾本土习惯挺周到。",
+      "user_location": "山西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:50:18"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 14:50:18"
+}

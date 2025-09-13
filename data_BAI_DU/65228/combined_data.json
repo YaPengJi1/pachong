@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 20:39:00"
+  },
+  "core_event": {
+    "core_event_name": "小米16系列官方信息首现",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:38:20"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "小米16系列官方信息首现，还是卢伟冰确认",
+      "link": "http://www.163.com/dy/article/K8OONMQ30511BBQT.html",
+      "time": "9月6日 07:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "小米16系列已开启盲约:全球首发骁龙8 Elite 2,9月25日前后亮相",
+      "link": "http://www.163.com/dy/article/K8MFPQKV05118A8G.html",
+      "time": "9月5日 10:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "小米16系列要来，而且卢总曾表示将全面升级",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7904442316642527116",
+      "time": "9月2日 17:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "小米16全面升杯:性能狂飙,续航拉满,专治各种不服!",
+      "link": "http://baijiahao.baidu.com/s?id=1842067441871226899&wfr=spider&for=pc",
+      "time": "9月1日 21:13",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "小米16系列官方信息首现，还是卢伟冰确认",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8OONMQ30511BBQT.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:38:35",
+      "event_time": "9月6日 07:46"
+    },
+    {
+      "event_title": "小米16系列已开启盲约:全球首发骁龙8 Elite 2,9月25日前后亮相",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8MFPQKV05118A8G.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:38:37",
+      "event_time": "9月5日 10:33"
+    },
+    {
+      "event_title": "小米16系列要来，而且卢总曾表示将全面升级",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7904442316642527116",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:38:40",
+      "event_time": "9月2日 17:50"
+    },
+    {
+      "event_title": "小米16全面升杯:性能狂飙,续航拉满,专治各种不服!",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842067441871226899&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:38:56",
+      "event_time": "9月1日 21:13"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 20:38:34",
+    "level2_scrape_time": "2025-09-12 20:38:56"
+  }
+}

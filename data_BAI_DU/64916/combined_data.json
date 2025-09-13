@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:22:29"
+  },
+  "core_event": {
+    "core_event_name": "欧洲杯16强确定12队",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:22:04"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "欧锦赛16强还剩最后两席 最后一轮西班牙&格鲁吉亚&波黑三虎相争",
+      "link": "http://www.163.com/dy/article/K8JS4JVF0529AQIE.html",
+      "time": "9月4日 10:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "欧洲杯16强已经确定12支球队",
+      "link": "http://weibo.com/6634465578/Q2PtHyQSQ",
+      "time": "9月3日 10:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "2025欧洲杯小组赛希腊字母哥率队三连胜提前晋级斯洛文尼亚东契奇三双秀湖人高层悬着的心终于放下",
+      "link": "http://www.sohu.com/a/930695568_122387568",
+      "time": "9月1日 13:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "希腊男篮41分大胜格鲁吉亚",
+      "link": "http://www.163.com/dy/article/K8AQF4AT0529RKNN.html",
+      "time": "8月31日 21:47",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "欧锦赛16强还剩最后两席 最后一轮西班牙&格鲁吉亚&波黑三虎相争",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8JS4JVF0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:22:19",
+      "event_time": "9月4日 10:09"
+    },
+    {
+      "event_title": "欧洲杯16强已经确定12支球队",
+      "event_id": "event_2",
+      "event_url": "http://weibo.com/6634465578/Q2PtHyQSQ",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:22:21",
+      "event_time": "9月3日 10:58"
+    },
+    {
+      "event_title": "2025欧洲杯小组赛希腊字母哥率队三连胜提前晋级斯洛文尼亚东契奇三双秀湖人高层悬着的心终于放下",
+      "event_id": "event_3",
+      "event_url": "http://www.sohu.com/a/930695568_122387568",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:22:23",
+      "event_time": "9月1日 13:10"
+    },
+    {
+      "event_title": "希腊男篮41分大胜格鲁吉亚",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8AQF4AT0529RKNN.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:22:25",
+      "event_time": "8月31日 21:47"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 17:22:18",
+    "level2_scrape_time": "2025-09-12 17:22:25"
+  }
+}

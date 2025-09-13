@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "南通队苏超联赛9连胜",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:38:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "苏超积分榜更新!明晚关键战!",
+      "link": "http://baijiahao.baidu.com/s?id=1842550833996398611&wfr=spider&for=pc",
+      "time": "9月6日 22:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "南通队2比1苏州队，豪取苏超联赛9连胜",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1305817100206610957",
+      "time": "8月31日 21:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "苏超积分榜大揭秘:无锡队的逆袭与宿迁队的首胜!",
+      "link": "http://www.sohu.com/a/930274895_122001006",
+      "time": "8月30日 22:47",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-13 00:38:47"
+}

@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "《归队》大结局",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:47:41"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "央视《归队》大结局",
+      "link": "http://baijiahao.baidu.com/s?id=1842849485399146758&wfr=spider&for=pc",
+      "time": "9月10日 12:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "《归队》收官:小贵形象高光丰满,兰花儿孩子没交代是遗憾",
+      "link": "http://cj.sina.com.cn/articles/view/7879923959/1d5ae18f702001b6wc",
+      "time": "9月10日 11:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "《归队》今日收官",
+      "link": "http://baijiahao.baidu.com/s?id=1842866980735408173&wfr=spider&for=pc",
+      "time": "9月10日 06:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "《归队》排长鲁长山牺牲,小贵崩溃",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4597919428923151768",
+      "time": "9月9日 09:29",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 10:47:56"
+}

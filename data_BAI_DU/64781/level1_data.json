@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "U23国足亚预赛惜败东帝汶",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:32:33"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U22国足险胜东帝汶:一场“赢球输面”的比赛,藏着多少扎心真相?",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31535270",
+      "time": "9月5日 14:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U22国足首秀：安东尼奥表示“满意”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16263348094469128354",
+      "time": "9月4日 19:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U22国足2-1东帝汶",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=14013095110404255848",
+      "time": "9月4日 01:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U23亚洲杯预选赛，中国队首战击败东帝汶队",
+      "link": "http://baijiahao.baidu.com/s?id=1842259694636013013&wfr=spider&for=pc",
+      "time": "9月4日 00:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "U23亚预赛1:2惜败国足，赛后东帝汶主帅：为队员的表现感到骄傲！",
+      "link": "http://www.163.com/dy/article/K8IIKACT0537B2DW.html",
+      "time": "9月3日 22:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "U23亚预赛国足2-1险胜东帝汶",
+      "link": "http://baijiahao.baidu.com/s?id=1842252712141135090&wfr=spider&for=pc",
+      "time": "9月3日 22:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "U22国足2-1击败东帝汶队",
+      "link": "http://news.bjd.com.cn/2025/09/03/11294707.shtml",
+      "time": "9月3日 21:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "U22国足1-0险胜东帝汶!拜合拉木破门,亚洲杯前景几何?",
+      "link": "http://www.sohu.com/a/931587393_121976701",
+      "time": "9月3日 20:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "U22男足亚预赛首战对阵东帝汶",
+      "link": "http://baijiahao.baidu.com/s?id=1842213571328181266&wfr=spider&for=pc",
+      "time": "9月3日 11:56",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-13 02:32:48"
+}

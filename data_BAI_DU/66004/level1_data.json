@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "南向资金净流入超110亿港元",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:22:08"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "南向资金净买入额达110亿港元。",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4013662847284372327",
+      "time": "9月8日 13:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "南向资金持续涌入,美联储降息预期居高不下,内外资共振下港股有望震荡向上",
+      "link": "http://www.nbd.com.cn/articles/2025-09-05/4050169.html",
+      "time": "9月5日 13:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "南向资金净买入超50亿港元",
+      "link": "http://www.cnstock.com/commonDetail/514737",
+      "time": "9月3日 15:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "今年以来南下资金爆买港股创历史纪录",
+      "link": "http://finance.eastmoney.com/a/202509033503365914.html",
+      "time": "9月3日 12:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "南向资金持续净流入，机构称外资存在超预期回流可能，港股科技板块有望获外资青睐",
+      "link": "http://baijiahao.baidu.com/s?id=1842117193699765218&wfr=spider&for=pc",
+      "time": "9月2日 10:23",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 14:22:23"
+}

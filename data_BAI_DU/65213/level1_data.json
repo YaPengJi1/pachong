@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "西班牙3-0大胜保加利亚",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:24:41"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "西班牙3-0大胜，罗德里、卡瓦哈尔复出助球队完美开局",
+      "link": "http://www.163.com/dy/article/K8N8M97305562G28.html",
+      "time": "9月5日 17:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "世界杯预选赛:西班牙胜保加利亚",
+      "link": "http://baijiahao.baidu.com/s?id=1842412303046274870&wfr=spider&for=pc",
+      "time": "9月5日 16:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "西班牙队自2013年以来最长不败纪录",
+      "link": "http://www.dongqiudi.com/articles/5354875.html",
+      "time": "9月5日 04:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "世预赛-西班牙3-0客胜保加利亚 梅里诺库库雷利亚破门亚马尔助攻",
+      "link": "http://baijiahao.baidu.com/s?id=1842371455346898096&wfr=spider&for=pc",
+      "time": "9月5日 04:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "西班牙3-0保加利亚,奥亚萨瓦尔、库库雷利亚、梅里诺破门",
+      "link": "http://www.dongqiudi.com/articles/5354863.html",
+      "time": "9月5日 04:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "西班牙3-0保加利亚",
+      "link": "http://www.dongqiudi.com/articles/5354820.html",
+      "time": "9月5日 03:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "西班牙曾对阵保加利亚打入13球，创造国家队史最大比分胜利",
+      "link": "http://www.163.com/dy/article/K8LJF7GG0529DS7F.html",
+      "time": "9月5日 02:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "西班牙vs保加利亚",
+      "link": "http://tieba.baidu.com/p/10010447666",
+      "time": "9月4日 23:34",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-12 20:24:55"
+}

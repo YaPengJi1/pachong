@@ -1,0 +1,59 @@
+{
+  "core_event_name": "乔戈麦斯转投米兰",
+  "comments": [
+    {
+      "event_title": "米兰官方宣布马拉斯皮纳永久转会诺瓦拉",
+      "event_id": "event_1",
+      "event_url": "http://k.sina.com.cn/article_3525283850_d21f900a04001grgm.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:26:35",
+      "event_time": "9月2日 10:53"
+    },
+    {
+      "event_title": "因格伊交易未确认，乔-戈麦斯加盟米兰交易仍未得到批准",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8D2QBT90529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:26:37",
+      "event_time": "9月1日 18:51"
+    },
+    {
+      "event_title": "乔-戈麦斯或转投米兰:利物浦的犹豫与未来的选择",
+      "event_id": "event_3",
+      "event_url": "http://m.sohu.com/a/930475752_121894857",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:26:39",
+      "event_time": "8月31日 18:20"
+    },
+    {
+      "event_title": "乔戈麦斯已同意加盟米兰，并准备签下一份四年合同",
+      "event_id": "event_4",
+      "event_url": "http://www.dongqiudi.com/articles/5344712.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:26:41",
+      "event_time": "8月31日 17:30"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 23:26:41"
+}

@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "火箭队崛起，申京力压三位超巨",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:12:41"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "申京创纪录挺进四强:7胜0负冲冠",
+      "link": "http://www.titan24.com/publish/app/data/2025/09/10/568395/os_news.html",
+      "time": "9月10日 07:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "土媒晒申京7战数据盛赞最好一代!7连胜MVP榜第一:出火箭升空海报",
+      "link": "http://cj.sina.com.cn/articles/view/2289815244/887bcecc00102naoa",
+      "time": "9月10日 00:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "场均轰22+10+6+1帽!名记看好申京,重点提及一技能,火箭队因此受益",
+      "link": "http://baijiahao.baidu.com/s?id=1842760221700462543&wfr=spider&for=pc",
+      "time": "9月9日 12:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "东契奇、字母哥、申京是本届欧锦赛至今仅有的3位场均至少20+5+5球员",
+      "link": "http://sports.sina.cn/nba/other/2025-09-06/detail-infpppfh4972729.d.html",
+      "time": "9月6日 10:43",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 10:12:55"
+}

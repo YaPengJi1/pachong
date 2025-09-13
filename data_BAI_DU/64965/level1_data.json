@@ -1,0 +1,108 @@
+{
+  "core_info": {
+    "core_event_name": "2025年全国游泳锦标赛",
+    "update_time": "更新至20250912",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:14:35"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "全球赛艇精英即将亮相上海",
+      "link": "http://baijiahao.baidu.com/s?id=1843031171080324630&wfr=spider&for=pc",
+      "time": "今天 11:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "2025 全国游泳锦标赛七日冠军全记录!最后两日终极赛程前瞻",
+      "link": "http://news.sina.com.cn/shangxunfushen/2025-09-11/detail-infqccei1674525.shtml",
+      "time": "昨天 16:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "2025全国游泳锦标赛男子50米蛙泳预赛 游出27秒38,总排名第一晋级决赛",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11137863155133400106",
+      "time": "9月7日 11:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "浙江姑娘余依婷夺得2025年游泳全锦赛女子个人400混冠军",
+      "link": "http://zjnews.zjol.com.cn/zjnews/202509/t20250907_31214697.shtml",
+      "time": "9月7日 08:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "全国游泳锦标赛成都揭幕",
+      "link": "http://www.cdrb.com.cn/epaper/cdrbpad/202509/06/c153827.html",
+      "time": "9月6日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "潘展乐孙杨亮相全国游泳锦标赛",
+      "link": "http://finance.sina.com.cn/jjxw/2025-09-05/doc-infpnfmz0571210.shtml",
+      "time": "9月5日 21:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "名将云集 全国游泳锦标赛成都开赛",
+      "link": "http://tv.cctv.com/2025/09/05/VIDEhbu5XUnXw9eD37O4t0Xu250905.shtml",
+      "time": "9月5日 18:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "汪顺100米蛙泳小组第一晋级，潘展乐50米蝶泳刷新个人最好成绩",
+      "link": "http://www.163.com/dy/article/K8N9L44K0530JPVV.html",
+      "time": "9月5日 18:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "潘展乐、汪顺、张雨霏齐聚成都!2025年全国游泳锦标赛9月5日开赛",
+      "link": "http://scnews.newssc.org/system/20250904/001552817.html",
+      "time": "9月4日 17:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "2025年全国游泳锦标赛,明日在川开赛",
+      "link": "http://www.scpublic.cn/news/getNewsDatail?id=839198",
+      "time": "9月4日 09:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "汪顺、潘展乐、张雨霏等将出战游泳全锦赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842139655656593245&wfr=spider&for=pc",
+      "time": "9月2日 16:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "游泳全锦赛汪顺等将出战",
+      "link": "http://news.cnhubei.com/content/2025-09/02/content_19468152.html",
+      "time": "9月2日 12:01",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 12,
+  "scrape_time": "2025-09-12 18:14:49"
+}

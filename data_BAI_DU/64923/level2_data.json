@@ -1,0 +1,46 @@
+{
+  "core_event_name": "国羽在世锦赛收获2金3银",
+  "comments": [
+    {
+      "event_title": "羽毛球世锦赛收官，国羽获2金3银，石宇奇圆梦男单冠军",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6113254054573001791",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:29:00",
+      "event_time": "9月4日 19:23"
+    },
+    {
+      "event_title": "石宇奇等闪耀羽坛，国羽新老交替机遇与挑战并存",
+      "event_id": "event_2",
+      "event_url": "http://www.sohu.com/a/931533687_122454425",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:29:02",
+      "event_time": "9月3日 17:34"
+    },
+    {
+      "event_title": "世锦赛国羽2金3银收官",
+      "event_id": "event_3",
+      "event_url": "http://k.sina.com.cn/article_1835372902_6d65916600101a7q2.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:29:04",
+      "event_time": "9月1日 22:43"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 17:29:04"
+}

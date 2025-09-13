@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:40:37"
+  },
+  "core_event": {
+    "core_event_name": "广东男篮新赛季阵容调整",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:40:02"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "广东男篮7分险胜，新援首秀40分",
+      "link": "http://cj.sina.com.cn/articles/view/5887996859/15ef3b3bb001014nh8",
+      "time": "9月9日 18:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "广东全运会16人出炉，崔永熙不打，3人离队，3小将加入",
+      "link": "http://cj.sina.com.cn/articles/view/6504901717/183b8ec5500101iazc",
+      "time": "9月5日 19:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "广东全运会豪华阵容终于合体",
+      "link": "http://cj.sina.com.cn/articles/view/6579233538/18827230200102k7yi",
+      "time": "9月4日 17:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "广东全运会阵容确定，辽宁签21+11新星，上海接触欧锦赛28分外援",
+      "link": "http://www.163.com/dy/article/K8I19MMM05528SBU.html",
+      "time": "9月3日 17:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "广东男篮和四川男篮砸重金冲冠恐成泡影",
+      "link": "http://cj.sina.com.cn/articles/view/2723256025/a25196d900101a712",
+      "time": "9月3日 11:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "广东全运阵容集齐6省7队精英",
+      "link": "http://app.myzaker.com/news/article.php?m=1756859522&pk=68b78b9d8e9f0903d323cebf",
+      "time": "9月3日 08:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "广东男篮全运会阵容:赵睿 胡明轩 徐杰 沈梓捷领衔!",
+      "link": "http://sports.sina.cn/nba/other/2025-09-02/detail-infpaxmh0205184.d.html",
+      "time": "9月2日 15:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "广东男篮注册球员更新:崔永熙预注册,任骏飞不在名单中",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15176679770360450404",
+      "time": "8月31日 21:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "广东男篮更新注册名单，核心阵容清晰",
+      "link": "http://k.sina.com.cn/article_1340604587_4fe800ab001016ec6.html",
+      "time": "8月31日 15:30",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "广东男篮7分险胜，新援首秀40分",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/5887996859/15ef3b3bb001014nh8",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:40:17",
+      "event_time": "9月9日 18:44"
+    },
+    {
+      "event_title": "广东全运会16人出炉，崔永熙不打，3人离队，3小将加入",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/6504901717/183b8ec5500101iazc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:40:19",
+      "event_time": "9月5日 19:26"
+    },
+    {
+      "event_title": "广东全运会豪华阵容终于合体",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/6579233538/18827230200102k7yi",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:40:21",
+      "event_time": "9月4日 17:46"
+    },
+    {
+      "event_title": "广东全运会阵容确定，辽宁签21+11新星，上海接触欧锦赛28分外援",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8I19MMM05528SBU.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:40:23",
+      "event_time": "9月3日 17:04"
+    },
+    {
+      "event_title": "广东男篮和四川男篮砸重金冲冠恐成泡影",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/2723256025/a25196d900101a712",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:40:25",
+      "event_time": "9月3日 11:26"
+    },
+    {
+      "event_title": "广东全运阵容集齐6省7队精英",
+      "event_id": "event_6",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1756859522&pk=68b78b9d8e9f0903d323cebf",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:40:27",
+      "event_time": "9月3日 08:28"
+    },
+    {
+      "event_title": "广东男篮全运会阵容:赵睿 胡明轩 徐杰 沈梓捷领衔!",
+      "event_id": "event_7",
+      "event_url": "http://sports.sina.cn/nba/other/2025-09-02/detail-infpaxmh0205184.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:40:29",
+      "event_time": "9月2日 15:33"
+    },
+    {
+      "event_title": "广东男篮注册球员更新:崔永熙预注册,任骏飞不在名单中",
+      "event_id": "event_8",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=15176679770360450404",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:40:31",
+      "event_time": "8月31日 21:00"
+    },
+    {
+      "event_title": "广东男篮更新注册名单，核心阵容清晰",
+      "event_id": "event_9",
+      "event_url": "http://k.sina.com.cn/article_1340604587_4fe800ab001016ec6.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:40:33",
+      "event_time": "8月31日 15:30"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 9,
+    "total_comments": 9,
+    "events_with_comments": 9,
+    "level1_scrape_time": "2025-09-12 18:40:16",
+    "level2_scrape_time": "2025-09-12 18:40:33"
+  }
+}

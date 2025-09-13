@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:02:23"
+  },
+  "core_event": {
+    "core_event_name": "东风61震撼阅兵撑起核保护伞",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:01:59"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "惊雷-1导弹亮相,居然放在了核导弹方队,中国三位一体核力量完成",
+      "link": "http://www.sohu.com/a/932616768_121625647",
+      "time": "9月7日 12:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "惊雷1亮相!全球唯一空基核导弹,中国“三位一体”拼图补齐",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10695840445511846388",
+      "time": "9月6日 13:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "东风61震撼阅兵 撑起核保护伞 惊雷-1空射导弹颠覆反导规则",
+      "link": "http://www.163.com/dy/article/K8P61R1T0553RVN3.html",
+      "time": "9月6日 11:38",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "惊雷-1导弹亮相,居然放在了核导弹方队,中国三位一体核力量完成",
+      "event_id": "event_1",
+      "event_url": "http://www.sohu.com/a/932616768_121625647",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:02:15",
+      "event_time": "9月7日 12:53"
+    },
+    {
+      "event_title": "惊雷1亮相!全球唯一空基核导弹,中国“三位一体”拼图补齐",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10695840445511846388",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:02:17",
+      "event_time": "9月6日 13:14"
+    },
+    {
+      "event_title": "东风61震撼阅兵 撑起核保护伞 惊雷-1空射导弹颠覆反导规则",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8P61R1T0553RVN3.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:02:19",
+      "event_time": "9月6日 11:38"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 11:02:14",
+    "level2_scrape_time": "2025-09-12 11:02:19"
+  }
+}

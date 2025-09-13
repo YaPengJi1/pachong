@@ -1,0 +1,59 @@
+{
+  "core_event_name": "外卖大战线下折扣店战争",
+  "comments": [
+    {
+      "event_title": "三巨头又瞄准硬折扣市场,零售业变革浪潮再起",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842522093187505676&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:41:16",
+      "event_time": "9月6日 21:39"
+    },
+    {
+      "event_title": "超市价格暴跌!美团、阿里、京东又“杀进”折扣超市",
+      "event_id": "event_2",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31541523",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:41:18",
+      "event_time": "9月4日 20:20"
+    },
+    {
+      "event_title": "京东阿里美团再进折扣超市巷战",
+      "event_id": "event_3",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68b81d181bc8e06123000003",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:41:20",
+      "event_time": "9月3日 18:48"
+    },
+    {
+      "event_title": "外卖战还没停,线下折扣烽烟又起!京东、盒马、美团“巷战”折扣超市",
+      "event_id": "event_4",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68b63a69b15ec037da514c89",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:41:22",
+      "event_time": "9月2日 08:29"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-13 00:41:22"
+}

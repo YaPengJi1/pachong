@@ -1,0 +1,72 @@
+{
+  "core_event_name": "黄金破纪录，金价飙升",
+  "comments": [
+    {
+      "event_title": "3500 美元!黄金破纪录,能掀翻美元霸权?",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8966682049942366975",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:45:45",
+      "event_time": "9月3日 16:38"
+    },
+    {
+      "event_title": "黄金再度升至3500美元/盎司上方",
+      "event_id": "event_2",
+      "event_url": "http://finance.eastmoney.com/a/202509023502628548.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:45:47",
+      "event_time": "9月2日 22:26"
+    },
+    {
+      "event_title": "国际现货黄金突破3500美元/盎司 金价上扬",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6131065286353038154",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:45:49",
+      "event_time": "9月2日 19:09"
+    },
+    {
+      "event_title": "现货黄金价格飙至3500美元盎司，刷新历史纪录",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=16845450614960842322",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:45:52",
+      "event_time": "9月2日 15:38"
+    },
+    {
+      "event_title": "金价创历史新高!西部黄金再涨停",
+      "event_id": "event_5",
+      "event_url": "http://m.nbd.com.cn/articles/2025-09-02/4045723.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:45:54",
+      "event_time": "9月2日 10:38"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-13 01:45:54"
+}

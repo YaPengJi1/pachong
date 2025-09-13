@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "澳大利亚豪取五连胜，亚预赛形势出炉",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 12:29:59"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "亚预赛诞生2支7分队 中国队形势:多了2个对手",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=368620215387966979",
+      "time": "9月9日 21:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "亚预赛中国队出线多了两个对手",
+      "link": "http://cj.sina.com.cn/articles/view/2834321443/a8f0502300101mkm0",
+      "time": "9月9日 19:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "澳大利亚狂胜北马里亚纳，国足小胜东帝汶，亚预赛D组积分榜刷新",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16830087503752234559",
+      "time": "9月7日 12:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "澳大利亚豪取五连胜",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8157971281347751622",
+      "time": "9月6日 23:42",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 12:30:14"
+}

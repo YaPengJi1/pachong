@@ -1,0 +1,132 @@
+{
+  "core_info": {
+    "core_event_name": "苹果17系列发布",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 12:27:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "苹果iPhone 17 系列京东 / 天猫预约量破 200 万,较上一代 iPhone 16 系列增近 3 倍",
+      "link": "http://www.ithome.com/0/882/278.htm",
+      "time": "昨天 19:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "iPhone 17 系列发布会亮点回顾:高刷与续航升级",
+      "link": "http://baijiahao.baidu.com/s?id=1842934420918421736&wfr=spider&for=pc",
+      "time": "昨天 10:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "iPhone 17系列京东预约人数超420万:牙膏挤爆的标准版最受欢迎",
+      "link": "http://news.mydrivers.com/1/1073/1073795.htm",
+      "time": "昨天 00:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "苹果公司推出迄今最薄苹果手机iPhone Air",
+      "link": "http://baijiahao.baidu.com/s?id=1842861521847948368&wfr=spider&for=pc",
+      "time": "9月10日 15:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "最薄iPhone 登场,eSIM 正式落地",
+      "link": "http://news.pedaily.cn/202509/554694.shtml",
+      "time": "9月10日 13:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "首次加入VC散热、玻璃+铝金属拼接机身!iPhone 17 Pro/Pro Max发布:8999元起",
+      "link": "http://news.mydrivers.com/1/1073/1073532.htm",
+      "time": "9月10日 02:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "苹果年度盛会:iPhone 17 与新款智能手表发布会",
+      "link": "http://weibo.com/7943876498/Q3MDQcymI",
+      "time": "9月9日 17:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "iPhone 17即将发布,苹果还会带来哪些惊喜产品?",
+      "link": "http://www.sohu.com/a/933278245_122004016",
+      "time": "9月9日 16:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "苹果秋季发布会临近,iPhone 17系列渲染图曝光,副屏设计引热议",
+      "link": "http://mobile.zol.com.cn/1044/10441050.html",
+      "time": "9月8日 16:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "苹果发布会将推出超8款新品:iPhone 17大改 还有这些",
+      "link": "http://finance.sina.com.cn/roll/2025-09-08/doc-infpumzh9649212.shtml",
+      "time": "9月8日 13:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "iPhone 17即将发布:美版印度造,中国掌控核心供应链",
+      "link": "http://36kr.com/p/3457531738051972",
+      "time": "9月8日 12:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "苹果秋季发布会前瞻",
+      "link": "http://baijiahao.baidu.com/s?id=1842580717796037426&wfr=spider&for=pc",
+      "time": "9月7日 13:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "iPhone 17系列内存配置、开售时间、售价曝光",
+      "link": "http://news.mydrivers.com/1/1072/1072951.htm",
+      "time": "9月7日 09:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "iPhone 17系列即将发布",
+      "link": "http://weibo.com/3158667851/Q31t39Tw0",
+      "time": "9月4日 17:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "iPhone17首发优先购来啦!9月12日开抢",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5154975599488517822",
+      "time": "9月2日 22:09",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 15,
+  "scrape_time": "2025-09-12 12:27:44"
+}

@@ -1,0 +1,46 @@
+{
+  "core_event_name": "特朗普改名战争部",
+  "comments": [
+    {
+      "event_title": "美国“国防部”更名为“战争部”",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250908A06CIE00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:29:45",
+      "event_time": "9月8日 20:00"
+    },
+    {
+      "event_title": "特朗普把国防部更名为战争部,接下来美军或拿某个小国开刀",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10762783318567559342",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:29:47",
+      "event_time": "9月7日 14:45"
+    },
+    {
+      "event_title": "特朗普把国防部改名战争部",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10812772244156774703",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:29:49",
+      "event_time": "9月6日 20:28"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 14:29:49"
+}

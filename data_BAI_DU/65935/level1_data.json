@@ -1,0 +1,108 @@
+{
+  "core_info": {
+    "core_event_name": "韩国人在美被捕",
+    "update_time": "更新至2025年9月11日 14:00",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:53:38"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "在美被捕韩国公民获释 将乘包机返回韩国",
+      "link": "https://baijiahao.baidu.com/s?id=1842946192849586472",
+      "time": "昨天 14:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "由于美方原因，在美被拘300余名韩国公民无法按原计划回国",
+      "link": "https://baijiahao.baidu.com/s?id=1842879516876197301&wfr=spider&for=pc",
+      "time": "9月10日 20:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美国反手一巴掌，韩国惊了",
+      "link": "https://baijiahao.baidu.com/s?id=1842870414451399179",
+      "time": "9月10日 17:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "韩媒:韩美外长会晤推迟一天 不影响被拘人员回国",
+      "link": "https://haokan.baidu.com/v?vid=8720185670318251801&collection_id=",
+      "time": "9月10日 09:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "外媒：韩方要求美国允许被捕韩国公民再次入境美国",
+      "link": "https://baijiahao.baidu.com/s?id=1842774114992453341",
+      "time": "9月9日 16:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "回应韩企员工在美被捕 韩国总统李在明：希望不再发生",
+      "link": "https://baijiahao.baidu.com/s?id=1842762733969552142",
+      "time": "9月9日 13:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "针对超300名韩国人在美被捕 特朗普最新回应",
+      "link": "https://baijiahao.baidu.com/s?id=1842683839406580079",
+      "time": "9月8日 16:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "韩国称在美被捕韩籍员工将于10日左右乘包机回国",
+      "link": "https://baijiahao.baidu.com/s?id=1842670497463100816&wfr=spider&for=pc",
+      "time": "9月8日 12:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "美国突袭现代汽车工厂",
+      "link": "https://baijiahao.baidu.com/s?id=1842613368157925834&wfr=spider&for=pc",
+      "time": "9月7日 19:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "300多名韩国人在美被捕 韩舆论担忧波及美韩关系",
+      "link": "https://baijiahao.baidu.com/s?id=1842599254893741058&wfr=spider&for=pc",
+      "time": "9月7日 18:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "韩称与美协商完毕拟派包机接回",
+      "link": "https://baijiahao.baidu.com/s?id=1842593711671420059&wfr=spider&for=pc",
+      "time": "9月7日 16:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "李在明要求全力迅速解决",
+      "link": "https://baijiahao.baidu.com/s?id=1842595658890987970&wfr=spider&for=pc",
+      "time": "9月7日 16:01",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 12,
+  "scrape_time": "2025-09-12 14:53:53"
+}

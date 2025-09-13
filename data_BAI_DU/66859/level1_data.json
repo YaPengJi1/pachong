@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "九三阅兵亮相",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:38:40"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "九三阅兵亮相的大国重器",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7200873586060724651",
+      "time": "9月9日 17:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "“大国重器”集中亮相阅兵场 解密尖端武器装备",
+      "link": "http://news.haiwainet.cn/n/2025/0908/c3541083-32892504.html",
+      "time": "9月8日 09:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "九三阅兵展现中国力量",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6774799994891575527",
+      "time": "9月7日 17:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "国际人士:九三阅兵呈现了一个强大的现代中国",
+      "link": "http://news.dayoo.com/china/202509/06/139997_54869442.htm",
+      "time": "9月6日 16:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "九三阅兵有多强?外媒惊呼时代已变!中国已经成为全球引领者!",
+      "link": "http://www.163.com/dy/article/K8ME9PHV05561T0H.html",
+      "time": "9月5日 10:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "多国领导人称赞九三阅兵:非凡盛会彰显中国担当",
+      "link": "http://www.163.com/dy/article/K8L7GK1B0514R9L4.html",
+      "time": "9月4日 22:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "九三阅兵引发国际广泛关注，外媒积极评价中国对世界和平与发展的重要贡献",
+      "link": "http://baijiahao.baidu.com/s?id=1842343804266904978&wfr=spider&for=pc",
+      "time": "9月4日 22:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "外媒聚焦九三阅兵:多国领导人齐聚北京,中国的“世界时刻”到来",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b7cb7d8e9f093b8112b553",
+      "time": "9月3日 13:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-12 10:38:55"
+}

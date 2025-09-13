@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:12:52"
+  },
+  "core_event": {
+    "core_event_name": "胡塞武装突袭以色列",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:12:11"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "胡塞武装称三次袭击以色列 以方机场关闭、警报响起",
+      "link": "http://baijiahao.baidu.com/s?id=1842709316297580370&wfr=spider&for=pc",
+      "time": "9月8日 23:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "胡塞武装复仇风暴直扑以色列",
+      "link": "http://www.163.com/dy/article/K8QMK7IB0556124I.html",
+      "time": "9月7日 01:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "胡塞武装突袭以色列,造成巨大冲击",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11966187765302562923",
+      "time": "9月6日 11:22",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "胡塞武装称三次袭击以色列 以方机场关闭、警报响起",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842709316297580370&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "竣俊junjun",
+      "comment_time": "09-10 01:10",
+      "comment_content": "愿世界和平，共筑美好未来！",
+      "user_location": "湖北",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:12:44",
+      "event_time": "9月8日 23:15"
+    },
+    {
+      "event_title": "胡塞武装复仇风暴直扑以色列",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8QMK7IB0556124I.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:12:46",
+      "event_time": "9月7日 01:47"
+    },
+    {
+      "event_title": "胡塞武装突袭以色列,造成巨大冲击",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11966187765302562923",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:12:48",
+      "event_time": "9月6日 11:22"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 11:12:25",
+    "level2_scrape_time": "2025-09-12 11:12:48"
+  }
+}

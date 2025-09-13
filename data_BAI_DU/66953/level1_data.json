@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "2025全球工业互联网大会沈阳开幕",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:38:54"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "2025全球大会沈阳开幕,数智新章背后藏着这些移动力量",
+      "link": "http://baijiahao.baidu.com/s?id=1842866840665041004&wfr=spider&for=pc",
+      "time": "9月10日 16:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "2025全球工业互联网大会新产品新技术发布活动在沈阳举办",
+      "link": "http://www.ln.xinhuanet.com/20250909/761645a426134d43afff25f5ff7a52f9/c.html",
+      "time": "9月9日 16:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "2025全球工业互联网大会“互联网+品牌崛起”论坛在沈阳举办",
+      "link": "http://finance.sina.com.cn/jjxw/2025-09-08/doc-infpumzm4573373.shtml",
+      "time": "9月8日 15:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "2025全球工业互联网大会开幕式在沈阳举行",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13747507231107877914",
+      "time": "9月7日 21:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "2025全球工业互联网大会沈阳开幕,AI技术惊艳亮相",
+      "link": "http://baijiahao.baidu.com/s?id=1842518530547962601&wfr=spider&for=pc",
+      "time": "9月6日 20:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "2025全球工业互联网大会在沈阳中国工业博物馆开幕",
+      "link": "http://baijiahao.baidu.com/s?id=1842516140052308682&wfr=spider&for=pc",
+      "time": "9月6日 20:05",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 10:39:08"
+}

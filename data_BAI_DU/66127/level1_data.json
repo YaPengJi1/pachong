@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "上汽荣威M7 DMH上市",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:39:28"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "行业首次AI智控挑战成功，荣威M7 DMH将于9月17日正式上市",
+      "link": "http://k.sina.com.cn/article_7394021807_1b8b7d1af00101xb18.html",
+      "time": "9月8日 16:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "荣威 M7 DMH 预售破万",
+      "link": "http://baijiahao.baidu.com/s?id=1842570086483624024&wfr=spider&for=pc",
+      "time": "9月7日 10:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "全球首搭豆包推理大模型 荣威M7 DMH将于9月17日上市",
+      "link": "http://m.sohu.com/a/932209391_121739784",
+      "time": "9月5日 16:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "荣威M7 DMH预售首周订单破万",
+      "link": "http://weibo.com/1008763515/Q38gWtiyX",
+      "time": "9月5日 10:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "最低预售价格10万元一下，荣威M7 DMH将于9月17日上市",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b84e5d8e9f0915ec78af7c",
+      "time": "9月3日 22:09",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 14:39:42"
+}

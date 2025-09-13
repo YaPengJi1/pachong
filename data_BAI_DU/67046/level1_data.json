@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "石破茂辞职引发日本政局不稳",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:38:45"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "石破茂突然辞职震惊日本,麻生太郎一通电话定乾坤",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=904164832278096857",
+      "time": "9月10日 15:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "石破茂宣布辞职,中方回应",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31570133",
+      "time": "9月8日 16:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "日本政坛大地震!石破茂闪电辞职,谁将接掌世界第四大经济体?",
+      "link": "http://forex.cnfol.com/jingjiyaowen/20250908/31623723.shtml",
+      "time": "9月8日 14:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "日本首相石破茂为何突然决意辞职",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5863988289851890587",
+      "time": "9月8日 13:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "日本首相辞职引发政局不稳,美元兑日元徘徊148关口",
+      "link": "http://finance.sina.cn/forex/whzx/2025-09-08/detail-infpuftn6236113.d.html",
+      "time": "9月8日 13:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "石破茂宣布决定辞去自民党总裁职务",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10279195400397965701",
+      "time": "9月8日 09:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "石破茂宣布:辞去自民党总裁职务",
+      "link": "http://finance.sina.cn/2025-09-07/detail-infpsxxz0300076.d.html",
+      "time": "9月7日 17:22",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 10:39:00"
+}

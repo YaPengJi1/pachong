@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "IFA2025产品技术创新大奖花落谁家",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:45:34"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "卡萨帝空调又拿下全球权威金奖",
+      "link": "http://baijiahao.baidu.com/s?id=1842603713192624728&wfr=spider&for=pc",
+      "time": "9月7日 19:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "IFA2025:AI家电开路、体育营销搭桥,“中国力量”爆发",
+      "link": "http://www.yicai.com/news/102811430.html",
+      "time": "9月5日 20:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "安克创新发布全球品牌升级",
+      "link": "http://news.sina.com.cn/sx/2025-09-05/detail-infpmqqi0867519.shtml",
+      "time": "9月5日 16:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "联想携多款新品亮相德国柏林IFA2025",
+      "link": "http://app.myzaker.com/news/article.php?m=1757101174&pk=68ba98618e9f0937825930dc",
+      "time": "9月5日 15:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "海信冰箱即将亮相IFA 2025",
+      "link": "http://www.cqn.com.cn/jiadian/content/2025-09/04/content_9121711.htm",
+      "time": "9月4日 12:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "IFA2025将启 全球产品技术创新大奖花落谁家",
+      "link": "http://baijiahao.baidu.com/s?id=1842260149063213302&wfr=spider&for=pc",
+      "time": "9月4日 00:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "IFA2025开幕在即，国产品牌“科技”大秀期待值拉满",
+      "link": "http://3g.cnfol.com/hy_stock/hangyejingcui/20250902/31607425.shtml",
+      "time": "9月2日 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 18:45:48"
+}

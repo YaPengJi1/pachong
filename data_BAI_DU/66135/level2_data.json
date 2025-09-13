@@ -1,0 +1,72 @@
+{
+  "core_event_name": "樊振东德甲连胜两场",
+  "comments": [
+    {
+      "event_title": "樊振东德甲输球冲热搜",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250908V05QU000",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:48:58",
+      "event_time": "9月8日 16:04"
+    },
+    {
+      "event_title": "上海体育局报导樊振东德甲首胜",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4863703133245566788",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:49:00",
+      "event_time": "9月8日 10:27"
+    },
+    {
+      "event_title": "樊振东又回来了,豪取德甲比赛两连胜",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9618319810030100221",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:49:02",
+      "event_time": "9月7日 22:01"
+    },
+    {
+      "event_title": "樊振东德甲连赢两场 帮助俱乐部取得本赛季首胜",
+      "event_id": "event_4",
+      "event_url": "http://video.sina.cn/finance/2025-09-07/detail-infpspiy8339567.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:49:04",
+      "event_time": "9月7日 18:43"
+    },
+    {
+      "event_title": "樊振东德甲首秀意外",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/sports/article/K8HE7KRA00058782.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:49:06",
+      "event_time": "9月3日 11:27"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 14:49:06"
+}

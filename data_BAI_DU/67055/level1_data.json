@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "中国男篮亚洲杯决赛失利",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:48:37"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国男篮惜败澳大利亚，亚洲杯决赛失利",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7041496202235201429",
+      "time": "9月9日 08:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国U16男篮屈居亚军",
+      "link": "http://m.dongqiudi.com/article/5360993.html",
+      "time": "9月8日 13:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国男篮无缘冠军，崩盘原因曝光",
+      "link": "http://cj.sina.com.cn/articles/view/2834321443/a8f0502300101mhw2",
+      "time": "9月7日 20:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U16男篮亚洲杯决赛再次上演中澳对决 为中国队加油",
+      "link": "http://news.hnr.cn/shxw/article/1/1964570353646514178",
+      "time": "9月7日 14:04",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 10:48:51"
+}

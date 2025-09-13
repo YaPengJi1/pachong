@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 15:07:18"
+  },
+  "core_event": {
+    "core_event_name": "国足晋级U23亚洲杯",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:06:54"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国足晋级U23亚洲杯，U22国足0比0澳大利亚携手出线",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13212543113040123118",
+      "time": "9月10日 00:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "亚预赛最新形势出炉：中国队出线多了两个对手",
+      "link": "http://cj.sina.com.cn/articles/view/2834321443/a8f0502300101mkm0",
+      "time": "9月9日 19:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "亚洲预选赛出线形势复杂:7分也可能被淘汰,国足晋级需多队帮忙",
+      "link": "http://news.sohu.com/a/933059009_121608984",
+      "time": "9月9日 04:39",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "国足晋级U23亚洲杯，U22国足0比0澳大利亚携手出线",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=13212543113040123118",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:07:10",
+      "event_time": "9月10日 00:04"
+    },
+    {
+      "event_title": "亚预赛最新形势出炉：中国队出线多了两个对手",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/2834321443/a8f0502300101mkm0",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:07:12",
+      "event_time": "9月9日 19:58"
+    },
+    {
+      "event_title": "亚洲预选赛出线形势复杂:7分也可能被淘汰,国足晋级需多队帮忙",
+      "event_id": "event_3",
+      "event_url": "http://news.sohu.com/a/933059009_121608984",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:07:14",
+      "event_time": "9月9日 04:39"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 15:07:09",
+    "level2_scrape_time": "2025-09-12 15:07:14"
+  }
+}

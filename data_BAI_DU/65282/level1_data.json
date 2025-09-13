@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "中信证券、中国动力、中国东航中报净利润增长",
+    "update_time": "更新至20250901",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:35:48"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国动力中报 - 第二季度单季净利润同比增长35.20%",
+      "link": "http://stock.stockstar.com/RB2025090100000595.shtml",
+      "time": "9月1日 04:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国东航中报-第二季度单季净利润同比增长77.81%",
+      "link": "http://m.sohu.com/a/930533415_115377",
+      "time": "9月1日 01:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中信证券中报 - 第二季度单季净利润同比增长27.85%",
+      "link": "http://stock.stockstar.com/RB2025090100000168.shtml",
+      "time": "9月1日 00:55",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 21:36:03"
+}

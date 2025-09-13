@@ -1,0 +1,72 @@
+{
+  "core_event_name": "虞书欣张昊玥争议",
+  "comments": [
+    {
+      "event_title": "张昊玥发声控诉虞书欣霸凌",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842613038386665524&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "Sydney美丽Tina",
+      "comment_time": "09-07 22:18",
+      "comment_content": "霸凌伤害太深了，感谢张昊玥勇敢发声。每个人都值得被尊重善待。",
+      "user_location": "山西",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 14:40:24",
+      "event_time": "9月7日 21:45"
+    },
+    {
+      "event_title": "张昊玥发长文控诉曾被虞书欣霸凌",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7158000497934624596",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:40:26",
+      "event_time": "9月7日 14:39"
+    },
+    {
+      "event_title": "虞书欣张昊玥称被虞书欣霸凌",
+      "event_id": "event_3",
+      "event_url": "http://m.cnhubei.com/content/2025-09/07/content_19481136.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:40:28",
+      "event_time": "9月7日 14:00"
+    },
+    {
+      "event_title": "女演员控诉遭虞书欣霸凌",
+      "event_id": "event_4",
+      "event_url": "http://news.sina.com.cn/zx/2025-09-07/doc-infprwnp0856080.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:40:30",
+      "event_time": "9月7日 13:42"
+    },
+    {
+      "event_title": "虞书欣因节目言行陷入舆论风波",
+      "event_id": "event_5",
+      "event_url": "http://weibo.com/6969803811/Q3pD4unmw",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:40:32",
+      "event_time": "9月7日 07:00"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 14:40:32"
+}

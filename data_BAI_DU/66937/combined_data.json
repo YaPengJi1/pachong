@@ -1,0 +1,450 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:22:24"
+  },
+  "core_event": {
+    "core_event_name": "史上最贵iPhone 17发布",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:20:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "苹果再回应479元挂绳太贵",
+      "link": "http://news.mydrivers.com/1/1073/1073901.htm",
+      "time": "昨天 13:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "最贵17999元,苹果发布iPhone17引热议!",
+      "link": "http://baijiahao.baidu.com/s?id=1842919661590951899&wfr=spider&for=pc",
+      "time": "9月10日 20:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "苹果iPhone 17挂绳卖479元 罗永浩吐槽:这么割韭菜很恶心 吃相很难看 臭不要脸",
+      "link": "http://news.mydrivers.com/1/1073/1073768.htm",
+      "time": "9月10日 20:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "史上最贵iPhone 17发布!库克:苹果从“零”开始打造的手机",
+      "link": "http://finance.sina.cn/2025-09-10/detail-infpytxh7782403.d.html",
+      "time": "9月10日 13:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "市值蒸发超3700亿!苹果股价在发布会后跳水,却“带飞”工业富联",
+      "link": "http://baijiahao.baidu.com/s?id=1842850716315226018&wfr=spider&for=pc",
+      "time": "9月10日 12:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "苹果发布iPhone 17系列,最高售价17999元创纪录",
+      "link": "http://mobile.zol.com.cn/1044/10447436.html",
+      "time": "9月10日 12:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "iPhone 17发布 路透:关税冲击下,苹果稳住价格吸引消费者升级",
+      "link": "http://baijiahao.baidu.com/s?id=1842841058496752689&wfr=spider&for=pc",
+      "time": "9月10日 10:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "iPhone 17系列配置、价格全公布",
+      "link": "http://news.sina.cn/gj/2025-09-10/detail-infpyiiq4415154.d.html",
+      "time": "9月10日 09:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "苹果发布iPhone 17系列新配件,挂绳与高价手机壳引热议",
+      "link": "http://mobile.zol.com.cn/1044/10447256.html",
+      "time": "9月10日 08:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "iPhone17支持国补,起售价5999元,最贵17999元,史上最薄iPhone国行喜提首发",
+      "link": "http://news.cnhubei.com/content/2025-09/10/content_19488066.html",
+      "time": "9月10日 08:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "iPhone 17系列发布",
+      "link": "http://baijiahao.baidu.com/s?id=1842835112064659057&wfr=spider&for=pc",
+      "time": "9月10日 08:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "5999元起,最贵17999元!苹果重大发布",
+      "link": "http://news.hnr.cn/shxw/article/1/1965547328442347522",
+      "time": "9月10日 06:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "苹果iPhone 17系列国行版售价公布 最贵版本达17999元",
+      "link": "http://finance.eastmoney.com/a/202509103509115052.html",
+      "time": "9月10日 02:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "苹果公司发布iPhone 17,起售价799美元",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11910702577532442124",
+      "time": "9月10日 02:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "高通2025骁龙峰会定档",
+      "link": "http://mobile.zol.com.cn/1044/10443877.html",
+      "time": "9月9日 17:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "苹果iPhone17即将发布,阿联酋售价预测",
+      "link": "http://www.sohu.com/a/933290464_121124435",
+      "time": "9月9日 16:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "iPhone 17 Air惊艳消息曝光",
+      "link": "http://mobile.zol.com.cn/1044/10441126.html",
+      "time": "9月9日 07:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "iPhone 17全新黑科技爆料出炉，iPhone 16现谷底价买早的果粉很受伤",
+      "link": "http://mobile.zol.com.cn/1042/10421203_all.html",
+      "time": "9月7日 11:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "iPhone 17全系价格曝光:Pro版存储翻倍变相涨价 标准版维持5999元起",
+      "link": "http://app.myzaker.com/news/article.php?pk=68bf72778e9f0907dc013ed8",
+      "time": "9月6日 07:10",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "苹果再回应479元挂绳太贵",
+      "event_id": "event_1",
+      "event_url": "http://news.mydrivers.com/1/1073/1073901.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:20:47",
+      "event_time": "昨天 13:36"
+    },
+    {
+      "event_title": "最贵17999元,苹果发布iPhone17引热议!",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842919661590951899&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:21:04",
+      "event_time": "9月10日 20:31"
+    },
+    {
+      "event_title": "苹果iPhone 17挂绳卖479元 罗永浩吐槽:这么割韭菜很恶心 吃相很难看 臭不要脸",
+      "event_id": "event_3",
+      "event_url": "http://news.mydrivers.com/1/1073/1073768.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:21:06",
+      "event_time": "9月10日 20:16"
+    },
+    {
+      "event_title": "史上最贵iPhone 17发布!库克:苹果从“零”开始打造的手机",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.cn/2025-09-10/detail-infpytxh7782403.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:21:08",
+      "event_time": "9月10日 13:15"
+    },
+    {
+      "event_title": "市值蒸发超3700亿!苹果股价在发布会后跳水,却“带飞”工业富联",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842850716315226018&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "倩影映莲纱",
+      "comment_time": "09-10 15:08",
+      "comment_content": "果链狂欢，工业富联直接涨停",
+      "user_location": "陕西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:21:24",
+      "event_time": "9月10日 12:42"
+    },
+    {
+      "event_title": "市值蒸发超3700亿!苹果股价在发布会后跳水,却“带飞”工业富联",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842850716315226018&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "薏苡邹",
+      "comment_time": "09-10 15:07",
+      "comment_content": "看来创新不够给力啊",
+      "user_location": "安徽",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:21:24",
+      "event_time": "9月10日 12:42"
+    },
+    {
+      "event_title": "市值蒸发超3700亿!苹果股价在发布会后跳水,却“带飞”工业富联",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842850716315226018&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "宇宙总纲",
+      "comment_time": "09-10 15:08",
+      "comment_content": "果链嗨了，苹果市值却蒸发了",
+      "user_location": "北京",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:21:24",
+      "event_time": "9月10日 12:42"
+    },
+    {
+      "event_title": "苹果发布iPhone 17系列,最高售价17999元创纪录",
+      "event_id": "event_6",
+      "event_url": "http://mobile.zol.com.cn/1044/10447436.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:21:26",
+      "event_time": "9月10日 12:21"
+    },
+    {
+      "event_title": "iPhone 17发布 路透:关税冲击下,苹果稳住价格吸引消费者升级",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842841058496752689&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "叹不觉心Cl",
+      "comment_time": "09-11 05:03",
+      "comment_content": "苹果稳住价格应对关税，消费者升级iPhone更轻松实惠了。",
+      "user_location": "黑龙江",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:21:42",
+      "event_time": "9月10日 10:08"
+    },
+    {
+      "event_title": "iPhone 17系列配置、价格全公布",
+      "event_id": "event_8",
+      "event_url": "http://news.sina.cn/gj/2025-09-10/detail-infpyiiq4415154.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:21:44",
+      "event_time": "9月10日 09:05"
+    },
+    {
+      "event_title": "苹果发布iPhone 17系列新配件,挂绳与高价手机壳引热议",
+      "event_id": "event_9",
+      "event_url": "http://mobile.zol.com.cn/1044/10447256.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:21:46",
+      "event_time": "9月10日 08:40"
+    },
+    {
+      "event_title": "iPhone17支持国补,起售价5999元,最贵17999元,史上最薄iPhone国行喜提首发",
+      "event_id": "event_10",
+      "event_url": "http://news.cnhubei.com/content/2025-09/10/content_19488066.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:21:48",
+      "event_time": "9月10日 08:23"
+    },
+    {
+      "event_title": "iPhone 17系列发布",
+      "event_id": "event_11",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842835112064659057&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "才子贵族亮相",
+      "comment_time": "09-10 09:21",
+      "comment_content": "新iPhone来了，顶配两万块配置真猛，果粉钱包又要瘦了。",
+      "user_location": "内蒙古",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:22:04",
+      "event_time": "9月10日 08:09"
+    },
+    {
+      "event_title": "5999元起,最贵17999元!苹果重大发布",
+      "event_id": "event_12",
+      "event_url": "http://news.hnr.cn/shxw/article/1/1965547328442347522",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:22:06",
+      "event_time": "9月10日 06:46"
+    },
+    {
+      "event_title": "苹果iPhone 17系列国行版售价公布 最贵版本达17999元",
+      "event_id": "event_13",
+      "event_url": "http://finance.eastmoney.com/a/202509103509115052.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:22:08",
+      "event_time": "9月10日 02:31"
+    },
+    {
+      "event_title": "苹果公司发布iPhone 17,起售价799美元",
+      "event_id": "event_14",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11910702577532442124",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:22:10",
+      "event_time": "9月10日 02:24"
+    },
+    {
+      "event_title": "高通2025骁龙峰会定档",
+      "event_id": "event_15",
+      "event_url": "http://mobile.zol.com.cn/1044/10443877.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:22:12",
+      "event_time": "9月9日 17:51"
+    },
+    {
+      "event_title": "苹果iPhone17即将发布,阿联酋售价预测",
+      "event_id": "event_16",
+      "event_url": "http://www.sohu.com/a/933290464_121124435",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:22:14",
+      "event_time": "9月9日 16:40"
+    },
+    {
+      "event_title": "iPhone 17 Air惊艳消息曝光",
+      "event_id": "event_17",
+      "event_url": "http://mobile.zol.com.cn/1044/10441126.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:22:16",
+      "event_time": "9月9日 07:39"
+    },
+    {
+      "event_title": "iPhone 17全新黑科技爆料出炉，iPhone 16现谷底价买早的果粉很受伤",
+      "event_id": "event_18",
+      "event_url": "http://mobile.zol.com.cn/1042/10421203_all.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:22:18",
+      "event_time": "9月7日 11:20"
+    },
+    {
+      "event_title": "iPhone 17全系价格曝光:Pro版存储翻倍变相涨价 标准版维持5999元起",
+      "event_id": "event_19",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68bf72778e9f0907dc013ed8",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:22:20",
+      "event_time": "9月6日 07:10"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 19,
+    "total_comments": 21,
+    "events_with_comments": 19,
+    "level1_scrape_time": "2025-09-12 10:20:46",
+    "level2_scrape_time": "2025-09-12 10:22:20"
+  }
+}

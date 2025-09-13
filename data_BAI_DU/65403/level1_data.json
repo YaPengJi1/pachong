@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "阿尔卡拉斯硬地赛场首胜德约科维奇",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:25:50"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "阿卡解锁新成就:3种场地击败德约+连续8站进决赛",
+      "link": "http://sports.sina.com.cn/o/2025-09-06/doc-infpptph1447225.shtml",
+      "time": "9月6日 14:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "阿尔卡拉斯硬地赛场首胜德约科维奇",
+      "link": "http://www.163.com/dy/article/K8OO08RB05539E3U.html",
+      "time": "9月6日 07:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "阿尔卡拉斯3-0德约科维奇，赛后发言：再进美网决赛很美妙",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8429398572142280218",
+      "time": "9月6日 06:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "德约科维奇与阿尔卡拉斯再度对决",
+      "link": "http://www.sohu.com/a/931446586_122001004",
+      "time": "9月3日 12:26",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 23:26:04"
+}

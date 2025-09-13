@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 20:02:43"
+  },
+  "core_event": {
+    "core_event_name": "中国U16男篮亚洲杯表现",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:01:57"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国U16男篮战胜巴林 锁定世界杯资格",
+      "link": "http://www.syd.com.cn/newscenter/content/2025-09/06/content_197641.html",
+      "time": "9月6日 09:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U16男篮亚洲杯中国晋级四强 国青队展现强劲实力",
+      "link": "http://news.china.com/socialgd/10000169/20250905/48795729_1.html",
+      "time": "9月5日 20:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U16中国队再赢89分，94分大胜后再赢89分",
+      "link": "http://k.sina.com.cn/article_1884314201_70505a5902701dg3m.html",
+      "time": "9月3日 18:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国男篮U16亚洲杯三连胜小组头名出线",
+      "link": "http://m.dongqiudi.com/article/5351011.html",
+      "time": "9月2日 20:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "U16男篮亚洲杯:中国队100比44大胜马来西亚 小组赛两连胜",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b622638e9f09708e00f3bd",
+      "time": "9月2日 06:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "中国男篮U16高低位配合 齐鹏帆接球转身上篮打停对手",
+      "link": "http://sports.sina.cn/nba/other/2025-09-01/detail-infnyunc7771628.d.html",
+      "time": "9月1日 17:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "中国U16男篮狂赢58分",
+      "link": "http://baijiahao.baidu.com/s?id=1841976612135302462&wfr=spider&for=pc",
+      "time": "8月31日 21:09",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "中国U16男篮战胜巴林 锁定世界杯资格",
+      "event_id": "event_1",
+      "event_url": "http://www.syd.com.cn/newscenter/content/2025-09/06/content_197641.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:02:13",
+      "event_time": "9月6日 09:02"
+    },
+    {
+      "event_title": "U16男篮亚洲杯中国晋级四强 国青队展现强劲实力",
+      "event_id": "event_2",
+      "event_url": "http://news.china.com/socialgd/10000169/20250905/48795729_1.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:02:15",
+      "event_time": "9月5日 20:43"
+    },
+    {
+      "event_title": "U16中国队再赢89分，94分大胜后再赢89分",
+      "event_id": "event_3",
+      "event_url": "http://k.sina.com.cn/article_1884314201_70505a5902701dg3m.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:02:17",
+      "event_time": "9月3日 18:28"
+    },
+    {
+      "event_title": "中国男篮U16亚洲杯三连胜小组头名出线",
+      "event_id": "event_4",
+      "event_url": "http://m.dongqiudi.com/article/5351011.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:02:19",
+      "event_time": "9月2日 20:58"
+    },
+    {
+      "event_title": "U16男篮亚洲杯:中国队100比44大胜马来西亚 小组赛两连胜",
+      "event_id": "event_5",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68b622638e9f09708e00f3bd",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:02:21",
+      "event_time": "9月2日 06:46"
+    },
+    {
+      "event_title": "中国男篮U16高低位配合 齐鹏帆接球转身上篮打停对手",
+      "event_id": "event_6",
+      "event_url": "http://sports.sina.cn/nba/other/2025-09-01/detail-infnyunc7771628.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:02:23",
+      "event_time": "9月1日 17:04"
+    },
+    {
+      "event_title": "中国U16男篮狂赢58分",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841976612135302462&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:02:38",
+      "event_time": "8月31日 21:09"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 20:02:11",
+    "level2_scrape_time": "2025-09-12 20:02:38"
+  }
+}

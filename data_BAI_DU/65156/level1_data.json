@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "金九银十楼市",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:18:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "多重政策发力 今年“金九银十”楼市备受关注",
+      "link": "http://baijiahao.baidu.com/s?id=1842384006679912673&wfr=spider&for=pc",
+      "time": "9月5日 09:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "金九银十楼市前瞻:政策暖风频吹 房价企稳信号显现",
+      "link": "http://news.fang.com/open/53456114.html",
+      "time": "9月4日 23:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "沪京新政楼市回暖，“金九银十”来了吗?中国楼市已进入啥阶段",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b8afd08e9f0958b654d77d",
+      "time": "9月4日 05:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "上海等城市新政显效 激活市场",
+      "link": "http://news.fang.com/open/53430683.html",
+      "time": "8月31日 05:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 19:19:06"
+}

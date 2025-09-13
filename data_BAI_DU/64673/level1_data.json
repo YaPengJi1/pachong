@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "阿尼西莫娃战胜斯瓦泰克，大坂直美杀入2025美网四强",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:25:44"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美网|时隔四年重返大满贯女单四强,那个曾统治赛场的大坂直美回来了",
+      "link": "http://baijiahao.baidu.com/s?id=1842327458544833404&wfr=spider&for=pc",
+      "time": "9月4日 18:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美网女单四强出炉",
+      "link": "http://baijiahao.baidu.com/s?id=1842309194920873117&wfr=spider&for=pc",
+      "time": "9月4日 13:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美网:大坂直美晋级女单四强",
+      "link": "http://baijiahao.baidu.com/s?id=1842302992141941532&wfr=spider&for=pc",
+      "time": "9月4日 11:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "大坂直美杀进2025美网女单四强",
+      "link": "http://baijiahao.baidu.com/s?id=1842300799095672969&wfr=spider&for=pc",
+      "time": "9月4日 11:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "大坂直美职业生涯大满贯进入8强后的战绩为13胜0负",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hfv8",
+      "time": "9月4日 10:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "阿尼西莫娃战胜斯维亚特克",
+      "link": "http://sports.cctv.com/2025/09/04/ARTIv5GaT1orKi6bsywKdGJv250904.shtml",
+      "time": "9月4日 07:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "无情擦网球报双蛋之仇，阿尼西莫娃打进美网四强",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5981514126489967432",
+      "time": "9月4日 06:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "阿尼西莫娃再战斯瓦泰克",
+      "link": "http://weibo.com/tv/show/1034:5206374188253235",
+      "time": "9月2日 10:23",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-13 02:25:58"
+}

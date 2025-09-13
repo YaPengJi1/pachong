@@ -1,0 +1,132 @@
+{
+  "core_info": {
+    "core_event_name": "快船否认阴阳合同，联盟调查伦纳德",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:14:22"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "萧华谈伦纳德阴阳合同案:我都没听过那家公司;这件事确实需要调查",
+      "link": "http://m.dongqiudi.com/article/5366177.html",
+      "time": "昨天 13:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "湖人夺冠+快船被调查",
+      "link": "http://new.qq.com/rain/a/20250911A02EDT00",
+      "time": "昨天 09:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "伦纳德事件更新,快船遇到难题",
+      "link": "http://m.dongqiudi.com/article/5362510.html",
+      "time": "9月9日 12:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美媒:伦纳德或因阴阳合同沦为自由球员,届时超半数球队将追逐他",
+      "link": "http://www.dongqiudi.com/articles/5362469.html",
+      "time": "9月9日 11:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美记:伦纳德与快船的调查,最有可能的结果是轻罚",
+      "link": "http://baijiahao.baidu.com/s?id=1842748258904748753&wfr=spider&for=pc",
+      "time": "9月9日 09:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "快船恐遭调查!伦纳德“遭重”:或涉嫌“阴阳合同”规避工资帽?",
+      "link": "http://baijiahao.baidu.com/s?id=1842681490969060989&wfr=spider&for=pc",
+      "time": "9月8日 15:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "美记:伦纳德事件已踩到NBA红线,若属实他合同或被判无效",
+      "link": "http://cj.sina.com.cn/articles/view/7300843333/1b32a07450010182dc",
+      "time": "9月8日 15:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "伦纳德阴阳合同新进展!哈登布伦森卷入其中,NBA最担心的发生了",
+      "link": "http://baijiahao.baidu.com/s?id=1842593546893781433&wfr=spider&for=pc",
+      "time": "9月7日 16:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "小卡在快船6年 围绕他的调查&诉讼没停过 更不用说健康问题",
+      "link": "http://sports.sina.cn/nba/other/2025-09-06/detail-infpptph1436623.d.html",
+      "time": "9月6日 12:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "快船正式向联盟提出申诉要求联盟撤销对伦纳德阴阳合同禁赛处罚",
+      "link": "http://www.bilibili.com/video/BV1jaaYzpE7v",
+      "time": "9月5日 23:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "鲍尔默:球星和球队赞助商达成合作是合规的 是否审查由联盟决定",
+      "link": "http://sports.sina.cn/nba/other/2025-09-05/detail-infpmqqe5871273.d.html",
+      "time": "9月5日 14:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "快船否认阴阳合同，TA记者硬刚，鲍尔默早被问询",
+      "link": "http://www.sohu.com/a/931874897_120171272",
+      "time": "9月4日 17:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "NBA顶级巨星涉嫌阴阳合同，年薪超3.5亿元，球队：全力配合调查，老板身家超1万亿元",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infpimri1786540.d.html",
+      "time": "9月4日 16:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "联盟宣布准备调查快船与莱纳德之间是否存在阴阳合同",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4673611966029362585",
+      "time": "9月4日 15:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "小卡涉嫌阴阳合同!联盟已了解快船的相关情况 将展开调查",
+      "link": "http://sports.sina.cn/nba/other/2025-09-04/detail-infphkcs7217734.d.html",
+      "time": "9月4日 03:54",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 15,
+  "scrape_time": "2025-09-12 10:14:36"
+}

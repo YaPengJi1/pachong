@@ -1,0 +1,46 @@
+{
+  "core_event_name": "华为在2025智博会、全球工业互联网大会亮相",
+  "comments": [
+    {
+      "event_title": "从2025全球工业互联网大会看数智赋能制造升级",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842794053331146114&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:44:29",
+      "event_time": "9月9日 21:42"
+    },
+    {
+      "event_title": "华为亮相2025全球工业互联网大会",
+      "event_id": "event_2",
+      "event_url": "http://m.dbw.cn/minsheng/system/2025/09/09/059478116.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:44:32",
+      "event_time": "9月9日 10:53"
+    },
+    {
+      "event_title": "华为亮相2025智博会 赋能千行万业数智化转型",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842520257879005321&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:44:48",
+      "event_time": "9月6日 21:04"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 10:44:48"
+}

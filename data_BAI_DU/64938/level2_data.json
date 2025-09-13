@@ -1,0 +1,71 @@
+{
+  "core_event_name": "霸王茶姬海外业务大涨",
+  "comments": [
+    {
+      "event_title": "霸王茶姬海外业务大涨77%",
+      "event_id": "event_1",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68bacf638e9f0912d23c55e0",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:42:34",
+      "event_time": "9月5日 19:50"
+    },
+    {
+      "event_title": "海外GMV大涨 77%,霸王茶姬离“星巴克”又近一步",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/2025-09-04/detail-infpiwfa3248951.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:42:36",
+      "event_time": "9月4日 20:08"
+    },
+    {
+      "event_title": "霸王茶姬进入菲律宾市场",
+      "event_id": "event_3",
+      "event_url": "http://news.sina.com.cn/o/2025-09-02/doc-infpccte8707070.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:42:38",
+      "event_time": "9月2日 18:09"
+    },
+    {
+      "event_title": "霸王茶姬菲律宾三店同开,海外市场逐步成为公司增长引擎",
+      "event_id": "event_4",
+      "event_url": "http://36kr.com/p/3449119955424640",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:42:40",
+      "event_time": "9月2日 14:53"
+    },
+    {
+      "event_title": "霸王茶姬Q2营收增长超10% 创始人表示“坚决不参与价格战”",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842033359590541986&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "我帅我骄傲我快乐",
+      "comment_time": "09-01 14:43",
+      "comment_content": "创始人明智不降价，他们在社交媒体玩转创意，吸引忠实粉丝，减少价格依赖，营收稳健上升。",
+      "user_location": "广东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:42:57"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 17:42:57"
+}

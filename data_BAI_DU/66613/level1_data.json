@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "九三阅兵名人齐聚",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:59:19"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "名人齐聚九三阅兵",
+      "link": "http://www.163.com/dy/article/K8K0U89L0556C2XD.html",
+      "time": "9月4日 11:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "16位明星被央视点名表扬",
+      "link": "http://www.163.com/dy/article/K8IM8M8F0556CQ0L.html",
+      "time": "9月3日 23:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "郑钦文,苏炳添,潘展乐,姚明……多位体育健儿受邀观看九三阅兵",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4700974072785345390",
+      "time": "9月3日 13:21",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 09:59:33"
+}

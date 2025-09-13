@@ -1,0 +1,59 @@
+{
+  "core_event_name": "iPhone 17系列发布及价格变动",
+  "comments": [
+    {
+      "event_title": "iPhone 16逆势涨价 华强北卖家:现在入手性价比最高",
+      "event_id": "event_1",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1757520855&pk=68c1a3208e9f0964f24c3bc1",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:22:47",
+      "event_time": "9月10日 16:48"
+    },
+    {
+      "event_title": "iPhone 17国行预估价曝光",
+      "event_id": "event_2",
+      "event_url": "http://finance.66wz.com/system/2025/09/08/105699064.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:22:49",
+      "event_time": "9月8日 08:47"
+    },
+    {
+      "event_title": "iPhone 17系列全新消息曝光，iPhone 16价比老人机网友直呼感人",
+      "event_id": "event_3",
+      "event_url": "http://mobile.zol.com.cn/1042/10421251.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:22:51",
+      "event_time": "9月7日 11:45"
+    },
+    {
+      "event_title": "iPhone 17新机OLED显示屏亮相",
+      "event_id": "event_4",
+      "event_url": "http://mobile.zol.com.cn/1041/10414085.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:22:53",
+      "event_time": "9月5日 08:40"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 10:22:53"
+}

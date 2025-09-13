@@ -1,0 +1,85 @@
+{
+  "core_event_name": "美国执法人员突袭韩企工厂",
+  "comments": [
+    {
+      "event_title": "超300名韩国公民在美被抓捕 韩媒:被捕公民最早将于10日乘包机返韩",
+      "event_id": "event_1",
+      "event_url": "http://tv.cctv.com/2025/09/08/VIDElOX9oxws2ZMk06jIdlNd250908.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:38:50",
+      "event_time": "9月8日 17:24"
+    },
+    {
+      "event_title": "300多名韩国工人在美被捕,韩方称将派包机接人回国",
+      "event_id": "event_2",
+      "event_url": "http://weibo.com/2864717612/Q3BTLgrb6",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:38:52",
+      "event_time": "9月8日 14:14"
+    },
+    {
+      "event_title": "美执法局突袭韩企,475人被捕,美韩关系受考验",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6562976294631620711",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:38:54",
+      "event_time": "9月8日 14:06"
+    },
+    {
+      "event_title": "现代LG电池厂被迫停工",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842669706517153715&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:11",
+      "event_time": "9月8日 12:46"
+    },
+    {
+      "event_title": "美国移民执法部门抓捕475人 大多来自韩国",
+      "event_id": "event_5",
+      "event_url": "http://tv.cctv.com/2025/09/06/VIDE5leSNbDPyazcdFtKiGKw250906.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:13",
+      "event_time": "9月6日 19:23"
+    },
+    {
+      "event_title": "美国佐治亚州:韩国现代汽车工厂遭移民突查 475人被拘捕",
+      "event_id": "event_6",
+      "event_url": "http://tv.cctv.com/2025/09/06/VIDEEyQb3gTiztv7EY3kSo38250906.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:15",
+      "event_time": "9月6日 12:44"
+    }
+  ],
+  "total_comments": 6,
+  "scrape_time": "2025-09-12 14:39:15"
+}

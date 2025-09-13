@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "莱昂纳德阴阳合同风波",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:27:49"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美记：阴阳合同事件将是NBA董事会九月例会的焦点议题",
+      "link": "http://news.sina.com.cn/w/2025-09-10/doc-infpzepe4123704.shtml",
+      "time": "9月10日 16:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "Lowe:莱昂纳德阴阳合同事件最终结果可能是轻罚 没收次轮+罚款",
+      "link": "http://www.163.com/dy/article/K90OD6HS0529AQIE.html",
+      "time": "9月9日 10:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "伦纳德陷“阴阳合同”疑云、鲍尔默被要求卖队",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13478730208166641378",
+      "time": "9月8日 20:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "莱昂纳德阴阳合同风波",
+      "link": "http://m.sohu.com/a/932660583_121924582",
+      "time": "9月7日 15:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "帕金斯:斯特恩很强硬而萧华太随和了 小卡事件他必须拿出点铁腕",
+      "link": "http://sports.sina.cn/nba/other/2025-09-06/detail-infpppfk9909161.d.html",
+      "time": "9月6日 10:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "NBA对阴阳合同处罚的名问条款是什么?小卡竟曾两次被调查均被证清白",
+      "link": "http://cj.sina.com.cn/articles/view/1835372902/6d65916600101a8n2",
+      "time": "9月5日 19:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "伦纳德陷阴阳合同恐禁赛,快船换詹皇父子,豪阵引热议",
+      "link": "http://www.sohu.com/a/931924330_121683270",
+      "time": "9月4日 22:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "尼克斯布朗森或被卷入阴阳合同旋涡",
+      "link": "http://www.titan24.com/publish/app/data/2025/09/04/567967/os_news.html",
+      "time": "9月4日 16:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "NBA顶级巨星涉嫌阴阳合同，年薪超3.5亿元，球队：全力配合调查，老板身家超1万亿元",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infpimri1786540.d.html",
+      "time": "9月4日 16:42",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 10:28:03"
+}

@@ -1,0 +1,193 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:12:28"
+  },
+  "core_event": {
+    "core_event_name": "iPhone 17系列价格公布",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:11:40"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "iPhone17系列价格曝光,Air、Pro版涨价千元",
+      "link": "http://finance.sina.cn/2025-09-06/detail-infpppfk1553485.d.html",
+      "time": "9月6日 09:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "iPhone 17预计售价近800美元,全系列价格揭晓。",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5927604166260899350",
+      "time": "9月5日 03:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "iPhone 17 Pro起售价可能高出200美元",
+      "link": "http://weibo.com/5562339648/Q32ESF2w0",
+      "time": "9月4日 20:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "iPhone 17 Pro价格成最大悬念:苹果要涨价",
+      "link": "http://news.mydrivers.com/1/1072/1072516.htm",
+      "time": "9月4日 18:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "iPhone17终极爆料来了,17售价保持不变,17 Pro售价8599起,涨价600元",
+      "link": "http://www.163.com/dy/article/K8KFFSJ50530JPVV.html",
+      "time": "9月4日 15:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "苹果17终极爆料来了,17售价保持不变,17 Pro涨价",
+      "link": "http://news.hnr.cn/shxw/article/1/1963506224754606082",
+      "time": "9月4日 15:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "iPhone 17系列价格曝光,仅一款机型价格上涨?",
+      "link": "http://baijiahao.baidu.com/s?id=1842213533898745685&wfr=spider&for=pc",
+      "time": "9月3日 11:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "iPhone 17系列最新售价曝光",
+      "link": "http://news.mydrivers.com/1/1072/1072101.htm",
+      "time": "9月3日 07:01",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "iPhone17系列价格曝光,Air、Pro版涨价千元",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.cn/2025-09-06/detail-infpppfk1553485.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:11:56",
+      "event_time": "9月6日 09:55"
+    },
+    {
+      "event_title": "iPhone 17预计售价近800美元,全系列价格揭晓。",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5927604166260899350",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:11:58",
+      "event_time": "9月5日 03:58"
+    },
+    {
+      "event_title": "iPhone 17 Pro起售价可能高出200美元",
+      "event_id": "event_3",
+      "event_url": "http://weibo.com/5562339648/Q32ESF2w0",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:12:00",
+      "event_time": "9月4日 20:31"
+    },
+    {
+      "event_title": "iPhone 17 Pro价格成最大悬念:苹果要涨价",
+      "event_id": "event_4",
+      "event_url": "http://news.mydrivers.com/1/1072/1072516.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:12:02",
+      "event_time": "9月4日 18:12"
+    },
+    {
+      "event_title": "iPhone17终极爆料来了,17售价保持不变,17 Pro售价8599起,涨价600元",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8KFFSJ50530JPVV.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:12:04",
+      "event_time": "9月4日 15:47"
+    },
+    {
+      "event_title": "苹果17终极爆料来了,17售价保持不变,17 Pro涨价",
+      "event_id": "event_6",
+      "event_url": "http://news.hnr.cn/shxw/article/1/1963506224754606082",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:12:06",
+      "event_time": "9月4日 15:35"
+    },
+    {
+      "event_title": "iPhone 17系列价格曝光,仅一款机型价格上涨?",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842213533898745685&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "亦亦爱吃煎饼",
+      "comment_time": "09-03 13:06",
+      "comment_content": "iPhone 17 Pro涨价是因存储升级，实际更划算。其他机型价格依然稳当。",
+      "user_location": "福建",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:12:22",
+      "event_time": "9月3日 11:55"
+    },
+    {
+      "event_title": "iPhone 17系列最新售价曝光",
+      "event_id": "event_8",
+      "event_url": "http://news.mydrivers.com/1/1072/1072101.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:12:24",
+      "event_time": "9月3日 07:01"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 8,
+    "total_comments": 8,
+    "events_with_comments": 8,
+    "level1_scrape_time": "2025-09-13 02:11:55",
+    "level2_scrape_time": "2025-09-13 02:12:24"
+  }
+}

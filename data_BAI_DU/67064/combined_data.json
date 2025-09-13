@@ -1,0 +1,213 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:56:07"
+  },
+  "core_event": {
+    "core_event_name": "波兰击落侵犯其领空无人机",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:55:02"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "波兰击落俄无人机，特朗普怕陷入第三次世界大战",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1379718777435146424",
+      "time": "昨天 15:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "大量俄无人机闯入波兰被击落",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15721721564918024005",
+      "time": "昨天 14:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "波兰称击落侵犯其领空的无人机 俄外交官:波兰关于俄无人机入侵其领空的指控“毫无根据”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16960815177454617896",
+      "time": "昨天 11:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "波兰称击落侵犯其领空的无人机",
+      "link": "http://tv.cctv.com/2025/09/11/VIDEr9UPPXgPB7wUKh14MvyG250911.shtml",
+      "time": "昨天 06:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "白俄罗斯连夜向波兰立陶宛交换空中雷达信息",
+      "link": "http://www.jfdaily.com/wx/detail.do?id=980552",
+      "time": "昨天 01:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "俄罗斯无人机首次在北约国家领空被击落",
+      "link": "http://baijiahao.baidu.com/s?id=1842900525101764020&wfr=spider&for=pc",
+      "time": "昨天 01:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "波兰首次击落数十架俄无人机",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5922573049471553011",
+      "time": "9月10日 20:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "俄军无人机成群飞入波兰,北约F35起飞拦截,普京试探西方底线?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11146983199643396496",
+      "time": "9月10日 18:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "波兰击落“侵犯”其领空无人机",
+      "link": "http://baijiahao.baidu.com/s?id=1842848765648390165&wfr=spider&for=pc",
+      "time": "9月10日 12:11",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "波兰击落俄无人机，特朗普怕陷入第三次世界大战",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=1379718777435146424",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:55:17",
+      "event_time": "昨天 15:45"
+    },
+    {
+      "event_title": "大量俄无人机闯入波兰被击落",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=15721721564918024005",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:55:19",
+      "event_time": "昨天 14:18"
+    },
+    {
+      "event_title": "波兰称击落侵犯其领空的无人机 俄外交官:波兰关于俄无人机入侵其领空的指控“毫无根据”",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=16960815177454617896",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:55:21",
+      "event_time": "昨天 11:15"
+    },
+    {
+      "event_title": "波兰称击落侵犯其领空的无人机",
+      "event_id": "event_4",
+      "event_url": "http://tv.cctv.com/2025/09/11/VIDEr9UPPXgPB7wUKh14MvyG250911.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:55:23",
+      "event_time": "昨天 06:27"
+    },
+    {
+      "event_title": "白俄罗斯连夜向波兰立陶宛交换空中雷达信息",
+      "event_id": "event_5",
+      "event_url": "http://www.jfdaily.com/wx/detail.do?id=980552",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:55:25",
+      "event_time": "昨天 01:54"
+    },
+    {
+      "event_title": "俄罗斯无人机首次在北约国家领空被击落",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842900525101764020&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:55:42",
+      "event_time": "昨天 01:54"
+    },
+    {
+      "event_title": "波兰首次击落数十架俄无人机",
+      "event_id": "event_7",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5922573049471553011",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:55:44",
+      "event_time": "9月10日 20:02"
+    },
+    {
+      "event_title": "俄军无人机成群飞入波兰,北约F35起飞拦截,普京试探西方底线?",
+      "event_id": "event_8",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11146983199643396496",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:55:46",
+      "event_time": "9月10日 18:51"
+    },
+    {
+      "event_title": "波兰击落“侵犯”其领空无人机",
+      "event_id": "event_9",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842848765648390165&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "尘源暖03",
+      "comment_time": "09-10 12:17",
+      "comment_content": "团结就是力量，乐观面对未来！",
+      "user_location": "黑龙江",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:56:03"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 9,
+    "total_comments": 9,
+    "events_with_comments": 9,
+    "level1_scrape_time": "2025-09-12 10:55:16",
+    "level2_scrape_time": "2025-09-12 10:56:03"
+  }
+}

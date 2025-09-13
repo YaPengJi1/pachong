@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "U23国足10-0狂胜，王钰栋超强个人秀",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:57:03"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "杀鸡用牛刀:国家队二传竟打U19比赛!应早日让她去一队或出国",
+      "link": "http://cj.sina.com.cn/articles/view/7563502179/1c2d1e26300101fhe6",
+      "time": "9月9日 08:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "王钰栋半场7球，国足10-0大胜，两连胜仍受质疑",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11026934801276575118",
+      "time": "9月8日 18:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国足10-0北马里亚纳群岛",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6447078414320154443",
+      "time": "9月8日 13:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22国足末战仍面临挑战",
+      "link": "http://news.e23.cn/tiyu/2025-09-08/2025090800108.html",
+      "time": "9月8日 10:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "U22国足冰火两重天:上半场低迷+下半场大胜,三大亮点与三大不足全解析",
+      "link": "http://www.sohu.com/a/932538160_122387568",
+      "time": "9月7日 05:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "中国队10比0北马里亚纳群岛队",
+      "link": "http://www.163.com/dy/article/K8Q9UFF90529BBMT.html",
+      "time": "9月6日 22:09",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 09:57:17"
+}

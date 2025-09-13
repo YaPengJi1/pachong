@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "普京访华事件",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:56:15"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "普京在与中国领导人会晤后发出两个重磅邀请",
+      "link": "http://www.163.com/dy/article/K8NAVQQH05567BZI.html",
+      "time": "9月5日 18:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "普京访华惊呆众人!两个细节太罕见,俄媒:从未见过如此阵仗",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5665838068152262990",
+      "time": "9月5日 07:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "普京访华收获四大消息，以后不用再看欧美脸色了",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=803104334865981743",
+      "time": "9月4日 17:51",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 10:56:29"
+}

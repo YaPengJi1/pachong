@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 21:42:14"
+  },
+  "core_event": {
+    "core_event_name": "领克08参配曝光",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:41:49"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "领克08参配曝光",
+      "link": "http://www.pcauto.com.cn/note/849799504208071827.html",
+      "time": "9月5日 10:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "浩思动力IAA车展首发领克08EM-P",
+      "link": "http://www.sohu.com/a/932011288_121885028",
+      "time": "9月5日 04:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "采用全新设计理念,领克08正式亮相",
+      "link": "http://www.pcauto.com.cn/aichat/1219922.html",
+      "time": "9月3日 09:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "成都车展领克展台9月新车齐聚",
+      "link": "http://weibo.com/tv/show/1034:5205699970662536",
+      "time": "8月31日 13:44",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "领克08参配曝光",
+      "event_id": "event_1",
+      "event_url": "http://www.pcauto.com.cn/note/849799504208071827.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:42:04",
+      "event_time": "9月5日 10:53"
+    },
+    {
+      "event_title": "浩思动力IAA车展首发领克08EM-P",
+      "event_id": "event_2",
+      "event_url": "http://www.sohu.com/a/932011288_121885028",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:42:06",
+      "event_time": "9月5日 04:07"
+    },
+    {
+      "event_title": "采用全新设计理念,领克08正式亮相",
+      "event_id": "event_3",
+      "event_url": "http://www.pcauto.com.cn/aichat/1219922.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:42:08",
+      "event_time": "9月3日 09:03"
+    },
+    {
+      "event_title": "成都车展领克展台9月新车齐聚",
+      "event_id": "event_4",
+      "event_url": "http://weibo.com/tv/show/1034:5205699970662536",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:42:10",
+      "event_time": "8月31日 13:44"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 21:42:03",
+    "level2_scrape_time": "2025-09-12 21:42:10"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "欧洲杯16强确定12队",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:22:04"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "欧锦赛16强还剩最后两席 最后一轮西班牙&格鲁吉亚&波黑三虎相争",
+      "link": "http://www.163.com/dy/article/K8JS4JVF0529AQIE.html",
+      "time": "9月4日 10:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "欧洲杯16强已经确定12支球队",
+      "link": "http://weibo.com/6634465578/Q2PtHyQSQ",
+      "time": "9月3日 10:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "2025欧洲杯小组赛希腊字母哥率队三连胜提前晋级斯洛文尼亚东契奇三双秀湖人高层悬着的心终于放下",
+      "link": "http://www.sohu.com/a/930695568_122387568",
+      "time": "9月1日 13:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "希腊男篮41分大胜格鲁吉亚",
+      "link": "http://www.163.com/dy/article/K8AQF4AT0529RKNN.html",
+      "time": "8月31日 21:47",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 17:22:18"
+}

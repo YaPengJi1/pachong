@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "驻非盟使团团长蒋烽大使会见印度尼西亚驻非盟使团",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:29:40"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "驻非盟使团团长蒋烽大使会见非洲能源委员会主任拉西德",
+      "link": "http://www.mfa.gov.cn/web/zwbd_673032/wshd_673034/202509/t20250911_11706538.shtml",
+      "time": "9月10日 22:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "驻非盟使团团长蒋烽大使调研非洲中国商会",
+      "link": "http://baijiahao.baidu.com/s?id=1842412824679321054&wfr=spider&for=pc",
+      "time": "9月5日 16:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "驻非盟使团团长蒋烽大使到任拜会非盟委员会社会委员",
+      "link": "http://www.fmprc.gov.cn/web/zwbd_673032/wshd_673034/202509/t20250903_11701152.shtml",
+      "time": "9月2日 20:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "驻非盟使团团长蒋烽大使会见非盟委员会副主席哈达迪",
+      "link": "http://www.fmprc.gov.cn/wjdt_674879/zwbd_674895/202509/t20250903_11701149.shtml",
+      "time": "9月2日 16:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "驻非盟使团团长蒋烽大使会见印度尼西亚驻非盟使团团长",
+      "link": "http://www.fmprc.gov.cn/web/zwbd_673032/wshd_673034/202508/t20250826_11695887.shtml",
+      "time": "8月25日 23:43",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 01:29:54"
+}

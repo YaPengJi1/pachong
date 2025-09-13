@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "护士跑马拉松夺冠后喊话调休",
+    "update_time": "更新至20250902",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:22:28"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "护士跑马拉松夺冠哭求给假,奖金是她的调班是同事的骂名是领导的",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12379062502567183198",
+      "time": "9月2日 23:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "当事医院回应：鼓励爱好但不要影响工作，今后如何调班暂未研究",
+      "link": "http://baijiahao.baidu.com/s?id=1842161878684829814&wfr=spider&for=pc",
+      "time": "9月2日 19:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "女护士夺冠马拉松后续:喊话领导调休内情曝光 多次换班已恼怒",
+      "link": "http://www.163.com/dy/article/K8FJ6OHD05567FRQ.html",
+      "time": "9月2日 18:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "护士全马夺冠后续",
+      "link": "http://www.163.com/dy/article/K8EP2MH40556E2D3.html",
+      "time": "9月2日 10:39",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 01:22:42"
+}

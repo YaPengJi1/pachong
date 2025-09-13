@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "欧佩克+增产计划",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:27:37"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "欧佩克+进一步增产 转向争夺份额",
+      "link": "http://finance.sina.cn/2025-09-09/detail-infpviey5780510.d.html",
+      "time": "9月9日 00:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "“欧佩克+”八个主要产油国10月将继续增产",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3692223053437372076",
+      "time": "9月8日 10:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "俄罗斯副总理：增产计划对俄罗斯经济有益",
+      "link": "http://finance.sina.cn/7x24/2025-09-07/detail-infpstsc0404058.d.html",
+      "time": "9月7日 21:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "欧佩克+10月再增产，全球油市“紧平衡”面临考验",
+      "link": "http://finance.huanqiu.com/article/4ODz9aFpEw9",
+      "time": "9月7日 10:31",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 14:27:51"
+}

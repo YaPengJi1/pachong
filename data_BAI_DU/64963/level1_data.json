@@ -1,0 +1,100 @@
+{
+  "core_info": {
+    "core_event_name": "NBA阴阳合同事件",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:12:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "帕金斯:斯特恩很强硬而萧华太随和了 小卡事件他必须拿出点铁腕",
+      "link": "http://sports.sina.cn/nba/other/2025-09-06/detail-infpppfk9909161.d.html",
+      "time": "9月6日 10:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "NBA已聘请权威律所调查伦纳德阴阳合同事件",
+      "link": "http://www.dongqiudi.com/articles/5356900.html",
+      "time": "9月6日 08:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "NBA对阴阳合同处罚的名问条款是什么?小卡竟曾两次被调查均被证清白",
+      "link": "http://cj.sina.com.cn/articles/view/1835372902/6d65916600101a8n2",
+      "time": "9月5日 19:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "涉及2800万,伦纳德阴阳合同实锤?快船官宣,鲍尔默表态,罚单或出炉",
+      "link": "http://cj.sina.com.cn/articles/view/6504901717/183b8ec5500101iaum",
+      "time": "9月5日 14:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "莱昂纳德阴阳合同引热议",
+      "link": "http://cj.sina.com.cn/articles/view/1340604587/4fe800ab001016fi0",
+      "time": "9月5日 05:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "因阴阳合同 伦纳德与快船将被调查",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpkhux1379434.d.html",
+      "time": "9月5日 02:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "莱昂纳德再生事端!苦命的“灯泡组合”争冠梦破碎?",
+      "link": "http://www.titan24.com/publish/app/data/2025/09/04/567973/os_news.html",
+      "time": "9月4日 22:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "NBA查快船阴阳合同,乔-史密斯旧案在前,重罚恐难免",
+      "link": "http://m.sohu.com/a/931925017_121683270",
+      "time": "9月4日 21:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "莱昂纳德卷入合同风波",
+      "link": "http://baijiahao.baidu.com/s?id=1842316315664536885&wfr=spider&for=pc",
+      "time": "9月4日 20:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "NBA顶级巨星涉嫌阴阳合同,年薪超3.5亿元,球队:全力配合调查!老板是全球前8富豪,身家超1万亿元",
+      "link": "http://baijiahao.baidu.com/s?id=1842322583123238425&wfr=spider&for=pc",
+      "time": "9月4日 16:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "曝小卡涉嫌签约阴阳合同,NBA介入调查恐抄没5年首轮签",
+      "link": "http://www.163.com/dy/article/K8ILCUHC0552NV18.html",
+      "time": "9月3日 22:53",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 11,
+  "scrape_time": "2025-09-12 18:12:46"
+}

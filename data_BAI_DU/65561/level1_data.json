@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "泰国新总理人选已定",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:55:03"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "泰国新总理人选已定?为泰党将成为反对派,他信、佩通坦还有后招",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16429328895574858794",
+      "time": "9月7日 00:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "新总理人选已定!为泰党将成为反对派,他信、佩通坦还有后招",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3890288901174017595",
+      "time": "9月6日 10:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "泰国自豪泰党党首阿努廷获国会过半数支持 将出任新总理",
+      "link": "http://k.sina.com.cn/article_1598078571_m5f40be6b03301aet4.html",
+      "time": "9月5日 17:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "泰国新总理将确定?为泰党称不用等4个月,即刻解散国会",
+      "link": "http://cj.sina.com.cn/articles/view/7295511718/1b2d8aca602001ep8u",
+      "time": "9月5日 14:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "泰国新总理呼之欲出，政局突现重大转折，人民党倒向泰自豪党重创为泰党",
+      "link": "http://cj.sina.com.cn/articles/view/7295511708/1b2d8ac9c0200168xu",
+      "time": "9月5日 06:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "泰国国会下议院将于5日选举新一任总理",
+      "link": "http://baijiahao.baidu.com/s?id=1842314085900054604&wfr=spider&for=pc",
+      "time": "9月4日 13:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "泰国可能要提前大选?佩通坦下台后乱局依旧,“造王者”结盟引发变数",
+      "link": "http://k.sina.cn/article_5953740931_162dee083067020ks8.html",
+      "time": "9月3日 15:20",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-13 01:55:17"
+}

@@ -1,0 +1,108 @@
+{
+  "core_info": {
+    "core_event_name": "深圳楼市新政松绑",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:43:11"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "已确认:“商品房消费者”买房排除执行,不再受“名下无房”限制",
+      "link": "http://new.qq.com/rain/a/20250909A003SY00",
+      "time": "9月9日 00:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "深圳限购仅剩三区!宝安崛起并肩福田南山",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17014300327896600462",
+      "time": "9月8日 16:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "深圳优化8区住房限购政策",
+      "link": "http://www.sohu.com/a/932745090_115362",
+      "time": "9月8日 07:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "深圳楼市新政力度超过京沪,将“吸引外地人群购房”",
+      "link": "http://gz.house.ifeng.com/news/2025_09_08-57163210_0.shtml",
+      "time": "9月8日 00:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "深圳楼市新政重磅出台!房价跌破6万后调控大松绑",
+      "link": "http://news.fang.com/open/53469442.html",
+      "time": "9月7日 17:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "深圳楼市新政：把罗湖和宝安西乡街道纳入非限购区",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4790383833236367811",
+      "time": "9月7日 08:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "深圳楼市新政实施首日 房企连夜更新信息 已有客户签约",
+      "link": "http://baijiahao.baidu.com/s?id=1842510734425924704&wfr=spider&for=pc",
+      "time": "9月6日 18:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "深圳发布楼市新政",
+      "link": "http://weibo.com/2891866325/Q3kl0AlfA",
+      "time": "9月6日 17:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "深圳官宣四大一线城市楼市“松限”",
+      "link": "http://baijiahao.baidu.com/s?id=1842502546470450554&wfr=spider&for=pc",
+      "time": "9月6日 16:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "深圳进一步放宽房地产限购",
+      "link": "http://cj.sina.com.cn/articles/view/5953190035/162d67893019016ubk",
+      "time": "9月6日 11:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "深圳放开8区住宅限购，深户及社保1年可随便买",
+      "link": "http://baijiahao.baidu.com/s?id=1842467371845758693&wfr=spider&for=pc",
+      "time": "9月6日 07:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "深圳房地产新政来了",
+      "link": "http://baijiahao.baidu.com/s?id=1842442121128587645&wfr=spider&for=pc",
+      "time": "9月6日 00:28",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 12,
+  "scrape_time": "2025-09-12 14:43:25"
+}

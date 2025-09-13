@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "新热带低压逼近广东沿海",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:34:13"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "台风“塔巴”逼近广东沿海",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6674176241237522169",
+      "time": "9月8日 12:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "今年第16号台风即将生成并趋向广东",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5771287309948701157",
+      "time": "9月6日 16:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "新热带低压预计趋向广东沿海!全省大部将有明显风雨高温缓解",
+      "link": "http://news.sohu.com/a/932370976_161795",
+      "time": "9月6日 10:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "新台风或将生成,周日起广东将现明显降雨",
+      "link": "http://baijiahao.baidu.com/s?id=1842468143956376338&wfr=spider&for=pc",
+      "time": "9月6日 07:22",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 14:34:27"
+}

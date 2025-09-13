@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "佳能C50视频机与85mm F1.4L VCM镜头发布",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:54:31"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "佳能发布EOS C50数字电影摄影机",
+      "link": "http://baijiahao.baidu.com/s?id=1842921399761863411&wfr=spider&for=pc",
+      "time": "昨天 07:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "佳能EOS C50 电影摄影机、RF85mm F1.4 L VCM 镜头国行发布",
+      "link": "http://www.163.com/dy/article/K93HNI860511B8LM.html",
+      "time": "9月10日 12:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "佳能发布数字电影摄影机EOS C50 搭载7K全画幅CMOS",
+      "link": "http://www.163.com/dy/article/K93GFJ7L05128A8R.html",
+      "time": "9月10日 11:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "佳能发布数字电影摄影机EOS C50",
+      "link": "http://g.pconline.com.cn/x/1978/19780376.html",
+      "time": "9月10日 10:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "佳能C50视频机与85mm F1.4L VCM镜头将一起发布",
+      "link": "http://www.163.com/dy/article/K8U9I3KG05128A8R.html",
+      "time": "9月8日 11:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "佳能EOS C50 电影机真机亮相",
+      "link": "http://www.163.com/dy/article/K8S9BUE10511B8LM.html",
+      "time": "9月7日 16:34",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 09:54:45"
+}

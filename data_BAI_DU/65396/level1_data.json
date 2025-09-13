@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "电池ETF强势涨停",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:19:50"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "锂电池ETF涨停了!光伏大涨",
+      "link": "http://stock.hexun.com/2025-09-07/221243456.html",
+      "time": "9月7日 08:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "电池掀起涨停潮!创业板新能源ETF、电池ETF、锂电池ETF、储能电池ETF涨超10%",
+      "link": "http://finance.sina.com.cn/stock/bxjj/2025-09-05/doc-infpmqqh2493590.shtml",
+      "time": "9月5日 15:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "锂电板块业绩显著改善，固态电池迎来多重利好",
+      "link": "http://baijiahao.baidu.com/s?id=1842408237363230528&wfr=spider&for=pc",
+      "time": "9月5日 15:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "电池ETF暴涨超8%,多股强势封板",
+      "link": "http://baijiahao.baidu.com/s?id=1842406602058726305&wfr=spider&for=pc",
+      "time": "9月5日 14:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "电池ETF暴涨8%",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmqqm7744104.d.html",
+      "time": "9月5日 14:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "多只电池主题ETF大涨逾7%",
+      "link": "http://m.yicai.com/news/102810237.html",
+      "time": "9月5日 10:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "电池板块领涨,储能电池ETF涨近3%",
+      "link": "http://finance.sina.cn/2025-09-03/detail-infperun8028738.d.html",
+      "time": "9月3日 11:41",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 23:20:04"
+}

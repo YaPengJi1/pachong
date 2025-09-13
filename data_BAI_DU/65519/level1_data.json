@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "2025世锦赛国羽首金",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:16:05"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "羽毛球世锦赛收官 国羽收获2金3银",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=18128493465280694416",
+      "time": "9月5日 22:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "羽毛球世锦赛落幕!国羽5项决赛夺2金",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7118785460588852245",
+      "time": "9月4日 16:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "陈雨菲伤情出炉，将暂别赛场",
+      "link": "http://baijiahao.baidu.com/s?id=1842202920169472862&wfr=spider&for=pc",
+      "time": "9月3日 09:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "羽毛球世锦赛国羽斩获2金3银",
+      "link": "http://sports.sdnews.com.cn/zhty/202509/t20250901_4571568.htm",
+      "time": "9月1日 15:16",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 01:16:19"
+}

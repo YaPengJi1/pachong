@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:47:03"
+  },
+  "core_event": {
+    "core_event_name": "U23亚洲杯国足生死战",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:46:36"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国足生死战1-0澳大利亚",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7348029449171024022",
+      "time": "9月10日 17:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U22国足0-0战平澳大利亚，成功锁定了明年U23亚洲杯资格",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5886292764927582688",
+      "time": "9月9日 22:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "复盘U22国足0-0澳洲:“死守”策略贯彻得当,王钰栋踢得拧巴",
+      "link": "http://cj.sina.com.cn/articles/view/7880068727/1d5b04e7702002fgys",
+      "time": "9月9日 21:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U23亚洲杯疯狂夜:国足大胜,澳大利亚稳居榜首",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11907751456733800138",
+      "time": "9月6日 22:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "U23亚洲杯疯狂一夜:澳大利亚14-0 韩国5-0,中国男足2-1无缘登顶",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5575817627542691692",
+      "time": "9月4日 12:55",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "国足生死战1-0澳大利亚",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7348029449171024022",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:46:51",
+      "event_time": "9月10日 17:53"
+    },
+    {
+      "event_title": "U22国足0-0战平澳大利亚，成功锁定了明年U23亚洲杯资格",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5886292764927582688",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:46:53",
+      "event_time": "9月9日 22:07"
+    },
+    {
+      "event_title": "复盘U22国足0-0澳洲:“死守”策略贯彻得当,王钰栋踢得拧巴",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/7880068727/1d5b04e7702002fgys",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:46:55",
+      "event_time": "9月9日 21:33"
+    },
+    {
+      "event_title": "U23亚洲杯疯狂夜:国足大胜,澳大利亚稳居榜首",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11907751456733800138",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:46:57",
+      "event_time": "9月6日 22:10"
+    },
+    {
+      "event_title": "U23亚洲杯疯狂一夜:澳大利亚14-0 韩国5-0,中国男足2-1无缘登顶",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5575817627542691692",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:46:59",
+      "event_time": "9月4日 12:55"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 10:46:50",
+    "level2_scrape_time": "2025-09-12 10:46:59"
+  }
+}

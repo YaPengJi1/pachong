@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:00:28"
+  },
+  "core_event": {
+    "core_event_name": "U23亚洲杯预选赛，王钰栋能否助力U22战胜澳大利亚",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:59:50"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "王钰栋:不惧怕澳大利亚队",
+      "link": "http://www.sohu.com/a/932616580_255783",
+      "time": "9月7日 12:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U23亚预赛，王钰栋能否助力U22战胜澳大利亚？",
+      "link": "http://www.sohu.com/a/931976218_122486214",
+      "time": "9月5日 01:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "胡荷韬:U22国足最后一轮将死磕澳大利亚,主教练对全队有信心!",
+      "link": "http://baijiahao.baidu.com/s?id=1842299741605930748&wfr=spider&for=pc",
+      "time": "9月4日 10:45",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "王钰栋:不惧怕澳大利亚队",
+      "event_id": "event_1",
+      "event_url": "http://www.sohu.com/a/932616580_255783",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:00:05",
+      "event_time": "9月7日 12:55"
+    },
+    {
+      "event_title": "U23亚预赛，王钰栋能否助力U22战胜澳大利亚？",
+      "event_id": "event_2",
+      "event_url": "http://www.sohu.com/a/931976218_122486214",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:00:07",
+      "event_time": "9月5日 01:21"
+    },
+    {
+      "event_title": "胡荷韬:U22国足最后一轮将死磕澳大利亚,主教练对全队有信心!",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842299741605930748&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "南京李易峰世界",
+      "comment_time": "09-04 15:25",
+      "comment_content": "胡荷韬小伙挺拼的，赢球了还有斗志。最后死磕澳大利亚，教练信你们，加油！",
+      "user_location": "四川",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:00:24"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 10:00:04",
+    "level2_scrape_time": "2025-09-12 10:00:24"
+  }
+}

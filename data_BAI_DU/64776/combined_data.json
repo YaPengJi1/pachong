@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:27:06"
+  },
+  "core_event": {
+    "core_event_name": "2025年暑期档电影票房大放异彩",
+    "update_time": "更新至20250902",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:26:42"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "暑期档动画电影:24部新片近30亿票房,二维动画大放异彩",
+      "link": "http://www.sohu.com/a/931253949_161795",
+      "time": "9月2日 21:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "2025年暑期档票房超119亿元",
+      "link": "http://tv.cctv.com/2025/09/02/VIDEzGFAf2QbfD1pnkd5OgNK250902.shtml",
+      "time": "9月2日 18:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "我国2025年暑期档电影票房为119.66亿元",
+      "link": "http://finance.sina.cn/2025-09-01/detail-infnyunh9708165.d.html",
+      "time": "9月1日 17:20",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "暑期档动画电影:24部新片近30亿票房,二维动画大放异彩",
+      "event_id": "event_1",
+      "event_url": "http://www.sohu.com/a/931253949_161795",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:26:58",
+      "event_time": "9月2日 21:19"
+    },
+    {
+      "event_title": "2025年暑期档票房超119亿元",
+      "event_id": "event_2",
+      "event_url": "http://tv.cctv.com/2025/09/02/VIDEzGFAf2QbfD1pnkd5OgNK250902.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:27:00",
+      "event_time": "9月2日 18:28"
+    },
+    {
+      "event_title": "我国2025年暑期档电影票房为119.66亿元",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.cn/2025-09-01/detail-infnyunh9708165.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:27:02",
+      "event_time": "9月1日 17:20"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-13 02:26:57",
+    "level2_scrape_time": "2025-09-13 02:27:02"
+  }
+}

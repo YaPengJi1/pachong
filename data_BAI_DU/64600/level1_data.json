@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "零跑连续6个月稳坐新势力第一",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:12:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "8月造车新势力榜:零跑上位 小鹏渐进 蔚来爆单 理想转型",
+      "link": "http://www.163.com/dy/article/K8K67R4B0527EF7D.html",
+      "time": "9月4日 13:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "零跑全新车型预告图曝光，外观很年轻运动",
+      "link": "http://cj.sina.com.cn/articles/view/1234011517/498d857d001012zw6",
+      "time": "9月2日 09:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "月销逼近六万,零跑还要加码,官宣新车不到10万买激光雷达",
+      "link": "http://baijiahao.baidu.com/s?id=1842048615697310111&wfr=spider&for=pc",
+      "time": "9月1日 16:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "零跑B10震撼上市",
+      "link": "http://www.autohome.com.cn/dealer/202509/1413388688.html",
+      "time": "9月1日 10:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "零跑汽车8月交付新车57066辆",
+      "link": "http://baijiahao.baidu.com/s?id=1842044400881680700&wfr=spider&for=pc",
+      "time": "9月1日 10:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 01:12:44"
+}

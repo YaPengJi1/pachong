@@ -1,0 +1,319 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:33:04"
+  },
+  "core_event": {
+    "core_event_name": "以色列以军空袭加沙地带高层建筑",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:32:03"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "以军空袭加沙城 又一高层建筑被炸毁",
+      "link": "http://new.qq.com/rain/a/20250909V01U1B00",
+      "time": "9月9日 08:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "以军空袭加沙城 再次炸毁一高层建筑",
+      "link": "http://tv.cctv.com/2025/09/09/VIDE1VZR477y9MQty47dx7nJ250909.shtml",
+      "time": "9月9日 07:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "巴以局势 以军连日空袭加沙城高层建筑",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEdZE5EWFeAb65Mgt8BRA4250908.shtml",
+      "time": "9月8日 00:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "巴以局势 以军持续袭击加沙城 民众艰难决定去留",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10094028456622019287",
+      "time": "9月7日 15:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "以军连日空袭加沙城高层建筑 以媒分析称“只是开始”",
+      "link": "http://news.hnr.cn/shxw/article/1/1964541929291268097",
+      "time": "9月7日 12:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "以军连日空袭加沙城高层建筑",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEu84W2uRz4Gim3zzfp7DH250907.shtml",
+      "time": "9月7日 11:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "以军袭击加沙地带多地 再袭高层建筑",
+      "link": "http://tv.cctv.com/2025/09/07/VIDE1uKPoZwP1YM6365jygL8250907.shtml",
+      "time": "9月7日 08:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "加沙地带媒体办公室称以军空袭住宅楼构成战争罪行",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEHI54E1WajPkJceUxlTCr250907.shtml",
+      "time": "9月7日 05:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "关注巴以冲突 以军再袭高层建筑 称哈马斯用于军事行动",
+      "link": "http://tv.cctv.com/2025/09/07/VIDE30Gn3ZDlG1YLSd1CcCuV250907.shtml",
+      "time": "9月7日 02:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "以军称将空袭一加沙城高层建筑 要求周边民众紧急撤离",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4660902629352006132",
+      "time": "9月6日 23:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "加沙一高楼遭以军空袭瞬间坍塌,废墟中民众徒手搜救伤亡未知",
+      "link": "http://baijiahao.baidu.com/s?id=1842498833246479883&wfr=spider&for=pc",
+      "time": "9月6日 15:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "总台报道员亲历以军空袭加沙城高层建筑",
+      "link": "http://tv.cctv.com/2025/09/06/VIDEMnARrhMgNHc683OgsSJ7250906.shtml",
+      "time": "9月6日 08:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "以色列首都遇袭,加沙领土全面告急,中方锁定最终目标",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3379629040013215882",
+      "time": "9月4日 20:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "以色列总理证实以军袭击哈马斯军方代表",
+      "link": "http://weibo.com/2181597154/Q2s87bvyQ",
+      "time": "8月31日 23:32",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "以军空袭加沙城 又一高层建筑被炸毁",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250909V01U1B00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:32:19",
+      "event_time": "9月9日 08:06"
+    },
+    {
+      "event_title": "以军空袭加沙城 再次炸毁一高层建筑",
+      "event_id": "event_2",
+      "event_url": "http://tv.cctv.com/2025/09/09/VIDE1VZR477y9MQty47dx7nJ250909.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:32:21",
+      "event_time": "9月9日 07:09"
+    },
+    {
+      "event_title": "巴以局势 以军连日空袭加沙城高层建筑",
+      "event_id": "event_3",
+      "event_url": "http://tv.cctv.com/2025/09/08/VIDEdZE5EWFeAb65Mgt8BRA4250908.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:32:23",
+      "event_time": "9月8日 00:14"
+    },
+    {
+      "event_title": "巴以局势 以军持续袭击加沙城 民众艰难决定去留",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10094028456622019287",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:32:25",
+      "event_time": "9月7日 15:55"
+    },
+    {
+      "event_title": "以军连日空袭加沙城高层建筑 以媒分析称“只是开始”",
+      "event_id": "event_5",
+      "event_url": "http://news.hnr.cn/shxw/article/1/1964541929291268097",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:32:27",
+      "event_time": "9月7日 12:11"
+    },
+    {
+      "event_title": "以军连日空袭加沙城高层建筑",
+      "event_id": "event_6",
+      "event_url": "http://tv.cctv.com/2025/09/07/VIDEu84W2uRz4Gim3zzfp7DH250907.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:32:29",
+      "event_time": "9月7日 11:37"
+    },
+    {
+      "event_title": "以军袭击加沙地带多地 再袭高层建筑",
+      "event_id": "event_7",
+      "event_url": "http://tv.cctv.com/2025/09/07/VIDE1uKPoZwP1YM6365jygL8250907.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:32:31",
+      "event_time": "9月7日 08:10"
+    },
+    {
+      "event_title": "加沙地带媒体办公室称以军空袭住宅楼构成战争罪行",
+      "event_id": "event_8",
+      "event_url": "http://tv.cctv.com/2025/09/07/VIDEHI54E1WajPkJceUxlTCr250907.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:32:33",
+      "event_time": "9月7日 05:47"
+    },
+    {
+      "event_title": "关注巴以冲突 以军再袭高层建筑 称哈马斯用于军事行动",
+      "event_id": "event_9",
+      "event_url": "http://tv.cctv.com/2025/09/07/VIDE30Gn3ZDlG1YLSd1CcCuV250907.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:32:35",
+      "event_time": "9月7日 02:18"
+    },
+    {
+      "event_title": "以军称将空袭一加沙城高层建筑 要求周边民众紧急撤离",
+      "event_id": "event_10",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4660902629352006132",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:32:37",
+      "event_time": "9月6日 23:03"
+    },
+    {
+      "event_title": "加沙一高楼遭以军空袭瞬间坍塌,废墟中民众徒手搜救伤亡未知",
+      "event_id": "event_11",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842498833246479883&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:32:53",
+      "event_time": "9月6日 15:28"
+    },
+    {
+      "event_title": "总台报道员亲历以军空袭加沙城高层建筑",
+      "event_id": "event_12",
+      "event_url": "http://tv.cctv.com/2025/09/06/VIDEMnARrhMgNHc683OgsSJ7250906.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:32:55",
+      "event_time": "9月6日 08:28"
+    },
+    {
+      "event_title": "以色列首都遇袭,加沙领土全面告急,中方锁定最终目标",
+      "event_id": "event_13",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=3379629040013215882",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:32:57",
+      "event_time": "9月4日 20:04"
+    },
+    {
+      "event_title": "以色列总理证实以军袭击哈马斯军方代表",
+      "event_id": "event_14",
+      "event_url": "http://weibo.com/2181597154/Q2s87bvyQ",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:32:59",
+      "event_time": "8月31日 23:32"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 14,
+    "total_comments": 14,
+    "events_with_comments": 14,
+    "level1_scrape_time": "2025-09-13 02:32:18",
+    "level2_scrape_time": "2025-09-13 02:32:59"
+  }
+}

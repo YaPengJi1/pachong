@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:47:18"
+  },
+  "core_event": {
+    "core_event_name": "泰国新总理组建内阁",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:46:35"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "这国新总理上任,承诺:不休假、不放假、非必要不请病假",
+      "link": "http://www.163.com/dy/article/K93ERUIV0530JPVV.html",
+      "time": "9月10日 11:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "泰国新总理,公开承诺",
+      "link": "http://k.sina.cn/article_1617264814_606580ae02002dlks.html",
+      "time": "9月7日 15:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "泰国当选总理阿努廷开始组建内阁",
+      "link": "http://baijiahao.baidu.com/s?id=1842563761371390797&wfr=spider&for=pc",
+      "time": "9月7日 08:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "泰国政坛大洗牌!新总理杀出重围,阿努廷惨淡收场黯然出局",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6631680234833701574",
+      "time": "9月6日 12:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "泰国新总理出炉,祖籍广东",
+      "link": "http://app.myzaker.com/news/article.php?pk=68bb99778e9f095a5546495d",
+      "time": "9月6日 10:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "这国新总理上任,承诺:不休假、不放假、非必要不请病假",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K93ERUIV0530JPVV.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:46:50",
+      "event_time": "9月10日 11:25"
+    },
+    {
+      "event_title": "泰国新总理,公开承诺",
+      "event_id": "event_2",
+      "event_url": "http://k.sina.cn/article_1617264814_606580ae02002dlks.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:46:52",
+      "event_time": "9月7日 15:38"
+    },
+    {
+      "event_title": "泰国当选总理阿努廷开始组建内阁",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842563761371390797&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:47:09",
+      "event_time": "9月7日 08:41"
+    },
+    {
+      "event_title": "泰国政坛大洗牌!新总理杀出重围,阿努廷惨淡收场黯然出局",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6631680234833701574",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:47:11",
+      "event_time": "9月6日 12:45"
+    },
+    {
+      "event_title": "泰国新总理出炉,祖籍广东",
+      "event_id": "event_5",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68bb99778e9f095a5546495d",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:47:13",
+      "event_time": "9月6日 10:00"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 10:46:49",
+    "level2_scrape_time": "2025-09-12 10:47:13"
+  }
+}

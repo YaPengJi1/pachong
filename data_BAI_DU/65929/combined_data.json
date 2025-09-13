@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:50:05"
+  },
+  "core_event": {
+    "core_event_name": "特朗普改国防部为战争部",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:49:37"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普宣称将国防部改为战争部,意欲何为?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15078288204082452234",
+      "time": "9月7日 19:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美国战争部来了，转头撤兵保本土，中方不再是“最优先”",
+      "link": "http://www.sohu.com/a/932650643_121199203",
+      "time": "9月7日 15:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国防部改成“战争部”,特朗普的意图是什么?",
+      "link": "http://cj.sina.com.cn/articles/view/6017646441/166adff6900101kghu",
+      "time": "9月6日 22:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美国把国防部改名战争部",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10812772244156774703",
+      "time": "9月6日 20:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "特朗普将美国防部更名为“战争部”",
+      "link": "http://news.hangzhou.com.cn/gjxw/content/2025-09/06/content_9077498.htm",
+      "time": "9月6日 11:27",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "特朗普宣称将国防部改为战争部,意欲何为?",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=15078288204082452234",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:49:52",
+      "event_time": "9月7日 19:37"
+    },
+    {
+      "event_title": "美国战争部来了，转头撤兵保本土，中方不再是“最优先”",
+      "event_id": "event_2",
+      "event_url": "http://www.sohu.com/a/932650643_121199203",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:49:54",
+      "event_time": "9月7日 15:27"
+    },
+    {
+      "event_title": "国防部改成“战争部”,特朗普的意图是什么?",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/6017646441/166adff6900101kghu",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:49:56",
+      "event_time": "9月6日 22:27"
+    },
+    {
+      "event_title": "美国把国防部改名战争部",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10812772244156774703",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:49:58",
+      "event_time": "9月6日 20:28"
+    },
+    {
+      "event_title": "特朗普将美国防部更名为“战争部”",
+      "event_id": "event_5",
+      "event_url": "http://news.hangzhou.com.cn/gjxw/content/2025-09/06/content_9077498.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:50:00",
+      "event_time": "9月6日 11:27"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 14:49:51",
+    "level2_scrape_time": "2025-09-12 14:50:00"
+  }
+}

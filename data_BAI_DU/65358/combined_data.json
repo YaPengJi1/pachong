@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 22:49:10"
+  },
+  "core_event": {
+    "core_event_name": "U22国足备战亚洲杯预选赛",
+    "update_time": "更新至20250903",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:48:47"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U22国足官方阵型:向余望突前,王钰栋、拜合拉木分居两翼",
+      "link": "http://www.sohu.com/a/931561598_362070",
+      "time": "9月3日 18:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U22国足需多进球避免丢球，向余望、王钰栋大概率主力出战",
+      "link": "http://www.163.com/dy/article/K8F76ACJ0529AQIE.html",
+      "time": "9月2日 14:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "王钰栋蒯纪闻领衔出战亚洲杯预选赛 这支U22国足算不算“精兵强将”?",
+      "link": "http://www.jfdaily.com/wx/detail.do?id=973552",
+      "time": "8月30日 10:37",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "U22国足官方阵型:向余望突前,王钰栋、拜合拉木分居两翼",
+      "event_id": "event_1",
+      "event_url": "http://www.sohu.com/a/931561598_362070",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:49:02",
+      "event_time": "9月3日 18:22"
+    },
+    {
+      "event_title": "U22国足需多进球避免丢球，向余望、王钰栋大概率主力出战",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8F76ACJ0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:49:04",
+      "event_time": "9月2日 14:46"
+    },
+    {
+      "event_title": "王钰栋蒯纪闻领衔出战亚洲杯预选赛 这支U22国足算不算“精兵强将”?",
+      "event_id": "event_3",
+      "event_url": "http://www.jfdaily.com/wx/detail.do?id=973552",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:49:06",
+      "event_time": "8月30日 10:37"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 22:49:01",
+    "level2_scrape_time": "2025-09-12 22:49:06"
+  }
+}

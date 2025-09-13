@@ -1,0 +1,111 @@
+{
+  "core_event_name": "河南大范围强降雨",
+  "comments": [
+    {
+      "event_title": "多地出现暴雨 河南启动重大气象灾害(暴雨)Ⅲ级应急响应",
+      "event_id": "event_1",
+      "event_url": "http://china.huanqiu.com/article/4OHGtPo02s6",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:57:07",
+      "event_time": "昨天 09:34"
+    },
+    {
+      "event_title": "河南严阵以待应对强降雨天气",
+      "event_id": "event_2",
+      "event_url": "http://china.huanqiu.com/article/4OHCbT6wFGL",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:57:09",
+      "event_time": "昨天 07:34"
+    },
+    {
+      "event_title": "今年最强降雨抵达!“河南防汛救灾互助通道”已开启",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842873618202120909&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:57:27",
+      "event_time": "9月10日 18:46"
+    },
+    {
+      "event_title": "河南将迎大范围强降水",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842841123328613353&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "叮当讨厌不守时",
+      "comment_time": "09-10 15:18",
+      "comment_content": "河南的朋友们，暴雨要来啦，提前备好雨具，注意安全出行哦。",
+      "user_location": "安徽",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:57:43",
+      "event_time": "9月10日 10:09"
+    },
+    {
+      "event_title": "时间长、范围广、雨量大 10日夜里至11日河南有强降水",
+      "event_id": "event_5",
+      "event_url": "http://news.dahe.cn/2025/09-09/1991123.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:57:45",
+      "event_time": "9月9日 21:20"
+    },
+    {
+      "event_title": "河南发布暴雨预警",
+      "event_id": "event_6",
+      "event_url": "http://www.sohu.com/a/933087920_121976704",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:57:47",
+      "event_time": "9月8日 10:39"
+    },
+    {
+      "event_title": "河南多地有中到大雨,局部暴雨!郑州、平顶山等地发生滑坡、崩塌、泥石流等风险较高",
+      "event_id": "event_7",
+      "event_url": "http://www.163.com/dy/article/K8SI082O0530JPVV.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:57:49",
+      "event_time": "9月7日 19:05"
+    },
+    {
+      "event_title": "河南这些地区中到大雨!局部暴雨!警惕防范",
+      "event_id": "event_8",
+      "event_url": "http://m.gmw.cn/2025-09/05/content_1304136422.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:57:51",
+      "event_time": "9月5日 15:53"
+    }
+  ],
+  "total_comments": 8,
+  "scrape_time": "2025-09-12 10:57:51"
+}

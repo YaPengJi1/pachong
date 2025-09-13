@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "南向资金净买入额创新高",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:19:04"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "南向资金净买入额超50亿港元",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4382572349675655875",
+      "time": "9月9日 11:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "南向资金净买入创新高，港股却显落寞？五大新特征可寻",
+      "link": "http://baijiahao.baidu.com/s?id=1842704092263017156&wfr=spider&for=pc",
+      "time": "9月8日 21:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "南向资金持续涌入,美联储降息预期居高不下,内外资共振下港股有望震荡向上",
+      "link": "http://www.nbd.com.cn/articles/2025-09-05/4050169.html",
+      "time": "9月5日 13:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "今年以来南下资金爆买港股创历史纪录",
+      "link": "http://finance.eastmoney.com/a/202509033503365914.html",
+      "time": "9月3日 12:47",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 11:19:18"
+}

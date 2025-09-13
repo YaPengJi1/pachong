@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "也门胡塞武装称打击一艘与以色列相关油轮",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:19:31"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "胡塞武装:行动成功,以色列和美国“未能探测并拦截”",
+      "link": "http://baijiahao.baidu.com/s?id=1842650047817839415&wfr=spider&for=pc",
+      "time": "9月8日 07:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "也门胡塞武装称打击一艘与以色列相关油轮",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11269202886047879585",
+      "time": "9月6日 14:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "红海再次发生船只遇袭事件，袭击方暂时不明",
+      "link": "http://baijiahao.baidu.com/s?id=1842342775051973104&wfr=spider&for=pc",
+      "time": "9月4日 22:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "胡塞武装称再袭以色列并命中目标",
+      "link": "http://baijiahao.baidu.com/s?id=1842167563125998404&wfr=spider&for=pc",
+      "time": "9月2日 23:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "以色列一油轮遭导弹袭击",
+      "link": "http://baijiahao.baidu.com/s?id=1842042644890507965&wfr=spider&for=pc",
+      "time": "9月1日 14:39",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 14:19:45"
+}

@@ -1,0 +1,100 @@
+{
+  "core_info": {
+    "core_event_name": "华为MatePad Mini发布及价格公布",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:26:51"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "华为发布首款8.8英寸旗舰小平板",
+      "link": "http://www.163.com/dy/article/K8MQAKN80511DP7O.html",
+      "time": "9月5日 13:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "华为阅读+华为MatePad Mini小平板,读书智能体验拉满!",
+      "link": "http://pad.zol.com.cn/1041/10415069.html",
+      "time": "9月5日 10:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "华为MatePad Mini 8.8英寸正式发布",
+      "link": "http://www.cinic.org.cn/zgzz/qy/1602970.html",
+      "time": "9月5日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "华为平板推出全新“Mini”系列",
+      "link": "http://www.cnhubei.com/content/2025-09/04/content_19474495.html",
+      "time": "9月4日 20:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "华为稳坐国内平板第一:MatePad mini今日发布",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infpimri1786050.d.html",
+      "time": "9月4日 16:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "华为MatePad Mini价格公布 今日开启预售",
+      "link": "http://baijiahao.baidu.com/s?id=1842321570751877447&wfr=spider&for=pc",
+      "time": "9月4日 16:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "8.8英寸“大手机”!华为MatePad mini全系支持插卡",
+      "link": "http://news.pconline.com.cn/1974/19744312.html",
+      "time": "9月4日 16:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "华为MatePad Mini来袭，挑战iPad Mini",
+      "link": "http://weibo.com/6456779567/Q30Sjqb4V",
+      "time": "9月4日 15:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "华为MatePad Mini平板亮相,配置曝光引发热议",
+      "link": "http://news.zol.com.cn/1041/10414024.html",
+      "time": "9月4日 13:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "华为MatePad Mini即将登场,小尺寸平板市场格局生变!",
+      "link": "http://baijiahao.baidu.com/s?id=1842212753411564546&wfr=spider&for=pc",
+      "time": "9月3日 11:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "华为MatePad Mini小平板将于9月4日正式发布，真机现已曝光",
+      "link": "http://www.gfan.com/info/593310.html",
+      "time": "9月2日 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 11,
+  "scrape_time": "2025-09-12 14:27:06"
+}

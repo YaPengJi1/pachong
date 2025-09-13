@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:45:43"
+  },
+  "core_event": {
+    "core_event_name": "深空经济：万亿级产业呼之欲出",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:45:00"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "深空经济:多维视角下的新万亿产业图景",
+      "link": "http://weibo.com/3239011600/Q3FWJ7L6L",
+      "time": "9月9日 00:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "深空探测实验室发布深空经济十大产业方向",
+      "link": "http://baijiahao.baidu.com/s?id=1842706130963858719&wfr=spider&for=pc",
+      "time": "9月8日 20:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "万亿级深空经济呼之欲出,十大产业方向明确,商业航天迎发展契机",
+      "link": "http://finance.sina.com.cn/tech/roll/2025-09-08/doc-infpumzm4566868.shtml",
+      "time": "9月8日 15:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "首提“深空经济”，预计2040年全球深空经济规模将达到万亿美元",
+      "link": "http://weibo.com/2214884220/Q3AiyhAol",
+      "time": "9月8日 10:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "深空探测实验室发布“深空经济”十大产业方向",
+      "link": "http://www.163.com/dy/article/K8KM2B1S05346RC6.html",
+      "time": "9月4日 17:42",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "深空经济:多维视角下的新万亿产业图景",
+      "event_id": "event_1",
+      "event_url": "http://weibo.com/3239011600/Q3FWJ7L6L",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:45:16",
+      "event_time": "9月9日 00:32"
+    },
+    {
+      "event_title": "深空探测实验室发布深空经济十大产业方向",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842706130963858719&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:45:33",
+      "event_time": "9月8日 20:03"
+    },
+    {
+      "event_title": "万亿级深空经济呼之欲出,十大产业方向明确,商业航天迎发展契机",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.com.cn/tech/roll/2025-09-08/doc-infpumzm4566868.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:45:35",
+      "event_time": "9月8日 15:17"
+    },
+    {
+      "event_title": "首提“深空经济”，预计2040年全球深空经济规模将达到万亿美元",
+      "event_id": "event_4",
+      "event_url": "http://weibo.com/2214884220/Q3AiyhAol",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:45:37",
+      "event_time": "9月8日 10:10"
+    },
+    {
+      "event_title": "深空探测实验室发布“深空经济”十大产业方向",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8KM2B1S05346RC6.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:45:39",
+      "event_time": "9月4日 17:42"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 14:45:15",
+    "level2_scrape_time": "2025-09-12 14:45:39"
+  }
+}

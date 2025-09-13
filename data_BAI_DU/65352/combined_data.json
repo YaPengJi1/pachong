@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 22:40:03"
+  },
+  "core_event": {
+    "core_event_name": "普京访华，中俄蒙签署多份协议",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:39:07"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "普京承诺中国天然气价格比欧洲低",
+      "link": "http://cj.sina.com.cn/articles/view/7295052889/1b2d1ac590200189fq",
+      "time": "9月7日 18:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "普京离华前 中俄蒙签署协议 最大输家出现 特朗普再次失算了",
+      "link": "http://baijiahao.baidu.com/s?id=1842394308051601529&wfr=spider&for=pc",
+      "time": "9月5日 11:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中俄连签20多份协议，普京当场定性中俄两国关系",
+      "link": "http://baijiahao.baidu.com/s?id=1842318422317388978&wfr=spider&for=pc",
+      "time": "9月4日 16:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中俄一口气签20多份文件,普京得偿所愿了,拿到了最想要的大单",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9734024116238717589",
+      "time": "9月4日 15:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "普京访华，中俄蒙签字同意，俄罗斯拿到想要的东西",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3537238247445783704",
+      "time": "9月4日 15:08",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "普京承诺中国天然气价格比欧洲低",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/7295052889/1b2d1ac590200189fq",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:39:22",
+      "event_time": "9月7日 18:20"
+    },
+    {
+      "event_title": "普京离华前 中俄蒙签署协议 最大输家出现 特朗普再次失算了",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842394308051601529&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:39:39",
+      "event_time": "9月5日 11:48"
+    },
+    {
+      "event_title": "中俄连签20多份协议，普京当场定性中俄两国关系",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842318422317388978&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "孤云天汉明00",
+      "comment_time": "09-05 09:44",
+      "comment_content": "孤云天汉明0009-05 09:44新疆举报回复赞",
+      "user_location": "新疆",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:39:55",
+      "event_time": "9月4日 16:41"
+    },
+    {
+      "event_title": "中俄一口气签20多份文件,普京得偿所愿了,拿到了最想要的大单",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9734024116238717589",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:39:57",
+      "event_time": "9月4日 15:16"
+    },
+    {
+      "event_title": "普京访华，中俄蒙签字同意，俄罗斯拿到想要的东西",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=3537238247445783704",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:39:59",
+      "event_time": "9月4日 15:08"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 22:39:21",
+    "level2_scrape_time": "2025-09-12 22:39:59"
+  }
+}

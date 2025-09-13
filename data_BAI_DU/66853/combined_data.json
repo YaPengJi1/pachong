@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:34:46"
+  },
+  "core_event": {
+    "core_event_name": "澳门冠军赛孙颖莎首轮对决",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:33:59"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国乒全国冠军被日尼利亚选手横扫 惨遭一轮游",
+      "link": "http://sports.ifeng.com/c/8mVZHyhJKdE",
+      "time": "9月9日 13:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "澳门冠军赛女单签位",
+      "link": "http://app.myzaker.com/news/article.php?m=1757370926&pk=68bf58348e9f09501068174d",
+      "time": "9月9日 06:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "澳门冠军赛孙颖莎运气爆棚",
+      "link": "http://new.qq.com/rain/a/20250908V066VM00",
+      "time": "9月8日 16:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "WTT澳门冠军赛女单签表出炉，孙颖莎首轮对手实力不容小觑",
+      "link": "http://baijiahao.baidu.com/s?id=1842611544573377457&wfr=spider&for=pc",
+      "time": "9月7日 21:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "澳门冠军赛:孙颖莎首轮对决19岁中英混血,能否继续辉煌?",
+      "link": "http://www.sohu.com/a/932665543_122507506",
+      "time": "9月7日 16:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "WTT中国澳门冠军赛签表:孙颖莎&张本美和同区 王曼昱&朱雨玲同区",
+      "link": "http://k.sina.cn/article_2018499075_784fda0302002hkou.html",
+      "time": "9月7日 16:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "澳门冠军赛 孙颖莎首轮对阵安",
+      "link": "http://weibo.com/tv/show/1034:5208268226625550",
+      "time": "9月7日 15:49",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "国乒全国冠军被日尼利亚选手横扫 惨遭一轮游",
+      "event_id": "event_1",
+      "event_url": "http://sports.ifeng.com/c/8mVZHyhJKdE",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:34:14",
+      "event_time": "9月9日 13:36"
+    },
+    {
+      "event_title": "澳门冠军赛女单签位",
+      "event_id": "event_2",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1757370926&pk=68bf58348e9f09501068174d",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:34:16",
+      "event_time": "9月9日 06:28"
+    },
+    {
+      "event_title": "澳门冠军赛孙颖莎运气爆棚",
+      "event_id": "event_3",
+      "event_url": "http://new.qq.com/rain/a/20250908V066VM00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:34:18",
+      "event_time": "9月8日 16:45"
+    },
+    {
+      "event_title": "WTT澳门冠军赛女单签表出炉，孙颖莎首轮对手实力不容小觑",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842611544573377457&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:34:36",
+      "event_time": "9月7日 21:21"
+    },
+    {
+      "event_title": "澳门冠军赛:孙颖莎首轮对决19岁中英混血,能否继续辉煌?",
+      "event_id": "event_5",
+      "event_url": "http://www.sohu.com/a/932665543_122507506",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:34:38",
+      "event_time": "9月7日 16:32"
+    },
+    {
+      "event_title": "WTT中国澳门冠军赛签表:孙颖莎&张本美和同区 王曼昱&朱雨玲同区",
+      "event_id": "event_6",
+      "event_url": "http://k.sina.cn/article_2018499075_784fda0302002hkou.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:34:40",
+      "event_time": "9月7日 16:10"
+    },
+    {
+      "event_title": "澳门冠军赛 孙颖莎首轮对阵安",
+      "event_id": "event_7",
+      "event_url": "http://weibo.com/tv/show/1034:5208268226625550",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:34:42",
+      "event_time": "9月7日 15:49"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 10:34:13",
+    "level2_scrape_time": "2025-09-12 10:34:42"
+  }
+}

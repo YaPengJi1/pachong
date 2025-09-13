@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "王腾被辞退",
+    "update_time": "更新至2025年9月10日 22:18",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:48:21"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "华科大官网已撤下校友王腾资料页面",
+      "link": "https://baijiahao.baidu.com/s?id=1842897318307620396&wfr=spider&for=pc",
+      "time": "9月10日 22:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "王腾否认被辞退后将入职魅族担任副总裁",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_7446803036861593752",
+      "time": "9月9日 15:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "王腾再次回应被小米辞退：没有窃取公司机密出售，没有收人钱财",
+      "link": "https://baijiahao.baidu.com/s?id=1842750744743761788",
+      "time": "9月9日 10:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "雷军曾称小米保密制度非常严 雷军曾透露王腾多次泄密被罚款",
+      "link": "https://haokan.baidu.com/v?vid=4336523286282866940",
+      "time": "9月9日 09:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "小米内部通报:王腾因泄密被辞退",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_2280387484181668914",
+      "time": "9月8日 22:54",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 14:48:35"
+}

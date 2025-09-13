@@ -1,0 +1,46 @@
+{
+  "core_event_name": "山西组织观看纪念抗战大会",
+  "comments": [
+    {
+      "event_title": "山西省各界干部群众收看收听纪念抗战胜利大会",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8L5FIV20519QNBU.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:52:55",
+      "event_time": "9月4日 22:11"
+    },
+    {
+      "event_title": "我省各地组织观看纪念反法西斯战争胜利大会直播",
+      "event_id": "event_2",
+      "event_url": "http://www.shanxi.gov.cn/ywdt/tpxw/202509/t20250904_9951898.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:52:57",
+      "event_time": "9月4日 13:16"
+    },
+    {
+      "event_title": "我区组织集中收看纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会",
+      "event_id": "event_3",
+      "event_url": "http://weibo.com/6126654205/Q2YbknxE1",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:52:59",
+      "event_time": "9月4日 09:07"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-13 01:52:59"
+}

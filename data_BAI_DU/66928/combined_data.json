@@ -1,0 +1,193 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:11:29"
+  },
+  "core_event": {
+    "core_event_name": "弗格拒绝加盟山东引热议",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:10:55"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "CBA昔日超级外援与山东签约谈崩，有望重返辽篮？",
+      "link": "http://cj.sina.com.cn/articles/view/6504901717/183b8ec5500101ibro",
+      "time": "9月8日 07:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "弗格拒山东百万合同，CBA再寻下家",
+      "link": "http://news.sohu.com/a/932646285_120171272",
+      "time": "9月7日 17:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "弗格拒绝加盟山东男篮引热议 合同报价低于心理预期",
+      "link": "http://cj.sina.com.cn/articles/view/1835372902/6d65916600101a90i",
+      "time": "9月7日 17:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "辽宁三冠功勋外援拒绝加盟，或就此告别CBA",
+      "link": "http://app.myzaker.com/news/article.php?m=1757289610&pk=68bccb7b8e9f09728c04ccbe",
+      "time": "9月7日 08:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "CBA超级外援弗格未能与山东男篮签约，或将重返老东家辽宁男篮",
+      "link": "http://news.sohu.com/a/932551123_121927159",
+      "time": "9月7日 07:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "拒绝山东!前总决赛MVP去向成谜 会重返辽篮吗?",
+      "link": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001tc8s",
+      "time": "9月7日 00:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "弗格拒绝加盟山东引热议 合同报价低于心理预期",
+      "link": "http://www.163.com/dy/article/K8PJ0H7S0549L6B0.html",
+      "time": "9月6日 15:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "媒体人:山东的报价未达到弗格预期 球队第3第4外援会陆续到位",
+      "link": "http://www.163.com/dy/article/K8P1CP7H0529AQIE.html",
+      "time": "9月6日 10:17",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "CBA昔日超级外援与山东签约谈崩，有望重返辽篮？",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/6504901717/183b8ec5500101ibro",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:11:11",
+      "event_time": "9月8日 07:46"
+    },
+    {
+      "event_title": "弗格拒山东百万合同，CBA再寻下家",
+      "event_id": "event_2",
+      "event_url": "http://news.sohu.com/a/932646285_120171272",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:11:13",
+      "event_time": "9月7日 17:52"
+    },
+    {
+      "event_title": "弗格拒绝加盟山东男篮引热议 合同报价低于心理预期",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/1835372902/6d65916600101a90i",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:11:15",
+      "event_time": "9月7日 17:30"
+    },
+    {
+      "event_title": "辽宁三冠功勋外援拒绝加盟，或就此告别CBA",
+      "event_id": "event_4",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1757289610&pk=68bccb7b8e9f09728c04ccbe",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:11:17",
+      "event_time": "9月7日 08:01"
+    },
+    {
+      "event_title": "CBA超级外援弗格未能与山东男篮签约，或将重返老东家辽宁男篮",
+      "event_id": "event_5",
+      "event_url": "http://news.sohu.com/a/932551123_121927159",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:11:19",
+      "event_time": "9月7日 07:32"
+    },
+    {
+      "event_title": "拒绝山东!前总决赛MVP去向成谜 会重返辽篮吗?",
+      "event_id": "event_6",
+      "event_url": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001tc8s",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:11:21",
+      "event_time": "9月7日 00:53"
+    },
+    {
+      "event_title": "弗格拒绝加盟山东引热议 合同报价低于心理预期",
+      "event_id": "event_7",
+      "event_url": "http://www.163.com/dy/article/K8PJ0H7S0549L6B0.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:11:23",
+      "event_time": "9月6日 15:25"
+    },
+    {
+      "event_title": "媒体人:山东的报价未达到弗格预期 球队第3第4外援会陆续到位",
+      "event_id": "event_8",
+      "event_url": "http://www.163.com/dy/article/K8P1CP7H0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:11:25",
+      "event_time": "9月6日 10:17"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 8,
+    "total_comments": 8,
+    "events_with_comments": 8,
+    "level1_scrape_time": "2025-09-12 10:11:09",
+    "level2_scrape_time": "2025-09-12 10:11:25"
+  }
+}

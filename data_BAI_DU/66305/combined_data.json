@@ -1,0 +1,298 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:22:37"
+  },
+  "core_event": {
+    "core_event_name": "育儿补贴申领全面开放",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:21:53"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "育儿补贴申领全面开启 市民可线上线下申领",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16640137899488302219",
+      "time": "9月10日 20:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "育儿补贴已开放申领 “一网通办”省时省力",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8880354225248603441",
+      "time": "9月10日 20:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国家卫生健康委：育儿补贴申领8日正式全面开放",
+      "link": "http://tv.cctv.com/2025/09/09/VIDEwkD488Gox0NR0hOzp9G2250909.shtml",
+      "time": "9月9日 18:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "育儿补贴申领正式开放 线上线下均可办理",
+      "link": "http://tv.cctv.com/2025/09/09/VIDEFHjHcSqxMnb8iYp7kdRk250909.shtml",
+      "time": "9月9日 12:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "育儿补贴 免征个人所得税",
+      "link": "http://finance.sina.com.cn/jjxw/2025-09-09/doc-infpwkss0561618.shtml",
+      "time": "9月9日 12:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "育儿补贴正式开放申领",
+      "link": "http://www.163.com/dy/article/K90PQL9H0514A5O1.html",
+      "time": "9月9日 10:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "国家卫健委:育儿补贴申领正式全面开放",
+      "link": "http://tv.cctv.com/2025/09/09/VIDEQ2opqbLB4OYZv4nigrhx250909.shtml",
+      "time": "9月9日 08:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "育儿补贴申领正式全面开放",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9899113901284199300",
+      "time": "9月9日 06:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "育儿补贴申领今天正式全面开放",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEqnKxliEoOkRYFC9Feqpa250908.shtml",
+      "time": "9月8日 22:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "育儿补贴申领正式全面开放!娃一出生就吃上了国家铁饭碗 现阶段国家基础标准每孩每年3600元",
+      "link": "http://new.qq.com/rain/a/20250908V085IZ00",
+      "time": "9月8日 20:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "上海育儿补贴官方申领开启",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31577289",
+      "time": "9月8日 19:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "青田奶爸奶妈注意了!育儿补贴申领正式全面开放!",
+      "link": "http://baobao.sohu.com/a/933176233_121123842",
+      "time": "9月8日 17:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "9月8日起,育儿补贴申领正式全面开放",
+      "link": "http://new.qq.com/rain/a/20250908V06JLU00",
+      "time": "9月8日 17:13",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "育儿补贴申领全面开启 市民可线上线下申领",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=16640137899488302219",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:22:08",
+      "event_time": "9月10日 20:20"
+    },
+    {
+      "event_title": "育儿补贴已开放申领 “一网通办”省时省力",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8880354225248603441",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:22:10",
+      "event_time": "9月10日 20:12"
+    },
+    {
+      "event_title": "国家卫生健康委：育儿补贴申领8日正式全面开放",
+      "event_id": "event_3",
+      "event_url": "http://tv.cctv.com/2025/09/09/VIDEwkD488Gox0NR0hOzp9G2250909.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:22:12",
+      "event_time": "9月9日 18:25"
+    },
+    {
+      "event_title": "育儿补贴申领正式开放 线上线下均可办理",
+      "event_id": "event_4",
+      "event_url": "http://tv.cctv.com/2025/09/09/VIDEFHjHcSqxMnb8iYp7kdRk250909.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:22:15",
+      "event_time": "9月9日 12:21"
+    },
+    {
+      "event_title": "育儿补贴 免征个人所得税",
+      "event_id": "event_5",
+      "event_url": "http://finance.sina.com.cn/jjxw/2025-09-09/doc-infpwkss0561618.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:22:17",
+      "event_time": "9月9日 12:08"
+    },
+    {
+      "event_title": "育儿补贴正式开放申领",
+      "event_id": "event_6",
+      "event_url": "http://www.163.com/dy/article/K90PQL9H0514A5O1.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:22:19",
+      "event_time": "9月9日 10:38"
+    },
+    {
+      "event_title": "国家卫健委:育儿补贴申领正式全面开放",
+      "event_id": "event_7",
+      "event_url": "http://tv.cctv.com/2025/09/09/VIDEQ2opqbLB4OYZv4nigrhx250909.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:22:21",
+      "event_time": "9月9日 08:40"
+    },
+    {
+      "event_title": "育儿补贴申领正式全面开放",
+      "event_id": "event_8",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9899113901284199300",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:22:23",
+      "event_time": "9月9日 06:15"
+    },
+    {
+      "event_title": "育儿补贴申领今天正式全面开放",
+      "event_id": "event_9",
+      "event_url": "http://tv.cctv.com/2025/09/08/VIDEqnKxliEoOkRYFC9Feqpa250908.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:22:25",
+      "event_time": "9月8日 22:44"
+    },
+    {
+      "event_title": "育儿补贴申领正式全面开放!娃一出生就吃上了国家铁饭碗 现阶段国家基础标准每孩每年3600元",
+      "event_id": "event_10",
+      "event_url": "http://new.qq.com/rain/a/20250908V085IZ00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:22:27",
+      "event_time": "9月8日 20:01"
+    },
+    {
+      "event_title": "上海育儿补贴官方申领开启",
+      "event_id": "event_11",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31577289",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:22:29",
+      "event_time": "9月8日 19:05"
+    },
+    {
+      "event_title": "青田奶爸奶妈注意了!育儿补贴申领正式全面开放!",
+      "event_id": "event_12",
+      "event_url": "http://baobao.sohu.com/a/933176233_121123842",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:22:31",
+      "event_time": "9月8日 17:15"
+    },
+    {
+      "event_title": "9月8日起,育儿补贴申领正式全面开放",
+      "event_id": "event_13",
+      "event_url": "http://new.qq.com/rain/a/20250908V06JLU00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:22:33",
+      "event_time": "9月8日 17:13"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 13,
+    "total_comments": 13,
+    "events_with_comments": 13,
+    "level1_scrape_time": "2025-09-12 14:22:07",
+    "level2_scrape_time": "2025-09-12 14:22:33"
+  }
+}

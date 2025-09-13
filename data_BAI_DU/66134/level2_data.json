@@ -1,0 +1,46 @@
+{
+  "core_event_name": "泰国新总理人选",
+  "comments": [
+    {
+      "event_title": "泰国新总理人选提前锁定,他信已出国避难",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8UUDEP50553B0G8.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:48:11",
+      "event_time": "9月8日 17:21"
+    },
+    {
+      "event_title": "泰国新总理人选已定?为泰党将成为反对派,他信、佩通坦还有后招",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=13689473637331455160",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:48:13",
+      "event_time": "9月8日 10:15"
+    },
+    {
+      "event_title": "泰国国会下议院将于5日选举新一任总理",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842314085900054604&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:48:31",
+      "event_time": "9月4日 13:59"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 14:48:31"
+}

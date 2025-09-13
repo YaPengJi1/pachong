@@ -1,0 +1,59 @@
+{
+  "core_event_name": "国足U22晋级",
+  "comments": [
+    {
+      "event_title": "打平就出线 国足U22做到了",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842795481032897138&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "露西儿童教育者",
+      "comment_time": "09-09 22:10",
+      "comment_content": "国足U22小伙子们真硬气，平局出线稳进亚洲杯了！",
+      "user_location": "江西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:11:08",
+      "event_time": "9月9日 22:05"
+    },
+    {
+      "event_title": "U22国足0:0澳大利亚轻松晋级，门将李昊神一次扑拯救球队",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842794276323037491&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "雪媚果瓜12",
+      "comment_time": "09-09 21:58",
+      "comment_content": "作者用心了，点个赞👍",
+      "user_location": "重庆",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:11:26",
+      "event_time": "9月9日 21:46"
+    },
+    {
+      "event_title": "U22国足0:0澳大利亚轻松晋级，门将李昊神一次扑拯救球队",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842794276323037491&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "百度网友8699a4905",
+      "comment_time": "09-10 09:26",
+      "comment_content": "现在进正赛都这么吃力了？",
+      "user_location": "江苏",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:11:26",
+      "event_time": "9月9日 21:46"
+    },
+    {
+      "event_title": "热议U22赢球靠王玉栋，非教练战术，对手仅4.7万人口",
+      "event_id": "event_3",
+      "event_url": "http://news.sohu.com/a/932652646_121683270",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:11:28",
+      "event_time": "9月7日 16:11"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 11:11:28"
+}

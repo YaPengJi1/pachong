@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "霸王茶姬海外业务大涨",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:42:19"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "霸王茶姬海外业务大涨77%",
+      "link": "http://app.myzaker.com/news/article.php?pk=68bacf638e9f0912d23c55e0",
+      "time": "9月5日 19:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "海外GMV大涨 77%,霸王茶姬离“星巴克”又近一步",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infpiwfa3248951.d.html",
+      "time": "9月4日 20:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "霸王茶姬进入菲律宾市场",
+      "link": "http://news.sina.com.cn/o/2025-09-02/doc-infpccte8707070.shtml",
+      "time": "9月2日 18:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "霸王茶姬菲律宾三店同开,海外市场逐步成为公司增长引擎",
+      "link": "http://36kr.com/p/3449119955424640",
+      "time": "9月2日 14:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "霸王茶姬Q2营收增长超10% 创始人表示“坚决不参与价格战”",
+      "link": "http://baijiahao.baidu.com/s?id=1842033359590541986&wfr=spider&for=pc",
+      "time": "9月1日 09:36",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 17:42:33"
+}

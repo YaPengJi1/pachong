@@ -1,0 +1,92 @@
+{
+  "core_info": {
+    "core_event_name": "高德与美团的竞争",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:19:17"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "高德突然向美团下手,马云又赌对了",
+      "link": "http://finance.sina.com.cn/cj/2025-09-11/doc-infqawwm1767767.shtml",
+      "time": "昨天 11:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "携超10亿补贴奇袭美团 “高德扫街榜”再战本地生活",
+      "link": "http://baijiahao.baidu.com/s?id=1842924328386808784&wfr=spider&for=pc",
+      "time": "昨天 08:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "高德闪击美团,到店战火再升级",
+      "link": "http://36kr.com/p/3460880512964741",
+      "time": "昨天 07:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "对标美团,阿里砸10亿补贴推“高德扫街榜”",
+      "link": "http://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=980581&sid=11",
+      "time": "昨天 06:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "高德攻入美团腹地 电商“三国杀”持续加码",
+      "link": "http://finance.sina.com.cn/jjxw/2025-09-10/doc-infpzrcc9214251.shtml",
+      "time": "9月10日 23:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "阿里再战美团:高德推出“扫街榜”直指大众点评",
+      "link": "http://finance.eastmoney.com/a/202509103510025978.html",
+      "time": "9月10日 19:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "阿里砸10亿补贴推“高德扫街榜”",
+      "link": "http://finance.sina.com.cn/jjxw/2025-09-10/doc-infpzepf2554346.shtml",
+      "time": "9月10日 17:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "阿里剑指美团:高德扫街榜永不商业化",
+      "link": "http://www.nbd.com.cn/articles/2025-09-10/4055479.html",
+      "time": "9月10日 12:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "阿里美团同日隔空较劲:高德发布扫街榜,大众点评“重启”品质外卖",
+      "link": "http://36kr.com/p/3460336438056578",
+      "time": "9月10日 12:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "阿里借高德切入大众点评业务 剑指美团第二战场",
+      "link": "http://baijiahao.baidu.com/s?id=1842845901544005330&wfr=spider&for=pc",
+      "time": "9月10日 11:26",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 10,
+  "scrape_time": "2025-09-12 11:19:31"
+}

@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "外交部回应石破茂辞职",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:22:02"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "石破茂宣布辞职,中方回应",
+      "link": "http://baijiahao.baidu.com/s?id=1842682795536924204&wfr=spider&for=pc",
+      "time": "9月8日 16:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "石破茂宣布辞去日本自民党总裁职务",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEg58YlxkINFYGxegCLkCD250908.shtml",
+      "time": "9月8日 15:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "石破茂宣布辞职,外交部表态",
+      "link": "http://v.qq.com/x/page/y1227vhai1d.html",
+      "time": "9月8日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "要辞职?石破茂:将适时作出决定",
+      "link": "http://baijiahao.baidu.com/s?id=1842153765566530962&wfr=spider&for=pc",
+      "time": "9月2日 08:05",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 14:22:16"
+}

@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普关税政策再生变数",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:50:37"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普:坚决上诉,美国输不起",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11095310344958438002",
+      "time": "9月4日 16:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "白宫要求最高法紧急受理关税诉讼",
+      "link": "http://www.jiemian.com/article/13300834.html",
+      "time": "9月4日 11:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普向美国最高法院上诉",
+      "link": "http://baijiahao.baidu.com/s?id=1842301754030819404&wfr=spider&for=pc",
+      "time": "9月4日 11:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "联邦巡回上诉法院裁决对特朗普关税意味着什么",
+      "link": "http://finance.sina.com.cn/stock/stockzmt/2025-09-03/doc-infpemns4730160.shtml",
+      "time": "9月3日 08:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "特朗普关税政策再生变数,最高法院或将介入",
+      "link": "http://baijiahao.baidu.com/s?id=1841847771584659996&wfr=spider&for=pc",
+      "time": "8月30日 10:57",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 01:50:51"
+}

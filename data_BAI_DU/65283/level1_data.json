@@ -1,0 +1,132 @@
+{
+  "core_info": {
+    "core_event_name": "2025齐鲁秋季车展",
+    "update_time": "更新至20250912",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:36:20"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "2025海报集团金秋车展正式启幕 展出品牌多 逛展人气高",
+      "link": "http://baijiahao.baidu.com/s?id=1843015866613507372&wfr=spider&for=pc",
+      "time": "今天 08:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "2025海南金秋车展暨智能网联新能源车展举行",
+      "link": "http://cj.sina.com.cn/articles/view/1784473157/6a5ce64502003aq6u",
+      "time": "昨天 18:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "2025第21届烟台国际车展盛大启幕 智能科技与惠民盛宴燃爆港城",
+      "link": "http://www.jiaodong.net/news/system/2025/09/11/201234340.shtml",
+      "time": "昨天 17:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "2025齐鲁秋季车展最佳上市新车",
+      "link": "http://baijiahao.baidu.com/s?id=1842576787377551816&wfr=spider&for=pc",
+      "time": "9月7日 12:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "齐鲁秋季车展现场:家庭小主人选择重要",
+      "link": "http://baijiahao.baidu.com/s?id=1842576412473995743&wfr=spider&for=pc",
+      "time": "9月7日 12:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "2025齐鲁秋季车展客流破20万",
+      "link": "http://baijiahao.baidu.com/s?id=1842494902501636860&wfr=spider&for=pc",
+      "time": "9月6日 02:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "齐鲁秋季车展:卡通涂装、复古造型与个性车身颜色,引领年轻化潮流",
+      "link": "http://www.163.com/dy/article/K8N66BD30530WJIN.html",
+      "time": "9月5日 17:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "打卡齐鲁秋季车展:红旗“老爷车”L5助阵,国产品牌再掀消费热潮",
+      "link": "http://baijiahao.baidu.com/s?id=1842380933785675494&wfr=spider&for=pc",
+      "time": "9月5日 08:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "各类车型在齐鲁秋季车展集中亮相",
+      "link": "http://baijiahao.baidu.com/s?id=1842380964729447915&wfr=spider&for=pc",
+      "time": "9月5日 08:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "2025齐鲁秋季车展开幕 近千款车型亮相泉城",
+      "link": "http://baijiahao.baidu.com/s?id=1842329845398640798&wfr=spider&for=pc",
+      "time": "9月4日 18:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "3D数字人“齐齐”惊艳亮相齐鲁车展",
+      "link": "http://baijiahao.baidu.com/s?id=1842313616939160301&wfr=spider&for=pc",
+      "time": "9月4日 14:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "齐鲁秋季车展即将开幕，参展商及观众云集展馆",
+      "link": "http://baijiahao.baidu.com/s?id=1842296568515243902&wfr=spider&for=pc",
+      "time": "9月4日 09:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "齐齐”答疑、拍报留念、玩MR乐园,齐鲁车展数字化体验全面升级",
+      "link": "http://baijiahao.baidu.com/s?id=1842312105324203003&wfr=spider&for=pc",
+      "time": "9月4日 02:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "齐鲁秋季车展布展忙，明日开幕蓄势待发",
+      "link": "http://finance.sina.cn/2025-09-03/detail-infpfnyf2614240.d.html",
+      "time": "9月3日 18:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "2025齐鲁秋季车展明日开幕",
+      "link": "http://baijiahao.baidu.com/s?id=1842228146018409668&wfr=spider&for=pc",
+      "time": "9月3日 03:47",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 15,
+  "scrape_time": "2025-09-12 21:36:34"
+}

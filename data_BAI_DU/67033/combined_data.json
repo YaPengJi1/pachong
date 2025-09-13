@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:25:13"
+  },
+  "core_event": {
+    "core_event_name": "U22国足参加亚洲杯正赛",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:24:41"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U23亚洲杯16强出炉，中国队连续七届入围",
+      "link": "http://finance.sina.com.cn/jjxw/2025-09-11/doc-infqanhr1919560.shtml",
+      "time": "昨天 08:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "亚洲杯16强揭晓：中国队排名榜首，输球也能晋级",
+      "link": "http://www.163.com/dy/article/K943827N0556DGSY.html",
+      "time": "9月10日 17:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U23亚洲杯正赛16队全部产生 中国队出线真的好险",
+      "link": "http://www.163.com/dy/article/K93CF3RI0529AQIE.html",
+      "time": "9月10日 10:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22国足，可以参加亚洲杯正赛了",
+      "link": "http://cj.sina.com.cn/articles/view/1617264814/606580ae02002dpj6",
+      "time": "9月10日 08:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "U23亚洲杯正赛16队出炉:国足第6次晋级!泰国越南头名,10月2日抽签",
+      "link": "http://cj.sina.com.cn/articles/view/7880068820/1d5b04ed402001dgts",
+      "time": "9月10日 05:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "中国U23以小组第二进U23亚洲杯正赛",
+      "link": "http://www.163.com/dy/article/K922F94F0549WGPN.html",
+      "time": "9月9日 22:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "2026世界杯已确定16支参赛队",
+      "link": "http://www.titan24.com/literalLive/2025/09/05/568024/os_quick.html",
+      "time": "9月5日 11:50",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "U23亚洲杯16强出炉，中国队连续七届入围",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.com.cn/jjxw/2025-09-11/doc-infqanhr1919560.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:24:57",
+      "event_time": "昨天 08:01"
+    },
+    {
+      "event_title": "亚洲杯16强揭晓：中国队排名榜首，输球也能晋级",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K943827N0556DGSY.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:24:59",
+      "event_time": "9月10日 17:21"
+    },
+    {
+      "event_title": "U23亚洲杯正赛16队全部产生 中国队出线真的好险",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K93CF3RI0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:25:01",
+      "event_time": "9月10日 10:43"
+    },
+    {
+      "event_title": "U22国足，可以参加亚洲杯正赛了",
+      "event_id": "event_4",
+      "event_url": "http://cj.sina.com.cn/articles/view/1617264814/606580ae02002dpj6",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:25:03",
+      "event_time": "9月10日 08:59"
+    },
+    {
+      "event_title": "U23亚洲杯正赛16队出炉:国足第6次晋级!泰国越南头名,10月2日抽签",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/7880068820/1d5b04ed402001dgts",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:25:05",
+      "event_time": "9月10日 05:54"
+    },
+    {
+      "event_title": "中国U23以小组第二进U23亚洲杯正赛",
+      "event_id": "event_6",
+      "event_url": "http://www.163.com/dy/article/K922F94F0549WGPN.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:25:07",
+      "event_time": "9月9日 22:29"
+    },
+    {
+      "event_title": "2026世界杯已确定16支参赛队",
+      "event_id": "event_7",
+      "event_url": "http://www.titan24.com/literalLive/2025/09/05/568024/os_quick.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:25:09",
+      "event_time": "9月5日 11:50"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 10:24:55",
+    "level2_scrape_time": "2025-09-12 10:25:09"
+  }
+}

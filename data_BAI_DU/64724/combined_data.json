@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:38:46"
+  },
+  "core_event": {
+    "core_event_name": "Salesforce财报超预期却指引疲软",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:38:06"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "Salesforce财报超预期但股价下跌，AI转型进展引发投资者担忧",
+      "link": "http://cj.sina.com.cn/articles/view/1686203097/64816ad90270195rm",
+      "time": "9月5日 22:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "Salesforce营收增长10%,用智能体取代4000名员工",
+      "link": "http://baijiahao.baidu.com/s?id=1842392858739332814&wfr=spider&for=pc",
+      "time": "9月5日 11:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "Salesforce现跌超6%",
+      "link": "http://finance.eastmoney.com/a/202509043505156119.html",
+      "time": "9月4日 23:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "Salesforce上季营收超预期但本季指引疲软，盘后跳水",
+      "link": "http://app.myzaker.com/news/article.php?m=1756941520&pk=68b8caadb15ec039d041b03f",
+      "time": "9月4日 06:35",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "Salesforce财报超预期但股价下跌，AI转型进展引发投资者担忧",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/1686203097/64816ad90270195rm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:38:21",
+      "event_time": "9月5日 22:09"
+    },
+    {
+      "event_title": "Salesforce营收增长10%,用智能体取代4000名员工",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842392858739332814&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:38:37",
+      "event_time": "9月5日 11:25"
+    },
+    {
+      "event_title": "Salesforce现跌超6%",
+      "event_id": "event_3",
+      "event_url": "http://finance.eastmoney.com/a/202509043505156119.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:38:40",
+      "event_time": "9月4日 23:20"
+    },
+    {
+      "event_title": "Salesforce上季营收超预期但本季指引疲软，盘后跳水",
+      "event_id": "event_4",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1756941520&pk=68b8caadb15ec039d041b03f",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:38:42",
+      "event_time": "9月4日 06:35"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-13 01:38:20",
+    "level2_scrape_time": "2025-09-13 01:38:42"
+  }
+}

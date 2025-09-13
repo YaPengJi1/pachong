@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "中俄免签政策",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:16:29"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国对俄试行免签,普京:感谢,俄方将作对等回应",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31544855",
+      "time": "9月5日 11:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特朗普反对无效 中俄签署合作大单 俄罗斯卖石油 中国对俄免签",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2642550247966689558",
+      "time": "9月3日 16:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中方对俄罗斯试行免签政策",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6078271844594725864",
+      "time": "9月2日 22:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国队俄罗斯免签了 俄罗斯应该很快也对中国免签",
+      "link": "http://weibo.com/1652184490/Q2IjsDiZM",
+      "time": "9月2日 16:43",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 02:16:43"
+}

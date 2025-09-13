@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "乌克兰和美国联手搞了个“矿产基金”",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:16:10"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "乌美联合投资基金理事会举行首次会议",
+      "link": "http://world.huanqiu.com/article/4OBj5YbLbnB",
+      "time": "9月4日 17:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "乌克兰和美国联手搞了个“矿产基金”，头一回开会谈成了",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_3712964894032201571",
+      "time": "9月4日 16:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "乌克兰预计9月3日将召开首次由美国主导的基金管理委员会会议",
+      "link": "http://finance.sina.cn/7x24/2025-09-01/detail-infnzezv9088736.d.html",
+      "time": "9月1日 22:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-13 01:16:24"
+}

@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "朱婷邀你参加河南女排城市联赛",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:36:31"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "2025年河南省女子排球城市联赛9月13日精彩开赛",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5635745169980885004",
+      "time": "9月5日 11:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "河南“排超”将登场:奥运冠军朱婷“喊你来打球”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6246087613096843335",
+      "time": "9月4日 19:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "河南女排城市联赛开打，朱婷任大使",
+      "link": "http://weibo.com/1841812881/Q31jVmcoR",
+      "time": "9月4日 17:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "郑超郑BA河南排超点燃全城!奥运冠军朱婷助阵全民赛事",
+      "link": "http://www.sohu.com/a/931843220_122387568",
+      "time": "9月4日 15:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "2025年河南省女子排球城市联赛将启幕",
+      "link": "http://baijiahao.baidu.com/s?id=1842309242122010749&wfr=spider&for=pc",
+      "time": "9月4日 12:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "朱婷邀你扣响未来!2025年河南省女子排球城市联赛蓄势待发",
+      "link": "http://www.sohu.com/a/931794917_121924582",
+      "time": "9月4日 11:12",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 14:36:45"
+}

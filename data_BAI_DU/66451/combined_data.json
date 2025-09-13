@@ -1,0 +1,248 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 15:01:04"
+  },
+  "core_event": {
+    "core_event_name": "U22国足0-0澳大利亚，晋级亚洲杯",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:00:10"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "亚预赛大结局：上届四强之一出局，中国队“苟”进正赛",
+      "link": "http://new.qq.com/rain/a/20250911A05H1L00",
+      "time": "昨天 15:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U22国足0-0战平澳大利亚,晋级U23亚洲杯正赛!安东尼奥谈正赛备战:需要充分利用10月国际比赛日!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2650223687202630608",
+      "time": "9月9日 23:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "亚预赛诞生4支7分队，澳大利亚放水中国男足",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4012482589765606459",
+      "time": "9月9日 23:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22国足0-0澳大利亚，晋级亚洲杯",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7631228490509089385",
+      "time": "9月9日 22:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "亚预赛首支7分队诞生却未晋级",
+      "link": "http://cj.sina.com.cn/articles/view/7880068727/1d5b04e7702002fgum",
+      "time": "9月9日 18:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "亚洲杯积分：中国6分，澳大利亚6分",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15245508374321444330",
+      "time": "9月8日 22:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "亚预赛乱了:拿7分也会出局,中国队形势危险:半个亚洲帮忙出线",
+      "link": "http://cj.sina.com.cn/articles/view/7880068820/1d5b04ed402001dfhw",
+      "time": "9月8日 00:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "亚预赛一夜11队出局 中国队形势反转",
+      "link": "http://cj.sina.com.cn/articles/view/2834321443/a8f0502300101mgna",
+      "time": "9月7日 00:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "U23亚洲杯10队锁定出局，弱旅集体爆发，中国队出线迎转机",
+      "link": "http://baijiahao.baidu.com/s?id=1842483455029945581&wfr=spider&for=pc",
+      "time": "9月6日 11:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "亚预赛形势10队基本出局，中国队出线柳暗花明",
+      "link": "http://cj.sina.com.cn/articles/view/2834321443/a8f0502300101mfr8",
+      "time": "9月6日 00:35",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "亚预赛大结局：上届四强之一出局，中国队“苟”进正赛",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250911A05H1L00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:00:26",
+      "event_time": "昨天 15:45"
+    },
+    {
+      "event_title": "U22国足0-0战平澳大利亚,晋级U23亚洲杯正赛!安东尼奥谈正赛备战:需要充分利用10月国际比赛日!",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=2650223687202630608",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:00:28",
+      "event_time": "9月9日 23:10"
+    },
+    {
+      "event_title": "亚预赛诞生4支7分队，澳大利亚放水中国男足",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4012482589765606459",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:00:30",
+      "event_time": "9月9日 23:00"
+    },
+    {
+      "event_title": "U22国足0-0澳大利亚，晋级亚洲杯",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7631228490509089385",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:00:32",
+      "event_time": "9月9日 22:03"
+    },
+    {
+      "event_title": "亚预赛首支7分队诞生却未晋级",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/7880068727/1d5b04e7702002fgum",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:00:34",
+      "event_time": "9月9日 18:59"
+    },
+    {
+      "event_title": "亚洲杯积分：中国6分，澳大利亚6分",
+      "event_id": "event_6",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=15245508374321444330",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:00:36",
+      "event_time": "9月8日 22:03"
+    },
+    {
+      "event_title": "亚预赛乱了:拿7分也会出局,中国队形势危险:半个亚洲帮忙出线",
+      "event_id": "event_7",
+      "event_url": "http://cj.sina.com.cn/articles/view/7880068820/1d5b04ed402001dfhw",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:00:38",
+      "event_time": "9月8日 00:49"
+    },
+    {
+      "event_title": "亚预赛一夜11队出局 中国队形势反转",
+      "event_id": "event_8",
+      "event_url": "http://cj.sina.com.cn/articles/view/2834321443/a8f0502300101mgna",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:00:40",
+      "event_time": "9月7日 00:34"
+    },
+    {
+      "event_title": "U23亚洲杯10队锁定出局，弱旅集体爆发，中国队出线迎转机",
+      "event_id": "event_9",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842483455029945581&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "雅雅偏爱游戏创",
+      "comment_time": "09-06 11:36",
+      "comment_content": "中国队首轮踢得紧，但乱局带来机遇，下场把握机会拼晋级。",
+      "user_location": "河南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:00:58",
+      "event_time": "9月6日 11:25"
+    },
+    {
+      "event_title": "U23亚洲杯10队锁定出局，弱旅集体爆发，中国队出线迎转机",
+      "event_id": "event_9",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842483455029945581&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "晴天72118",
+      "comment_time": "09-06 12:22",
+      "comment_content": "拜合拉木居中，头球取胜，中国一贯虐菜方法。",
+      "user_location": "江苏",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:00:58",
+      "event_time": "9月6日 11:25"
+    },
+    {
+      "event_title": "亚预赛形势10队基本出局，中国队出线柳暗花明",
+      "event_id": "event_10",
+      "event_url": "http://cj.sina.com.cn/articles/view/2834321443/a8f0502300101mfr8",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:01:00",
+      "event_time": "9月6日 00:35"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 10,
+    "total_comments": 11,
+    "events_with_comments": 10,
+    "level1_scrape_time": "2025-09-12 15:00:25",
+    "level2_scrape_time": "2025-09-12 15:01:00"
+  }
+}

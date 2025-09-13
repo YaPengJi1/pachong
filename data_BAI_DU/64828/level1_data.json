@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "牛市旗手证券ETF吸金近30亿元",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:34:23"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "“牛市旗手”证券ETF连续5日猛吸金超41亿元",
+      "link": "http://baijiahao.baidu.com/s?id=1842314245962841883&wfr=spider&for=pc",
+      "time": "9月4日 14:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "券商ETF连续5天净流入，A股市场迎来稳步向上新周期",
+      "link": "http://cj.sina.com.cn/articles/view/5570287027/14c03d5b302001iiiy",
+      "time": "9月4日 09:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "证券ETF5日吸金近30亿元",
+      "link": "http://m.nbd.com.cn/articles/2025-09-02/4045623.html",
+      "time": "9月2日 09:25",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 17:34:37"
+}

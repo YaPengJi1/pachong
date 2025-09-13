@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 23:45:27"
+  },
+  "core_event": {
+    "core_event_name": "阿尼西莫娃逆转胜，首进美网决赛",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:44:31"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "阿尼西莫娃逆转胜,首进决赛争冠,萨巴伦卡",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12724236696922055630",
+      "time": "9月6日 23:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "阿尼西莫娃三连杀大阪直美，生涯首进美网决赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842410298610038553&wfr=spider&for=pc",
+      "time": "9月5日 16:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "阿尼西莫娃2-0击败斯瓦泰克，职业生涯首次跻身美网四强",
+      "link": "http://m.dongqiudi.com/article/5353731.html",
+      "time": "9月4日 13:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美网女单下半区阿尼西莫娃击败斯瓦泰克 大阪直美则两盘力克穆霍娃",
+      "link": "http://baijiahao.baidu.com/s?id=1842298091746344410&wfr=spider&for=pc",
+      "time": "9月4日 10:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "阿尼西莫娃6-4/6-3斯瓦泰克",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5981514126489967432",
+      "time": "9月4日 06:11",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "阿尼西莫娃逆转胜,首进决赛争冠,萨巴伦卡",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12724236696922055630",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:44:47",
+      "event_time": "9月6日 23:01"
+    },
+    {
+      "event_title": "阿尼西莫娃三连杀大阪直美，生涯首进美网决赛",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842410298610038553&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "麦兜私家烘焙cw7dc",
+      "comment_time": "09-05 19:29",
+      "comment_content": "阿尼西莫娃真牛，落后一盘不放弃，强势逆转进决赛，为她开心。",
+      "user_location": "河南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:45:03",
+      "event_time": "9月5日 16:03"
+    },
+    {
+      "event_title": "阿尼西莫娃2-0击败斯瓦泰克，职业生涯首次跻身美网四强",
+      "event_id": "event_3",
+      "event_url": "http://m.dongqiudi.com/article/5353731.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:45:05",
+      "event_time": "9月4日 13:20"
+    },
+    {
+      "event_title": "美网女单下半区阿尼西莫娃击败斯瓦泰克 大阪直美则两盘力克穆霍娃",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842298091746344410&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "杭州LeeSin",
+      "comment_time": "09-05 03:10",
+      "comment_content": "阿尼西莫娃挑落世界第一，大阪直美逆转太精彩了。两位选手太强了，半决赛值得期待。",
+      "user_location": "广东",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 23:45:21",
+      "event_time": "9月4日 10:21"
+    },
+    {
+      "event_title": "阿尼西莫娃6-4/6-3斯瓦泰克",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5981514126489967432",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:45:23",
+      "event_time": "9月4日 06:11"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 23:44:46",
+    "level2_scrape_time": "2025-09-12 23:45:23"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 09:59:43"
+  },
+  "core_event": {
+    "core_event_name": "九三阅兵名人齐聚",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:59:19"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "名人齐聚九三阅兵",
+      "link": "http://www.163.com/dy/article/K8K0U89L0556C2XD.html",
+      "time": "9月4日 11:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "16位明星被央视点名表扬",
+      "link": "http://www.163.com/dy/article/K8IM8M8F0556CQ0L.html",
+      "time": "9月3日 23:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "郑钦文,苏炳添,潘展乐,姚明……多位体育健儿受邀观看九三阅兵",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4700974072785345390",
+      "time": "9月3日 13:21",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "名人齐聚九三阅兵",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8K0U89L0556C2XD.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:59:35",
+      "event_time": "9月4日 11:33"
+    },
+    {
+      "event_title": "16位明星被央视点名表扬",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8IM8M8F0556CQ0L.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:59:37",
+      "event_time": "9月3日 23:07"
+    },
+    {
+      "event_title": "郑钦文,苏炳添,潘展乐,姚明……多位体育健儿受邀观看九三阅兵",
+      "event_id": "event_3",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4700974072785345390",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:59:39",
+      "event_time": "9月3日 13:21"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 09:59:33",
+    "level2_scrape_time": "2025-09-12 09:59:39"
+  }
+}

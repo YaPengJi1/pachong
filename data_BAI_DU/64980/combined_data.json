@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:29:42"
+  },
+  "core_event": {
+    "core_event_name": "九三阅兵受邀观礼人物",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:29:00"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国际友人:受邀观礼无比自豪",
+      "link": "http://www.sanqin.com/2025-09/04/content_11319021.html",
+      "time": "9月4日 21:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "荣耀同框!九三阅兵现场花絮来了",
+      "link": "http://cj.sina.com.cn/articles/view/3363163410/c875cd1202001sira",
+      "time": "9月4日 18:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "九三阅兵古田县受邀观礼",
+      "link": "http://weibo.com/5904092987/Q30QTuv0a",
+      "time": "9月4日 15:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "岳阳张超烈士的父亲受邀观礼九三阅兵",
+      "link": "http://baijiahao.baidu.com/s?id=1842253367471209997&wfr=spider&for=pc",
+      "time": "9月3日 22:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "熊子杰受邀观礼九三阅兵,系炎帝陵基金会理事",
+      "link": "http://www.163.com/dy/article/K8IHA54H0556C2W4.html",
+      "time": "9月3日 21:40",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "国际友人:受邀观礼无比自豪",
+      "event_id": "event_1",
+      "event_url": "http://www.sanqin.com/2025-09/04/content_11319021.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:29:15",
+      "event_time": "9月4日 21:03"
+    },
+    {
+      "event_title": "荣耀同框!九三阅兵现场花絮来了",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/3363163410/c875cd1202001sira",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:29:17",
+      "event_time": "9月4日 18:21"
+    },
+    {
+      "event_title": "九三阅兵古田县受邀观礼",
+      "event_id": "event_3",
+      "event_url": "http://weibo.com/5904092987/Q30QTuv0a",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:29:19",
+      "event_time": "9月4日 15:55"
+    },
+    {
+      "event_title": "岳阳张超烈士的父亲受邀观礼九三阅兵",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842253367471209997&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:29:36",
+      "event_time": "9月3日 22:28"
+    },
+    {
+      "event_title": "熊子杰受邀观礼九三阅兵,系炎帝陵基金会理事",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8IHA54H0556C2W4.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:29:38",
+      "event_time": "9月3日 21:40"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 18:29:14",
+    "level2_scrape_time": "2025-09-12 18:29:38"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "core_info": {
+    "core_event_name": "2025世界智能产业博览会开幕",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:11:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "2025世界智能产业博览会开幕 展示3000多项创新成果",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4274556438003813001",
+      "time": "9月6日 18:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "重庆 2025世界智能产业博览会开幕",
+      "link": "http://tv.cctv.com/2025/09/06/VIDENVIk7CJjOwiyKoVWVvSe250906.shtml",
+      "time": "9月6日 05:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "2025世界智能产业博览会今天开幕",
+      "link": "http://tv.cctv.com/2025/09/05/VIDEopet9LqbYsPBaHzTTgBA250905.shtml",
+      "time": "9月5日 21:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "阿里云发布AI Agent开发者大会",
+      "link": "http://finance.eastmoney.com/a/202509053506520723.html",
+      "time": "9月5日 20:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "浙江宁波智博会开幕",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=14557557676778650273",
+      "time": "9月5日 18:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "2025世界智能产业博览会举行 御君方签约共建智慧医疗服务平台",
+      "link": "http://www.cfbond.com/2025/09/05/991101847.html",
+      "time": "9月5日 18:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "2025世界制造业大会9月20日合肥再启幕",
+      "link": "http://www.jiemian.com/article/13309931.html",
+      "time": "9月5日 17:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "中国移动亮相2025智博会",
+      "link": "http://news.sina.com.cn/shangxunfushen/2025-09-05/detail-infpmqqm7787570.shtml",
+      "time": "9月5日 16:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "2025世界制造业大会于9月20日在合肥开幕",
+      "link": "http://www.ahwang.cn/hefei/2025/0905/2905577.html",
+      "time": "9月5日 15:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "2025世界智能产业博览会开幕 集中展示3000余项创新成果",
+      "link": "http://finance.people.com.cn/n1/2025/0905/c1004-40557991.html",
+      "time": "9月5日 15:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "2025世界智能产业博览会今天在重庆开幕",
+      "link": "http://finance.sina.com.cn/stock/t/2025-09-05/doc-infpmcyr7924584.shtml",
+      "time": "9月5日 11:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "河南是主宾省,2025世界制造业大会来了",
+      "link": "http://news.dahe.cn/2025/09-05/1989239.html",
+      "time": "9月5日 10:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "2025世界智能产业博览会今天开幕,超3000项新产品集中亮相",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10720439278420802623",
+      "time": "9月5日 08:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "2025世界智能产业博览会开幕",
+      "link": "http://tv.cctv.com/2025/09/05/VIDEN3LOHLPsGokUA9MUAf2t250905.shtml",
+      "time": "9月5日 06:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "聚焦工业母机 智能装备 这场装备制造业盛会开",
+      "link": "http://www.163.com/dy/article/K8DC6GLT0514EGPO.html",
+      "time": "9月1日 21:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "联通智网科技算网调度平台亮相2025中国算力大会",
+      "link": "http://www.163.com/news/article/K8CSM7HN000189DG.html",
+      "time": "9月1日 17:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "逾260家中国企业将亮相WETEX 2025",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 17,
+  "scrape_time": "2025-09-12 22:12:07"
+}

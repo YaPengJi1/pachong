@@ -1,0 +1,92 @@
+{
+  "core_info": {
+    "core_event_name": "U23亚预赛国足2-1险胜东帝汶",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:21:53"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U22国足打东帝汶 央视解说从多拿净胜球 变成拿下三分",
+      "link": "http://cj.sina.com.cn/articles/view/2478495117/93bad58d0010151sq",
+      "time": "9月4日 22:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U22国足首秀有难度，安东尼奥表示满意",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16263348094469128354",
+      "time": "9月4日 19:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "亚洲杯预选赛国足2-1战胜东帝汶",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6793560986787121717",
+      "time": "9月4日 13:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U23亚预赛国足2-1险胜东帝汶",
+      "link": "http://baijiahao.baidu.com/s?id=1842252712141135090&wfr=spider&for=pc",
+      "time": "9月3日 22:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "U22国足遭炮轰!媒体人:中国足球活该被骂,对手也就中乙中游队",
+      "link": "http://cj.sina.com.cn/articles/view/3250957313/c1c5ac0102001c7pg",
+      "time": "9月3日 22:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "拜合拉木、王钰栋破门,U22国足2比1险胜东帝汶",
+      "link": "http://sports.huanqiu.com/article/4OB3TkhfAAp",
+      "time": "9月3日 21:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "媒体人开炮:三无球队,足协太尴尬",
+      "link": "http://cj.sina.com.cn/articles/view/3250957313/c1c5ac0102001c7o0",
+      "time": "9月3日 21:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "U22国足表现不及格!U23亚预赛首轮2比1小胜东帝汶",
+      "link": "http://www.163.com/dy/article/K8IH65AM0514R9P4.html",
+      "time": "9月3日 21:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "媒体人:U22国足这么多中超中甲主力&国脚,是不是东帝汶实力太强",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hf7w",
+      "time": "9月3日 20:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "U22男足亚预赛首战对阵东帝汶",
+      "link": "http://baijiahao.baidu.com/s?id=1842213571328181266&wfr=spider&for=pc",
+      "time": "9月3日 11:56",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 10,
+  "scrape_time": "2025-09-13 01:22:07"
+}

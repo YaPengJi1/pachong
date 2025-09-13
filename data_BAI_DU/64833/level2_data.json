@@ -1,0 +1,46 @@
+{
+  "core_event_name": "中国长城股价跌5.02%",
+  "comments": [
+    {
+      "event_title": "中国长城股价跌5.02%,嘉实基金旗下3只基金重仓,合计持有303.78万股浮亏损失249.1万元",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842314271341051119&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:40:13",
+      "event_time": "9月4日 14:36"
+    },
+    {
+      "event_title": "中国长城股价跌5.02%,南方基金旗下1只基金位居十大流通股东",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8KBEIF405568W0A.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:40:15",
+      "event_time": "9月4日 14:36"
+    },
+    {
+      "event_title": "中国长城股价跌5.02%,国泰基金旗下2只基金重仓,合计持有2436.05万股浮亏损失1997.56万元",
+      "event_id": "event_3",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:40:17",
+      "event_time": "1970年"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 17:40:17"
+}

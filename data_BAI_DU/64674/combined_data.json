@@ -1,0 +1,108 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:28:10"
+  },
+  "core_event": {
+    "core_event_name": "中国女排不敌法国队",
+    "update_time": "更新至20250901",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:27:17"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国女排不敌法国队无缘世锦赛八强",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5527047501311426809",
+      "time": "9月1日 18:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国女排1-3法国创尴尬纪录",
+      "link": "http://www.163.com/dy/article/K8CA6TI50556D68O.html",
+      "time": "9月1日 11:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "女排世锦赛：法国队主教练：针对中国女排，我们做了一些冒险的拦防布置",
+      "link": "http://baijiahao.baidu.com/s?id=1841987778737136731&wfr=spider&for=pc",
+      "time": "9月1日 00:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国女排1-3不敌法国",
+      "link": "http://baijiahao.baidu.com/s?id=1841979291358243975&wfr=spider&for=pc",
+      "time": "8月31日 21:53",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "中国女排不敌法国队无缘世锦赛八强",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5527047501311426809",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:27:32",
+      "event_time": "9月1日 18:32"
+    },
+    {
+      "event_title": "中国女排1-3法国创尴尬纪录",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8CA6TI50556D68O.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:27:35",
+      "event_time": "9月1日 11:41"
+    },
+    {
+      "event_title": "女排世锦赛：法国队主教练：针对中国女排，我们做了一些冒险的拦防布置",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841987778737136731&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "虔诚还妥当的榜眼B",
+      "comment_time": "09-01 00:27",
+      "comment_content": "法国队冒险布置真奏效，智慧取胜。中国女排潜力大，下次加油反击。",
+      "user_location": "辽宁",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:27:51",
+      "event_time": "9月1日 00:06"
+    },
+    {
+      "event_title": "中国女排1-3不敌法国",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841979291358243975&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "名好啦0l",
+      "comment_time": "08-31 21:55",
+      "comment_content": "李盈莹带伤拼到底，王梦洁救球真狠，王媛媛拦网太解气，女排精神杠杠的！",
+      "user_location": "山西",
+      "like_count": 1,
+      "scrape_time": "2025-09-13 02:28:06"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-13 02:27:31",
+    "level2_scrape_time": "2025-09-13 02:28:06"
+  }
+}

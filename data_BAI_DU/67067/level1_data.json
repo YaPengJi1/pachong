@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普政治盟友遭枪击身亡",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:58:03"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普政治盟友遭枪击死亡",
+      "link": "http://new.qq.com/rain/a/20250911V02Y5400",
+      "time": "昨天 10:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "政治盟友遭枪击身亡,特朗普:降半旗",
+      "link": "http://baijiahao.baidu.com/s?id=1842933776330872086&wfr=spider&for=pc",
+      "time": "昨天 10:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普盟友遭枪杀,美国又要降半旗,拥护持枪却被枪支泛滥害死",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2022262888906369773",
+      "time": "昨天 10:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普政治盟友演讲时遭枪击身亡,特朗普下令降半旗致哀",
+      "link": "http://finance.sina.com.cn/wm/2025-09-11/doc-infqanhq3479676.shtml",
+      "time": "昨天 07:46",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 10:58:17"
+}

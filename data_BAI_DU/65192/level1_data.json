@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "梅西阿根廷生涯20年",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:04:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "梅西迎来阿根廷主场最后一场正式比赛",
+      "link": "http://weibo.com/2427613143/Q3dfu2fzJ",
+      "time": "9月5日 23:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "梅西生涯荣誉满满",
+      "link": "http://www.163.com/dy/article/K8N0CH040529AQIE.html",
+      "time": "9月5日 15:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "梅西生涯主场告别?阻止阿根廷卫冕的只有三队!巴拉圭大喜将至!",
+      "link": "http://www.sohu.com/a/932087217_121986421",
+      "time": "9月5日 10:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "梅西离队球迷现场哭泣",
+      "link": "http://www.163.com/dy/article/K8MFGDOO0552M4O6.html",
+      "time": "9月5日 10:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "梅西:能以这样的方式结束在阿根廷的比赛,这一直是我的梦想",
+      "link": "http://www.dongqiudi.com/articles/5355215.html",
+      "time": "9月5日 09:45",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 20:04:44"
+}

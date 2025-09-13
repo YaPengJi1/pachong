@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "美网：阿尔卡拉斯夺得男单冠军",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:38:47"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "阿尔卡拉斯再夺美网男单冠军",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEqRZkPyMWdmLcEXBsDlJt250908.shtml",
+      "time": "9月8日 08:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美网男单冠军诞生!阿卡3-1辛纳,登顶世界第一,产生5个不可思议",
+      "link": "http://k.sina.cn/article_5648905080_150b3737800101dqdo.html",
+      "time": "9月8日 06:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "辛纳和阿尔卡拉斯在美网男单决赛碰上了，辛纳和阿尔卡拉斯把本赛季的大满贯冠军全包了",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4083708068997642868",
+      "time": "9月8日 04:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "阿卡硬地首胜德约，7进大满贯决赛冲第6冠",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4249891236932085188",
+      "time": "9月7日 14:41",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 14:39:01"
+}

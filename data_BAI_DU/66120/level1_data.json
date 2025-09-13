@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "国足连胜受质疑",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:33:57"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国足10-0大胜，两连胜仍受质疑",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11026934801276575118",
+      "time": "9月8日 18:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U22国足赢首胜仍难服众 对阵北马里亚纳三点或成关键",
+      "link": "http://www.163.com/dy/article/K8MHSIER0556DQSO.html",
+      "time": "9月5日 11:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国足险胜东帝汶，菜鸟互啄惹争议",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11435743421094328304",
+      "time": "9月4日 19:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22国足表现不及格！U23亚预赛首轮2比1小胜东帝汶",
+      "link": "http://news.hnr.cn/shxw/article/1/1963240553950556162",
+      "time": "9月3日 21:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "U22国足1-0险胜东帝汶!拜合拉木破门,亚洲杯前景几何?",
+      "link": "http://www.sohu.com/a/931587393_121976701",
+      "time": "9月3日 20:28",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 14:34:11"
+}

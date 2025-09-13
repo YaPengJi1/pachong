@@ -1,0 +1,72 @@
+{
+  "core_event_name": "美国10年期国债收益率跌至新低",
+  "comments": [
+    {
+      "event_title": "非农数据不及预期 美债收益率大幅下行",
+      "event_id": "event_1",
+      "event_url": "http://finance.eastmoney.com/a/202509053506345241.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:07:54",
+      "event_time": "9月5日 21:28"
+    },
+    {
+      "event_title": "美国10年期国债收益率日内下跌10.6个基点至4.07%",
+      "event_id": "event_2",
+      "event_url": "http://finance.eastmoney.com/a/202509053506333214.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:07:56",
+      "event_time": "9月5日 21:13"
+    },
+    {
+      "event_title": "美国10年期国债收益率跌至五个月新低 劳动力市场恶化强化降息预期",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842428149315516296&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:08:13",
+      "event_time": "9月5日 20:44"
+    },
+    {
+      "event_title": "美国10年期国债收益率跌至4.18%,为5月1日以来的最低水平",
+      "event_id": "event_4",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4520841254665445158",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:08:15",
+      "event_time": "9月4日 20:08"
+    },
+    {
+      "event_title": "美国10年期国债收益率跌至四周新低",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842325067965310991&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:08:31",
+      "event_time": "9月4日 17:25"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 18:08:31"
+}

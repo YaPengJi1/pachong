@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "U22国足最强阵容出击，赢球靠王玉栋",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:19:22"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U22国足主帅安东尼奥:球员们像11个“兵马俑”在战斗",
+      "link": "http://baijiahao.baidu.com/s?id=1842873829065897439&wfr=spider&for=pc",
+      "time": "9月10日 10:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U22国足0-0澳大利亚，晋级亚洲杯",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7631228490509089385",
+      "time": "9月9日 22:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U22国足派出最强阵容",
+      "link": "http://finance.sina.cn/2025-09-09/detail-infpwzqa8565062.d.html",
+      "time": "9月9日 19:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "国足生死战 1-0澳大利亚",
+      "link": "http://cj.sina.com.cn/articles/view/7880068820/1d5b04ed402001dgfs",
+      "time": "9月9日 11:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "U22国足大胜北马里亚纳",
+      "link": "http://cj.sina.com.cn/articles/view/1698513182/653d411e01901nate",
+      "time": "9月7日 18:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "热议U22赢球靠王玉栋,非教练战术,对手仅4.7万人口",
+      "link": "http://news.sohu.com/a/932652646_121683270",
+      "time": "9月7日 16:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "中国U22两战全胜，净胜球优势藏玄机，末轮生死战谁能全身而退",
+      "link": "http://www.163.com/dy/article/K8RN9T580556B3RN.html",
+      "time": "9月7日 13:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "中国U23男足10比0战胜北马里亚纳群岛 末轮将与澳大利亚争夺直接出线权",
+      "link": "http://news.cnwest.com/bwyc/a/2025/09/06/23190545.html",
+      "time": "9月6日 23:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "U22国足官方阵型4-2-3-1:杨皓宇、李镇全双后腰,向余望突前",
+      "link": "http://m.dongqiudi.com/article/5352458.html",
+      "time": "9月3日 18:27",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 14:19:36"
+}

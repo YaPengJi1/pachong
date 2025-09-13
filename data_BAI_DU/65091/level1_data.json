@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "美国10年期国债收益率跌至新低",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:07:39"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "非农数据不及预期 美债收益率大幅下行",
+      "link": "http://finance.eastmoney.com/a/202509053506345241.html",
+      "time": "9月5日 21:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美国10年期国债收益率日内下跌10.6个基点至4.07%",
+      "link": "http://finance.eastmoney.com/a/202509053506333214.html",
+      "time": "9月5日 21:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美国10年期国债收益率跌至五个月新低 劳动力市场恶化强化降息预期",
+      "link": "http://baijiahao.baidu.com/s?id=1842428149315516296&wfr=spider&for=pc",
+      "time": "9月5日 20:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美国10年期国债收益率跌至4.18%,为5月1日以来的最低水平",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4520841254665445158",
+      "time": "9月4日 20:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美国10年期国债收益率跌至四周新低",
+      "link": "http://baijiahao.baidu.com/s?id=1842325067965310991&wfr=spider&for=pc",
+      "time": "9月4日 17:25",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 18:07:53"
+}

@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "2025款极氪001上市",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:09:46"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "极氪001内饰提前曝光",
+      "link": "http://baijiahao.baidu.com/s?id=1842947264209094650&wfr=spider&for=pc",
+      "time": "昨天 14:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "甘肃张掖极氪001 FR 2025新款价格，豪华配置超值价来袭",
+      "link": "http://www.pcauto.com.cn/hq/784079.html",
+      "time": "9月7日 10:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "武威极氪X 2025新款价格,豪华配置超值价来袭",
+      "link": "http://www.pcauto.com.cn/hq/780221.html",
+      "time": "9月5日 15:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "宁波地区极氪007降价来袭",
+      "link": "http://www.autohome.com.cn/x/hq-19275910.html",
+      "time": "9月5日 04:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "极氪001新款将首发 国庆西北自驾锁定提车",
+      "link": "http://www.pcauto.com.cn/hj/article/3049157.html",
+      "time": "9月4日 13:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "2025款极氪001订金5000元 接受预订",
+      "link": "http://www.autohome.com.cn/dealer/202509/1415018228.html",
+      "time": "9月4日 13:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "2025款极氪001上市 2周左右提车",
+      "link": "http://www.autohome.com.cn/dealer/202509/1415018218.html",
+      "time": "9月4日 13:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "极氪取得车辆专利,改善提升车辆的NVH路噪性能",
+      "link": "http://m.jrj.com.cn/madapter/finance/2025/09/01164152847721.shtml",
+      "time": "9月1日 16:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "上海地区极氪007降价来袭!底价24.99万,今日钜惠",
+      "link": "http://www.autohome.com.cn/x/hq-19076176.html",
+      "time": "8月30日 06:34",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 18:10:00"
+}

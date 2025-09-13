@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "九三阅兵仪式的重大意义",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 16:59:33"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "九三阅兵,首次呈现,新装备亮相!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6296395791754541932",
+      "time": "9月4日 09:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "九三阅兵!多款激光武器系统集中亮相",
+      "link": "http://www.163.com/dy/article/K8IH7NOC0556D2DZ.html",
+      "time": "9月3日 21:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "[胜利与和平]九三阅兵实现多个“首次”",
+      "link": "http://tv.cctv.com/2025/09/03/VIDE88S8iXjG0bZqOBZdyv68250903.shtml",
+      "time": "9月3日 20:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "八零周年阅兵仪式首次亮相新型导弹",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9113567287040896318",
+      "time": "9月3日 19:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "九三阅兵首次规模化搭建国产 8K 超高清转播系统,创两个历史之最",
+      "link": "http://www.163.com/dy/article/K8FQSBCP0511B8LM.html",
+      "time": "9月2日 20:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "九三阅兵，就在明天！",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31543318",
+      "time": "9月2日 19:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "九三阅兵,重磅文章发布,人民日报新华社联合推出",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5121543879689379181",
+      "time": "9月2日 16:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "九三阅兵具体安排公布",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4519359512583678290",
+      "time": "9月1日 20:23",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-12 16:59:47"
+}

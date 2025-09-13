@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:48:34"
+  },
+  "core_event": {
+    "core_event_name": "欧锦赛：申京击败约基奇",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:48:02"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "约基奇欧锦赛表现出色,东契奇申京表现如何?",
+      "link": "http://www.163.com/dy/article/K8ORRSIC0556DIQQ.html",
+      "time": "9月6日 08:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "欧锦赛正面击败偶像约基奇 申京告别“小约基奇”成为真正的自己",
+      "link": "http://www.163.com/dy/article/K8MJMAPN0529AQIE.html",
+      "time": "9月5日 11:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "申京完胜约基奇,拿下小组头名",
+      "link": "http://m.dongqiudi.com/article/5353692.html",
+      "time": "9月4日 12:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "申京欧锦赛大放异彩，力压约基奇",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17088871552575951992",
+      "time": "9月4日 11:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "欧锦赛官方晒申京霸气庆祝照:他不是小约基奇 请叫他申京爸爸",
+      "link": "http://sports.sina.cn/nba/other/2025-09-04/detail-infphutr1952790.d.html",
+      "time": "9月4日 09:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "申京17中10砍28分13板8助，约基奇16中10得22分9板4助3断",
+      "link": "http://www.dongqiudi.com/articles/5353332.html",
+      "time": "9月4日 08:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "申京28+13+8+关键抢断 约基奇22+9+4 土耳其胜塞尔维亚A组第1",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5995350290445353341",
+      "time": "9月4日 08:43",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "约基奇欧锦赛表现出色,东契奇申京表现如何?",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8ORRSIC0556DIQQ.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:48:17",
+      "event_time": "9月6日 08:40"
+    },
+    {
+      "event_title": "欧锦赛正面击败偶像约基奇 申京告别“小约基奇”成为真正的自己",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8MJMAPN0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:48:19",
+      "event_time": "9月5日 11:39"
+    },
+    {
+      "event_title": "申京完胜约基奇,拿下小组头名",
+      "event_id": "event_3",
+      "event_url": "http://m.dongqiudi.com/article/5353692.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:48:22",
+      "event_time": "9月4日 12:36"
+    },
+    {
+      "event_title": "申京欧锦赛大放异彩，力压约基奇",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=17088871552575951992",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:48:24",
+      "event_time": "9月4日 11:49"
+    },
+    {
+      "event_title": "欧锦赛官方晒申京霸气庆祝照:他不是小约基奇 请叫他申京爸爸",
+      "event_id": "event_5",
+      "event_url": "http://sports.sina.cn/nba/other/2025-09-04/detail-infphutr1952790.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:48:26",
+      "event_time": "9月4日 09:01"
+    },
+    {
+      "event_title": "申京17中10砍28分13板8助，约基奇16中10得22分9板4助3断",
+      "event_id": "event_6",
+      "event_url": "http://www.dongqiudi.com/articles/5353332.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:48:28",
+      "event_time": "9月4日 08:49"
+    },
+    {
+      "event_title": "申京28+13+8+关键抢断 约基奇22+9+4 土耳其胜塞尔维亚A组第1",
+      "event_id": "event_7",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5995350290445353341",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:48:30",
+      "event_time": "9月4日 08:43"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 18:48:16",
+    "level2_scrape_time": "2025-09-12 18:48:30"
+  }
+}

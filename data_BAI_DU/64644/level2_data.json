@@ -1,0 +1,59 @@
+{
+  "core_event_name": "美国撤销台积电南京厂豁免权",
+  "comments": [
+    {
+      "event_title": "台积电南京厂豁免权被撤销",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=2641935918880704723",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:56:34",
+      "event_time": "9月4日 08:42"
+    },
+    {
+      "event_title": "16nm也不放过!美国撤销台积电南京厂“豁免”",
+      "event_id": "event_2",
+      "event_url": "http://news.mydrivers.com/1/1072/1072162.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:56:36",
+      "event_time": "9月3日 12:07"
+    },
+    {
+      "event_title": "美国对台积电南京工厂下手 撤销豁免",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842229843142291413&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:56:52",
+      "event_time": "9月3日 09:40"
+    },
+    {
+      "event_title": "台积电ADR跌超10% 赴美上市遭美方审查",
+      "event_id": "event_4",
+      "event_url": "http://weibo.com/7757449987/Q2L8E83ov",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:56:54",
+      "event_time": "9月2日 23:55"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-13 01:56:54"
+}

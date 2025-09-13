@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "特斯拉马斯克薪酬计划",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:48:01"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特斯拉拿1万亿美元激励马斯克挑战",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11102833516750122024",
+      "time": "9月9日 21:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "马斯克“万亿薪酬”计划 藏着特斯拉“十年蓝图”",
+      "link": "http://app.myzaker.com/news/article.php?m=1757408093&pk=68bfe81a8e9f0922473a052c",
+      "time": "9月9日 16:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "8.5万亿美元市值、2000万辆汽车、100万台机器人、4000亿美元年利润",
+      "link": "http://m.nbd.com.cn/articles/2025-09-09/4054117.html",
+      "time": "9月9日 16:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "马斯克天价薪酬曝光",
+      "link": "http://finance.eastmoney.com/a/202509063506810573.html",
+      "time": "9月6日 23:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "特斯拉要拿1万亿美元“激励”马斯克",
+      "link": "http://m.gmw.cn/toutiao/2025-09/06/content_1304137890.htm",
+      "time": "9月6日 19:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "特斯拉开出“天价薪酬包” 马斯克若全额兑现将成万亿美元巨富",
+      "link": "http://www.163.com/dy/article/K8PKCQSF0556GFDP.html",
+      "time": "9月6日 15:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "特斯拉要给马斯克发1万亿美元薪酬，但有条件",
+      "link": "http://baijiahao.baidu.com/s?id=1842434348189417697&wfr=spider&for=pc",
+      "time": "9月5日 22:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "特斯拉董事会:已制定马斯克继任计划,开出史无前例的1万亿美元薪酬",
+      "link": "http://baijiahao.baidu.com/s?id=1842421209430088356&wfr=spider&for=pc",
+      "time": "9月5日 18:56",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-12 09:48:16"
+}

@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "黄金期货创历史新高",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:21:01"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "金价再度大涨吸引投资客出手",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10155974124095133604",
+      "time": "9月5日 08:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "黄金期货创 3600 美元新高",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1958112500697713053",
+      "time": "9月4日 13:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "9月3日国际黄金期价再次刷新历史新高",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5847124899391861463",
+      "time": "9月4日 11:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "天风证券:黄金冲上3600美元 年内还有上行空间",
+      "link": "http://www.sohu.com/a/931668928_323087",
+      "time": "9月4日 07:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "黄金白银价格刷新上市以来新高",
+      "link": "http://tv.cctv.com/2025/09/03/VIDEXRnWOwiAcLndXA3hCwz2250903.shtml",
+      "time": "9月3日 11:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "黄金突破3600美元创历史新高",
+      "link": "http://www.163.com/dy/article/K8GVKBBE0519C6T9.html",
+      "time": "9月3日 07:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "国际金价新高带动国内金价普涨，黄金ETF基金半日涨0.72%",
+      "link": "http://stock.stockstar.com/IG2025090200017659.shtml",
+      "time": "9月2日 11:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "金价创历史新高!多品牌金饰克价超1020元,黄金股全线飙涨",
+      "link": "http://baijiahao.baidu.com/s?id=1842105789587301662&wfr=spider&for=pc",
+      "time": "9月1日 17:27",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-13 01:21:15"
+}

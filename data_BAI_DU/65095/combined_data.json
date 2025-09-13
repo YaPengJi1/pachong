@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:11:55"
+  },
+  "core_event": {
+    "core_event_name": "西工大师生热议反法西斯胜利80周年",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:11:31"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会在各地引发热烈反响",
+      "link": "http://tv.cctv.com/2025/09/04/VIDE3wtSL0pUxdSwNordtHAp250904.shtml",
+      "time": "9月4日 22:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "赓续红色血脉 担当时代使命——纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会在杨凌引发热烈反响",
+      "link": "http://www.sohu.com/a/931882561_99916037",
+      "time": "9月4日 17:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "西工大师生热议纪念中国人民抗日战争暨世界反法西斯战争胜利80周年活动",
+      "link": "http://www.nwpu.edu.cn/info/1198/109718.htm",
+      "time": "9月3日 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会在各地引发热烈反响",
+      "event_id": "event_1",
+      "event_url": "http://tv.cctv.com/2025/09/04/VIDE3wtSL0pUxdSwNordtHAp250904.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:11:47",
+      "event_time": "9月4日 22:37"
+    },
+    {
+      "event_title": "赓续红色血脉 担当时代使命——纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会在杨凌引发热烈反响",
+      "event_id": "event_2",
+      "event_url": "http://www.sohu.com/a/931882561_99916037",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:11:49",
+      "event_time": "9月4日 17:39"
+    },
+    {
+      "event_title": "西工大师生热议纪念中国人民抗日战争暨世界反法西斯战争胜利80周年活动",
+      "event_id": "event_3",
+      "event_url": "http://www.nwpu.edu.cn/info/1198/109718.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:11:51",
+      "event_time": "9月3日 00:00"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 18:11:46",
+    "level2_scrape_time": "2025-09-12 18:11:51"
+  }
+}

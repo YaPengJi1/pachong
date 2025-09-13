@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:46:27"
+  },
+  "core_event": {
+    "core_event_name": "26国承诺向乌克兰提供安全保障",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:46:01"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "26国承诺向乌克兰部署地面部队",
+      "link": "http://weibo.com/2864717612/Q37Tt2JjJ",
+      "time": "9月5日 09:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "马克龙:26国承诺向乌克兰提供安全保障",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7955021514807484300",
+      "time": "9月5日 09:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "多国领导人在巴黎举行会议 讨论对乌安全保障",
+      "link": "http://www.163.com/dy/article/K8KRC8M70514R9KQ.html",
+      "time": "9月4日 19:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "法乌领导人会晤，马克龙：欧洲已准备好为乌提供安全保障",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3542214967654999168",
+      "time": "9月4日 07:27",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "26国承诺向乌克兰部署地面部队",
+      "event_id": "event_1",
+      "event_url": "http://weibo.com/2864717612/Q37Tt2JjJ",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:46:17",
+      "event_time": "9月5日 09:51"
+    },
+    {
+      "event_title": "马克龙:26国承诺向乌克兰提供安全保障",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7955021514807484300",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:46:19",
+      "event_time": "9月5日 09:23"
+    },
+    {
+      "event_title": "多国领导人在巴黎举行会议 讨论对乌安全保障",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8KRC8M70514R9KQ.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:46:21",
+      "event_time": "9月4日 19:15"
+    },
+    {
+      "event_title": "法乌领导人会晤，马克龙：欧洲已准备好为乌提供安全保障",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=3542214967654999168",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:46:23",
+      "event_time": "9月4日 07:27"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-13 01:46:16",
+    "level2_scrape_time": "2025-09-13 01:46:23"
+  }
+}

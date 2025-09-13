@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "U23亚预赛国足逆袭东帝汶",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:22:26"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "媒体人深度解读东帝汶U22逆袭之路",
+      "link": "http://www.sohu.com/a/932011615_121179537",
+      "time": "9月5日 07:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U22国足首秀有难度，安东尼奥表示满意",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16263348094469128354",
+      "time": "9月4日 19:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U23亚预赛国足2-1险胜东帝汶",
+      "link": "http://baijiahao.baidu.com/s?id=1842252712141135090&wfr=spider&for=pc",
+      "time": "9月3日 22:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U23亚洲杯中国男足2-1东帝汶 最后5分钟 国足狂轰乱炸 疯狂围攻",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7757536933312574782",
+      "time": "9月3日 21:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "U22国足1-0险胜东帝汶!拜合拉木破门,亚洲杯前景几何?",
+      "link": "http://www.sohu.com/a/931587393_121976701",
+      "time": "9月3日 20:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "U22男足亚预赛首战对阵东帝汶",
+      "link": "http://baijiahao.baidu.com/s?id=1842213571328181266&wfr=spider&for=pc",
+      "time": "9月3日 11:56",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 18:22:41"
+}

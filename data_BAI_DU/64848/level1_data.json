@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "阿尼西莫娃击败斯瓦泰克晋级美网女单决赛",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:55:03"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美网:阿尼西莫娃淘汰大坂直美 晋级女单决赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842410847482848711&wfr=spider&for=pc",
+      "time": "9月5日 16:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "大坂直美晋级女单四强",
+      "link": "http://news.fjsen.com/wap/2025-09/05/content_32033067.htm",
+      "time": "9月5日 10:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美网女单四强出炉",
+      "link": "http://baijiahao.baidu.com/s?id=1842309194920873117&wfr=spider&for=pc",
+      "time": "9月4日 13:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美网女单下半区阿尼西莫娃击败斯瓦泰克 大阪直美则两盘力克穆霍娃",
+      "link": "http://baijiahao.baidu.com/s?id=1842298091746344410&wfr=spider&for=pc",
+      "time": "9月4日 10:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "无情擦网球报双蛋之仇 阿尼西莫娃6-4/6-3斯瓦泰克,在主场打进美网四强!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5981514126489967432",
+      "time": "9月4日 06:11",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 17:55:17"
+}

@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "申京登顶欧洲杯榜首",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:29:26"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "欧锦赛的申京和土耳其,到底有多强?",
+      "link": "http://baijiahao.baidu.com/s?id=1842345208256377428&wfr=spider&for=pc",
+      "time": "9月4日 22:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "力压约基奇登顶榜首 申京都欧洲杯的最大惊喜",
+      "link": "http://k.sina.com.cn/article_7880068727_1d5b04e7702002eb4c.html",
+      "time": "9月3日 16:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "土耳其主帅:我们充分发挥了申京在篮下的作用",
+      "link": "http://sports.sina.cn/nba/other/2025-09-01/detail-infnzfaa9536481.d.html",
+      "time": "9月1日 23:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "申京在国家队的比赛里场场爆发",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4337333176534880794",
+      "time": "8月31日 13:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "欧锦赛:申京与马卡分别战胜对手,约基奇表现突出",
+      "link": "http://www.163.com/dy/article/K86SGGK00556C2TY.html",
+      "time": "8月30日 09:05",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 01:29:41"
+}

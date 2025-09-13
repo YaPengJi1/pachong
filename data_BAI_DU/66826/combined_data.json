@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:09:20"
+  },
+  "core_event": {
+    "core_event_name": "俄军袭击乌克兰政府大楼",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:08:50"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "800多架无人机直奔基辅，乌政府大楼首次遭袭，普京要放手大打?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8163382784932598725",
+      "time": "9月9日 16:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "俄军一夜810架无人机斩首基辅，政府大楼首遭导弹焚毁，克留科夫铁路桥被精准斩断",
+      "link": "http://www.163.com/dy/article/K91CIM3U0556124I.html",
+      "time": "9月9日 16:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "810架无人机突袭乌克兰,基辅政府大楼被炸",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=18083067402653422783",
+      "time": "9月8日 15:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "俄乌冲突 乌克兰政府大楼遭袭引发大火 过火面积超千平米",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6448097438767437607",
+      "time": "9月8日 12:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "俄袭击乌内阁大楼后 乌克兰袭击德鲁日巴输油站和伊尔斯基炼油厂",
+      "link": "http://www.163.com/dy/article/K8U7ECSG05562QC9.html",
+      "time": "9月8日 10:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "乌克兰外长:乌政府大楼首次遭袭",
+      "link": "http://tv.cctv.com/2025/09/07/VIDE3qPR17zLIYMuGEAMuJRD250907.shtml",
+      "time": "9月7日 19:19",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "800多架无人机直奔基辅，乌政府大楼首次遭袭，普京要放手大打?",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8163382784932598725",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:09:05",
+      "event_time": "9月9日 16:30"
+    },
+    {
+      "event_title": "俄军一夜810架无人机斩首基辅，政府大楼首遭导弹焚毁，克留科夫铁路桥被精准斩断",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K91CIM3U0556124I.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:09:07",
+      "event_time": "9月9日 16:06"
+    },
+    {
+      "event_title": "810架无人机突袭乌克兰,基辅政府大楼被炸",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=18083067402653422783",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:09:09",
+      "event_time": "9月8日 15:36"
+    },
+    {
+      "event_title": "俄乌冲突 乌克兰政府大楼遭袭引发大火 过火面积超千平米",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6448097438767437607",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:09:12",
+      "event_time": "9月8日 12:48"
+    },
+    {
+      "event_title": "俄袭击乌内阁大楼后 乌克兰袭击德鲁日巴输油站和伊尔斯基炼油厂",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8U7ECSG05562QC9.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:09:14",
+      "event_time": "9月8日 10:49"
+    },
+    {
+      "event_title": "乌克兰外长:乌政府大楼首次遭袭",
+      "event_id": "event_6",
+      "event_url": "http://tv.cctv.com/2025/09/07/VIDE3qPR17zLIYMuGEAMuJRD250907.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:09:16",
+      "event_time": "9月7日 19:19"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 10:09:04",
+    "level2_scrape_time": "2025-09-12 10:09:16"
+  }
+}

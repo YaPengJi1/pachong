@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "小米汽车专利申请及成果",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:39:13"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "小米汽车申请数据路由控制相关专利",
+      "link": "http://finance.jrj.com.cn/2025/09/04160152922081.shtml",
+      "time": "9月4日 16:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "小米汽车可为避免交通拥堵提供条件专利公布",
+      "link": "http://36kr.com/newsflashes/3450600040387974",
+      "time": "9月3日 14:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "小米汽车公布车辆安检专利",
+      "link": "http://finance.eastmoney.com/a/202509023502376726.html",
+      "time": "9月2日 16:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "小米取得集成信号线和传输线且损耗控制良好专利",
+      "link": "http://m.jrj.com.cn/rss/yidianzixun/2025/8/30/52830789.shtml",
+      "time": "8月30日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "小米汽车取得散热导风通道相关专利",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 17:39:27"
+}

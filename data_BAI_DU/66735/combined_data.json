@@ -1,0 +1,129 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:19:08"
+  },
+  "core_event": {
+    "core_event_name": "WTT澳门冠军赛国乒名单变动",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:18:11"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "WTT澳门冠军赛,首个16强名额出炉 女单首轮,刚刚结束一场比赛 朱雨玲3-0阿库拉",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4329737449472080361",
+      "time": "9月9日 11:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "WTT澳门冠军赛签表出炉",
+      "link": "http://baijiahao.baidu.com/s?id=1842679116535360816&wfr=spider&for=pc",
+      "time": "9月8日 15:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "澳门冠军赛国乒参赛名单有变CCTV5调整节目单不播王楚钦",
+      "link": "http://www.163.com/dy/article/K8UN02LK05563OYC.html",
+      "time": "9月8日 15:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "WTT澳门冠军赛男单签表正式出炉",
+      "link": "http://news.cnhubei.com/content/2025-09/07/content_19481390.html",
+      "time": "9月7日 16:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "WTT澳门冠军赛女单签表出炉",
+      "link": "http://baijiahao.baidu.com/s?id=1842590878791848544&wfr=spider&for=pc",
+      "time": "9月7日 15:37",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "WTT澳门冠军赛,首个16强名额出炉 女单首轮,刚刚结束一场比赛 朱雨玲3-0阿库拉",
+      "event_id": "event_1",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4329737449472080361",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:18:27",
+      "event_time": "9月9日 11:33"
+    },
+    {
+      "event_title": "WTT澳门冠军赛签表出炉",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842679116535360816&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "歌手刘光柱",
+      "comment_time": "09-08 18:09",
+      "comment_content": "很欣赏作者的观点！",
+      "user_location": "浙江",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:18:44",
+      "event_time": "9月8日 15:15"
+    },
+    {
+      "event_title": "澳门冠军赛国乒参赛名单有变CCTV5调整节目单不播王楚钦",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8UN02LK05563OYC.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:18:46",
+      "event_time": "9月8日 15:11"
+    },
+    {
+      "event_title": "WTT澳门冠军赛男单签表正式出炉",
+      "event_id": "event_4",
+      "event_url": "http://news.cnhubei.com/content/2025-09/07/content_19481390.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:18:48",
+      "event_time": "9月7日 16:59"
+    },
+    {
+      "event_title": "WTT澳门冠军赛女单签表出炉",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842590878791848544&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "收集女神笑容",
+      "comment_time": "09-09 01:00",
+      "comment_content": "孙颖莎首轮对手真强，新星安娜进步神速，比赛绝对精彩。",
+      "user_location": "山西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:19:04"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 10:18:25",
+    "level2_scrape_time": "2025-09-12 10:19:04"
+  }
+}

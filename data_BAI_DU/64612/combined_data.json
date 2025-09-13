@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:25:31"
+  },
+  "core_event": {
+    "core_event_name": "巴勒斯坦赴联大代表团被拒签",
+    "update_time": "更新至20250831",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:25:07"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "阿拉伯-伊斯兰特别峰会发表声明 对美拒签巴勒斯坦赴联大代表团表示遗憾",
+      "link": "http://tv.cctv.com/2025/08/31/VIDEtk41zwAwCnrUJuqiLoiF250831.shtml",
+      "time": "8月31日 12:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美国拒签巴勒斯坦,联合国大会悬了?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13142402668540766852",
+      "time": "8月30日 18:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美国不给出席联大的巴勒斯坦代表团发签证 巴方抗议 联合国过问",
+      "link": "http://cj.sina.com.cn/articles/view/1893892941/70e2834d02001tm6o",
+      "time": "8月30日 17:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "阿拉伯-伊斯兰特别峰会发表声明 对美拒签巴勒斯坦赴联大代表团表示遗憾",
+      "event_id": "event_1",
+      "event_url": "http://tv.cctv.com/2025/08/31/VIDEtk41zwAwCnrUJuqiLoiF250831.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:25:22",
+      "event_time": "8月31日 12:27"
+    },
+    {
+      "event_title": "美国拒签巴勒斯坦,联合国大会悬了?",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=13142402668540766852",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:25:24",
+      "event_time": "8月30日 18:06"
+    },
+    {
+      "event_title": "美国不给出席联大的巴勒斯坦代表团发签证 巴方抗议 联合国过问",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/1893892941/70e2834d02001tm6o",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:25:26",
+      "event_time": "8月30日 17:18"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-13 01:25:21",
+    "level2_scrape_time": "2025-09-13 01:25:26"
+  }
+}

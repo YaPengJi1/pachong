@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "比亚迪上半年财报",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:30:03"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "主要车企上半年财报:比亚迪吉利营收创新高",
+      "link": "http://www.sohu.com/a/932206412_122189",
+      "time": "9月5日 16:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "2025上半年财报:比亚迪净利=吉利+长城,蔚来单车亏10万",
+      "link": "http://baijiahao.baidu.com/s?id=1842386286727838797&wfr=spider&for=pc",
+      "time": "9月5日 09:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "比亚迪25年上半年财报中营收3713亿,净利润只有155亿",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6564629273585451509",
+      "time": "9月2日 16:41",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 18:30:17"
+}

@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "华为Mate 80系列发布时间及搭载芯片曝光",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:29:49"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "传华为Mate 80配备京东方RGB OLED屏 预计11月发布",
+      "link": "http://app.myzaker.com/news/article.php?m=1757573415&pk=68c27070b15ec03c0e421b1a",
+      "time": "昨天 13:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "华为厉害了!博主爆料:Mate 80某些方面能把iPhone 17打得找不着北",
+      "link": "http://g.pconline.com.cn/x/1979/19791852.html",
+      "time": "昨天 12:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "曝华为Mate 80系列11月发布",
+      "link": "http://news.mydrivers.com/1/1073/1073826.htm",
+      "time": "昨天 09:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "华为Mate 80系列发布时间和搭载芯片曝光啦!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1766946770242575263",
+      "time": "9月5日 14:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "消息称华为今年四季度发布麒麟9030",
+      "link": "http://news.pconline.com.cn/1974/19748232.html",
+      "time": "9月5日 13:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "华为Mate 80超大杯配置曝光:圆形模组+主动散热",
+      "link": "http://app.myzaker.com/news/article.php?m=1756872788&pk=68b7bda18e9f093f047f532d",
+      "time": "9月3日 12:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 18:30:03"
+}

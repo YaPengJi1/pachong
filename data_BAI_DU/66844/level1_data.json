@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "科捷智能顺丰投资减持",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:25:45"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "顺丰投资首次减持科捷智能",
+      "link": "http://new.qq.com/rain/a/20250908A07SJ200",
+      "time": "9月8日 19:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "顺丰投资拟减持不超3%公司股份",
+      "link": "http://finance.eastmoney.com/a/202509083507463329.html",
+      "time": "9月8日 12:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "科捷智能股东顺丰投资拟减持不超3%公司股份",
+      "link": "http://finance.eastmoney.com/a/202509073506875197.html",
+      "time": "9月7日 16:20",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 10:25:59"
+}

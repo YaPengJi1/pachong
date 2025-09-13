@@ -1,0 +1,46 @@
+{
+  "core_event_name": "蔚来2025年第二季度业绩",
+  "comments": [
+    {
+      "event_title": "蔚来2025年第二季度净亏损49.9亿元同比收窄1%",
+      "event_id": "event_1",
+      "event_url": "http://k.sina.cn/article_5952915720_162d2490806702eknw.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:57:44",
+      "event_time": "9月4日 20:10"
+    },
+    {
+      "event_title": "蔚来汽车业绩喜忧参半，股价反弹缺乏动能",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842236889476363412&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:58:00",
+      "event_time": "9月3日 17:16"
+    },
+    {
+      "event_title": "李斌:用户不买蔚来车 30%-40% 因担心倒闭,四季度盈利成关键",
+      "event_id": "event_3",
+      "event_url": "http://www.ithome.com/0/879/228.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:58:02",
+      "event_time": "8月30日 16:40"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-13 01:58:02"
+}

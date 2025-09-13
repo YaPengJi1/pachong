@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "华为发布新款折叠屏手机",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:40:01"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "苹果发布会前夕,华为抛出三折叠“王炸”",
+      "link": "http://news.qq.com/rain/a/20250908A02X3500",
+      "time": "9月8日 10:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "华为上新,价格降了!三星、苹果、小米......密集官宣",
+      "link": "http://cj.sina.com.cn/articles/view/2291471981/8895166d02001asvm",
+      "time": "9月5日 15:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "华为发布会发布Mate XTs三折叠",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5241536586816401295",
+      "time": "9月4日 08:19",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 10:40:15"
+}

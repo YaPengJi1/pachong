@@ -1,0 +1,193 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:59:01"
+  },
+  "core_event": {
+    "core_event_name": "泰国新总理人选提前锁定，泰国总理阿努廷可能预感到了什么",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:57:43"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "泰国新总理人选提前锁定,他信已出国避难",
+      "link": "http://www.163.com/dy/article/K8UUDEP50553B0G8.html",
+      "time": "9月8日 17:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "泰国当选总理阿努廷开始组建内阁",
+      "link": "http://baijiahao.baidu.com/s?id=1842563761371390797&wfr=spider&for=pc",
+      "time": "9月7日 08:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "阿努廷将面临哪些挑战?",
+      "link": "http://news.sina.cn/2025-09-06/detail-infpppfp6826385.d.html",
+      "time": "9月6日 12:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "华裔总理当选泰国，自称纯血中国后代，对华立场曝光引关注",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7872431920915768740",
+      "time": "9月6日 11:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "泰国自豪泰党党首阿努廷将出任新总理",
+      "link": "http://baijiahao.baidu.com/s?id=1842466082252852498&wfr=spider&for=pc",
+      "time": "9月5日 20:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "泰国自豪泰党党首阿努廷将出任新任总理,父母都是广东籍华人",
+      "link": "http://news.ycwb.com/ikinvkbtkn/content_53645300.htm",
+      "time": "9月5日 19:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "阿努廷当选泰国第32任总理",
+      "link": "http://tv.cctv.com/2025/09/05/VIDEf3YaNfXNwbLgcGyfc25e250905.shtml",
+      "time": "9月5日 18:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "阿努廷将出任泰国新任总理",
+      "link": "http://baijiahao.baidu.com/s?id=1842424184348236639&wfr=spider&for=pc",
+      "time": "9月5日 17:24",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "泰国新总理人选提前锁定,他信已出国避难",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8UUDEP50553B0G8.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:57:59",
+      "event_time": "9月8日 17:21"
+    },
+    {
+      "event_title": "泰国当选总理阿努廷开始组建内阁",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842563761371390797&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:58:17",
+      "event_time": "9月7日 08:41"
+    },
+    {
+      "event_title": "阿努廷将面临哪些挑战?",
+      "event_id": "event_3",
+      "event_url": "http://news.sina.cn/2025-09-06/detail-infpppfp6826385.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:58:19",
+      "event_time": "9月6日 12:33"
+    },
+    {
+      "event_title": "华裔总理当选泰国，自称纯血中国后代，对华立场曝光引关注",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7872431920915768740",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:58:21",
+      "event_time": "9月6日 11:14"
+    },
+    {
+      "event_title": "泰国自豪泰党党首阿努廷将出任新总理",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842466082252852498&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:58:37",
+      "event_time": "9月5日 20:22"
+    },
+    {
+      "event_title": "泰国自豪泰党党首阿努廷将出任新任总理,父母都是广东籍华人",
+      "event_id": "event_6",
+      "event_url": "http://news.ycwb.com/ikinvkbtkn/content_53645300.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:58:39",
+      "event_time": "9月5日 19:46"
+    },
+    {
+      "event_title": "阿努廷当选泰国第32任总理",
+      "event_id": "event_7",
+      "event_url": "http://tv.cctv.com/2025/09/05/VIDEf3YaNfXNwbLgcGyfc25e250905.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:58:41",
+      "event_time": "9月5日 18:11"
+    },
+    {
+      "event_title": "阿努廷将出任泰国新任总理",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842424184348236639&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:58:56",
+      "event_time": "9月5日 17:24"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 8,
+    "total_comments": 8,
+    "events_with_comments": 8,
+    "level1_scrape_time": "2025-09-12 14:57:58",
+    "level2_scrape_time": "2025-09-12 14:58:56"
+  }
+}

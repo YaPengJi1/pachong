@@ -1,0 +1,336 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:27:13"
+  },
+  "core_event": {
+    "core_event_name": "阿尼西莫娃战胜斯瓦泰克，大坂直美杀入2025美网四强",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:25:44"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美网|时隔四年重返大满贯女单四强,那个曾统治赛场的大坂直美回来了",
+      "link": "http://baijiahao.baidu.com/s?id=1842327458544833404&wfr=spider&for=pc",
+      "time": "9月4日 18:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美网女单四强出炉",
+      "link": "http://baijiahao.baidu.com/s?id=1842309194920873117&wfr=spider&for=pc",
+      "time": "9月4日 13:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美网:大坂直美晋级女单四强",
+      "link": "http://baijiahao.baidu.com/s?id=1842302992141941532&wfr=spider&for=pc",
+      "time": "9月4日 11:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "大坂直美杀进2025美网女单四强",
+      "link": "http://baijiahao.baidu.com/s?id=1842300799095672969&wfr=spider&for=pc",
+      "time": "9月4日 11:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "大坂直美职业生涯大满贯进入8强后的战绩为13胜0负",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hfv8",
+      "time": "9月4日 10:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "阿尼西莫娃战胜斯维亚特克",
+      "link": "http://sports.cctv.com/2025/09/04/ARTIv5GaT1orKi6bsywKdGJv250904.shtml",
+      "time": "9月4日 07:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "无情擦网球报双蛋之仇，阿尼西莫娃打进美网四强",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5981514126489967432",
+      "time": "9月4日 06:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "阿尼西莫娃再战斯瓦泰克",
+      "link": "http://weibo.com/tv/show/1034:5206374188253235",
+      "time": "9月2日 10:23",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "美网|时隔四年重返大满贯女单四强,那个曾统治赛场的大坂直美回来了",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842327458544833404&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:26:13",
+      "event_time": "9月4日 18:05"
+    },
+    {
+      "event_title": "美网女单四强出炉",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842309194920873117&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "重庆Chow的Fans",
+      "comment_time": "09-04 13:20",
+      "comment_content": "这个视角很有趣哦👀",
+      "user_location": "山西",
+      "like_count": 1,
+      "scrape_time": "2025-09-13 02:26:29",
+      "event_time": "9月4日 13:16"
+    },
+    {
+      "event_title": "美网女单四强出炉",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842309194920873117&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "玉儿Cpr",
+      "comment_time": "09-04 14:30",
+      "comment_content": "期待精彩半决赛",
+      "user_location": "山东",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:26:29",
+      "event_time": "9月4日 13:16"
+    },
+    {
+      "event_title": "美网:大坂直美晋级女单四强",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842302992141941532&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "古土雷柏",
+      "comment_time": "09-05 15:38",
+      "comment_content": "半决赛值得期待，她有机会走得更远。",
+      "user_location": "广西",
+      "like_count": 1,
+      "scrape_time": "2025-09-13 02:26:45",
+      "event_time": "9月4日 11:37"
+    },
+    {
+      "event_title": "美网:大坂直美晋级女单四强",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842302992141941532&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "关键我叫沈群超",
+      "comment_time": "09-05 15:39",
+      "comment_content": "大坂直美在赛点时的冷静，体现了顶尖球员的气质。",
+      "user_location": "江西",
+      "like_count": 1,
+      "scrape_time": "2025-09-13 02:26:45",
+      "event_time": "9月4日 11:37"
+    },
+    {
+      "event_title": "美网:大坂直美晋级女单四强",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842302992141941532&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "百度网友c3bb34bb",
+      "comment_time": "09-05 15:38",
+      "comment_content": "今天的她，把赛场变成了属于自己的舞台。",
+      "user_location": "辽宁",
+      "like_count": 1,
+      "scrape_time": "2025-09-13 02:26:45",
+      "event_time": "9月4日 11:37"
+    },
+    {
+      "event_title": "美网:大坂直美晋级女单四强",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842302992141941532&wfr=spider&for=pc",
+      "comment_index": 4,
+      "user_id": "孤步独行狼",
+      "comment_time": "09-05 15:39",
+      "comment_content": "四强席位，证明她依旧是大满贯舞台的有力竞争者。",
+      "user_location": "黑龙江",
+      "like_count": 1,
+      "scrape_time": "2025-09-13 02:26:45",
+      "event_time": "9月4日 11:37"
+    },
+    {
+      "event_title": "美网:大坂直美晋级女单四强",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842302992141941532&wfr=spider&for=pc",
+      "comment_index": 5,
+      "user_id": "彼格邦德",
+      "comment_time": "09-05 15:39",
+      "comment_content": "从赛后的拥抱可以看出，两人对彼此都怀有尊重。",
+      "user_location": "广东",
+      "like_count": 1,
+      "scrape_time": "2025-09-13 02:26:45",
+      "event_time": "9月4日 11:37"
+    },
+    {
+      "event_title": "美网:大坂直美晋级女单四强",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842302992141941532&wfr=spider&for=pc",
+      "comment_index": 6,
+      "user_id": "走在浮冰上",
+      "comment_time": "09-05 15:39",
+      "comment_content": "这场比赛中，大坂直美的发球威力令人印象深刻。",
+      "user_location": "海南",
+      "like_count": 1,
+      "scrape_time": "2025-09-13 02:26:45",
+      "event_time": "9月4日 11:37"
+    },
+    {
+      "event_title": "美网:大坂直美晋级女单四强",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842302992141941532&wfr=spider&for=pc",
+      "comment_index": 7,
+      "user_id": "百度网友020d3082",
+      "comment_time": "09-05 15:38",
+      "comment_content": "能够再次闯进美网四强，对她而言是重要的突破。",
+      "user_location": "甘肃",
+      "like_count": 1,
+      "scrape_time": "2025-09-13 02:26:45",
+      "event_time": "9月4日 11:37"
+    },
+    {
+      "event_title": "美网:大坂直美晋级女单四强",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842302992141941532&wfr=spider&for=pc",
+      "comment_index": 8,
+      "user_id": "呓语别当真",
+      "comment_time": "09-05 15:39",
+      "comment_content": "穆霍娃虽然落败，但顽强的防守值得肯定。",
+      "user_location": "湖南",
+      "like_count": 1,
+      "scrape_time": "2025-09-13 02:26:45",
+      "event_time": "9月4日 11:37"
+    },
+    {
+      "event_title": "美网:大坂直美晋级女单四强",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842302992141941532&wfr=spider&for=pc",
+      "comment_index": 9,
+      "user_id": "胥军看两化",
+      "comment_time": "09-05 15:38",
+      "comment_content": "这是一场属于大坂直美的经典之战。",
+      "user_location": "辽宁",
+      "like_count": 1,
+      "scrape_time": "2025-09-13 02:26:45",
+      "event_time": "9月4日 11:37"
+    },
+    {
+      "event_title": "美网:大坂直美晋级女单四强",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842302992141941532&wfr=spider&for=pc",
+      "comment_index": 10,
+      "user_id": "百度网友a952e2da",
+      "comment_time": "09-05 15:39",
+      "comment_content": "球迷们期待她在半决赛继续前进。",
+      "user_location": "甘肃",
+      "like_count": 1,
+      "scrape_time": "2025-09-13 02:26:45",
+      "event_time": "9月4日 11:37"
+    },
+    {
+      "event_title": "美网:大坂直美晋级女单四强",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842302992141941532&wfr=spider&for=pc",
+      "comment_index": 11,
+      "user_id": "于紫东",
+      "comment_time": "09-05 15:38",
+      "comment_content": "大坂直美在球场上的沉着令人佩服。",
+      "user_location": "广东",
+      "like_count": 1,
+      "scrape_time": "2025-09-13 02:26:45",
+      "event_time": "9月4日 11:37"
+    },
+    {
+      "event_title": "大坂直美杀进2025美网女单四强",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842300799095672969&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:27:01",
+      "event_time": "9月4日 11:02"
+    },
+    {
+      "event_title": "大坂直美职业生涯大满贯进入8强后的战绩为13胜0负",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hfv8",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:27:03",
+      "event_time": "9月4日 10:04"
+    },
+    {
+      "event_title": "阿尼西莫娃战胜斯维亚特克",
+      "event_id": "event_6",
+      "event_url": "http://sports.cctv.com/2025/09/04/ARTIv5GaT1orKi6bsywKdGJv250904.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:27:05",
+      "event_time": "9月4日 07:26"
+    },
+    {
+      "event_title": "无情擦网球报双蛋之仇，阿尼西莫娃打进美网四强",
+      "event_id": "event_7",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5981514126489967432",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:27:07",
+      "event_time": "9月4日 06:11"
+    },
+    {
+      "event_title": "阿尼西莫娃再战斯瓦泰克",
+      "event_id": "event_8",
+      "event_url": "http://weibo.com/tv/show/1034:5206374188253235",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:27:09",
+      "event_time": "9月2日 10:23"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 8,
+    "total_comments": 19,
+    "events_with_comments": 8,
+    "level1_scrape_time": "2025-09-13 02:25:58",
+    "level2_scrape_time": "2025-09-13 02:27:09"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "华为MateXTs上架即“秒光”",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:43:16"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "华为MateXTs上架即“秒光”",
+      "link": "http://baijiahao.baidu.com/s?id=1842396789769560113&wfr=spider&for=pc",
+      "time": "9月5日 12:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "华为上新,价格降了!三星、苹果、小米……密集官宣",
+      "link": "http://baijiahao.baidu.com/s?id=1842399477965924808&wfr=spider&for=pc",
+      "time": "9月5日 11:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "华为携手刘德华发布Mate XTs 非凡大师及全场景新品",
+      "link": "http://news.zol.com.cn/1041/10414043.html",
+      "time": "9月4日 12:20",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-13 02:43:30"
+}

@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "普京访华 中俄蒙签1100万发炮弹",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:36:45"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "普京刚回国,就收到中方送的两份重磅大礼,美国这下彻底坐不住了",
+      "link": "http://www.163.com/dy/article/K90R6GTC0556DZEX.html",
+      "time": "9月9日 11:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "普京访华真没白来 中俄蒙签了16项合作文件",
+      "link": "http://www.163.com/dy/article/K8PUE0C20535I9J6.html",
+      "time": "9月6日 18:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普下禁令卡中国 1200万炮弹抵俄",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=112038309661373434",
+      "time": "9月4日 22:08",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 11:37:00"
+}

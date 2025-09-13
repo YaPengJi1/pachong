@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "中国四大倡议出击破解全球乱局",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:00:53"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "全球治理倡议引发国际社会广泛共鸣",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4260661438381217734",
+      "time": "9月6日 14:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国四大倡议出击 破解全球乱局 再造安全、公平与发展新规则",
+      "link": "http://news.sohu.com/a/932410001_121142129",
+      "time": "9月6日 12:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "上合峰会中方提出5点倡议，特朗普失策了",
+      "link": "http://baijiahao.baidu.com/s?id=1842390739807968681&wfr=spider&for=pc",
+      "time": "9月5日 10:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "上合组织天津峰会上,习近平主席提出这一重大全球倡议",
+      "link": "http://www.e0734.com/index.php?c=wap&a=show&catid=116&id=604980",
+      "time": "9月4日 15:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "践行四大全球倡议,维护发展战后国际秩序",
+      "link": "http://baijiahao.baidu.com/s?id=1842303533364210183&wfr=spider&for=pc",
+      "time": "9月4日 11:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "上合天津峰会,习近平首次提出全球治理倡议",
+      "link": "http://m.cnhubei.com/content/2025-09/02/content_19467995.html",
+      "time": "9月2日 10:59",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 15:01:07"
+}

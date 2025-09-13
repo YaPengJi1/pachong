@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "王艺迪澳门冠军赛晋级",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:13:50"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "王艺迪WTT澳门站获开门红,亲切称呼对手关卓琳“小朋友”",
+      "link": "http://new.qq.com/rain/a/20250910V05A6T00",
+      "time": "9月10日 14:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "WTT澳门冠军赛:王艺迪晋级女单16强",
+      "link": "http://m.yunnan.cn/system/2025/09/09/033632910.shtml",
+      "time": "9月9日 16:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "澳门冠军赛,王艺迪vs关卓琳,王艺迪第二局",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7673390127210084957",
+      "time": "9月9日 13:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "澳门冠军赛,王艺迪vs关卓琳,王艺迪赢了第一局",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16321833509200910237",
+      "time": "9月9日 13:45",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 11:14:04"
+}

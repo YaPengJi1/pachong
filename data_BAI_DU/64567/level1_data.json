@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "山东泰山6-0狂胜国安",
+    "update_time": "更新至20250901",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:18:29"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中超联赛:山东泰山大胜北京国安的原因",
+      "link": "http://baijiahao.baidu.com/s?id=1842017754453762616&wfr=spider&for=pc",
+      "time": "9月1日 08:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "山东泰山6比0狂胜国安，俱乐部管理缺陷现场曝光",
+      "link": "http://baijiahao.baidu.com/s?id=1841984384924350553&wfr=spider&for=pc",
+      "time": "8月31日 23:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国安1-6惨败 中超最大失利",
+      "link": "http://www.163.com/dy/article/K8APMPRN0529AQIE.html",
+      "time": "8月31日 21:33",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-13 02:18:43"
+}

@@ -1,0 +1,361 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 09:59:22"
+  },
+  "core_event": {
+    "core_event_name": "六部门联合整治汽车行业网络乱象",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:57:21"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "六部门开展专项整治汽车行业乱象行动",
+      "link": "http://new.qq.com/rain/a/20250911A098DW00",
+      "time": "昨天 22:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "理想汽车:部分黑公关恶意诋毁品牌形象、产品质量,将追责",
+      "link": "http://finance.eastmoney.com/a/202509113511038826.html",
+      "time": "昨天 15:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "为期3个月,剑指“黑公关”“黑嘴”!国家出手整治汽车网络乱象",
+      "link": "http://baijiahao.baidu.com/s?id=1842949932913156719&wfr=spider&for=pc",
+      "time": "昨天 14:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "理想汽车重拳出击:数百账号恶意诋毁将面临法律责任",
+      "link": "http://www.d1ev.com/newsflash/274613",
+      "time": "昨天 14:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "理想汽车回应黑公关:将追责",
+      "link": "http://www.ithome.com/0/882/137.htm",
+      "time": "昨天 13:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "理想汽车回应被查证诋毁I6等不实信息",
+      "link": "http://stock.hexun.com/2025-09-11/221294318.html",
+      "time": "昨天 13:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "重磅!国家六部门出手!3 个月整治汽车网络乱象",
+      "link": "http://cj.sina.com.cn/articles/view/5889638666/15f0cc10a00101rjfu",
+      "time": "昨天 13:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "六部门联合开展汽车行业网络乱象专项整治行动",
+      "link": "http://finance.sina.cn/chanjing/gsxw/2025-09-11/detail-infqasqr8706995.d.html",
+      "time": "昨天 10:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "汽车行业恶意诋毁攻击等网络乱象将被集中整治 多家车企表态",
+      "link": "http://baijiahao.baidu.com/s?id=1842932253634531413&wfr=spider&for=pc",
+      "time": "昨天 10:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "六部门联合部署开展汽车行业网络乱象专项整治行动",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31592599",
+      "time": "昨天 08:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "针对汽车行业网络乱象 六部门联合开展专项整治行动",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6851674359080118877",
+      "time": "昨天 08:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "六部门联合出手!剑指汽车行业网络乱象",
+      "link": "http://www.zhitongcaijing.com/content/detail/1343851.html",
+      "time": "9月10日 22:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "工信部等六部门对车圈乱像出手,重点整治三个方面",
+      "link": "http://finance.sina.com.cn/roll/2025-09-10/doc-infpzray3938208.shtml",
+      "time": "9月10日 22:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "岚图卢放、比亚迪李云飞表态,支持开展汽车行业网络乱象整治行动",
+      "link": "http://baijiahao.baidu.com/s?id=1842870996039857277&wfr=spider&for=pc",
+      "time": "9月10日 18:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "六部门:集中整治汽车行业乱象",
+      "link": "http://baijiahao.baidu.com/s?id=1842861265015090550&wfr=spider&for=pc",
+      "time": "9月10日 15:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "工业和信息化部等六部门联合部署开展汽车行业网络乱象专项整治行动",
+      "link": "http://baijiahao.baidu.com/s?id=1842862165869110981&wfr=spider&for=pc",
+      "time": "9月10日 15:15",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "六部门开展专项整治汽车行业乱象行动",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250911A098DW00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:57:36",
+      "event_time": "昨天 22:05"
+    },
+    {
+      "event_title": "理想汽车:部分黑公关恶意诋毁品牌形象、产品质量,将追责",
+      "event_id": "event_2",
+      "event_url": "http://finance.eastmoney.com/a/202509113511038826.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:57:38",
+      "event_time": "昨天 15:20"
+    },
+    {
+      "event_title": "为期3个月,剑指“黑公关”“黑嘴”!国家出手整治汽车网络乱象",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842949932913156719&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:57:56",
+      "event_time": "昨天 14:59"
+    },
+    {
+      "event_title": "理想汽车重拳出击:数百账号恶意诋毁将面临法律责任",
+      "event_id": "event_4",
+      "event_url": "http://www.d1ev.com/newsflash/274613",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:57:58",
+      "event_time": "昨天 14:46"
+    },
+    {
+      "event_title": "理想汽车回应黑公关:将追责",
+      "event_id": "event_5",
+      "event_url": "http://www.ithome.com/0/882/137.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:58:00",
+      "event_time": "昨天 13:20"
+    },
+    {
+      "event_title": "理想汽车回应被查证诋毁I6等不实信息",
+      "event_id": "event_6",
+      "event_url": "http://stock.hexun.com/2025-09-11/221294318.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:58:02",
+      "event_time": "昨天 13:03"
+    },
+    {
+      "event_title": "重磅!国家六部门出手!3 个月整治汽车网络乱象",
+      "event_id": "event_7",
+      "event_url": "http://cj.sina.com.cn/articles/view/5889638666/15f0cc10a00101rjfu",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:58:04",
+      "event_time": "昨天 13:00"
+    },
+    {
+      "event_title": "六部门联合开展汽车行业网络乱象专项整治行动",
+      "event_id": "event_8",
+      "event_url": "http://finance.sina.cn/chanjing/gsxw/2025-09-11/detail-infqasqr8706995.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:58:06",
+      "event_time": "昨天 10:38"
+    },
+    {
+      "event_title": "汽车行业恶意诋毁攻击等网络乱象将被集中整治 多家车企表态",
+      "event_id": "event_9",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842932253634531413&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "游泳者Swim黄",
+      "comment_time": "22小时前",
+      "comment_content": "作者加油，期待更多！",
+      "user_location": "浙江",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:58:22",
+      "event_time": "昨天 10:17"
+    },
+    {
+      "event_title": "六部门联合部署开展汽车行业网络乱象专项整治行动",
+      "event_id": "event_10",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31592599",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:58:24",
+      "event_time": "昨天 08:31"
+    },
+    {
+      "event_title": "针对汽车行业网络乱象 六部门联合开展专项整治行动",
+      "event_id": "event_11",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6851674359080118877",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:58:26",
+      "event_time": "昨天 08:01"
+    },
+    {
+      "event_title": "六部门联合出手!剑指汽车行业网络乱象",
+      "event_id": "event_12",
+      "event_url": "http://www.zhitongcaijing.com/content/detail/1343851.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:58:28",
+      "event_time": "9月10日 22:39"
+    },
+    {
+      "event_title": "工信部等六部门对车圈乱像出手,重点整治三个方面",
+      "event_id": "event_13",
+      "event_url": "http://finance.sina.com.cn/roll/2025-09-10/doc-infpzray3938208.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:58:30",
+      "event_time": "9月10日 22:04"
+    },
+    {
+      "event_title": "岚图卢放、比亚迪李云飞表态,支持开展汽车行业网络乱象整治行动",
+      "event_id": "event_14",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842870996039857277&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:58:46",
+      "event_time": "9月10日 18:05"
+    },
+    {
+      "event_title": "六部门:集中整治汽车行业乱象",
+      "event_id": "event_15",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842861265015090550&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:59:02",
+      "event_time": "9月10日 15:30"
+    },
+    {
+      "event_title": "工业和信息化部等六部门联合部署开展汽车行业网络乱象专项整治行动",
+      "event_id": "event_16",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842862165869110981&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:59:18",
+      "event_time": "9月10日 15:15"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 16,
+    "total_comments": 16,
+    "events_with_comments": 16,
+    "level1_scrape_time": "2025-09-12 09:57:35",
+    "level2_scrape_time": "2025-09-12 09:59:18"
+  }
+}

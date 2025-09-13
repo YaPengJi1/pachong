@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "张镇麟离队原因曝光",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:35:34"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "张镇麟为何离队?杨鸣居功至伟,球迷不解",
+      "link": "http://cj.sina.com.cn/articles/view/7185296825/1ac46edb9001017ras",
+      "time": "9月6日 10:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "张镇麟走后,郭艾伦被交易",
+      "link": "http://cj.sina.com.cn/articles/view/7880068727/1d5b04e7702002ebls",
+      "time": "9月3日 18:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "媒体人:张镇麟离开辽篮更多出于家庭因素考量 其妻在长三角生活",
+      "link": "http://k.sina.com.cn/article_2018499075_784fda0302002hej4.html",
+      "time": "9月3日 09:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "媒体人:张镇麟离队主要出于家庭因素;辽篮曾与一支长三角球队谈判",
+      "link": "http://www.dongqiudi.com/articles/5351772.html",
+      "time": "9月3日 08:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "张镇麟离队原因曝光,与杨鸣教练有关",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2371248914424197415",
+      "time": "9月2日 08:37",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 19:36:07"
+}

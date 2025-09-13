@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:59:42"
+  },
+  "core_event": {
+    "core_event_name": "萨巴伦卡美网连胜，三进决赛夺冠",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:58:27"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "萨巴伦卡弥补澳网法网失落,守住2025美网女单头衔",
+      "link": "http://m.sohu.com/a/932780038_122341592",
+      "time": "9月8日 09:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "萨巴伦卡用卫冕为第一正名",
+      "link": "http://baijiahao.baidu.com/s?id=1842597077533212106&wfr=spider&for=pc",
+      "time": "9月7日 16:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "萨巴伦卡卫冕美网冠军获500万美元巨额奖金，今年大满贯成绩单一冠两亚",
+      "link": "http://baijiahao.baidu.com/s?id=1842567620760956234&wfr=spider&for=pc",
+      "time": "9月7日 08:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "萨巴伦卡美网卫冕解锁一系列新成就,她说“所有之前的教训成就了这一刻”",
+      "link": "http://baijiahao.baidu.com/s?id=1842559550107281764&wfr=spider&for=pc",
+      "time": "9月7日 07:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "萨巴伦卡成美网女单决赛首人，狂揽1785万大奖",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7829250194236641407",
+      "time": "9月6日 07:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "萨巴伦卡再进决赛，豪取美网13连胜，冠军稳了",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11766474933865881455",
+      "time": "9月5日 16:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "萨巴伦卡连续3年晋级美网决赛",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=14214276516197938982",
+      "time": "9月5日 10:47",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "萨巴伦卡弥补澳网法网失落,守住2025美网女单头衔",
+      "event_id": "event_1",
+      "event_url": "http://m.sohu.com/a/932780038_122341592",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:58:43",
+      "event_time": "9月8日 09:35"
+    },
+    {
+      "event_title": "萨巴伦卡用卫冕为第一正名",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842597077533212106&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:59:00",
+      "event_time": "9月7日 16:56"
+    },
+    {
+      "event_title": "萨巴伦卡卫冕美网冠军获500万美元巨额奖金，今年大满贯成绩单一冠两亚",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842567620760956234&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:59:16",
+      "event_time": "9月7日 08:15"
+    },
+    {
+      "event_title": "萨巴伦卡美网卫冕解锁一系列新成就,她说“所有之前的教训成就了这一刻”",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842559550107281764&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "俺有胡子_Beard",
+      "comment_time": "09-07 08:14",
+      "comment_content": "萨巴伦卡卫冕美网太硬核了，四冠加冕硬地女王，每一课都值这一刻！",
+      "user_location": "重庆",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:59:32",
+      "event_time": "9月7日 07:34"
+    },
+    {
+      "event_title": "萨巴伦卡成美网女单决赛首人，狂揽1785万大奖",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7829250194236641407",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:59:34",
+      "event_time": "9月6日 07:43"
+    },
+    {
+      "event_title": "萨巴伦卡再进决赛，豪取美网13连胜，冠军稳了",
+      "event_id": "event_6",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11766474933865881455",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:59:36",
+      "event_time": "9月5日 16:38"
+    },
+    {
+      "event_title": "萨巴伦卡连续3年晋级美网决赛",
+      "event_id": "event_7",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=14214276516197938982",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:59:38",
+      "event_time": "9月5日 10:47"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 10:58:41",
+    "level2_scrape_time": "2025-09-12 10:59:38"
+  }
+}

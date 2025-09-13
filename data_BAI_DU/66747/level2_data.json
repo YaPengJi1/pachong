@@ -1,0 +1,46 @@
+{
+  "core_event_name": "巴以局势",
+  "comments": [
+    {
+      "event_title": "关注巴以局势 以军持续袭击加沙多地 致数十人死亡",
+      "event_id": "event_1",
+      "event_url": "http://tv.cctv.com/2025/09/09/VIDEu06NQCpzP9BySnnnHl1N250909.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:32:53",
+      "event_time": "9月9日 00:49"
+    },
+    {
+      "event_title": "以军袭击加沙地带多地 再袭高层建筑",
+      "event_id": "event_2",
+      "event_url": "http://tv.cctv.com/2025/09/07/VIDE1uKPoZwP1YM6365jygL8250907.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:32:55",
+      "event_time": "9月7日 08:10"
+    },
+    {
+      "event_title": "加沙地带媒体办公室称以军空袭住宅楼构成战争罪行",
+      "event_id": "event_3",
+      "event_url": "http://tv.cctv.com/2025/09/07/VIDEcBeSFFnWUAoj9RuIYSWg250907.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:32:57",
+      "event_time": "9月7日 00:18"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 10:32:57"
+}

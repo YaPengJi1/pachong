@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:09:21"
+  },
+  "core_event": {
+    "core_event_name": "人工智能+行动意见出炉",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:08:55"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国务院发布《关于深入实施“人工智能+”行动的意见》",
+      "link": "http://weibo.com/7539994918/Q317R2kqn",
+      "time": "9月4日 16:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "“人工智能+”行动加速落地,普惠智算云底座成关键支撑",
+      "link": "http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS68b7dd17a310f0725774687f.html",
+      "time": "9月3日 09:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "长城基金刘疆解读人工智能+",
+      "link": "http://www.163.com/dy/article/K8EP5R6K055696KT.html",
+      "time": "9月2日 10:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "国务院人工智能+行动意见出炉,阿里持续投入AI建设",
+      "link": "http://www.cnenergynews.cn/jinrong/2025/09/01/detail_20250901230374.html",
+      "time": "9月1日 09:38",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "国务院发布《关于深入实施“人工智能+”行动的意见》",
+      "event_id": "event_1",
+      "event_url": "http://weibo.com/7539994918/Q317R2kqn",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:09:11",
+      "event_time": "9月4日 16:37"
+    },
+    {
+      "event_title": "“人工智能+”行动加速落地,普惠智算云底座成关键支撑",
+      "event_id": "event_2",
+      "event_url": "http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories/WS68b7dd17a310f0725774687f.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:09:13",
+      "event_time": "9月3日 09:59"
+    },
+    {
+      "event_title": "长城基金刘疆解读人工智能+",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8EP5R6K055696KT.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:09:15",
+      "event_time": "9月2日 10:41"
+    },
+    {
+      "event_title": "国务院人工智能+行动意见出炉,阿里持续投入AI建设",
+      "event_id": "event_4",
+      "event_url": "http://www.cnenergynews.cn/jinrong/2025/09/01/detail_20250901230374.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:09:17",
+      "event_time": "9月1日 09:38"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 17:09:09",
+    "level2_scrape_time": "2025-09-12 17:09:17"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "core_event_name": "泰国前总理他信突然离泰国",
+  "comments": [
+    {
+      "event_title": "新总理选举前夜，他信突然离泰",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=18433652359254591204",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:45:04",
+      "event_time": "9月8日 21:33"
+    },
+    {
+      "event_title": "他信返回泰国",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/1893892941/70e2834d02001tspu",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:45:06",
+      "event_time": "9月8日 17:37"
+    },
+    {
+      "event_title": "泰国前总理他信返回曼谷,将于9日听取法院裁决",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842685502726944325&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:45:23",
+      "event_time": "9月8日 16:56"
+    },
+    {
+      "event_title": "他信在法院裁决前离开泰国",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9948002117729164807",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:45:25",
+      "event_time": "9月6日 10:43"
+    },
+    {
+      "event_title": "泰国前总理他信回应“跑路”传闻",
+      "event_id": "event_5",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4014295242809588040",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:45:27",
+      "event_time": "9月6日 05:54"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 14:45:27"
+}

@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普对俄第二阶段制裁",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:18:24"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普准备对俄实施第二阶段制裁",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11771967134829031512",
+      "time": "9月9日 16:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特朗普对俄罗斯第二阶段的制裁已提上议事日程",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5276712476447523172",
+      "time": "9月9日 05:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普要对俄加制裁!刚放话通话普京就变调,套路似过往威胁?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6772964187767019582",
+      "time": "9月8日 14:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普政府称已准备好对俄第二阶段制裁",
+      "link": "http://tv.cctv.com/2025/09/08/VIDExw2TvPCgnXqJFcwj5pGc250908.shtml",
+      "time": "9月8日 12:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "特朗普称准备对俄罗斯实施第二阶段制裁",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3506419319155424834",
+      "time": "9月8日 07:01",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 11:18:39"
+}

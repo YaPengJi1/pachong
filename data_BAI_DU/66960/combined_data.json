@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:47:34"
+  },
+  "core_event": {
+    "core_event_name": "2025中国民营企业500强出炉",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:47:10"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "2025中国民营企业500强出炉",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31572066",
+      "time": "9月8日 23:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "2023年民营企业500强发布",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31583353",
+      "time": "9月8日 21:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "“2025中国民营企业500强”“2025中国制造业民营企业500强”揭晓 安踏、百宏、恒安榜上有名",
+      "link": "http://news.ijjnews.com/system/2025/09/08/030190950.shtml",
+      "time": "9月8日 09:59",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "2025中国民营企业500强出炉",
+      "event_id": "event_1",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31572066",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:47:26",
+      "event_time": "9月8日 23:50"
+    },
+    {
+      "event_title": "2023年民营企业500强发布",
+      "event_id": "event_2",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31583353",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:47:28",
+      "event_time": "9月8日 21:37"
+    },
+    {
+      "event_title": "“2025中国民营企业500强”“2025中国制造业民营企业500强”揭晓 安踏、百宏、恒安榜上有名",
+      "event_id": "event_3",
+      "event_url": "http://news.ijjnews.com/system/2025/09/08/030190950.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:47:30",
+      "event_time": "9月8日 09:59"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 10:47:25",
+    "level2_scrape_time": "2025-09-12 10:47:30"
+  }
+}

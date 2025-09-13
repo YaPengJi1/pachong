@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "澳大利亚豪取五连胜，中国队晋级亚洲杯决赛",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 12:21:33"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国U23男足0比0平澳大利亚,小组第二晋级亚洲杯决赛",
+      "link": "http://cj.sina.com.cn/articles/view/1913412967/p720c5d6702701fu64",
+      "time": "9月9日 21:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "亚预赛诞生2支7分队 中国队形势:多了2个对手",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=368620215387966979",
+      "time": "9月9日 21:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "亚预赛最新形势出炉：中国队出线多了两个对手",
+      "link": "http://cj.sina.com.cn/articles/view/2834321443/a8f0502300101mkm0",
+      "time": "9月9日 19:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "澳大利亚豪取6连胜，新西兰3连败",
+      "link": "http://new.qq.com/rain/a/20250909A06I1R00",
+      "time": "9月9日 17:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "澳大利亚队在亚洲杯53胜0负 横扫9个冠军 U16四连冠成年队3连冠",
+      "link": "http://sports.sina.cn/nba/other/2025-09-08/detail-infptzmn9804203.d.html",
+      "time": "9月8日 11:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "澳大利亚狂胜北马里亚纳,国足小胜东帝汶,亚预赛D组积分榜刷新",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16830087503752234559",
+      "time": "9月7日 12:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "澳大利亚U22男足取得小组赛两连胜",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEQYAHd7f3TQHKPynh5wN4250907.shtml",
+      "time": "9月7日 07:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "澳大利亚豪取五连胜",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8157971281347751622",
+      "time": "9月6日 23:42",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-12 12:21:47"
+}

@@ -1,0 +1,140 @@
+{
+  "core_info": {
+    "core_event_name": "护士张水华马拉松夺冠后引争议",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:02:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "361度解约“最快女护士”",
+      "link": "http://baijiahao.baidu.com/s?id=1842423912059980204&wfr=spider&for=pc",
+      "time": "9月5日 17:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "张水华哈尔滨马拉松总排名第九",
+      "link": "http://www.sohu.com/a/932129085_122387568",
+      "time": "9月5日 12:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "“最快女护士”夺冠后落泪吐槽领导",
+      "link": "http://finance.sina.com.cn/wm/2025-09-05/doc-infpmkhk2554804.shtml",
+      "time": "9月5日 12:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "张水华因工作繁忙请假调休",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4648585771124060902",
+      "time": "9月4日 22:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "361度与“最快女护士”解约",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31542708",
+      "time": "9月4日 17:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "361度被曝与马拉松运动员“最快女护士”解约,公司暂无回应",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2142619375085333981",
+      "time": "9月4日 11:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "“最快女护士”丈夫发声:并非经常调休,科室大多数护士每月能有两次或以上的完整周末!医院、人社部门等多方回应争议点",
+      "link": "http://baijiahao.baidu.com/s?id=1842209260632060478&wfr=spider&for=pc",
+      "time": "9月3日 10:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "“最快女护士”丈夫发声:并非经常调休,科室大多数护士每月能有两次或以上的完整周末",
+      "link": "http://baijiahao.baidu.com/s?id=1842205777864615056&wfr=spider&for=pc",
+      "time": "9月3日 09:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "生理期跑马拉松夺冠！女护士哭诉领导不给她调班",
+      "link": "http://cj.sina.com.cn/articles/view/7880068727/1d5b04e7702002e260",
+      "time": "9月2日 16:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "“最快女护士”跑马夺冠后,哭求“领导支持调休”,网友吵翻了",
+      "link": "http://baijiahao.baidu.com/s?id=1842135813540268788&wfr=spider&for=pc",
+      "time": "9月2日 15:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "“最快女护士”哭求领导支持调休引争议",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9203612203577826278",
+      "time": "9月2日 12:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "护士全马夺冠后续:三个月参赛十次,喊话调休惹争议,网友:情商低",
+      "link": "http://www.163.com/dy/article/K8EP2MH40556E2D3.html",
+      "time": "9月2日 10:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "“最快女护士”哭求调休跑马拉松,福州市卫健委回应",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31528994",
+      "time": "9月2日 10:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "哈尔滨马拉松张水华哭求调休参赛",
+      "link": "http://cj.sina.com.cn/articles/view/7879923942/1d5ae18e602001l4vu",
+      "time": "9月1日 21:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "“最快女护士”哭求领导支持调休跑马引热议，其个人账号已关评",
+      "link": "http://baijiahao.baidu.com/s?id=1842105467875227638&wfr=spider&for=pc",
+      "time": "9月1日 14:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "女护士马拉松夺冠喊话领导要调休",
+      "link": "http://cj.sina.com.cn/articles/view/2131593523/7f0d893302001l6po",
+      "time": "9月1日 13:59",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 16,
+  "scrape_time": "2025-09-12 18:03:07"
+}

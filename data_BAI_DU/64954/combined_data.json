@@ -1,0 +1,478 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:05:12"
+  },
+  "core_event": {
+    "core_event_name": "护士张水华马拉松夺冠后引争议",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:02:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "361度解约“最快女护士”",
+      "link": "http://baijiahao.baidu.com/s?id=1842423912059980204&wfr=spider&for=pc",
+      "time": "9月5日 17:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "张水华哈尔滨马拉松总排名第九",
+      "link": "http://www.sohu.com/a/932129085_122387568",
+      "time": "9月5日 12:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "“最快女护士”夺冠后落泪吐槽领导",
+      "link": "http://finance.sina.com.cn/wm/2025-09-05/doc-infpmkhk2554804.shtml",
+      "time": "9月5日 12:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "张水华因工作繁忙请假调休",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4648585771124060902",
+      "time": "9月4日 22:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "361度与“最快女护士”解约",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31542708",
+      "time": "9月4日 17:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "361度被曝与马拉松运动员“最快女护士”解约,公司暂无回应",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2142619375085333981",
+      "time": "9月4日 11:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "“最快女护士”丈夫发声:并非经常调休,科室大多数护士每月能有两次或以上的完整周末!医院、人社部门等多方回应争议点",
+      "link": "http://baijiahao.baidu.com/s?id=1842209260632060478&wfr=spider&for=pc",
+      "time": "9月3日 10:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "“最快女护士”丈夫发声:并非经常调休,科室大多数护士每月能有两次或以上的完整周末",
+      "link": "http://baijiahao.baidu.com/s?id=1842205777864615056&wfr=spider&for=pc",
+      "time": "9月3日 09:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "生理期跑马拉松夺冠！女护士哭诉领导不给她调班",
+      "link": "http://cj.sina.com.cn/articles/view/7880068727/1d5b04e7702002e260",
+      "time": "9月2日 16:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "“最快女护士”跑马夺冠后,哭求“领导支持调休”,网友吵翻了",
+      "link": "http://baijiahao.baidu.com/s?id=1842135813540268788&wfr=spider&for=pc",
+      "time": "9月2日 15:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "“最快女护士”哭求领导支持调休引争议",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9203612203577826278",
+      "time": "9月2日 12:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "护士全马夺冠后续:三个月参赛十次,喊话调休惹争议,网友:情商低",
+      "link": "http://www.163.com/dy/article/K8EP2MH40556E2D3.html",
+      "time": "9月2日 10:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "“最快女护士”哭求调休跑马拉松,福州市卫健委回应",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31528994",
+      "time": "9月2日 10:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "哈尔滨马拉松张水华哭求调休参赛",
+      "link": "http://cj.sina.com.cn/articles/view/7879923942/1d5ae18e602001l4vu",
+      "time": "9月1日 21:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "“最快女护士”哭求领导支持调休跑马引热议，其个人账号已关评",
+      "link": "http://baijiahao.baidu.com/s?id=1842105467875227638&wfr=spider&for=pc",
+      "time": "9月1日 14:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "女护士马拉松夺冠喊话领导要调休",
+      "link": "http://cj.sina.com.cn/articles/view/2131593523/7f0d893302001l6po",
+      "time": "9月1日 13:59",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "361度解约“最快女护士”",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842423912059980204&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:03:42",
+      "event_time": "9月5日 17:34"
+    },
+    {
+      "event_title": "张水华哈尔滨马拉松总排名第九",
+      "event_id": "event_2",
+      "event_url": "http://www.sohu.com/a/932129085_122387568",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:03:44",
+      "event_time": "9月5日 12:25"
+    },
+    {
+      "event_title": "“最快女护士”夺冠后落泪吐槽领导",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.com.cn/wm/2025-09-05/doc-infpmkhk2554804.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:03:46",
+      "event_time": "9月5日 12:01"
+    },
+    {
+      "event_title": "张水华因工作繁忙请假调休",
+      "event_id": "event_4",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4648585771124060902",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:03:48",
+      "event_time": "9月4日 22:06"
+    },
+    {
+      "event_title": "361度与“最快女护士”解约",
+      "event_id": "event_5",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31542708",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:03:50",
+      "event_time": "9月4日 17:12"
+    },
+    {
+      "event_title": "361度被曝与马拉松运动员“最快女护士”解约,公司暂无回应",
+      "event_id": "event_6",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=2142619375085333981",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:03:52",
+      "event_time": "9月4日 11:21"
+    },
+    {
+      "event_title": "“最快女护士”丈夫发声:并非经常调休,科室大多数护士每月能有两次或以上的完整周末!医院、人社部门等多方回应争议点",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842209260632060478&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "星宇梦游者",
+      "comment_time": "09-04 05:16",
+      "comment_content": "全国哪个护士能做到马拉松比赛第一？这是卫生系统的骄傲和人才，要正确引导，正面鼓励！这家医院就这一个护士值班吗？院领导要意识到，抓住机遇，完全可以利用她的名气做好宣传，提高知名度，坐下来好好沟通吧，张护士也要冷静下来，这个事情是可以双赢的！",
+      "user_location": "北京",
+      "like_count": 3,
+      "scrape_time": "2025-09-12 18:04:08",
+      "event_time": "9月3日 10:47"
+    },
+    {
+      "event_title": "“最快女护士”丈夫发声:并非经常调休,科室大多数护士每月能有两次或以上的完整周末!医院、人社部门等多方回应争议点",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842209260632060478&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "作曲家爱士多",
+      "comment_time": "09-03 10:49",
+      "comment_content": "这个视角很有趣哦👀",
+      "user_location": "海南",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 18:04:08",
+      "event_time": "9月3日 10:47"
+    },
+    {
+      "event_title": "“最快女护士”丈夫发声:并非经常调休,科室大多数护士每月能有两次或以上的完整周末!医院、人社部门等多方回应争议点",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842209260632060478&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "水木为杰",
+      "comment_time": "09-04 17:00",
+      "comment_content": "那就有少数咯",
+      "user_location": "上海",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:04:08",
+      "event_time": "9月3日 10:47"
+    },
+    {
+      "event_title": "“最快女护士”丈夫发声:并非经常调休,科室大多数护士每月能有两次或以上的完整周末!医院、人社部门等多方回应争议点",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842209260632060478&wfr=spider&for=pc",
+      "comment_index": 4,
+      "user_id": "文曲星来了",
+      "comment_time": "09-04 09:14",
+      "comment_content": "看来各行各业都不易，咱们得多些理解和尊重，为默默付出的医护人员点赞！",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:04:08",
+      "event_time": "9月3日 10:47"
+    },
+    {
+      "event_title": "“最快女护士”丈夫发声:并非经常调休,科室大多数护士每月能有两次或以上的完整周末!医院、人社部门等多方回应争议点",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842209260632060478&wfr=spider&for=pc",
+      "comment_index": 5,
+      "user_id": "子曦慕斯",
+      "comment_time": "09-04 09:21",
+      "comment_content": "很奇怪的解释，既然都能正常休息，那她还哭诉啥呢，好像是她在哭诉不能调休吧，都是她在埋怨吧，这夫妻俩儿说话自相矛盾呀",
+      "user_location": "上海",
+      "like_count": 5,
+      "scrape_time": "2025-09-12 18:04:08",
+      "event_time": "9月3日 10:47"
+    },
+    {
+      "event_title": "“最快女护士”丈夫发声:并非经常调休,科室大多数护士每月能有两次或以上的完整周末!医院、人社部门等多方回应争议点",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842209260632060478&wfr=spider&for=pc",
+      "comment_index": 6,
+      "user_id": "星宇梦游者",
+      "comment_time": "09-06 12:53",
+      "comment_content": "通过医术也就地方有点名气，这个全国出名了，这是现实",
+      "user_location": "北京",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:04:08",
+      "event_time": "9月3日 10:47"
+    },
+    {
+      "event_title": "“最快女护士”丈夫发声:并非经常调休,科室大多数护士每月能有两次或以上的完整周末!医院、人社部门等多方回应争议点",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842209260632060478&wfr=spider&for=pc",
+      "comment_index": 7,
+      "user_id": "用事实说话123456",
+      "comment_time": "09-06 16:39",
+      "comment_content": "没旷工能代表她上班尽职尽责了吗？护理行业难道就应该是儿戏行业了！！！？",
+      "user_location": "湖北",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:04:08",
+      "event_time": "9月3日 10:47"
+    },
+    {
+      "event_title": "“最快女护士”丈夫发声:并非经常调休,科室大多数护士每月能有两次或以上的完整周末",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842205777864615056&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "Kawaii赤CRM",
+      "comment_time": "09-03 10:25",
+      "comment_content": "张水华真拼，夜班后刻苦训练夺冠。丈夫澄清了事实，护士周末其实挺充裕的。",
+      "user_location": "青海",
+      "like_count": 4,
+      "scrape_time": "2025-09-12 18:04:24",
+      "event_time": "9月3日 09:49"
+    },
+    {
+      "event_title": "“最快女护士”丈夫发声:并非经常调休,科室大多数护士每月能有两次或以上的完整周末",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842205777864615056&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "汤姆文库",
+      "comment_time": "09-03 19:08",
+      "comment_content": "差不多可以带货了",
+      "user_location": "重庆",
+      "like_count": 5,
+      "scrape_time": "2025-09-12 18:04:24",
+      "event_time": "9月3日 09:49"
+    },
+    {
+      "event_title": "生理期跑马拉松夺冠！女护士哭诉领导不给她调班",
+      "event_id": "event_9",
+      "event_url": "http://cj.sina.com.cn/articles/view/7880068727/1d5b04e7702002e260",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:04:26",
+      "event_time": "9月2日 16:44"
+    },
+    {
+      "event_title": "“最快女护士”跑马夺冠后,哭求“领导支持调休”,网友吵翻了",
+      "event_id": "event_10",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842135813540268788&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "赵欣慰168",
+      "comment_time": "09-02 16:47",
+      "comment_content": "要求支持没有错，给单位也有荣誉，，，",
+      "user_location": "上海",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:04:41",
+      "event_time": "9月2日 15:20"
+    },
+    {
+      "event_title": "“最快女护士”跑马夺冠后,哭求“领导支持调休”,网友吵翻了",
+      "event_id": "event_10",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842135813540268788&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "男神的锁心尘",
+      "comment_time": "09-02 16:45",
+      "comment_content": "张护士带病夺冠真拼，希望她的努力能被理解。（15字）",
+      "user_location": "湖北",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:04:41",
+      "event_time": "9月2日 15:20"
+    },
+    {
+      "event_title": "“最快女护士”哭求领导支持调休引争议",
+      "event_id": "event_11",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9203612203577826278",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:04:43",
+      "event_time": "9月2日 12:35"
+    },
+    {
+      "event_title": "护士全马夺冠后续:三个月参赛十次,喊话调休惹争议,网友:情商低",
+      "event_id": "event_12",
+      "event_url": "http://www.163.com/dy/article/K8EP2MH40556E2D3.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:04:45",
+      "event_time": "9月2日 10:39"
+    },
+    {
+      "event_title": "“最快女护士”哭求调休跑马拉松,福州市卫健委回应",
+      "event_id": "event_13",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31528994",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:04:47",
+      "event_time": "9月2日 10:39"
+    },
+    {
+      "event_title": "哈尔滨马拉松张水华哭求调休参赛",
+      "event_id": "event_14",
+      "event_url": "http://cj.sina.com.cn/articles/view/7879923942/1d5ae18e602001l4vu",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:04:49",
+      "event_time": "9月1日 21:39"
+    },
+    {
+      "event_title": "“最快女护士”哭求领导支持调休跑马引热议，其个人账号已关评",
+      "event_id": "event_15",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842105467875227638&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "咸鱼Rr19",
+      "comment_time": "09-02 14:11",
+      "comment_content": "利精主义者  可笑",
+      "user_location": "广东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:05:05",
+      "event_time": "9月1日 14:43"
+    },
+    {
+      "event_title": "“最快女护士”哭求领导支持调休跑马引热议，其个人账号已关评",
+      "event_id": "event_15",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842105467875227638&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "热烈又飘然丶光芒6",
+      "comment_time": "09-02 12:15",
+      "comment_content": "张水华护士跑马夺冠真棒，兼顾工作与热爱不易，为你点赞。",
+      "user_location": "江西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:05:05",
+      "event_time": "9月1日 14:43"
+    },
+    {
+      "event_title": "女护士马拉松夺冠喊话领导要调休",
+      "event_id": "event_16",
+      "event_url": "http://cj.sina.com.cn/articles/view/2131593523/7f0d893302001l6po",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:05:07",
+      "event_time": "9月1日 13:59"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 16,
+    "total_comments": 25,
+    "events_with_comments": 16,
+    "level1_scrape_time": "2025-09-12 18:03:07",
+    "level2_scrape_time": "2025-09-12 18:05:07"
+  }
+}

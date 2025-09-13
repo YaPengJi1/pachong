@@ -1,0 +1,59 @@
+{
+  "core_event_name": "特朗普宣布美军袭击一艘运毒船",
+  "comments": [
+    {
+      "event_title": "特朗普一声令下，美军向委内瑞拉船只猛烈开火，加勒比海全速升温",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11394051530609574457",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:17:14",
+      "event_time": "9月5日 11:17"
+    },
+    {
+      "event_title": "特朗普炫耀美军在加勒比海真实打死11人",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/2025-09-05/detail-infpkany3149589.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:17:16",
+      "event_time": "9月5日 00:22"
+    },
+    {
+      "event_title": "特朗普下令美军袭击一艘“运毒船”打死11人",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842243087503145985&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "郭乃奶bCA",
+      "comment_time": "09-03 19:56",
+      "comment_content": "愿世界和平，毒品远离，未来更美好！",
+      "user_location": "河北",
+      "like_count": 1,
+      "scrape_time": "2025-09-13 02:17:32",
+      "event_time": "9月3日 13:27"
+    },
+    {
+      "event_title": "凌晨!特朗普重大宣布!美军发动袭击",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5575629538371661018",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:17:34",
+      "event_time": "9月3日 12:22"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-13 02:17:34"
+}

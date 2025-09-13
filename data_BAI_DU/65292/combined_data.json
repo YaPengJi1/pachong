@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 21:47:45"
+  },
+  "core_event": {
+    "core_event_name": "岚图汽车重启之路",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:47:06"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "东风汽车重启之路始于岚图上市",
+      "link": "http://baijiahao.baidu.com/s?id=1842381269916763709&wfr=spider&for=pc",
+      "time": "9月5日 08:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "岚图汽车2026款梦想家能否成高端新能源MPV爆款?",
+      "link": "http://www.pconline.com.cn/zhizao/1972/19724873.html",
+      "time": "9月2日 10:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "岚图追光 L 旗舰轿车今年四季度上市",
+      "link": "http://k.sina.com.cn/article_1826017320_6cd6d02802001gqbs.html",
+      "time": "8月31日 16:36",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "东风汽车重启之路始于岚图上市",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842381269916763709&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "dante822",
+      "comment_time": "09-05 13:54",
+      "comment_content": "岚图现在的调性我很喜欢，不张扬但有实力",
+      "user_location": "浙江",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:47:37",
+      "event_time": "9月5日 08:21"
+    },
+    {
+      "event_title": "东风汽车重启之路始于岚图上市",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842381269916763709&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "蜂蜜威士忌",
+      "comment_time": "09-05 18:28",
+      "comment_content": "感觉岚图是逐渐走出了属于自己的风格",
+      "user_location": "浙江",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:47:37",
+      "event_time": "9月5日 08:21"
+    },
+    {
+      "event_title": "东风汽车重启之路始于岚图上市",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842381269916763709&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "上海的刘昊然",
+      "comment_time": "09-05 08:34",
+      "comment_content": "东风重启挺明智，岚图上市展新颜。新能源赛道跑得正欢。",
+      "user_location": "山东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:47:37",
+      "event_time": "9月5日 08:21"
+    },
+    {
+      "event_title": "岚图汽车2026款梦想家能否成高端新能源MPV爆款?",
+      "event_id": "event_2",
+      "event_url": "http://www.pconline.com.cn/zhizao/1972/19724873.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:47:39",
+      "event_time": "9月2日 10:44"
+    },
+    {
+      "event_title": "岚图追光 L 旗舰轿车今年四季度上市",
+      "event_id": "event_3",
+      "event_url": "http://k.sina.com.cn/article_1826017320_6cd6d02802001gqbs.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:47:41",
+      "event_time": "8月31日 16:36"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 5,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 21:47:21",
+    "level2_scrape_time": "2025-09-12 21:47:41"
+  }
+}

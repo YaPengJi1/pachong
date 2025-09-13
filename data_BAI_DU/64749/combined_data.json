@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:58:06"
+  },
+  "core_event": {
+    "core_event_name": "蔚来2025年第二季度业绩",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:57:28"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "蔚来2025年第二季度净亏损49.9亿元同比收窄1%",
+      "link": "http://k.sina.cn/article_5952915720_162d2490806702eknw.html",
+      "time": "9月4日 20:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "蔚来汽车业绩喜忧参半，股价反弹缺乏动能",
+      "link": "http://baijiahao.baidu.com/s?id=1842236889476363412&wfr=spider&for=pc",
+      "time": "9月3日 17:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "李斌:用户不买蔚来车 30%-40% 因担心倒闭,四季度盈利成关键",
+      "link": "http://www.ithome.com/0/879/228.htm",
+      "time": "8月30日 16:40",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "蔚来2025年第二季度净亏损49.9亿元同比收窄1%",
+      "event_id": "event_1",
+      "event_url": "http://k.sina.cn/article_5952915720_162d2490806702eknw.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:57:44",
+      "event_time": "9月4日 20:10"
+    },
+    {
+      "event_title": "蔚来汽车业绩喜忧参半，股价反弹缺乏动能",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842236889476363412&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:58:00",
+      "event_time": "9月3日 17:16"
+    },
+    {
+      "event_title": "李斌:用户不买蔚来车 30%-40% 因担心倒闭,四季度盈利成关键",
+      "event_id": "event_3",
+      "event_url": "http://www.ithome.com/0/879/228.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:58:02",
+      "event_time": "8月30日 16:40"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-13 01:57:43",
+    "level2_scrape_time": "2025-09-13 01:58:02"
+  }
+}

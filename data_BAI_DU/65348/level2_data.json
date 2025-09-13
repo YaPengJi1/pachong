@@ -1,0 +1,46 @@
+{
+  "core_event_name": "Strategy公司入选标普500指数",
+  "comments": [
+    {
+      "event_title": "Strategy公司已满足入选标普500指数条件",
+      "event_id": "event_1",
+      "event_url": "http://finance.eastmoney.com/a/202509053506134559.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:35:52",
+      "event_time": "9月5日 16:18"
+    },
+    {
+      "event_title": "700亿美元比特币储备引机构关注",
+      "event_id": "event_2",
+      "event_url": "http://www.sohu.com/a/931977043_121976703",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:35:54",
+      "event_time": "9月5日 01:18"
+    },
+    {
+      "event_title": "Strategy或成标普500指数成份股中首家以比特币为核心的企业",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8L91T5905566WVY.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:35:56",
+      "event_time": "9月4日 23:14"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 22:35:56"
+}

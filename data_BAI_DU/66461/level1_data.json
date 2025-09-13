@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "苹果17系列手机发布",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:08:50"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "首次加入VC散热、玻璃+铝金属拼接机身!iPhone 17 Pro/Pro Max发布",
+      "link": "http://news.mydrivers.com/1/1073/1073532.htm",
+      "time": "9月10日 02:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "iPhone 17 Air惊艳消息曝光",
+      "link": "http://mobile.zol.com.cn/1044/10441126.html",
+      "time": "9月9日 07:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "传京东方获iPhone 17 Pro OLED订单!首批超200万台",
+      "link": "http://baijiahao.baidu.com/s?id=1842692844407960993&wfr=spider&for=pc",
+      "time": "9月8日 18:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "苹果秋季发布会临近,iPhone 17系列渲染图曝光,副屏设计引热议",
+      "link": "http://mobile.zol.com.cn/1044/10441050.html",
+      "time": "9月8日 16:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "iPhone 17 Pro灵动岛缩小,设计、影像、性能全面升级",
+      "link": "http://mobile.zol.com.cn/1042/10420519.html",
+      "time": "9月6日 11:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "iPhone 17 Pro相机功能曝光:视频录制大升级,搭载可变光圈系统",
+      "link": "http://www.163.com/dy/article/K8OJRVVM055680UT.html",
+      "time": "9月6日 06:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "iPhone 17 系列运行内存曝光",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2704923948521528112",
+      "time": "9月5日 22:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "iPhone 17 Pro Max曝光",
+      "link": "http://baijiahao.baidu.com/s?id=1842314784952613209&wfr=spider&for=pc",
+      "time": "9月4日 14:50",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-12 15:09:05"
+}

@@ -1,0 +1,92 @@
+{
+  "core_info": {
+    "core_event_name": "公募费率改革",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:30:34"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "公募费率改革进入最后关键一步",
+      "link": "http://new.qq.com/rain/a/20250910A025YX00",
+      "time": "9月10日 09:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "公募费率改革打响收官战",
+      "link": "http://www.163.com/dy/article/K8VHAN6A0519DDQ2.html",
+      "time": "9月8日 22:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "费率新规出台，公募债基笑容逐渐消失",
+      "link": "http://baijiahao.baidu.com/s?id=1842692391415404286&wfr=spider&for=pc",
+      "time": "9月8日 18:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "公募改革每年将让利超500亿元",
+      "link": "http://finance.sina.cn/2025-09-08/detail-infpumzm4574009.d.html",
+      "time": "9月8日 15:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "公募基金费率改革迈入第三阶段",
+      "link": "http://baijiahao.baidu.com/s?id=1842656383373723494&wfr=spider&for=pc",
+      "time": "9月8日 09:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "公募基金费率改革再下一城",
+      "link": "http://finance.sina.cn/2025-09-08/detail-infptvcp4512601.d.html",
+      "time": "9月8日 08:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "引导长期投资 公募基金销售费率拟调降",
+      "link": "http://finance.sina.cn/2025-09-08/detail-infpsxxu8123430.d.html",
+      "time": "9月8日 00:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "费率改革进入第三阶段,多家机构发声",
+      "link": "http://finance.sina.cn/2025-09-06/detail-infpqeca1220638.d.html",
+      "time": "9月6日 18:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "公募基金降费改革收官在即 每年让利有望超500亿元",
+      "link": "http://finance.eastmoney.com/a/202509063506715493.html",
+      "time": "9月6日 08:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "调降销售环节费率 公募基金费率改革顺利收官",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmzec0690077.d.html",
+      "time": "9月5日 20:22",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 10,
+  "scrape_time": "2025-09-12 10:30:48"
+}

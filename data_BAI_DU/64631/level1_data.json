@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "北方稀土股价跌5.03%",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:40:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "北方稀土股价跌5.03%,嘉实基金旗下2只基金位居十大流通股东",
+      "link": "http://baijiahao.baidu.com/s?id=1842300486262267381&wfr=spider&for=pc",
+      "time": "9月4日 10:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "北方稀土股价跌5.03%,华夏基金旗下1只基金位居十大流通股东",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infphyzp1887066.d.html",
+      "time": "9月4日 10:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "北方稀土股价跌5.03%,易方达基金位居十大流通股东",
+      "link": "http://www.163.com/dy/article/K8JUSOCV05568W0A.html",
+      "time": "9月4日 10:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "北方稀土股价跌5.03%,华泰柏瑞基金位居十大流通股东",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infphyzp1886878.d.html",
+      "time": "9月4日 10:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "北方稀土股价跌5.03%,富国基金旗下2只基金重仓,合计持有192.77万股浮亏损失520.48万元",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 01:41:06"
+}

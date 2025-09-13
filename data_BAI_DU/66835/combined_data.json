@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:17:06"
+  },
+  "core_event": {
+    "core_event_name": "国足10-0大胜，王钰栋7球，U23国足晋级",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:16:42"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U22国足0-0澳大利亚，晋级亚洲杯",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7631228490509089385",
+      "time": "9月9日 22:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "国足10-0大胜，两连胜仍受质疑",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11026934801276575118",
+      "time": "9月8日 18:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U23国足平局线考验安东尼奥",
+      "link": "http://www.163.com/dy/article/K8U7G0C60556DPBH.html",
+      "time": "9月8日 10:40",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "U22国足0-0澳大利亚，晋级亚洲杯",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7631228490509089385",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:16:57",
+      "event_time": "9月9日 22:03"
+    },
+    {
+      "event_title": "国足10-0大胜，两连胜仍受质疑",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11026934801276575118",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:16:59",
+      "event_time": "9月8日 18:30"
+    },
+    {
+      "event_title": "U23国足平局线考验安东尼奥",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8U7G0C60556DPBH.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:17:01",
+      "event_time": "9月8日 10:40"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 10:16:56",
+    "level2_scrape_time": "2025-09-12 10:17:01"
+  }
+}

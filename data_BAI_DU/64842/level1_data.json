@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "美国军舰进驻加勒比海围堵委内瑞拉",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:45:46"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "委内瑞拉启动全国民兵动员应对美国威胁 总台记者探访委内瑞拉民兵训练营",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13212923849484195120",
+      "time": "9月7日 19:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美国8艘军舰进驻加勒比海,只为围堵委内瑞拉“阿拉瓜火车”?",
+      "link": "http://baijiahao.baidu.com/s?id=1842409967949464633&wfr=spider&for=pc",
+      "time": "9月5日 15:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美国动手击毁委内瑞拉船只 马杜罗怂了称可以合作",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7864063841842215815",
+      "time": "9月5日 11:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美军4舰1潜压境委内瑞拉，委400万民兵硬碰硬?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16874517482230422746",
+      "time": "9月3日 14:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美军舰炸委内瑞拉贩毒船",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9866696762307324104",
+      "time": "9月3日 11:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "8艘美国军舰、1200枚导弹和1艘核潜艇正“瞄准”委内瑞拉,已有820万人自愿加入民兵组织",
+      "link": "http://finance.sina.cn/2025-09-02/detail-infpahpq0360795.d.html",
+      "time": "9月2日 09:04",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 17:46:00"
+}

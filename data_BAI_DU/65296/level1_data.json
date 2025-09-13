@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普与泽连斯基通话，欧洲提供乌克兰安全保障",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:50:00"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普拟4日致电泽连斯基,欧洲可向乌克兰提供安全保障",
+      "link": "http://www.sohu.com/a/932174716_122158594",
+      "time": "9月5日 14:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "泽连斯基与特朗普通话,讨论追加对俄制裁!特朗普:将很快与普京通话",
+      "link": "http://baijiahao.baidu.com/s?id=1842382474974953997&wfr=spider&for=pc",
+      "time": "9月5日 08:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "欧洲多国召开乌克兰安全保障峰会",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12122525763144257253",
+      "time": "9月4日 16:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普称4日将与泽连斯基通话,并计划未来几天与普京交谈",
+      "link": "http://k.sina.cn/article_5044281310_12ca99fde02002f3lq.html",
+      "time": "9月4日 15:04",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 21:50:14"
+}

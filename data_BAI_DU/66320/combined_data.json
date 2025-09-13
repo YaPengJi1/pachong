@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:37:34"
+  },
+  "core_event": {
+    "core_event_name": "台风“塔巴”逼近",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:36:35"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "广东广西等台风“塔巴”影响区域部分河流或发生超警以上洪水",
+      "link": "http://baijiahao.baidu.com/s?id=1842672480514072307&wfr=spider&for=pc",
+      "time": "9月8日 13:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "台风“塔巴”来了!8-9日广西将迎大雨到暴雨 局地大暴雨或特大暴雨 台风四级预警拉响!",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31567723",
+      "time": "9月7日 19:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "广东68个台风预警信号生效中",
+      "link": "http://baijiahao.baidu.com/s?id=1842575799192248692&wfr=spider&for=pc",
+      "time": "9月7日 11:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "台风“塔巴”要来了",
+      "link": "http://m.gmw.cn/2025-09/07/content_1304138357.htm",
+      "time": "9月7日 10:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "台风“塔巴”生成",
+      "link": "http://weibo.com/1871802012/Q3lTFCLmG",
+      "time": "9月6日 21:30",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "广东广西等台风“塔巴”影响区域部分河流或发生超警以上洪水",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842672480514072307&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:37:08",
+      "event_time": "9月8日 13:29"
+    },
+    {
+      "event_title": "台风“塔巴”来了!8-9日广西将迎大雨到暴雨 局地大暴雨或特大暴雨 台风四级预警拉响!",
+      "event_id": "event_2",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31567723",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:37:10",
+      "event_time": "9月7日 19:38"
+    },
+    {
+      "event_title": "广东68个台风预警信号生效中",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842575799192248692&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "气质女神plus",
+      "comment_time": "09-07 12:01",
+      "comment_content": "台风要来了，大家注意安全少出门。提前防范风雨，保护好自己。",
+      "user_location": "陕西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:37:26",
+      "event_time": "9月7日 11:53"
+    },
+    {
+      "event_title": "台风“塔巴”要来了",
+      "event_id": "event_4",
+      "event_url": "http://m.gmw.cn/2025-09/07/content_1304138357.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:37:28",
+      "event_time": "9月7日 10:56"
+    },
+    {
+      "event_title": "台风“塔巴”生成",
+      "event_id": "event_5",
+      "event_url": "http://weibo.com/1871802012/Q3lTFCLmG",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:37:30",
+      "event_time": "9月6日 21:30"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 14:36:50",
+    "level2_scrape_time": "2025-09-12 14:37:30"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "core_event_name": "科创芯片ETF指数翻红",
+  "comments": [
+    {
+      "event_title": "科创半导体ETF涨超2%,天岳先进涨停",
+      "event_id": "event_1",
+      "event_url": "http://www.nbd.com.cn/articles/2025-09-05/4050170.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:09:11",
+      "event_time": "9月5日 13:52"
+    },
+    {
+      "event_title": "华为麒麟芯片,时隔四年正式回归",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842390881961998912&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "下厨子的Tony",
+      "comment_time": "09-05 12:24",
+      "comment_content": "这四年不容易啊，麒麟芯片真争气！背后付出终于能大大方方亮出来了。",
+      "user_location": "辽宁",
+      "like_count": 3,
+      "scrape_time": "2025-09-12 23:09:29",
+      "event_time": "9月5日 12:00"
+    },
+    {
+      "event_title": "华为麒麟芯片,时隔四年正式回归",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842390881961998912&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "云表无代码Paas平台作者",
+      "comment_time": "09-05 15:23",
+      "comment_content": "是的",
+      "user_location": "广东",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 23:09:29",
+      "event_time": "9月5日 12:00"
+    },
+    {
+      "event_title": "科创芯片ETF基金涨2.01%,半日成交额1.71亿元",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.cn/2025-09-05/detail-infpmcyp1010528.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:09:31",
+      "event_time": "9月5日 11:33"
+    },
+    {
+      "event_title": "麒麟芯片正式“回归”",
+      "event_id": "event_4",
+      "event_url": "http://www.nbd.com.cn/articles/2025-09-05/4049886.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:09:33",
+      "event_time": "9月5日 10:01"
+    },
+    {
+      "event_title": "半导体强势翻红，科创芯片ETF指数红盘向上",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8HCT9MU051987V2.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:09:35",
+      "event_time": "9月3日 11:04"
+    }
+  ],
+  "total_comments": 6,
+  "scrape_time": "2025-09-12 23:09:35"
+}

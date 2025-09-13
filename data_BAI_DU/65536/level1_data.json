@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "美网女单决赛萨巴伦卡VS阿尼西莫娃",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:29:12"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美网决赛时间定了",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_3390335892909885953",
+      "time": "9月5日 17:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美网女单决赛对阵出炉，萨巴伦卡连续3年晋级",
+      "link": "http://sports.sina.cn/others/2025-09-05/detail-infpmuwf0753788.d.html",
+      "time": "9月5日 17:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "萨巴伦卡挺进美网2025女单决赛",
+      "link": "http://v.youku.com/v_show/id_XNjQ5MTc3NzcxMg==.html",
+      "time": "9月5日 15:53",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-13 01:29:26"
+}

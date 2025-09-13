@@ -1,0 +1,240 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:26:34"
+  },
+  "core_event": {
+    "core_event_name": "梅西世预赛追平C罗，打入36球",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:25:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "梅西主场2球独舞 世预赛36球追平C罗 8万人致敬球王",
+      "link": "http://finance.sina.com.cn/roll/2025-09-08/doc-infptvct4810533.shtml",
+      "time": "9月8日 09:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "梅西世预赛36球分布:玻利维亚7球+委内瑞拉6球 仅剩巴西还没攻破",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hkae",
+      "time": "9月7日 09:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "世预赛进球榜:C罗37球超越梅西独占第二,距第一仅差2球",
+      "link": "http://www.dongqiudi.com/articles/5358430.html",
+      "time": "9月7日 00:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "C罗超越梅西，成为世预赛历史射手榜第二",
+      "link": "http://baijiahao.baidu.com/s?id=1842533751970462045&wfr=spider&for=pc",
+      "time": "9月7日 00:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "梅西打入生涯世预赛第36球",
+      "link": "http://weibo.com/6076885743/Q3aXlzxDB",
+      "time": "9月5日 17:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "小蜘蛛谈助攻梅西:我本想射门,看到他过来就传给了他",
+      "link": "http://www.dongqiudi.com/articles/5355476.html",
+      "time": "9月5日 12:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "劳塔罗:我非常感谢梅西为阿根廷国家队和足球所做的一切",
+      "link": "http://www.dongqiudi.com/articles/5355247.html",
+      "time": "9月5日 10:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "梅开二度!梅西世预赛最后一个主场,阿根廷大胜委内瑞拉",
+      "link": "http://baijiahao.baidu.com/s?id=1842386628739462098&wfr=spider&for=pc",
+      "time": "9月5日 09:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "南美世预赛实时射手榜:梅西7球与迪亚斯并列第一",
+      "link": "http://news.sohu.com/a/932027440_362070",
+      "time": "9月5日 08:38",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "梅西主场2球独舞 世预赛36球追平C罗 8万人致敬球王",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.com.cn/roll/2025-09-08/doc-infptvct4810533.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:25:46",
+      "event_time": "9月8日 09:35"
+    },
+    {
+      "event_title": "梅西世预赛36球分布:玻利维亚7球+委内瑞拉6球 仅剩巴西还没攻破",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hkae",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:25:48",
+      "event_time": "9月7日 09:28"
+    },
+    {
+      "event_title": "世预赛进球榜:C罗37球超越梅西独占第二,距第一仅差2球",
+      "event_id": "event_3",
+      "event_url": "http://www.dongqiudi.com/articles/5358430.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:25:50",
+      "event_time": "9月7日 00:46"
+    },
+    {
+      "event_title": "C罗超越梅西，成为世预赛历史射手榜第二",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842533751970462045&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "修街八晗0X",
+      "comment_time": "09-09 17:36",
+      "comment_content": "这种数据有毛用，刷刷存在感，",
+      "user_location": "北京",
+      "like_count": 1,
+      "scrape_time": "2025-09-13 02:26:06",
+      "event_time": "9月7日 00:44"
+    },
+    {
+      "event_title": "C罗超越梅西，成为世预赛历史射手榜第二",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842533751970462045&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "z21Q0xfDq",
+      "comment_time": "09-09 17:04",
+      "comment_content": "C罗这场踢得真猛，超过梅西排第二，只差两球就追平纪录了。",
+      "user_location": "广西",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:26:06",
+      "event_time": "9月7日 00:44"
+    },
+    {
+      "event_title": "梅西打入生涯世预赛第36球",
+      "event_id": "event_5",
+      "event_url": "http://weibo.com/6076885743/Q3aXlzxDB",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:26:08",
+      "event_time": "9月5日 17:39"
+    },
+    {
+      "event_title": "小蜘蛛谈助攻梅西:我本想射门,看到他过来就传给了他",
+      "event_id": "event_6",
+      "event_url": "http://www.dongqiudi.com/articles/5355476.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:26:10",
+      "event_time": "9月5日 12:04"
+    },
+    {
+      "event_title": "劳塔罗:我非常感谢梅西为阿根廷国家队和足球所做的一切",
+      "event_id": "event_7",
+      "event_url": "http://www.dongqiudi.com/articles/5355247.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:26:12",
+      "event_time": "9月5日 10:02"
+    },
+    {
+      "event_title": "梅开二度!梅西世预赛最后一个主场,阿根廷大胜委内瑞拉",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842386628739462098&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "大战山姆",
+      "comment_time": "09-05 14:26",
+      "comment_content": "梅西了不起",
+      "user_location": "广东",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:26:28",
+      "event_time": "9月5日 09:48"
+    },
+    {
+      "event_title": "梅开二度!梅西世预赛最后一个主场,阿根廷大胜委内瑞拉",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842386628739462098&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "Hey你有fre啊",
+      "comment_time": "09-05 10:41",
+      "comment_content": "梅西主场梅开二度完美谢幕，看得人感动。传奇继续，岁月静好。",
+      "user_location": "天津",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:26:28",
+      "event_time": "9月5日 09:48"
+    },
+    {
+      "event_title": "南美世预赛实时射手榜:梅西7球与迪亚斯并列第一",
+      "event_id": "event_9",
+      "event_url": "http://news.sohu.com/a/932027440_362070",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:26:30",
+      "event_time": "9月5日 08:38"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 9,
+    "total_comments": 11,
+    "events_with_comments": 9,
+    "level1_scrape_time": "2025-09-13 02:25:45",
+    "level2_scrape_time": "2025-09-13 02:26:30"
+  }
+}

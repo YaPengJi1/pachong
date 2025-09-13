@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "2025国际机场博览会",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:36:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "2025国际机场博览会在穗举办 逾170家机场参与",
+      "link": "http://baijiahao.baidu.com/s?id=1842880977235489274&wfr=spider&for=pc",
+      "time": "9月10日 20:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "建筑“黑科技”亮相2025国际机场博览会，智能建造赋能航空枢纽新发展",
+      "link": "http://k.sina.com.cn/article_2131593523_7f0d893302001lbjw.html",
+      "time": "9月10日 11:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中建一局携五大核心技术亮相广州",
+      "link": "http://baijiahao.baidu.com/s?id=1842780502917557322&wfr=spider&for=pc",
+      "time": "9月9日 16:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "2025国际机场博览会开幕",
+      "link": "http://baijiahao.baidu.com/s?id=1842765246546946521&wfr=spider&for=pc",
+      "time": "9月9日 14:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "广州白云机场“五跑三楼”超大型枢纽即将成型",
+      "link": "http://new.qq.com/rain/a/20250909A00LCK00",
+      "time": "9月9日 00:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "2025国际机场博览会暨第十届中国机场服务大会举办",
+      "link": "http://baijiahao.baidu.com/s?id=1842731409768727016&wfr=spider&for=pc",
+      "time": "9月8日 20:45",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 10:36:45"
+}

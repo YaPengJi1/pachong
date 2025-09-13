@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:24:41"
+  },
+  "core_event": {
+    "core_event_name": "田栩宁登Metal母版封面",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:24:08"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "田栩宁《Metal》杂志3分钟售罄",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7674212633600160319",
+      "time": "9月8日 13:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "田栩宁首登Metal九月刊封面",
+      "link": "http://cj.sina.com.cn/articles/view/1921868697/p728d639902701j9gs",
+      "time": "9月8日 12:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "田栩宁首登母版METAL封面",
+      "link": "http://cj.sina.com.cn/articles/view/6082018114/p16a843b4202701nx8c",
+      "time": "9月5日 11:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "田栩宁成第二位登Metal母版亚洲男星",
+      "link": "http://cj.sina.com.cn/articles/view/5888328091/p15ef8c19b02702yyga",
+      "time": "9月5日 11:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "田栩宁首登《Metal》杂志，双刊联动，释放时尚表现力",
+      "link": "http://cj.sina.com.cn/articles/view/2477330237/p93a90f3d027018578",
+      "time": "9月5日 10:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "田栩宁登Metal母刊双版封面,成亚洲第二位男星",
+      "link": "http://cj.sina.com.cn/articles/view/5888328091/p15ef8c19b02702yxm4",
+      "time": "9月4日 20:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "田栩宁金九五套高定男装亮相 费加罗",
+      "link": "http://cj.sina.com.cn/articles/view/5888328091/p15ef8c19b02702ywts",
+      "time": "9月4日 11:24",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "田栩宁《Metal》杂志3分钟售罄",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7674212633600160319",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:24:24",
+      "event_time": "9月8日 13:23"
+    },
+    {
+      "event_title": "田栩宁首登Metal九月刊封面",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/1921868697/p728d639902701j9gs",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:24:26",
+      "event_time": "9月8日 12:09"
+    },
+    {
+      "event_title": "田栩宁首登母版METAL封面",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/6082018114/p16a843b4202701nx8c",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:24:28",
+      "event_time": "9月5日 11:29"
+    },
+    {
+      "event_title": "田栩宁成第二位登Metal母版亚洲男星",
+      "event_id": "event_4",
+      "event_url": "http://cj.sina.com.cn/articles/view/5888328091/p15ef8c19b02702yyga",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:24:30",
+      "event_time": "9月5日 11:00"
+    },
+    {
+      "event_title": "田栩宁首登《Metal》杂志，双刊联动，释放时尚表现力",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/2477330237/p93a90f3d027018578",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:24:32",
+      "event_time": "9月5日 10:20"
+    },
+    {
+      "event_title": "田栩宁登Metal母刊双版封面,成亚洲第二位男星",
+      "event_id": "event_6",
+      "event_url": "http://cj.sina.com.cn/articles/view/5888328091/p15ef8c19b02702yxm4",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:24:34",
+      "event_time": "9月4日 20:09"
+    },
+    {
+      "event_title": "田栩宁金九五套高定男装亮相 费加罗",
+      "event_id": "event_7",
+      "event_url": "http://cj.sina.com.cn/articles/view/5888328091/p15ef8c19b02702ywts",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:24:36",
+      "event_time": "9月4日 11:24"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 14:24:23",
+    "level2_scrape_time": "2025-09-12 14:24:36"
+  }
+}

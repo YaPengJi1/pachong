@@ -1,0 +1,193 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:28:38"
+  },
+  "core_event": {
+    "core_event_name": "全国劳模受邀观礼九三阅兵",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:27:35"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "浙江5名新的社会阶层代表人士受邀现场观看九三阅兵",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31552841",
+      "time": "9月6日 14:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "全国劳动模范李彩芸受邀观礼九三阅兵",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31544002",
+      "time": "9月4日 22:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "缅怀先烈、凝心聚力 感怀先辈爱国之举 为祖国发展成就感到自豪",
+      "link": "http://www.syd.com.cn/newscenter/content/2025-09/04/content_197270.html",
+      "time": "9月4日 16:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "廖志略受邀参加阅兵观礼",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31537344",
+      "time": "9月3日 21:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "胡洪炜受邀观礼，曾是阅兵保电突击队员",
+      "link": "http://news.cnhubei.com/content/2025-09/03/content_19472282.html",
+      "time": "9月3日 18:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "中国一汽周时莹受邀现场参加阅兵观礼",
+      "link": "http://baijiahao.baidu.com/s?id=1842227106214231870&wfr=spider&for=pc",
+      "time": "9月3日 14:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "羡慕!这些句容人受邀观礼九三阅兵",
+      "link": "http://baijiahao.baidu.com/s?id=1842239280381261179&wfr=spider&for=pc",
+      "time": "9月3日 09:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "第三次观礼阅兵!尹计平:这是所有劳动者共同的荣耀",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "浙江5名新的社会阶层代表人士受邀现场观看九三阅兵",
+      "event_id": "event_1",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31552841",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:27:50",
+      "event_time": "9月6日 14:49"
+    },
+    {
+      "event_title": "全国劳动模范李彩芸受邀观礼九三阅兵",
+      "event_id": "event_2",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31544002",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:27:52",
+      "event_time": "9月4日 22:45"
+    },
+    {
+      "event_title": "缅怀先烈、凝心聚力 感怀先辈爱国之举 为祖国发展成就感到自豪",
+      "event_id": "event_3",
+      "event_url": "http://www.syd.com.cn/newscenter/content/2025-09/04/content_197270.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:27:54",
+      "event_time": "9月4日 16:21"
+    },
+    {
+      "event_title": "廖志略受邀参加阅兵观礼",
+      "event_id": "event_4",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31537344",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:27:56",
+      "event_time": "9月3日 21:02"
+    },
+    {
+      "event_title": "胡洪炜受邀观礼，曾是阅兵保电突击队员",
+      "event_id": "event_5",
+      "event_url": "http://news.cnhubei.com/content/2025-09/03/content_19472282.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:27:58",
+      "event_time": "9月3日 18:45"
+    },
+    {
+      "event_title": "中国一汽周时莹受邀现场参加阅兵观礼",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842227106214231870&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:28:15",
+      "event_time": "9月3日 14:26"
+    },
+    {
+      "event_title": "羡慕!这些句容人受邀观礼九三阅兵",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842239280381261179&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:28:32",
+      "event_time": "9月3日 09:41"
+    },
+    {
+      "event_title": "第三次观礼阅兵!尹计平:这是所有劳动者共同的荣耀",
+      "event_id": "event_8",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:28:34",
+      "event_time": "1970年"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 8,
+    "total_comments": 8,
+    "events_with_comments": 8,
+    "level1_scrape_time": "2025-09-12 17:27:49",
+    "level2_scrape_time": "2025-09-12 17:28:34"
+  }
+}

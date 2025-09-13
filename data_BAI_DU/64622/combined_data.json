@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:33:33"
+  },
+  "core_event": {
+    "core_event_name": "胡塞高层被以军“一锅端”",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:32:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "也门胡塞12位高官葬礼背后:以色列空袭一锅端,谁泄了情报?",
+      "link": "http://baijiahao.baidu.com/s?id=1842334812971434443&wfr=spider&for=pc",
+      "time": "9月4日 20:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "胡塞大批高层被精准炸死，泄密来源直指联合国，当地机构恐有猫腻",
+      "link": "http://www.163.com/dy/article/K8HC386S055616WO.html",
+      "time": "9月3日 10:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "胡塞高层刚开始会议,头顶飞来10枚导弹,直接被以军“一锅端”",
+      "link": "http://app.myzaker.com/news/article.php?m=1756820142&pk=68b673178e9f0917a74ca530",
+      "time": "9月2日 12:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "胡塞高层刚准备庆功,10枚钻地弹从天而降,直接被以军“一锅端”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4414631102725133293",
+      "time": "9月1日 13:49",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "也门胡塞12位高官葬礼背后:以色列空袭一锅端,谁泄了情报?",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842334812971434443&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:33:23",
+      "event_time": "9月4日 20:03"
+    },
+    {
+      "event_title": "胡塞大批高层被精准炸死，泄密来源直指联合国，当地机构恐有猫腻",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8HC386S055616WO.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:33:25",
+      "event_time": "9月3日 10:50"
+    },
+    {
+      "event_title": "胡塞高层刚开始会议,头顶飞来10枚导弹,直接被以军“一锅端”",
+      "event_id": "event_3",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1756820142&pk=68b673178e9f0917a74ca530",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:33:27",
+      "event_time": "9月2日 12:31"
+    },
+    {
+      "event_title": "胡塞高层刚准备庆功,10枚钻地弹从天而降,直接被以军“一锅端”",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4414631102725133293",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:33:29",
+      "event_time": "9月1日 13:49"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-13 01:33:07",
+    "level2_scrape_time": "2025-09-13 01:33:29"
+  }
+}

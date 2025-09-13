@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:58:27"
+  },
+  "core_event": {
+    "core_event_name": "国足晋级U23亚洲杯正赛",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:57:59"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U22国足0-0战平澳大利亚,晋级U23亚洲杯正赛",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10496796318962721595",
+      "time": "9月9日 23:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "国足晋级U23亚洲杯正赛",
+      "link": "http://www.163.com/dy/article/K924BFIJ0550B6IS.html",
+      "time": "9月9日 23:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U22国足0-0澳大利亚，晋级亚洲杯",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7631228490509089385",
+      "time": "9月9日 22:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "王钰栋带伤硬撑，U23国足平局线考验安东尼奥",
+      "link": "http://www.163.com/dy/article/K8U7G0C60556DPBH.html",
+      "time": "9月8日 10:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "U22国足10-0战胜北马里亚纳群岛队",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8513342972476643309",
+      "time": "9月6日 22:40",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "U22国足0-0战平澳大利亚,晋级U23亚洲杯正赛",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10496796318962721595",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:58:15",
+      "event_time": "9月9日 23:32"
+    },
+    {
+      "event_title": "国足晋级U23亚洲杯正赛",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K924BFIJ0550B6IS.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:58:17",
+      "event_time": "9月9日 23:02"
+    },
+    {
+      "event_title": "U22国足0-0澳大利亚，晋级亚洲杯",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7631228490509089385",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:58:19",
+      "event_time": "9月9日 22:03"
+    },
+    {
+      "event_title": "王钰栋带伤硬撑，U23国足平局线考验安东尼奥",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8U7G0C60556DPBH.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:58:21",
+      "event_time": "9月8日 10:40"
+    },
+    {
+      "event_title": "U22国足10-0战胜北马里亚纳群岛队",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8513342972476643309",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:58:23",
+      "event_time": "9月6日 22:40"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 14:58:14",
+    "level2_scrape_time": "2025-09-12 14:58:23"
+  }
+}

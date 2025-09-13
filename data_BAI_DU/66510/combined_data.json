@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:23:26"
+  },
+  "core_event": {
+    "core_event_name": "26国联军下场威胁出兵乌克兰",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:22:41"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "26国联军下场,威胁出兵乌克兰,普京放话:敢来就打",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=914582772168603818",
+      "time": "9月9日 10:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "26国出兵乌克兰,中方回应,普京警告北约",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=626516001369068199",
+      "time": "9月8日 17:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "俄乌若停火,将有26国派兵入乌",
+      "link": "http://baijiahao.baidu.com/s?id=1842662541991651998&wfr=spider&for=pc",
+      "time": "9月8日 10:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "26国要派军驻乌 “保和平”,普京撂狠话:敢来就是合法打击目标",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5944117555948318233",
+      "time": "9月7日 23:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "26国联军计划曝光，350亿军援到位，普京划红线：进入即摧毁",
+      "link": "http://cj.sina.com.cn/articles/view/2294586951/88c49e47001016xpa",
+      "time": "9月6日 13:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "马克龙称26国将向乌派兵,普京:敢来就打!目前无法与泽连斯基就关键问题达成协议,进行接触意义不大",
+      "link": "http://finance.sina.com.cn/roll/2025-09-05/doc-infpmzcy5758021.shtml",
+      "time": "9月5日 20:41",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "26国联军下场,威胁出兵乌克兰,普京放话:敢来就打",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=914582772168603818",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:22:57",
+      "event_time": "9月9日 10:09"
+    },
+    {
+      "event_title": "26国出兵乌克兰,中方回应,普京警告北约",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=626516001369068199",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:22:59",
+      "event_time": "9月8日 17:20"
+    },
+    {
+      "event_title": "俄乌若停火,将有26国派兵入乌",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842662541991651998&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:23:16",
+      "event_time": "9月8日 10:52"
+    },
+    {
+      "event_title": "26国要派军驻乌 “保和平”,普京撂狠话:敢来就是合法打击目标",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5944117555948318233",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:23:18",
+      "event_time": "9月7日 23:51"
+    },
+    {
+      "event_title": "26国联军计划曝光，350亿军援到位，普京划红线：进入即摧毁",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/2294586951/88c49e47001016xpa",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:23:20",
+      "event_time": "9月6日 13:07"
+    },
+    {
+      "event_title": "马克龙称26国将向乌派兵,普京:敢来就打!目前无法与泽连斯基就关键问题达成协议,进行接触意义不大",
+      "event_id": "event_6",
+      "event_url": "http://finance.sina.com.cn/roll/2025-09-05/doc-infpmzcy5758021.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:23:22",
+      "event_time": "9月5日 20:41"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 11:22:55",
+    "level2_scrape_time": "2025-09-12 11:23:22"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "华为Mate XTs发布及性能突破",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:24:28"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "华为Mate XTs 非凡大师三折叠手机发布",
+      "link": "http://app.myzaker.com/news/article.php?m=1757383809&pk=68bf85e4b15ec0308e04d6b9",
+      "time": "9月9日 09:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "华为Mate80系列再曝猛料,影像与性能双突破",
+      "link": "http://baijiahao.baidu.com/s?id=1842682659373484351&wfr=spider&for=pc",
+      "time": "9月8日 16:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "华为 WiFi 7+ 技术支持机型公布,含 Pura80、Mate XTs 等",
+      "link": "http://baijiahao.baidu.com/s?id=1842590658556519663&wfr=spider&for=pc",
+      "time": "9月7日 15:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "华为MateXs三折叠手机支持第二代灵犀通信",
+      "link": "http://it.sohu.com/a/931953312_120195006",
+      "time": "9月4日 22:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "华为Mate XTs非凡大师正式来袭",
+      "link": "http://baijiahao.baidu.com/s?id=1842334464118955281&wfr=spider&for=pc",
+      "time": "9月4日 19:57",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 10:24:42"
+}

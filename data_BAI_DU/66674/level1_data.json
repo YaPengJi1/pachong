@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普宣布将国防部改为战争部",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:56:27"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普将“国防部”更名为“战争部”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=828716129842722002",
+      "time": "9月10日 11:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美国试飞末日飞机,特朗普:国防部更名为战争部",
+      "link": "http://cj.sina.com.cn/articles/view/7295511718/1b2d8aca602001eqri",
+      "time": "9月9日 19:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普签署行政令将美国防部更名为“战争部” 美军战略发生“重大转变”?",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEoFg5OME4YoBd05Ln75lv250908.shtml",
+      "time": "9月8日 20:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普周五签令!国防部恢复旧名“战争部”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10146417852034452058",
+      "time": "9月8日 17:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "特朗普宣称将国防部改为战争部",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15078288204082452234",
+      "time": "9月7日 19:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "美国防战略或作出重大转变",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12192048889436599848",
+      "time": "9月7日 15:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "美国 特朗普签署行政令将国防部改称“战争部”",
+      "link": "http://tv.cctv.com/2025/09/06/VIDENQGqq16UyCEgVAJBSqUG250906.shtml",
+      "time": "9月6日 12:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "特朗普将美国防部更名为“战争部”",
+      "link": "http://baijiahao.baidu.com/s?id=1842487385076351435&wfr=spider&for=pc",
+      "time": "9月6日 11:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "特朗普签署行政令将国防部改称“战争部”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8470406504351384566",
+      "time": "9月6日 09:36",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 10:56:42"
+}

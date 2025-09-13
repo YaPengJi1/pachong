@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "俄罗斯无人机侵犯北约领空",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:49:57"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "9月10日特讯!俄罗斯无人机“侵犯”北约领空,波兰强硬表态",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4800329169408895880",
+      "time": "昨天 07:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "波兰外交部长:无人机的大量使用对整个北约构成威胁。",
+      "link": "http://finance.sina.cn/7x24/2025-09-10/detail-infpzkva4060096.d.html",
+      "time": "9月10日 21:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "波兰指认“俄无人机侵犯波兰领空”,俄国防部回应",
+      "link": "http://world.huanqiu.com/article/4OGohl1rJZe",
+      "time": "9月10日 20:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "波兰军方称无人机侵犯波领空为“侵略行为”",
+      "link": "http://news.fjsen.com/wap/2025-09/10/content_32036859.htm",
+      "time": "9月10日 16:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "波兰总统纳夫罗茨基:与美国总统特朗普讨论了无人机侵犯波兰领空事件",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 10:50:11"
+}

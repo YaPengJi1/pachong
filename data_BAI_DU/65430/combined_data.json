@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 23:51:45"
+  },
+  "core_event": {
+    "core_event_name": "梅西告别阿根廷国家队",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:51:18"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "梅西生涯主场告别?阻止阿根廷卫冕的只有三队!",
+      "link": "http://www.163.com/dy/article/K8PKEMUM05566CI2.html",
+      "time": "9月6日 15:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "梅西迎来阿根廷主场最后一场正式比赛",
+      "link": "http://weibo.com/2427613143/Q3dfu2fzJ",
+      "time": "9月5日 23:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "梅西确认:这是正赛主场告别 已实现梦想",
+      "link": "http://cj.sina.com.cn/articles/view/6645066132/18c13a9940200181mg",
+      "time": "9月5日 10:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "球迷流泪欢送梅西，球王动容了",
+      "link": "http://www.163.com/dy/article/K8MFGDOO0552M4O6.html",
+      "time": "9月5日 10:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "梅西:能以这样的方式结束在阿根廷的比赛,这一直是我的梦想",
+      "link": "http://www.dongqiudi.com/articles/5355215.html",
+      "time": "9月5日 09:45",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "梅西生涯主场告别?阻止阿根廷卫冕的只有三队!",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8PKEMUM05566CI2.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:51:33",
+      "event_time": "9月6日 15:50"
+    },
+    {
+      "event_title": "梅西迎来阿根廷主场最后一场正式比赛",
+      "event_id": "event_2",
+      "event_url": "http://weibo.com/2427613143/Q3dfu2fzJ",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:51:35",
+      "event_time": "9月5日 23:29"
+    },
+    {
+      "event_title": "梅西确认:这是正赛主场告别 已实现梦想",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/6645066132/18c13a9940200181mg",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:51:37",
+      "event_time": "9月5日 10:50"
+    },
+    {
+      "event_title": "球迷流泪欢送梅西，球王动容了",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8MFGDOO0552M4O6.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:51:39",
+      "event_time": "9月5日 10:26"
+    },
+    {
+      "event_title": "梅西:能以这样的方式结束在阿根廷的比赛,这一直是我的梦想",
+      "event_id": "event_5",
+      "event_url": "http://www.dongqiudi.com/articles/5355215.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:51:41",
+      "event_time": "9月5日 09:45"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 23:51:32",
+    "level2_scrape_time": "2025-09-12 23:51:41"
+  }
+}

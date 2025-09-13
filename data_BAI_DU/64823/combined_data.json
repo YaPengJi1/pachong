@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:30:36"
+  },
+  "core_event": {
+    "core_event_name": "vivo Y500耐摔升级",
+    "update_time": "更新至20250902",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:30:12"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "vivo Y500开启预售",
+      "link": "http://www.163.com/dy/article/K8FVHBGQ05314WMW.html",
+      "time": "9月2日 21:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "千元机也很耐摔?vivo Y500最新官方爆料",
+      "link": "http://www.163.com/dy/article/K889UT7J0530QEBS.html",
+      "time": "8月30日 22:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "vivo Y500带来360°防水无死角,耐用性升级",
+      "link": "http://www.sohu.com/a/929900520_122482421",
+      "time": "8月29日 17:04",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "vivo Y500开启预售",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8FVHBGQ05314WMW.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:30:27",
+      "event_time": "9月2日 21:51"
+    },
+    {
+      "event_title": "千元机也很耐摔?vivo Y500最新官方爆料",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K889UT7J0530QEBS.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:30:29",
+      "event_time": "8月30日 22:20"
+    },
+    {
+      "event_title": "vivo Y500带来360°防水无死角,耐用性升级",
+      "event_id": "event_3",
+      "event_url": "http://www.sohu.com/a/929900520_122482421",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:30:31",
+      "event_time": "8月29日 17:04"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 17:30:26",
+    "level2_scrape_time": "2025-09-12 17:30:31"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "广东台风大暴雨",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:02:28"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中央气象台 今年第16号台风“塔巴”生成",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEbolv9gyl0qcq7D71U6vV250907.shtml",
+      "time": "9月7日 02:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "今年第16号台风“塔巴”生成 或将8日登陆广东沿海一带",
+      "link": "http://www.cnr.cn/newscenter/native/gd/kx/20250906/t20250906_527353114.shtml",
+      "time": "9月6日 23:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "台风“塔巴”将登陆广东",
+      "link": "http://www.163.com/dy/article/K8QDD06V0553TEWG.html",
+      "time": "9月6日 23:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "16号台风“塔巴”生成!预计8日凌晨到中午在珠海至湛江一带沿海登陆",
+      "link": "http://finance.sina.com.cn/roll/2025-09-06/doc-infpqkmc6377912.shtml",
+      "time": "9月6日 21:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "今年第16号台风“塔巴”正在生成",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1598283262934388066",
+      "time": "9月6日 19:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "广东台风大暴雨酝酿中 或发展为16号台风“塔巴”",
+      "link": "http://news.ycwb.com/ikinvkbtko/content_53644059.htm",
+      "time": "9月4日 17:19",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-13 00:02:42"
+}

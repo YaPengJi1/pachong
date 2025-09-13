@@ -1,0 +1,46 @@
+{
+  "core_event_name": "特朗普阅兵输给中国",
+  "comments": [
+    {
+      "event_title": "特朗普阅兵让美国彻底清醒",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K93B07GQ0534VF5V.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:00:32",
+      "event_time": "9月10日 10:17"
+    },
+    {
+      "event_title": "特朗普说中国的帖文,他们认为错了",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842765780297632649&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:00:49",
+      "event_time": "9月9日 13:55"
+    },
+    {
+      "event_title": "中俄印靠拢,俄印为何不买账美国?特朗普承认:把俄印输给了中国",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10597651127477289038",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:00:51",
+      "event_time": "9月6日 18:48"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 10:00:51"
+}

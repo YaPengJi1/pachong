@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:24:52"
+  },
+  "core_event": {
+    "core_event_name": "U22国足全胜，晋级亚洲杯",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:24:26"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U22国足0-0澳大利亚，晋级亚洲杯",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7631228490509089385",
+      "time": "9月9日 22:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U22国足派出最强阵容",
+      "link": "http://finance.sina.cn/2025-09-09/detail-infpwzqa8565062.d.html",
+      "time": "9月9日 19:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "热议U22赢球靠王玉栋，非教练战术，对手仅4.7万人口",
+      "link": "http://news.sohu.com/a/932652646_121683270",
+      "time": "9月7日 16:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国U22两战全胜，净胜球优势藏玄机，末轮生死战谁能全身而退？",
+      "link": "http://www.163.com/dy/article/K8RN9T580556B3RN.html",
+      "time": "9月7日 13:12",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "U22国足0-0澳大利亚，晋级亚洲杯",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7631228490509089385",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:24:42",
+      "event_time": "9月9日 22:03"
+    },
+    {
+      "event_title": "U22国足派出最强阵容",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/2025-09-09/detail-infpwzqa8565062.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:24:44",
+      "event_time": "9月9日 19:45"
+    },
+    {
+      "event_title": "热议U22赢球靠王玉栋，非教练战术，对手仅4.7万人口",
+      "event_id": "event_3",
+      "event_url": "http://news.sohu.com/a/932652646_121683270",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:24:46",
+      "event_time": "9月7日 16:11"
+    },
+    {
+      "event_title": "中国U22两战全胜，净胜球优势藏玄机，末轮生死战谁能全身而退？",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8RN9T580556B3RN.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:24:48",
+      "event_time": "9月7日 13:12"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 14:24:40",
+    "level2_scrape_time": "2025-09-12 14:24:48"
+  }
+}

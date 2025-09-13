@@ -1,0 +1,100 @@
+{
+  "core_info": {
+    "core_event_name": "2025乒超联赛总决赛名单出炉",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:01:36"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "WTT中国澳门冠军赛国乒名单更新，梁靖崑因伤退赛",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hjl8",
+      "time": "9月6日 20:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "2025乒超总决赛前瞻:南京乒乓盛宴,樊振东、孙颖莎领衔巅峰对决",
+      "link": "http://baijiahao.baidu.com/s?id=1842381949380204548&wfr=spider&for=pc",
+      "time": "9月6日 07:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "乒超总决赛名单出炉:莎头第1,山东鲁能第2,第4让人意外",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=14792278276642927040",
+      "time": "9月3日 10:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "2025乒超总决赛阵容公布，王楚钦、孙颖莎等国乒主力会师南京",
+      "link": "http://baijiahao.baidu.com/s?id=1842150948486166114&wfr=spider&for=pc",
+      "time": "9月2日 19:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "樊振东、王楚钦等入围乒超总决赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842105571394802241&wfr=spider&for=pc",
+      "time": "9月2日 07:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "王楚钦樊振东领衔!乒超四强集结,12月南京巅峰对决即将上演",
+      "link": "http://baijiahao.baidu.com/s?id=1842085068912344533&wfr=spider&for=pc",
+      "time": "9月2日 01:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "乒超联赛第三阶段收官 汕头明润、深圳大学成功晋级总决赛",
+      "link": "http://news.southcn.com/node_179d29f1ce/d2d3c28179.shtml",
+      "time": "9月1日 23:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "乒超总决赛名额全出!4强全部诞生!女团孙颖莎大战王曼昱",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11964428215354774246",
+      "time": "9月1日 22:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "乒超联赛晋级总决赛阵容出炉",
+      "link": "http://m.sohu.com/a/930883212_580074",
+      "time": "9月1日 21:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "乒超女团四强出炉！孙颖莎王曼昱晋级，外援申裕斌张本美和出局",
+      "link": "http://news.sohu.com/a/930394653_122082043",
+      "time": "8月31日 11:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "陈梦退出乒乓球赛，名单官宣，亮相山东新岗位",
+      "link": "http://cj.sina.com.cn/articles/view/6504901717/183b8ec5500101i8k0",
+      "time": "8月30日 18:12",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 11,
+  "scrape_time": "2025-09-12 19:01:50"
+}

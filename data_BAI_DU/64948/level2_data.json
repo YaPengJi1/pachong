@@ -1,0 +1,46 @@
+{
+  "core_event_name": "A股半导体股集体回调",
+  "comments": [
+    {
+      "event_title": "A股风格突变!科技股回调,大消费走强",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.com.cn/roll/2025-09-04/doc-infpimrm8699432.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:55:23",
+      "event_time": "9月4日 16:15"
+    },
+    {
+      "event_title": "A股半导体股集体回调",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842296753546735648&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "暗影毛毛兔赏月",
+      "comment_time": "09-04 13:29",
+      "comment_content": "内容不错，期待更多！",
+      "user_location": "四川",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:55:40",
+      "event_time": "9月4日 09:56"
+    },
+    {
+      "event_title": "A股半导体股集体回调,华虹公司、灿芯股份跌超11%",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/5115326071/130e5ae7702002n15m",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:55:42",
+      "event_time": "9月2日 13:34"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 17:55:42"
+}

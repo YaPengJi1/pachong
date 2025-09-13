@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:49:50"
+  },
+  "core_event": {
+    "core_event_name": "亚预赛中国队出局",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:49:10"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国队晋级后高兴早了，亚洲杯恐排垫底",
+      "link": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001tf5a",
+      "time": "昨天 00:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U23 亚预赛风云突变:积分榜大乱,国足能否逆袭?",
+      "link": "http://www.163.com/dy/article/K8RV1UV30556GBJF.html",
+      "time": "9月7日 13:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "亚预赛一夜17队出局 3支中国球队被淘汰 国奥打平=出线",
+      "link": "http://baijiahao.baidu.com/s?id=1842557232105723477&wfr=spider&for=pc",
+      "time": "9月7日 06:58",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "中国队晋级后高兴早了，亚洲杯恐排垫底",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001tf5a",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:49:25",
+      "event_time": "昨天 00:23"
+    },
+    {
+      "event_title": "U23 亚预赛风云突变:积分榜大乱,国足能否逆袭?",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8RV1UV30556GBJF.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:49:27",
+      "event_time": "9月7日 13:34"
+    },
+    {
+      "event_title": "亚预赛一夜17队出局 3支中国球队被淘汰 国奥打平=出线",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842557232105723477&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "善名029",
+      "comment_time": "09-07 12:35",
+      "comment_content": "必须打平才能出线",
+      "user_location": "广东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:49:46"
+    },
+    {
+      "event_title": "亚预赛一夜17队出局 3支中国球队被淘汰 国奥打平=出线",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842557232105723477&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "小笨蛋学钢琴",
+      "comment_time": "09-07 07:02",
+      "comment_content": "小伙子们踢得真猛，10-0大胜够解气！王钰栋表现亮眼，出线在望稳了。",
+      "user_location": "上海",
+      "like_count": 9,
+      "scrape_time": "2025-09-12 10:49:46"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 4,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 10:49:24",
+    "level2_scrape_time": "2025-09-12 10:49:46"
+  }
+}

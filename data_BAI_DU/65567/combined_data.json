@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:03:01"
+  },
+  "core_event": {
+    "core_event_name": "iPhone 17系列升级与性能提升",
+    "update_time": "更新至20250912",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:02:01"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "极空间AI NAS全场景赋能,隐藏玩法破局存储焦虑",
+      "link": "http://baijiahao.baidu.com/s?id=1843020522212655132&wfr=spider&for=pc",
+      "time": "昨天 09:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "iPhone 17标准版不再“挤牙膏”,苹果被迫内卷高性价比",
+      "link": "http://baijiahao.baidu.com/s?id=1842964924726424209&wfr=spider&for=pc",
+      "time": "9月11日 18:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "iPhone 17 系列发布会亮点回顾:高刷与续航升级",
+      "link": "http://g.pconline.com.cn/x/1979/19790172.html",
+      "time": "9月11日 10:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "iPhone 17 Pro灵动岛缩小,设计、影像、性能全面升级",
+      "link": "http://mobile.zol.com.cn/1042/10420519.html",
+      "time": "9月6日 11:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "iPhone 17 Pro相机功能曝光:视频录制大升级,搭载可变光圈系统",
+      "link": "http://www.163.com/dy/article/K8OJRVVM055680UT.html",
+      "time": "9月6日 06:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "iPhone 17 系列运行内存曝光",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2704923948521528112",
+      "time": "9月5日 22:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "苹果17 Pro Max性能大爆发,三星机王地位岌岌可危",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15731445892945487967",
+      "time": "9月3日 00:13",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "极空间AI NAS全场景赋能,隐藏玩法破局存储焦虑",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1843020522212655132&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "续渺然k",
+      "comment_time": "10小时前",
+      "comment_content": "继续加油，期待更多🌼",
+      "user_location": "贵州",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:02:31",
+      "event_time": "昨天 09:42"
+    },
+    {
+      "event_title": "iPhone 17标准版不再“挤牙膏”,苹果被迫内卷高性价比",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842964924726424209&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "龙行天下aqn78",
+      "comment_time": "09-11 22:57",
+      "comment_content": "国产的几亿像数有没有苹果清晰呢",
+      "user_location": "四川",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:02:46",
+      "event_time": "9月11日 18:58"
+    },
+    {
+      "event_title": "iPhone 17 系列发布会亮点回顾:高刷与续航升级",
+      "event_id": "event_3",
+      "event_url": "http://g.pconline.com.cn/x/1979/19790172.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:02:48",
+      "event_time": "9月11日 10:00"
+    },
+    {
+      "event_title": "iPhone 17 Pro灵动岛缩小,设计、影像、性能全面升级",
+      "event_id": "event_4",
+      "event_url": "http://mobile.zol.com.cn/1042/10420519.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:02:50",
+      "event_time": "9月6日 11:41"
+    },
+    {
+      "event_title": "iPhone 17 Pro相机功能曝光:视频录制大升级,搭载可变光圈系统",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8OJRVVM055680UT.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:02:52",
+      "event_time": "9月6日 06:20"
+    },
+    {
+      "event_title": "iPhone 17 系列运行内存曝光",
+      "event_id": "event_6",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=2704923948521528112",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:02:54",
+      "event_time": "9月5日 22:15"
+    },
+    {
+      "event_title": "苹果17 Pro Max性能大爆发,三星机王地位岌岌可危",
+      "event_id": "event_7",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=15731445892945487967",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:02:56",
+      "event_time": "9月3日 00:13"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-13 02:02:15",
+    "level2_scrape_time": "2025-09-13 02:02:56"
+  }
+}

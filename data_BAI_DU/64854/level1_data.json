@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "金价狂涨",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:01:27"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "金价再创历史新高!上金所最新宣布:上调",
+      "link": "http://www.163.com/dy/article/K8K5AI5K05560LKB.html",
+      "time": "9月4日 12:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "黄金价格飙升",
+      "link": "http://www.163.com/dy/article/K8H494EV05148THO.html",
+      "time": "9月3日 08:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "“中国金龙”,上涨!国际金价,新高!",
+      "link": "http://m.sohu.com/a/931331531_120988576",
+      "time": "9月3日 08:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "金价,大涨!创历史新高",
+      "link": "http://news.cnr.cn/native/gd/20250902/t20250902_527349772.shtml",
+      "time": "9月2日 08:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "今日基础金价迎来小涨，大部分品牌金价较昨日上涨3 - 4元，目前平均在536元/克左右",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5124148026675839195",
+      "time": "9月1日 02:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "金价,涨涨涨!",
+      "link": "http://finance.sina.com.cn/wm/2025-08-30/doc-infnusvv5936826.shtml",
+      "time": "8月30日 22:20",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 18:01:41"
+}

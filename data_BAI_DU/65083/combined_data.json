@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:01:28"
+  },
+  "core_event": {
+    "core_event_name": "梅西告别国家队",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:01:04"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "梅西确认:这是正赛主场告别 已实现梦想",
+      "link": "http://cj.sina.com.cn/articles/view/6645066132/18c13a9940200181mg",
+      "time": "9月5日 10:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "梅西可能迎来阿根廷国家队主场最后一战",
+      "link": "http://www.dongqiudi.com/articles/5354940.html",
+      "time": "9月5日 06:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "阿根廷vs委内瑞拉:梅西领衔,马斯坦托诺、德保罗出战",
+      "link": "http://www.163.com/dy/article/K8M1I5RT0549BAP0.html",
+      "time": "9月5日 06:22",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "梅西确认:这是正赛主场告别 已实现梦想",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/6645066132/18c13a9940200181mg",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:01:19",
+      "event_time": "9月5日 10:50"
+    },
+    {
+      "event_title": "梅西可能迎来阿根廷国家队主场最后一战",
+      "event_id": "event_2",
+      "event_url": "http://www.dongqiudi.com/articles/5354940.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:01:21",
+      "event_time": "9月5日 06:49"
+    },
+    {
+      "event_title": "阿根廷vs委内瑞拉:梅西领衔,马斯坦托诺、德保罗出战",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8M1I5RT0549BAP0.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:01:23",
+      "event_time": "9月5日 06:22"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 18:01:18",
+    "level2_scrape_time": "2025-09-12 18:01:23"
+  }
+}

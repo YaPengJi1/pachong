@@ -1,0 +1,72 @@
+{
+  "core_event_name": "苹果iPad Air 7降价促销",
+  "comments": [
+    {
+      "event_title": "苹果iPad Air 7 M3版直降,低至3081元",
+      "event_id": "event_1",
+      "event_url": "http://nb.zol.com.cn/1044/10446511.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:55:53",
+      "event_time": "9月10日 11:14"
+    },
+    {
+      "event_title": "苹果iPad Air 7 M3版平板京东低价来袭",
+      "event_id": "event_2",
+      "event_url": "http://nb.zol.com.cn/1042/10422246_all.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:55:55",
+      "event_time": "9月7日 17:49"
+    },
+    {
+      "event_title": "苹果iPad Pro 2024款M4版优惠来袭",
+      "event_id": "event_3",
+      "event_url": "http://nb.zol.com.cn/1041/10419642.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:55:57",
+      "event_time": "9月6日 21:18"
+    },
+    {
+      "event_title": "苹果2025款13英寸MacBook Air优惠来袭",
+      "event_id": "event_4",
+      "event_url": "http://nb.zol.com.cn/1041/10419505.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:55:59",
+      "event_time": "9月6日 17:57"
+    },
+    {
+      "event_title": "Apple iPad Air 7 M3版平板直降低至2979元",
+      "event_id": "event_5",
+      "event_url": "http://nb.zol.com.cn/1041/10418946.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:56:01",
+      "event_time": "9月6日 14:05"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 09:56:01"
+}

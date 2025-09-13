@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "极氪X新款上市",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:05:25"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "甘肃张掖极氪7X落地价，豪华配置超值价来袭",
+      "link": "http://www.pcauto.com.cn/hq/783442.html",
+      "time": "9月6日 13:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "武威极氪X 2025新款价格,豪华配置超值价来袭",
+      "link": "http://www.pcauto.com.cn/hq/780221.html",
+      "time": "9月5日 15:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "极氪X新款上市接受预订 订金5000元",
+      "link": "http://www.autohome.com.cn/dealer/202509/1415021121.html",
+      "time": "9月4日 13:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "2025款极氪7X订金5000元 可接受预订",
+      "link": "http://www.autohome.com.cn/dealer/202509/1415019072.html",
+      "time": "9月4日 13:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "2025款极氪001订金5000元 接受预订",
+      "link": "http://www.autohome.com.cn/dealer/202509/1415018228.html",
+      "time": "9月4日 13:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "极氪001新款将首发 国庆西北自驾锁定提车",
+      "link": "http://www.163.com/dy/article/K8K18MDM05568MKN.html",
+      "time": "9月4日 11:41",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 18:05:40"
+}

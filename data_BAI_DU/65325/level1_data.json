@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "泰国为泰党提名猜格森为总理候选人",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:15:24"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "为泰党候选人猜卡森(CHAIKASEM)获得国会议员的152票",
+      "link": "http://finance.sina.cn/7x24/2025-09-05/detail-infpmuwf0758123.d.html",
+      "time": "9月5日 17:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "泰国自豪泰党党首阿努廷获国会过半数支持 将出任新总理",
+      "link": "http://k.sina.com.cn/article_1598078571_m5f40be6b03301aet4.html",
+      "time": "9月5日 17:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "泰国为泰党提名猜格森为总理候选人 佩通坦站台",
+      "link": "http://www.163.com/dy/article/K8KNG98N0514EGPO.html",
+      "time": "9月4日 18:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "泰国执政党提名猜格森为总理候选人",
+      "link": "http://www.ahwang.cn/newsflash/2025/0904/2905161.html",
+      "time": "9月4日 16:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "泰国为泰党提名猜格森为总理候选人",
+      "link": "http://m.yicai.com/brief/102808528.html",
+      "time": "9月4日 13:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "泰国为泰党总理候选人猜卡森",
+      "link": "http://www.163.com/dy/article/K8CLQOCD055616ZA.html",
+      "time": "9月1日 15:04",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 22:15:38"
+}

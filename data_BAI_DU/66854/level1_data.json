@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普下台呼声高，抗议者涌上街头",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:34:53"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普下台呼声高,抗议者涌上街头,美国局势紧张!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4931136512596923975",
+      "time": "9月10日 18:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "华盛顿爆发示威潮，数千民众怒火冲天，直指特朗普警卫队",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11409839262425231031",
+      "time": "9月8日 02:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普再次威胁“派兵” 伊利诺伊州州长及芝加哥民众表示反对",
+      "link": "http://baijiahao.baidu.com/s?id=1842595847784646269&wfr=spider&for=pc",
+      "time": "9月7日 17:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美国特朗普政府在华盛顿特区部署国民警卫队 华盛顿特区爆发大规模游行抗议",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEKr3SEVVZ7kCqiNm7yA24250907.shtml",
+      "time": "9月7日 12:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美国各地火速降半旗",
+      "link": "http://baijiahao.baidu.com/s?id=1842209292555284828&wfr=spider&for=pc",
+      "time": "9月3日 10:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "美国即将爆发大型抗议",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 10:35:08"
+}

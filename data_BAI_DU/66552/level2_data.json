@@ -1,0 +1,72 @@
+{
+  "core_event_name": "曼联门将奥纳纳可能被租借至沙特",
+  "comments": [
+    {
+      "event_title": "曼联门将奥纳纳因肌肉问题缺席训练",
+      "event_id": "event_1",
+      "event_url": "http://weibo.com/3299457572/Q3CJyc74d",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:02:37",
+      "event_time": "9月8日 16:22"
+    },
+    {
+      "event_title": "曼联正在与特拉布宗体育谈奥纳纳,租借不含买断选项",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8QJB30H0529DS7F.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:02:39",
+      "event_time": "9月7日 00:50"
+    },
+    {
+      "event_title": "曼联3号门将惊变,27岁门神恐遭清洗,土耳其沙特抢人",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842461043792941964&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "岁月静好听歌",
+      "comment_time": "09-06 13:41",
+      "comment_content": "曼联重建决心真强，奥纳纳快找个新东家吧，27岁门将还有大把机会。",
+      "user_location": "云南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:02:57",
+      "event_time": "9月6日 05:30"
+    },
+    {
+      "event_title": "特拉布宗体育求租奥纳纳",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842301266230624826&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "星光熠熠Shirley",
+      "comment_time": "09-04 11:22",
+      "comment_content": "特拉布宗急着补强门将位置，奥纳纳租借是个不错尝试，希望他借此找回状态。",
+      "user_location": "上海",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:03:13",
+      "event_time": "9月4日 11:10"
+    },
+    {
+      "event_title": "曼联可能将门将奥纳纳卖去沙特",
+      "event_id": "event_5",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4618102859262693402",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:03:15",
+      "event_time": "9月3日 16:32"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 12:03:15"
+}

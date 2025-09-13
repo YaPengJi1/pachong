@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "美网：辛纳晋级男单四强",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:33:24"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美网:辛纳晋级男单四强",
+      "link": "http://news.fjsen.com/2025-09/05/content_32033066.htm",
+      "time": "9月5日 10:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "德约科维奇晋级美网男单四强",
+      "link": "http://tv.cctv.com/2025/09/04/VIDEYWDERv4BFfmgMuH9M8yn250904.shtml",
+      "time": "9月4日 07:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "费利克斯·奥热-阿利亚西姆逆转晋级美网四强",
+      "link": "http://www.sohu.com/a/931646497_122507508",
+      "time": "9月4日 05:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "德约科维奇今年大满贯都打进四强，美网能否有所突破",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5670770803964893430",
+      "time": "9月3日 19:23",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 14:33:39"
+}

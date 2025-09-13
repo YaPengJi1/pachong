@@ -1,0 +1,59 @@
+{
+  "core_event_name": "中国全球治理倡议获多国认可",
+  "comments": [
+    {
+      "event_title": "中国全球治理倡议获多国政要认可",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.cn/2025-09-10/detail-infpzepf2567476.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:24:28",
+      "event_time": "9月10日 18:01"
+    },
+    {
+      "event_title": "习近平首提全球治理倡议",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842827265845873362&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:24:45",
+      "event_time": "9月10日 06:30"
+    },
+    {
+      "event_title": "中国四大倡议出击 破解全球乱局 再造安全、公平与发展新规则",
+      "event_id": "event_3",
+      "event_url": "http://news.sohu.com/a/932410001_121142129",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:24:47",
+      "event_time": "9月6日 12:15"
+    },
+    {
+      "event_title": "普京:此次中国之行成果积极,全球治理倡议正逢其时",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842322771523436903&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:25:03",
+      "event_time": "9月4日 16:49"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 10:25:03"
+}

@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "南向资金持续“扫货”",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:12:29"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "南向资金持续涌入,美联储降息预期居高不下,内外资共振下港股有望震荡向上",
+      "link": "http://www.nbd.com.cn/articles/2025-09-05/4050169.html",
+      "time": "9月5日 13:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "南向资金持续“扫货”",
+      "link": "http://m.nbd.com.cn/articles/2025-09-03/4047455.html",
+      "time": "9月3日 14:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "南向资金年内净买入近万亿港元",
+      "link": "http://www.sohu.com/a/931034817_115362",
+      "time": "9月2日 10:38",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 17:12:43"
+}

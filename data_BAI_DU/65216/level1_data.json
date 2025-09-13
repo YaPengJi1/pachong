@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普对日关税大棒落下",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:27:21"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美对日汽车关税降了 日本车仍难受",
+      "link": "http://news.mydrivers.com/1/1072/1072834.htm",
+      "time": "9月5日 22:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美国:特朗普签署行政令 美日贸易协定即将实施 大部分输美日本产品将被征收15%基准关税",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16902157821138533046",
+      "time": "9月5日 22:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普签令定调美日贸易15% 关税换日企投资,美国车企却率先抗议",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=14145136867118149300",
+      "time": "9月5日 16:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普对日关税大棒落下,15%一刀切!全球供应链巨震前夜?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3684002198756547828",
+      "time": "9月5日 12:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "特朗普签署行政命令,正式实施美日贸易协议",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10475959990441490324",
+      "time": "9月5日 06:55",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 20:27:35"
+}

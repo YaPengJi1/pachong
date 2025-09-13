@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "中国阅兵展示大国重器",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:49:33"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "“大国重器”集中亮相阅兵场,解密尖端武器装备",
+      "link": "http://baijiahao.baidu.com/s?id=1842648824261079844&wfr=spider&for=pc",
+      "time": "9月8日 07:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "定向能武器装备首次亮相阅兵场，科技含量超高",
+      "link": "http://baijiahao.baidu.com/s?id=1842406886644695797&wfr=spider&for=pc",
+      "time": "9月5日 15:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "东风-5C首度亮相,射程覆盖全球 导弹专家:具有五个鲜明特点",
+      "link": "http://world.huanqiu.com/article/4OAw6Z1laa0",
+      "time": "9月3日 18:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "国之重器亮相阅兵场",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5584373916373561278",
+      "time": "9月3日 07:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "[胜利日]抗战胜利80周年阅兵活动 阅兵将实现多个“首次”",
+      "link": "http://tv.cctv.com/2025/09/02/VIDEnTG0ZAqX2oOaPVPq6TAW250902.shtml",
+      "time": "9月2日 11:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "多款战略重器将首次亮相阅兵",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12133527717766978481",
+      "time": "9月1日 18:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "93阅兵中国亮出“大国重器”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17285113236366671198",
+      "time": "9月1日 07:48",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 17:49:47"
+}

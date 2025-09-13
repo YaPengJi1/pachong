@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 15:07:02"
+  },
+  "core_event": {
+    "core_event_name": "俄乌首脑会谈，泽连斯基不去莫斯科",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:06:36"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "泽连斯基非去莫斯科一趟不可?普京发冲突预告",
+      "link": "http://new.qq.com/rain/a/20250909A02O4200",
+      "time": "9月9日 10:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "普京:泽连斯基应该来莫斯科谈判,他要求换地点“太过分”了!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=493302406580342478",
+      "time": "9月8日 17:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "俄乌首脑会谈，泽连斯基不去莫斯科，反手邀普京赴基辅",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17632985806468838105",
+      "time": "9月8日 13:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "泽连斯基回应普京俄乌莫斯科会晤提议",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4497326067779775896",
+      "time": "9月6日 14:58",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "泽连斯基非去莫斯科一趟不可?普京发冲突预告",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250909A02O4200",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:06:52",
+      "event_time": "9月9日 10:58"
+    },
+    {
+      "event_title": "普京:泽连斯基应该来莫斯科谈判,他要求换地点“太过分”了!",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=493302406580342478",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:06:54",
+      "event_time": "9月8日 17:26"
+    },
+    {
+      "event_title": "俄乌首脑会谈，泽连斯基不去莫斯科，反手邀普京赴基辅",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=17632985806468838105",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:06:56",
+      "event_time": "9月8日 13:30"
+    },
+    {
+      "event_title": "泽连斯基回应普京俄乌莫斯科会晤提议",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4497326067779775896",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:06:58",
+      "event_time": "9月6日 14:58"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 15:06:51",
+    "level2_scrape_time": "2025-09-12 15:06:58"
+  }
+}

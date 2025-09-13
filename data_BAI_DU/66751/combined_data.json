@@ -1,0 +1,248 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:37:19"
+  },
+  "core_event": {
+    "core_event_name": "张雪峰捐款5000万支持统一引争议",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:36:26"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "张雪峰高调捐款5000万支持统一,反遭全网“扒皮”正常吗?",
+      "link": "http://new.qq.com/rain/a/20250911V025LG00",
+      "time": "昨天 09:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "张雪峰爱国捐款言论引发争议",
+      "link": "http://baijiahao.baidu.com/s?id=1842827067372908701&wfr=spider&for=pc",
+      "time": "9月10日 07:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "张雪峰被质疑捐5000万是表演性爱国",
+      "link": "http://www.163.com/dy/article/K90SRALQ05566MOH.html",
+      "time": "9月9日 11:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "张雪峰说愿意为统一捐款五千万，引得一群“汉奸”露出狐狸尾巴",
+      "link": "http://www.163.com/dy/article/K90QCUUD05562A4W.html",
+      "time": "9月9日 10:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "张雪峰老师称要捐款5000万元",
+      "link": "http://new.qq.com/rain/a/20250909V012G500",
+      "time": "9月9日 02:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "张雪峰老师声称要捐5000万元",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6179520583662014478",
+      "time": "9月9日 02:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "张雪峰捐5000万用于创业",
+      "link": "http://new.qq.com/rain/a/20250909A0017I00",
+      "time": "9月9日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "张雪峰回应为祖国统一战争捐款5000万",
+      "link": "http://app.myzaker.com/news/article.php?m=1757320718&pk=68be9027b15ec042115806cc",
+      "time": "9月8日 16:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "张雪峰回应承诺捐款5000万支持统一",
+      "link": "http://weibo.com/tv/show/1034:5208365396328455",
+      "time": "9月7日 22:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "张雪峰捐款5千万支持统一被嘲",
+      "link": "http://news.ifeng.com/c/8mSauQ5u0Ut",
+      "time": "9月7日 19:50",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "张雪峰高调捐款5000万支持统一,反遭全网“扒皮”正常吗?",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250911V025LG00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:36:41",
+      "event_time": "昨天 09:33"
+    },
+    {
+      "event_title": "张雪峰爱国捐款言论引发争议",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842827067372908701&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "百度网友00344e1",
+      "comment_time": "09-10 10:33",
+      "comment_content": "莫要以为自己站在道德高地指责别人",
+      "user_location": "黑龙江",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:36:58",
+      "event_time": "9月10日 07:45"
+    },
+    {
+      "event_title": "张雪峰爱国捐款言论引发争议",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842827067372908701&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "一把牙刷闯天涯",
+      "comment_time": "09-10 10:20",
+      "comment_content": "一个靠教育产业发家的小丑",
+      "user_location": "新疆",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:36:58",
+      "event_time": "9月10日 07:45"
+    },
+    {
+      "event_title": "张雪峰被质疑捐5000万是表演性爱国",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K90SRALQ05566MOH.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:37:01",
+      "event_time": "9月9日 11:32"
+    },
+    {
+      "event_title": "张雪峰说愿意为统一捐款五千万，引得一群“汉奸”露出狐狸尾巴",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K90QCUUD05562A4W.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:37:03",
+      "event_time": "9月9日 10:49"
+    },
+    {
+      "event_title": "张雪峰老师称要捐款5000万元",
+      "event_id": "event_5",
+      "event_url": "http://new.qq.com/rain/a/20250909V012G500",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:37:05",
+      "event_time": "9月9日 02:39"
+    },
+    {
+      "event_title": "张雪峰老师声称要捐5000万元",
+      "event_id": "event_6",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6179520583662014478",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:37:07",
+      "event_time": "9月9日 02:31"
+    },
+    {
+      "event_title": "张雪峰捐5000万用于创业",
+      "event_id": "event_7",
+      "event_url": "http://new.qq.com/rain/a/20250909A0017I00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:37:09",
+      "event_time": "9月9日 00:00"
+    },
+    {
+      "event_title": "张雪峰回应为祖国统一战争捐款5000万",
+      "event_id": "event_8",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1757320718&pk=68be9027b15ec042115806cc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:37:11",
+      "event_time": "9月8日 16:12"
+    },
+    {
+      "event_title": "张雪峰回应承诺捐款5000万支持统一",
+      "event_id": "event_9",
+      "event_url": "http://weibo.com/tv/show/1034:5208365396328455",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:37:13",
+      "event_time": "9月7日 22:15"
+    },
+    {
+      "event_title": "张雪峰捐款5千万支持统一被嘲",
+      "event_id": "event_10",
+      "event_url": "http://news.ifeng.com/c/8mSauQ5u0Ut",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:37:15",
+      "event_time": "9月7日 19:50"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 10,
+    "total_comments": 11,
+    "events_with_comments": 10,
+    "level1_scrape_time": "2025-09-12 10:36:40",
+    "level2_scrape_time": "2025-09-12 10:37:15"
+  }
+}

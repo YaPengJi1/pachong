@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普政治盟友演讲时遭枪杀",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:23:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普铁杆盟友演讲时被枪杀",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=712829584899869991",
+      "time": "昨天 13:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特朗普政治盟友查理·柯克被枪杀",
+      "link": "http://new.qq.com/rain/a/20250911V03KCD00",
+      "time": "昨天 11:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美国枪声再起,特朗普年轻“盟友”被刺杀",
+      "link": "http://news.dayoo.com/gzrbrmt/202509/11/170628_54871507.htm",
+      "time": "昨天 11:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美媒:枪杀特朗普政治盟友被拘的“嫌疑人”已被释放 搜捕仍在继续",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7192294342582588276",
+      "time": "昨天 11:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "特朗普盟友被枪杀,警方现场抓错人,嫌疑人裤子被拽下,凶手仍在逃",
+      "link": "http://new.qq.com/rain/a/20250911V030NJ00",
+      "time": "昨天 10:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "特朗普政治盟友被枪杀,犹他州州长:这是一起“政治谋杀”事件",
+      "link": "http://baijiahao.baidu.com/s?id=1842935335910781742&wfr=spider&for=pc",
+      "time": "昨天 10:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "美国:特朗普政治盟友演讲时遭枪击身亡",
+      "link": "http://tv.cctv.com/2025/09/11/VIDEZY6ZCEL60mLXKxSdN3kP250911.shtml",
+      "time": "昨天 10:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "特朗普盟友遭枪杀,美国又要降半旗,拥护持枪却被枪支泛滥害死!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2022262888906369773",
+      "time": "昨天 10:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "特朗普政治盟友演讲时遭枪击身亡,特朗普下令降半旗致哀",
+      "link": "http://finance.sina.com.cn/wm/2025-09-11/doc-infqanhq3479676.shtml",
+      "time": "昨天 07:46",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 11:23:44"
+}

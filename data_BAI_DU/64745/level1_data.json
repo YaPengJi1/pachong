@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "泰国新总理遭解职",
+    "update_time": "更新至20250831",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:54:36"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "佩通坦遭解职 泰国新总理的考题",
+      "link": "http://www.163.com/dy/article/K8ARID2F0519DFFO.html",
+      "time": "8月31日 22:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "佩通坦被解职 泰国新总理人选浮出",
+      "link": "http://www.ahwang.cn/newsflash/2025/0830/2902963.html",
+      "time": "8月30日 09:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "佩通坦被解除泰国总理职务",
+      "link": "http://www.163.com/dy/article/K85DCK1205530KS1.html",
+      "time": "8月29日 19:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "泰国总理佩通坦遭解职 他信家族再下台",
+      "link": "http://www.sohu.com/a/929843373_656058",
+      "time": "8月29日 16:53",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 01:54:50"
+}

@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:26:07"
+  },
+  "core_event": {
+    "core_event_name": "全新问界M7亮相2025智博会",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:25:21"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "2025智博会问界全系亮相 引领中国品牌向上突破",
+      "link": "http://news.pedaily.cn/20250908/113808.shtml",
+      "time": "9月8日 08:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "问界全系亮相2025智博会",
+      "link": "http://baijiahao.baidu.com/s?id=1842501601785263336&wfr=spider&for=pc",
+      "time": "9月6日 16:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "新问界M7爆了赛力斯股价却跌了",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmzea2321314.d.html",
+      "time": "9月5日 19:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "全新问界M7亮相2025智博会 赛力斯全方位展示智能化实践成果",
+      "link": "http://finance.eastmoney.com/a/202509053506234772.html",
+      "time": "9月5日 18:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "鸿蒙智行:全新问界 M7 部分配置预生产,可在上市后 1-4 周快速交付",
+      "link": "http://finance.sina.com.cn/tech/digi/2025-09-05/doc-infpmkhh5958457.shtml",
+      "time": "9月5日 11:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "问界M7焕新版正式官宣上市",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13430404934662296198",
+      "time": "9月1日 23:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "问界M7上市热销",
+      "link": "http://m.sohu.com/a/930028634_121608735",
+      "time": "8月30日 03:30",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "2025智博会问界全系亮相 引领中国品牌向上突破",
+      "event_id": "event_1",
+      "event_url": "http://news.pedaily.cn/20250908/113808.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:25:36",
+      "event_time": "9月8日 08:51"
+    },
+    {
+      "event_title": "问界全系亮相2025智博会",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842501601785263336&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:25:53",
+      "event_time": "9月6日 16:14"
+    },
+    {
+      "event_title": "新问界M7爆了赛力斯股价却跌了",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.cn/2025-09-05/detail-infpmzea2321314.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:25:55",
+      "event_time": "9月5日 19:11"
+    },
+    {
+      "event_title": "全新问界M7亮相2025智博会 赛力斯全方位展示智能化实践成果",
+      "event_id": "event_4",
+      "event_url": "http://finance.eastmoney.com/a/202509053506234772.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:25:57",
+      "event_time": "9月5日 18:00"
+    },
+    {
+      "event_title": "鸿蒙智行:全新问界 M7 部分配置预生产,可在上市后 1-4 周快速交付",
+      "event_id": "event_5",
+      "event_url": "http://finance.sina.com.cn/tech/digi/2025-09-05/doc-infpmkhh5958457.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:25:59",
+      "event_time": "9月5日 11:57"
+    },
+    {
+      "event_title": "问界M7焕新版正式官宣上市",
+      "event_id": "event_6",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=13430404934662296198",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:26:01",
+      "event_time": "9月1日 23:17"
+    },
+    {
+      "event_title": "问界M7上市热销",
+      "event_id": "event_7",
+      "event_url": "http://m.sohu.com/a/930028634_121608735",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:26:03",
+      "event_time": "8月30日 03:30"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 18:25:35",
+    "level2_scrape_time": "2025-09-12 18:26:03"
+  }
+}

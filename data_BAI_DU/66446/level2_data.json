@@ -1,0 +1,59 @@
+{
+  "core_event_name": "南京VS徐州苏超比赛",
+  "comments": [
+    {
+      "event_title": "南京队战平徐州队 现场观赛人数再破纪录",
+      "event_id": "event_1",
+      "event_url": "http://tv.cctv.com/2025/09/08/VIDE6USoCbOFGcCvaVLBWcuZ250908.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:56:54",
+      "event_time": "9月8日 16:24"
+    },
+    {
+      "event_title": "9月6日晚南京队对战徐州队比赛的“第二现场”，由南京市文明办组织的“三进城”文明实践活动火热上演",
+      "event_id": "event_2",
+      "event_url": "http://weibo.com/1807431510/Q3m3ka77w",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:56:56",
+      "event_time": "9月6日 21:54"
+    },
+    {
+      "event_title": "苏超重塑区域认同引爆进化论",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842520735385871355&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "吉祥搞怪人",
+      "comment_time": "09-06 21:39",
+      "comment_content": "雨中一战，南京险胜徐州。体育连接城市情感，快乐足球让认同升华。",
+      "user_location": "辽宁",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:57:14",
+      "event_time": "9月6日 21:18"
+    },
+    {
+      "event_title": "南京VS徐州球迷齐唱老男孩破防了 苏超现场老男孩的青春DNA动了",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.cn/2025-09-06/detail-infpqkmf1646017.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:57:16",
+      "event_time": "9月6日 19:30"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 14:57:16"
+}

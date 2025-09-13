@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "华为Mate XTs发布及新功能",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:39:36"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "华为Mate XTs 非凡大师三折叠手机发布",
+      "link": "http://app.myzaker.com/news/article.php?m=1757383809&pk=68bf85e4b15ec0308e04d6b9",
+      "time": "9月9日 09:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "华为Mate80系列再曝猛料,影像与性能双突破",
+      "link": "http://baijiahao.baidu.com/s?id=1842682659373484351&wfr=spider&for=pc",
+      "time": "9月8日 16:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "华为MateXs三折叠手机支持第二代灵犀通信",
+      "link": "http://it.sohu.com/a/931953312_120195006",
+      "time": "9月4日 22:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "华为Mate XTs非凡大师正式来袭!3K大屏+手写笔,真的有点猛啊!",
+      "link": "http://baijiahao.baidu.com/s?id=1842334464118955281&wfr=spider&for=pc",
+      "time": "9月4日 19:57",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 10:39:50"
+}

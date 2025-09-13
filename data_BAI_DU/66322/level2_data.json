@@ -1,0 +1,59 @@
+{
+  "core_event_name": "苹果秋季发布会新品发布",
+  "comments": [
+    {
+      "event_title": "iPhone17或成国内首款无卡槽手机，标准版起售价预估5999元",
+      "event_id": "event_1",
+      "event_url": "http://news.cnhubei.com/content/2025-09/09/content_19486164.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:12",
+      "event_time": "9月9日 15:22"
+    },
+    {
+      "event_title": "不止iPhone17!苹果秋季发布会前瞻,14大新品齐登场",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842761589258431843&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "世界初美工",
+      "comment_time": "09-09 13:26",
+      "comment_content": "苹果发布会明天凌晨，新品大爆炸，iPhone17轻薄又流畅，熬夜值了。",
+      "user_location": "海南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:29",
+      "event_time": "9月9日 13:06"
+    },
+    {
+      "event_title": "苹果秋季发布会临近,iPhone 17系列渲染图曝光,副屏设计引热议",
+      "event_id": "event_3",
+      "event_url": "http://mobile.zol.com.cn/1044/10441050.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:31",
+      "event_time": "9月8日 16:41"
+    },
+    {
+      "event_title": "苹果发布会将推出超8款新品:iPhone 17大改 还有这些",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.com.cn/roll/2025-09-08/doc-infpumzh9649212.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:33",
+      "event_time": "9月8日 13:22"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 14:39:33"
+}

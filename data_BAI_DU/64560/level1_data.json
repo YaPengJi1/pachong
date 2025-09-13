@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "中国女排世锦赛排名出炉",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:09:21"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "女排世锦赛后最新世界排名:意大利巨大优势榜首 中国领先美国不到2分第6",
+      "link": "http://new.qq.com/rain/a/20250908A07V3200",
+      "time": "9月8日 19:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国田径队公布东京世界田径锦标赛参赛名单",
+      "link": "http://baijiahao.baidu.com/s?id=1842519091356430216&wfr=spider&for=pc",
+      "time": "9月6日 20:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国田协公布世锦赛参赛名单",
+      "link": "http://baijiahao.baidu.com/s?id=1842500659603032084&wfr=spider&for=pc",
+      "time": "9月6日 15:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "田径世锦赛中国队73人参赛名单公布",
+      "link": "http://baijiahao.baidu.com/s?id=1842496034026412101&wfr=spider&for=pc",
+      "time": "9月6日 14:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中国田径队公布东京世锦赛名单",
+      "link": "http://baijiahao.baidu.com/s?id=1842492197749469762&wfr=spider&for=pc",
+      "time": "9月6日 13:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "中国女排世锦赛排名出炉",
+      "link": "http://cj.sina.com.cn/articles/view/1884314201/70505a5900101dggu",
+      "time": "9月4日 17:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "女排世锦赛八强开战，欧洲劲旅强势围剿，日本孤军奋战",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9643902999314110127",
+      "time": "9月3日 17:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "中国女排排名更新，力压卫冕冠军，创历史第三差成绩",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5079702647810703346",
+      "time": "9月2日 13:02",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-13 02:09:35"
+}

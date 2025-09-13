@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 23:29:16"
+  },
+  "core_event": {
+    "core_event_name": "詹姆斯来成都",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:28:26"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "詹姆斯凌晨抵蓉，双子塔巨幅海报见证巨星魅力",
+      "link": "http://www.163.com/dy/article/K8PROSIG0556C2ZP.html",
+      "time": "9月6日 17:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "詹姆斯结束本次中国行",
+      "link": "http://m.cnhubei.com/content/2025-09/06/content_19479254.html",
+      "time": "9月6日 11:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "詹姆斯:中国球迷热情“不可思议” 愿激励下一代球员成长",
+      "link": "http://cj.sina.com.cn/articles/view/1699432410/654b47da02001k46s",
+      "time": "9月6日 10:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "詹姆斯中国行时隔14年再来成都,球迷集体高呼“LBJ”",
+      "link": "http://news.ycwb.com/ikinvkbtkn/content_53645318.htm",
+      "time": "9月5日 21:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "NBA巨星詹姆斯时隔14年再来成都,雨中与粉丝互动,球迷集体高呼“LBJ”",
+      "link": "http://baijiahao.baidu.com/s?id=1842419970283550670&wfr=spider&for=pc",
+      "time": "9月5日 18:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "詹姆斯在暴雨中和球迷互动：你好成都！",
+      "link": "http://www.dongqiudi.com/articles/5355921.html",
+      "time": "9月5日 17:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "詹姆斯抵达成都",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-05/doc-infpkhuw3026997.shtml",
+      "time": "9月5日 01:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "詹姆斯将出席中国男女篮国青队训练",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-04/doc-infpiwff8517925.shtml",
+      "time": "9月4日 21:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "詹姆斯第15次中国行开启,将访上海成都",
+      "link": "http://cj.sina.com.cn/articles/view/2418842335/p902c9adf02701uwuo",
+      "time": "9月4日 13:30",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "詹姆斯凌晨抵蓉，双子塔巨幅海报见证巨星魅力",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8PROSIG0556C2ZP.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:28:41",
+      "event_time": "9月6日 17:58"
+    },
+    {
+      "event_title": "詹姆斯结束本次中国行",
+      "event_id": "event_2",
+      "event_url": "http://m.cnhubei.com/content/2025-09/06/content_19479254.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:28:43",
+      "event_time": "9月6日 11:13"
+    },
+    {
+      "event_title": "詹姆斯:中国球迷热情“不可思议” 愿激励下一代球员成长",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/1699432410/654b47da02001k46s",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:28:45",
+      "event_time": "9月6日 10:25"
+    },
+    {
+      "event_title": "詹姆斯中国行时隔14年再来成都,球迷集体高呼“LBJ”",
+      "event_id": "event_4",
+      "event_url": "http://news.ycwb.com/ikinvkbtkn/content_53645318.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:28:47",
+      "event_time": "9月5日 21:30"
+    },
+    {
+      "event_title": "NBA巨星詹姆斯时隔14年再来成都,雨中与粉丝互动,球迷集体高呼“LBJ”",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842419970283550670&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "Trainer芸芸",
+      "comment_time": "09-05 19:24",
+      "comment_content": "雨中粉丝热情不减，詹姆斯回应爱意，十四年重逢太温馨啦。",
+      "user_location": "贵州",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 23:29:04",
+      "event_time": "9月5日 18:06"
+    },
+    {
+      "event_title": "詹姆斯在暴雨中和球迷互动：你好成都！",
+      "event_id": "event_6",
+      "event_url": "http://www.dongqiudi.com/articles/5355921.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:29:06",
+      "event_time": "9月5日 17:36"
+    },
+    {
+      "event_title": "詹姆斯抵达成都",
+      "event_id": "event_7",
+      "event_url": "http://sports.sina.com.cn/basketball/nba/2025-09-05/doc-infpkhuw3026997.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:29:08",
+      "event_time": "9月5日 01:29"
+    },
+    {
+      "event_title": "詹姆斯将出席中国男女篮国青队训练",
+      "event_id": "event_8",
+      "event_url": "http://sports.sina.com.cn/basketball/nba/2025-09-04/doc-infpiwff8517925.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:29:10",
+      "event_time": "9月4日 21:28"
+    },
+    {
+      "event_title": "詹姆斯第15次中国行开启,将访上海成都",
+      "event_id": "event_9",
+      "event_url": "http://cj.sina.com.cn/articles/view/2418842335/p902c9adf02701uwuo",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:29:12",
+      "event_time": "9月4日 13:30"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 9,
+    "total_comments": 9,
+    "events_with_comments": 9,
+    "level1_scrape_time": "2025-09-12 23:28:40",
+    "level2_scrape_time": "2025-09-12 23:29:12"
+  }
+}

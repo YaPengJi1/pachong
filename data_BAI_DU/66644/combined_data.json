@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:27:09"
+  },
+  "core_event": {
+    "core_event_name": "哈尔滨马拉松“最快女护士”哭诉",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:26:45"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "马拉松“最快女护士”哭调休",
+      "link": "http://www.163.com/dy/article/K90KHS6I0516BIKO.html",
+      "time": "9月9日 09:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "张水华哈尔滨马拉松成绩",
+      "link": "http://weibo.com/6901776669/Q3deUhZif",
+      "time": "9月5日 23:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "张水华，被称为“最快女护士”的马拉松冠军",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4648585771124060902",
+      "time": "9月4日 22:06",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "马拉松“最快女护士”哭调休",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K90KHS6I0516BIKO.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:27:01",
+      "event_time": "9月9日 09:06"
+    },
+    {
+      "event_title": "张水华哈尔滨马拉松成绩",
+      "event_id": "event_2",
+      "event_url": "http://weibo.com/6901776669/Q3deUhZif",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:27:03",
+      "event_time": "9月5日 23:27"
+    },
+    {
+      "event_title": "张水华，被称为“最快女护士”的马拉松冠军",
+      "event_id": "event_3",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4648585771124060902",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:27:05",
+      "event_time": "9月4日 22:06"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 10:26:59",
+    "level2_scrape_time": "2025-09-12 10:27:05"
+  }
+}

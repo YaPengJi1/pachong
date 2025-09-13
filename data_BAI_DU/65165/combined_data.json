@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 19:29:07"
+  },
+  "core_event": {
+    "core_event_name": "美联储对关税影响通胀的看法",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:28:27"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美联储“三把手”:关税对通胀影响甚微,适时降息是合适之举",
+      "link": "http://app.myzaker.com/news/article.php?m=1757031642&pk=68ba2bf38e9f09251100ef1d",
+      "time": "9月5日 08:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "9月降息预期升温!纽约联储主席威廉姆斯称“关税未”推高通胀",
+      "link": "http://baijiahao.baidu.com/s?id=1842375067997809401&wfr=spider&for=pc",
+      "time": "9月5日 06:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美联储威廉姆斯:鉴于通胀,适度的政策限制是适当的。",
+      "link": "http://finance.sina.cn/7x24/2025-09-05/detail-infpkanw6562228.d.html",
+      "time": "9月5日 00:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美国关税政策扰动全球市场",
+      "link": "http://tv.cctv.com/2025/09/04/VIDEwIH5rucjRZgnUXRoqbit250904.shtml",
+      "time": "9月4日 21:16",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "美联储“三把手”:关税对通胀影响甚微,适时降息是合适之举",
+      "event_id": "event_1",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1757031642&pk=68ba2bf38e9f09251100ef1d",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:28:42",
+      "event_time": "9月5日 08:17"
+    },
+    {
+      "event_title": "9月降息预期升温!纽约联储主席威廉姆斯称“关税未”推高通胀",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842375067997809401&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:28:59",
+      "event_time": "9月5日 06:43"
+    },
+    {
+      "event_title": "美联储威廉姆斯:鉴于通胀,适度的政策限制是适当的。",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-05/detail-infpkanw6562228.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:29:01",
+      "event_time": "9月5日 00:06"
+    },
+    {
+      "event_title": "美国关税政策扰动全球市场",
+      "event_id": "event_4",
+      "event_url": "http://tv.cctv.com/2025/09/04/VIDEwIH5rucjRZgnUXRoqbit250904.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:29:03",
+      "event_time": "9月4日 21:16"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 19:28:41",
+    "level2_scrape_time": "2025-09-12 19:29:03"
+  }
+}

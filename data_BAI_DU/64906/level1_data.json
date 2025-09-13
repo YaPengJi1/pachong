@@ -1,0 +1,140 @@
+{
+  "core_info": {
+    "core_event_name": "新世代宝马IX3发布",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:12:04"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "宝马以百年积淀重塑豪华电动未来",
+      "link": "http://www.yicai.com/news/102816243.html",
+      "time": "9月9日 21:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "宝马电动新纪元开启新世代 BMW iX3全球首发",
+      "link": "http://baijiahao.baidu.com/s?id=1842502452110643223&wfr=spider&for=pc",
+      "time": "9月6日 13:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "新世代BMW iX3全球首发 中国版2026年投产",
+      "link": "http://finance.eastmoney.com/a/202509053506340188.html",
+      "time": "9月5日 21:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "新世代宝马IX3发布",
+      "link": "http://www.163.com/dy/article/K8ND7VFD0511DG68.html",
+      "time": "9月5日 19:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "宝马新世代iX3全球首发 中国专属版年内亮相",
+      "link": "http://info.xcar.com.cn/202509/news_2081046_1.html",
+      "time": "9月5日 18:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "新世代宝马IX3来了 国产版或将2026年上市",
+      "link": "http://auto.sina.com.cn/newcar/2025-09-05/detail-infpmuwa5842241.shtml",
+      "time": "9月5日 18:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "新世代BMW iX3全球首发",
+      "link": "http://www.d1ev.com/carnews/xinche/274228",
+      "time": "9月5日 17:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "宝马新世代的首款产品——全新 iX3 正式亮相",
+      "link": "http://weibo.com/1242347463/Q3aQCC3yv",
+      "time": "9月5日 17:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "宝马新世代首款量产车型 BMW iX3全球首发",
+      "link": "http://auto.youth.cn/xc/202509/t20250905_16218511.htm",
+      "time": "9月5日 11:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "宝马集团宣布：新世代首款量产车型9月5日全球首发",
+      "link": "http://baijiahao.baidu.com/s?id=1842356644512309537&wfr=spider&for=pc",
+      "time": "9月5日 00:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "宝马新世代首款量产车型BMW iX3将全球首发 中国版2026年投产",
+      "link": "http://www.cnstock.com/commonDetail/515178",
+      "time": "9月4日 15:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "新世代首款量产车型BMW iX3将于9月5日全球首发 2026年引入国产",
+      "link": "http://baijiahao.baidu.com/s?id=1842316130382977148&wfr=spider&for=pc",
+      "time": "9月4日 15:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "新世代首款量产车明日全球首发",
+      "link": "http://auto.ce.cn/auto/gundong/202509/t20250904_2464422.shtml",
+      "time": "9月4日 14:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "新一代宝马外观大变!新世代首款量产车iX3将于9月5日全球首发",
+      "link": "http://news.mydrivers.com/1/1072/1072400.htm",
+      "time": "9月4日 12:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "全新宝马IX3将于9月5日首发 26年国内投产",
+      "link": "http://www.pcauto.com.cn/nation/4997/49971731.html",
+      "time": "9月4日 11:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "宝马全新iX3定档9月5日首发",
+      "link": "http://k.sina.com.cn/article_2298836177_890574d104001de2q.html",
+      "time": "9月1日 15:45",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 16,
+  "scrape_time": "2025-09-12 17:12:18"
+}

@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "广东受台风“塔巴”影响",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:46:43"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "“塔巴”登陆广东 远距离向华西送水",
+      "link": "http://video.sina.cn/finance/2025-09-09/detail-infpvyaq8919085.d.html",
+      "time": "9月9日 07:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "广东多部门再发防台风提醒",
+      "link": "http://weibo.com/5999251130/Q3v7Rla2h",
+      "time": "9月7日 21:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "台风“塔巴”要来了",
+      "link": "http://www.sxwbs.com/detail/99b6abfc23ba4e198c4224e89be2115b?t=MjAyNS0wOS0wNw==&contentType=1",
+      "time": "9月7日 12:33",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 14:46:58"
+}

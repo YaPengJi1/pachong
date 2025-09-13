@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "巴西女排击败法国队晋级四强",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:32:59"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "巴西零封法国，成意大利最大对手，中国羡慕",
+      "link": "http://www.163.com/dy/article/K8NHJJMV0556DGM8.html",
+      "time": "9月5日 20:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "巴西女排淘汰法国晋级世锦赛四强",
+      "link": "http://m.gmw.cn/2025-09/05/content_1304135855.htm",
+      "time": "9月5日 10:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "法国女排无缘四强多人泣不成声，央视：法国进步神速令人印象深刻",
+      "link": "http://cj.sina.com.cn/articles/view/2289815244/887bcecc02002n5di",
+      "time": "9月5日 09:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "力克法国队 巴西女排晋级四强",
+      "link": "http://tv.cctv.com/2025/09/04/VIDEcgnkhOijzVrRUax4P6Gi250904.shtml",
+      "time": "9月4日 21:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中国女排输法国让世界积分排名跌至第7 第四次无缘世锦赛八强",
+      "link": "http://www.163.com/dy/article/K8BJRFU60556C2XP.html",
+      "time": "9月1日 05:10",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 00:33:13"
+}

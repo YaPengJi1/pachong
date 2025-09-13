@@ -1,0 +1,266 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 00:14:09"
+  },
+  "core_event": {
+    "core_event_name": "泰国新总理出炉",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:12:51"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "阿努廷当选新总理!佩通坦发声,给出两个重点",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7161495286609421433",
+      "time": "9月6日 21:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "泰国新总理出炉，祖籍广东",
+      "link": "http://www.163.com/dy/article/K8P0S0RA0512830U.html",
+      "time": "9月6日 10:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "泰国产生新总理，此前一天他信又跑了",
+      "link": "http://www.163.com/dy/article/K8OTQMH00550A0OW.html",
+      "time": "9月6日 09:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "泰国自豪泰党党首阿努廷将出任新总理",
+      "link": "http://baijiahao.baidu.com/s?id=1842466082252852498&wfr=spider&for=pc",
+      "time": "9月5日 20:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "泰国自豪泰党党首阿努廷将出任新任总理,父母都是广东籍华人",
+      "link": "http://news.ycwb.com/ikinvkbtkn/content_53645300.htm",
+      "time": "9月5日 19:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "阿努廷将出任泰国新总理",
+      "link": "http://baijiahao.baidu.com/s?id=1842419153311448342&wfr=spider&for=pc",
+      "time": "9月5日 18:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "他将出任泰国新总理!父母是广东籍华人,祖先来自广州",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmuwe2415468.d.html",
+      "time": "9月5日 17:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "泰国选出新总理",
+      "link": "http://baijiahao.baidu.com/s?id=1842423868633893518&wfr=spider&for=pc",
+      "time": "9月5日 17:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "泰国选举结果出炉，阿努廷将出任泰国总理",
+      "link": "http://cj.sina.com.cn/articles/view/1784473157/6a5ce64502003aji2",
+      "time": "9月5日 17:01",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "阿努廷当选新总理!佩通坦发声,给出两个重点",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7161495286609421433",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:13:06",
+      "event_time": "9月6日 21:13"
+    },
+    {
+      "event_title": "泰国新总理出炉，祖籍广东",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8P0S0RA0512830U.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:13:08",
+      "event_time": "9月6日 10:08"
+    },
+    {
+      "event_title": "泰国产生新总理，此前一天他信又跑了",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8OTQMH00550A0OW.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:13:10",
+      "event_time": "9月6日 09:14"
+    },
+    {
+      "event_title": "泰国自豪泰党党首阿努廷将出任新总理",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842466082252852498&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:13:27",
+      "event_time": "9月5日 20:22"
+    },
+    {
+      "event_title": "泰国自豪泰党党首阿努廷将出任新任总理,父母都是广东籍华人",
+      "event_id": "event_5",
+      "event_url": "http://news.ycwb.com/ikinvkbtkn/content_53645300.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:13:29",
+      "event_time": "9月5日 19:46"
+    },
+    {
+      "event_title": "阿努廷将出任泰国新总理",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842419153311448342&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "百度网友83e6fc35",
+      "comment_time": "09-06 01:27",
+      "comment_content": "中泰经贸、人文交流都有大空间",
+      "user_location": "重庆",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:13:45",
+      "event_time": "9月5日 18:11"
+    },
+    {
+      "event_title": "阿努廷将出任泰国新总理",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842419153311448342&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "一麦知秋",
+      "comment_time": "09-06 01:27",
+      "comment_content": "新总理+50周年，双重节点，中泰合作再起航。",
+      "user_location": "海南",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:13:45",
+      "event_time": "9月5日 18:11"
+    },
+    {
+      "event_title": "阿努廷将出任泰国新总理",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842419153311448342&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "一藏之一点",
+      "comment_time": "09-06 01:27",
+      "comment_content": "中国的“朋友圈”越来越稳固了。",
+      "user_location": "海南",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:13:45",
+      "event_time": "9月5日 18:11"
+    },
+    {
+      "event_title": "他将出任泰国新总理!父母是广东籍华人,祖先来自广州",
+      "event_id": "event_7",
+      "event_url": "http://finance.sina.cn/2025-09-05/detail-infpmuwe2415468.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:13:47",
+      "event_time": "9月5日 17:20"
+    },
+    {
+      "event_title": "泰国选出新总理",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842423868633893518&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "枫缘奉鸢里",
+      "comment_time": "09-05 21:01",
+      "comment_content": "蹦哒不了几天",
+      "user_location": "北京",
+      "like_count": 1,
+      "scrape_time": "2025-09-13 00:14:02",
+      "event_time": "9月5日 17:09"
+    },
+    {
+      "event_title": "泰国选出新总理",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842423868633893518&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "天津天气Az",
+      "comment_time": "09-06 02:39",
+      "comment_content": "泰国新总理出炉，祝中泰友谊长存！",
+      "user_location": "黑龙江",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:14:02",
+      "event_time": "9月5日 17:09"
+    },
+    {
+      "event_title": "泰国选出新总理",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842423868633893518&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "结婚那件世",
+      "comment_time": "09-05 20:17",
+      "comment_content": "祝贺泰国新总理上任，愿中泰友谊长存！",
+      "user_location": "北京",
+      "like_count": 2,
+      "scrape_time": "2025-09-13 00:14:02",
+      "event_time": "9月5日 17:09"
+    },
+    {
+      "event_title": "泰国选举结果出炉，阿努廷将出任泰国总理",
+      "event_id": "event_9",
+      "event_url": "http://cj.sina.com.cn/articles/view/1784473157/6a5ce64502003aji2",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:14:05",
+      "event_time": "9月5日 17:01"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 9,
+    "total_comments": 13,
+    "events_with_comments": 9,
+    "level1_scrape_time": "2025-09-13 00:13:05",
+    "level2_scrape_time": "2025-09-13 00:14:05"
+  }
+}

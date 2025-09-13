@@ -1,0 +1,46 @@
+{
+  "core_event_name": "寒武纪股票下跌及并购新进展",
+  "comments": [
+    {
+      "event_title": "寒武纪市值蒸发约700亿",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842314243065176873&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "百度网友220f57b",
+      "comment_time": "09-04 16:35",
+      "comment_content": "寒武纪：每股估值最多就218元，其余都是泡沫。",
+      "user_location": "广东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:53:00",
+      "event_time": "9月4日 14:34"
+    },
+    {
+      "event_title": "牛市急刹车?寒武纪领跌超13%,后市怎么看?科创人工智能ETF重挫5%,资金积极抢筹589520!",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842311440384241618&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:53:16",
+      "event_time": "9月4日 13:51"
+    },
+    {
+      "event_title": "寒武纪跌逾6%,华虹公司并购新进展",
+      "event_id": "event_3",
+      "event_url": "http://finance.eastmoney.com/a/202509013500896330.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:53:18",
+      "event_time": "9月1日 11:16"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 17:53:18"
+}

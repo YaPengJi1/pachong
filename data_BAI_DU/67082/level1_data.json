@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "以色列空袭卡塔尔，中东危局升级",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:18:01"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "以色列空袭卡塔尔，最大输家是美国",
+      "link": "http://baijiahao.baidu.com/s?id=1842931246227315167&wfr=spider&for=pc",
+      "time": "昨天 10:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "以色列空袭卡塔尔，中东危局更危",
+      "link": "http://finance.sina.cn/2025-09-11/detail-infpzzsv2144916.d.html",
+      "time": "昨天 02:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "以色列“突袭”卡塔尔 整件事有多严重?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13612274932763904747",
+      "time": "9月10日 21:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "以军10枚导弹砸向多哈,特朗普提前知道消息,卡塔尔只字不提报仇",
+      "link": "http://cj.sina.com.cn/articles/view/6240526731/173f6e18b00102z64s",
+      "time": "9月10日 16:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "以色列空袭卡塔尔,特朗普当局罕见顾左右而言他",
+      "link": "http://baijiahao.baidu.com/s?id=1842862407596050681&wfr=spider&for=pc",
+      "time": "9月10日 14:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "以色列突袭卡塔尔!美国知情?中东局势再度升级!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3731923716418125964",
+      "time": "9月10日 14:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "以色列突袭卡塔尔，卡塔尔敢不敢还手",
+      "link": "http://new.qq.com/rain/a/20250910A04GW700",
+      "time": "9月10日 13:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "以色列向卡塔尔扔导弹!哈马斯会“灭门”吗?特朗普:跟我没关系",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11880547202687090487",
+      "time": "9月10日 12:10",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-12 11:18:16"
+}

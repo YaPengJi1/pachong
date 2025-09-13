@@ -1,0 +1,59 @@
+{
+  "core_event_name": "新热带低压逼近广东沿海",
+  "comments": [
+    {
+      "event_title": "台风“塔巴”逼近广东沿海",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6674176241237522169",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:34:28",
+      "event_time": "9月8日 12:20"
+    },
+    {
+      "event_title": "今年第16号台风即将生成并趋向广东",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5771287309948701157",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:34:30",
+      "event_time": "9月6日 16:47"
+    },
+    {
+      "event_title": "新热带低压预计趋向广东沿海!全省大部将有明显风雨高温缓解",
+      "event_id": "event_3",
+      "event_url": "http://news.sohu.com/a/932370976_161795",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:34:32",
+      "event_time": "9月6日 10:04"
+    },
+    {
+      "event_title": "新台风或将生成,周日起广东将现明显降雨",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842468143956376338&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:34:50",
+      "event_time": "9月6日 07:22"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 14:34:50"
+}

@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "蓝思科技股价大涨",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:48:22"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "蓝思科技股价涨5.16%,嘉实基金旗下3只基金重仓,合计持有69.44万股浮盈赚取106.94万元",
+      "link": "http://baijiahao.baidu.com/s?id=1842301024811364937&wfr=spider&for=pc",
+      "time": "9月4日 11:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "蓝思科技股价涨5.16%,中金基金旗下2只基金重仓,合计持有42.14万股浮盈赚取64.9万元",
+      "link": "http://news.sohu.com/a/931717345_122014422",
+      "time": "9月4日 09:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "蓝思科技股价涨5.16%,申万菱信基金旗下1只基金重仓,持有126.38万股浮盈赚取194.63万元",
+      "link": "http://news.sohu.com/a/931713591_122014422",
+      "time": "9月4日 09:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "蓝思科技股价涨5.16%,万家基金旗下1只基金重仓,持有10.09万股浮盈赚取15.54万元",
+      "link": "http://news.sohu.com/a/931708559_122014422",
+      "time": "9月4日 09:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "蓝思科技9月4日盘中涨幅达5%",
+      "link": "http://finance.eastmoney.com/a/202509043504345177.html",
+      "time": "9月4日 09:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "蓝思科技涨3.97%,成交额36.91亿元,今日主力净流入1.50亿",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-13 01:48:36"
+}

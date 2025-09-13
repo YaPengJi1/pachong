@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "华为三折叠屏手机新品发布",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:16:46"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "华为新三折叠上手",
+      "link": "http://news.mydrivers.com/1/1072/1072699.htm",
+      "time": "9月5日 14:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "华为首款折叠屏手机产自松山湖",
+      "link": "http://www.163.com/dy/article/K8MQ9LMI0553RS1E.html",
+      "time": "9月5日 13:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "华为新款三折叠手机起售价17999元 余承东:炒股神器!",
+      "link": "http://news.hnr.cn/shxw/article/1/1963554566234718209",
+      "time": "9月4日 18:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "华为MateXTs三折叠手机星闪折叠键盘亮相，表面就是触控板",
+      "link": "http://baijiahao.baidu.com/s?id=1842315648071873127&wfr=spider&for=pc",
+      "time": "9月4日 14:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "华为Mate XTs 非凡大师即将亮相",
+      "link": "http://baijiahao.baidu.com/s?id=1842207404967052336&wfr=spider&for=pc",
+      "time": "9月3日 10:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 17:17:00"
+}

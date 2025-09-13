@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "WTT澳门冠军赛签表出炉",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:52:05"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "澳门冠军赛今日开赛!9日赛程公布:国乒4人出战,王楚钦首轮抗日",
+      "link": "http://baijiahao.baidu.com/s?id=1842759002259101965&wfr=spider&for=pc",
+      "time": "9月9日 12:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "WTT澳门冠军赛2025日程公布",
+      "link": "http://weibo.com/5555126817/Q3KwHFbUG",
+      "time": "9月9日 12:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "澳门冠军赛9日赛程出炉",
+      "link": "http://baijiahao.baidu.com/s?id=1842751284169003453&wfr=spider&for=pc",
+      "time": "9月9日 10:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "澳门冠军赛开打，9月9日赛程出炉，林诗栋、王楚钦、王艺迪迎首秀",
+      "link": "http://new.qq.com/rain/a/20250909A02AIQ00",
+      "time": "9月9日 09:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "澳门冠军赛今天开打!9月9日赛程:国乒4场对决,王楚钦战日本名将",
+      "link": "http://new.qq.com/rain/a/20250908A0895M00",
+      "time": "9月9日 00:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "WTT澳门冠军赛9月9日王楚钦VS松岛辉空",
+      "link": "http://cj.sina.com.cn/articles/view/5024830603/12b80d48b001014nei",
+      "time": "9月8日 23:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "WTT澳门冠军赛签表出炉",
+      "link": "http://baijiahao.baidu.com/s?id=1842679116535360816&wfr=spider&for=pc",
+      "time": "9月8日 15:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "孙颖莎林诗栋等赛程出炉，国乒全主力出战澳门冠军赛，王楚钦复出",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8260703128124540253",
+      "time": "9月8日 10:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "WTT澳门冠军赛9月9日开赛，林昀儒亮相倒计时海报",
+      "link": "http://k.sina.com.cn/article_6320391439_178b9850f040016tx6.html",
+      "time": "9月5日 09:39",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 10:52:20"
+}

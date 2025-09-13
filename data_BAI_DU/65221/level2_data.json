@@ -1,0 +1,46 @@
+{
+  "core_event_name": "险资系私募基金调仓",
+  "comments": [
+    {
+      "event_title": "险资最新调仓曝光，狂买银行电信，减持石化",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/1651428902/626ece2602001czqk",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:34:22",
+      "event_time": "9月5日 10:34"
+    },
+    {
+      "event_title": "险资系证券私募,持仓曝光",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.com.cn/jjxw/2025-09-03/doc-infpewan4547127.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:34:24",
+      "event_time": "9月3日 12:23"
+    },
+    {
+      "event_title": "险资系私募基金买了哪些票股",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.com.cn/stock/zqgd/2025-09-02/doc-infpatck0245647.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:34:26",
+      "event_time": "9月2日 14:48"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 20:34:26"
+}

@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "15号台风“琵琶”生成",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:25:01"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "台风“琵琶”已登陆日本",
+      "link": "http://baijiahao.baidu.com/s?id=1842378100650325808&wfr=spider&for=pc",
+      "time": "9月5日 07:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "第15号台风“琵琶”生成",
+      "link": "http://m.gmw.cn/toutiao/2025-09/04/content_1304134981.htm",
+      "time": "9月4日 13:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "今年第15号台风“琵琶”刚刚生成",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31548787",
+      "time": "9月4日 07:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "15号台风“琵琶”或将生成",
+      "link": "http://baijiahao.baidu.com/s?id=1842168871421038359&wfr=spider&for=pc",
+      "time": "9月3日 00:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "台风“琵琶”或将生成,严重影响我国?坏消息:暴雨加高温将上线",
+      "link": "http://www.163.com/dy/article/K8G0IEB1055616YC.html",
+      "time": "9月2日 22:09",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 17:25:16"
+}

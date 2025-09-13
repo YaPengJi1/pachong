@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:40:28"
+  },
+  "core_event": {
+    "core_event_name": "国家医保局推进生育津贴直接发放至个人",
+    "update_time": "更新至20250902",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:39:50"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国家医保局推进生育津贴直接发放至个人 近八成统筹区已实现",
+      "link": "http://news.china.com/socialgd/10000169/20250902/48783378.html",
+      "time": "9月2日 14:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "生娃潮爆发!育儿津贴不经过公司了!20省宝妈直接到账",
+      "link": "http://baijiahao.baidu.com/s?id=1842072662942632652&wfr=spider&for=pc",
+      "time": "9月1日 22:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "生育津贴直接发放至个人!这些地方已实现→",
+      "link": "http://cj.sina.com.cn/articles/view/1834439937/6d575501020017pqu",
+      "time": "9月1日 15:10",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "国家医保局推进生育津贴直接发放至个人 近八成统筹区已实现",
+      "event_id": "event_1",
+      "event_url": "http://news.china.com/socialgd/10000169/20250902/48783378.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:40:05",
+      "event_time": "9月2日 14:22"
+    },
+    {
+      "event_title": "生娃潮爆发!育儿津贴不经过公司了!20省宝妈直接到账",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842072662942632652&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:40:22",
+      "event_time": "9月1日 22:36"
+    },
+    {
+      "event_title": "生育津贴直接发放至个人!这些地方已实现→",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/1834439937/6d575501020017pqu",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:40:24",
+      "event_time": "9月1日 15:10"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 18:40:04",
+    "level2_scrape_time": "2025-09-12 18:40:24"
+  }
+}

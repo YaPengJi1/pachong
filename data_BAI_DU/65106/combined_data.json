@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:24:50"
+  },
+  "core_event": {
+    "core_event_name": "金价突破3500美元",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:24:05"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "金价突破3500美元，行业分化加剧",
+      "link": "http://cj.sina.com.cn/articles/view/1646051850/621cc20a04001evqo",
+      "time": "9月4日 16:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "金价破3500创历史新高",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b802c11bc8e03723000001",
+      "time": "9月3日 16:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "黄金再度升至3500美元/盎司上方",
+      "link": "http://finance.eastmoney.com/a/202509023502628548.html",
+      "time": "9月2日 22:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "金价如今同风起 强势攻破3500",
+      "link": "http://baijiahao.baidu.com/s?id=1842125942942397129&wfr=spider&for=pc",
+      "time": "9月2日 11:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "黄金、白银创历史新高",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31529575",
+      "time": "9月2日 11:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "突破3500美元关口 国际金价迎来五连涨",
+      "link": "http://www.chinanews.com/m/cj/2025/09-01/10474892.shtml",
+      "time": "9月1日 19:07",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "金价突破3500美元，行业分化加剧",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/1646051850/621cc20a04001evqo",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:24:21",
+      "event_time": "9月4日 16:43"
+    },
+    {
+      "event_title": "金价破3500创历史新高",
+      "event_id": "event_2",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68b802c11bc8e03723000001",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:24:23",
+      "event_time": "9月3日 16:56"
+    },
+    {
+      "event_title": "黄金再度升至3500美元/盎司上方",
+      "event_id": "event_3",
+      "event_url": "http://finance.eastmoney.com/a/202509023502628548.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:24:25",
+      "event_time": "9月2日 22:26"
+    },
+    {
+      "event_title": "金价如今同风起 强势攻破3500",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842125942942397129&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:24:41",
+      "event_time": "9月2日 11:53"
+    },
+    {
+      "event_title": "黄金、白银创历史新高",
+      "event_id": "event_5",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31529575",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:24:43",
+      "event_time": "9月2日 11:29"
+    },
+    {
+      "event_title": "突破3500美元关口 国际金价迎来五连涨",
+      "event_id": "event_6",
+      "event_url": "http://www.chinanews.com/m/cj/2025/09-01/10474892.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:24:45",
+      "event_time": "9月1日 19:07"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 18:24:19",
+    "level2_scrape_time": "2025-09-12 18:24:45"
+  }
+}

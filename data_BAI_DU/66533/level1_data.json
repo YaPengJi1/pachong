@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "马斯克宣称研发最强AI芯片",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:39:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "马斯克:5 年后,AI 将比所有人类加起来都聪明",
+      "link": "http://www.ithome.com/0/882/222.htm",
+      "time": "昨天 17:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "马斯克XAI自研推理芯片曝光!代号X1、台积电3纳米工艺、明年就量产",
+      "link": "http://k.sina.com.cn/article_7096019974_1a6f4ac0602001v1jq.html",
+      "time": "9月8日 16:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "马斯克宣称研发“史上最强AI芯片”",
+      "link": "http://new.qq.com/rain/a/20250908A04UZZ00",
+      "time": "9月8日 14:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "马斯克宣布特斯拉AI5芯片设计完成",
+      "link": "http://k.sina.cn/article_1750070171_684ff39b04001d6hg.html",
+      "time": "9月8日 09:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "特斯拉自研芯片AI5完成设计评审",
+      "link": "http://baijiahao.baidu.com/s?id=1842600074835073138&wfr=spider&for=pc",
+      "time": "9月7日 15:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "特斯拉自研AI5芯片完成设计评审 马斯克盛赞为“史诗级”产品",
+      "link": "http://news.mydrivers.com/1/1072/1072995.htm",
+      "time": "9月7日 14:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "马斯克:自研芯片将成“史诗级”产品",
+      "link": "http://baijiahao.baidu.com/s?id=1842570733821028421&wfr=spider&for=pc",
+      "time": "9月7日 10:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "马斯克重磅官宣,将成“史诗级”产品!",
+      "link": "http://www.nbd.com.cn/articles/2025-09-07/4051472.html",
+      "time": "9月7日 10:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "特斯拉自研芯片新进展 AI5完成设计评审 马斯克:将成“史诗级”产品",
+      "link": "http://baijiahao.baidu.com/s?id=1842564043435514771&wfr=spider&for=pc",
+      "time": "9月7日 08:46",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 11:39:47"
+}

@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "墨西哥城油罐车爆炸事故",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:52:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "墨西哥首都发生液化石油气槽罐车爆炸事故 已致3死70伤",
+      "link": "http://tv.cctv.com/2025/09/11/VIDELjeKvocNetJ9FlurAeQT250911.shtml",
+      "time": "昨天 12:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "墨西哥:一油罐车发生爆炸 3人死亡70人受伤",
+      "link": "http://tv.cctv.com/2025/09/11/VIDEK6Unk0fvG6jGwM2Ar51E250911.shtml",
+      "time": "昨天 11:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "墨西哥一液化气罐车爆炸 3人死亡70人受伤",
+      "link": "http://new.qq.com/rain/a/20250911V03B3300",
+      "time": "昨天 11:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "墨西哥一油罐车起火引发爆炸 事故已造成3人死亡70人受伤",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8554654223414929783",
+      "time": "昨天 11:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "墨西哥城油罐车爆炸3死70人伤",
+      "link": "http://www.kankanews.com/detail/PbwR0N8M4y4",
+      "time": "昨天 11:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "墨西哥城爆炸事故造成57人受伤",
+      "link": "http://cj.sina.com.cn/articles/view/1699432410/654b47da02001k7wc",
+      "time": "昨天 07:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "墨西哥城燃气爆炸事故造成57人受伤",
+      "link": "http://baijiahao.baidu.com/s?id=1842918347594408335&wfr=spider&for=pc",
+      "time": "昨天 06:38",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 09:53:06"
+}

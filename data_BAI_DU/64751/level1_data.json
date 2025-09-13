@@ -1,0 +1,108 @@
+{
+  "core_info": {
+    "core_event_name": "泰国新总理选举",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:58:56"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "泰国政坛再次变天，阿努廷刚当选新总理，2026年或再迎大选",
+      "link": "http://baijiahao.baidu.com/s?id=1842751747731419642&wfr=spider&for=pc",
+      "time": "9月9日 10:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "阿努廷将出任泰国新任总理",
+      "link": "http://baijiahao.baidu.com/s?id=1842424184348236639&wfr=spider&for=pc",
+      "time": "9月5日 17:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "泰国选出新总理",
+      "link": "http://baijiahao.baidu.com/s?id=1842423868633893518&wfr=spider&for=pc",
+      "time": "9月5日 17:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "泰国选举结果出炉:阿努廷将出任泰国总理",
+      "link": "http://cj.sina.com.cn/articles/view/1784473157/6a5ce64502003aji2",
+      "time": "9月5日 17:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "泰国新总理揭晓，谁是热门人选？",
+      "link": "http://baijiahao.baidu.com/s?id=1842392031425931627&wfr=spider&for=pc",
+      "time": "9月5日 11:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "泰国新总理揭晓，阿努廷成为选举最热门人选",
+      "link": "http://baijiahao.baidu.com/s?id=1842390882506770918&wfr=spider&for=pc",
+      "time": "9月5日 10:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "泰国国会今日投票选总理",
+      "link": "http://baijiahao.baidu.com/s?id=1842386836432828280&wfr=spider&for=pc",
+      "time": "9月5日 09:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "泰国新总理呼之欲出,政局突现重大转折,人民党倒向泰自豪党",
+      "link": "http://cj.sina.com.cn/articles/view/7295511708/1b2d8ac9c0200168xu",
+      "time": "9月5日 06:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "泰国国会下议院将于5日选举新一任总理",
+      "link": "http://baijiahao.baidu.com/s?id=1842314085900054604&wfr=spider&for=pc",
+      "time": "9月4日 13:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "泰国选情生变,新的造王者诞生,5人竞选新总理,他信成为关键?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7892358313784683407",
+      "time": "9月3日 17:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "角逐总理“宝座”,泰国各政党展开博弈",
+      "link": "http://baijiahao.baidu.com/s?id=1842109518266280143&wfr=spider&for=pc",
+      "time": "9月2日 08:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "为泰党与人民党握手言和,目标直指保守派和王室特权",
+      "link": "http://cj.sina.com.cn/articles/view/7295052889/1b2d1ac590200186b2",
+      "time": "9月1日 16:42",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 12,
+  "scrape_time": "2025-09-13 01:59:10"
+}

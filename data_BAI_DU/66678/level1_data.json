@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "中国U22男足对阵澳大利亚",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:59:29"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U22国足今晚对战澳大利亚",
+      "link": "http://baijiahao.baidu.com/s?id=1842778080561306567&wfr=spider&for=pc",
+      "time": "9月9日 17:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U22男足对澳大利亚拿分就出线，若负需半个亚洲帮忙",
+      "link": "http://www.163.com/dy/article/K903V1MC05506BEH.html",
+      "time": "9月9日 04:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "澳大利亚狂胜北马里亚纳,国足小胜东帝汶,亚预赛D组积分榜刷新",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16830087503752234559",
+      "time": "9月7日 12:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22国足将帅:全队状态良好,力争亚洲杯决赛圈席位",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11226820290328829982",
+      "time": "9月6日 00:16",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 10:59:44"
+}

@@ -1,0 +1,59 @@
+{
+  "core_event_name": "沪深两市成交额连续突破2万亿",
+  "comments": [
+    {
+      "event_title": "沪深两市成交额连续第18个交易日突破2万亿",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8MTOKJD05198CJN.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:09:31",
+      "event_time": "9月5日 14:35"
+    },
+    {
+      "event_title": "沪深两市成交额连续第17个交易日突破2万亿",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/2868676035/aafc85c302001ggfg",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:09:33",
+      "event_time": "9月4日 14:02"
+    },
+    {
+      "event_title": "沪深两市成交额突破1万亿元",
+      "event_id": "event_3",
+      "event_url": "http://m.yicai.com/brief/102804623.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:09:35",
+      "event_time": "9月2日 10:05"
+    },
+    {
+      "event_title": "自成交量持续突破2w亿,赚钱效应迅速消退殆尽",
+      "event_id": "event_4",
+      "event_url": "http://weibo.com/7890838568/Q25gDBq6h",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:09:37",
+      "event_time": "8月29日 13:19"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 17:09:37"
+}

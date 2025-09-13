@@ -1,0 +1,108 @@
+{
+  "core_info": {
+    "core_event_name": "长安汽车智能化新能源领域突破",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:28:11"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "新央企的智能化宣言 长安汽车科技大秀大打“安全”牌",
+      "link": "http://zqb.cyol.com/pc/content/202509/11/content_416140.html",
+      "time": "昨天 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "新长安闪耀慕尼黑国际车展",
+      "link": "http://baijiahao.baidu.com/s?id=1842769348031132465&wfr=spider&for=pc",
+      "time": "9月9日 15:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "长安集团多款新车慕尼黑车展发布 公布未来欧洲布局",
+      "link": "http://www.pcauto.com.cn/news/5000/50002387.html",
+      "time": "9月8日 22:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "长安发布智能化品牌“天枢智能” 把“安全回家”写进万家灯火",
+      "link": "http://new.qq.com/rain/a/20250908A05JFH00",
+      "time": "9月8日 15:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "长安汽车发布智能化品牌,为用户提供极致安全的智能出行解决方案",
+      "link": "http://baijiahao.baidu.com/s?id=1842678620237421651&wfr=spider&for=pc",
+      "time": "9月8日 15:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "长安汽车：未来35%用户仍选燃油车，新能源车占比将达65%",
+      "link": "http://www.d1ev.com/newsflash/274315",
+      "time": "9月7日 19:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "长安汽车发布天枢智能智能化品牌 与华为、腾讯、海尔等形成智能化“朋友圈”",
+      "link": "http://www.cnstock.com/commonDetail/516448",
+      "time": "9月7日 17:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "长安正在蜕变成智能科技公司 覆盖智电汽车等五大领域",
+      "link": "http://baijiahao.baidu.com/s?id=1842511978655905281&wfr=spider&for=pc",
+      "time": "9月6日 19:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "新长安发布智能化新品牌,朱华荣称“从没打过这么富裕的仗”",
+      "link": "http://finance.eastmoney.com/a/202509063506757184.html",
+      "time": "9月6日 16:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "长安汽车：智能化新能源领域取得突破",
+      "link": "http://news.stockstar.com/RB2025090500033862.shtml",
+      "time": "9月5日 19:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "长安汽车董事长语出惊人，直呼BBA太落后",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13670964093399698808",
+      "time": "9月5日 14:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "长安汽车多项数据处理专利获授权",
+      "link": "http://g.pconline.com.cn/x/1971/19710672.html",
+      "time": "9月1日 17:03",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 12,
+  "scrape_time": "2025-09-12 14:28:25"
+}

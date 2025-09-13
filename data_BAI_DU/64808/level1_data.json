@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "电子板块主力资金净流出超110亿元",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:14:43"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "电子板块净流入超180亿元",
+      "link": "http://www.cnstock.com/commonDetail/518820",
+      "time": "昨天 14:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "电力设备板块主力资金净流入170亿元",
+      "link": "http://www.cnstock.com/commonDetail/515781",
+      "time": "9月5日 14:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "主力板块资金流入前10:电池流入52.37亿元、光伏设备流入29.42亿元",
+      "link": "http://m.jrj.com.cn/madapter/24h/2025/09/05114252941389.shtml",
+      "time": "9月5日 11:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "电子板块主力资金净流出超110亿元",
+      "link": "http://finance.eastmoney.com/a/202509043504904657.html",
+      "time": "9月4日 10:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "主力板块资金流入前10",
+      "link": "http://www.sohu.com/a/931135903_121478296",
+      "time": "9月2日 15:08",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 17:14:57"
+}

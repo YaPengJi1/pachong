@@ -1,0 +1,318 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:26:39"
+  },
+  "core_event": {
+    "core_event_name": "2025聚星名人赛",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:23:04"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "“聚星名人赛” 来了!雷·阿伦、理查德·汉密尔顿、王鹤棣、吴尊等将齐聚成都",
+      "link": "http://www.scpublic.cn/news/getNewsDatail?id=839580",
+      "time": "9月7日 18:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "李宜迅带着新目标重返聚星名人赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842578859933384781&wfr=spider&for=pc",
+      "time": "9月7日 12:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "张阳阳聚星名人赛延续热血",
+      "link": "http://baijiahao.baidu.com/s?id=1842578859933775573&wfr=spider&for=pc",
+      "time": "9月7日 12:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "吴勇豪聚星名人赛点燃全场",
+      "link": "http://baijiahao.baidu.com/s?id=1842578859934820495&wfr=spider&for=pc",
+      "time": "9月7日 12:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "刘宸铭加入2025聚星名人赛表演嘉宾阵容",
+      "link": "http://baijiahao.baidu.com/s?id=1842493296403842076&wfr=spider&for=pc",
+      "time": "9月6日 14:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "沈晶晶加入2025聚星名人赛表演嘉宾阵容",
+      "link": "http://baijiahao.baidu.com/s?id=1842493296403680098&wfr=spider&for=pc",
+      "time": "9月6日 14:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "王润泽加入2025聚星名人赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842399051130302629&wfr=spider&for=pc",
+      "time": "9月5日 13:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "范志毅再度出征2025聚星名人赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842326827710341393&wfr=spider&for=pc",
+      "time": "9月4日 17:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "孙晨竣勇闯2025聚星名人赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842323430319336064&wfr=spider&for=pc",
+      "time": "9月4日 17:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "2025聚星名人赛，NBA传奇球星强势集结",
+      "link": "http://www.scpublic.cn/news/wx/detail?newsid=839285",
+      "time": "9月4日 14:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "篮球悍将西热力江将亮相2025聚星名人赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842313110761372020&wfr=spider&for=pc",
+      "time": "9月4日 14:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "黄曦彦出战2025聚星名人赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842311352012136400&wfr=spider&for=pc",
+      "time": "9月4日 13:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "马思唯相约2025聚星名人赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842309837990526359&wfr=spider&for=pc",
+      "time": "9月4日 13:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "阎鹤祥参加2025聚星名人赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842309837989995337&wfr=spider&for=pc",
+      "time": "9月4日 13:25",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "“聚星名人赛” 来了!雷·阿伦、理查德·汉密尔顿、王鹤棣、吴尊等将齐聚成都",
+      "event_id": "event_1",
+      "event_url": "http://www.scpublic.cn/news/getNewsDatail?id=839580",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:23:20",
+      "event_time": "9月7日 18:23"
+    },
+    {
+      "event_title": "李宜迅带着新目标重返聚星名人赛",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842578859933384781&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:23:36",
+      "event_time": "9月7日 12:41"
+    },
+    {
+      "event_title": "张阳阳聚星名人赛延续热血",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842578859933775573&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:23:52",
+      "event_time": "9月7日 12:41"
+    },
+    {
+      "event_title": "吴勇豪聚星名人赛点燃全场",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842578859934820495&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:24:08",
+      "event_time": "9月7日 12:40"
+    },
+    {
+      "event_title": "刘宸铭加入2025聚星名人赛表演嘉宾阵容",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842493296403842076&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:24:23",
+      "event_time": "9月6日 14:01"
+    },
+    {
+      "event_title": "沈晶晶加入2025聚星名人赛表演嘉宾阵容",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842493296403680098&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:24:39",
+      "event_time": "9月6日 14:01"
+    },
+    {
+      "event_title": "王润泽加入2025聚星名人赛",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842399051130302629&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "豆豆爱吃跳dancing",
+      "comment_time": "09-06 03:43",
+      "comment_content": "支持王润泽名人赛首秀，9月27日看他篮球热爱进阶。加油！",
+      "user_location": "上海",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:24:55",
+      "event_time": "9月5日 13:02"
+    },
+    {
+      "event_title": "范志毅再度出征2025聚星名人赛",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842326827710341393&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "雪域神探阿满",
+      "comment_time": "09-05 04:03",
+      "comment_content": "范大将军又来了，篮球场上秀风采。体育精神真棒，期待成都相见。",
+      "user_location": "江苏",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:25:11",
+      "event_time": "9月4日 17:54"
+    },
+    {
+      "event_title": "孙晨竣勇闯2025聚星名人赛",
+      "event_id": "event_9",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842323430319336064&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "战神阿瑞斯爱小猫",
+      "comment_time": "09-04 23:36",
+      "comment_content": "孙晨竣冲鸭！阳光帅气感染全场，期待成都绽放光芒！",
+      "user_location": "黑龙江",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:25:27",
+      "event_time": "9月4日 17:01"
+    },
+    {
+      "event_title": "2025聚星名人赛，NBA传奇球星强势集结",
+      "event_id": "event_10",
+      "event_url": "http://www.scpublic.cn/news/wx/detail?newsid=839285",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:25:29",
+      "event_time": "9月4日 14:45"
+    },
+    {
+      "event_title": "篮球悍将西热力江将亮相2025聚星名人赛",
+      "event_id": "event_11",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842313110761372020&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "我心自颜控",
+      "comment_time": "09-04 19:52",
+      "comment_content": "西热力江在成都赛场火力全开，防守硬进攻狠，真期待看他全能秀实力。（24字）",
+      "user_location": "甘肃",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:25:46",
+      "event_time": "9月4日 14:16"
+    },
+    {
+      "event_title": "黄曦彦出战2025聚星名人赛",
+      "event_id": "event_12",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842311352012136400&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "萱萱想买bag",
+      "comment_time": "09-05 10:22",
+      "comment_content": "黄曦彦回归真棒，九月名人赛等他再创惊喜！",
+      "user_location": "贵州",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:26:02",
+      "event_time": "9月4日 13:49"
+    },
+    {
+      "event_title": "马思唯相约2025聚星名人赛",
+      "event_id": "event_13",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842309837990526359&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "CottonCandy的保镖",
+      "comment_time": "09-05 12:08",
+      "comment_content": "马思唯主场燃动赛场，音乐篮球魅力满分，9月27日等你来嗨。",
+      "user_location": "江西",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:26:18",
+      "event_time": "9月4日 13:25"
+    },
+    {
+      "event_title": "阎鹤祥参加2025聚星名人赛",
+      "event_id": "event_14",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842309837989995337&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "惠州美眉小s",
+      "comment_time": "09-04 19:50",
+      "comment_content": "相声高手跨界球场，实力幽默双重惊喜，期待赛场上那份独特欢乐。",
+      "user_location": "海南",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:26:35"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 14,
+    "total_comments": 14,
+    "events_with_comments": 14,
+    "level1_scrape_time": "2025-09-13 02:23:18",
+    "level2_scrape_time": "2025-09-13 02:26:35"
+  }
+}

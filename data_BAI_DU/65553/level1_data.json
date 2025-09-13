@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "2025女排世锦赛1/4决赛",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:48:09"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "女排世锦赛四强全部出炉，亚洲球队仅剩日本",
+      "link": "http://cj.sina.com.cn/articles/view/2834321443/a8f0502300101meoi",
+      "time": "9月4日 23:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "2025女排世锦赛1/4决赛，土耳其女3比1排美国女排",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4107765258935064452",
+      "time": "9月4日 23:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "世锦赛1/4决赛对阵出炉!中国女排最差小组第一",
+      "link": "http://www.163.com/dy/article/K8G6JQ5E05497GLB.html",
+      "time": "9月2日 23:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "女排世锦赛1/4决赛:艾格努激情四射,意大利暴扣波兰",
+      "link": "http://baijiahao.baidu.com/s?id=1841976729702206553&wfr=spider&for=pc",
+      "time": "9月2日 00:05",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 01:48:23"
+}

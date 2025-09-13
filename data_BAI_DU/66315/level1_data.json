@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "全球央行黄金热潮",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:32:08"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "黄金飙升至1900美元/盎司，创历史新高",
+      "link": "http://finance.sina.com.cn/roll/2025-09-09/doc-infpwksn5293871.shtml",
+      "time": "9月9日 11:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "全球央行掀“黄金热”",
+      "link": "http://baijiahao.baidu.com/s?id=1842755149244748319&wfr=spider&for=pc",
+      "time": "9月9日 11:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美联储降息预期升温推动贵金属价格集体走高",
+      "link": "http://www.sohu.com/a/931386019_121925623",
+      "time": "9月3日 10:06",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 14:32:22"
+}

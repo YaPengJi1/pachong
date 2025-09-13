@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "U22国足3分钟2球",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:57:22"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U22国足:重压之下破局,晋级不是终点",
+      "link": "http://baijiahao.baidu.com/s?id=1842837091783936187&wfr=spider&for=pc",
+      "time": "9月10日 09:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国U23男足10-0大胜北马里亚纳群岛 王钰栋独造5球",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8931493218547530085",
+      "time": "9月9日 00:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U22国足迎战北马里亚纳,德国队遭遇冷门",
+      "link": "http://www.sohu.com/a/932110389_122001006",
+      "time": "9月5日 11:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22国足3分钟2球!王钰栋处子球,过人推射一气呵成,蒯纪闻妙传",
+      "link": "http://baijiahao.baidu.com/s?id=1842245777440465971&wfr=spider&for=pc",
+      "time": "9月3日 20:28",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 09:57:37"
+}

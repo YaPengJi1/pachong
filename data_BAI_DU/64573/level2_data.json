@@ -1,0 +1,46 @@
+{
+  "core_event_name": "美联储降息和宽松环境延续",
+  "comments": [
+    {
+      "event_title": "美联储沃勒力推本月启动降息，释放9月首降+连续宽松信号",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842334156115946594&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:25:04",
+      "event_time": "9月4日 19:52"
+    },
+    {
+      "event_title": "美联储理事沃勒力推9月降息 其他官员仍持谨慎态度",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/hkstock/gsxw/2025-09-03/detail-infpfxpz2397055.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:25:06",
+      "event_time": "9月3日 23:32"
+    },
+    {
+      "event_title": "美联储仍有望在9月开启降息，宽松环境或能延续",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.com.cn/money/fund/jjh/2025-09-03/doc-infpfakp9774089.shtml?froms=bdmp",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:25:08",
+      "event_time": "9月3日 16:30"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-13 02:25:08"
+}

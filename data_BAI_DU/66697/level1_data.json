@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "WTT澳门冠军赛",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:17:35"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国乒小将3-0战胜张本",
+      "link": "http://new.qq.com/rain/a/20250911V07KKZ00",
+      "time": "昨天 18:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "WTT澳门冠军赛开赛 首日上演多组16强争夺",
+      "link": "http://news.dayoo.com/sports/202509/10/140001_54870950.htm",
+      "time": "9月10日 09:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "孙颖莎、王曼昱将出战！WTT澳门冠军赛赛程来了",
+      "link": "http://m.gmw.cn/toutiao/2025-09/10/content_1304142100.htm",
+      "time": "9月10日 07:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "WTT澳门冠军赛2025赛程公布",
+      "link": "http://weibo.com/5555126817/Q3KwHFbUG",
+      "time": "9月9日 12:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "澳门冠军赛9日赛程出炉",
+      "link": "http://baijiahao.baidu.com/s?id=1842751284169003453&wfr=spider&for=pc",
+      "time": "9月9日 10:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "澳门冠军赛今天开打",
+      "link": "http://new.qq.com/rain/a/20250908A0895M00",
+      "time": "9月9日 00:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "国乒比赛来了,WTT澳门冠军赛9月9日+央视直播:王楚钦VS松岛辉空",
+      "link": "http://cj.sina.com.cn/articles/view/5024830603/12b80d48b001014nei",
+      "time": "9月8日 23:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "孙颖莎林诗栋等赛程出炉，国乒全主力出战澳门冠军赛，王楚钦复出",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8260703128124540253",
+      "time": "9月8日 10:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "WTT澳门冠军赛9月9日开赛，林昀儒亮相倒计时海报",
+      "link": "http://k.sina.com.cn/article_6320391439_178b9850f040016tx6.html",
+      "time": "9月5日 09:39",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 11:17:50"
+}

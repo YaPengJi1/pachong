@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "阿萨雷转会富勒姆",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:44:08"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "阿萨雷租借费300万欧随出场增加而降低 富勒姆可1200万买断",
+      "link": "http://www.163.com/dy/article/K8L2DP1B0529AQIE.html",
+      "time": "9月4日 21:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "英超批准富勒姆租借阿萨雷交易,租借费最高可达400万欧",
+      "link": "http://www.163.com/dy/article/K8FF4QH00529AQIE.html",
+      "time": "9月2日 17:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "拜仁将保留小将库西-阿萨雷的回购条款",
+      "link": "http://www.dongqiudi.com/articles/5350632.html",
+      "time": "9月2日 16:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "阿萨雷将租借加盟富勒姆",
+      "link": "http://www.dongqiudi.com/articles/5349775.html",
+      "time": "9月2日 07:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "富勒姆与拜仁的时间赛跑:阿萨雷转会的最后机会",
+      "link": "http://www.sohu.com/a/930914592_122001006",
+      "time": "9月2日 01:40",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 18:44:22"
+}

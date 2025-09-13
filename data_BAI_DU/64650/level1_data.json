@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "U22国足首开纪录，东帝汶对战",
+    "update_time": "更新至20250903",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:01:33"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U23亚预赛:U22国足主场2-1险胜东帝汶 拜合拉木、王钰栋破门",
+      "link": "http://cj.sina.com.cn/articles/view/7880068820/1d5b04ed402001dcfu",
+      "time": "9月3日 21:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U22国足首开纪录:拜合拉木后点扛开对手 面对门将冷静施射破门",
+      "link": "http://www.bilibili.com/video/BV1BwazzTEex",
+      "time": "9月3日 21:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U22国足首战亚预赛揭幕:安东尼战术革新,球队状态正佳待爆发",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5569421934997515081",
+      "time": "9月3日 20:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22国足1-0险胜东帝汶!拜合拉木破门,亚洲杯前景几何?",
+      "link": "http://www.sohu.com/a/931587393_121976701",
+      "time": "9月3日 20:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "U23亚预赛首秀 中国战东帝汶 王钰栋领衔出征",
+      "link": "http://www.163.com/dy/article/K8HGH24M0530UTM3.html",
+      "time": "9月3日 12:07",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 02:01:48"
+}

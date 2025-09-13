@@ -1,0 +1,46 @@
+{
+  "core_event_name": "张亮麻辣烫退出张亮直接股东",
+  "comments": [
+    {
+      "event_title": "张亮麻辣烫没有“张亮” 或为上市做准备",
+      "event_id": "event_1",
+      "event_url": "http://finance.eastmoney.com/a/202509083507549937.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:02:06",
+      "event_time": "9月8日 15:03"
+    },
+    {
+      "event_title": "张亮麻辣烫重组架构,张亮通过香港公司间接控制",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.com.cn/stock/stockzmt/2025-09-05/doc-infpmkhh5985801.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:02:08",
+      "event_time": "9月5日 13:31"
+    },
+    {
+      "event_title": "张亮退出张亮麻辣烫直接股东",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.cn/2025-09-05/detail-infpmcyr7885991.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:02:10",
+      "event_time": "9月5日 10:00"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 15:02:10"
+}

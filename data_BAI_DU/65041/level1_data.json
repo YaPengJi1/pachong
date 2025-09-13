@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "北交所设立四年成效",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:22:06"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "北交所设立四周年",
+      "link": "http://cj.sina.com.cn/articles/view/1668719945/6376a54900101kfqg",
+      "time": "9月4日 18:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "北交所：构建中小企业成长新生态",
+      "link": "http://news.66wz.com/system/2025/09/03/105698569.shtml",
+      "time": "9月3日 09:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "北交所设立四年,274家上市公司总市值超9200亿元",
+      "link": "http://baijiahao.baidu.com/s?id=1842147646004948949&wfr=spider&for=pc",
+      "time": "9月2日 18:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "北交所信息更新:主粮获得国外客户认可,全新推出“妙冠”品牌增强多元市场覆盖",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 17:22:21"
+}

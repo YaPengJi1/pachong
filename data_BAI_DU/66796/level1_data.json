@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "国际友谊赛：日本队逼平墨西哥队",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:12:10"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "全主力战平墨西哥，日本距离世界杯8强有多远？",
+      "link": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001teli",
+      "time": "9月10日 12:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "激战无进球,日本逼平墨西哥,终结五连败",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7788471326842661476",
+      "time": "9月9日 22:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "墨西哥前锋:我们将对阵日本的比赛当做世界杯来踢,虽然没赢",
+      "link": "http://www.sohu.com/a/932694111_362070",
+      "time": "9月7日 21:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "墨西哥主帅回忆和日本老将共事时光",
+      "link": "http://weibo.com/7834383913/Q3krA6Gt8",
+      "time": "9月6日 17:48",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 11:12:25"
+}

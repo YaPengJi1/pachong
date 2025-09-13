@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:57:03"
+  },
+  "core_event": {
+    "core_event_name": "澳门冠军赛国乒全阵容出击",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:56:19"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "澳门冠军赛9日赛程出炉",
+      "link": "http://baijiahao.baidu.com/s?id=1842751284169003453&wfr=spider&for=pc",
+      "time": "9月9日 10:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "澳门冠军赛程揭晓，国乒11人全阵容出击",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16218383403420040196",
+      "time": "9月8日 04:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "WTT中国澳门冠军赛签表",
+      "link": "http://k.sina.cn/article_2018499075_784fda0302002hkou.html",
+      "time": "9月7日 16:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "澳门冠军赛名单公布，国乒名将被替换",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "澳门冠军赛9日赛程出炉",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842751284169003453&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:56:52",
+      "event_time": "9月9日 10:22"
+    },
+    {
+      "event_title": "澳门冠军赛程揭晓，国乒11人全阵容出击",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=16218383403420040196",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:56:54",
+      "event_time": "9月8日 04:12"
+    },
+    {
+      "event_title": "WTT中国澳门冠军赛签表",
+      "event_id": "event_3",
+      "event_url": "http://k.sina.cn/article_2018499075_784fda0302002hkou.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:56:56",
+      "event_time": "9月7日 16:10"
+    },
+    {
+      "event_title": "澳门冠军赛名单公布，国乒名将被替换",
+      "event_id": "event_4",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:56:58",
+      "event_time": "1970年"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 14:56:33",
+    "level2_scrape_time": "2025-09-12 14:56:58"
+  }
+}

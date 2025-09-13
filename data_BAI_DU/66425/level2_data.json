@@ -1,0 +1,72 @@
+{
+  "core_event_name": "泰国新总理人选提前锁定，泰国总理阿努廷出逃避难",
+  "comments": [
+    {
+      "event_title": "泰国新总理人选提前锁定,他信已出国避难",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8UUDEP50553B0G8.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:37:41",
+      "event_time": "9月8日 17:21"
+    },
+    {
+      "event_title": "泰国新总理选举前夜，前总理他信突然离泰",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/5953190001/162d6787102001xaoi",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:37:43",
+      "event_time": "9月7日 16:04"
+    },
+    {
+      "event_title": "泰国当选总理阿努廷开始组建内阁",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842563761371390797&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:38:01",
+      "event_time": "9月7日 08:41"
+    },
+    {
+      "event_title": "阿努廷将面临哪些挑战?",
+      "event_id": "event_4",
+      "event_url": "http://news.sina.cn/2025-09-06/detail-infpppfp6826385.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:38:03",
+      "event_time": "9月6日 12:33"
+    },
+    {
+      "event_title": "泰国新总理揭晓，阿努廷成为选举最热门人选",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842390882506770918&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:38:19",
+      "event_time": "9月5日 10:54"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 14:38:19"
+}

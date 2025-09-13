@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 23:57:01"
+  },
+  "core_event": {
+    "core_event_name": "2026款阿维塔07车型预售破万",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:56:37"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "阿维塔07配置大升级!华为+宁德时代双加持,直接跨级飞跃",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7000678440647200171",
+      "time": "9月6日 14:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "阿维塔07 2026款预售，入门即满配",
+      "link": "http://www.163.com/dy/article/K8PCQKBU05471E9B.html",
+      "time": "9月6日 13:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "2026款阿维塔07车型预售24小时订单破万",
+      "link": "http://news.cnhubei.com/content/2025-09/06/content_19478822.html",
+      "time": "9月6日 08:40",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "阿维塔07配置大升级!华为+宁德时代双加持,直接跨级飞跃",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7000678440647200171",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:56:53",
+      "event_time": "9月6日 14:28"
+    },
+    {
+      "event_title": "阿维塔07 2026款预售，入门即满配",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8PCQKBU05471E9B.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:56:55",
+      "event_time": "9月6日 13:55"
+    },
+    {
+      "event_title": "2026款阿维塔07车型预售24小时订单破万",
+      "event_id": "event_3",
+      "event_url": "http://news.cnhubei.com/content/2025-09/06/content_19478822.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:56:57",
+      "event_time": "9月6日 08:40"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 23:56:52",
+    "level2_scrape_time": "2025-09-12 23:56:57"
+  }
+}

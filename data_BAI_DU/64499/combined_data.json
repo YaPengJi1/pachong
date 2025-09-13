@@ -1,0 +1,235 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:12:26"
+  },
+  "core_event": {
+    "core_event_name": "法国总统马克龙表态对乌克兰派兵",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:11:48"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "法总理成高危职业,贝鲁“背水一战”失败",
+      "link": "http://new.qq.com/rain/a/20250911A02F9I00",
+      "time": "9月11日 11:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "马克龙拒绝辞职，法国将何去何从？",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16297759054247239662",
+      "time": "9月10日 12:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "嘲讽马克龙,不去乌克兰,意大利副总理叫板法国",
+      "link": "http://www.163.com/dy/article/K8SHL9JN0552Q8MZ.html",
+      "time": "9月7日 19:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "俄乌若停战,将有26国派兵入乌,马克龙还在画大饼,泽连斯基不信",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12644061066444638888",
+      "time": "9月5日 16:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "欧洲巨变,马克龙宣布26国联军出兵乌克兰,铁了心要保乌克兰安全",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13903552173512478420",
+      "time": "9月5日 09:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "法国总统马克龙:26国将在停火后向乌克兰派兵。",
+      "link": "http://finance.sina.cn/7x24/2025-09-04/detail-infpkapc8396524.d.html",
+      "time": "9月4日 22:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "法国总统马克龙:乌克兰现在将与美国协调对俄罗斯的制裁事宜。",
+      "link": "http://finance.sina.cn/7x24/2025-09-04/detail-infpkanz1482606.d.html",
+      "time": "9月4日 22:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "法国总统府:美法乌等多国领导人将举行电话会谈",
+      "link": "http://www.cnr.cn/js2014/gj/20250904/t20250904_527351268.shtml",
+      "time": "9月4日 18:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "马克龙遭意副总理炮轰 欧洲因乌克兰问题分裂加剧",
+      "link": "http://www.163.com/dy/article/K8K0N7NG0553CXW0.html",
+      "time": "9月4日 16:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "法乌元首会晤,马克龙明确表态,俄乌达成协议后将提供安全保障",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15474773781048193760",
+      "time": "9月4日 10:30",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "法总理成高危职业,贝鲁“背水一战”失败",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250911A02F9I00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:12:03",
+      "event_time": "9月11日 11:13"
+    },
+    {
+      "event_title": "马克龙拒绝辞职，法国将何去何从？",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=16297759054247239662",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:12:06",
+      "event_time": "9月10日 12:33"
+    },
+    {
+      "event_title": "嘲讽马克龙,不去乌克兰,意大利副总理叫板法国",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8SHL9JN0552Q8MZ.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:12:08",
+      "event_time": "9月7日 19:04"
+    },
+    {
+      "event_title": "俄乌若停战,将有26国派兵入乌,马克龙还在画大饼,泽连斯基不信",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12644061066444638888",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:12:10",
+      "event_time": "9月5日 16:20"
+    },
+    {
+      "event_title": "欧洲巨变,马克龙宣布26国联军出兵乌克兰,铁了心要保乌克兰安全",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=13903552173512478420",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:12:12",
+      "event_time": "9月5日 09:33"
+    },
+    {
+      "event_title": "法国总统马克龙:26国将在停火后向乌克兰派兵。",
+      "event_id": "event_6",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-04/detail-infpkapc8396524.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:12:14",
+      "event_time": "9月4日 22:22"
+    },
+    {
+      "event_title": "法国总统马克龙:乌克兰现在将与美国协调对俄罗斯的制裁事宜。",
+      "event_id": "event_7",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-04/detail-infpkanz1482606.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:12:16",
+      "event_time": "9月4日 22:21"
+    },
+    {
+      "event_title": "法国总统府:美法乌等多国领导人将举行电话会谈",
+      "event_id": "event_8",
+      "event_url": "http://www.cnr.cn/js2014/gj/20250904/t20250904_527351268.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:12:18",
+      "event_time": "9月4日 18:45"
+    },
+    {
+      "event_title": "马克龙遭意副总理炮轰 欧洲因乌克兰问题分裂加剧",
+      "event_id": "event_9",
+      "event_url": "http://www.163.com/dy/article/K8K0N7NG0553CXW0.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:12:20",
+      "event_time": "9月4日 16:00"
+    },
+    {
+      "event_title": "法乌元首会晤,马克龙明确表态,俄乌达成协议后将提供安全保障",
+      "event_id": "event_10",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=15474773781048193760",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:12:22",
+      "event_time": "9月4日 10:30"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 10,
+    "total_comments": 10,
+    "events_with_comments": 10,
+    "level1_scrape_time": "2025-09-13 01:12:02",
+    "level2_scrape_time": "2025-09-13 01:12:22"
+  }
+}

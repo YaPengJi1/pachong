@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "女演员虞书欣被控诉霸凌",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:53:47"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "虞书欣近30日掉粉131万",
+      "link": "http://cj.sina.com.cn/articles/view/6361086910/17b267bbe00101fiea",
+      "time": "昨天 13:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "虞书欣搞“霸凌”?吐槽《一年级毕业季》",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8806315052534470245",
+      "time": "9月9日 17:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "虞书欣方暂未回应",
+      "link": "http://baijiahao.baidu.com/s?id=1842603416432073348&wfr=spider&for=pc",
+      "time": "9月7日 19:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "女演员控诉遭虞书欣霸凌",
+      "link": "http://cj.sina.com.cn/articles/view/1653603955/628ffe7302001t08g",
+      "time": "9月7日 15:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "演员张昊玥称被虞书欣霸凌",
+      "link": "http://m.cnhubei.com/content/2025-09/07/content_19481136.html",
+      "time": "9月7日 14:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "演员张昊玥发文控诉被演员虞书欣霸凌",
+      "link": "http://baijiahao.baidu.com/s?id=1842543450161577049&wfr=spider&for=pc",
+      "time": "9月6日 20:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "虞书欣彻底凉凉!法律圈集体开撕,粉丝作死坑偶像,结局惊呆众人",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4913904378021051597",
+      "time": "9月3日 11:44",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 14:54:02"
+}

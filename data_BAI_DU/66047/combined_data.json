@@ -1,0 +1,193 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 15:05:34"
+  },
+  "core_event": {
+    "core_event_name": "美国8月非农就业人数增长低于预期",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:04:03"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美国上一年度非农数据被大幅下修91.1万人",
+      "link": "http://tv.cctv.com/2025/09/10/VIDED473SWlnX4B0U93q1Hg1250910.shtml",
+      "time": "9月10日 11:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美国非农年度数据被大幅下修91.1万人",
+      "link": "http://tv.cctv.com/2025/09/10/VIDE9ypwDFofDemz2g7IeeVH250910.shtml",
+      "time": "9月10日 09:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美国8月非农新增就业2.2万大幅低于预期",
+      "link": "http://baijiahao.baidu.com/s?id=1842656010115107529&wfr=spider&for=pc",
+      "time": "9月8日 09:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美国8月非农就业远不及预期，2020年以来首次出现月度就业萎缩",
+      "link": "http://baijiahao.baidu.com/s?id=1842566970308564223&wfr=spider&for=pc",
+      "time": "9月7日 09:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美国8月非农就业人数增加2.2万",
+      "link": "http://baijiahao.baidu.com/s?id=1842432051161126443&wfr=spider&for=pc",
+      "time": "9月5日 21:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "美国8月份非农就业人数新增2.2万人 低于预期",
+      "link": "http://finance.sina.com.cn/jjxw/2025-09-05/doc-infpnfmz0580357.shtml",
+      "time": "9月5日 20:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "美国8月大非农预期悲观，美元指数或遭冲击",
+      "link": "http://baijiahao.baidu.com/s?id=1842418148494171070&wfr=spider&for=pc",
+      "time": "9月5日 17:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "美国8月“小非农”不及预期 赛富时AI变现乏力重压股价 博通第四财季AI芯片收入展望超预期",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7741745326965747191",
+      "time": "9月5日 10:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "美国上一年度非农数据被大幅下修91.1万人",
+      "event_id": "event_1",
+      "event_url": "http://tv.cctv.com/2025/09/10/VIDED473SWlnX4B0U93q1Hg1250910.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:04:19",
+      "event_time": "9月10日 11:11"
+    },
+    {
+      "event_title": "美国非农年度数据被大幅下修91.1万人",
+      "event_id": "event_2",
+      "event_url": "http://tv.cctv.com/2025/09/10/VIDE9ypwDFofDemz2g7IeeVH250910.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:04:21",
+      "event_time": "9月10日 09:43"
+    },
+    {
+      "event_title": "美国8月非农新增就业2.2万大幅低于预期",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842656010115107529&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "西藏的藏獒",
+      "comment_time": "09-08 14:10",
+      "comment_content": "工资涨太快了呗，企业招人缩手缩脚，成本高谁还扩大团队？非农数据扑街早有苗头。",
+      "user_location": "辽宁",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:04:38",
+      "event_time": "9月8日 09:08"
+    },
+    {
+      "event_title": "美国8月非农就业远不及预期，2020年以来首次出现月度就业萎缩",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842566970308564223&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:04:54",
+      "event_time": "9月7日 09:24"
+    },
+    {
+      "event_title": "美国8月非农就业人数增加2.2万",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842432051161126443&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:05:10",
+      "event_time": "9月5日 21:32"
+    },
+    {
+      "event_title": "美国8月份非农就业人数新增2.2万人 低于预期",
+      "event_id": "event_6",
+      "event_url": "http://finance.sina.com.cn/jjxw/2025-09-05/doc-infpnfmz0580357.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:05:12",
+      "event_time": "9月5日 20:36"
+    },
+    {
+      "event_title": "美国8月大非农预期悲观，美元指数或遭冲击",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842418148494171070&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:05:28",
+      "event_time": "9月5日 17:27"
+    },
+    {
+      "event_title": "美国8月“小非农”不及预期 赛富时AI变现乏力重压股价 博通第四财季AI芯片收入展望超预期",
+      "event_id": "event_8",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7741745326965747191",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:05:30",
+      "event_time": "9月5日 10:18"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 8,
+    "total_comments": 8,
+    "events_with_comments": 8,
+    "level1_scrape_time": "2025-09-12 15:04:17",
+    "level2_scrape_time": "2025-09-12 15:05:30"
+  }
+}

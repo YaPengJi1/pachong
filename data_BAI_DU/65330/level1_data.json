@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "詹姆斯打高尔夫晒黑引热议",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:18:26"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "詹姆斯INS晒名人堂夹克 浓眉现身评论区:精英!",
+      "link": "http://www.163.com/dy/article/K90RUS5G0529AQIE.html",
+      "time": "9月9日 11:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "NBA传奇巨星勒布朗·詹姆斯现身上海外滩",
+      "link": "http://www.163.com/dy/article/K8NAF4110514IGIT.html",
+      "time": "9月5日 18:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "詹姆斯冒雨打高尔夫球",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-05/doc-infpmuwi7663626.shtml",
+      "time": "9月5日 16:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "詹姆斯晒最近在上海冒着大雨打高尔夫",
+      "link": "http://sports.sina.cn/nba/other/2025-09-05/detail-infpkxst7987445.d.html",
+      "time": "9月5日 08:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "詹姆斯打完高尔夫返回酒店,球迷手捧相片热情迎接",
+      "link": "http://tieba.baidu.com/p/10009066815",
+      "time": "9月4日 12:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "职业高尔夫球手晒与詹姆斯合照",
+      "link": "http://sports.sina.cn/nba/other/2025-09-02/detail-infpatcf6893160.d.html",
+      "time": "9月2日 12:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "詹姆斯高温下打高尔夫晒黑引热议",
+      "link": "http://k.sina.com.cn/article_1891829365_70c3067504001cisq.html",
+      "time": "9月1日 08:11",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 22:18:40"
+}

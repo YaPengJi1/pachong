@@ -1,0 +1,92 @@
+{
+  "core_info": {
+    "core_event_name": "固态电池产业爆发",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:57:41"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "60亿专项中期审查在即，产业链全线起飞",
+      "link": "http://fund.jrj.com.cn/2025/09/11111653065329.shtml",
+      "time": "9月10日 23:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "浩思动力发布前瞻动力技术",
+      "link": "http://inf.315che.com/n/2025_09/2065571/",
+      "time": "9月10日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "固态电池,新突破",
+      "link": "http://finance.sina.cn/stock/ggyj/2025-09-09/detail-infpvyaq8926023.d.html",
+      "time": "9月9日 08:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国固态电池将量产,纯电续航1200km",
+      "link": "http://new.qq.com/rain/a/20250908A059L700",
+      "time": "9月8日 15:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "重磅!固态电池产业彻底爆发!",
+      "link": "http://app.myzaker.com/news/article.php?pk=68bc1f92b15ec03fe5057e1a",
+      "time": "9月6日 19:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "固态电池概念股集体爆发",
+      "link": "http://baijiahao.baidu.com/s?id=1842421803785089638&wfr=spider&for=pc",
+      "time": "9月5日 20:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "赣锋锂业、宁德时代、孚能科技取得关键进展",
+      "link": "http://stock.jrj.com.cn/2025/09/05142552945270.shtml",
+      "time": "9月4日 17:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "固态电池大涨!技术突破来了?",
+      "link": "http://baijiahao.baidu.com/s?id=1842315978758414803&wfr=spider&for=pc",
+      "time": "9月4日 15:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "2025年固态电池设备订单暴涨80%,技术突破行业迎来爆发期",
+      "link": "http://baijiahao.baidu.com/s?id=1842295972115665390&wfr=spider&for=pc",
+      "time": "9月4日 09:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "电池界“黑马”狂飙!技术突破点燃固态电池,产业链要集体起飞",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5270209455276667046",
+      "time": "9月3日 22:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 10,
+  "scrape_time": "2025-09-13 01:57:55"
+}

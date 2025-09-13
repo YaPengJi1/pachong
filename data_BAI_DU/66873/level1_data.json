@@ -1,0 +1,108 @@
+{
+  "core_info": {
+    "core_event_name": "美网阿尔卡拉斯击败辛纳，阿尔卡拉斯夺得美网男单冠军",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:52:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美网男单冠军出炉!阿尔卡拉斯3-1击败辛纳,世界排名重返第一!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10336914332139009064",
+      "time": "9月10日 22:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "阿尔卡拉斯夺美网男单冠军并重登世界第一",
+      "link": "http://www.nnwb.com/nnwb/20250909/mhtml/page_07_content_001.htm",
+      "time": "9月9日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "辛纳无缘美网卫冕 留8大遗憾 丢世界第一",
+      "link": "http://sports.sina.com.cn/o/2025-09-08/doc-infpumzk6196641.shtml",
+      "time": "9月8日 16:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "阿卡阻止辛纳卫冕遭花式调侃",
+      "link": "http://www.sohu.com/a/932874737_122456348",
+      "time": "9月8日 13:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "阿尔卡拉斯3:1战胜辛纳，时隔三年再夺美网男单冠军",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12852124274233781359",
+      "time": "9月8日 10:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "辛纳1夜遭2大重击+直言已尽力 2年与阿卡平分8个大满贯",
+      "link": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001tcug",
+      "time": "9月8日 07:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "2025美网男单决赛，阿尔卡拉斯获得冠军",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8942273811474144132",
+      "time": "9月8日 06:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "辛纳和阿尔卡拉斯在美网男单决赛碰上了，辛纳和阿尔卡拉斯把本赛季的大满贯冠军全包了",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4083708068997642868",
+      "time": "9月8日 04:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "辛纳6-3阿尔卡拉斯扳回一盘",
+      "link": "http://www.dongqiudi.com/articles/5360421.html",
+      "time": "9月8日 04:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "阿尔卡拉斯胜辛纳,赢者全拿,辛纳惜败阿尔卡拉斯,关键战役落幕",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16714463939728829681",
+      "time": "9月7日 19:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "阿卡硬地首胜德约，7进大满贯决赛，冲第6冠",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4249891236932085188",
+      "time": "9月7日 14:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "辛纳连续五个大满贯晋级决赛",
+      "link": "http://m.gmw.cn/toutiao/2025-09/06/content_1304137632.htm",
+      "time": "9月6日 15:49",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 12,
+  "scrape_time": "2025-09-12 10:53:06"
+}

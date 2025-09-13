@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "东契奇空砍，德国男篮晋级半决赛",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:47:45"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "东契奇争议动作引热议,风评两极分化",
+      "link": "http://new.qq.com/rain/a/20250911A039Q900",
+      "time": "昨天 11:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "斯洛文尼亚全队犯规31次",
+      "link": "http://baijiahao.baidu.com/s?id=1842930157643946660&wfr=spider&for=pc",
+      "time": "昨天 09:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "东契奇39+10空砍,芬兰17记3分射穿黑马,欧锦赛半决赛对阵揭晓",
+      "link": "http://news.sohu.com/a/933769386_122514691",
+      "time": "昨天 08:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "德国男篮晋级半决赛",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8701353642901360085",
+      "time": "昨天 05:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "东契奇撤步三分率队反超 施罗德底角三分迅速回应",
+      "link": "http://sports.sina.cn/nba/other/2025-09-11/detail-infqafyq7080783.d.html",
+      "time": "昨天 03:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "蓝军16岁天才横空出世:对德国半场戴帽+独造5球",
+      "link": "http://new.qq.com/rain/a/20250910A012G600",
+      "time": "9月10日 05:58",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 10:47:59"
+}

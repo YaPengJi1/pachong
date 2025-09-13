@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "台湾柯文哲被裁定交保",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:31:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "柯文哲交保获释重见天日",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8685596301535643594",
+      "time": "9月9日 14:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "台媒:柯文哲完成交保程序,戴电子脚铐获释",
+      "link": "http://baijiahao.baidu.com/s?id=1842738034572168419&wfr=spider&for=pc",
+      "time": "9月9日 06:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "台湾民众党前主席柯文哲以7000万元新台币交保",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6520436636333598143",
+      "time": "9月8日 18:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "柯文哲今日以7000万新台币交保",
+      "link": "http://tv.cctv.com/2025/09/08/VIDE5OV5M9fN474qFMPyMbcI250908.shtml",
+      "time": "9月8日 12:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "柯文哲终获交保机会，“馆长”示警:北检恐继续抗告再把人抓回去",
+      "link": "http://baijiahao.baidu.com/s?id=1842569758071403315&wfr=spider&for=pc",
+      "time": "9月7日 10:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "柯文哲被裁定7000万交保,黄珊珊拒绝表态",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10829185186648204060",
+      "time": "9月6日 21:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "台湾民众党前主席柯文哲被裁定交保",
+      "link": "http://news.fjsen.com/wap/2025-09/05/content_32033734.htm",
+      "time": "9月5日 16:58",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 14:31:46"
+}

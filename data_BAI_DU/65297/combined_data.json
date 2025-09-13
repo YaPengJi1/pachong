@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 21:51:22"
+  },
+  "core_event": {
+    "core_event_name": "零跑汽车冲击百万销量",
+    "update_time": "更新至20250902",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:50:44"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "零跑B10&B01双星闪耀成都车展",
+      "link": "http://www.pcauto.com.cn/hj/article/3046658.html",
+      "time": "9月2日 20:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "47秒卖出一台车,对话零跑曹力、周颖,明年冲击百万销量",
+      "link": "http://finance.sina.cn/stock/jdts/2025-09-02/detail-infpatcc8453659.d.html",
+      "time": "9月2日 15:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "月销逼近六万,零跑还要加码,官宣新车不到10万买激光雷达",
+      "link": "http://baijiahao.baidu.com/s?id=1842048615697310111&wfr=spider&for=pc",
+      "time": "9月1日 16:14",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "零跑B10&B01双星闪耀成都车展",
+      "event_id": "event_1",
+      "event_url": "http://www.pcauto.com.cn/hj/article/3046658.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:50:59",
+      "event_time": "9月2日 20:16"
+    },
+    {
+      "event_title": "47秒卖出一台车,对话零跑曹力、周颖,明年冲击百万销量",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/stock/jdts/2025-09-02/detail-infpatcc8453659.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:51:01",
+      "event_time": "9月2日 15:24"
+    },
+    {
+      "event_title": "月销逼近六万,零跑还要加码,官宣新车不到10万买激光雷达",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842048615697310111&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "曾驰烃0Fk",
+      "comment_time": "09-01 16:20",
+      "comment_content": "零跑销量真猛，月销逼近六万！新车不到十万带激光雷达，超值惊喜。",
+      "user_location": "广东",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 21:51:18"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 21:50:58",
+    "level2_scrape_time": "2025-09-12 21:51:18"
+  }
+}

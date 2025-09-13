@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "全球首款安卓三折叠屏亮相",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:24:04"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "苹果发布会前夕,华为抛出三折叠“王炸”",
+      "link": "http://news.qq.com/rain/a/20250908A02X3500",
+      "time": "9月8日 10:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "全球首款安卓三折叠屏亮相",
+      "link": "http://baijiahao.baidu.com/s?id=1842561223331192209&wfr=spider&for=pc",
+      "time": "9月7日 08:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "华为折叠屏太猛了!Q2全球出货登顶,三星、苹果沉默了",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b90e1fb15ec0620e6a9adc",
+      "time": "9月4日 11:26",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 14:24:18"
+}

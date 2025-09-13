@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 12:20:07"
+  },
+  "core_event": {
+    "core_event_name": "巴西总统卢拉表态加勒比地区存在紧张局势",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 12:19:28"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "巴西总统卢拉:金砖国家可以引领多边贸易体系革新。",
+      "link": "http://finance.sina.cn/7x24/2025-09-08/detail-infpvaxa5894232.d.html",
+      "time": "9月8日 22:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "巴西总统卢拉:加勒比地区的武装部队存在是紧张局势的根源。",
+      "link": "http://finance.sina.cn/7x24/2025-09-08/detail-infpvaxh1159648.d.html",
+      "time": "9月8日 22:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "卢拉强硬表态",
+      "link": "http://baijiahao.baidu.com/s?id=1842585866234034257&wfr=spider&for=pc",
+      "time": "9月7日 14:33",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "巴西总统卢拉:金砖国家可以引领多边贸易体系革新。",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-08/detail-infpvaxa5894232.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:19:43",
+      "event_time": "9月8日 22:25"
+    },
+    {
+      "event_title": "巴西总统卢拉:加勒比地区的武装部队存在是紧张局势的根源。",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-08/detail-infpvaxh1159648.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:19:45",
+      "event_time": "9月8日 22:22"
+    },
+    {
+      "event_title": "卢拉强硬表态",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842585866234034257&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "umxCdZTs",
+      "comment_time": "09-07 14:40",
+      "comment_content": "巴西人民当家做主，硬气！",
+      "user_location": "陕西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:20:03"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 12:19:42",
+    "level2_scrape_time": "2025-09-12 12:20:03"
+  }
+}

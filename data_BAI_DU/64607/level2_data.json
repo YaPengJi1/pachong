@@ -1,0 +1,46 @@
+{
+  "core_event_name": "大阅兵举行，铭记历史，共筑梦想",
+  "comments": [
+    {
+      "event_title": "2023年国庆70周年阅兵盛典",
+      "event_id": "event_1",
+      "event_url": "http://news.bjd.com.cn/2025/09/04/11295307.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:21:18",
+      "event_time": "9月4日 13:51"
+    },
+    {
+      "event_title": "阅兵盛典全民观看",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8JNSPPU0514R9OJ.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:21:20",
+      "event_time": "9月4日 08:54"
+    },
+    {
+      "event_title": "九三阅兵在阿左旗青年中引发热烈反响",
+      "event_id": "event_3",
+      "event_url": "http://m.sohu.com/a/931575786_121106854",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:21:22",
+      "event_time": "9月3日 18:19"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-13 01:21:22"
+}

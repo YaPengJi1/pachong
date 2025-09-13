@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "多纳鲁马加盟曼城",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:10:55"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "世界杯、欧冠功勋门将加盟，曼城",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16561984059797305317",
+      "time": "9月5日 22:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "曼城即将签下多纳鲁马，埃德森将加盟费内巴切",
+      "link": "http://m.dongqiudi.com/article/5349365.html",
+      "time": "9月2日 01:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "多纳鲁马即将空降曼市",
+      "link": "http://www.sohu.com/a/930770386_121976701",
+      "time": "9月1日 16:38",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 22:11:09"
+}

@@ -1,0 +1,59 @@
+{
+  "core_event_name": "曼联转会拉门斯",
+  "comments": [
+    {
+      "event_title": "曼联2100万欧签下比利时门将拉门斯",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842207594148060169&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:39:12",
+      "event_time": "9月3日 10:21"
+    },
+    {
+      "event_title": "拉门斯在曼联将穿31号",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842170043165422066&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "摄影师小娇儿",
+      "comment_time": "09-03 01:52",
+      "comment_content": "31号球衣传承荣耀，拉门斯穿上它，曼联新旅程加油。",
+      "user_location": "广西",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:39:28",
+      "event_time": "9月3日 00:22"
+    },
+    {
+      "event_title": "大马丁无意去土超 准备留在维拉 曼联从未正式报价",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8FCM7420529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:39:30",
+      "event_time": "9月2日 16:22"
+    },
+    {
+      "event_title": "曼联与维拉转会谈判:马丁内斯 vs 拉门斯",
+      "event_id": "event_4",
+      "event_url": "http://www.sohu.com/a/930502324_122387568",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:39:32",
+      "event_time": "8月31日 21:28"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-13 02:39:32"
+}

@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "U23国足末轮生死战",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:55:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U23国足净胜球落后9个，末轮只有赢球，才能直接晋级",
+      "link": "http://baijiahao.baidu.com/s?id=1842522854962247266&wfr=spider&for=pc",
+      "time": "9月6日 21:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "亚洲杯积分：中国队10-0，澳大利亚队6-0",
+      "link": "http://baijiahao.baidu.com/s?id=1842522831443846158&wfr=spider&for=pc",
+      "time": "9月6日 21:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国足U22背水一战:刷净胜球成生死线,10-0真能踢出来吗?",
+      "link": "http://www.163.com/dy/article/K8MFD9620556BOKZ.html",
+      "time": "9月5日 10:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "亚洲杯一夜6场惨案，日韩澳伊全胜，中国男足形势不妙",
+      "link": "http://cj.sina.com.cn/articles/view/2834321443/a8f0502300101me1g",
+      "time": "9月4日 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 21:55:46"
+}

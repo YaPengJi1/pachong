@@ -1,0 +1,235 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:29:49"
+  },
+  "core_event": {
+    "core_event_name": "曼联门将奥纳纳租借加盟特拉布宗体育",
+    "update_time": "更新至20250912",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:28:54"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "官方:奥纳纳租借土超固定年薪351万美元,签字费175.5万美元",
+      "link": "http://www.dongqiudi.com/articles/5367372.html",
+      "time": "今天 09:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "曼联与特拉布宗体育已完成奥纳纳租借手续",
+      "link": "http://m.dongqiudi.com/article/5361731.html",
+      "time": "9月8日 22:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "曼联混乱体系让奥纳纳迷失",
+      "link": "http://weibo.com/6608308215/Q3CLV5XGD",
+      "time": "9月8日 16:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "曼联门将奥纳纳租借加盟特拉布宗体育",
+      "link": "http://www.dongqiudi.com/articles/5360198.html",
+      "time": "9月8日 00:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "奥纳纳租借加盟土超特拉布宗",
+      "link": "http://baijiahao.baidu.com/s?id=1842624034140695395&wfr=spider&for=pc",
+      "time": "9月8日 00:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "特拉布宗体育对奥纳纳同意加盟很有信心 已与曼联达一致",
+      "link": "http://www.163.com/dy/article/K8SVCM740529AQIE.html",
+      "time": "9月7日 22:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "曼联正在与特拉布宗体育谈奥纳纳,租借不含买断选项",
+      "link": "http://www.163.com/dy/article/K8QJB30H0529DS7F.html",
+      "time": "9月7日 00:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "奥纳纳愿加盟特拉布宗体育",
+      "link": "http://www.dongqiudi.com/articles/5358412.html",
+      "time": "9月7日 00:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "奥纳纳即将加盟特拉布宗体育，租借至本赛季结束",
+      "link": "http://www.dongqiudi.com/articles/5358145.html",
+      "time": "9月6日 22:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "特拉布宗体育与曼联就租借奥纳纳达成一致",
+      "link": "http://www.dongqiudi.com/articles/5358126.html",
+      "time": "9月6日 22:21",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "官方:奥纳纳租借土超固定年薪351万美元,签字费175.5万美元",
+      "event_id": "event_1",
+      "event_url": "http://www.dongqiudi.com/articles/5367372.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:29:10",
+      "event_time": "今天 09:26"
+    },
+    {
+      "event_title": "曼联与特拉布宗体育已完成奥纳纳租借手续",
+      "event_id": "event_2",
+      "event_url": "http://m.dongqiudi.com/article/5361731.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:29:12",
+      "event_time": "9月8日 22:25"
+    },
+    {
+      "event_title": "曼联混乱体系让奥纳纳迷失",
+      "event_id": "event_3",
+      "event_url": "http://weibo.com/6608308215/Q3CLV5XGD",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:29:14",
+      "event_time": "9月8日 16:27"
+    },
+    {
+      "event_title": "曼联门将奥纳纳租借加盟特拉布宗体育",
+      "event_id": "event_4",
+      "event_url": "http://www.dongqiudi.com/articles/5360198.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:29:16",
+      "event_time": "9月8日 00:36"
+    },
+    {
+      "event_title": "奥纳纳租借加盟土超特拉布宗",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842624034140695395&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "GFFO86962",
+      "comment_time": "09-08 00:47",
+      "comment_content": "奥纳纳加盟特拉布宗挺利索的，租借无买断，希望新旅程一切顺利。",
+      "user_location": "湖北",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:29:34",
+      "event_time": "9月8日 00:35"
+    },
+    {
+      "event_title": "特拉布宗体育对奥纳纳同意加盟很有信心 已与曼联达一致",
+      "event_id": "event_6",
+      "event_url": "http://www.163.com/dy/article/K8SVCM740529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:29:37",
+      "event_time": "9月7日 22:59"
+    },
+    {
+      "event_title": "曼联正在与特拉布宗体育谈奥纳纳,租借不含买断选项",
+      "event_id": "event_7",
+      "event_url": "http://www.163.com/dy/article/K8QJB30H0529DS7F.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:29:39",
+      "event_time": "9月7日 00:50"
+    },
+    {
+      "event_title": "奥纳纳愿加盟特拉布宗体育",
+      "event_id": "event_8",
+      "event_url": "http://www.dongqiudi.com/articles/5358412.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:29:41",
+      "event_time": "9月7日 00:33"
+    },
+    {
+      "event_title": "奥纳纳即将加盟特拉布宗体育，租借至本赛季结束",
+      "event_id": "event_9",
+      "event_url": "http://www.dongqiudi.com/articles/5358145.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:29:43",
+      "event_time": "9月6日 22:31"
+    },
+    {
+      "event_title": "特拉布宗体育与曼联就租借奥纳纳达成一致",
+      "event_id": "event_10",
+      "event_url": "http://www.dongqiudi.com/articles/5358126.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:29:45",
+      "event_time": "9月6日 22:21"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 10,
+    "total_comments": 10,
+    "events_with_comments": 10,
+    "level1_scrape_time": "2025-09-12 14:29:09",
+    "level2_scrape_time": "2025-09-12 14:29:45"
+  }
+}

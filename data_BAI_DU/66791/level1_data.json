@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "2026年世预赛南美区",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:08:29"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "南美世预赛大结局:阿根廷、巴西等6队晋级世界杯,智利无缘",
+      "link": "http://k.sina.com.cn/article_7096022664_1a6f4b68802001be5s.html",
+      "time": "9月10日 10:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "世预赛南美区大结局:玻利维亚出战附加赛,委内瑞拉惨败,6队直通",
+      "link": "http://new.qq.com/rain/a/20250910A01YHO00",
+      "time": "9月10日 09:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "2026年世预赛南美区行将进入尾声",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5131034534265586440",
+      "time": "9月7日 18:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "世界杯36强已定16席:南美区直通6队全出炉",
+      "link": "http://weibo.com/7773442827/Q39uOouQj",
+      "time": "9月5日 13:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "南美世预赛倒数第二轮战罢，前六名已锁定出线",
+      "link": "http://weibo.com/1698513182/Q3982cZ2d",
+      "time": "9月5日 13:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 11:08:44"
+}

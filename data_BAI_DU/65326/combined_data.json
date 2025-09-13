@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 22:16:21"
+  },
+  "core_event": {
+    "core_event_name": "A股大涨",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:15:57"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "A股全线大涨，创业板创今年最大单日涨幅",
+      "link": "http://www.bilibili.com/video/BV1yXabzHE5E",
+      "time": "9月5日 15:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "A股大盘整体走势要好于上周五",
+      "link": "http://weibo.com/1497821920/Q2yv2iwmD",
+      "time": "9月1日 15:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "A股指数涨跌不一:创业板指涨0.49%,体育产业、家居用品等板块涨幅居前",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "A股全线大涨，创业板创今年最大单日涨幅",
+      "event_id": "event_1",
+      "event_url": "http://www.bilibili.com/video/BV1yXabzHE5E",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:16:13",
+      "event_time": "9月5日 15:33"
+    },
+    {
+      "event_title": "A股大盘整体走势要好于上周五",
+      "event_id": "event_2",
+      "event_url": "http://weibo.com/1497821920/Q2yv2iwmD",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:16:15",
+      "event_time": "9月1日 15:45"
+    },
+    {
+      "event_title": "A股指数涨跌不一:创业板指涨0.49%,体育产业、家居用品等板块涨幅居前",
+      "event_id": "event_3",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:16:17",
+      "event_time": "1970年"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 22:16:11",
+    "level2_scrape_time": "2025-09-12 22:16:17"
+  }
+}

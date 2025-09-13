@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "上汽奥迪Q6上市",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:30:56"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "奥迪Q6L e-tron / Sportback e-tron 双电机四驱版申报",
+      "link": "http://www.ithome.com/0/882/013.htm",
+      "time": "9月10日 22:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "上汽奥迪 Q6 正式上市后的竞争对手有哪些?",
+      "link": "http://www.pcauto.com.cn/ask/2411355.html",
+      "time": "9月2日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "上汽奥迪 Q6 正式发布后的价格区间是多少?",
+      "link": "http://www.pcauto.com.cn/ask/2409674.html",
+      "time": "9月2日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "奥迪Q6新款上市",
+      "link": "http://baijiahao.baidu.com/s?id=1842046285283892815&wfr=spider&for=pc",
+      "time": "9月1日 15:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "上汽奥迪 Q6 最新消息什么时候发布?",
+      "link": "http://www.pcauto.com.cn/ask/2410118.html",
+      "time": "9月1日 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 02:31:10"
+}

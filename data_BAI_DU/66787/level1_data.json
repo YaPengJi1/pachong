@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "公募基金降费改革",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:05:05"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "公募再降费,百亿让利投资者",
+      "link": "http://www.163.com/dy/article/K90NQQAS05199NPP.html",
+      "time": "9月9日 10:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "公募费率改革推动券商加速“服务导向”转型",
+      "link": "http://m.yunnan.cn/system/2025/09/09/033631550.shtml",
+      "time": "9月9日 07:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "非银金融行业点评报告:公募基金降费第三阶段终落实 预计每年让利300 亿 三轮降费合计每年让利500 亿",
+      "link": "http://stock.hexun.com/2025-09-07/221244283.html",
+      "time": "9月7日 16:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "每年让利超500亿元!事关你的基金,证监会重磅利好!",
+      "link": "http://baijiahao.baidu.com/s?id=1842509034958693652&wfr=spider&for=pc",
+      "time": "9月6日 17:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "公募基金降费改革收官在即 每年让利有望超500亿元",
+      "link": "http://finance.eastmoney.com/a/202509063506715493.html",
+      "time": "9月6日 08:06",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 11:05:19"
+}

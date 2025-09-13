@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:04:30"
+  },
+  "core_event": {
+    "core_event_name": "全球第二大网红无语哥中国行",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:03:44"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "无语哥中国行开启,阿维塔07全程保驾护航",
+      "link": "http://new.qq.com/rain/a/20250911V0582800",
+      "time": "昨天 15:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "国际网红“无语哥”开启天津行,身穿“中国老铁”T恤向游客挥手致意",
+      "link": "http://www.cnenergynews.cn/news/2025/09/10/detail_20250910232652.html",
+      "time": "9月10日 16:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "全球第二网红“无语哥”9月开启中国行,粉丝数超2.59亿",
+      "link": "http://news.hnr.cn/djn/article/1/1963886240354611202",
+      "time": "9月5日 16:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "坐拥2.59亿粉丝 全球第二大网红无语哥中国行官宣",
+      "link": "http://baijiahao.baidu.com/s?id=1842467491897283966&wfr=spider&for=pc",
+      "time": "9月5日 15:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "继“甲亢哥”后,又一世界级网红要来中国!人称“无语哥”",
+      "link": "http://www.163.com/dy/article/K8N122BG0556EI96.html",
+      "time": "9月5日 15:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "全球第二大网红“无语哥”中国行官宣",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10776163077367484536",
+      "time": "9月5日 11:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "全球网红无语哥打卡南京城墙 助力遗产同框",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "无语哥中国行开启,阿维塔07全程保驾护航",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250911V0582800",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:03:59",
+      "event_time": "昨天 15:21"
+    },
+    {
+      "event_title": "国际网红“无语哥”开启天津行,身穿“中国老铁”T恤向游客挥手致意",
+      "event_id": "event_2",
+      "event_url": "http://www.cnenergynews.cn/news/2025/09/10/detail_20250910232652.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:04:01",
+      "event_time": "9月10日 16:49"
+    },
+    {
+      "event_title": "全球第二网红“无语哥”9月开启中国行,粉丝数超2.59亿",
+      "event_id": "event_3",
+      "event_url": "http://news.hnr.cn/djn/article/1/1963886240354611202",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:04:03",
+      "event_time": "9月5日 16:45"
+    },
+    {
+      "event_title": "坐拥2.59亿粉丝 全球第二大网红无语哥中国行官宣",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842467491897283966&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:04:20",
+      "event_time": "9月5日 15:49"
+    },
+    {
+      "event_title": "继“甲亢哥”后,又一世界级网红要来中国!人称“无语哥”",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8N122BG0556EI96.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:04:22",
+      "event_time": "9月5日 15:33"
+    },
+    {
+      "event_title": "全球第二大网红“无语哥”中国行官宣",
+      "event_id": "event_6",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10776163077367484536",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:04:24",
+      "event_time": "9月5日 11:46"
+    },
+    {
+      "event_title": "全球网红无语哥打卡南京城墙 助力遗产同框",
+      "event_id": "event_7",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:04:26",
+      "event_time": "1970年"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 11:03:58",
+    "level2_scrape_time": "2025-09-12 11:04:26"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "德国总理默茨：德国汽车工业仍是关键产业",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:20:22"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "德国总理默茨说别假怀旧 欧洲安全不能指望美国",
+      "link": "http://k.sina.com.cn/article_6145283913_v16e49974902002975s.html",
+      "time": "9月9日 18:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "德国总理默茨:保护主义和关税不是我们想走的道路。",
+      "link": "http://finance.sina.cn/7x24/2025-09-09/detail-infpwvhh5152993.d.html",
+      "time": "9月9日 17:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "德国总理默茨:德国汽车工业仍将是推动我国繁荣的关键产业",
+      "link": "http://finance.sina.cn/7x24/2025-09-09/detail-infpwvhn0415658.d.html",
+      "time": "9月9日 16:51",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 14:20:36"
+}

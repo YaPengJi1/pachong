@@ -1,0 +1,116 @@
+{
+  "core_info": {
+    "core_event_name": "中国阅兵刺激印度造核航母和六代机",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:55:50"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "印度官宣要造核航母",
+      "link": "http://new.qq.com/rain/a/20250911A06M7E00",
+      "time": "昨天 17:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "印度发布新版国防计划,重点发展核航母和高超声速导弹",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31587847",
+      "time": "9月10日 20:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国阅兵见效了 美国态度发生大转变 声明做好本土防御",
+      "link": "http://new.qq.com/rain/a/20250910V05GJ800",
+      "time": "9月10日 15:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "印度要造核动力航母,美国提供关键技术,摆明了是要针对中国弱点",
+      "link": "http://new.qq.com/rain/a/20250910A05G9H00",
+      "time": "9月10日 15:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "印度称造核动力航空母舰，口号与现实巨大落差，落地下海遥遥无期",
+      "link": "http://cj.sina.com.cn/articles/view/7879923848/1d5ae188802001jq50",
+      "time": "9月9日 18:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "印度宣称要造核航母和六代机，不久将来就能服役",
+      "link": "http://cj.sina.com.cn/articles/view/2331382571/8af6132b02001gcsg",
+      "time": "9月9日 16:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "美国对印度采取强硬措施",
+      "link": "http://new.qq.com/rain/a/20250909V068YS00",
+      "time": "9月9日 16:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "印度拟建国产核动力航母",
+      "link": "http://new.qq.com/rain/a/20250908A097WM00",
+      "time": "9月8日 23:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "印度计划建造核动力航母",
+      "link": "http://baijiahao.baidu.com/s?id=1842658205389561841&wfr=spider&for=pc",
+      "time": "9月8日 09:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "印度欲造2nm最先进芯片、核动力航母、国产战斗机等",
+      "link": "http://news.mydrivers.com/1/1073/1073046.htm",
+      "time": "9月8日 08:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "印度计划建造首艘核动力航母",
+      "link": "http://hzdaily.hangzhou.com.cn/dskb/2025/09/07/article_detail_2_20250907A087.html",
+      "time": "9月7日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "印度公布未来15年国防计划:造第一艘核动力航母",
+      "link": "http://www.163.com/dy/article/K8PPSJ950514EGPO.html",
+      "time": "9月6日 17:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "印度公布15年期国防计划 包括推进建造一艘核动力航母",
+      "link": "http://baijiahao.baidu.com/s?id=1842491822828994782&wfr=spider&for=pc",
+      "time": "9月6日 13:38",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 13,
+  "scrape_time": "2025-09-12 10:56:05"
+}

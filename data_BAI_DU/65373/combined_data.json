@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 23:04:05"
+  },
+  "core_event": {
+    "core_event_name": "苹果17系列配置曝光",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:03:08"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "iPhone 17终极爆料",
+      "link": "http://app.myzaker.com/news/article.php?m=1757174418&pk=68bc59d98e9f09117a2ee56b",
+      "time": "9月6日 23:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "iPhone 17系列内存大升级",
+      "link": "http://weibo.com/6456779567/Q3hxIcean",
+      "time": "9月6日 10:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "iPhone17系列内存配置曝光",
+      "link": "http://baijiahao.baidu.com/s?id=1842391378177953556&wfr=spider&for=pc",
+      "time": "9月5日 11:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "苹果 iPhone 17 系列配置曝光:Pro 版升级 12GB,基础款维持 8GB",
+      "link": "http://baijiahao.baidu.com/s?id=1842381244978262584&wfr=spider&for=pc",
+      "time": "9月5日 08:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "最高12+1TB!iPhone 17系列内存/存储曝光",
+      "link": "http://news.mydrivers.com/1/1072/1072591.htm",
+      "time": "9月5日 08:05",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "iPhone 17终极爆料",
+      "event_id": "event_1",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1757174418&pk=68bc59d98e9f09117a2ee56b",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:03:23",
+      "event_time": "9月6日 23:30"
+    },
+    {
+      "event_title": "iPhone 17系列内存大升级",
+      "event_id": "event_2",
+      "event_url": "http://weibo.com/6456779567/Q3hxIcean",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:03:25",
+      "event_time": "9月6日 10:25"
+    },
+    {
+      "event_title": "iPhone17系列内存配置曝光",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842391378177953556&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "珊瑚产妇教练",
+      "comment_time": "09-05 12:38",
+      "comment_content": "苹果这次内存升级真给力，Air系列或引领产品线变革。规格提升品牌魅力更足，价格微调但值得期待。",
+      "user_location": "重庆",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 23:03:43",
+      "event_time": "9月5日 11:01"
+    },
+    {
+      "event_title": "苹果 iPhone 17 系列配置曝光:Pro 版升级 12GB,基础款维持 8GB",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842381244978262584&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "棉花讨厌唱歌",
+      "comment_time": "09-05 12:04",
+      "comment_content": "Pro版这波升级够意思啊，库克刀法依然精准，基础款的朋友再等等？升级诚意看到了，钱包又得减肥了。",
+      "user_location": "山西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:03:58",
+      "event_time": "9月5日 08:21"
+    },
+    {
+      "event_title": "最高12+1TB!iPhone 17系列内存/存储曝光",
+      "event_id": "event_5",
+      "event_url": "http://news.mydrivers.com/1/1072/1072591.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:04:00",
+      "event_time": "9月5日 08:05"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 23:03:22",
+    "level2_scrape_time": "2025-09-12 23:04:00"
+  }
+}

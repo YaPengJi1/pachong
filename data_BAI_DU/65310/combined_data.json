@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 22:02:58"
+  },
+  "core_event": {
+    "core_event_name": "东风61核导弹亮相",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:02:07"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "东风61震撼阅兵 撑起核保护伞 惊雷-1空射导弹颠覆反导规则",
+      "link": "http://www.163.com/dy/article/K8P61R1T0553RVN3.html",
+      "time": "9月6日 11:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "东风-61洲际导弹亮相九三阅兵引热议",
+      "link": "http://baijiahao.baidu.com/s?id=1842412002113297381&wfr=spider&for=pc",
+      "time": "9月5日 16:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "台媒:93阅兵,东风61巨浪3亮相",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=748228910174859562",
+      "time": "9月4日 09:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "东风-61导弹亮相9.3大阅兵",
+      "link": "http://www.163.com/dy/article/K8HEFLKL0525918I.html",
+      "time": "9月3日 11:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "9.3大阅兵两大彩蛋,介文汲:东风41直接跳到东风61太震撼了,巨浪-3亮相",
+      "link": "http://www.bilibili.com/video/BV1WdaMzfEcQ",
+      "time": "9月3日 10:57",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "东风61震撼阅兵 撑起核保护伞 惊雷-1空射导弹颠覆反导规则",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8P61R1T0553RVN3.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:02:23",
+      "event_time": "9月6日 11:38"
+    },
+    {
+      "event_title": "东风-61洲际导弹亮相九三阅兵引热议",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842412002113297381&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:02:48",
+      "event_time": "9月5日 16:30"
+    },
+    {
+      "event_title": "台媒:93阅兵,东风61巨浪3亮相",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=748228910174859562",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:02:50",
+      "event_time": "9月4日 09:36"
+    },
+    {
+      "event_title": "东风-61导弹亮相9.3大阅兵",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8HEFLKL0525918I.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:02:52",
+      "event_time": "9月3日 11:32"
+    },
+    {
+      "event_title": "9.3大阅兵两大彩蛋,介文汲:东风41直接跳到东风61太震撼了,巨浪-3亮相",
+      "event_id": "event_5",
+      "event_url": "http://www.bilibili.com/video/BV1WdaMzfEcQ",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:02:54",
+      "event_time": "9月3日 10:57"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 22:02:21",
+    "level2_scrape_time": "2025-09-12 22:02:54"
+  }
+}

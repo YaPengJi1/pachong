@@ -1,0 +1,193 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:15:37"
+  },
+  "core_event": {
+    "core_event_name": "美的集团半年净赚260亿",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:14:19"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "广东首富再战IPO,力压京东物流夺第一,美的集团贡献41%收入,佛山城又造富了",
+      "link": "http://baijiahao.baidu.com/s?id=1842969228166834661&wfr=spider&for=pc",
+      "time": "昨天 20:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美的交历史最佳半年报，机器人相关业务营收150亿",
+      "link": "http://baijiahao.baidu.com/s?id=1842317859806528329&wfr=spider&for=pc",
+      "time": "9月4日 15:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美的集团半年净赚260亿",
+      "link": "http://www.zhihu.com/zvideo/1946829506351437709",
+      "time": "9月4日 07:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美的集团的前世今生",
+      "link": "http://k.sina.cn/article_5953466437_162dab04506709c2lq.html",
+      "time": "9月3日 18:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美的集团二季度营收利润保持双位数增长",
+      "link": "http://baijiahao.baidu.com/s?id=1842120343187669357&wfr=spider&for=pc",
+      "time": "9月2日 11:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "家电股普涨 美的集团涨4%刷新阶段新高 TCL电子涨1%",
+      "link": "http://hk.jrj.com.cn/2025/09/02095952854898.shtml",
+      "time": "9月2日 09:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "美的集团绩后涨超4% 中期归母净利润同比增加25.04%",
+      "link": "http://finance.sina.com.cn/stock/hkstock/marketalerts/2025-09-01/doc-infnycqq1305342.shtml",
+      "time": "9月1日 10:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "美的集团中报：第二季度单季净利润同比增长15.14%",
+      "link": "http://stock.stockstar.com/RB2025090100000175.shtml",
+      "time": "9月1日 00:58",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "广东首富再战IPO,力压京东物流夺第一,美的集团贡献41%收入,佛山城又造富了",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842969228166834661&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:14:52",
+      "event_time": "昨天 20:06"
+    },
+    {
+      "event_title": "美的交历史最佳半年报，机器人相关业务营收150亿",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842317859806528329&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:15:07",
+      "event_time": "9月4日 15:32"
+    },
+    {
+      "event_title": "美的集团半年净赚260亿",
+      "event_id": "event_3",
+      "event_url": "http://www.zhihu.com/zvideo/1946829506351437709",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:15:09",
+      "event_time": "9月4日 07:07"
+    },
+    {
+      "event_title": "美的集团的前世今生",
+      "event_id": "event_4",
+      "event_url": "http://k.sina.cn/article_5953466437_162dab04506709c2lq.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:15:11",
+      "event_time": "9月3日 18:05"
+    },
+    {
+      "event_title": "美的集团二季度营收利润保持双位数增长",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842120343187669357&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:15:27",
+      "event_time": "9月2日 11:14"
+    },
+    {
+      "event_title": "家电股普涨 美的集团涨4%刷新阶段新高 TCL电子涨1%",
+      "event_id": "event_6",
+      "event_url": "http://hk.jrj.com.cn/2025/09/02095952854898.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:15:29",
+      "event_time": "9月2日 09:59"
+    },
+    {
+      "event_title": "美的集团绩后涨超4% 中期归母净利润同比增加25.04%",
+      "event_id": "event_7",
+      "event_url": "http://finance.sina.com.cn/stock/hkstock/marketalerts/2025-09-01/doc-infnycqq1305342.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:15:31",
+      "event_time": "9月1日 10:52"
+    },
+    {
+      "event_title": "美的集团中报：第二季度单季净利润同比增长15.14%",
+      "event_id": "event_8",
+      "event_url": "http://stock.stockstar.com/RB2025090100000175.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:15:33",
+      "event_time": "9月1日 00:58"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 8,
+    "total_comments": 8,
+    "events_with_comments": 8,
+    "level1_scrape_time": "2025-09-12 17:14:34",
+    "level2_scrape_time": "2025-09-12 17:15:33"
+  }
+}

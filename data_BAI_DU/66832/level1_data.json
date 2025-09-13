@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "央行连续增持黄金",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:13:38"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "央行连续10月增持黄金",
+      "link": "http://baijiahao.baidu.com/s?id=1842664850736030441&wfr=spider&for=pc",
+      "time": "9月8日 11:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "央行连续10个月增持黄金，证监会原主席易会满被查",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31559573",
+      "time": "9月8日 07:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "央行连续10个月增持黄金",
+      "link": "http://baijiahao.baidu.com/s?id=1842613249602022085&wfr=spider&for=pc",
+      "time": "9月7日 18:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "央行连续第10个月增持黄金",
+      "link": "http://baijiahao.baidu.com/s?id=1842615016923937794&wfr=spider&for=pc",
+      "time": "9月7日 18:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中国央行连续10个月增持黄金",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5098433039043502278",
+      "time": "9月7日 13:33",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 10:13:52"
+}

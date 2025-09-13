@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "泰国前总理他信突然离泰国",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:44:48"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "新总理选举前夜，他信突然离泰",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=18433652359254591204",
+      "time": "9月8日 21:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "他信返回泰国",
+      "link": "http://cj.sina.com.cn/articles/view/1893892941/70e2834d02001tspu",
+      "time": "9月8日 17:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "泰国前总理他信返回曼谷,将于9日听取法院裁决",
+      "link": "http://baijiahao.baidu.com/s?id=1842685502726944325&wfr=spider&for=pc",
+      "time": "9月8日 16:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "他信在法院裁决前离开泰国",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9948002117729164807",
+      "time": "9月6日 10:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "泰国前总理他信回应“跑路”传闻",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4014295242809588040",
+      "time": "9月6日 05:54",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 14:45:03"
+}

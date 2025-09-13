@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "阿努廷当选泰国总理",
+    "update_time": "更新至2025年9月7日 12:20",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:27:24"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "泰国新总理夫人原为咖啡店老板",
+      "link": "https://baijiahao.baidu.com/s?id=1842577508677072543",
+      "time": "9月7日 12:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "泰国新当选总理阿努廷公布多名内阁部长人选",
+      "link": "https://baijiahao.baidu.com/s?id=1842506544637125102&wfr=spider&for=pc",
+      "time": "9月6日 17:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "阿努廷当选泰国总理第一时间到医院跪拜父亲",
+      "link": "https://baijiahao.baidu.com/s?id=1842444193433756993&wfr=spider&for=pc",
+      "time": "9月5日 22:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "泰国新总理曾称在家每天都说粤语",
+      "link": "https://baijiahao.baidu.com/s?id=1842424343117085377",
+      "time": "9月5日 19:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中方回应泰国选出新任总理",
+      "link": "https://baijiahao.baidu.com/s?id=1842417769438252937",
+      "time": "9月5日 18:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "泰国新任总理，父母都是广东籍华人。",
+      "link": "https://baijiahao.baidu.com/s?id=1842414371777896487",
+      "time": "9月5日 17:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "阿努廷将出任泰国新任总理",
+      "link": "https://baijiahao.baidu.com/s?id=1842413365463148528",
+      "time": "9月5日 16:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "佩通坦被解职后，泰媒列出新总理热门人选",
+      "link": "https://baijiahao.baidu.com/s?id=1842016530773821923",
+      "time": "9月1日 07:30",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-13 02:27:38"
+}

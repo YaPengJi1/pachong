@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:44:59"
+  },
+  "core_event": {
+    "core_event_name": "冯德莱恩专机被干扰事件",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:44:33"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "冯德莱恩专机被干扰,欧盟指控俄罗斯所为,特朗普:这未必是坏事",
+      "link": "http://www.163.com/dy/article/K8JTHH2U0553VGZU.html",
+      "time": "9月4日 10:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "冯德莱恩专机遭干扰?若西方联军出兵乌克兰,欧洲将遭俄坦克洪流",
+      "link": "http://www.163.com/dy/article/K8GLGA1N05566PZ3.html",
+      "time": "9月3日 04:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "“刺杀”冯德莱恩?专机被干扰差点降落不下来,欧盟:疑似俄所为",
+      "link": "http://www.163.com/dy/article/K8F7R1R8055616X5.html",
+      "time": "9月2日 14:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "冯德莱恩所乘飞机GPS遭俄罗斯干扰?Flightradar回应:GPS未出现故障",
+      "link": "http://cj.sina.com.cn/articles/view/7295052889/1b2d1ac590200186jy",
+      "time": "9月2日 08:16",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "冯德莱恩专机被干扰,欧盟指控俄罗斯所为,特朗普:这未必是坏事",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8JTHH2U0553VGZU.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:44:48",
+      "event_time": "9月4日 10:33"
+    },
+    {
+      "event_title": "冯德莱恩专机遭干扰?若西方联军出兵乌克兰,欧洲将遭俄坦克洪流",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8GLGA1N05566PZ3.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:44:50",
+      "event_time": "9月3日 04:15"
+    },
+    {
+      "event_title": "“刺杀”冯德莱恩?专机被干扰差点降落不下来,欧盟:疑似俄所为",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8F7R1R8055616X5.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:44:52",
+      "event_time": "9月2日 14:57"
+    },
+    {
+      "event_title": "冯德莱恩所乘飞机GPS遭俄罗斯干扰?Flightradar回应:GPS未出现故障",
+      "event_id": "event_4",
+      "event_url": "http://cj.sina.com.cn/articles/view/7295052889/1b2d1ac590200186jy",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:44:54",
+      "event_time": "9月2日 08:16"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-13 01:44:47",
+    "level2_scrape_time": "2025-09-13 01:44:54"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 12:36:28"
+  },
+  "core_event": {
+    "core_event_name": "U22国足强势反弹",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 12:36:02"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U22国足此前半场仅1-0领先",
+      "link": "http://k.sina.com.cn/article_2018499075_784fda0302002hngk.html",
+      "time": "9月9日 17:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "王钰栋横传门前 拜合拉木爆射打进",
+      "link": "http://sports.cctv.com/2025/09/06/VIDEr9fm56okF9ybzkR2JXVi250906.shtml",
+      "time": "9月6日 21:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U22国足强势反弹!王钰栋传中朱鹏宇头球破门,轻松领先北马里亚纳群岛!",
+      "link": "http://www.sohu.com/a/932495154_122001004",
+      "time": "9月6日 20:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22国足迎战北马里亚纳，德国队遭遇冷门",
+      "link": "http://www.sohu.com/a/932110389_122001006",
+      "time": "9月5日 11:28",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "U22国足此前半场仅1-0领先",
+      "event_id": "event_1",
+      "event_url": "http://k.sina.com.cn/article_2018499075_784fda0302002hngk.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:36:17",
+      "event_time": "9月9日 17:08"
+    },
+    {
+      "event_title": "王钰栋横传门前 拜合拉木爆射打进",
+      "event_id": "event_2",
+      "event_url": "http://sports.cctv.com/2025/09/06/VIDEr9fm56okF9ybzkR2JXVi250906.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:36:19",
+      "event_time": "9月6日 21:26"
+    },
+    {
+      "event_title": "U22国足强势反弹!王钰栋传中朱鹏宇头球破门,轻松领先北马里亚纳群岛!",
+      "event_id": "event_3",
+      "event_url": "http://www.sohu.com/a/932495154_122001004",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:36:21",
+      "event_time": "9月6日 20:55"
+    },
+    {
+      "event_title": "U22国足迎战北马里亚纳，德国队遭遇冷门",
+      "event_id": "event_4",
+      "event_url": "http://www.sohu.com/a/932110389_122001006",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:36:23",
+      "event_time": "9月5日 11:28"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 12:36:16",
+    "level2_scrape_time": "2025-09-12 12:36:23"
+  }
+}

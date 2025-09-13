@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "东契奇欧锦赛三双表现",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:04:28"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "小组赛阶段东契奇场均创造51.4分 占斯洛文尼亚场均得分54.8%",
+      "link": "http://www.163.com/dy/article/K8NQJ6JT0529AQIE.html",
+      "time": "9月5日 22:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "东契奇小组赛阶段场均34分8篮板8.4助攻",
+      "link": "http://cj.sina.com.cn/articles/view/7880068820/1d5b04ed402001dda2",
+      "time": "9月5日 02:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "手感回暖!东契奇外线开炮连中三分打停对手 此前三分5中0",
+      "link": "http://sports.sina.cn/nba/other/2025-09-03/detail-infpcuqv9786558.d.html",
+      "time": "9月3日 00:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "东契奇拿到生涯第5次三双",
+      "link": "http://www.titan24.com/publish/app/data/2025/09/01/567678/os_news.html",
+      "time": "9月1日 11:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "斯洛文尼亚小组赛惨遭两连败",
+      "link": "http://sports.sina.cn/nba/other/2025-08-31/detail-infnvpzn4088118.d.html",
+      "time": "8月31日 08:23",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 19:04:42"
+}

@@ -1,0 +1,391 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:14:13"
+  },
+  "core_event": {
+    "core_event_name": "特朗普政治盟友遭枪击身亡",
+    "update_time": "更新至2025年9月12日 06:19",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:11:36"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普计划出席遭枪杀盟友柯克的葬礼",
+      "link": "https://baijiahao.baidu.com/s?id=1843007969952032970&wfr=spider&for=pc",
+      "time": "今天 06:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "嫌犯照片公布 悬赏10万美金",
+      "link": "https://baijiahao.baidu.com/s?id=1843006899728583940&wfr=spider&for=pc",
+      "time": "今天 06:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美调查人员掌握柯克案枪手清晰图像 寻获高威力步枪",
+      "link": "https://baijiahao.baidu.com/s?id=1842976388118022233",
+      "time": "昨天 22:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "狙击特朗普盟友的枪手仅开了一枪",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_11752677265296672433",
+      "time": "昨天 18:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "特朗普盟友曾号召民众买枪持枪",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_15297409085574574571",
+      "time": "昨天 11:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "政治盟友中枪身亡 特朗普发表全国讲话",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_7203455897002438871",
+      "time": "昨天 10:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "特朗普盟友演讲时遭枪击身亡 现场视频曝光",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_12873079399132835075&sourceFrom=share",
+      "time": "昨天 09:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "特朗普政治盟友遭枪击身亡 凶手仍在逃",
+      "link": "https://baijiahao.baidu.com/s?id=1842925930935828128",
+      "time": "昨天 08:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "政治盟友演讲时遭枪击身亡，特朗普下令全国降半旗致哀",
+      "link": "https://baijiahao.baidu.com/s?id=1842920455100681218&wfr=spider&for=pc",
+      "time": "昨天 07:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "特朗普政治盟友演讲时遭枪击身亡",
+      "link": "https://baijiahao.baidu.com/s?id=1842911206669967846",
+      "time": "昨天 04:44",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "特朗普计划出席遭枪杀盟友柯克的葬礼",
+      "event_id": "event_1",
+      "event_url": "https://baijiahao.baidu.com/s?id=1843007969952032970&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "道理4PfA850966",
+      "comment_time": "42分钟前",
+      "comment_content": "道理4PfA85096642分钟前北京举报回复赞",
+      "user_location": "北京",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:12:09",
+      "event_time": "今天 06:19"
+    },
+    {
+      "event_title": "特朗普计划出席遭枪杀盟友柯克的葬礼",
+      "event_id": "event_1",
+      "event_url": "https://baijiahao.baidu.com/s?id=1843007969952032970&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "木笃牛",
+      "comment_time": "1小时前",
+      "comment_content": "如他所愿 为枪支自由付出代价",
+      "user_location": "广东",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 10:12:09",
+      "event_time": "今天 06:19"
+    },
+    {
+      "event_title": "特朗普计划出席遭枪杀盟友柯克的葬礼",
+      "event_id": "event_1",
+      "event_url": "https://baijiahao.baidu.com/s?id=1843007969952032970&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "stanywhite",
+      "comment_time": "31分钟前",
+      "comment_content": "内塔胡，快，抓住机会，川普是你们的敌人",
+      "user_location": "广东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:12:09",
+      "event_time": "今天 06:19"
+    },
+    {
+      "event_title": "特朗普计划出席遭枪杀盟友柯克的葬礼",
+      "event_id": "event_1",
+      "event_url": "https://baijiahao.baidu.com/s?id=1843007969952032970&wfr=spider&for=pc",
+      "comment_index": 4,
+      "user_id": "wangtao386",
+      "comment_time": "1小时前",
+      "comment_content": "要去陪葬？",
+      "user_location": "山东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:12:09",
+      "event_time": "今天 06:19"
+    },
+    {
+      "event_title": "特朗普计划出席遭枪杀盟友柯克的葬礼",
+      "event_id": "event_1",
+      "event_url": "https://baijiahao.baidu.com/s?id=1843007969952032970&wfr=spider&for=pc",
+      "comment_index": 5,
+      "user_id": "轩之兵团",
+      "comment_time": "31分钟前",
+      "comment_content": "最后会不会得出一个结论：凶手是委内瑞拉人。",
+      "user_location": "广东",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 10:12:09",
+      "event_time": "今天 06:19"
+    },
+    {
+      "event_title": "特朗普计划出席遭枪杀盟友柯克的葬礼",
+      "event_id": "event_1",
+      "event_url": "https://baijiahao.baidu.com/s?id=1843007969952032970&wfr=spider&for=pc",
+      "comment_index": 6,
+      "user_id": "百度网友9d6208c",
+      "comment_time": "44分钟前",
+      "comment_content": "杀鸡儆猴",
+      "user_location": "上海",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:12:09",
+      "event_time": "今天 06:19"
+    },
+    {
+      "event_title": "嫌犯照片公布 悬赏10万美金",
+      "event_id": "event_2",
+      "event_url": "https://baijiahao.baidu.com/s?id=1843006899728583940&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "百度网友c915c87",
+      "comment_time": "44分钟前",
+      "comment_content": "FBI:你打的是报警电话，不是悬赏电话，所以赏金无效；（我更相信这句话价值10万美元）",
+      "user_location": "浙江",
+      "like_count": 3,
+      "scrape_time": "2025-09-12 10:12:24",
+      "event_time": "今天 06:03"
+    },
+    {
+      "event_title": "美调查人员掌握柯克案枪手清晰图像 寻获高威力步枪",
+      "event_id": "event_3",
+      "event_url": "https://baijiahao.baidu.com/s?id=1842976388118022233",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:12:57",
+      "event_time": "昨天 22:00"
+    },
+    {
+      "event_title": "狙击特朗普盟友的枪手仅开了一枪",
+      "event_id": "event_4",
+      "event_url": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_11752677265296672433",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:12:59",
+      "event_time": "昨天 18:10"
+    },
+    {
+      "event_title": "特朗普盟友曾号召民众买枪持枪",
+      "event_id": "event_5",
+      "event_url": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_15297409085574574571",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:13:01",
+      "event_time": "昨天 11:15"
+    },
+    {
+      "event_title": "政治盟友中枪身亡 特朗普发表全国讲话",
+      "event_id": "event_6",
+      "event_url": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_7203455897002438871",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:13:03",
+      "event_time": "昨天 10:48"
+    },
+    {
+      "event_title": "特朗普盟友演讲时遭枪击身亡 现场视频曝光",
+      "event_id": "event_7",
+      "event_url": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_12873079399132835075&sourceFrom=share",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:13:05",
+      "event_time": "昨天 09:56"
+    },
+    {
+      "event_title": "特朗普政治盟友遭枪击身亡 凶手仍在逃",
+      "event_id": "event_8",
+      "event_url": "https://baijiahao.baidu.com/s?id=1842925930935828128",
+      "comment_index": 1,
+      "user_id": "国阐动漫溜溜",
+      "comment_time": "09-11 08:45",
+      "comment_content": "愿世界和平，暴力不再。",
+      "user_location": "江西",
+      "like_count": 25,
+      "scrape_time": "2025-09-12 10:13:21",
+      "event_time": "昨天 08:38"
+    },
+    {
+      "event_title": "政治盟友演讲时遭枪击身亡，特朗普下令全国降半旗致哀",
+      "event_id": "event_9",
+      "event_url": "https://baijiahao.baidu.com/s?id=1842920455100681218&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "百度网友d8e63dd",
+      "comment_time": "09-11 10:04",
+      "comment_content": "证明他确实错了，不该去该大学公开演讲。",
+      "user_location": "新疆",
+      "like_count": 4,
+      "scrape_time": "2025-09-12 10:13:37",
+      "event_time": "昨天 07:11"
+    },
+    {
+      "event_title": "政治盟友演讲时遭枪击身亡，特朗普下令全国降半旗致哀",
+      "event_id": "event_9",
+      "event_url": "https://baijiahao.baidu.com/s?id=1842920455100681218&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "yoer3",
+      "comment_time": "09-11 09:25",
+      "comment_content": "疯狂的民主党",
+      "user_location": "北京",
+      "like_count": 3,
+      "scrape_time": "2025-09-12 10:13:37",
+      "event_time": "昨天 07:11"
+    },
+    {
+      "event_title": "政治盟友演讲时遭枪击身亡，特朗普下令全国降半旗致哀",
+      "event_id": "event_9",
+      "event_url": "https://baijiahao.baidu.com/s?id=1842920455100681218&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "排球天才Rob托",
+      "comment_time": "22小时前",
+      "comment_content": "讽刺到家了，prove himself wrong",
+      "user_location": "浙江",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 10:13:37",
+      "event_time": "昨天 07:11"
+    },
+    {
+      "event_title": "政治盟友演讲时遭枪击身亡，特朗普下令全国降半旗致哀",
+      "event_id": "event_9",
+      "event_url": "https://baijiahao.baidu.com/s?id=1842920455100681218&wfr=spider&for=pc",
+      "comment_index": 4,
+      "user_id": "yhsh6660q",
+      "comment_time": "23小时前",
+      "comment_content": "硬暴力、软暴力都应被重视",
+      "user_location": "山东",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 10:13:37",
+      "event_time": "昨天 07:11"
+    },
+    {
+      "event_title": "政治盟友演讲时遭枪击身亡，特朗普下令全国降半旗致哀",
+      "event_id": "event_9",
+      "event_url": "https://baijiahao.baidu.com/s?id=1842920455100681218&wfr=spider&for=pc",
+      "comment_index": 5,
+      "user_id": "kikdkkk",
+      "comment_time": "22小时前",
+      "comment_content": "看了视频 真的恐怖 一瞬间 人就没了",
+      "user_location": "广东",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 10:13:37",
+      "event_time": "昨天 07:11"
+    },
+    {
+      "event_title": "政治盟友演讲时遭枪击身亡，特朗普下令全国降半旗致哀",
+      "event_id": "event_9",
+      "event_url": "https://baijiahao.baidu.com/s?id=1842920455100681218&wfr=spider&for=pc",
+      "comment_index": 6,
+      "user_id": "逸云0810",
+      "comment_time": "09-11 08:37",
+      "comment_content": "以暴制暴",
+      "user_location": "浙江",
+      "like_count": 5,
+      "scrape_time": "2025-09-12 10:13:37",
+      "event_time": "昨天 07:11"
+    },
+    {
+      "event_title": "政治盟友演讲时遭枪击身亡，特朗普下令全国降半旗致哀",
+      "event_id": "event_9",
+      "event_url": "https://baijiahao.baidu.com/s?id=1842920455100681218&wfr=spider&for=pc",
+      "comment_index": 7,
+      "user_id": "道理4PfA850966",
+      "comment_time": "09-11 08:23",
+      "comment_content": "道理4PfA85096609-11 08:23北京举报回复2",
+      "user_location": "北京",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 10:13:37",
+      "event_time": "昨天 07:11"
+    },
+    {
+      "event_title": "政治盟友演讲时遭枪击身亡，特朗普下令全国降半旗致哀",
+      "event_id": "event_9",
+      "event_url": "https://baijiahao.baidu.com/s?id=1842920455100681218&wfr=spider&for=pc",
+      "comment_index": 8,
+      "user_id": "俗装往J",
+      "comment_time": "09-11 08:09",
+      "comment_content": "愿世界少些暴力，多些和平。",
+      "user_location": "河南",
+      "like_count": 5,
+      "scrape_time": "2025-09-12 10:13:37",
+      "event_time": "昨天 07:11"
+    },
+    {
+      "event_title": "特朗普政治盟友演讲时遭枪击身亡",
+      "event_id": "event_10",
+      "event_url": "https://baijiahao.baidu.com/s?id=1842911206669967846",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:14:09",
+      "event_time": "昨天 04:44"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 10,
+    "total_comments": 22,
+    "events_with_comments": 10,
+    "level1_scrape_time": "2025-09-12 10:11:50",
+    "level2_scrape_time": "2025-09-12 10:14:09"
+  }
+}

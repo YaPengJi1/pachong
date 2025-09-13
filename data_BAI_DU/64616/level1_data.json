@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "东风5C亮相九三阅兵",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:27:51"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "“荣光见证・使命传承” 东风汽车用实际行动展现央企责任担当",
+      "link": "http://www.nujiang.cn/2025/0909/187963.html",
+      "time": "9月9日 11:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "东风汽车现场服务技术保障团队荣耀归来",
+      "link": "http://k.sina.cn/article_2120091595_7e5e07cb00102dlq4.html",
+      "time": "9月7日 18:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "“东风-5C”液体洲际战略核导弹亮相九三阅兵,打击范围覆盖全球",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4985626401556942336",
+      "time": "9月4日 21:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "东风5C、东风61、歼20S 亮相九三阅兵!",
+      "link": "http://www.163.com/dy/article/K8KPCP1305567429.html",
+      "time": "9月4日 18:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "打击范围覆盖全球,“东风-5C”亮相",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31534932",
+      "time": "9月4日 14:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "东风-5C液体洲际战略核导弹接受检阅",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5287229322637114966",
+      "time": "9月4日 13:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "东风-5C有多强?官媒9年前披露过",
+      "link": "http://news.hnr.cn/shxw/article/1/1963392502769926146",
+      "time": "9月4日 08:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "93阅兵突然冒出东风-61，网友：比核弹还恐怖",
+      "link": "http://www.163.com/dy/article/K8J36R7U0556DGRW.html",
+      "time": "9月4日 02:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "阅兵仪式上,东风5C亮相后,一句解说词让无数国人沸腾!",
+      "link": "http://baijiahao.baidu.com/s?id=1842219331560278513&wfr=spider&for=pc",
+      "time": "9月3日 13:27",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-13 01:28:05"
+}

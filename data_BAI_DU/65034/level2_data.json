@@ -1,0 +1,72 @@
+{
+  "core_event_name": "武汉凡谷总经理换人，董事长实控人儿子担任",
+  "comments": [
+    {
+      "event_title": "武汉凡谷副总经理王波离任,新任总经理,年龄48岁在公司董事和高管中排3/10,薪酬88万元",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842349739509736272&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:15:11",
+      "event_time": "9月5日 00:00"
+    },
+    {
+      "event_title": "武汉凡谷董事长贾雄杰离任,新任副总经理,年龄44岁在公司董事和高管中排6/10,薪酬94万元",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842349738389773771&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:15:27",
+      "event_time": "9月5日 00:00"
+    },
+    {
+      "event_title": "武汉凡谷总经理李明离任,新任副总经理",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842349736286143879&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:15:42",
+      "event_time": "9月5日 00:00"
+    },
+    {
+      "event_title": "武汉凡谷高层“大换血”",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.com.cn/roll/2025-09-04/doc-infpkapc8412385.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:15:44",
+      "event_time": "9月4日 23:43"
+    },
+    {
+      "event_title": "武汉凡谷:董事荆剡林辞职",
+      "event_id": "event_5",
+      "event_url": "http://finance.eastmoney.com/a/202509043504962512.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:15:46",
+      "event_time": "9月4日 18:47"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 17:15:46"
+}

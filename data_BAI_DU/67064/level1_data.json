@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "波兰击落侵犯其领空无人机",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:55:02"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "波兰击落俄无人机，特朗普怕陷入第三次世界大战",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1379718777435146424",
+      "time": "昨天 15:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "大量俄无人机闯入波兰被击落",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15721721564918024005",
+      "time": "昨天 14:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "波兰称击落侵犯其领空的无人机 俄外交官:波兰关于俄无人机入侵其领空的指控“毫无根据”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16960815177454617896",
+      "time": "昨天 11:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "波兰称击落侵犯其领空的无人机",
+      "link": "http://tv.cctv.com/2025/09/11/VIDEr9UPPXgPB7wUKh14MvyG250911.shtml",
+      "time": "昨天 06:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "白俄罗斯连夜向波兰立陶宛交换空中雷达信息",
+      "link": "http://www.jfdaily.com/wx/detail.do?id=980552",
+      "time": "昨天 01:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "俄罗斯无人机首次在北约国家领空被击落",
+      "link": "http://baijiahao.baidu.com/s?id=1842900525101764020&wfr=spider&for=pc",
+      "time": "昨天 01:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "波兰首次击落数十架俄无人机",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5922573049471553011",
+      "time": "9月10日 20:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "俄军无人机成群飞入波兰,北约F35起飞拦截,普京试探西方底线?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11146983199643396496",
+      "time": "9月10日 18:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "波兰击落“侵犯”其领空无人机",
+      "link": "http://baijiahao.baidu.com/s?id=1842848765648390165&wfr=spider&for=pc",
+      "time": "9月10日 12:11",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 10:55:16"
+}

@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "奇瑞汽车取得高压连接装置及车辆相关专利",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:32:04"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "奇瑞取得端头结构行李架及车辆相关专利",
+      "link": "http://finance.jrj.com.cn/2025/09/04103152913076.shtml",
+      "time": "9月4日 10:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "奇瑞汽车取得高压连接装置及车辆相关专利",
+      "link": "http://finance.jrj.com.cn/2025/09/03194252903170.shtml",
+      "time": "9月3日 19:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "奇瑞汽车取得车速预测相关专利",
+      "link": "http://m.jrj.com.cn/madapter/finance/2025/09/02195152875335.shtml",
+      "time": "9月2日 19:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "奇瑞汽车取得一种汽车侧踏板安装结构专利",
+      "link": "http://m.jrj.com.cn/madapter/finance/2025/09/02194152874942.shtml",
+      "time": "9月2日 19:41",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 17:32:18"
+}

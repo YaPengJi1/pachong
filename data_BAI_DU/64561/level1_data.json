@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "北交所上市公司半年报发布",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:10:54"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "北交所:上半年龙头公司发挥“压舱石”作用,中小企业韧性十足",
+      "link": "http://www.163.com/dy/article/K8L91UGB05198UJD.html",
+      "time": "9月4日 23:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "北交所上半年上市公司营收达920.64亿元",
+      "link": "http://weibo.com/7746726697/Q2KpgecsS",
+      "time": "9月2日 22:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "北交所上市公司上半年营收超920亿",
+      "link": "http://baijiahao.baidu.com/s?id=1842159756405048847&wfr=spider&for=pc",
+      "time": "9月2日 21:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "北交所公司上半年“成绩单”全出炉,超八成公司实现盈利",
+      "link": "http://news.sina.cn/2025-09-01/detail-infnyiwe2743143.d.html",
+      "time": "9月1日 13:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "北交所四周年成绩单:山东20家企业跑赢大盘,营收利润双高于平均线",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 02:11:09"
+}

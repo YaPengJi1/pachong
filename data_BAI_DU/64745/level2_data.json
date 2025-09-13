@@ -1,0 +1,59 @@
+{
+  "core_event_name": "泰国新总理遭解职",
+  "comments": [
+    {
+      "event_title": "佩通坦遭解职 泰国新总理的考题",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8ARID2F0519DFFO.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:54:51",
+      "event_time": "8月31日 22:06"
+    },
+    {
+      "event_title": "佩通坦被解职 泰国新总理人选浮出",
+      "event_id": "event_2",
+      "event_url": "http://www.ahwang.cn/newsflash/2025/0830/2902963.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:54:53",
+      "event_time": "8月30日 09:37"
+    },
+    {
+      "event_title": "佩通坦被解除泰国总理职务",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K85DCK1205530KS1.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:54:55",
+      "event_time": "8月29日 19:21"
+    },
+    {
+      "event_title": "泰国总理佩通坦遭解职 他信家族再下台",
+      "event_id": "event_4",
+      "event_url": "http://www.sohu.com/a/929843373_656058",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:54:57",
+      "event_time": "8月29日 16:53"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-13 01:54:57"
+}

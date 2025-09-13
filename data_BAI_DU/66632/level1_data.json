@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普更名美军部",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:16:21"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美国防部更名“战争部”!撕下最后伪装",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9191918252427422210",
+      "time": "9月10日 07:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特朗普把国防部更名为战争部,接下来美军或拿某个小国开刀",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10762783318567559342",
+      "time": "9月7日 14:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普把国防部改名战争部",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10812772244156774703",
+      "time": "9月6日 20:28",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 10:16:35"
+}

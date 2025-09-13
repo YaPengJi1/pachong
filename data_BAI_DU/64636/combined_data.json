@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:46:36"
+  },
+  "core_event": {
+    "core_event_name": "纪念中国人民抗日战争暨世界反法西斯战争胜利",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:46:06"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "习近平总书记在纪念中国人民抗日战争暨世界反法西斯战争胜利",
+      "link": "http://weibo.com/tv/show/1034:5207279619211320",
+      "time": "9月4日 22:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "纪念中国人民抗日战争暨世界反法西斯战争胜利80周年",
+      "link": "http://weibo.com/1534691962/Q2YqneCgO",
+      "time": "9月4日 09:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "习近平在纪念反法西斯战争胜利大会上的讲话",
+      "link": "http://www.chinalaw.org.cn/index.php/portal/article/index/id/35795/cid/991061.html",
+      "time": "9月4日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "[纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会]分列式 联勤保障部队方队",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10111310231372140921",
+      "time": "9月3日 10:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "[纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会]分列式 民兵方队",
+      "link": "http://tv.cctv.com/2025/09/03/VIDEl3eJwBxa5WO4FxlQ3b5p250903.shtml",
+      "time": "9月3日 10:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "深刻铭记抗战历史 赓续正义和平薪火",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "习近平总书记在纪念中国人民抗日战争暨世界反法西斯战争胜利",
+      "event_id": "event_1",
+      "event_url": "http://weibo.com/tv/show/1034:5207279619211320",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:46:22",
+      "event_time": "9月4日 22:21"
+    },
+    {
+      "event_title": "纪念中国人民抗日战争暨世界反法西斯战争胜利80周年",
+      "event_id": "event_2",
+      "event_url": "http://weibo.com/1534691962/Q2YqneCgO",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:46:24",
+      "event_time": "9月4日 09:44"
+    },
+    {
+      "event_title": "习近平在纪念反法西斯战争胜利大会上的讲话",
+      "event_id": "event_3",
+      "event_url": "http://www.chinalaw.org.cn/index.php/portal/article/index/id/35795/cid/991061.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:46:26",
+      "event_time": "9月4日 00:00"
+    },
+    {
+      "event_title": "[纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会]分列式 联勤保障部队方队",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10111310231372140921",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:46:28",
+      "event_time": "9月3日 10:49"
+    },
+    {
+      "event_title": "[纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会]分列式 民兵方队",
+      "event_id": "event_5",
+      "event_url": "http://tv.cctv.com/2025/09/03/VIDEl3eJwBxa5WO4FxlQ3b5p250903.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:46:30",
+      "event_time": "9月3日 10:46"
+    },
+    {
+      "event_title": "深刻铭记抗战历史 赓续正义和平薪火",
+      "event_id": "event_6",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:46:32",
+      "event_time": "1970年"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-13 01:46:21",
+    "level2_scrape_time": "2025-09-13 01:46:32"
+  }
+}

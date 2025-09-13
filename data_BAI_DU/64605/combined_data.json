@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:20:03"
+  },
+  "core_event": {
+    "core_event_name": "加拉塔萨雷想签大马丁，曼联暗度陈仓压哨签大马丁",
+    "update_time": "更新至20250903",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:19:37"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "英媒:加拉塔萨雷想签大马丁,维拉收到合适报价预计就会放人",
+      "link": "http://www.163.com/dy/article/K8G729I80529DS7F.html",
+      "time": "9月3日 00:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "邮报:夏窗仅曼联一队报价大马丁",
+      "link": "http://sports.sina.com.cn/g/2025-09-02/doc-infpatck8862721.shtml",
+      "time": "9月2日 14:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "曼联救命稻草!大马丁或压哨驰援,红魔门将危机迎终极答案",
+      "link": "http://www.sohu.com/a/930796915_121315928",
+      "time": "9月1日 17:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "曼联压哨签下大马丁，桑乔可能被交易",
+      "link": "http://www.bilibili.com/video/BV1hAaHzkEoR",
+      "time": "9月1日 15:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "英媒:加拉塔萨雷想签大马丁,维拉收到合适报价预计就会放人",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8G729I80529DS7F.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:19:53",
+      "event_time": "9月3日 00:03"
+    },
+    {
+      "event_title": "邮报:夏窗仅曼联一队报价大马丁",
+      "event_id": "event_2",
+      "event_url": "http://sports.sina.com.cn/g/2025-09-02/doc-infpatck8862721.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:19:55",
+      "event_time": "9月2日 14:48"
+    },
+    {
+      "event_title": "曼联救命稻草!大马丁或压哨驰援,红魔门将危机迎终极答案",
+      "event_id": "event_3",
+      "event_url": "http://www.sohu.com/a/930796915_121315928",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:19:57",
+      "event_time": "9月1日 17:36"
+    },
+    {
+      "event_title": "曼联压哨签下大马丁，桑乔可能被交易",
+      "event_id": "event_4",
+      "event_url": "http://www.bilibili.com/video/BV1hAaHzkEoR",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:19:59",
+      "event_time": "9月1日 15:18"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-13 01:19:52",
+    "level2_scrape_time": "2025-09-13 01:19:59"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "core_event_name": "A股3800点失而复得",
+  "comments": [
+    {
+      "event_title": "A股缩量上涨成交不足2万亿元",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250910A05GG400",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:58:08",
+      "event_time": "9月10日 15:18"
+    },
+    {
+      "event_title": "A股尾盘回暖跌幅收窄:沪指3800点失而复得,黄金股出现炸板潮",
+      "event_id": "event_2",
+      "event_url": "http://news.sohu.com/a/933268427_163278",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:58:10",
+      "event_time": "9月9日 15:49"
+    },
+    {
+      "event_title": "3800点重返，成交量却缩了",
+      "event_id": "event_3",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_3614071038918092967",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:58:12",
+      "event_time": "9月8日 12:25"
+    },
+    {
+      "event_title": "大A再回3800点,4857家红盘",
+      "event_id": "event_4",
+      "event_url": "http://weibo.com/7670371504/Q3bGMcqIe",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:58:14",
+      "event_time": "9月5日 19:31"
+    },
+    {
+      "event_title": "缩量5167亿元,A股一度跌破3800点,明天修复阳线来了!",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=2410196338832163848",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:58:16",
+      "event_time": "9月4日 09:39"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 10:58:16"
+}

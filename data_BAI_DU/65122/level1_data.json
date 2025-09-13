@@ -1,0 +1,156 @@
+{
+  "core_info": {
+    "core_event_name": "德国男篮欧锦赛三连胜",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:39:54"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "施罗德若入选德国夺欧锦赛冠军，小黑能入选名人堂",
+      "link": "http://cj.sina.com.cn/articles/view/7880068727/1d5b04e7702002fx1i",
+      "time": "昨天 17:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "施罗德三分球7中0拿到16分3板3助1断",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-06/doc-infpqqtc1538825.shtml",
+      "time": "9月6日 22:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "邦加10中5拿到15分7板1助4断 正负值+21",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-06/doc-infpqqsw9366072.shtml",
+      "time": "9月6日 22:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "德国全场三分36中10 其中前24投仅1中",
+      "link": "http://sports.sina.cn/nba/other/2025-09-06/detail-infpqqtc1538678.d.html",
+      "time": "9月6日 22:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "德国85-58大胜葡萄牙晋级8强",
+      "link": "http://www.dongqiudi.com/articles/5358091.html",
+      "time": "9月6日 22:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "FIBA赛场如鱼得水!施罗德欧锦赛小组赛场均21+6.2 命中率53.5%",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-05/doc-infpmqqh2526359.shtml",
+      "time": "9月5日 16:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "小瓦格纳欧锦赛小组赛场均21.6分5.2板3.6助 仅0.6失误",
+      "link": "http://sports.sina.cn/nba/other/2025-09-05/detail-infpmqqm7793021.d.html",
+      "time": "9月5日 15:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "德国队91-61大胜芬兰队，小组赛展露强势",
+      "link": "http://baijiahao.baidu.com/s?id=1842329424671174687&wfr=spider&for=pc",
+      "time": "9月4日 18:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "德国男篮欧锦赛小组赛5战场均赢32.8分",
+      "link": "http://www.dongqiudi.com/articles/5353401.html",
+      "time": "9月4日 09:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "申京28分力克约基奇,德国男篮创纪录净胜164分",
+      "link": "http://www.sohu.com/a/931661849_121885030",
+      "time": "9月4日 06:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "德国小组赛5战全胜，位列B组第一",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-04/doc-infphkcs7217792.shtml",
+      "time": "9月4日 04:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "德国小组赛场均净胜32.8分 创欧锦赛1969年以来新高",
+      "link": "http://sports.sina.cn/nba/other/2025-09-04/detail-infphkcv2153999.d.html",
+      "time": "9月4日 03:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "德国狂胜晋级,助塞尔维亚出线,卫冕冠军欧锦赛连败",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1644276980310057635",
+      "time": "9月3日 14:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "德国男篮欧锦赛三连胜，107-88胜立陶宛",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12104900695596071454",
+      "time": "9月2日 16:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "德国男篮单场狂胜63分+4场赢134分",
+      "link": "http://cj.sina.com.cn/articles/view/5664305023/1519e6f7f00101tnx2",
+      "time": "9月2日 12:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "欧洲杯最新夺冠赔率:德国排名第一超塞尔维亚 土耳其飙升至第三",
+      "link": "http://app.myzaker.com/news/article.php?m=1756867562&pk=68b65b48b15ec012ba588fa8",
+      "time": "9月2日 10:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "德国前三战场均106分",
+      "link": "http://m.hupu.com/bbs/634661619.html",
+      "time": "9月1日 19:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "男篮欧锦赛德国19分大胜携塞尔维亚出线",
+      "link": "http://cj.sina.com.cn/articles/view/2834321443/a8f0502300101m8vc",
+      "time": "8月31日 01:24",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 18,
+  "scrape_time": "2025-09-12 18:40:09"
+}

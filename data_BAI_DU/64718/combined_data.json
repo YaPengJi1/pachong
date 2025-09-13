@@ -1,0 +1,256 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:33:47"
+  },
+  "core_event": {
+    "core_event_name": "外媒看阅兵式",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:32:12"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美国军事重点在偷偷改方向,中国不再是“最优先”",
+      "link": "http://cj.sina.com.cn/articles/view/7295511718/1b2d8aca602001er38",
+      "time": "9月10日 18:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "外媒:阅兵式展现中国人民捍卫和平的决心",
+      "link": "http://military.china.com/important/64/20250905/48792732.html",
+      "time": "9月5日 10:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "看完中国阅兵,伊拉克籍记者哭了",
+      "link": "http://www.163.com/dy/article/K8KKA1MH0530SFP3.html",
+      "time": "9月4日 17:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "九三阅兵收视率出炉!最高点突破41%,超6亿人观看创历史新高",
+      "link": "http://baijiahao.baidu.com/s?id=1842320007148058025&wfr=spider&for=pc",
+      "time": "9月4日 16:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "九三阅兵收视率出炉，最高点突破41%",
+      "link": "http://baijiahao.baidu.com/s?id=1842312933255483716&wfr=spider&for=pc",
+      "time": "9月4日 14:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "外国记者看阅兵后忍不住哭了",
+      "link": "http://baijiahao.baidu.com/s?id=1842306253475413783&wfr=spider&for=pc",
+      "time": "9月4日 12:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "伊拉克籍记者:看阅兵忍不住哭了,多希望中东人过上和中国人一样的生活",
+      "link": "http://baijiahao.baidu.com/s?id=1842236657873481292&wfr=spider&for=pc",
+      "time": "9月3日 18:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "外籍记者看阅兵后忍不住哭泣",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31538835",
+      "time": "9月3日 16:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "中国九三阅兵创全球收视纪录",
+      "link": "http://k.sina.cn/article_1227407741_4928c17d04002f368.html",
+      "time": "9月3日 16:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "外国人看阅兵:令人印象深刻,非常有教育意义",
+      "link": "http://cj.sina.com.cn/articles/view/1720962692/6693ce8402002wqmu",
+      "time": "9月3日 14:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "外国记者谈九三阅兵嘴角疯狂上扬",
+      "link": "http://weibo.com/tv/show/1034:5205831160102991",
+      "time": "8月31日 22:25",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "美国军事重点在偷偷改方向,中国不再是“最优先”",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/7295511718/1b2d8aca602001er38",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:32:27",
+      "event_time": "9月10日 18:35"
+    },
+    {
+      "event_title": "外媒:阅兵式展现中国人民捍卫和平的决心",
+      "event_id": "event_2",
+      "event_url": "http://military.china.com/important/64/20250905/48792732.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:32:29",
+      "event_time": "9月5日 10:22"
+    },
+    {
+      "event_title": "看完中国阅兵,伊拉克籍记者哭了",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8KKA1MH0530SFP3.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:32:31",
+      "event_time": "9月4日 17:11"
+    },
+    {
+      "event_title": "九三阅兵收视率出炉!最高点突破41%,超6亿人观看创历史新高",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842320007148058025&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:32:47",
+      "event_time": "9月4日 16:07"
+    },
+    {
+      "event_title": "九三阅兵收视率出炉，最高点突破41%",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842312933255483716&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:33:03",
+      "event_time": "9月4日 14:15"
+    },
+    {
+      "event_title": "外国记者看阅兵后忍不住哭了",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842306253475413783&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "性恨地折帅趣n",
+      "comment_time": "09-06 13:57",
+      "comment_content": "生在中国感到特别幸福！但是有些人还不知足，想想那些战乱的国家，人们都过着怎样的生活。我特别幸庆生长在伟大的中国。",
+      "user_location": "广西",
+      "like_count": 2,
+      "scrape_time": "2025-09-13 01:33:19",
+      "event_time": "9月4日 12:25"
+    },
+    {
+      "event_title": "伊拉克籍记者:看阅兵忍不住哭了,多希望中东人过上和中国人一样的生活",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842236657873481292&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:33:35",
+      "event_time": "9月3日 18:02"
+    },
+    {
+      "event_title": "外籍记者看阅兵后忍不住哭泣",
+      "event_id": "event_8",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31538835",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:33:37",
+      "event_time": "9月3日 16:54"
+    },
+    {
+      "event_title": "中国九三阅兵创全球收视纪录",
+      "event_id": "event_9",
+      "event_url": "http://k.sina.cn/article_1227407741_4928c17d04002f368.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:33:39",
+      "event_time": "9月3日 16:29"
+    },
+    {
+      "event_title": "外国人看阅兵:令人印象深刻,非常有教育意义",
+      "event_id": "event_10",
+      "event_url": "http://cj.sina.com.cn/articles/view/1720962692/6693ce8402002wqmu",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:33:41",
+      "event_time": "9月3日 14:10"
+    },
+    {
+      "event_title": "外国记者谈九三阅兵嘴角疯狂上扬",
+      "event_id": "event_11",
+      "event_url": "http://weibo.com/tv/show/1034:5205831160102991",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:33:43",
+      "event_time": "8月31日 22:25"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 11,
+    "total_comments": 11,
+    "events_with_comments": 11,
+    "level1_scrape_time": "2025-09-13 01:32:26",
+    "level2_scrape_time": "2025-09-13 01:33:43"
+  }
+}

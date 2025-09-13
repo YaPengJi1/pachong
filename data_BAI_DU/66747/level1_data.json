@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "巴以局势",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:32:38"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "关注巴以局势 以军持续袭击加沙多地 致数十人死亡",
+      "link": "http://tv.cctv.com/2025/09/09/VIDEu06NQCpzP9BySnnnHl1N250909.shtml",
+      "time": "9月9日 00:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "以军袭击加沙地带多地 再袭高层建筑",
+      "link": "http://tv.cctv.com/2025/09/07/VIDE1uKPoZwP1YM6365jygL8250907.shtml",
+      "time": "9月7日 08:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "加沙地带媒体办公室称以军空袭住宅楼构成战争罪行",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEcBeSFFnWUAoj9RuIYSWg250907.shtml",
+      "time": "9月7日 00:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 10:32:52"
+}

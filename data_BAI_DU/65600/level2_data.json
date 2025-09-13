@@ -1,0 +1,59 @@
+{
+  "core_event_name": "新问界M7亮相赛力斯股价跌",
+  "comments": [
+    {
+      "event_title": "新问界M7爆了赛力斯股价却跌了",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.cn/2025-09-05/detail-infpmzea2321314.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:36:29",
+      "event_time": "9月5日 19:11"
+    },
+    {
+      "event_title": "全新问界M7亮相2025智博会 赛力斯全方位展示智能化实践成果",
+      "event_id": "event_2",
+      "event_url": "http://finance.eastmoney.com/a/202509053506234772.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:36:31",
+      "event_time": "9月5日 18:00"
+    },
+    {
+      "event_title": "问界确认:全新M7即将开订",
+      "event_id": "event_3",
+      "event_url": "http://auto.qingdaonews.com/wap/2025-09/04/content_23686461.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:36:33",
+      "event_time": "9月4日 17:26"
+    },
+    {
+      "event_title": "甘肃武威问界M7落地价大公开,买车不花冤枉钱",
+      "event_id": "event_4",
+      "event_url": "http://www.pcauto.com.cn/hq/778070.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:36:35",
+      "event_time": "9月4日 14:54"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-13 02:36:35"
+}

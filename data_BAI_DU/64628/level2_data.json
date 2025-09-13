@@ -1,0 +1,46 @@
+{
+  "core_event_name": "93阅兵式观礼",
+  "comments": [
+    {
+      "event_title": "九三阅兵观礼感到荣幸与自豪",
+      "event_id": "event_1",
+      "event_url": "http://www.china.com.cn/zhuanti2025/2025-09/05/content_118061979.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:39:12",
+      "event_time": "9月5日 00:00"
+    },
+    {
+      "event_title": "9月3日,北京天安门广场,纪念中国人民抗日战争暨世界反法西斯战争胜利80周年阅兵仪式隆重举行",
+      "event_id": "event_2",
+      "event_url": "http://weibo.com/3237977132/Q31DGqy9i",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:39:14",
+      "event_time": "9月4日 17:56"
+    },
+    {
+      "event_title": "九三阅兵古田县受邀观礼",
+      "event_id": "event_3",
+      "event_url": "http://weibo.com/5904092987/Q30QTuv0a",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:39:16",
+      "event_time": "9月4日 15:55"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-13 01:39:16"
+}

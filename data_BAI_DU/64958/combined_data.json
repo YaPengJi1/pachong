@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:09:16"
+  },
+  "core_event": {
+    "core_event_name": "8月造车新势力销量洗牌",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:08:31"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "自主5强8月销量:均增长!吉利奇瑞抢第二,长城重回11万+",
+      "link": "http://cj.sina.com.cn/articles/view/1780284574/6a1cfc9e027016fza",
+      "time": "9月7日 09:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "传统车企大集团8月纷纷创新高",
+      "link": "http://baijiahao.baidu.com/s?id=1842243017433704244&wfr=spider&for=pc",
+      "time": "9月3日 19:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "8月销量大洗牌:“零问鹏”前三,理想下跌、蔚来回归",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31528687",
+      "time": "9月2日 11:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "小鹏汽车8月销量破新高,创历史最高交付量",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15633188812526892499",
+      "time": "9月2日 04:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "造车新势力8月交付量:“零小蔚”均创历史新高 理想“掉队”",
+      "link": "http://finance.eastmoney.com/a/202509013501231757.html",
+      "time": "9月1日 19:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "小鹏汽车8月交付37709台",
+      "link": "http://weibo.com/1355303021/Q2xIgcpBv",
+      "time": "9月1日 13:44",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "自主5强8月销量:均增长!吉利奇瑞抢第二,长城重回11万+",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/1780284574/6a1cfc9e027016fza",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:08:46",
+      "event_time": "9月7日 09:25"
+    },
+    {
+      "event_title": "传统车企大集团8月纷纷创新高",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842243017433704244&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:09:04",
+      "event_time": "9月3日 19:44"
+    },
+    {
+      "event_title": "8月销量大洗牌:“零问鹏”前三,理想下跌、蔚来回归",
+      "event_id": "event_3",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31528687",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:09:06",
+      "event_time": "9月2日 11:28"
+    },
+    {
+      "event_title": "小鹏汽车8月销量破新高,创历史最高交付量",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=15633188812526892499",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:09:08",
+      "event_time": "9月2日 04:10"
+    },
+    {
+      "event_title": "造车新势力8月交付量:“零小蔚”均创历史新高 理想“掉队”",
+      "event_id": "event_5",
+      "event_url": "http://finance.eastmoney.com/a/202509013501231757.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:09:10",
+      "event_time": "9月1日 19:54"
+    },
+    {
+      "event_title": "小鹏汽车8月交付37709台",
+      "event_id": "event_6",
+      "event_url": "http://weibo.com/1355303021/Q2xIgcpBv",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:09:12",
+      "event_time": "9月1日 13:44"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 18:08:45",
+    "level2_scrape_time": "2025-09-12 18:09:12"
+  }
+}

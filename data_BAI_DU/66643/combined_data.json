@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:26:38"
+  },
+  "core_event": {
+    "core_event_name": "F1意大利站：维斯塔潘强势夺冠",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:25:44"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "F1意大利站维斯塔潘强势夺冠 迈凯伦双雄追击未果",
+      "link": "http://baijiahao.baidu.com/s?id=1842650489313476047&wfr=spider&for=pc",
+      "time": "9月8日 07:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "F1蒙扎:法拉利主场发威,包揽前2!汉密尔顿爆发,勇夺第1",
+      "link": "http://baijiahao.baidu.com/s?id=1842436132575353679&wfr=spider&for=pc",
+      "time": "9月5日 22:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "2025赛季F1意大利站汉密尔顿爆冷夺冠法拉利战术困局待解",
+      "link": "http://www.sohu.com/a/931177499_121976701",
+      "time": "9月2日 16:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "F1意大利站维斯塔潘强势夺冠 迈凯伦双雄追击未果",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842650489313476047&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "有碗汪I",
+      "comment_time": "09-08 07:49",
+      "comment_content": "维斯塔潘这站太强了，领先二十秒夺冠。迈凯伦双雄拼命追，还是差一点。比赛看得过瘾！",
+      "user_location": "湖北",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:26:16",
+      "event_time": "9月8日 07:32"
+    },
+    {
+      "event_title": "F1蒙扎:法拉利主场发威,包揽前2!汉密尔顿爆发,勇夺第1",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842436132575353679&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:26:32",
+      "event_time": "9月5日 22:53"
+    },
+    {
+      "event_title": "2025赛季F1意大利站汉密尔顿爆冷夺冠法拉利战术困局待解",
+      "event_id": "event_3",
+      "event_url": "http://www.sohu.com/a/931177499_121976701",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:26:34",
+      "event_time": "9月2日 16:00"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 10:25:58",
+    "level2_scrape_time": "2025-09-12 10:26:34"
+  }
+}

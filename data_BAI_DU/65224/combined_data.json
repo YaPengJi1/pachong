@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 20:36:04"
+  },
+  "core_event": {
+    "core_event_name": "中国女排意外淘汰后朱婷回归",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:35:36"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "朱婷回归出席中国女排淘汰赛发布会",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1591904412809637379",
+      "time": "9月6日 11:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "排协应拿出态度请回朱婷",
+      "link": "http://cj.sina.com.cn/articles/view/7563502179/1c2d1e26300101fehi",
+      "time": "9月3日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国女排爆冷淘汰后，朱婷回归呼声大，主教练遭到怀疑",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4896304022938636906",
+      "time": "9月1日 23:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "女排赵勇继续打造“娃娃军”，还是召回朱婷袁心玥？",
+      "link": "http://k.sina.com.cn/article_7096022664_1a6f4b68802001baxm.html",
+      "time": "9月1日 21:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "明年迎回朱婷袁心玥?中国女排新老结合才是王道",
+      "link": "http://cj.sina.com.cn/articles/view/1047416990/3e6e509e00109bifo",
+      "time": "9月1日 10:54",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "朱婷回归出席中国女排淘汰赛发布会",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=1591904412809637379",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:35:51",
+      "event_time": "9月6日 11:29"
+    },
+    {
+      "event_title": "排协应拿出态度请回朱婷",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/7563502179/1c2d1e26300101fehi",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:35:53",
+      "event_time": "9月3日 00:00"
+    },
+    {
+      "event_title": "中国女排爆冷淘汰后，朱婷回归呼声大，主教练遭到怀疑",
+      "event_id": "event_3",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4896304022938636906",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:35:55",
+      "event_time": "9月1日 23:00"
+    },
+    {
+      "event_title": "女排赵勇继续打造“娃娃军”，还是召回朱婷袁心玥？",
+      "event_id": "event_4",
+      "event_url": "http://k.sina.com.cn/article_7096022664_1a6f4b68802001baxm.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:35:57",
+      "event_time": "9月1日 21:37"
+    },
+    {
+      "event_title": "明年迎回朱婷袁心玥?中国女排新老结合才是王道",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/1047416990/3e6e509e00109bifo",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:35:59",
+      "event_time": "9月1日 10:54"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 20:35:50",
+    "level2_scrape_time": "2025-09-12 20:35:59"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "欧盟进口猪肉反倾销调查",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:59:02"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "欧盟进口猪肉反倾销初裁落地",
+      "link": "http://new.qq.com/rain/a/20250909A02RAX00",
+      "time": "9月9日 10:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "欧盟正研究中方反倾销裁决",
+      "link": "http://finance.sina.cn/2025-09-07/detail-infprwnp0853092.d.html",
+      "time": "9月7日 13:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国商务部对原产于欧盟的进口相关猪肉及猪副产品实施临时反倾销措施",
+      "link": "http://tv.cctv.com/2025/09/05/VIDEH3tHBbOV2jWINl8UxXZa250905.shtml",
+      "time": "9月5日 21:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "东大初步裁定欧盟进口猪肉及副产品存在倾销",
+      "link": "http://weibo.com/7881153062/Q3clLiwf7",
+      "time": "9月5日 21:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "商务部对原产于欧盟的进口猪肉及猪副产品反倾销调查初裁",
+      "link": "http://weibo.com/1926909715/Q3arupWJk",
+      "time": "9月5日 16:20",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 10:59:16"
+}

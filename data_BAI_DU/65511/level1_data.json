@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "阿维塔12测试车亮相",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:07:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "阿维塔12测试车亮相 搭载分布式电驱 配原地掉头/爆胎稳定控制",
+      "link": "http://www.163.com/dy/article/K8QDNOQC05279745.html",
+      "time": "9月6日 23:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "阿维塔12测试车亮相 搭载分布式电驱 配备原地掉头功能",
+      "link": "http://www.pcauto.com.cn/nation/4998/49985867.html",
+      "time": "9月6日 22:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "华为HI PLUS模式颠覆行业,阿维塔首批尝鲜",
+      "link": "http://www.pcauto.com.cn/hj/article/3051729.html",
+      "time": "9月6日 12:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "双5C超充+1250公里续航,新款阿维塔06上市",
+      "link": "http://www.pcauto.com.cn/hj/article/3049812.html",
+      "time": "9月4日 11:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "长安汽车:阿维塔明年将推出百万级大六座旗舰产品",
+      "link": "http://auto.sina.cn/zz/hy/2025-09-01/detail-infnzfaa0893295.d.html",
+      "time": "9月1日 22:46",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 01:08:06"
+}

@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:58:44"
+  },
+  "core_event": {
+    "core_event_name": "特朗普政治盟友遭枪击身亡",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:58:03"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普政治盟友遭枪击死亡",
+      "link": "http://new.qq.com/rain/a/20250911V02Y5400",
+      "time": "昨天 10:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "政治盟友遭枪击身亡,特朗普:降半旗",
+      "link": "http://baijiahao.baidu.com/s?id=1842933776330872086&wfr=spider&for=pc",
+      "time": "昨天 10:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普盟友遭枪杀,美国又要降半旗,拥护持枪却被枪支泛滥害死",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2022262888906369773",
+      "time": "昨天 10:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普政治盟友演讲时遭枪击身亡,特朗普下令降半旗致哀",
+      "link": "http://finance.sina.com.cn/wm/2025-09-11/doc-infqanhq3479676.shtml",
+      "time": "昨天 07:46",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "特朗普政治盟友遭枪击死亡",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250911V02Y5400",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:58:18",
+      "event_time": "昨天 10:45"
+    },
+    {
+      "event_title": "政治盟友遭枪击身亡,特朗普:降半旗",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842933776330872086&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "孙de鸿雷",
+      "comment_time": "19小时前",
+      "comment_content": "愿逝者安息，世界和平。",
+      "user_location": "贵州",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:58:36",
+      "event_time": "昨天 10:43"
+    },
+    {
+      "event_title": "特朗普盟友遭枪杀,美国又要降半旗,拥护持枪却被枪支泛滥害死",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=2022262888906369773",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:58:38",
+      "event_time": "昨天 10:06"
+    },
+    {
+      "event_title": "特朗普政治盟友演讲时遭枪击身亡,特朗普下令降半旗致哀",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.com.cn/wm/2025-09-11/doc-infqanhq3479676.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:58:40",
+      "event_time": "昨天 07:46"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 10:58:17",
+    "level2_scrape_time": "2025-09-12 10:58:40"
+  }
+}

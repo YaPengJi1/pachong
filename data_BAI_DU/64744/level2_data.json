@@ -1,0 +1,46 @@
+{
+  "core_event_name": "中超积分榜争夺激烈",
+  "comments": [
+    {
+      "event_title": "中超争冠战胜局白热化:榜首易主,前4仅相差2分",
+      "event_id": "event_1",
+      "event_url": "http://www.sohu.com/a/930640597_121927239",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:54:24",
+      "event_time": "9月1日 10:44"
+    },
+    {
+      "event_title": "中超最新积分榜:蓉城登顶,申花海港均输球,国安目前大比分落后",
+      "event_id": "event_2",
+      "event_url": "http://www.sohu.com/a/930499490_122001006",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:54:26",
+      "event_time": "8月31日 21:09"
+    },
+    {
+      "event_title": "中超最新积分榜大揭秘:成都蓉城惊现50分,保级战愈发激烈",
+      "event_id": "event_3",
+      "event_url": "http://news.sohu.com/a/930349766_121953830",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:54:28",
+      "event_time": "8月31日 09:20"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-13 01:54:28"
+}

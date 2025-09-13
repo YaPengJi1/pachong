@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普恢复“战争部”名称",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:28:44"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普周五签令!国防部恢复旧名“战争部”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10146417852034452058",
+      "time": "9月8日 17:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特朗普恢复“战争部”名称有何目的 强化军事定位",
+      "link": "http://news.china.com/socialgd/10000169/20250908/48799103.html",
+      "time": "9月8日 08:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普签令改国防部为“战争部”?军事战略转向藏隐忧!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5330985439171632810",
+      "time": "9月8日 07:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普宣称将国防部改为战争部",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15078288204082452234",
+      "time": "9月7日 19:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "特朗普签署行政令,赫格塞思成为战争部长",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12585916180987656770",
+      "time": "9月7日 17:35",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 14:28:59"
+}

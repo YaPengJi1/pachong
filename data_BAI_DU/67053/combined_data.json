@@ -1,0 +1,305 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:47:38"
+  },
+  "core_event": {
+    "core_event_name": "以色列突袭卡塔尔",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:46:19"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "以军秘密武器突袭卡塔尔，外形与鹰击-21高度相似",
+      "link": "http://cj.sina.com.cn/articles/view/7295511715/1b2d8aca302001hog4",
+      "time": "昨天 08:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "卡塔尔袭击造成6人死亡，哈马斯高层躲过一劫",
+      "link": "http://finance.sina.cn/2025-09-10/detail-infpzray3939826.d.html",
+      "time": "9月10日 21:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "以色列袭击卡塔尔首都多哈 中方严厉谴责",
+      "link": "http://baijiahao.baidu.com/s?id=1842863140956805058&wfr=spider&for=pc",
+      "time": "9月10日 15:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国网友急卡塔尔袭击事件",
+      "link": "http://news.sina.cn/gj/2025-09-10/detail-infpyyfe7674873.d.html",
+      "time": "9月10日 15:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "以色列突袭卡塔尔",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3731923716418125964",
+      "time": "9月10日 14:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "以色列空袭卡塔尔全程保密 美媒:美方直到导弹发射才知情",
+      "link": "http://new.qq.com/rain/a/20250910A04AXV00",
+      "time": "9月10日 12:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "以色列神秘导弹突袭多哈",
+      "link": "http://cj.sina.com.cn/articles/view/1403915120/53ae0b7002001e9my",
+      "time": "9月10日 11:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "以色列突袭卡塔尔首都",
+      "link": "http://baijiahao.baidu.com/s?id=1842835208137303885&wfr=spider&for=pc",
+      "time": "9月10日 08:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "以色列空袭卡塔尔首都多哈",
+      "link": "http://baijiahao.baidu.com/s?id=1842867262133573395&wfr=spider&for=pc",
+      "time": "9月9日 21:34",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "以军秘密武器突袭卡塔尔，外形与鹰击-21高度相似",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/7295511715/1b2d8aca302001hog4",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:46:34",
+      "event_time": "昨天 08:37"
+    },
+    {
+      "event_title": "卡塔尔袭击造成6人死亡，哈马斯高层躲过一劫",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/2025-09-10/detail-infpzray3939826.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:46:36",
+      "event_time": "9月10日 21:58"
+    },
+    {
+      "event_title": "以色列袭击卡塔尔首都多哈 中方严厉谴责",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842863140956805058&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "百度网友f12c33e",
+      "comment_time": "1小时前",
+      "comment_content": "为正义发声，反对侵略行为！",
+      "user_location": "山东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:46:53",
+      "event_time": "9月10日 15:58"
+    },
+    {
+      "event_title": "以色列袭击卡塔尔首都多哈 中方严厉谴责",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842863140956805058&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "知之行之持之",
+      "comment_time": "1小时前",
+      "comment_content": "武力不能带来和平，外交对话才是关键",
+      "user_location": "广东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:46:53",
+      "event_time": "9月10日 15:58"
+    },
+    {
+      "event_title": "以色列袭击卡塔尔首都多哈 中方严厉谴责",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842863140956805058&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "夜光型正能量",
+      "comment_time": "1小时前",
+      "comment_content": "中方呼吁各方克制，避免局势进一步升级",
+      "user_location": "河北",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:46:53",
+      "event_time": "9月10日 15:58"
+    },
+    {
+      "event_title": "以色列袭击卡塔尔首都多哈 中方严厉谴责",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842863140956805058&wfr=spider&for=pc",
+      "comment_index": 4,
+      "user_id": "月之雪花丝溅",
+      "comment_time": "1小时前",
+      "comment_content": "中方对以色列袭击多哈表示强烈谴责，支持和平解决",
+      "user_location": "广西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:46:53",
+      "event_time": "9月10日 15:58"
+    },
+    {
+      "event_title": "中国网友急卡塔尔袭击事件",
+      "event_id": "event_4",
+      "event_url": "http://news.sina.cn/gj/2025-09-10/detail-infpyyfe7674873.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:46:56",
+      "event_time": "9月10日 15:09"
+    },
+    {
+      "event_title": "以色列突袭卡塔尔",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=3731923716418125964",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:46:58",
+      "event_time": "9月10日 14:17"
+    },
+    {
+      "event_title": "以色列空袭卡塔尔全程保密 美媒:美方直到导弹发射才知情",
+      "event_id": "event_6",
+      "event_url": "http://new.qq.com/rain/a/20250910A04AXV00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:47:00",
+      "event_time": "9月10日 12:37"
+    },
+    {
+      "event_title": "以色列神秘导弹突袭多哈",
+      "event_id": "event_7",
+      "event_url": "http://cj.sina.com.cn/articles/view/1403915120/53ae0b7002001e9my",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:47:02",
+      "event_time": "9月10日 11:46"
+    },
+    {
+      "event_title": "以色列突袭卡塔尔首都",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842835208137303885&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "利丰sR3DK",
+      "comment_time": "09-10 10:28",
+      "comment_content": "震惊，令人发指。",
+      "user_location": "吉林",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:47:18",
+      "event_time": "9月10日 08:36"
+    },
+    {
+      "event_title": "以色列突袭卡塔尔首都",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842835208137303885&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "蓟纯巡",
+      "comment_time": "09-10 10:11",
+      "comment_content": "以开始自挖坟墓了",
+      "user_location": "上海",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:47:18",
+      "event_time": "9月10日 08:36"
+    },
+    {
+      "event_title": "以色列突袭卡塔尔首都",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842835208137303885&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "漂亮de李慧珍",
+      "comment_time": "09-10 08:42",
+      "comment_content": "愿世界和平，明天会更好！",
+      "user_location": "重庆",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 10:47:18",
+      "event_time": "9月10日 08:36"
+    },
+    {
+      "event_title": "以色列突袭卡塔尔首都",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842835208137303885&wfr=spider&for=pc",
+      "comment_index": 4,
+      "user_id": "户韦才be",
+      "comment_time": "09-10 10:31",
+      "comment_content": "以色列就是牛",
+      "user_location": "湖北",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:47:18",
+      "event_time": "9月10日 08:36"
+    },
+    {
+      "event_title": "以色列突袭卡塔尔首都",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842835208137303885&wfr=spider&for=pc",
+      "comment_index": 5,
+      "user_id": "知足常乐0Yxo",
+      "comment_time": "09-10 23:05",
+      "comment_content": "全世界联合起来清除以色列",
+      "user_location": "贵州",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:47:18",
+      "event_time": "9月10日 08:36"
+    },
+    {
+      "event_title": "以色列空袭卡塔尔首都多哈",
+      "event_id": "event_9",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842867262133573395&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:47:33",
+      "event_time": "9月9日 21:34"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 9,
+    "total_comments": 16,
+    "events_with_comments": 9,
+    "level1_scrape_time": "2025-09-12 10:46:33",
+    "level2_scrape_time": "2025-09-12 10:47:33"
+  }
+}

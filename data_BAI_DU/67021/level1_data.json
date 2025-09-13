@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "曝曼联高层考虑明年回签德赫亚，拉什福德不买断赔500万",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:14:19"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "曝巴萨不买断拉什福德要赔500万",
+      "link": "http://www.163.com/dy/article/K90QCDE90529999M.html",
+      "time": "9月9日 11:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "曼联1月冬窗必买新中场!未必是巴莱巴,森林大英新悍将亦是候选",
+      "link": "http://www.sohu.com/a/933088022_518672",
+      "time": "9月9日 09:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "曝曼联高层考虑明年回签德赫亚,指导拉门斯发展!阿莫林很欣赏他",
+      "link": "http://baijiahao.baidu.com/s?id=1842665259391842068&wfr=spider&for=pc",
+      "time": "9月8日 11:35",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 10:14:33"
+}

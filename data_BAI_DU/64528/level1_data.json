@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "A股缩量跌穿3800点",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:37:57"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "A股调整结束了吗?",
+      "link": "http://stock.hexun.com/2025-09-07/221243387.html",
+      "time": "9月7日 07:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "沪指失守3800点,央行盘后出手,“放水”一万亿元",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infpirxe3344817.d.html",
+      "time": "9月4日 17:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "大盘失守3800点，20日均线构成关键支撑",
+      "link": "http://weibo.com/7942620137/Q2YOaE93b",
+      "time": "9月4日 10:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "上证险守3800点,下跌中继还是重启升势,关键看券商止跌拉升",
+      "link": "http://www.163.com/dy/article/K8IAN2MT05565O8G.html",
+      "time": "9月4日 07:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "A股缩量跌穿3800点",
+      "link": "http://weibo.com/7583382920/Q2RFIBFK5",
+      "time": "9月3日 16:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "沪指跌破3800点整数关口",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12559999294684613341",
+      "time": "9月3日 14:59",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-13 01:38:11"
+}

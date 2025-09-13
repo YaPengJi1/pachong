@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "个人消费贷款财政贴息政策",
+    "update_time": "更新至20250902",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:07:11"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "九月一号起借钱看病、买车能白捡国家消费贷贴息红包 消费贷款贴息",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6090817454709244598",
+      "time": "9月2日 08:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "消费贷贴息“红包”今日上线",
+      "link": "http://tv.cctv.com/2025/09/01/VIDEE4zOMRl9ZFuW7fUKwcid250901.shtml",
+      "time": "9月1日 08:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "消费贷贴息“红包”上线 银行将自动操作直接扣减",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4162137985651598880",
+      "time": "9月1日 06:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "9月1日起开闸!你的个人消费贷款能否贴息、怎么向银行申请 指南来了",
+      "link": "http://finance.eastmoney.com/a/202508313500324183.html",
+      "time": "9月1日 00:33",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 22:07:26"
+}

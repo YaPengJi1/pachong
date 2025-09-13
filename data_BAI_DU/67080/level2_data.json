@@ -1,0 +1,59 @@
+{
+  "core_event_name": "国足新帅候选人资料",
+  "comments": [
+    {
+      "event_title": "卡纳瓦罗乔迪有意,国足新帅会是中超故人吗?",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842845242372142955&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "矮矮fattie",
+      "comment_time": "09-10 11:36",
+      "comment_content": "卡帅和乔帅熟悉中国足球，上手快，很期待他们带国足走出低谷。",
+      "user_location": "四川",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:16:04",
+      "event_time": "9月10日 11:11"
+    },
+    {
+      "event_title": "国足新帅会是谁?名记曝出新选项,前英格兰主帅或执教?够大牌了",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001tdri",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:16:06",
+      "event_time": "9月9日 12:57"
+    },
+    {
+      "event_title": "足协官宣再次招聘国足主帅",
+      "event_id": "event_3",
+      "event_url": "http://news.sohu.com/a/932569943_122287319",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:16:08",
+      "event_time": "9月7日 09:27"
+    },
+    {
+      "event_title": "足协已接到多份有意执教的候选人资料",
+      "event_id": "event_4",
+      "event_url": "http://k.sina.com.cn/article_2018499075_784fda0302002hhxs.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:16:10",
+      "event_time": "9月5日 16:05"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 11:16:10"
+}

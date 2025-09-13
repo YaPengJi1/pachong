@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "美联储提名人米兰对通胀的看法",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:11:13"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美联储理事提名人米兰:我的通胀观点不仅仅受到货币政策的影响",
+      "link": "http://finance.sina.cn/7x24/2025-09-04/detail-infpkany3142700.d.html",
+      "time": "9月4日 23:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美联储提名人米兰:美联储主席称通胀只是暂时现象并不明智",
+      "link": "http://finance.sina.cn/7x24/2025-09-04/detail-infpkanz1494083.d.html",
+      "time": "9月4日 23:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美联储提名人米兰谈论关税是否是税",
+      "link": "http://finance.sina.cn/7x24/2025-09-04/detail-infpkapc8405953.d.html",
+      "time": "9月4日 23:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美联储理事会提名人斯蒂芬·米兰:美国劳工统计局各项指标的数据稳步恶化",
+      "link": "http://finance.sina.cn/7x24/2025-09-04/detail-infpkanw6550242.d.html",
+      "time": "9月4日 22:45",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 19:11:27"
+}

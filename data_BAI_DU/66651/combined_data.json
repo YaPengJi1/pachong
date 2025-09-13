@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:34:53"
+  },
+  "core_event": {
+    "core_event_name": "以军加强对加沙地带的袭击力度",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:34:06"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "以军称将攻入加沙城,中方回应",
+      "link": "http://baijiahao.baidu.com/s?id=1842795413782264769&wfr=spider&for=pc",
+      "time": "9月9日 21:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "以军加强对加沙地带的袭击力度,当地民众被迫在垃圾场避难:不死于炮火便死于疾病",
+      "link": "http://new.qq.com/rain/a/20250909V02NI400",
+      "time": "9月9日 09:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "内塔尼亚胡警告:即将攻入加沙城,当地居民马上离开!过去几天以空军已炸毁加沙50座高楼,但这还仅是“…",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31577730",
+      "time": "9月9日 09:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "以军连日空袭加沙城高层建筑 以媒分析称“只是开始”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2204027948610744386",
+      "time": "9月8日 17:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "以军再发疏散令 加沙民众难觅避难所",
+      "link": "http://news.cnhubei.com/content/2025-09/08/content_19482621.html",
+      "time": "9月8日 09:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "以军持续袭击加沙城 民众艰难决定去留",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "以军称将攻入加沙城,中方回应",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842795413782264769&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:34:39",
+      "event_time": "9月9日 21:43"
+    },
+    {
+      "event_title": "以军加强对加沙地带的袭击力度,当地民众被迫在垃圾场避难:不死于炮火便死于疾病",
+      "event_id": "event_2",
+      "event_url": "http://new.qq.com/rain/a/20250909V02NI400",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:34:41",
+      "event_time": "9月9日 09:45"
+    },
+    {
+      "event_title": "内塔尼亚胡警告:即将攻入加沙城,当地居民马上离开!过去几天以空军已炸毁加沙50座高楼,但这还仅是“…",
+      "event_id": "event_3",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31577730",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:34:43",
+      "event_time": "9月9日 09:15"
+    },
+    {
+      "event_title": "以军连日空袭加沙城高层建筑 以媒分析称“只是开始”",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=2204027948610744386",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:34:45",
+      "event_time": "9月8日 17:28"
+    },
+    {
+      "event_title": "以军再发疏散令 加沙民众难觅避难所",
+      "event_id": "event_5",
+      "event_url": "http://news.cnhubei.com/content/2025-09/08/content_19482621.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:34:47",
+      "event_time": "9月8日 09:47"
+    },
+    {
+      "event_title": "以军持续袭击加沙城 民众艰难决定去留",
+      "event_id": "event_6",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:34:49",
+      "event_time": "1970年"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 10:34:20",
+    "level2_scrape_time": "2025-09-12 10:34:49"
+  }
+}

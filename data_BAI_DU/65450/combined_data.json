@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 00:09:53"
+  },
+  "core_event": {
+    "core_event_name": "美联储理事库克被刑事调查",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:09:14"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美联储理事库克遭刑事调查",
+      "link": "http://www.163.com/dy/article/K8PERKCI0514BQ68.html",
+      "time": "9月6日 14:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美国司法部对美联储理事库克展开刑事调查 已发出传票",
+      "link": "http://cj.sina.com.cn/articles/view/1663309857/6324182102001alie",
+      "time": "9月5日 02:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美司法部对美联储理事库克展开刑事调查",
+      "link": "http://baijiahao.baidu.com/s?id=1842345512006065468&wfr=spider&for=pc",
+      "time": "9月4日 22:51",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "美联储理事库克遭刑事调查",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8PERKCI0514BQ68.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:09:30",
+      "event_time": "9月6日 14:12"
+    },
+    {
+      "event_title": "美国司法部对美联储理事库克展开刑事调查 已发出传票",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/1663309857/6324182102001alie",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:09:32",
+      "event_time": "9月5日 02:12"
+    },
+    {
+      "event_title": "美司法部对美联储理事库克展开刑事调查",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842345512006065468&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:09:49",
+      "event_time": "9月4日 22:51"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-13 00:09:29",
+    "level2_scrape_time": "2025-09-13 00:09:49"
+  }
+}

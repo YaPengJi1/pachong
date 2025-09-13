@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:53:16"
+  },
+  "core_event": {
+    "core_event_name": "以色列F-35I深夜突袭多哈，卡塔尔被轰十余次",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:52:48"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "以色列空袭多哈，卡塔尔防空系统没有反应",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10186515422399254944",
+      "time": "昨天 16:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "卡塔尔遭以色列突袭,美国“保护伞”成笑话?背后谁在搞鬼?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11914984122072658195",
+      "time": "昨天 12:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "卡塔尔防空系统对以军袭击毫无反应",
+      "link": "http://new.qq.com/rain/a/20250911A00G0L00",
+      "time": "昨天 00:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "以色列F-35I深夜突袭多哈，卡塔尔被轰十余次",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1700982001493397797",
+      "time": "9月10日 11:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "以色列15架战机轰炸卡塔尔首都",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7214685867455278186",
+      "time": "9月10日 09:57",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "以色列空袭多哈，卡塔尔防空系统没有反应",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10186515422399254944",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:53:04",
+      "event_time": "昨天 16:19"
+    },
+    {
+      "event_title": "卡塔尔遭以色列突袭,美国“保护伞”成笑话?背后谁在搞鬼?",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11914984122072658195",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:53:06",
+      "event_time": "昨天 12:00"
+    },
+    {
+      "event_title": "卡塔尔防空系统对以军袭击毫无反应",
+      "event_id": "event_3",
+      "event_url": "http://new.qq.com/rain/a/20250911A00G0L00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:53:08",
+      "event_time": "昨天 00:43"
+    },
+    {
+      "event_title": "以色列F-35I深夜突袭多哈，卡塔尔被轰十余次",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=1700982001493397797",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:53:10",
+      "event_time": "9月10日 11:06"
+    },
+    {
+      "event_title": "以色列15架战机轰炸卡塔尔首都",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7214685867455278186",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:53:12",
+      "event_time": "9月10日 09:57"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 10:53:03",
+    "level2_scrape_time": "2025-09-12 10:53:12"
+  }
+}

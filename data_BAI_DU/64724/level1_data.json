@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "Salesforce财报超预期却指引疲软",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:38:06"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "Salesforce财报超预期但股价下跌，AI转型进展引发投资者担忧",
+      "link": "http://cj.sina.com.cn/articles/view/1686203097/64816ad90270195rm",
+      "time": "9月5日 22:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "Salesforce营收增长10%,用智能体取代4000名员工",
+      "link": "http://baijiahao.baidu.com/s?id=1842392858739332814&wfr=spider&for=pc",
+      "time": "9月5日 11:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "Salesforce现跌超6%",
+      "link": "http://finance.eastmoney.com/a/202509043505156119.html",
+      "time": "9月4日 23:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "Salesforce上季营收超预期但本季指引疲软，盘后跳水",
+      "link": "http://app.myzaker.com/news/article.php?m=1756941520&pk=68b8caadb15ec039d041b03f",
+      "time": "9月4日 06:35",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 01:38:20"
+}

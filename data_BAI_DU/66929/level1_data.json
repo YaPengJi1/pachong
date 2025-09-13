@@ -1,0 +1,92 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普政治盟友遭枪击身亡",
+    "update_time": "更新至2025年9月12日 06:19",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:11:36"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普计划出席遭枪杀盟友柯克的葬礼",
+      "link": "https://baijiahao.baidu.com/s?id=1843007969952032970&wfr=spider&for=pc",
+      "time": "今天 06:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "嫌犯照片公布 悬赏10万美金",
+      "link": "https://baijiahao.baidu.com/s?id=1843006899728583940&wfr=spider&for=pc",
+      "time": "今天 06:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美调查人员掌握柯克案枪手清晰图像 寻获高威力步枪",
+      "link": "https://baijiahao.baidu.com/s?id=1842976388118022233",
+      "time": "昨天 22:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "狙击特朗普盟友的枪手仅开了一枪",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_11752677265296672433",
+      "time": "昨天 18:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "特朗普盟友曾号召民众买枪持枪",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_15297409085574574571",
+      "time": "昨天 11:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "政治盟友中枪身亡 特朗普发表全国讲话",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_7203455897002438871",
+      "time": "昨天 10:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "特朗普盟友演讲时遭枪击身亡 现场视频曝光",
+      "link": "https://mbd.baidu.com/newspage/data/videolanding?nid=sv_12873079399132835075&sourceFrom=share",
+      "time": "昨天 09:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "特朗普政治盟友遭枪击身亡 凶手仍在逃",
+      "link": "https://baijiahao.baidu.com/s?id=1842925930935828128",
+      "time": "昨天 08:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "政治盟友演讲时遭枪击身亡，特朗普下令全国降半旗致哀",
+      "link": "https://baijiahao.baidu.com/s?id=1842920455100681218&wfr=spider&for=pc",
+      "time": "昨天 07:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "特朗普政治盟友演讲时遭枪击身亡",
+      "link": "https://baijiahao.baidu.com/s?id=1842911206669967846",
+      "time": "昨天 04:44",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 10,
+  "scrape_time": "2025-09-12 10:11:50"
+}

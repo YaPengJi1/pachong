@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "上海男篮拒绝爆冷，张镇麟首秀",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:34:49"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "CBA上海19人名单!7名球员续约,王哲林再打3年,张镇麟强势加盟",
+      "link": "http://cj.sina.com.cn/articles/view/5887996859/15ef3b3bb001014nao",
+      "time": "9月8日 00:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "张镇麟:虽然我加盟了上海男篮,但无论去哪儿,我都是辽宁人",
+      "link": "http://cj.sina.com.cn/articles/view/1835372902/6d65916600101a90o",
+      "time": "9月7日 17:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "张镇麟加盟上海男篮",
+      "link": "http://cj.sina.com.cn/articles/view/6504901717/183b8ec5500101ib3w",
+      "time": "9月5日 23:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "卢伟:张镇麟身体技战术生活都需适应 时间还充足 希望他尽快融入",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hhvw",
+      "time": "9月5日 15:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "上海男篮开启五场热身赛",
+      "link": "http://cj.sina.com.cn/articles/view/6579233538/18827230200102k85u",
+      "time": "9月4日 22:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "上海男篮拒绝爆冷!卢伟全力出击,张镇麟上演首秀,新外援亮相",
+      "link": "http://baijiahao.baidu.com/s?id=1842019015519354451&wfr=spider&for=pc",
+      "time": "9月1日 08:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "张镇麟上海首秀曝光",
+      "link": "http://www.bilibili.com/video/BV1Zch9zgEGL",
+      "time": "8月29日 16:33",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 17:35:04"
+}

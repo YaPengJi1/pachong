@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:15:59"
+  },
+  "core_event": {
+    "core_event_name": "西班牙对以色列军售禁售",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:15:31"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "西班牙对以色列实施多项制裁措施",
+      "link": "http://tv.cctv.com/2025/09/10/VIDEAq5Y0t3V92INNnyeyiZx250910.shtml",
+      "time": "9月10日 08:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "西班牙对以色列武器禁运",
+      "link": "http://video.sina.cn/tech/2025-09-09/detail-infpxfvy8447165.d.html?oldver=1",
+      "time": "9月9日 20:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "西班牙宣布对以色列实施武器禁运等措施",
+      "link": "http://tv.cctv.com/2025/09/09/VIDEj5YOMcpF9H1zsH6qhiD4250909.shtml",
+      "time": "9月9日 16:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "西班牙禁止向以色列军队供应燃料",
+      "link": "http://finance.sina.cn/7x24/2025-09-08/detail-infpumzk6142201.d.html",
+      "time": "9月8日 15:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "西班牙拟全线封杀以色列军售渠道,并禁止以色列高官入境",
+      "link": "http://www.163.com/dy/article/K8ROEMFN05528J01.html",
+      "time": "9月7日 11:42",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "西班牙对以色列实施多项制裁措施",
+      "event_id": "event_1",
+      "event_url": "http://tv.cctv.com/2025/09/10/VIDEAq5Y0t3V92INNnyeyiZx250910.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:15:46",
+      "event_time": "9月10日 08:29"
+    },
+    {
+      "event_title": "西班牙对以色列武器禁运",
+      "event_id": "event_2",
+      "event_url": "http://video.sina.cn/tech/2025-09-09/detail-infpxfvy8447165.d.html?oldver=1",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:15:48",
+      "event_time": "9月9日 20:35"
+    },
+    {
+      "event_title": "西班牙宣布对以色列实施武器禁运等措施",
+      "event_id": "event_3",
+      "event_url": "http://tv.cctv.com/2025/09/09/VIDEj5YOMcpF9H1zsH6qhiD4250909.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:15:50",
+      "event_time": "9月9日 16:44"
+    },
+    {
+      "event_title": "西班牙禁止向以色列军队供应燃料",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-08/detail-infpumzk6142201.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:15:52",
+      "event_time": "9月8日 15:12"
+    },
+    {
+      "event_title": "西班牙拟全线封杀以色列军售渠道,并禁止以色列高官入境",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8ROEMFN05528J01.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:15:54",
+      "event_time": "9月7日 11:42"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 11:15:45",
+    "level2_scrape_time": "2025-09-12 11:15:54"
+  }
+}

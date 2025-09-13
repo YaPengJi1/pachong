@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:39:42"
+  },
+  "core_event": {
+    "core_event_name": "普京访华，中俄蒙签字同意",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:38:46"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中俄正式签署重要文件,普京十年等待中给明确承诺",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4076575926996690070",
+      "time": "9月8日 16:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "普京离华前中俄蒙签署协议最大输家出现特朗普再次失算",
+      "link": "http://baijiahao.baidu.com/s?id=1842394308051601529&wfr=spider&for=pc",
+      "time": "9月5日 11:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中俄连签20多份协议,普京当场定性中俄两国关系,已达到了历史最高水平",
+      "link": "http://baijiahao.baidu.com/s?id=1842318422317388978&wfr=spider&for=pc",
+      "time": "9月4日 16:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "普京访华，中俄蒙签字同意，俄罗斯拿到想要的东西",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3537238247445783704",
+      "time": "9月4日 15:08",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "中俄正式签署重要文件,普京十年等待中给明确承诺",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4076575926996690070",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:02",
+      "event_time": "9月8日 16:15"
+    },
+    {
+      "event_title": "普京离华前中俄蒙签署协议最大输家出现特朗普再次失算",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842394308051601529&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:19",
+      "event_time": "9月5日 11:48"
+    },
+    {
+      "event_title": "中俄连签20多份协议,普京当场定性中俄两国关系,已达到了历史最高水平",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842318422317388978&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "孤云天汉明00",
+      "comment_time": "09-05 09:44",
+      "comment_content": "孤云天汉明0009-05 09:44新疆举报回复赞",
+      "user_location": "新疆",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:35",
+      "event_time": "9月4日 16:41"
+    },
+    {
+      "event_title": "普京访华，中俄蒙签字同意，俄罗斯拿到想要的东西",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=3537238247445783704",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:37",
+      "event_time": "9月4日 15:08"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 14:39:01",
+    "level2_scrape_time": "2025-09-12 14:39:37"
+  }
+}

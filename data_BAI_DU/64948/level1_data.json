@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "A股半导体股集体回调",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:55:07"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "A股风格突变!科技股回调,大消费走强",
+      "link": "http://finance.sina.com.cn/roll/2025-09-04/doc-infpimrm8699432.shtml",
+      "time": "9月4日 16:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "A股半导体股集体回调",
+      "link": "http://baijiahao.baidu.com/s?id=1842296753546735648&wfr=spider&for=pc",
+      "time": "9月4日 09:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "A股半导体股集体回调,华虹公司、灿芯股份跌超11%",
+      "link": "http://cj.sina.com.cn/articles/view/5115326071/130e5ae7702002n15m",
+      "time": "9月2日 13:34",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 17:55:21"
+}

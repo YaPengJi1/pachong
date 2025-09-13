@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:58:24"
+  },
+  "core_event": {
+    "core_event_name": "比亚迪2025年上半年的财报",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:57:23"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "2025上半年财报:比亚迪净利=吉利+长城,蔚来单车亏10万",
+      "link": "http://baijiahao.baidu.com/s?id=1842386286727838797&wfr=spider&for=pc",
+      "time": "9月5日 09:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "2025年上半年比亚迪荣膺A股“研发之王” 引领行业技术革新",
+      "link": "http://k.sina.cn/article_1873390607_6fa9ac0f0010187b4.html",
+      "time": "9月3日 15:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "比亚迪2025上半年研发投入达309亿",
+      "link": "http://k.sina.com.cn/article_7818695749_1d207d44500101fbg6.html",
+      "time": "9月3日 09:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "比亚迪2025上半年的财报营收3713亿,利润155亿",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17181365280586104281",
+      "time": "9月2日 20:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "比亚迪发布上半年财务数据",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8295139746667559146",
+      "time": "9月2日 11:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "比亚迪半年报:研发投入309亿创新高 比净利润高154亿",
+      "link": "http://baijiahao.baidu.com/s?id=1842028488093808293&wfr=spider&for=pc",
+      "time": "9月1日 10:53",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "2025上半年财报:比亚迪净利=吉利+长城,蔚来单车亏10万",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842386286727838797&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "a298024",
+      "comment_time": "09-07 19:12",
+      "comment_content": "赞一个",
+      "user_location": "广东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:57:56",
+      "event_time": "9月5日 09:41"
+    },
+    {
+      "event_title": "2025上半年财报:比亚迪净利=吉利+长城,蔚来单车亏10万",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842386286727838797&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "BubbleTea泡仔",
+      "comment_time": "09-05 15:06",
+      "comment_content": "比亚迪利润真猛，顶吉利长城之和。零跑也盈利了，行业前景看好。",
+      "user_location": "天津",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:57:56",
+      "event_time": "9月5日 09:41"
+    },
+    {
+      "event_title": "2025年上半年比亚迪荣膺A股“研发之王” 引领行业技术革新",
+      "event_id": "event_2",
+      "event_url": "http://k.sina.cn/article_1873390607_6fa9ac0f0010187b4.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:57:58",
+      "event_time": "9月3日 15:43"
+    },
+    {
+      "event_title": "比亚迪2025上半年研发投入达309亿",
+      "event_id": "event_3",
+      "event_url": "http://k.sina.com.cn/article_7818695749_1d207d44500101fbg6.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:58:00",
+      "event_time": "9月3日 09:56"
+    },
+    {
+      "event_title": "比亚迪2025上半年的财报营收3713亿,利润155亿",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=17181365280586104281",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:58:02",
+      "event_time": "9月2日 20:10"
+    },
+    {
+      "event_title": "比亚迪发布上半年财务数据",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8295139746667559146",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:58:04",
+      "event_time": "9月2日 11:48"
+    },
+    {
+      "event_title": "比亚迪半年报:研发投入309亿创新高 比净利润高154亿",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842028488093808293&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "波士顿赵信主",
+      "comment_time": "09-01 11:03",
+      "comment_content": "比亚迪研发投入309亿真大方，创新精神太赞了。海外销量暴涨，国货之光稳步前行。",
+      "user_location": "海南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:58:19"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 7,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 17:57:37",
+    "level2_scrape_time": "2025-09-12 17:58:19"
+  }
+}

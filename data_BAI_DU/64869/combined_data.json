@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:13:22"
+  },
+  "core_event": {
+    "core_event_name": "刘强东回乡助威宿迁队胜利",
+    "update_time": "更新至20250901",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:12:37"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "刘强东回老家看苏超,为宿迁2:0赢球起舞,喝啤酒、与老乡打招呼",
+      "link": "http://baijiahao.baidu.com/s?id=1842029400652875104&wfr=spider&for=pc",
+      "time": "9月1日 11:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "刘强东兑现看苏超承诺,现身家乡球场,宿迁队进球后他手舞足蹈",
+      "link": "http://news.cnhubei.com/content/2025-08/31/content_19462568.html",
+      "time": "8月31日 09:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "刘强东回归家乡球场狂欢!宿迁队胜利背后的故事",
+      "link": "http://www.sohu.com/a/930313596_122256708",
+      "time": "8月31日 05:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "“苏超”宿迁队VS淮安队比赛前夕,刘强东现身宿迁大排档",
+      "link": "http://cj.sina.com.cn/articles/view/1653603955/628ffe7301901sxca",
+      "time": "8月30日 16:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "刘强东回乡助威,网友预测宿迁2:1击败淮安",
+      "link": "http://www.sohu.com/a/930206233_122001004",
+      "time": "8月30日 15:33",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "刘强东回老家看苏超,为宿迁2:0赢球起舞,喝啤酒、与老乡打招呼",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842029400652875104&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:13:10",
+      "event_time": "9月1日 11:08"
+    },
+    {
+      "event_title": "刘强东兑现看苏超承诺,现身家乡球场,宿迁队进球后他手舞足蹈",
+      "event_id": "event_2",
+      "event_url": "http://news.cnhubei.com/content/2025-08/31/content_19462568.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:13:12",
+      "event_time": "8月31日 09:27"
+    },
+    {
+      "event_title": "刘强东回归家乡球场狂欢!宿迁队胜利背后的故事",
+      "event_id": "event_3",
+      "event_url": "http://www.sohu.com/a/930313596_122256708",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:13:14",
+      "event_time": "8月31日 05:33"
+    },
+    {
+      "event_title": "“苏超”宿迁队VS淮安队比赛前夕,刘强东现身宿迁大排档",
+      "event_id": "event_4",
+      "event_url": "http://cj.sina.com.cn/articles/view/1653603955/628ffe7301901sxca",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:13:16",
+      "event_time": "8月30日 16:33"
+    },
+    {
+      "event_title": "刘强东回乡助威,网友预测宿迁2:1击败淮安",
+      "event_id": "event_5",
+      "event_url": "http://www.sohu.com/a/930206233_122001004",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:13:18",
+      "event_time": "8月30日 15:33"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 18:12:51",
+    "level2_scrape_time": "2025-09-12 18:13:18"
+  }
+}

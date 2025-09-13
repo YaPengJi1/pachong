@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "固态电池突破技术",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:36:22"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "重磅!固态电池产业彻底爆发!",
+      "link": "http://app.myzaker.com/news/article.php?pk=68bc1f92b15ec03fe5057e1a",
+      "time": "9月6日 19:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "固态电池大涨!技术突破来了?",
+      "link": "http://baijiahao.baidu.com/s?id=1842315978758414803&wfr=spider&for=pc",
+      "time": "9月4日 15:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "固态电池获重大突破，第一龙头与多国签订万亿订单，或将一飞冲天",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15790182893275812192",
+      "time": "9月4日 11:49",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 14:36:36"
+}

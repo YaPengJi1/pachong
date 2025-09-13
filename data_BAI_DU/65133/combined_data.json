@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:55:25"
+  },
+  "core_event": {
+    "core_event_name": "U22国足首开纪录，亚预赛险胜东帝汶",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:54:34"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "王钰栋快速突破横传门前 中国队再下一城",
+      "link": "http://sports.cctv.com/2025/09/06/VIDEDdhWI9KHsvljaQjWAElm250906.shtml",
+      "time": "9月6日 21:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U22国足2比1险胜东帝汶，三个细节让球迷高兴不起来",
+      "link": "http://www.163.com/dy/article/K8MG3S8Q0556DQWX.html",
+      "time": "9月5日 10:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U23亚洲杯预选赛 中国队首战击败东帝汶队",
+      "link": "http://www.zjknews.com/news/shehui/shehui/202509/04/469295.html",
+      "time": "9月4日 10:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "拜合拉木、王钰栋进球，中国U22队2-1东帝汶U22队",
+      "link": "http://www.dongqiudi.com/articles/5353012.html",
+      "time": "9月3日 23:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "U22国足1-0东帝汶队",
+      "link": "http://baijiahao.baidu.com/s?id=1842251562248759019&wfr=spider&for=pc",
+      "time": "9月3日 21:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "U23亚预赛:U22国足主场2-1险胜东帝汶 拜合拉木、王钰栋破门",
+      "link": "http://cj.sina.com.cn/articles/view/7880068820/1d5b04ed402001dcfu",
+      "time": "9月3日 21:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "U22国足首开纪录:拜合拉木后点扛开对手 面对门将冷静施射破门",
+      "link": "http://www.bilibili.com/video/BV1BwazzTEex",
+      "time": "9月3日 21:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "U22国足1-0险胜东帝汶!拜合拉木破门,亚洲杯前景几何?",
+      "link": "http://www.sohu.com/a/931587393_121976701",
+      "time": "9月3日 20:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "U23亚预赛首秀 中国战东帝汶 王钰栋领衔出征",
+      "link": "http://www.163.com/dy/article/K8HGH24M0530UTM3.html",
+      "time": "9月3日 12:07",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "王钰栋快速突破横传门前 中国队再下一城",
+      "event_id": "event_1",
+      "event_url": "http://sports.cctv.com/2025/09/06/VIDEDdhWI9KHsvljaQjWAElm250906.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:54:50",
+      "event_time": "9月6日 21:37"
+    },
+    {
+      "event_title": "U22国足2比1险胜东帝汶，三个细节让球迷高兴不起来",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8MG3S8Q0556DQWX.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:54:52",
+      "event_time": "9月5日 10:36"
+    },
+    {
+      "event_title": "U23亚洲杯预选赛 中国队首战击败东帝汶队",
+      "event_id": "event_3",
+      "event_url": "http://www.zjknews.com/news/shehui/shehui/202509/04/469295.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:54:54",
+      "event_time": "9月4日 10:16"
+    },
+    {
+      "event_title": "拜合拉木、王钰栋进球，中国U22队2-1东帝汶U22队",
+      "event_id": "event_4",
+      "event_url": "http://www.dongqiudi.com/articles/5353012.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:54:56",
+      "event_time": "9月3日 23:30"
+    },
+    {
+      "event_title": "U22国足1-0东帝汶队",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842251562248759019&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:55:13",
+      "event_time": "9月3日 21:59"
+    },
+    {
+      "event_title": "U23亚预赛:U22国足主场2-1险胜东帝汶 拜合拉木、王钰栋破门",
+      "event_id": "event_6",
+      "event_url": "http://cj.sina.com.cn/articles/view/7880068820/1d5b04ed402001dcfu",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:55:15",
+      "event_time": "9月3日 21:32"
+    },
+    {
+      "event_title": "U22国足首开纪录:拜合拉木后点扛开对手 面对门将冷静施射破门",
+      "event_id": "event_7",
+      "event_url": "http://www.bilibili.com/video/BV1BwazzTEex",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:55:17",
+      "event_time": "9月3日 21:16"
+    },
+    {
+      "event_title": "U22国足1-0险胜东帝汶!拜合拉木破门,亚洲杯前景几何?",
+      "event_id": "event_8",
+      "event_url": "http://www.sohu.com/a/931587393_121976701",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:55:19",
+      "event_time": "9月3日 20:28"
+    },
+    {
+      "event_title": "U23亚预赛首秀 中国战东帝汶 王钰栋领衔出征",
+      "event_id": "event_9",
+      "event_url": "http://www.163.com/dy/article/K8HGH24M0530UTM3.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:55:21",
+      "event_time": "9月3日 12:07"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 9,
+    "total_comments": 9,
+    "events_with_comments": 9,
+    "level1_scrape_time": "2025-09-12 18:54:49",
+    "level2_scrape_time": "2025-09-12 18:55:21"
+  }
+}

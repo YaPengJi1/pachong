@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "电影《731》上映及预告片争议",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:09:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "《731》上映未删减版!网友看完预告直接愤怒,尺度大到无法截图",
+      "link": "http://baijiahao.baidu.com/s?id=1842936539664952412&wfr=spider&for=pc",
+      "time": "昨天 11:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "电影《731》预告片被怒批",
+      "link": "http://baijiahao.baidu.com/s?id=1842923672985042184&wfr=spider&for=pc",
+      "time": "昨天 08:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "《731》发布人物海报 以血色印记揭开尘封历史",
+      "link": "http://ent.dzwww.com/dy/202509/t20250908_16442897.htm",
+      "time": "9月8日 16:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "《731》即将上映",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31553312",
+      "time": "9月6日 18:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "731发布人物海报，揭露侵华日军细菌战罪行",
+      "link": "http://dcdv.zol.com.cn/1042/10421187.html",
+      "time": "9月6日 16:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "电影《731》勿忘版预告曝光",
+      "link": "http://baijiahao.baidu.com/s?id=1842395799883751117&wfr=spider&for=pc",
+      "time": "9月5日 12:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "电影《731》发行通知出炉!9月18日上映,片长125分钟",
+      "link": "http://www.gxnews.com.cn/staticpages/20250904/newgx68b96489-21840616.shtml",
+      "time": "9月4日 18:06",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 10:09:46"
+}

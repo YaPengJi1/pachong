@@ -1,0 +1,132 @@
+{
+  "core_info": {
+    "core_event_name": "比亚迪2025年财报亮眼",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:31:39"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "比亚迪上半年财报:营收超3700亿,纳税 271 亿,比净利润还高100多亿",
+      "link": "http://cj.sina.com.cn/articles/view/5889638666/15f0cc10a00101rgtu",
+      "time": "9月7日 18:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "比亚迪2025年上半年财报发布",
+      "link": "http://cj.sina.com.cn/articles/view/1595537557/5f19f8950190172hq",
+      "time": "9月6日 21:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "比亚迪研发驱动双突破:半年报营收、净利创新高 推动 “中国制造”走向全球",
+      "link": "http://finance.eastmoney.com/a/202509053506098435.html",
+      "time": "9月5日 15:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "2025上半年财报:比亚迪净利=吉利+长城,蔚来单车亏10万",
+      "link": "http://baijiahao.baidu.com/s?id=1842386286727838797&wfr=spider&for=pc",
+      "time": "9月5日 09:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "上半年营收猛超特斯拉 比亚迪海外市场爆发式增长",
+      "link": "http://www.163.com/dy/article/K8K3FS4N05278AAH.html",
+      "time": "9月4日 12:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "比亚迪半年报亮眼,营收3713亿,研发投入居A股前列",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10687830842361809247",
+      "time": "9月4日 02:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "比亚迪2025上半年研发投入达309亿",
+      "link": "http://k.sina.com.cn/article_7818695749_1d207d44500101fbg6.html",
+      "time": "9月3日 09:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "比亚迪上半年业绩再创新高，研发实力持续领跑行业",
+      "link": "http://baijiahao.baidu.com/s?id=1842158545849128094&wfr=spider&for=pc",
+      "time": "9月2日 21:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "比亚迪2025上半年的财报营收3713亿，利润155亿",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17181365280586104281",
+      "time": "9月2日 20:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "比亚迪2025上半年营收净利增长",
+      "link": "http://cj.sina.com.cn/articles/view/7913909554/1d7b4ad32001029234",
+      "time": "9月2日 18:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "比亚迪发布上半年财务数据",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8295139746667559146",
+      "time": "9月2日 11:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "比亚迪荣膺A股“研发之王”",
+      "link": "http://baijiahao.baidu.com/s?id=1842118499172143709&wfr=spider&for=pc",
+      "time": "9月2日 10:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "比亚迪半年报:研发投入309亿创新高 比净利润高154亿",
+      "link": "http://baijiahao.baidu.com/s?id=1842028488093808293&wfr=spider&for=pc",
+      "time": "9月1日 10:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "比亚迪上半年营收增长23.30% 市占率提升至13.7%",
+      "link": "http://finance.eastmoney.com/a/202508293499762248.html",
+      "time": "8月29日 22:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "2025年车企最新销量目标完成率分化",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 15,
+  "scrape_time": "2025-09-12 18:31:53"
+}

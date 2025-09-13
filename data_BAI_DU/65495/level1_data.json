@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "莫迪访华连谈40分钟",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:47:15"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "莫迪回应特朗普:印度倒向中国!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=207688528150146136",
+      "time": "9月7日 08:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "印度总理莫迪访华“亲中亲俄”?美白宫顾问破防了",
+      "link": "http://www.163.com/dy/article/K8FTEGS20514EGPO.html",
+      "time": "9月2日 21:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "莫迪登上普京豪华专车,两人密谈一小时,担心外界人多嘴杂?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4958748281496533097",
+      "time": "9月2日 16:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "莫迪时隔7年访华,中印连谈40分钟,当着中方的面,莫迪有事相求",
+      "link": "http://www.163.com/dy/article/K8F14KVK055616W7.html",
+      "time": "9月2日 13:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 00:47:29"
+}

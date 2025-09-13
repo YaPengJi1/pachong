@@ -1,0 +1,85 @@
+{
+  "core_event_name": "寒武纪、新易盛、工业富联、中际旭创成交额超100亿元",
+  "comments": [
+    {
+      "event_title": "北方稀土成交额达100亿元,现跌超6%",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6013071651305381536",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:10:57",
+      "event_time": "9月4日 11:22"
+    },
+    {
+      "event_title": "北方稀土成交额超100亿元",
+      "event_id": "event_2",
+      "event_url": "http://www.cnstock.com/commonDetail/515118",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:10:59",
+      "event_time": "9月4日 11:21"
+    },
+    {
+      "event_title": "新易盛成交额达100亿元",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-04/detail-infphutt8913695.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:11:01",
+      "event_time": "9月4日 09:51"
+    },
+    {
+      "event_title": "工业富联成交额破100亿元",
+      "event_id": "event_4",
+      "event_url": "http://finance.eastmoney.com/a/202509033503483119.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:11:03",
+      "event_time": "9月3日 14:46"
+    },
+    {
+      "event_title": "中际旭创成交额超100亿元",
+      "event_id": "event_5",
+      "event_url": "http://fund.eastmoney.com/a/202509023502105910.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:11:05",
+      "event_time": "9月2日 10:36"
+    },
+    {
+      "event_title": "寒武纪成交额超100亿元",
+      "event_id": "event_6",
+      "event_url": "http://finance.eastmoney.com/a/202509013500840972.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:11:07",
+      "event_time": "9月1日 10:06"
+    }
+  ],
+  "total_comments": 6,
+  "scrape_time": "2025-09-13 02:11:07"
+}

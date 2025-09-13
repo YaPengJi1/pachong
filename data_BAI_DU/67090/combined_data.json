@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:26:22"
+  },
+  "core_event": {
+    "core_event_name": "特朗普批准以色列袭击卡塔尔",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:25:41"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "以色列突袭卡塔尔首都，国际舆论谴责加剧",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10232671395185683414",
+      "time": "9月10日 16:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特朗普批准袭击，白宫回应：以色列攻击卡塔尔前一刻通知美方",
+      "link": "http://baijiahao.baidu.com/s?id=1842845902586051709&wfr=spider&for=pc",
+      "time": "9月10日 11:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普:以色列袭击卡塔尔“不是我的决定”",
+      "link": "http://www.cztv.com/newsDetail/816229",
+      "time": "9月10日 10:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "以色列突袭卡塔尔首都,特朗普:不是我的决定",
+      "link": "http://app.myzaker.com/news/article.php?pk=68c0d7ac8e9f097e5b485112",
+      "time": "9月10日 09:29",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "以色列突袭卡塔尔首都，国际舆论谴责加剧",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10232671395185683414",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:25:56",
+      "event_time": "9月10日 16:40"
+    },
+    {
+      "event_title": "特朗普批准袭击，白宫回应：以色列攻击卡塔尔前一刻通知美方",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842845902586051709&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:26:13",
+      "event_time": "9月10日 11:26"
+    },
+    {
+      "event_title": "特朗普:以色列袭击卡塔尔“不是我的决定”",
+      "event_id": "event_3",
+      "event_url": "http://www.cztv.com/newsDetail/816229",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:26:15",
+      "event_time": "9月10日 10:48"
+    },
+    {
+      "event_title": "以色列突袭卡塔尔首都,特朗普:不是我的决定",
+      "event_id": "event_4",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68c0d7ac8e9f097e5b485112",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:26:17",
+      "event_time": "9月10日 09:29"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 11:25:55",
+    "level2_scrape_time": "2025-09-12 11:26:17"
+  }
+}

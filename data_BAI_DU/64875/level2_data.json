@@ -1,0 +1,72 @@
+{
+  "core_event_name": "邮储银行连续上涨",
+  "comments": [
+    {
+      "event_title": "邮储银行股价连续6天上涨 累计涨幅6.5% 易方达基金旗下1只基金持1.4亿股 浮盈赚取5473.7万元",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842316527137758043&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:19:56",
+      "event_time": "9月4日 15:12"
+    },
+    {
+      "event_title": "邮储银行股价连续6天上涨累计涨幅6.5%,中信保诚基金旗下2只基金合计持110.85万股",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842316515305154005&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:20:11",
+      "event_time": "9月4日 15:12"
+    },
+    {
+      "event_title": "邮储银行股价连续6天上涨 累计涨幅6.5%",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.com.cn/money/fund/aiassistant/zcgyd/2025-09-04/doc-infpifih6919891.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:20:13",
+      "event_time": "9月4日 15:12"
+    },
+    {
+      "event_title": "邮储银行股价连续4天上涨",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842136343027311995&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:20:29",
+      "event_time": "9月2日 15:28"
+    },
+    {
+      "event_title": "邮储银行涨0.32%,成交额8.54亿元",
+      "event_id": "event_5",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:20:31",
+      "event_time": "1970年"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 18:20:31"
+}

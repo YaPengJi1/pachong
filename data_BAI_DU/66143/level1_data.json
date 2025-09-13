@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "美韩盟友突袭韩企，475人被捕",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:58:55"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "300多名韩国人在美被捕，韩外交部召集紧急会议",
+      "link": "http://weibo.com/1650111241/Q3EKxa2mB",
+      "time": "9月8日 21:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美执法局突袭韩企，475人被捕，美韩关系受考验",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6562976294631620711",
+      "time": "9月8日 14:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美国大规模突击韩企工厂，475名工人被拘留，现代LG电池厂被迫停工",
+      "link": "http://baijiahao.baidu.com/s?id=1842669706517153715&wfr=spider&for=pc",
+      "time": "9月8日 12:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美国移民执法部门抓捕475人 大多来自韩国·韩总统办公室通报 已与美方就释放被捕韩企人员协商完毕",
+      "link": "http://tv.cctv.com/2025/09/08/VIDExcY3kxr6apU0MVwMsE4j250908.shtml",
+      "time": "9月8日 07:58",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 14:59:09"
+}

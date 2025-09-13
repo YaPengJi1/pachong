@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "全新坦克500上市",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:55:25"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "全国多地车主喜提坦克500",
+      "link": "http://tech.ce.cn/xxfw/202509/t20250909_2468960.shtml",
+      "time": "9月9日 09:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "全新坦克500 3.0T上市 订车尊享多重豪礼",
+      "link": "http://www.autohome.com.cn/dealer/202509/1415762840.html",
+      "time": "9月6日 09:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "全新坦克500首周交付1298辆",
+      "link": "http://auto.youth.cn/tbtj/202509/t20250905_16218466.htm",
+      "time": "9月5日 10:55",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 09:55:40"
+}

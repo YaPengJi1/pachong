@@ -1,0 +1,403 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 00:12:16"
+  },
+  "core_event": {
+    "core_event_name": "华为Mate XTs非凡大师系列发布",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:09:58"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "华为Mate XTs 非凡大师发布 华为云空间带来安全便捷的云端数据管理体验",
+      "link": "http://news.pconline.com.cn/1978/19785372.html",
+      "time": "9月10日 18:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "17999元起!即日起可来京东参与华为Mate XTs 非凡大师预售",
+      "link": "http://news.sina.cn/sx/2025-09-08/detail-infpumzq1469226.d.html?isSubmit=ok",
+      "time": "9月8日 16:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "华为Mate XTs非凡大师与Pura X亮相",
+      "link": "http://cj.sina.com.cn/articles/view/1886176512/p706cc50002701k464",
+      "time": "9月6日 10:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "华为Mate XTs 非凡大师重磅发布，“见非凡”品牌计划再启非凡征程",
+      "link": "http://baijiahao.baidu.com/s?id=1842404382094268520&wfr=spider&for=pc",
+      "time": "9月5日 14:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "华为Mate XTs非凡大师再现折叠屏创新",
+      "link": "http://baijiahao.baidu.com/s?id=1842401460535538583&wfr=spider&for=pc",
+      "time": "9月5日 13:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "HUAWEI Mate XTs 非凡大师进化,带来“大”不同体验",
+      "link": "http://www.cet.com.cn/itpd/hlw/10251235.shtml",
+      "time": "9月5日 09:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "华为Mate XTs 非凡大师发布,小艺再进阶非凡AI智慧体验",
+      "link": "http://baijiahao.baidu.com/s?id=1842385020545819567&wfr=spider&for=pc",
+      "time": "9月5日 09:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "华为Mate XTs非凡大师系列:影像革命与拍摄新体验",
+      "link": "http://www.sohu.com/a/931981464_122004016",
+      "time": "9月5日 01:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "华为Mate XTs非凡大师",
+      "link": "http://news.imobile.com.cn/articles/2025/0905/231921.shtml",
+      "time": "9月5日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "华为发布全新Mate XTs 非凡大师,巅峰之上,再展非凡",
+      "link": "http://www.dzwww.com/xinwen/jishixinwen/202509/t20250905_16432937.htm",
+      "time": "9月5日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "麒麟芯片回归华为发布会,Mate XTs性能飙升36%",
+      "link": "http://baijiahao.baidu.com/s?id=1842345378698468197&wfr=spider&for=pc",
+      "time": "9月4日 20:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "华为Mate XTs 非凡大师:大屏小艺非凡智慧,随心折展出行规划新视界",
+      "link": "http://www.iyiou.com/news/202509041108154",
+      "time": "9月4日 20:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "华为Mate XTs非凡大师正式来袭!3K大屏+手写笔,真的有点猛啊!",
+      "link": "http://baijiahao.baidu.com/s?id=1842334464118955281&wfr=spider&for=pc",
+      "time": "9月4日 19:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "华为发布Mate XTs非凡大师折叠屏手机,17999元起售",
+      "link": "http://news.zol.com.cn/1041/10414973.html",
+      "time": "9月4日 18:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "华为发布新一代三折叠屏手机Mate XTs非凡大师,起售价17999元",
+      "link": "http://news.zol.com.cn/1041/10414424.html",
+      "time": "9月4日 17:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "华为Mate XTs 非凡大师首发,小艺再升级解锁商务、生活新体验!",
+      "link": "http://baijiahao.baidu.com/s?id=1842324264845820003&wfr=spider&for=pc",
+      "time": "9月4日 17:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "华为Mate XTs非凡大师发布",
+      "link": "http://news.cnfol.com/zhengquanyaowen/20250904/31614313.shtml",
+      "time": "9月4日 15:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "华为Mate XTs 三折叠手机非凡影像升级",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b940038e9f09113408fcf1",
+      "time": "9月4日 15:29",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "华为Mate XTs 非凡大师发布 华为云空间带来安全便捷的云端数据管理体验",
+      "event_id": "event_1",
+      "event_url": "http://news.pconline.com.cn/1978/19785372.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:10:13",
+      "event_time": "9月10日 18:33"
+    },
+    {
+      "event_title": "17999元起!即日起可来京东参与华为Mate XTs 非凡大师预售",
+      "event_id": "event_2",
+      "event_url": "http://news.sina.cn/sx/2025-09-08/detail-infpumzq1469226.d.html?isSubmit=ok",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:10:15",
+      "event_time": "9月8日 16:56"
+    },
+    {
+      "event_title": "华为Mate XTs非凡大师与Pura X亮相",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/1886176512/p706cc50002701k464",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:10:17",
+      "event_time": "9月6日 10:03"
+    },
+    {
+      "event_title": "华为Mate XTs 非凡大师重磅发布，“见非凡”品牌计划再启非凡征程",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842404382094268520&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "镇乐5",
+      "comment_time": "09-05 16:54",
+      "comment_content": "华为见非凡计划重启，郭晶晶的故事激励人。新品设计精致，配色优雅真漂亮。",
+      "user_location": "四川",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:10:34",
+      "event_time": "9月5日 14:29"
+    },
+    {
+      "event_title": "华为Mate XTs非凡大师再现折叠屏创新",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842401460535538583&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "青云不吃甜mi",
+      "comment_time": "09-05 20:10",
+      "comment_content": "华为折叠屏创新真亮眼，麒麟芯片回归自信十足，轻薄大屏办公体验起飞了。",
+      "user_location": "海南",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:10:50",
+      "event_time": "9月5日 13:42"
+    },
+    {
+      "event_title": "HUAWEI Mate XTs 非凡大师进化,带来“大”不同体验",
+      "event_id": "event_6",
+      "event_url": "http://www.cet.com.cn/itpd/hlw/10251235.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:10:52",
+      "event_time": "9月5日 09:30"
+    },
+    {
+      "event_title": "华为Mate XTs 非凡大师发布,小艺再进阶非凡AI智慧体验",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842385020545819567&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:11:08",
+      "event_time": "9月5日 09:20"
+    },
+    {
+      "event_title": "华为Mate XTs非凡大师系列:影像革命与拍摄新体验",
+      "event_id": "event_8",
+      "event_url": "http://www.sohu.com/a/931981464_122004016",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:11:10",
+      "event_time": "9月5日 01:46"
+    },
+    {
+      "event_title": "华为Mate XTs非凡大师",
+      "event_id": "event_9",
+      "event_url": "http://news.imobile.com.cn/articles/2025/0905/231921.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:11:12",
+      "event_time": "9月5日 00:00"
+    },
+    {
+      "event_title": "华为发布全新Mate XTs 非凡大师,巅峰之上,再展非凡",
+      "event_id": "event_10",
+      "event_url": "http://www.dzwww.com/xinwen/jishixinwen/202509/t20250905_16432937.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:11:14",
+      "event_time": "9月5日 00:00"
+    },
+    {
+      "event_title": "麒麟芯片回归华为发布会,Mate XTs性能飙升36%",
+      "event_id": "event_11",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842345378698468197&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:11:30",
+      "event_time": "9月4日 20:45"
+    },
+    {
+      "event_title": "华为Mate XTs 非凡大师:大屏小艺非凡智慧,随心折展出行规划新视界",
+      "event_id": "event_12",
+      "event_url": "http://www.iyiou.com/news/202509041108154",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:11:32",
+      "event_time": "9月4日 20:23"
+    },
+    {
+      "event_title": "华为Mate XTs非凡大师正式来袭!3K大屏+手写笔,真的有点猛啊!",
+      "event_id": "event_13",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842334464118955281&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "大胃王FoodKing",
+      "comment_time": "09-04 21:40",
+      "comment_content": "这款华为新机真给力，屏幕超清流畅，手写笔实用贴心，办公娱乐一手掌握。",
+      "user_location": "青海",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:11:48",
+      "event_time": "9月4日 19:57"
+    },
+    {
+      "event_title": "华为发布Mate XTs非凡大师折叠屏手机,17999元起售",
+      "event_id": "event_14",
+      "event_url": "http://news.zol.com.cn/1041/10414973.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:11:50",
+      "event_time": "9月4日 18:40"
+    },
+    {
+      "event_title": "华为发布新一代三折叠屏手机Mate XTs非凡大师,起售价17999元",
+      "event_id": "event_15",
+      "event_url": "http://news.zol.com.cn/1041/10414424.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:11:52",
+      "event_time": "9月4日 17:41"
+    },
+    {
+      "event_title": "华为Mate XTs 非凡大师首发,小艺再升级解锁商务、生活新体验!",
+      "event_id": "event_16",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842324264845820003&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "脸太甜请注意",
+      "comment_time": "09-04 17:41",
+      "comment_content": "小艺升级真贴心，工作生活都帮大忙，随身助手超省心。",
+      "user_location": "辽宁",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:12:08",
+      "event_time": "9月4日 17:15"
+    },
+    {
+      "event_title": "华为Mate XTs非凡大师发布",
+      "event_id": "event_17",
+      "event_url": "http://news.cnfol.com/zhengquanyaowen/20250904/31614313.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:12:10",
+      "event_time": "9月4日 15:35"
+    },
+    {
+      "event_title": "华为Mate XTs 三折叠手机非凡影像升级",
+      "event_id": "event_18",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68b940038e9f09113408fcf1",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:12:12",
+      "event_time": "9月4日 15:29"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 18,
+    "total_comments": 18,
+    "events_with_comments": 18,
+    "level1_scrape_time": "2025-09-13 00:10:12",
+    "level2_scrape_time": "2025-09-13 00:12:12"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "美国财长贝森特表态",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:22:54"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美国财长贝森特:美联储“应当”重新校准利率。",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4772891560995464234",
+      "time": "9月10日 04:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美国财长贝森特:美联储高利率抑制经济增长",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_3853629161924652332",
+      "time": "9月9日 23:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美国财长贝森特:非常规政策应与政府协调",
+      "link": "http://finance.sina.cn/7x24/2025-09-05/detail-infpnmtz7381019.d.html",
+      "time": "9月5日 23:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美国财政部长斯科特·贝森特:央行必须重新承诺维护美国人民的信心。",
+      "link": "http://finance.sina.cn/7x24/2025-09-05/detail-infpnmtw2113662.d.html",
+      "time": "9月5日 23:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美国财长贝森特近日的表态引发关注和争议",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4047631404613973707",
+      "time": "9月4日 19:31",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 10:23:08"
+}

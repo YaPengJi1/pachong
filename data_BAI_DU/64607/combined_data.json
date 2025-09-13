@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:21:27"
+  },
+  "core_event": {
+    "core_event_name": "大阅兵举行，铭记历史，共筑梦想",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:21:03"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "2023年国庆70周年阅兵盛典",
+      "link": "http://news.bjd.com.cn/2025/09/04/11295307.shtml",
+      "time": "9月4日 13:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "阅兵盛典全民观看",
+      "link": "http://www.163.com/dy/article/K8JNSPPU0514R9OJ.html",
+      "time": "9月4日 08:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "九三阅兵在阿左旗青年中引发热烈反响",
+      "link": "http://m.sohu.com/a/931575786_121106854",
+      "time": "9月3日 18:19",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "2023年国庆70周年阅兵盛典",
+      "event_id": "event_1",
+      "event_url": "http://news.bjd.com.cn/2025/09/04/11295307.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:21:18",
+      "event_time": "9月4日 13:51"
+    },
+    {
+      "event_title": "阅兵盛典全民观看",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8JNSPPU0514R9OJ.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:21:20",
+      "event_time": "9月4日 08:54"
+    },
+    {
+      "event_title": "九三阅兵在阿左旗青年中引发热烈反响",
+      "event_id": "event_3",
+      "event_url": "http://m.sohu.com/a/931575786_121106854",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:21:22",
+      "event_time": "9月3日 18:19"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-13 01:21:17",
+    "level2_scrape_time": "2025-09-13 01:21:22"
+  }
+}

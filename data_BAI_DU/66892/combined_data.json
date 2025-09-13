@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:10:31"
+  },
+  "core_event": {
+    "core_event_name": "农行市值登顶A股",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:10:04"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "农行总市值2.48万亿蝉联A股榜首 累计派现9417亿股价领跑同行",
+      "link": "http://finance.sina.com.cn/roll/2025-09-08/doc-infptqvu6469973.shtml",
+      "time": "9月8日 07:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "农行市值超越工行成新 “宇宙行”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9231692567181207400",
+      "time": "9月5日 11:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "新“宇宙行”农行狂涨5% 总市值2.55万亿",
+      "link": "http://www.163.com/dy/article/K8L7IVN30519DDQ2.html",
+      "time": "9月4日 22:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "农行总市值首次登顶A股,成新“宇宙行”",
+      "link": "http://finance.sina.com.cn/roll/2025-09-04/doc-infpmcyp0991942.shtml",
+      "time": "9月4日 18:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "农业银行股价飙涨5.59%",
+      "link": "http://www.sohu.com/a/931829433_121976703",
+      "time": "9月4日 14:52",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "农行总市值2.48万亿蝉联A股榜首 累计派现9417亿股价领跑同行",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.com.cn/roll/2025-09-08/doc-infptqvu6469973.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:10:19",
+      "event_time": "9月8日 07:08"
+    },
+    {
+      "event_title": "农行市值超越工行成新 “宇宙行”",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9231692567181207400",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:10:21",
+      "event_time": "9月5日 11:06"
+    },
+    {
+      "event_title": "新“宇宙行”农行狂涨5% 总市值2.55万亿",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8L7IVN30519DDQ2.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:10:23",
+      "event_time": "9月4日 22:48"
+    },
+    {
+      "event_title": "农行总市值首次登顶A股,成新“宇宙行”",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.com.cn/roll/2025-09-04/doc-infpmcyp0991942.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:10:25",
+      "event_time": "9月4日 18:25"
+    },
+    {
+      "event_title": "农业银行股价飙涨5.59%",
+      "event_id": "event_5",
+      "event_url": "http://www.sohu.com/a/931829433_121976703",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:10:27",
+      "event_time": "9月4日 14:52"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 11:10:18",
+    "level2_scrape_time": "2025-09-12 11:10:27"
+  }
+}

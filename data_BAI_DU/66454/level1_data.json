@@ -1,0 +1,108 @@
+{
+  "core_info": {
+    "core_event_name": "iPhone 17系列发布及eSIM变革",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:02:49"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "苹果新机强推eSIM遇冷，用户权益与运营商博弈的三大困局",
+      "link": "http://baijiahao.baidu.com/s?id=1842862196254211696&wfr=spider&for=pc",
+      "time": "9月10日 15:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "港版 iPhone 17 系列同时支持 nano-SIM 卡 + eSIM",
+      "link": "http://baijiahao.baidu.com/s?id=1842834960079838728&wfr=spider&for=pc",
+      "time": "9月10日 08:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "史上最薄iPhone来了,支持eSIM!苹果新机发布",
+      "link": "http://baijiahao.baidu.com/s?id=1842831938167420405&wfr=spider&for=pc",
+      "time": "9月10日 07:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "全球统一!“史上最薄”iPhone Air 将仅支持eSIM,不再配备实体卡槽",
+      "link": "http://baijiahao.baidu.com/s?id=1842828570771865448&wfr=spider&for=pc",
+      "time": "9月10日 06:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "传iPhone 17 Air仅支持eSIM或在华推迟发布,为何eSIM在国内难普及?",
+      "link": "http://news.sina.com.cn/zx/2025-09-09/doc-infpxfwa4960442.shtml",
+      "time": "9月9日 20:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "华为“跳票” iPhone 17将叩开我国eSIM手机时代大门?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4782394614583806693",
+      "time": "9月9日 17:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "苹果发布会前瞻:10日凌晨1点开启,iPhone17或成国内首款无卡槽手机,标准版起售价预估5999元",
+      "link": "http://baijiahao.baidu.com/s?id=1842767396399584054&wfr=spider&for=pc",
+      "time": "9月9日 14:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "iPhone 17 Air惊艳消息曝光",
+      "link": "http://mobile.zol.com.cn/1044/10441126.html",
+      "time": "9月9日 07:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "苹果秋季发布会前瞻 Pro系列影像能力大升级 可穿戴产品主打健康监测功能",
+      "link": "http://finance.eastmoney.com/a/202509073506845423.html",
+      "time": "9月7日 13:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "联通突然曝光,国行 eSIM 四大要求,买 iPhone 17 建议考虑清楚",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11389531002159637475",
+      "time": "9月5日 00:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "华为三折叠Mate XTs今日发布 定价有惊喜",
+      "link": "http://app.myzaker.com/news/article.php?m=1757027122&pk=68b8cba28e9f0957805b34db",
+      "time": "9月4日 07:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "iPhone 17系列eSIM变革:欧盟全取消,国行Air版支持",
+      "link": "http://baijiahao.baidu.com/s?id=1842197107132874448&wfr=spider&for=pc",
+      "time": "9月3日 07:34",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 12,
+  "scrape_time": "2025-09-12 15:03:03"
+}

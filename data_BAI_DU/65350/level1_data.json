@@ -1,0 +1,132 @@
+{
+  "core_info": {
+    "core_event_name": "零跑Lafa5车型预告图曝光",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:36:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "零跑出海给中国车企指了一条新路",
+      "link": "http://finance.sina.cn/cj/2025-09-11/detail-infqafyt2020643.d.html",
+      "time": "昨天 05:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "零跑Lafa5申报信息曝光 计划今年第四季度上市",
+      "link": "http://baijiahao.baidu.com/s?id=1842919043733035275&wfr=spider&for=pc",
+      "time": "9月10日 22:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "零跑Lafa5纯电两厢车申报",
+      "link": "http://www.ithome.com/0/882/008.htm",
+      "time": "9月10日 21:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "零跑全新轿跑Lafa5开启盲订",
+      "link": "http://www.pconline.com.cn/autotech/1977/19770553.html",
+      "time": "9月10日 10:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "零跑两厢车 Lafa 5 欧洲首秀,CEO 朱江明:明年月销 10 万辆",
+      "link": "http://www.ifanr.com/1637143",
+      "time": "9月10日 07:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "2025慕尼黑车展:零跑汽车Lafa5亮相",
+      "link": "http://auto.sina.com.cn/newcar/2025-09-08/detail-infpvawy9391998.shtml",
+      "time": "9月8日 23:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "零跑Lafa5亮相慕尼黑车展并开启盲订，B10海外上市",
+      "link": "http://baijiahao.baidu.com/s?id=1842737390396010110&wfr=spider&for=pc",
+      "time": "9月8日 21:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "零跑Lafa5曝光",
+      "link": "http://cj.sina.com.cn/articles/view/6369707430/17baa05a60010108ug",
+      "time": "9月8日 18:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "零跑Lafa5运动小车亮相,轴距2735mm年底发布",
+      "link": "http://cj.sina.com.cn/articles/view/1192966660/p471b3a04027017c5i",
+      "time": "9月8日 17:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "零跑慕尼黑车展曝光新车 Lafa5,主打运动年轻今年 4 季度开售",
+      "link": "http://news.sina.cn/ai/2025-09-08/detail-infpumzh9683481.d.html",
+      "time": "9月8日 17:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "零跑Lafa5将慕尼黑车展亮相，“法拉零”征服全球市场",
+      "link": "http://baijiahao.baidu.com/s?id=1842417501420366410&wfr=spider&for=pc",
+      "time": "9月5日 17:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "零跑Lafa5慕尼黑车展首发",
+      "link": "http://www.pcauto.com.cn/hj/article/3050205.html",
+      "time": "9月5日 14:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "2025慕尼黑车展中国品牌新车前瞻",
+      "link": "http://auto.sina.cn/newcar/2025-09-05/detail-infpirxf1686441.d.html",
+      "time": "9月5日 10:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "零跑全新车型预告图曝光",
+      "link": "http://cj.sina.com.cn/articles/view/1234011517/498d857d001012zw6",
+      "time": "9月2日 09:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "零跑Lafa5官宣,贯穿灯组+微溜背,年轻市场新宠儿!",
+      "link": "http://baijiahao.baidu.com/s?id=1842054101855368583&wfr=spider&for=pc",
+      "time": "9月1日 17:41",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 15,
+  "scrape_time": "2025-09-12 22:37:06"
+}

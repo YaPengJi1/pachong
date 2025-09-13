@@ -1,0 +1,256 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:37:11"
+  },
+  "core_event": {
+    "core_event_name": "我国新型运输机亮相九三阅兵",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:35:35"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "南航开启C919国产大飞机在京常态化运行,执飞北京大兴—长沙快线",
+      "link": "http://www.bbtnews.com.cn/2025/0909/569147.shtml",
+      "time": "9月9日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "覆盖天地海,航天技术保障大阅兵直播精彩呈现",
+      "link": "http://baijiahao.baidu.com/s?id=1842522871598369692&wfr=spider&for=pc",
+      "time": "9月6日 19:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "鲲鹏家族新成员亮相阅兵 空军运输战斗力“御风而上”",
+      "link": "http://m.cnhubei.com/content/2025-09/05/content_19477592.html",
+      "time": "9月5日 17:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "运油-20A以三种编组形式亮相阅兵场",
+      "link": "http://baijiahao.baidu.com/s?id=1842380963588679542&wfr=spider&for=pc",
+      "time": "9月5日 08:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "装配“中国心”的运-20B公开亮相并接受检阅",
+      "link": "http://cj.sina.com.cn/articles/view/1699432410/654b47da02001k39i",
+      "time": "9月5日 07:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "空中受阅梯队29型装备集中亮相",
+      "link": "http://baijiahao.baidu.com/s?id=1842338903765814163&wfr=spider&for=pc",
+      "time": "9月4日 21:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "当阅兵飞机飞过北京站上空,旅客纷纷掏出手机",
+      "link": "http://baijiahao.baidu.com/s?id=1842304680061900524&wfr=spider&for=pc",
+      "time": "9月4日 12:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "内蒙古一机集团多种装备闪耀亮相阅兵场",
+      "link": "http://news.sina.com.cn/zx/gj/2025-09-05/doc-infpmqqm7773200.shtml",
+      "time": "9月4日 07:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "三支兵种首次亮相天安门广场",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9539716274173423415",
+      "time": "9月3日 11:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "我国新型运输机亮相九三阅兵,使命必达",
+      "link": "http://www.163.com/dy/article/K8HBNJKB0511B8LM.html",
+      "time": "9月3日 10:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "空中梯队震撼亮相",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5508212603304373972",
+      "time": "9月3日 01:02",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "南航开启C919国产大飞机在京常态化运行,执飞北京大兴—长沙快线",
+      "event_id": "event_1",
+      "event_url": "http://www.bbtnews.com.cn/2025/0909/569147.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:35:50",
+      "event_time": "9月9日 00:00"
+    },
+    {
+      "event_title": "覆盖天地海,航天技术保障大阅兵直播精彩呈现",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842522871598369692&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:36:07",
+      "event_time": "9月6日 19:14"
+    },
+    {
+      "event_title": "鲲鹏家族新成员亮相阅兵 空军运输战斗力“御风而上”",
+      "event_id": "event_3",
+      "event_url": "http://m.cnhubei.com/content/2025-09/05/content_19477592.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:36:09",
+      "event_time": "9月5日 17:19"
+    },
+    {
+      "event_title": "运油-20A以三种编组形式亮相阅兵场",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842380963588679542&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:36:24",
+      "event_time": "9月5日 08:15"
+    },
+    {
+      "event_title": "装配“中国心”的运-20B公开亮相并接受检阅",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/1699432410/654b47da02001k39i",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:36:26",
+      "event_time": "9月5日 07:52"
+    },
+    {
+      "event_title": "空中受阅梯队29型装备集中亮相",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842338903765814163&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:36:42",
+      "event_time": "9月4日 21:07"
+    },
+    {
+      "event_title": "当阅兵飞机飞过北京站上空,旅客纷纷掏出手机",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842304680061900524&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:36:58",
+      "event_time": "9月4日 12:03"
+    },
+    {
+      "event_title": "内蒙古一机集团多种装备闪耀亮相阅兵场",
+      "event_id": "event_8",
+      "event_url": "http://news.sina.com.cn/zx/gj/2025-09-05/doc-infpmqqm7773200.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:37:00",
+      "event_time": "9月4日 07:04"
+    },
+    {
+      "event_title": "三支兵种首次亮相天安门广场",
+      "event_id": "event_9",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9539716274173423415",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:37:02",
+      "event_time": "9月3日 11:56"
+    },
+    {
+      "event_title": "我国新型运输机亮相九三阅兵,使命必达",
+      "event_id": "event_10",
+      "event_url": "http://www.163.com/dy/article/K8HBNJKB0511B8LM.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:37:04",
+      "event_time": "9月3日 10:43"
+    },
+    {
+      "event_title": "空中梯队震撼亮相",
+      "event_id": "event_11",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5508212603304373972",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:37:07",
+      "event_time": "9月3日 01:02"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 11,
+    "total_comments": 11,
+    "events_with_comments": 11,
+    "level1_scrape_time": "2025-09-13 01:35:49",
+    "level2_scrape_time": "2025-09-13 01:37:07"
+  }
+}

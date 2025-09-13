@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普阵营大网红遭枪击身亡",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:11:07"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "政治盟友遭枪击身亡,特朗普:降半旗",
+      "link": "http://baijiahao.baidu.com/s?id=1842933776330872086&wfr=spider&for=pc",
+      "time": "昨天 10:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特朗普誓言打击“政治暴力”",
+      "link": "http://cj.sina.com.cn/articles/view/1926909715/72da4f1302702e6cu",
+      "time": "昨天 10:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美国:特朗普政治盟友演讲时遭枪击身亡",
+      "link": "http://tv.cctv.com/2025/09/11/VIDEZY6ZCEL60mLXKxSdN3kP250911.shtml",
+      "time": "昨天 10:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普政治盟友查理·柯克演讲时遭枪击身亡",
+      "link": "http://www.chinanews.com.cn/tp/hd2011/2025/09-11/1164599.shtml",
+      "time": "昨天 09:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "枪杀特朗普政治盟友的嫌疑人已被释放，搜捕仍在继续",
+      "link": "http://weibo.com/1750421510/Q42k04auf",
+      "time": "昨天 09:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "特朗普盟友遭枪击身亡,美股枪械股急涨",
+      "link": "http://new.qq.com/rain/a/20250911A016US00",
+      "time": "昨天 06:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "特朗普阵营大“网红”查理·柯克遭枪击暗杀 特朗普:这是美国至暗时刻",
+      "link": "http://v.qq.com/x/page/o31717s7nr6.html",
+      "time": "昨天 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 11:11:21"
+}

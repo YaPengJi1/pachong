@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "日本首相争霸战",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:27:03"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "日本首相石破茂骤然下台",
+      "link": "http://cj.sina.com.cn/articles/view/7295511708/1b2d8ac9c020016aby",
+      "time": "9月9日 18:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "日本首相石破茂辞职,继任者之战打响",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=870337180258318190",
+      "time": "9月9日 11:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "日本将迎首位女首相?高市早苗民调小幅领先,两大候选人的巅峰对决",
+      "link": "http://baijiahao.baidu.com/s?id=1842748960791945181&wfr=spider&for=pc",
+      "time": "9月9日 09:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "日本首相争霸战打响，激进派与“安全牌”",
+      "link": "http://baijiahao.baidu.com/s?id=1842690408762871843&wfr=spider&for=pc",
+      "time": "9月8日 18:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "石破茂辞职有隐情，3人争夺首相宝座",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4398635351097221073",
+      "time": "9月8日 02:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "小泉进次郎VS高市早苗,日本新首相的两大核心竞争者",
+      "link": "http://news.ifeng.com/c/8mSWBuiG2eY",
+      "time": "9月7日 18:46",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 10:27:17"
+}

@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:07:41"
+  },
+  "core_event": {
+    "core_event_name": "委内瑞拉面临南美大陆百年来最大威胁",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:06:57"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美国要入侵委内瑞拉?东大利益不能受损",
+      "link": "http://new.qq.com/rain/a/20250908V06Z2B00",
+      "time": "9月8日 17:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美国加强军事施压，委内瑞拉积极应对，马杜罗稳固局势未变",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15528155959029338331",
+      "time": "9月3日 03:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "马杜罗在南美不孤单 美国不得人心 多国表示支持委内瑞拉",
+      "link": "http://baijiahao.baidu.com/s?id=1842181165093477222&wfr=spider&for=pc",
+      "time": "9月3日 03:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "拉美集体声援委内瑞拉抵御美军",
+      "link": "http://www.sohu.com/a/931110275_313745",
+      "time": "9月2日 13:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "马杜罗:美国企图通过军事手段对委内瑞拉“极限施压”",
+      "link": "http://www.banyuetan.org/gj/detail/20250902/1000200033136201756775767870211578_1.html",
+      "time": "9月2日 09:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "马杜罗：委内瑞拉正面临南美大陆百年来最大威胁",
+      "link": "http://news.cnr.cn/sq/20250902/t20250902_527349701.shtml",
+      "time": "9月2日 07:24",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "美国要入侵委内瑞拉?东大利益不能受损",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250908V06Z2B00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:07:12",
+      "event_time": "9月8日 17:46"
+    },
+    {
+      "event_title": "美国加强军事施压，委内瑞拉积极应对，马杜罗稳固局势未变",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=15528155959029338331",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:07:14",
+      "event_time": "9月3日 03:42"
+    },
+    {
+      "event_title": "马杜罗在南美不孤单 美国不得人心 多国表示支持委内瑞拉",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842181165093477222&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:07:31",
+      "event_time": "9月3日 03:21"
+    },
+    {
+      "event_title": "拉美集体声援委内瑞拉抵御美军",
+      "event_id": "event_4",
+      "event_url": "http://www.sohu.com/a/931110275_313745",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:07:33",
+      "event_time": "9月2日 13:52"
+    },
+    {
+      "event_title": "马杜罗:美国企图通过军事手段对委内瑞拉“极限施压”",
+      "event_id": "event_5",
+      "event_url": "http://www.banyuetan.org/gj/detail/20250902/1000200033136201756775767870211578_1.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:07:35",
+      "event_time": "9月2日 09:16"
+    },
+    {
+      "event_title": "马杜罗：委内瑞拉正面临南美大陆百年来最大威胁",
+      "event_id": "event_6",
+      "event_url": "http://news.cnr.cn/sq/20250902/t20250902_527349701.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:07:37",
+      "event_time": "9月2日 07:24"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-13 02:07:11",
+    "level2_scrape_time": "2025-09-13 02:07:37"
+  }
+}

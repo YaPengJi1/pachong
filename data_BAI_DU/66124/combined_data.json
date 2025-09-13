@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:37:53"
+  },
+  "core_event": {
+    "core_event_name": "美联储降息预期升温推动贵金属价格集体走高",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:36:54"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美联储降息地缘政治紧张局势推动大宗商品价格上涨",
+      "link": "http://app.myzaker.com/news/article.php?pk=68c25d528e9f097ae87c2b16",
+      "time": "昨天 13:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美联储降息预期发酵 白银强势运行",
+      "link": "http://baijiahao.baidu.com/s?id=1842931057292385058&wfr=spider&for=pc",
+      "time": "昨天 10:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美联储降息前景增强 现货黄金续创历史新高",
+      "link": "http://baijiahao.baidu.com/s?id=1842680784866667021&wfr=spider&for=pc",
+      "time": "9月8日 15:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美元可能迎来降息 黄金迎来上涨",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6180357136278028229",
+      "time": "9月6日 17:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美联储降息预期升温推动贵金属价格集体走高",
+      "link": "http://www.sohu.com/a/931386019_121925623",
+      "time": "9月3日 10:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "美联储降息预期升温 美元走弱等因素推动国际金价上涨",
+      "link": "http://tv.cctv.com/2025/09/02/VIDEGL8lJNoZh0HLV73f72mz250902.shtml",
+      "time": "9月2日 08:26",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "美联储降息地缘政治紧张局势推动大宗商品价格上涨",
+      "event_id": "event_1",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68c25d528e9f097ae87c2b16",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:37:09",
+      "event_time": "昨天 13:25"
+    },
+    {
+      "event_title": "美联储降息预期发酵 白银强势运行",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842931057292385058&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:37:26",
+      "event_time": "昨天 10:00"
+    },
+    {
+      "event_title": "美联储降息前景增强 现货黄金续创历史新高",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842680784866667021&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:37:42",
+      "event_time": "9月8日 15:34"
+    },
+    {
+      "event_title": "美元可能迎来降息 黄金迎来上涨",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6180357136278028229",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:37:44",
+      "event_time": "9月6日 17:44"
+    },
+    {
+      "event_title": "美联储降息预期升温推动贵金属价格集体走高",
+      "event_id": "event_5",
+      "event_url": "http://www.sohu.com/a/931386019_121925623",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:37:46",
+      "event_time": "9月3日 10:06"
+    },
+    {
+      "event_title": "美联储降息预期升温 美元走弱等因素推动国际金价上涨",
+      "event_id": "event_6",
+      "event_url": "http://tv.cctv.com/2025/09/02/VIDEGL8lJNoZh0HLV73f72mz250902.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:37:48",
+      "event_time": "9月2日 08:26"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 14:37:08",
+    "level2_scrape_time": "2025-09-12 14:37:48"
+  }
+}

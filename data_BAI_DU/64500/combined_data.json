@@ -1,0 +1,193 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:13:33"
+  },
+  "core_event": {
+    "core_event_name": "多股冷空气活跃 北方陆续开启入秋进程",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:12:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "北方多地体验“一夜入秋”,南方高温短暂收敛",
+      "link": "http://news.cnhubei.com/content/2025-09/05/content_19477839.html",
+      "time": "9月5日 18:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "北方降温降水铺展 多地秋凉逐渐显现",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=535719138054743619",
+      "time": "9月4日 15:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "北方秋凉上线 气温将创新低 南方大范围高温闷热持续 天气速览",
+      "link": "http://china.huanqiu.com/article/4OBTcnaX0Vy",
+      "time": "9月4日 09:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "北方冷空气频繁 秋凉感突出 南方持续闷热",
+      "link": "http://baijiahao.baidu.com/s?id=1842196151891508112&wfr=spider&for=pc",
+      "time": "9月2日 17:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "北方秋意显现 南方高温再次增多",
+      "link": "http://baijiahao.baidu.com/s?id=1842116030381096949&wfr=spider&for=pc",
+      "time": "9月2日 09:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "北方多地或开启入秋进程",
+      "link": "http://m.gmw.cn/2025-09/01/content_1304132235.htm",
+      "time": "9月1日 13:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "冷空气来袭 北方陆续开始入秋进程",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11524170186585679427",
+      "time": "9月1日 09:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "多股冷空气活跃 北方陆续开启入秋进程",
+      "link": "http://www.163.com/dy/article/K8AM3OV50514R9OJ.html",
+      "time": "8月31日 20:30",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "北方多地体验“一夜入秋”,南方高温短暂收敛",
+      "event_id": "event_1",
+      "event_url": "http://news.cnhubei.com/content/2025-09/05/content_19477839.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:12:46",
+      "event_time": "9月5日 18:58"
+    },
+    {
+      "event_title": "北方降温降水铺展 多地秋凉逐渐显现",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=535719138054743619",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:12:48",
+      "event_time": "9月4日 15:15"
+    },
+    {
+      "event_title": "北方秋凉上线 气温将创新低 南方大范围高温闷热持续 天气速览",
+      "event_id": "event_3",
+      "event_url": "http://china.huanqiu.com/article/4OBTcnaX0Vy",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:12:50",
+      "event_time": "9月4日 09:59"
+    },
+    {
+      "event_title": "北方冷空气频繁 秋凉感突出 南方持续闷热",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842196151891508112&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:13:06",
+      "event_time": "9月2日 17:14"
+    },
+    {
+      "event_title": "北方秋意显现 南方高温再次增多",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842116030381096949&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:13:22",
+      "event_time": "9月2日 09:35"
+    },
+    {
+      "event_title": "北方多地或开启入秋进程",
+      "event_id": "event_6",
+      "event_url": "http://m.gmw.cn/2025-09/01/content_1304132235.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:13:24",
+      "event_time": "9月1日 13:25"
+    },
+    {
+      "event_title": "冷空气来袭 北方陆续开始入秋进程",
+      "event_id": "event_7",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11524170186585679427",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:13:26",
+      "event_time": "9月1日 09:05"
+    },
+    {
+      "event_title": "多股冷空气活跃 北方陆续开启入秋进程",
+      "event_id": "event_8",
+      "event_url": "http://www.163.com/dy/article/K8AM3OV50514R9OJ.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:13:28",
+      "event_time": "8月31日 20:30"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 8,
+    "total_comments": 8,
+    "events_with_comments": 8,
+    "level1_scrape_time": "2025-09-13 01:12:45",
+    "level2_scrape_time": "2025-09-13 01:13:28"
+  }
+}

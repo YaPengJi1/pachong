@@ -1,0 +1,116 @@
+{
+  "core_info": {
+    "core_event_name": "公牛和吉迪续约，勇士与吉迪决裂",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:58:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "公牛和后场新星完成续约",
+      "link": "http://new.qq.com/rain/a/20250911A000ZO00",
+      "time": "昨天 00:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "吉迪与公牛达成4年1亿合同",
+      "link": "http://baijiahao.baidu.com/s?id=1842891292238268879&wfr=spider&for=pc",
+      "time": "9月10日 23:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "吉迪与公牛达成续约，多赢结局很完美",
+      "link": "http://cj.sina.com.cn/articles/view/1346571920/50430e9000101hpi2",
+      "time": "9月10日 23:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "吉迪单换卡鲁索!雷霆“节省”1900万美元 还顺道夺了冠",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hozw",
+      "time": "9月10日 15:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "吉迪被交易后打出身价获得大合同 雷霆夺冠+续约三大核心",
+      "link": "http://www.163.com/dy/article/K93DLJA20529AQIE.html",
+      "time": "9月10日 11:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "库明加与勇士决裂?新赛季勇士还能夺冠吗?",
+      "link": "http://www.sohu.com/a/933472684_121976701",
+      "time": "9月10日 09:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "吉迪1亿续约公牛，篮网队记认可曾凡博留队",
+      "link": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001temy",
+      "time": "9月10日 08:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "约什-吉迪与公牛签下4年1亿美元续约合同",
+      "link": "http://m.dongqiudi.com/article/5364043.html",
+      "time": "9月10日 07:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "吉迪上赛季场均14.6分8.1板7.2助 全明星后升至21.2分10.7板9.3助",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-10/doc-infpyazt2931284.shtml",
+      "time": "9月10日 06:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "公牛官宣:球队已与后卫约什-吉迪完成续约!",
+      "link": "http://baijiahao.baidu.com/s?id=1842825614546237076&wfr=spider&for=pc",
+      "time": "9月10日 03:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "吉迪4年1亿续约!受限制自由球员还剩库明加&格莱姆斯未签约",
+      "link": "http://baijiahao.baidu.com/s?id=1842815545706401001&wfr=spider&for=pc",
+      "time": "9月10日 03:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "吉迪续约谈判暗藏野心 公牛重建计划浮出水面",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-06/doc-infppxve9710647.shtml",
+      "time": "9月6日 17:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "曝公牛提高报价 为吉迪提供四年总价值近9000万美元合同",
+      "link": "http://baijiahao.baidu.com/s?id=1842377409248083298&wfr=spider&for=pc",
+      "time": "9月5日 07:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 13,
+  "scrape_time": "2025-09-12 10:59:06"
+}

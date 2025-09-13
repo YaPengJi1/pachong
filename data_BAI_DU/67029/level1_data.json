@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "创业板指涨幅扩大至3%，近4000只个股上涨",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:21:42"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "创业板指盘中涨超3%",
+      "link": "http://finance.sina.com.cn/jjxw/2025-09-11/doc-infqawwh6830787.shtml",
+      "time": "昨天 11:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "创业板指突破3000点",
+      "link": "http://finance.sina.cn/2025-09-11/detail-infqasqn3457740.d.html",
+      "time": "昨天 11:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "创业板指涨超3% 全市场近2700股上涨",
+      "link": "http://finance.sina.com.cn/roll/2025-09-11/doc-infqasqr8723181.shtml",
+      "time": "昨天 11:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "创业板指涨超3%",
+      "link": "http://cj.sina.com.cn/articles/view/5115326071/130e5ae7702002nch2",
+      "time": "昨天 11:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "创业板指上涨1.14%,卫星互联网、通信服务涨幅居前",
+      "link": "http://baijiahao.baidu.com/s?id=1842853296668812223&wfr=spider&for=pc",
+      "time": "9月10日 13:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "创业板指涨幅扩大至3%,全市场近4000只个股上涨",
+      "link": "http://weibo.com/1864018530/Q38fgjHFl",
+      "time": "9月5日 10:45",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 10:21:56"
+}

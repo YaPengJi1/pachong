@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:10:07"
+  },
+  "core_event": {
+    "core_event_name": "美网萨巴伦卡夺冠，美网女单13连胜",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:09:37"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "萨巴伦卡2-0夺美网冠军",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4100889396411595615",
+      "time": "9月7日 07:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "成美网女单决赛首人，狂揽1785万大奖",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7829250194236641407",
+      "time": "9月6日 07:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "萨巴伦卡再进决赛，豪取美网13连胜",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11766474933865881455",
+      "time": "9月5日 16:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美网半决赛:萨巴伦卡逆转佩古拉晋级决赛",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11414864596991969421",
+      "time": "9月5日 15:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "萨巴伦卡逆转佩古拉，晋级美网决赛，全场观众起立鼓掌祝贺",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11736942832092785832",
+      "time": "9月5日 09:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "美网女单上半区两场1/4决赛全部结束，萨巴伦卡连续五年晋级半决赛",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5189473173493817784",
+      "time": "9月3日 08:48",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "萨巴伦卡2-0夺美网冠军",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4100889396411595615",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:09:53",
+      "event_time": "9月7日 07:30"
+    },
+    {
+      "event_title": "成美网女单决赛首人，狂揽1785万大奖",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7829250194236641407",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:09:55",
+      "event_time": "9月6日 07:43"
+    },
+    {
+      "event_title": "萨巴伦卡再进决赛，豪取美网13连胜",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11766474933865881455",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:09:57",
+      "event_time": "9月5日 16:38"
+    },
+    {
+      "event_title": "美网半决赛:萨巴伦卡逆转佩古拉晋级决赛",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11414864596991969421",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:09:59",
+      "event_time": "9月5日 15:33"
+    },
+    {
+      "event_title": "萨巴伦卡逆转佩古拉，晋级美网决赛，全场观众起立鼓掌祝贺",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11736942832092785832",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:10:01",
+      "event_time": "9月5日 09:29"
+    },
+    {
+      "event_title": "美网女单上半区两场1/4决赛全部结束，萨巴伦卡连续五年晋级半决赛",
+      "event_id": "event_6",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5189473173493817784",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:10:03",
+      "event_time": "9月3日 08:48"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-13 01:09:51",
+    "level2_scrape_time": "2025-09-13 01:10:03"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "阅兵式上“最帅女机长”登《人民日报》",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:06:51"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "阅兵女机长身份曝光!私生活被扒牺牲太大,老公不简单,央视点名",
+      "link": "http://cj.sina.com.cn/articles/view/6807413969/195c0e4d100101amsc",
+      "time": "9月10日 23:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "阅兵最帅女机长,登上《人民日报》",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31569680",
+      "time": "9月8日 11:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "阅兵式上“又美又飒”的女机长身份曝光",
+      "link": "http://baijiahao.baidu.com/s?id=1842411279906726563&wfr=spider&for=pc",
+      "time": "9月5日 16:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "九三阅兵运油20A女机长全网刷屏",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5374011392540742418",
+      "time": "9月3日 21:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "阅兵最帅女机长驾驶过6种机型，执行过重大演训任务",
+      "link": "http://app.myzaker.com/news/article.php?m=1757021317&pk=68b8048cb15ec019d2150f09",
+      "time": "9月3日 17:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 10:07:05"
+}

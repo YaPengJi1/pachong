@@ -1,0 +1,100 @@
+{
+  "core_info": {
+    "core_event_name": "2026款阿维塔07车型预售订单破万",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:26:51"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "阿维塔07配置大升级!华为+宁德时代双加持,直接跨级飞跃",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7000678440647200171",
+      "time": "9月6日 14:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "前8月销量目标完成率仅36%,阿维塔07恶补配置短板",
+      "link": "http://baijiahao.baidu.com/s?id=1842493223982068305&wfr=spider&for=pc",
+      "time": "9月6日 14:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "阿维塔07 2026款预售，入门即满配",
+      "link": "http://www.163.com/dy/article/K8PCQKBU05471E9B.html",
+      "time": "9月6日 13:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "2026款阿维塔07车型预售24小时订单破万",
+      "link": "http://news.cnhubei.com/content/2025-09/06/content_19478822.html",
+      "time": "9月6日 08:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "阿维塔07预售24小时订单破万,华为ADS 4智能驾驶加持",
+      "link": "http://www.d1ev.com/newsflash/274260",
+      "time": "9月6日 07:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "标配华为乾崑ADS 4、增程版可选52度电池,阿维塔07 2026款开启预售",
+      "link": "http://www.163.com/dy/article/K8N1BO4S0514CQIE.html",
+      "time": "9月5日 15:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "阿维塔07 2026款开启预售",
+      "link": "http://baijiahao.baidu.com/s?id=1842397604223253476&wfr=spider&for=pc",
+      "time": "9月5日 11:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "2026款阿维塔07开启预售",
+      "link": "http://baijiahao.baidu.com/s?id=1842393138385130278&wfr=spider&for=pc",
+      "time": "9月5日 11:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "2026款阿维塔07开启预订,搭载华为ADS 4+鸿蒙座舱5",
+      "link": "http://baijiahao.baidu.com/s?id=1842376593043961587&wfr=spider&for=pc",
+      "time": "9月4日 21:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "2026款阿维塔07将于9月4日开启预售",
+      "link": "http://baijiahao.baidu.com/s?id=1842218991707376172&wfr=spider&for=pc",
+      "time": "9月3日 13:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "2026款阿维塔07汽车明日预售",
+      "link": "http://www.ithome.com/0/879/915.htm",
+      "time": "9月2日 17:55",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 11,
+  "scrape_time": "2025-09-12 22:27:05"
+}

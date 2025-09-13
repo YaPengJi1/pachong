@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "中国U23积分榜全乱了，国足反超三队登顶晋级",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:02:56"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U23亚洲杯国足晋级有望",
+      "link": "http://baijiahao.baidu.com/s?id=1842593055545941812&wfr=spider&for=pc",
+      "time": "9月7日 16:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "澳大利亚狂胜北马里亚纳,国足小胜东帝汶,亚预赛D组积分榜刷新",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16830087503752234559",
+      "time": "9月7日 12:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国队第一，U23积分榜全乱了，国足反超三队登顶晋级在望",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3488861171214030525",
+      "time": "9月7日 09:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "国足提前出线，升至排名第一，3队确定出局，国足输球也能晋级",
+      "link": "http://baijiahao.baidu.com/s?id=1842563344952496419&wfr=spider&for=pc",
+      "time": "9月7日 08:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "亚预赛多支球队踢疯,中国U23形势不妙",
+      "link": "http://www.163.com/dy/article/K8JUJJ4B0549WGPN.html",
+      "time": "9月4日 10:54",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 15:03:11"
+}

@@ -1,0 +1,571 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 19:01:28"
+  },
+  "core_event": {
+    "core_event_name": "纸质火车票将逐步退出舞台",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:59:20"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "10月起纸质火车票正式取消",
+      "link": "http://new.qq.com/rain/a/20250911A090FC00",
+      "time": "昨天 21:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "10月1日起铁路客运将全面使用电子发票",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEli49q3Rl2IUMGXWEPkU2250908.shtml",
+      "time": "9月8日 21:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "10月1日起,坐火车不再提供纸质票!",
+      "link": "http://m.gmw.cn/2025-09/08/content_1304140465.htm",
+      "time": "9月8日 20:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "10月1日起,纸质火车票退出",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31570218",
+      "time": "9月8日 16:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "10月1日起铁路全面使用电子发票,不再提供纸质报销凭证",
+      "link": "http://news.dayoo.com/gzrbrmt/202509/08/170628_54870082.htm",
+      "time": "9月8日 14:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "10月1日起不提供火车报销纸质凭证",
+      "link": "http://m.gmw.cn/toutiao/2025-09/08/content_1304139863.htm",
+      "time": "9月8日 14:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "10月1日起，铁路部门将不再提供纸质火车票",
+      "link": "http://www.163.com/dy/article/K8OG0BD005568JQA.html",
+      "time": "9月6日 05:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "定了!10月1日起退出",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31551012",
+      "time": "9月5日 13:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "10月1日起,全面停用!",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31544905",
+      "time": "9月5日 11:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "再见!纸质火车票将正式退出历史舞台",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31546505",
+      "time": "9月5日 10:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "再见了!纸质火车票即将成历史",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31554056",
+      "time": "9月4日 14:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "10月1日起,纸质火车票彻底再见",
+      "link": "http://www.163.com/dy/article/K8JM7CG80553T643.html",
+      "time": "9月4日 08:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "10月1日起,正式退出!",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31539600",
+      "time": "9月4日 07:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "纸质火车票从报销退场,不应是情感载体的消失",
+      "link": "http://baijiahao.baidu.com/s?id=1842212539805035379&wfr=spider&for=pc",
+      "time": "9月3日 11:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "纸质火车票即将正式退出历史舞台",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31538114",
+      "time": "9月2日 18:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "纸质火车票退场,便捷服务莫忘承载温度",
+      "link": "http://baijiahao.baidu.com/s?id=1842146800431438673&wfr=spider&for=pc",
+      "time": "9月2日 18:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "纸质火车票将退出历史舞台?12306客服:目前仍处于过渡期 10月1日起全面停用",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5927949244763817718",
+      "time": "9月2日 12:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "10月1日起铁路部门将全面停发纸质火车票 建议加强适老化服务 提升效率也要兼顾人文关怀",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15538042629880843116",
+      "time": "9月2日 12:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "纸质车票即将退场!一代历史的见证,落下帷幕!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9398679971207422724",
+      "time": "9月2日 11:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "纸质火车票即将退出历史舞台 官方回应",
+      "link": "http://baijiahao.baidu.com/s?id=1842112508681343703&wfr=spider&for=pc",
+      "time": "9月2日 09:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_21",
+      "title": "纸质火车票将全面停用,12306回应",
+      "link": "http://m.gmw.cn/2025-09/02/content_1304133007.htm",
+      "time": "9月2日 07:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_22",
+      "title": "9月30日之后 纸质火车票将成历史",
+      "link": "http://hzdaily.hangzhou.com.cn/dskb/2025/09/02/article_detail_2_20250902A034.html",
+      "time": "9月2日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_23",
+      "title": "纸质火车票将成为历史,10月1号起由电子发票全面取代",
+      "link": "http://baijiahao.baidu.com/s?id=1842073834958898087&wfr=spider&for=pc",
+      "time": "9月1日 20:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_24",
+      "title": "纸质火车票将正式退出历史舞台?12306回应",
+      "link": "http://finance.eastmoney.com/a/202509013501053754.html",
+      "time": "9月1日 16:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_25",
+      "title": "“不再提供纸质火车票”,没有智能手机如何看乘车信息?12306回应",
+      "link": "http://cj.sina.com.cn/articles/view/5993531560/1653e08a801901i96q",
+      "time": "9月1日 15:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_26",
+      "title": "纸质火车票即将成为历史!网友热议:老年群体或有操作困难",
+      "link": "http://www.jfdaily.com/wx/detail.do?id=974571",
+      "time": "9月1日 11:39",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "10月起纸质火车票正式取消",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250911A090FC00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:59:37",
+      "event_time": "昨天 21:30"
+    },
+    {
+      "event_title": "10月1日起铁路客运将全面使用电子发票",
+      "event_id": "event_2",
+      "event_url": "http://tv.cctv.com/2025/09/08/VIDEli49q3Rl2IUMGXWEPkU2250908.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:59:39",
+      "event_time": "9月8日 21:21"
+    },
+    {
+      "event_title": "10月1日起,坐火车不再提供纸质票!",
+      "event_id": "event_3",
+      "event_url": "http://m.gmw.cn/2025-09/08/content_1304140465.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:59:41",
+      "event_time": "9月8日 20:33"
+    },
+    {
+      "event_title": "10月1日起,纸质火车票退出",
+      "event_id": "event_4",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31570218",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:59:43",
+      "event_time": "9月8日 16:14"
+    },
+    {
+      "event_title": "10月1日起铁路全面使用电子发票,不再提供纸质报销凭证",
+      "event_id": "event_5",
+      "event_url": "http://news.dayoo.com/gzrbrmt/202509/08/170628_54870082.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:59:45",
+      "event_time": "9月8日 14:45"
+    },
+    {
+      "event_title": "10月1日起不提供火车报销纸质凭证",
+      "event_id": "event_6",
+      "event_url": "http://m.gmw.cn/toutiao/2025-09/08/content_1304139863.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:59:47",
+      "event_time": "9月8日 14:44"
+    },
+    {
+      "event_title": "10月1日起，铁路部门将不再提供纸质火车票",
+      "event_id": "event_7",
+      "event_url": "http://www.163.com/dy/article/K8OG0BD005568JQA.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:59:49",
+      "event_time": "9月6日 05:13"
+    },
+    {
+      "event_title": "定了!10月1日起退出",
+      "event_id": "event_8",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31551012",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:59:51",
+      "event_time": "9月5日 13:55"
+    },
+    {
+      "event_title": "10月1日起,全面停用!",
+      "event_id": "event_9",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31544905",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:59:53",
+      "event_time": "9月5日 11:10"
+    },
+    {
+      "event_title": "再见!纸质火车票将正式退出历史舞台",
+      "event_id": "event_10",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31546505",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:59:55",
+      "event_time": "9月5日 10:02"
+    },
+    {
+      "event_title": "再见了!纸质火车票即将成历史",
+      "event_id": "event_11",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31554056",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:59:57",
+      "event_time": "9月4日 14:32"
+    },
+    {
+      "event_title": "10月1日起,纸质火车票彻底再见",
+      "event_id": "event_12",
+      "event_url": "http://www.163.com/dy/article/K8JM7CG80553T643.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:59:59",
+      "event_time": "9月4日 08:25"
+    },
+    {
+      "event_title": "10月1日起,正式退出!",
+      "event_id": "event_13",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31539600",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:00:01",
+      "event_time": "9月4日 07:34"
+    },
+    {
+      "event_title": "纸质火车票从报销退场,不应是情感载体的消失",
+      "event_id": "event_14",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842212539805035379&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:00:18",
+      "event_time": "9月3日 11:38"
+    },
+    {
+      "event_title": "纸质火车票即将正式退出历史舞台",
+      "event_id": "event_15",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31538114",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:00:20",
+      "event_time": "9月2日 18:47"
+    },
+    {
+      "event_title": "纸质火车票退场,便捷服务莫忘承载温度",
+      "event_id": "event_16",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842146800431438673&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "三生三世十理桃花AS5",
+      "comment_time": "09-02 21:48",
+      "comment_content": "科技向前，温情不减，出行更便捷！",
+      "user_location": "天津",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:00:36",
+      "event_time": "9月2日 18:12"
+    },
+    {
+      "event_title": "纸质火车票将退出历史舞台?12306客服:目前仍处于过渡期 10月1日起全面停用",
+      "event_id": "event_17",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5927949244763817718",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:00:38",
+      "event_time": "9月2日 12:31"
+    },
+    {
+      "event_title": "10月1日起铁路部门将全面停发纸质火车票 建议加强适老化服务 提升效率也要兼顾人文关怀",
+      "event_id": "event_18",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=15538042629880843116",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:00:40",
+      "event_time": "9月2日 12:31"
+    },
+    {
+      "event_title": "纸质车票即将退场!一代历史的见证,落下帷幕!",
+      "event_id": "event_19",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9398679971207422724",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:00:42",
+      "event_time": "9月2日 11:03"
+    },
+    {
+      "event_title": "纸质火车票即将退出历史舞台 官方回应",
+      "event_id": "event_20",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842112508681343703&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "网囚王子Zty",
+      "comment_time": "09-02 09:15",
+      "comment_content": "电子票真香，老年人别慌，过渡期帮忙！",
+      "user_location": "山东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:00:58",
+      "event_time": "9月2日 09:09"
+    },
+    {
+      "event_title": "纸质火车票将全面停用,12306回应",
+      "event_id": "event_21",
+      "event_url": "http://m.gmw.cn/2025-09/02/content_1304133007.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:01:00",
+      "event_time": "9月2日 07:24"
+    },
+    {
+      "event_title": "9月30日之后 纸质火车票将成历史",
+      "event_id": "event_22",
+      "event_url": "http://hzdaily.hangzhou.com.cn/dskb/2025/09/02/article_detail_2_20250902A034.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:01:02",
+      "event_time": "9月2日 00:00"
+    },
+    {
+      "event_title": "纸质火车票将成为历史,10月1号起由电子发票全面取代",
+      "event_id": "event_23",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842073834958898087&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "众庆谍战",
+      "comment_time": "09-01 23:47",
+      "comment_content": "科技改变生活，无纸出行更环保！",
+      "user_location": "云南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:01:18",
+      "event_time": "9月1日 20:07"
+    },
+    {
+      "event_title": "纸质火车票将正式退出历史舞台?12306回应",
+      "event_id": "event_24",
+      "event_url": "http://finance.eastmoney.com/a/202509013501053754.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:01:20",
+      "event_time": "9月1日 16:11"
+    },
+    {
+      "event_title": "“不再提供纸质火车票”,没有智能手机如何看乘车信息?12306回应",
+      "event_id": "event_25",
+      "event_url": "http://cj.sina.com.cn/articles/view/5993531560/1653e08a801901i96q",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:01:22",
+      "event_time": "9月1日 15:23"
+    },
+    {
+      "event_title": "纸质火车票即将成为历史!网友热议:老年群体或有操作困难",
+      "event_id": "event_26",
+      "event_url": "http://www.jfdaily.com/wx/detail.do?id=974571",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:01:24",
+      "event_time": "9月1日 11:39"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 26,
+    "total_comments": 26,
+    "events_with_comments": 26,
+    "level1_scrape_time": "2025-09-12 18:59:36",
+    "level2_scrape_time": "2025-09-12 19:01:24"
+  }
+}

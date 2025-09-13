@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "泸州老窖半年报点评",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:47:37"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "泸州老窖2025年中报透视",
+      "link": "http://baijiahao.baidu.com/s?id=1842952743971995963&wfr=spider&for=pc",
+      "time": "昨天 15:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "泸州老窖半年报:营收净利润双降,中高档酒吨价缩水超12%",
+      "link": "http://baijiahao.baidu.com/s?id=1842429126457109058&wfr=spider&for=pc",
+      "time": "9月5日 21:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "泸州老窖主动破局,夯实核心基本盘",
+      "link": "http://www.163.com/dy/article/K8KD5BHR0519A7HF.html",
+      "time": "9月4日 15:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "泸州老窖半年报爆雷!营收净利双降、券商悲观下调",
+      "link": "http://cj.sina.com.cn/articles/view/2519768781/96309ecd00101b0to",
+      "time": "9月4日 08:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "民生证券-泸州老窖-000568-2025半年报点评",
+      "link": "http://finance.sina.cn/2025-08-31/detail-infnwvve1934625.d.html",
+      "time": "8月31日 20:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "泸州老窖H1营收未能“稳进” 中高档酒吨价下降近13%",
+      "link": "http://baijiahao.baidu.com/s?id=1841801645459524923&wfr=spider&for=pc",
+      "time": "8月29日 22:48",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 19:47:51"
+}

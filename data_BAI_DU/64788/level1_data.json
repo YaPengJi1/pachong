@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "曼联转会拉门斯",
+    "update_time": "更新至20250903",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:38:42"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "曼联2100万欧签下比利时门将拉门斯",
+      "link": "http://baijiahao.baidu.com/s?id=1842207594148060169&wfr=spider&for=pc",
+      "time": "9月3日 10:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "拉门斯在曼联将穿31号",
+      "link": "http://baijiahao.baidu.com/s?id=1842170043165422066&wfr=spider&for=pc",
+      "time": "9月3日 00:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "大马丁无意去土超 准备留在维拉 曼联从未正式报价",
+      "link": "http://www.163.com/dy/article/K8FCM7420529AQIE.html",
+      "time": "9月2日 16:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "曼联与维拉转会谈判:马丁内斯 vs 拉门斯",
+      "link": "http://www.sohu.com/a/930502324_122387568",
+      "time": "8月31日 21:28",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 02:38:56"
+}

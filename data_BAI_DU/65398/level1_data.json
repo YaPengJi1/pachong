@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "台胞现身九三阅兵现场",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:21:26"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "九三阅兵引发岛内高度关注·国务院台办 望广大台湾同胞共同铭记历史 缅怀先烈",
+      "link": "http://tv.cctv.com/2025/09/10/VIDEVB4hu1CK4oTx7nV0UYdo250910.shtml",
+      "time": "9月10日 15:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "武汉台资企业协会组织台胞 集中观看纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会阅兵仪式",
+      "link": "http://www.cnhubei.com/content/2025-09/04/content_19474465.html",
+      "time": "9月4日 21:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "北京台胞现场亲历九三阅兵",
+      "link": "http://www.163.com/dy/article/K8KKH8FO0514NR4I.html",
+      "time": "9月4日 17:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "洪秀柱现身阅兵现场",
+      "link": "http://cj.sina.com.cn/articles/view/7295511715/1b2d8aca302001hm6c",
+      "time": "9月4日 16:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "在昌台胞同观九三阅兵:“感到无比自豪!”",
+      "link": "http://www.jx.chinanews.com.cn/news/2025/0904/118669.html",
+      "time": "9月4日 09:33",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 23:21:40"
+}

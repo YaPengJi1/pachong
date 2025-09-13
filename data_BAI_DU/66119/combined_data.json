@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:33:50"
+  },
+  "core_event": {
+    "core_event_name": "美网：辛纳晋级男单四强",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:33:24"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美网:辛纳晋级男单四强",
+      "link": "http://news.fjsen.com/2025-09/05/content_32033066.htm",
+      "time": "9月5日 10:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "德约科维奇晋级美网男单四强",
+      "link": "http://tv.cctv.com/2025/09/04/VIDEYWDERv4BFfmgMuH9M8yn250904.shtml",
+      "time": "9月4日 07:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "费利克斯·奥热-阿利亚西姆逆转晋级美网四强",
+      "link": "http://www.sohu.com/a/931646497_122507508",
+      "time": "9月4日 05:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "德约科维奇今年大满贯都打进四强，美网能否有所突破",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5670770803964893430",
+      "time": "9月3日 19:23",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "美网:辛纳晋级男单四强",
+      "event_id": "event_1",
+      "event_url": "http://news.fjsen.com/2025-09/05/content_32033066.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:33:40",
+      "event_time": "9月5日 10:34"
+    },
+    {
+      "event_title": "德约科维奇晋级美网男单四强",
+      "event_id": "event_2",
+      "event_url": "http://tv.cctv.com/2025/09/04/VIDEYWDERv4BFfmgMuH9M8yn250904.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:33:42",
+      "event_time": "9月4日 07:23"
+    },
+    {
+      "event_title": "费利克斯·奥热-阿利亚西姆逆转晋级美网四强",
+      "event_id": "event_3",
+      "event_url": "http://www.sohu.com/a/931646497_122507508",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:33:44",
+      "event_time": "9月4日 05:09"
+    },
+    {
+      "event_title": "德约科维奇今年大满贯都打进四强，美网能否有所突破",
+      "event_id": "event_4",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5670770803964893430",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:33:46",
+      "event_time": "9月3日 19:23"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 14:33:39",
+    "level2_scrape_time": "2025-09-12 14:33:46"
+  }
+}

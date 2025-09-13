@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:02:25"
+  },
+  "core_event": {
+    "core_event_name": "汕头明润晋级乒超联赛总决赛",
+    "update_time": "更新至20250903",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:01:31"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "乒超联赛常规赛收官，8队晋级总决赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842207759168706705&wfr=spider&for=pc",
+      "time": "9月3日 10:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "乒超联赛：汕头明润对阵安徽中程",
+      "link": "http://www.xinhuanet.com/sports/20250902/ace7abce833e412f8244e2c801a125a6/c.html",
+      "time": "9月2日 12:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "汕头明润搭上末班车 乒超联赛总决赛八强阵容出炉",
+      "link": "http://baijiahao.baidu.com/s?id=1842124411776937500&wfr=spider&for=pc",
+      "time": "9月2日 10:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "乒超联赛4强产生-山东魏桥第一,汕头明润晋级",
+      "link": "http://www.163.com/dy/article/K8DDLPJ705566XTG.html",
+      "time": "9月1日 22:01",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "乒超联赛常规赛收官，8队晋级总决赛",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842207759168706705&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "Sandy游星际traveller",
+      "comment_time": "09-03 11:22",
+      "comment_content": "常规赛告一段落，八个队伍晋级总决赛，期待12月南京的精彩较量啦。",
+      "user_location": "河南",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:02:01",
+      "event_time": "9月3日 10:23"
+    },
+    {
+      "event_title": "乒超联赛：汕头明润对阵安徽中程",
+      "event_id": "event_2",
+      "event_url": "http://www.xinhuanet.com/sports/20250902/ace7abce833e412f8244e2c801a125a6/c.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:02:03",
+      "event_time": "9月2日 12:06"
+    },
+    {
+      "event_title": "汕头明润搭上末班车 乒超联赛总决赛八强阵容出炉",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842124411776937500&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:02:19",
+      "event_time": "9月2日 10:19"
+    },
+    {
+      "event_title": "乒超联赛4强产生-山东魏桥第一,汕头明润晋级",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8DDLPJ705566XTG.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:02:21",
+      "event_time": "9月1日 22:01"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-13 02:01:45",
+    "level2_scrape_time": "2025-09-13 02:02:21"
+  }
+}

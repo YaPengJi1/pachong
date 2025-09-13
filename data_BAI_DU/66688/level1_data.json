@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普白宫宴请科技巨头",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:08:21"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "白宫上演“鸿门宴”，特朗普向20多位美国企业高管要钱？",
+      "link": "http://www.163.com/dy/article/K90O1Q2A05520E43.html",
+      "time": "9月9日 10:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "扎克伯格白宫晚宴称“未来将在美投资6000亿美元”后又解释",
+      "link": "http://baijiahao.baidu.com/s?id=1842678707309312955&wfr=spider&for=pc",
+      "time": "9月8日 14:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普摆鸿门宴,众巨头排队交钱,唯马斯克不赴!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9253001370630352072",
+      "time": "9月8日 01:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普举办宫廷盛宴,针对科技巨头的“忠诚度测试”,有何猫腻?",
+      "link": "http://cj.sina.com.cn/articles/view/6161189919/16f3c4c1f02003al9s",
+      "time": "9月7日 11:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "特朗普在白宫宴请科技巨头，马斯克未出席",
+      "link": "http://weibo.com/2150758415/Q3cmXhzjy",
+      "time": "9月5日 21:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "特朗普在白宫宴请美国科技领袖",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10763296208885563314",
+      "time": "9月5日 08:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "“讨好”特朗普,硅谷巨头“齐聚白宫”",
+      "link": "http://www.huxiu.com/article/4763461.html",
+      "time": "9月5日 01:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "特朗普将在新装修的玫瑰园招待库克、扎克伯格等科技企业CEO",
+      "link": "http://baijiahao.baidu.com/s?id=1842307513178995719&wfr=spider&for=pc",
+      "time": "9月4日 12:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "微软CEO纳德拉出现在白宫",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 11:08:36"
+}

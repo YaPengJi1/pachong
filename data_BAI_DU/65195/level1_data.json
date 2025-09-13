@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "美联储威廉姆斯关于关税的评论",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:08:29"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美联储“三把手”:关税对通胀影响甚微,适时降息是合适之举",
+      "link": "http://app.myzaker.com/news/article.php?m=1757031642&pk=68ba2bf38e9f09251100ef1d",
+      "time": "9月5日 08:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "9月降息预期升温!纽约联储主席威廉姆斯称“关税”未“推高通胀”",
+      "link": "http://baijiahao.baidu.com/s?id=1842375067997809401&wfr=spider&for=pc",
+      "time": "9月5日 06:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美联储威廉姆斯:鉴于通胀,适度的政策限制是适当的",
+      "link": "http://finance.sina.cn/7x24/2025-09-05/detail-infpkanw6562228.d.html",
+      "time": "9月5日 00:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美联储官员威廉姆斯:我认为关税大概率会持续存在,但也会考虑不同的情景",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 20:08:43"
+}

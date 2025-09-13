@@ -1,0 +1,466 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:51:30"
+  },
+  "core_event": {
+    "core_event_name": "詹姆斯中国行",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:50:00"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "詹姆斯:中国年轻运动员越发优秀 技巧球商有所提升 他们热爱篮球",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-07/doc-infprwnm5549439.shtml",
+      "time": "9月7日 11:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "詹姆斯打卡东方明珠，秀第23代签名鞋",
+      "link": "http://www.163.com/dy/article/K8QCRKO905534E4Y.html",
+      "time": "9月6日 22:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "媒体人晒詹姆斯中国行活动照",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hj9m",
+      "time": "9月6日 15:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "詹姆斯与“勒布朗梦”李梦上演同款霸王步庆祝",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31551525",
+      "time": "9月6日 10:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "詹姆斯:中国球迷热情“不可思议” 愿激励下一代球员成长",
+      "link": "http://cj.sina.com.cn/articles/view/1699432410/654b47da02001k46s",
+      "time": "9月6日 10:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "勒布朗·詹姆斯中国行抵达成都，双子塔点亮巨幅海报",
+      "link": "http://news.cnhubei.com/content/2025-09/05/content_19476795.html",
+      "time": "9月5日 11:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "成都双子塔为詹姆斯亮起巨幅灯光秀",
+      "link": "http://www.dongqiudi.com/articles/5355413.html",
+      "time": "9月5日 11:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "詹姆斯明日将出席中国男女篮国青队训练 并与国家队成员分享经验",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-04/doc-infpiwff8517925.shtml",
+      "time": "9月4日 21:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "詹姆斯高举双臂摆经典庆祝动作与粉丝拍大合照",
+      "link": "http://voice.hupu.com/bbs/634697307",
+      "time": "9月4日 19:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "詹姆斯活动进行中，大批粉丝在门口聚集等候",
+      "link": "http://voice.hupu.com/bbs/634697109",
+      "time": "9月4日 19:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "詹姆斯中国行吸引跨年龄球迷",
+      "link": "http://cj.sina.com.cn/articles/view/46754431/p02c96a7f027014nkm",
+      "time": "9月4日 19:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "詹姆斯中国行爆料：第23代球鞋含“23”配色",
+      "link": "http://k.sina.com.cn/article_2193518494_82be6f9e04001cj6g.html",
+      "time": "9月4日 19:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "宠粉时刻!詹姆斯在上海站现场主动绕场一周 与球迷击掌互动",
+      "link": "http://sports.sina.cn/nba/other/2025-09-04/detail-infpirxa6768641.d.html",
+      "time": "9月4日 19:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "中国行上海站活动开始前 詹姆斯从高处张开双臂向球迷问好",
+      "link": "http://sports.sina.cn/nba/other/2025-09-04/detail-infpirxf1705109.d.html",
+      "time": "9月4日 18:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "记者已经来到詹姆斯中国行外滩活动现场",
+      "link": "http://sports.sina.cn/nba/other/2025-09-04/detail-infpirxa6755035.d.html",
+      "time": "9月4日 16:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "詹姆斯中国行外滩活动现场门口已聚集无数球迷",
+      "link": "http://news.sina.cn/gn/2025-09-04/detail-infpimri1783977.d.html",
+      "time": "9月4日 16:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "耐克中国,请来NBA巨星詹姆斯“救市”?",
+      "link": "http://baijiahao.baidu.com/s?id=1842321738890511453&wfr=spider&for=pc",
+      "time": "9月4日 16:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "詹姆斯第15次中国行开启,将访上海成都",
+      "link": "http://cj.sina.com.cn/articles/view/2418842335/p902c9adf02701uwuo",
+      "time": "9月4日 13:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "网友晒在酒店遇到詹姆斯:他早上6点就到健身房锻炼 和他打了招呼",
+      "link": "http://sports.sina.cn/nba/other/2025-09-04/detail-infphutq3665804.d.html",
+      "time": "9月4日 10:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "球迷酒店健身房蹲守詹皇成功",
+      "link": "http://baijiahao.baidu.com/s?id=1842293883701469643&wfr=spider&for=pc",
+      "time": "9月4日 09:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_21",
+      "title": "詹姆斯更新IG,将开启中国行!",
+      "link": "http://www.bilibili.com/video/BV1jQhZzQEVZ",
+      "time": "9月2日 08:33",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "詹姆斯:中国年轻运动员越发优秀 技巧球商有所提升 他们热爱篮球",
+      "event_id": "event_1",
+      "event_url": "http://sports.sina.com.cn/basketball/nba/2025-09-07/doc-infprwnm5549439.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:50:17",
+      "event_time": "9月7日 11:58"
+    },
+    {
+      "event_title": "詹姆斯打卡东方明珠，秀第23代签名鞋",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8QCRKO905534E4Y.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:50:19",
+      "event_time": "9月6日 22:56"
+    },
+    {
+      "event_title": "媒体人晒詹姆斯中国行活动照",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hj9m",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:50:21",
+      "event_time": "9月6日 15:54"
+    },
+    {
+      "event_title": "詹姆斯与“勒布朗梦”李梦上演同款霸王步庆祝",
+      "event_id": "event_4",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31551525",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:50:23",
+      "event_time": "9月6日 10:50"
+    },
+    {
+      "event_title": "詹姆斯:中国球迷热情“不可思议” 愿激励下一代球员成长",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/1699432410/654b47da02001k46s",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:50:25",
+      "event_time": "9月6日 10:25"
+    },
+    {
+      "event_title": "勒布朗·詹姆斯中国行抵达成都，双子塔点亮巨幅海报",
+      "event_id": "event_6",
+      "event_url": "http://news.cnhubei.com/content/2025-09/05/content_19476795.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:50:27",
+      "event_time": "9月5日 11:48"
+    },
+    {
+      "event_title": "成都双子塔为詹姆斯亮起巨幅灯光秀",
+      "event_id": "event_7",
+      "event_url": "http://www.dongqiudi.com/articles/5355413.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:50:29",
+      "event_time": "9月5日 11:17"
+    },
+    {
+      "event_title": "詹姆斯明日将出席中国男女篮国青队训练 并与国家队成员分享经验",
+      "event_id": "event_8",
+      "event_url": "http://sports.sina.com.cn/basketball/nba/2025-09-04/doc-infpiwff8517925.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:50:31",
+      "event_time": "9月4日 21:28"
+    },
+    {
+      "event_title": "詹姆斯高举双臂摆经典庆祝动作与粉丝拍大合照",
+      "event_id": "event_9",
+      "event_url": "http://voice.hupu.com/bbs/634697307",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:50:33",
+      "event_time": "9月4日 19:45"
+    },
+    {
+      "event_title": "詹姆斯活动进行中，大批粉丝在门口聚集等候",
+      "event_id": "event_10",
+      "event_url": "http://voice.hupu.com/bbs/634697109",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:50:35",
+      "event_time": "9月4日 19:26"
+    },
+    {
+      "event_title": "詹姆斯中国行吸引跨年龄球迷",
+      "event_id": "event_11",
+      "event_url": "http://cj.sina.com.cn/articles/view/46754431/p02c96a7f027014nkm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:50:37",
+      "event_time": "9月4日 19:12"
+    },
+    {
+      "event_title": "詹姆斯中国行爆料：第23代球鞋含“23”配色",
+      "event_id": "event_12",
+      "event_url": "http://k.sina.com.cn/article_2193518494_82be6f9e04001cj6g.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:50:39",
+      "event_time": "9月4日 19:10"
+    },
+    {
+      "event_title": "宠粉时刻!詹姆斯在上海站现场主动绕场一周 与球迷击掌互动",
+      "event_id": "event_13",
+      "event_url": "http://sports.sina.cn/nba/other/2025-09-04/detail-infpirxa6768641.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:50:41",
+      "event_time": "9月4日 19:07"
+    },
+    {
+      "event_title": "中国行上海站活动开始前 詹姆斯从高处张开双臂向球迷问好",
+      "event_id": "event_14",
+      "event_url": "http://sports.sina.cn/nba/other/2025-09-04/detail-infpirxf1705109.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:50:43",
+      "event_time": "9月4日 18:43"
+    },
+    {
+      "event_title": "记者已经来到詹姆斯中国行外滩活动现场",
+      "event_id": "event_15",
+      "event_url": "http://sports.sina.cn/nba/other/2025-09-04/detail-infpirxa6755035.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:50:45",
+      "event_time": "9月4日 16:43"
+    },
+    {
+      "event_title": "詹姆斯中国行外滩活动现场门口已聚集无数球迷",
+      "event_id": "event_16",
+      "event_url": "http://news.sina.cn/gn/2025-09-04/detail-infpimri1783977.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:50:47",
+      "event_time": "9月4日 16:37"
+    },
+    {
+      "event_title": "耐克中国,请来NBA巨星詹姆斯“救市”?",
+      "event_id": "event_17",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842321738890511453&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:51:04",
+      "event_time": "9月4日 16:35"
+    },
+    {
+      "event_title": "詹姆斯第15次中国行开启,将访上海成都",
+      "event_id": "event_18",
+      "event_url": "http://cj.sina.com.cn/articles/view/2418842335/p902c9adf02701uwuo",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:51:06",
+      "event_time": "9月4日 13:30"
+    },
+    {
+      "event_title": "网友晒在酒店遇到詹姆斯:他早上6点就到健身房锻炼 和他打了招呼",
+      "event_id": "event_19",
+      "event_url": "http://sports.sina.cn/nba/other/2025-09-04/detail-infphutq3665804.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:51:08",
+      "event_time": "9月4日 10:20"
+    },
+    {
+      "event_title": "球迷酒店健身房蹲守詹皇成功",
+      "event_id": "event_20",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842293883701469643&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:51:24",
+      "event_time": "9月4日 09:12"
+    },
+    {
+      "event_title": "詹姆斯更新IG,将开启中国行!",
+      "event_id": "event_21",
+      "event_url": "http://www.bilibili.com/video/BV1jQhZzQEVZ",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:51:26",
+      "event_time": "9月2日 08:33"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 21,
+    "total_comments": 21,
+    "events_with_comments": 21,
+    "level1_scrape_time": "2025-09-12 17:50:16",
+    "level2_scrape_time": "2025-09-12 17:51:26"
+  }
+}

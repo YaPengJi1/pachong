@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "小米16新机发布",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:54:11"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "疑似小米16标准版细节曝光 苹果机皇价比百元机果粉心碎!",
+      "link": "http://mobile.zol.com.cn/1041/10414347_all.html",
+      "time": "9月5日 09:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "小米16首发黑科技亮相 苹果旗舰机现谷底价果粉乐翻天",
+      "link": "http://mobile.zol.com.cn/1040/10400171_all.html",
+      "time": "9月1日 08:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "小米13系列发布，7000mAh小直屏",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b1cf1b8e9f090b312b3acb",
+      "time": "8月30日 08:02",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 17:54:25"
+}

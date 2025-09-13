@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "苏超南京VS徐州",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:53:02"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "“苏超”南京VS徐州今晚打响,皖南皖北应援旗现身助威",
+      "link": "http://cj.sina.com.cn/articles/view/1720962692/6693ce8402002wtbk",
+      "time": "9月6日 19:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "南京VS徐州，苏超上演巅峰对决",
+      "link": "http://baijiahao.baidu.com/s?id=1842507548305616965&wfr=spider&for=pc",
+      "time": "9月6日 17:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "“苏超”球迷和徐州市民专属“文旅大礼包”来了",
+      "link": "http://njrb.njdaily.cn/h5/html5/2025-09/06/content_53_226965.htm",
+      "time": "9月6日 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 14:53:17"
+}

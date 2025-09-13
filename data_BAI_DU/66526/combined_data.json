@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:35:07"
+  },
+  "core_event": {
+    "core_event_name": "C罗在世预赛上的精彩表现",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:34:24"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "C罗点射造足坛神迹,坎塞洛绝杀,葡萄牙3-2匈牙利,世预赛两连胜",
+      "link": "http://baijiahao.baidu.com/s?id=1842820385957995486&wfr=spider&for=pc",
+      "time": "9月10日 04:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "世预赛：葡萄牙5球横扫亚美尼亚，C罗双响，菲利克斯爆发",
+      "link": "http://www.163.com/dy/article/K8UA9A4D0556DQTV.html",
+      "time": "9月8日 11:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "C罗世界杯预选赛个人表现:48场比赛贡献38球14次助攻",
+      "link": "http://weibo.com/7709174731/Q3rAa5Fpq",
+      "time": "9月7日 11:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "C罗世预赛梅开二度，苏超上座率再破纪录",
+      "link": "http://cj.sina.com.cn/articles/view/5044281310/12ca99fde02002f4t4",
+      "time": "9月7日 08:54",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "C罗点射造足坛神迹,坎塞洛绝杀,葡萄牙3-2匈牙利,世预赛两连胜",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842820385957995486&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "博天xpF35",
+      "comment_time": "09-10 09:01",
+      "comment_content": "你眼是瞎了",
+      "user_location": "湖北",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:34:57",
+      "event_time": "9月10日 04:41"
+    },
+    {
+      "event_title": "C罗点射造足坛神迹,坎塞洛绝杀,葡萄牙3-2匈牙利,世预赛两连胜",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842820385957995486&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "陌上花开谈体育作者",
+      "comment_time": "09-10 07:57",
+      "comment_content": "是呀，这场逆转太燃啦，C罗点射创纪录，坎塞洛绝杀超关键，葡萄牙两连胜势头正盛，期待后续比赛继续给力~",
+      "user_location": "",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 11:34:57",
+      "event_time": "9月10日 04:41"
+    },
+    {
+      "event_title": "C罗点射造足坛神迹,坎塞洛绝杀,葡萄牙3-2匈牙利,世预赛两连胜",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842820385957995486&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "夏侯贺拨吉0fV98e",
+      "comment_time": "09-10 04:44",
+      "comment_content": "葡萄牙逆转真刺激，C罗点射破纪录，坎塞洛绝杀定胜局，两连胜势头猛！",
+      "user_location": "福建",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 11:34:57",
+      "event_time": "9月10日 04:41"
+    },
+    {
+      "event_title": "C罗点射造足坛神迹,坎塞洛绝杀,葡萄牙3-2匈牙利,世预赛两连胜",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842820385957995486&wfr=spider&for=pc",
+      "comment_index": 4,
+      "user_id": "光头十一",
+      "comment_time": "09-10 05:32",
+      "comment_content": "c别的不行就靠点球没有天赋一辈子就是这个样子了",
+      "user_location": "辽宁",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 11:34:57",
+      "event_time": "9月10日 04:41"
+    },
+    {
+      "event_title": "C罗点射造足坛神迹,坎塞洛绝杀,葡萄牙3-2匈牙利,世预赛两连胜",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842820385957995486&wfr=spider&for=pc",
+      "comment_index": 5,
+      "user_id": "尔殊n",
+      "comment_time": "09-10 07:14",
+      "comment_content": "你先把名字打对再叫唤吧",
+      "user_location": "北京",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:34:57",
+      "event_time": "9月10日 04:41"
+    },
+    {
+      "event_title": "C罗点射造足坛神迹,坎塞洛绝杀,葡萄牙3-2匈牙利,世预赛两连胜",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842820385957995486&wfr=spider&for=pc",
+      "comment_index": 6,
+      "user_id": "李gPh",
+      "comment_time": "09-10 07:39",
+      "comment_content": "如果是阿萎骡绝杀都能吹上天，又是点球",
+      "user_location": "辽宁",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 11:34:57",
+      "event_time": "9月10日 04:41"
+    },
+    {
+      "event_title": "C罗点射造足坛神迹,坎塞洛绝杀,葡萄牙3-2匈牙利,世预赛两连胜",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842820385957995486&wfr=spider&for=pc",
+      "comment_index": 7,
+      "user_id": "西梅吹罗",
+      "comment_time": "09-10 07:22",
+      "comment_content": "点球、点球、还是点球，除了点球还会点啥？",
+      "user_location": "湖南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:34:57",
+      "event_time": "9月10日 04:41"
+    },
+    {
+      "event_title": "世预赛：葡萄牙5球横扫亚美尼亚，C罗双响，菲利克斯爆发",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8UA9A4D0556DQTV.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:34:59",
+      "event_time": "9月8日 11:28"
+    },
+    {
+      "event_title": "C罗世界杯预选赛个人表现:48场比赛贡献38球14次助攻",
+      "event_id": "event_3",
+      "event_url": "http://weibo.com/7709174731/Q3rAa5Fpq",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:35:01",
+      "event_time": "9月7日 11:58"
+    },
+    {
+      "event_title": "C罗世预赛梅开二度，苏超上座率再破纪录",
+      "event_id": "event_4",
+      "event_url": "http://cj.sina.com.cn/articles/view/5044281310/12ca99fde02002f4t4",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:35:03",
+      "event_time": "9月7日 08:54"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 10,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 11:34:38",
+    "level2_scrape_time": "2025-09-12 11:35:03"
+  }
+}

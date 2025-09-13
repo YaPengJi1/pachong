@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "北方多地气温刷新立秋后新低",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:51:18"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "北方多地气温将刷新立秋后新低",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2994090090350669257",
+      "time": "9月6日 14:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "新一轮降雨无缝衔接 北方多地最低温将创立秋以来新低",
+      "link": "http://china.huanqiu.com/article/4OD9fVImv9U",
+      "time": "9月6日 10:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "北方多地体验“一夜入秋”",
+      "link": "http://baijiahao.baidu.com/s?id=1842431137995725094&wfr=spider&for=pc",
+      "time": "9月5日 21:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "川陕等地大范围降雨持续·中央气象台 华西秋雨已开启 较常年偏早8天",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8970134518696614710",
+      "time": "9月5日 20:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "北方周末夜间降温明显 南方高温短暂收敛",
+      "link": "http://news.cnhubei.com/content/2025-09/05/content_19477803.html",
+      "time": "9月5日 18:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "北方秋凉上线 气温将创新低 南方高温还在破纪录",
+      "link": "http://m.cnhubei.com/content/2025-09/04/content_19475340.html",
+      "time": "9月4日 21:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "中央气象台 受冷空气影响 北方多地降温明显",
+      "link": "http://tv.cctv.com/2025/09/02/VIDEXGBNZSSTHmaazEBCMFKV250902.shtml",
+      "time": "9月2日 16:09",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 20:51:32"
+}

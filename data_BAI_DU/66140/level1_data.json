@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "奥迪Concept C概念车亮相",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:54:29"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "奥迪闪耀慕尼黑车展:Concept C概念车亮相,全球转型加速",
+      "link": "http://baijiahao.baidu.com/s?id=1842966628420552577&wfr=spider&for=pc",
+      "time": "昨天 19:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "奥迪Concept C概念车亮相2025慕尼黑车展",
+      "link": "http://www.eeo.com.cn/2025/0911/752220.shtml",
+      "time": "昨天 15:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "奥迪Concept C概念车亮相",
+      "link": "http://weibo.com/6094672810/Q3DnihtKQ",
+      "time": "9月8日 18:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "奥迪携手意大利创意大师，在米兰启幕“未来设计新纪元”",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31575677",
+      "time": "9月8日 15:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "全新奥迪概念C首次亮相,太帅了",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=18125436100228450493",
+      "time": "9月4日 23:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "奥迪确认:新款 Concept C 跑车量产版将不会推出燃油版本",
+      "link": "http://baijiahao.baidu.com/s?id=1842319369542156459&wfr=spider&for=pc",
+      "time": "9月4日 15:57",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 14:54:43"
+}

@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "尖端武器集中亮相，解密阅兵新锐装备",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:45:18"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "探秘阅兵新锐装备 歼击机梯队:新型空中作战力量集体亮相",
+      "link": "http://tv.cctv.com/2025/09/05/VIDEHm9SsMemqXepdd2R1j8j250905.shtml",
+      "time": "9月5日 07:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "尖端武器集中亮相,解密阅兵新锐装备",
+      "link": "http://baijiahao.baidu.com/s?id=1842375962721411728&wfr=spider&for=pc",
+      "time": "9月5日 06:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "这些受阅武器装备震撼亮相 展现未来作战新趋势",
+      "link": "http://news.china.com/socialgd/10000169/20250904/48791483_1.html",
+      "time": "9月4日 22:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "九三阅兵最强武器亮相",
+      "link": "http://www.163.com/dy/article/K8IRJ2GV055616YB.html",
+      "time": "9月4日 00:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "新武器重磅亮相,体系能力完整展示,自主发展必不可少,强大可期",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10477330732208452992",
+      "time": "9月3日 13:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "新型装备亮相 九三阅兵将实现多个“首次”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13626532442256349083",
+      "time": "9月2日 13:37",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-13 01:45:33"
+}

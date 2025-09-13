@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "华为2025上半年财报",
+    "update_time": "更新至20250902",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:46:31"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "华为果断放弃“高利润”,跌价5000元,三折叠屏售价再创新低",
+      "link": "http://www.163.com/dy/article/K8FF8RML0553TAZH.html",
+      "time": "9月2日 17:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "华为2025上半年财报:收入4270亿元 同比增长3.95%",
+      "link": "http://www.163.com/dy/article/K8CMPCMU055616YU.html",
+      "time": "9月1日 15:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "华为上半年收入4270亿元，净利润371亿元",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4727184755149576768",
+      "time": "8月29日 16:27",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-13 01:46:45"
+}

@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "固态电池市场突破",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:34:44"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "固态电池,新突破",
+      "link": "http://finance.sina.com.cn/stock/marketresearch/2025-09-09/doc-infpvyaq8926023.shtml?froms=bdmp",
+      "time": "9月9日 08:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "固态电池概念突然大爆发",
+      "link": "http://baijiahao.baidu.com/s?id=1842427994378333413&wfr=spider&for=pc",
+      "time": "9月5日 20:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "大面积异动!固态电池爆发",
+      "link": "http://emwap.eastmoney.com/a/202509053505853860.html",
+      "time": "9月5日 15:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "固态电池再度引爆市场",
+      "link": "http://fund.jrj.com.cn/2025/09/05100952938791.shtml",
+      "time": "9月5日 10:09",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 14:34:58"
+}

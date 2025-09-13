@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "金价持续创新高",
+    "update_time": "更新至20250903",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:53:01"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "金价再创新高,而银价今年涨幅超过黄金",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31533509",
+      "time": "9月3日 14:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "金价持续创新高 国际机构仍看涨后市",
+      "link": "http://cj.sina.com.cn/articles/view/1650111241/625ab30901901e7fa",
+      "time": "9月3日 12:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "现货黄金再创新高，机构看高金价至3800美元",
+      "link": "http://finance.sina.cn/2025-09-03/detail-infpemns4702054.d.html",
+      "time": "9月3日 07:47",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-13 01:53:16"
+}

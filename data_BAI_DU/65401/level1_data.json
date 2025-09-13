@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "詹姆斯成都行",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:23:13"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "詹姆斯成都站行程正式开启",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1988334235571108118",
+      "time": "9月5日 19:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "勒布朗·詹姆斯中国行抵达成都，双子塔点亮巨幅海报",
+      "link": "http://news.cnhubei.com/content/2025-09/05/content_19476795.html",
+      "time": "9月5日 11:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "成都双子塔为詹姆斯亮起巨幅灯光秀",
+      "link": "http://m.dongqiudi.com/article/5355413.html",
+      "time": "9月5日 11:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "点亮成都夜空,成都双子塔为詹姆斯亮起巨幅灯光秀",
+      "link": "http://www.dongqiudi.com/articles/5355413.html",
+      "time": "9月5日 11:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "詹姆斯开启中国行,球迷人山人海,勒布朗詹姆斯",
+      "link": "http://www.iqiyi.com/v_1el7noffduk.html",
+      "time": "9月5日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "球迷酒店健身房蹲守詹皇成功",
+      "link": "http://baijiahao.baidu.com/s?id=1842293883701469643&wfr=spider&for=pc",
+      "time": "9月4日 09:12",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 23:23:27"
+}

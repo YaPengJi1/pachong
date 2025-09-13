@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普考虑军事打击委内瑞拉",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:34:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美军登陆战有风险,委内瑞拉又拉出三款中国战车,特朗普真敢动手?",
+      "link": "http://baijiahao.baidu.com/s?id=1842952166069427479&wfr=spider&for=pc",
+      "time": "昨天 15:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "10架F35进驻波多黎各，外媒：特朗普正考虑军事打击委内瑞拉“毒贩”",
+      "link": "http://new.qq.com/rain/a/20250908V081SV00",
+      "time": "9月8日 22:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美军做好准备，特朗普认真权衡，随时准备对委内瑞拉开枪",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8515781107106858977",
+      "time": "9月8日 17:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普:若委内瑞拉战机危及美国则将被击落",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6544321138240887778",
+      "time": "9月8日 15:02",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 14:34:46"
+}

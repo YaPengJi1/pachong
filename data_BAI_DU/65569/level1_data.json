@@ -1,0 +1,92 @@
+{
+  "core_info": {
+    "core_event_name": "日本政坛石破茂危机",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:04:34"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "石破茂被逼宫辞职 日本政坛也陷魔咒",
+      "link": "http://www.163.com/dy/article/K8SUQBP20514EGPO.html",
+      "time": "9月7日 22:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "日本首相石破茂决定辞职前曾遭“逼宫”?细节公布",
+      "link": "http://baijiahao.baidu.com/s?id=1842613244143441420&wfr=spider&for=pc",
+      "time": "9月7日 21:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "日本首相石破茂以“不愿党内分裂”为由,决定辞职",
+      "link": "http://www.163.com/dy/article/K8S2VUHK05345ARG.html",
+      "time": "9月7日 14:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "日本政坛大地震,石破茂豪赌若失败,9月将被逼下台?特殊时刻,俄高官发出警告",
+      "link": "http://baijiahao.baidu.com/s?id=1842491294634910105&wfr=spider&for=pc",
+      "time": "9月6日 13:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "石破茂在退意中观望,自民党继任者未出现",
+      "link": "http://baijiahao.baidu.com/s?id=1842410741236153382&wfr=spider&for=pc",
+      "time": "9月5日 16:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "日本政坛“地震”!美国使坏?反杀美元,或从民间开始",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=404095614272795772",
+      "time": "9月4日 12:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "石破茂大势已去,9月面临罢免危机",
+      "link": "http://cj.sina.com.cn/articles/view/7295052889/1b2d1ac590200187pu",
+      "time": "9月4日 11:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "日本政坛最近掀起了一场不小的风暴",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4533378307439063115",
+      "time": "9月2日 23:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "日本财务大臣加藤胜信:自民党干事长森山裕称他把决定权留给石破",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4695241013195728929",
+      "time": "9月2日 15:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "从日本政坛“三法则”看石破茂政权稳定度",
+      "link": "http://finance.sina.cn/2025-09-01/detail-infnxnsw1580377.d.html",
+      "time": "9月1日 05:25",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 10,
+  "scrape_time": "2025-09-13 02:04:48"
+}

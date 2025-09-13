@@ -1,0 +1,46 @@
+{
+  "core_event_name": "牛市旗手证券ETF吸金近30亿元",
+  "comments": [
+    {
+      "event_title": "“牛市旗手”证券ETF连续5日猛吸金超41亿元",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842314245962841883&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:34:55",
+      "event_time": "9月4日 14:32"
+    },
+    {
+      "event_title": "券商ETF连续5天净流入，A股市场迎来稳步向上新周期",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/5570287027/14c03d5b302001iiiy",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:34:57",
+      "event_time": "9月4日 09:51"
+    },
+    {
+      "event_title": "证券ETF5日吸金近30亿元",
+      "event_id": "event_3",
+      "event_url": "http://m.nbd.com.cn/articles/2025-09-02/4045623.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:34:59",
+      "event_time": "9月2日 09:25"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 17:34:59"
+}

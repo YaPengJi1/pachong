@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "东契奇空砍，芬兰男篮反超",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:47:57"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "斯洛文尼亚全队犯规31次",
+      "link": "http://baijiahao.baidu.com/s?id=1842930157643946660&wfr=spider&for=pc",
+      "time": "昨天 09:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "小瓦轰23+7+4仍无缘今日最佳",
+      "link": "http://baijiahao.baidu.com/s?id=1842924268770880386&wfr=spider&for=pc",
+      "time": "昨天 08:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "东契奇全场砍下39分10板7助",
+      "link": "http://www.dongqiudi.com/articles/5365740.html",
+      "time": "昨天 08:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "东契奇39+10空砍,芬兰17记3分射穿黑马,欧锦赛半决赛对阵揭晓",
+      "link": "http://news.sohu.com/a/933769386_122514691",
+      "time": "昨天 08:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "东契奇撤步三分率队反超 施罗德底角三分迅速回应",
+      "link": "http://sports.sina.cn/nba/other/2025-09-11/detail-infqafyq7080783.d.html",
+      "time": "昨天 03:56",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 09:48:11"
+}

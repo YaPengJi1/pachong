@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "蔚来汽车2025年第二季度盈利情况",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:44:09"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "蔚来发布2025年二季度财报,营收190.1亿元",
+      "link": "http://baijiahao.baidu.com/s?id=1842945834934472905&wfr=spider&for=pc",
+      "time": "昨天 13:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "蔚来二季度营收超190亿",
+      "link": "http://baijiahao.baidu.com/s?id=1842388734851909148&wfr=spider&for=pc",
+      "time": "9月5日 10:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "蔚来2025年第二季度净亏损49.9亿元同比收窄1%",
+      "link": "http://k.sina.cn/article_5952915720_162d2490806702eknw.html",
+      "time": "9月4日 20:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "蔚来汽车业绩喜忧参半，股价反弹缺乏动能",
+      "link": "http://baijiahao.baidu.com/s?id=1842236889476363412&wfr=spider&for=pc",
+      "time": "9月3日 17:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "蔚来上半年营收超300亿元",
+      "link": "http://www.cnenergynews.cn/news/2025/09/03/detail_20250903230996.html",
+      "time": "9月3日 16:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "蔚来二季度营收环比增长57.9% 综合毛利率10.0%",
+      "link": "http://finance.eastmoney.com/a/202509023502505480.html",
+      "time": "9月2日 19:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "蔚来二季度营收190.1亿元,同比增长9%",
+      "link": "http://finance.eastmoney.com/a/202509023502488339.html",
+      "time": "9月2日 18:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "李斌:用户不买蔚来车 30%-40% 因担心倒闭,四季度盈利成关键",
+      "link": "http://www.ithome.com/0/879/228.htm",
+      "time": "8月30日 16:40",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-12 18:44:23"
+}

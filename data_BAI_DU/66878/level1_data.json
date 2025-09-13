@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "A股3800点失而复得",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:57:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "A股缩量上涨成交不足2万亿元",
+      "link": "http://new.qq.com/rain/a/20250910A05GG400",
+      "time": "9月10日 15:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "A股尾盘回暖跌幅收窄:沪指3800点失而复得,黄金股出现炸板潮",
+      "link": "http://news.sohu.com/a/933268427_163278",
+      "time": "9月9日 15:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "3800点重返，成交量却缩了",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_3614071038918092967",
+      "time": "9月8日 12:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "大A再回3800点,4857家红盘",
+      "link": "http://weibo.com/7670371504/Q3bGMcqIe",
+      "time": "9月5日 19:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "缩量5167亿元,A股一度跌破3800点,明天修复阳线来了!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2410196338832163848",
+      "time": "9月4日 09:39",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 10:58:06"
+}

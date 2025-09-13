@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "寒武纪股价暴跌",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:27:10"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "寒武纪登顶后失守",
+      "link": "http://baijiahao.baidu.com/s?id=1842388858729394961&wfr=spider&for=pc",
+      "time": "9月5日 10:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "寒武纪跌超14%,岭南控股涨停",
+      "link": "http://m.hexun.com/stock/2025-09-05/221234528.html",
+      "time": "9月5日 07:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "寒武纪市值日内蒸发超700亿 市场情绪逆转",
+      "link": "http://news.china.com/socialgd/10000169/20250904/48790131.html",
+      "time": "9月4日 15:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "寒武纪股价跌5.27%,农银汇理基金旗下6只基金重仓,合计持有23.89万股浮亏损失1769.88万元",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infphutr1985710.d.html",
+      "time": "9月4日 10:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "芯片股走低 寒武纪跌逾7%",
+      "link": "http://finance.sina.com.cn/roll/2025-09-04/doc-infphutr1975095.shtml",
+      "time": "9月4日 09:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "寒武纪艰难保住红盘,大量科技股出现暴跌",
+      "link": "http://baijiahao.baidu.com/s?id=1842122447867147473&wfr=spider&for=pc",
+      "time": "9月2日 11:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "寒武纪大跌",
+      "link": "http://cj.sina.com.cn/articles/view/5953190035/162d67893019016s50",
+      "time": "9月1日 17:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "A股3200股飘绿,锂电股逆势爆发,半导体大跌,寒武纪跌6%",
+      "link": "http://www.163.com/dy/article/K84JIR8Q05199NPP.html",
+      "time": "8月29日 11:51",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-13 01:27:24"
+}

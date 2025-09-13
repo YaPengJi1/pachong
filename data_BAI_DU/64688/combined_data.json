@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:39:56"
+  },
+  "core_event": {
+    "core_event_name": "美网第四轮焦点战，阿尔卡拉斯创纪录，焦科维奇晋级八强",
+    "update_time": "更新至20250902",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:39:29"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "2025美网男单第四轮:阿尔卡拉斯与德约科维奇携手晋级八强",
+      "link": "http://www.163.com/dy/article/K8G0JJ7F0552JHMJ.html",
+      "time": "9月2日 22:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "阿尼西莫娃横扫晋级，温网决赛后再战斯瓦泰克",
+      "link": "http://app.myzaker.com/news/article.php?m=1756867562&pk=68b65b0c8e9f095caa25ef9d",
+      "time": "9月2日 10:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美网第四轮疯狂!阿尔卡拉斯创最年轻纪录,38 岁德约再破传奇,八强对决有看头?",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5609923280365149394",
+      "time": "9月2日 09:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "德约成公开赛单赛季进四大满贯男单八强 最年长选手",
+      "link": "http://www.dongqiudi.com/articles/5348378.html",
+      "time": "9月1日 18:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美网:焦科维奇晋级男单八强",
+      "link": "http://www.sohu.com/a/930749481_267106",
+      "time": "9月1日 15:45",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "2025美网男单第四轮:阿尔卡拉斯与德约科维奇携手晋级八强",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8G0JJ7F0552JHMJ.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:39:44",
+      "event_time": "9月2日 22:10"
+    },
+    {
+      "event_title": "阿尼西莫娃横扫晋级，温网决赛后再战斯瓦泰克",
+      "event_id": "event_2",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1756867562&pk=68b65b0c8e9f095caa25ef9d",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:39:46",
+      "event_time": "9月2日 10:48"
+    },
+    {
+      "event_title": "美网第四轮疯狂!阿尔卡拉斯创最年轻纪录,38 岁德约再破传奇,八强对决有看头?",
+      "event_id": "event_3",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5609923280365149394",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:39:48",
+      "event_time": "9月2日 09:14"
+    },
+    {
+      "event_title": "德约成公开赛单赛季进四大满贯男单八强 最年长选手",
+      "event_id": "event_4",
+      "event_url": "http://www.dongqiudi.com/articles/5348378.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:39:50",
+      "event_time": "9月1日 18:47"
+    },
+    {
+      "event_title": "美网:焦科维奇晋级男单八强",
+      "event_id": "event_5",
+      "event_url": "http://www.sohu.com/a/930749481_267106",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:39:52",
+      "event_time": "9月1日 15:45"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-13 02:39:43",
+    "level2_scrape_time": "2025-09-13 02:39:52"
+  }
+}

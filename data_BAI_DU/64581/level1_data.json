@@ -1,0 +1,92 @@
+{
+  "core_info": {
+    "core_event_name": "中国稀土股价跌5.11%",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:35:07"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国稀土股价跌5.11%,天弘基金旗下1只基金重仓,持有4.1万股浮亏损失11.97万元",
+      "link": "http://www.163.com/dy/article/K8JS509105568W0A.html",
+      "time": "9月4日 10:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国稀土股价跌5.11%,德邦基金旗下1只基金重仓,持有14.5万股浮亏损失42.34万元",
+      "link": "http://www.163.com/dy/article/K8JS4QR905568W0A.html",
+      "time": "9月4日 10:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国稀土股价跌5.11%,华宝基金旗下2只基金重仓,合计持有109.95万股浮亏损失321.05万元",
+      "link": "http://baijiahao.baidu.com/s?id=1842297433626060667&wfr=spider&for=pc",
+      "time": "9月4日 10:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国稀土股价跌5.11%,嘉实基金旗下3只基金重仓,合计持有466.87万股浮亏损失1363.27万元",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infphutn7050539.d.html",
+      "time": "9月4日 10:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中国稀土股价跌5.11%,诺安基金旗下1只基金重仓,持有57.41万股浮亏损失167.64万元",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infphutn7050525.d.html",
+      "time": "9月4日 10:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "中国稀土股价跌5.11%,工银瑞信基金旗下1只基金重仓,持有49.63万股浮亏损失144.92万元",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infphutr1986771.d.html",
+      "time": "9月4日 10:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "中国稀土股价跌5.11%,广发基金旗下1只基金重仓,持有20.81万股浮亏损失60.77万元",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infphutn7050434.d.html",
+      "time": "9月4日 10:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "中国稀土股价跌5.11%,华泰柏瑞基金旗下1只基金重仓,持有174.63万股浮亏损失509.93万元",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infphutn7050393.d.html",
+      "time": "9月4日 10:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "中国稀土股价跌5.11%,易方达基金旗下1只基金重仓,持有32.71万股浮亏损失95.51万元",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infphutn7050358.d.html",
+      "time": "9月4日 10:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "中国稀土股价跌5.11%,长安基金旗下4只基金重仓,合计持有64.7万股浮亏损失188.91万元",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 10,
+  "scrape_time": "2025-09-13 02:35:21"
+}

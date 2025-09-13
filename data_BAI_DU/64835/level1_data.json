@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "全国劳动模范陈仁桂受邀观礼九三阅兵",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:40:58"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "永春四位军人光荣参加九三阅兵",
+      "link": "http://cj.sina.com.cn/articles/view/1984895831/764f1b57020018fqu",
+      "time": "9月6日 08:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "全国劳动模范陈仁桂受邀观礼九三阅兵",
+      "link": "http://www.gxnews.com.cn/staticpages/20250905/newgx68ba475e-21840797.shtml",
+      "time": "9月5日 10:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "这位江苏应急人,受邀观礼九三阅兵!",
+      "link": "http://cj.sina.com.cn/articles/view/1653603955/628ffe7302001szco",
+      "time": "9月4日 23:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "丁列明副主委受邀观礼九三阅兵",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31542120",
+      "time": "9月4日 17:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "“祥榕,替你在现场观礼九三阅兵,妈妈感到无比自豪!”",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infpifik3493141.d.html",
+      "time": "9月4日 14:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "廖志略受邀参加阅兵观礼",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31537344",
+      "time": "9月3日 21:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "王禹九孙女王欢受邀观礼九三阅兵",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31550020",
+      "time": "9月3日 18:17",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 17:41:12"
+}

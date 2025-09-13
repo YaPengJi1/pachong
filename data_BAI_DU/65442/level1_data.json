@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "马斯克缺席白宫晚宴",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:01:54"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "马斯克缺席白宫晚宴，三大事件揭秘政商关系破裂之谜",
+      "link": "http://www.163.com/dy/article/K8P2ACL50553CXW0.html",
+      "time": "9月6日 16:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美国总统特朗普宴请科技巨头高管 马斯克未出席",
+      "link": "http://tv.cctv.com/2025/09/06/VIDEeliVLxyuOdlUDSL3mIfI250906.shtml",
+      "time": "9月6日 07:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普宴请科技巨头高管 马斯克未出席",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7843627815960585880",
+      "time": "9月5日 14:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普举行白宫科技晚宴 苹果谷歌等科技巨头负责人出席 马斯克缺席",
+      "link": "http://weibo.com/1840881565/Q38cMvpgX",
+      "time": "9月5日 10:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "马斯克将缺席白宫玫瑰园翻新后首场活动",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16595658728249639223",
+      "time": "9月5日 09:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "特朗普在白宫宴请美国科技领袖:扎克伯格、盖茨坐两旁，马斯克称被邀请但不来",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10763296208885563314",
+      "time": "9月5日 08:43",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-13 00:02:08"
+}

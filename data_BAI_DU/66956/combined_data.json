@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:44:36"
+  },
+  "core_event": {
+    "core_event_name": "特朗普关税政策大转向",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:44:12"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美国关税政策大转向!9月8日深夜爆出三大消息席卷全球",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8635509679170281279",
+      "time": "9月9日 02:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特朗普签署新关税命令,全球经济将面临什么冲击?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9380040836329285518",
+      "time": "9月6日 14:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普关税违法,减税照旧",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9648685945822196705",
+      "time": "9月4日 17:08",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "美国关税政策大转向!9月8日深夜爆出三大消息席卷全球",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8635509679170281279",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:44:28",
+      "event_time": "9月9日 02:13"
+    },
+    {
+      "event_title": "特朗普签署新关税命令,全球经济将面临什么冲击?",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9380040836329285518",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:44:30",
+      "event_time": "9月6日 14:43"
+    },
+    {
+      "event_title": "特朗普关税违法,减税照旧",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9648685945822196705",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:44:32",
+      "event_time": "9月4日 17:08"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 10:44:27",
+    "level2_scrape_time": "2025-09-12 10:44:32"
+  }
+}

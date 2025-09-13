@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:51:00"
+  },
+  "core_event": {
+    "core_event_name": "成都蓉城决定弃亚冠保联赛",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:50:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "成都蓉城已明确战略性选择争冠",
+      "link": "http://new.qq.com/rain/a/20250910A03I8400",
+      "time": "9月10日 11:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "成都蓉城俱乐部:重心放在中超联赛,亚冠积累经验",
+      "link": "http://cj.sina.com.cn/articles/view/7880068820/1d5b04ed402001dgbe",
+      "time": "9月9日 10:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "蓉城俱乐部董事长：外界猜测集团会减少对俱乐部的投入大可不必",
+      "link": "http://k.sina.com.cn/article_2018499075_784fda0302002hmza.html",
+      "time": "9月9日 09:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "成都蓉城决定弃亚冠保联赛",
+      "link": "http://news.sohu.com/a/933096616_122300293",
+      "time": "9月9日 08:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "成都蓉城：续约情况会在年底官宣",
+      "link": "http://new.qq.com/rain/a/20250908A05XLA00",
+      "time": "9月8日 16:21",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "成都蓉城已明确战略性选择争冠",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250910A03I8400",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:50:47",
+      "event_time": "9月10日 11:14"
+    },
+    {
+      "event_title": "成都蓉城俱乐部:重心放在中超联赛,亚冠积累经验",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/7880068820/1d5b04ed402001dgbe",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:50:49",
+      "event_time": "9月9日 10:07"
+    },
+    {
+      "event_title": "蓉城俱乐部董事长：外界猜测集团会减少对俱乐部的投入大可不必",
+      "event_id": "event_3",
+      "event_url": "http://k.sina.com.cn/article_2018499075_784fda0302002hmza.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:50:51",
+      "event_time": "9月9日 09:15"
+    },
+    {
+      "event_title": "成都蓉城决定弃亚冠保联赛",
+      "event_id": "event_4",
+      "event_url": "http://news.sohu.com/a/933096616_122300293",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:50:53",
+      "event_time": "9月9日 08:14"
+    },
+    {
+      "event_title": "成都蓉城：续约情况会在年底官宣",
+      "event_id": "event_5",
+      "event_url": "http://new.qq.com/rain/a/20250908A05XLA00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:50:55",
+      "event_time": "9月8日 16:21"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 10:50:46",
+    "level2_scrape_time": "2025-09-12 10:50:55"
+  }
+}

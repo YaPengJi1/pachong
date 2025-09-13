@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "意大利世预赛大胜爱沙尼亚",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:03:23"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "加图索5球暴击揭开新意大利面纱，世界杯有戏了",
+      "link": "http://baijiahao.baidu.com/s?id=1842552222947630596&wfr=spider&for=pc",
+      "time": "9月7日 05:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "莫斯科中央陆军女足4-0大胜喀山红宝石女足",
+      "link": "http://m.dongqiudi.com/article/5357764.html",
+      "time": "9月6日 19:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "意大利世预赛大胜爱沙尼亚 雷特吉双响",
+      "link": "http://www.xinhuanet.com/sports/20250906/54f46899125345b0a267c14148f384fb/c.html",
+      "time": "9月6日 11:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "意大利0-0爱沙尼亚",
+      "link": "http://www.163.com/dy/article/K8OAD98P0549BAP0.html",
+      "time": "9月6日 03:35",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 15:03:38"
+}

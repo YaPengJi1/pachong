@@ -1,0 +1,46 @@
+{
+  "core_event_name": "加沙儿童战争创伤",
+  "comments": [
+    {
+      "event_title": "联合国报告:至少2.1万名加沙儿童因战争致残",
+      "event_id": "event_1",
+      "event_url": "http://www.chinanews.com.cn/gj/2025/09-04/10476614.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:34:07",
+      "event_time": "9月4日 17:26"
+    },
+    {
+      "event_title": "联合国报告:加沙超2万儿童因战争致残,约4万儿童遭受战争创伤",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12600026871235904458",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:34:09",
+      "event_time": "9月4日 14:07"
+    },
+    {
+      "event_title": "受到战争伤害的加沙儿童",
+      "event_id": "event_3",
+      "event_url": "http://www.legaldaily.com.cn/international/content/2025-09/01/content_9247623.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:34:11",
+      "event_time": "9月1日 15:16"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-13 02:34:11"
+}

@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 20:23:05"
+  },
+  "core_event": {
+    "core_event_name": "羽毛球世锦赛石宇奇夺冠",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:22:41"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "羽毛球世锦赛收官，国羽获2金3银，石宇奇圆梦男单冠军",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6113254054573001791",
+      "time": "9月4日 19:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "石宇奇终夺单打世界冠军 国羽男单破10年“冠军荒”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4295461251080813482",
+      "time": "9月1日 22:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "石宇奇登顶世锦赛男单",
+      "link": "http://cj.sina.com.cn/articles/view/2090512390/7c9ab00602002yu4c",
+      "time": "9月1日 22:17",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "羽毛球世锦赛收官，国羽获2金3银，石宇奇圆梦男单冠军",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6113254054573001791",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:22:57",
+      "event_time": "9月4日 19:23"
+    },
+    {
+      "event_title": "石宇奇终夺单打世界冠军 国羽男单破10年“冠军荒”",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4295461251080813482",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:22:59",
+      "event_time": "9月1日 22:53"
+    },
+    {
+      "event_title": "石宇奇登顶世锦赛男单",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/2090512390/7c9ab00602002yu4c",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:23:01",
+      "event_time": "9月1日 22:17"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 20:22:55",
+    "level2_scrape_time": "2025-09-12 20:23:01"
+  }
+}

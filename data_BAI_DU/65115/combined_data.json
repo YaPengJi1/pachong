@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:33:54"
+  },
+  "core_event": {
+    "core_event_name": "申花与成都蓉城对决",
+    "update_time": "更新至20250903",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:33:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "9月申花赛程 最硬核还是跟成都蓉城对决",
+      "link": "http://cj.sina.com.cn/articles/view/2478495117/93bad58d0010150py",
+      "time": "9月3日 22:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "申花主场战蓉城不好踢，届时的策略选择很关键",
+      "link": "http://www.163.com/dy/article/K88AAVDK0529AQIE.html",
+      "time": "8月30日 22:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中超冠军争夺硝烟四起:成都蓉城崛起,申花冠军之路面临考验",
+      "link": "http://www.sohu.com/a/930264758_122387568",
+      "time": "8月30日 21:47",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "9月申花赛程 最硬核还是跟成都蓉城对决",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/2478495117/93bad58d0010150py",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:33:46",
+      "event_time": "9月3日 22:21"
+    },
+    {
+      "event_title": "申花主场战蓉城不好踢，届时的策略选择很关键",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K88AAVDK0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:33:48",
+      "event_time": "8月30日 22:26"
+    },
+    {
+      "event_title": "中超冠军争夺硝烟四起:成都蓉城崛起,申花冠军之路面临考验",
+      "event_id": "event_3",
+      "event_url": "http://www.sohu.com/a/930264758_122387568",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:33:50",
+      "event_time": "8月30日 21:47"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 18:33:44",
+    "level2_scrape_time": "2025-09-12 18:33:50"
+  }
+}

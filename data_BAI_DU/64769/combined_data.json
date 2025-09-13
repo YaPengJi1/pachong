@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:18:40"
+  },
+  "core_event": {
+    "core_event_name": "申京欧锦赛击败约基奇",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:17:42"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "欧锦赛正面击败偶像约基奇 申京告别“小约基奇”成为真正的自己",
+      "link": "http://www.163.com/dy/article/K8MJMAPN0529AQIE.html",
+      "time": "9月5日 11:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "申京欧锦赛大放异彩，力压约基奇",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17088871552575951992",
+      "time": "9月4日 11:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "vs约基奇砍28+13+8!申京小组赛场均轰21.6+9.6+6.8 命中率65.6%",
+      "link": "http://baijiahao.baidu.com/s?id=1842288071181848201&wfr=spider&for=pc",
+      "time": "9月4日 07:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "大小约基奇对决!申京完胜约老师,火箭送走杰伦格林是对的",
+      "link": "http://www.163.com/dy/article/K8JIJPA105566S2A.html",
+      "time": "9月4日 07:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "力压约基奇登顶榜首 申京都欧洲杯的最大惊喜",
+      "link": "http://k.sina.com.cn/article_7880068727_1d5b04e7702002eb4c.html",
+      "time": "9月3日 16:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "FIBA公布欧锦赛MVP投票链接 申京暂领跑 约基奇&字母位列其后",
+      "link": "http://baijiahao.baidu.com/s?id=1842203261008880095&wfr=spider&for=pc",
+      "time": "9月3日 09:11",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "欧锦赛正面击败偶像约基奇 申京告别“小约基奇”成为真正的自己",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8MJMAPN0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:17:58",
+      "event_time": "9月5日 11:39"
+    },
+    {
+      "event_title": "申京欧锦赛大放异彩，力压约基奇",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=17088871552575951992",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:18:00",
+      "event_time": "9月4日 11:49"
+    },
+    {
+      "event_title": "vs约基奇砍28+13+8!申京小组赛场均轰21.6+9.6+6.8 命中率65.6%",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842288071181848201&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "虎虎不吃青菜",
+      "comment_time": "09-04 07:46",
+      "comment_content": "申京这场太猛了，对位约老师也不虚，数据全面带队赢球，真厉害！",
+      "user_location": "吉林",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:18:16",
+      "event_time": "9月4日 07:32"
+    },
+    {
+      "event_title": "大小约基奇对决!申京完胜约老师,火箭送走杰伦格林是对的",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8JIJPA105566S2A.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:18:18",
+      "event_time": "9月4日 07:22"
+    },
+    {
+      "event_title": "力压约基奇登顶榜首 申京都欧洲杯的最大惊喜",
+      "event_id": "event_5",
+      "event_url": "http://k.sina.com.cn/article_7880068727_1d5b04e7702002eb4c.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:18:20",
+      "event_time": "9月3日 16:52"
+    },
+    {
+      "event_title": "FIBA公布欧锦赛MVP投票链接 申京暂领跑 约基奇&字母位列其后",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842203261008880095&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:18:36",
+      "event_time": "9月3日 09:11"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-13 02:17:56",
+    "level2_scrape_time": "2025-09-13 02:18:36"
+  }
+}

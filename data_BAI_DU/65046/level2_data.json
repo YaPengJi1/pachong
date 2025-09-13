@@ -1,0 +1,72 @@
+{
+  "core_event_name": "15号台风“琵琶”生成",
+  "comments": [
+    {
+      "event_title": "台风“琵琶”已登陆日本",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842378100650325808&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "苟一丝",
+      "comment_time": "09-05 07:45",
+      "comment_content": "台风过后，彩虹更美！",
+      "user_location": "河南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:25:34",
+      "event_time": "9月5日 07:20"
+    },
+    {
+      "event_title": "第15号台风“琵琶”生成",
+      "event_id": "event_2",
+      "event_url": "http://m.gmw.cn/toutiao/2025-09/04/content_1304134981.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:25:36",
+      "event_time": "9月4日 13:38"
+    },
+    {
+      "event_title": "今年第15号台风“琵琶”刚刚生成",
+      "event_id": "event_3",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31548787",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:25:38",
+      "event_time": "9月4日 07:24"
+    },
+    {
+      "event_title": "15号台风“琵琶”或将生成",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842168871421038359&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:25:55",
+      "event_time": "9月3日 00:05"
+    },
+    {
+      "event_title": "台风“琵琶”或将生成,严重影响我国?坏消息:暴雨加高温将上线",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8G0IEB1055616YC.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:25:57",
+      "event_time": "9月2日 22:09"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 17:25:57"
+}

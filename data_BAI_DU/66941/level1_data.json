@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "U23亚洲杯：日本横扫缅甸，中国男足狂拦10球",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:25:15"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U22国足0-0澳大利亚，晋级亚洲杯",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7631228490509089385",
+      "time": "9月9日 22:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国队踢了个10:0",
+      "link": "http://m.gmw.cn/toutiao/2025-09/07/content_1304138221.htm",
+      "time": "9月7日 09:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U23亚洲杯刺激一夜:日本横扫缅甸,中国男足狂拦10球",
+      "link": "http://baijiahao.baidu.com/s?id=1842529988555126871&wfr=spider&for=pc",
+      "time": "9月6日 23:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国男足丢尽颜面，踢世界鱼腩进不了球，各种浪费机会",
+      "link": "http://baijiahao.baidu.com/s?id=1842517144881357506&wfr=spider&for=pc",
+      "time": "9月6日 20:21",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 10:25:29"
+}

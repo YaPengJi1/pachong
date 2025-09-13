@@ -1,0 +1,46 @@
+{
+  "core_event_name": "沪深两市成交额连续破万亿",
+  "comments": [
+    {
+      "event_title": "沪深两市成交额突破1.5万亿元",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9379312781740144223",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:18:45",
+      "event_time": "9月9日 13:32"
+    },
+    {
+      "event_title": "沪深两市成交额连续第69个交易日破万亿元",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6649322747895390255",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:18:47",
+      "event_time": "9月2日 10:11"
+    },
+    {
+      "event_title": "沪深两市成交额连续第20个交易日突破1.5万亿元",
+      "event_id": "event_3",
+      "event_url": "http://finance.eastmoney.com/a/202509013500865455.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:18:49",
+      "event_time": "9月1日 10:45"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 23:18:49"
+}

@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 00:12:46"
+  },
+  "core_event": {
+    "core_event_name": "苏超积分榜更新，八强席位争夺白热化",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:12:21"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "苏超战报来了，八强席位争夺白热化",
+      "link": "http://www.xhby.net/content/s68bc520ce4b073aed0a2e327.html",
+      "time": "9月6日 23:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "苏超最新积分:8强定2席",
+      "link": "http://cj.sina.com.cn/articles/view/7880068727/1d5b04e7702002exd2",
+      "time": "9月6日 22:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "苏超积分榜更新",
+      "link": "http://www.163.com/dy/article/K8AU4TN0053469LG.html",
+      "time": "8月31日 22:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "苏超第十轮比赛即将激情上演",
+      "link": "http://i.ifeng.com/c/8mFDMKTBQFw",
+      "time": "8月30日 19:31",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "苏超战报来了，八强席位争夺白热化",
+      "event_id": "event_1",
+      "event_url": "http://www.xhby.net/content/s68bc520ce4b073aed0a2e327.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:12:36",
+      "event_time": "9月6日 23:23"
+    },
+    {
+      "event_title": "苏超最新积分:8强定2席",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/7880068727/1d5b04e7702002exd2",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:12:38",
+      "event_time": "9月6日 22:00"
+    },
+    {
+      "event_title": "苏超积分榜更新",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8AU4TN0053469LG.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:12:40",
+      "event_time": "8月31日 22:51"
+    },
+    {
+      "event_title": "苏超第十轮比赛即将激情上演",
+      "event_id": "event_4",
+      "event_url": "http://i.ifeng.com/c/8mFDMKTBQFw",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:12:42",
+      "event_time": "8月30日 19:31"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-13 00:12:35",
+    "level2_scrape_time": "2025-09-13 00:12:42"
+  }
+}

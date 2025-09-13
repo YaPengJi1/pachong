@@ -1,0 +1,98 @@
+{
+  "core_event_name": "电影《731》上映及预告片争议",
+  "comments": [
+    {
+      "event_title": "《731》上映未删减版!网友看完预告直接愤怒,尺度大到无法截图",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842936539664952412&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:10:05",
+      "event_time": "昨天 11:27"
+    },
+    {
+      "event_title": "电影《731》预告片被怒批",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842923672985042184&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:10:20",
+      "event_time": "昨天 08:05"
+    },
+    {
+      "event_title": "《731》发布人物海报 以血色印记揭开尘封历史",
+      "event_id": "event_3",
+      "event_url": "http://ent.dzwww.com/dy/202509/t20250908_16442897.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:10:22",
+      "event_time": "9月8日 16:32"
+    },
+    {
+      "event_title": "《731》即将上映",
+      "event_id": "event_4",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31553312",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:10:24",
+      "event_time": "9月6日 18:21"
+    },
+    {
+      "event_title": "731发布人物海报，揭露侵华日军细菌战罪行",
+      "event_id": "event_5",
+      "event_url": "http://dcdv.zol.com.cn/1042/10421187.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:10:26",
+      "event_time": "9月6日 16:40"
+    },
+    {
+      "event_title": "电影《731》勿忘版预告曝光",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842395799883751117&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:10:42",
+      "event_time": "9月5日 12:12"
+    },
+    {
+      "event_title": "电影《731》发行通知出炉!9月18日上映,片长125分钟",
+      "event_id": "event_7",
+      "event_url": "http://www.gxnews.com.cn/staticpages/20250904/newgx68b96489-21840616.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:10:44",
+      "event_time": "9月4日 18:06"
+    }
+  ],
+  "total_comments": 7,
+  "scrape_time": "2025-09-12 10:10:44"
+}

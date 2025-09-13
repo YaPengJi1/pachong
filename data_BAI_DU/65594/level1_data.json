@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "足协选帅事件",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:30:20"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国足选帅“外教优先”：是破局良药还是饮鸩止渴？",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5357743369383594709",
+      "time": "9月6日 07:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "足协选帅七条硬杠杠曝光，穆里尼奥意外成热门",
+      "link": "http://baijiahao.baidu.com/s?id=1842435574388369626&wfr=spider&for=pc",
+      "time": "9月5日 22:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国足公开选帅，目标打进2030世界杯",
+      "link": "http://baijiahao.baidu.com/s?id=1842433972155987792&wfr=spider&for=pc",
+      "time": "9月5日 18:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "足协公开选聘国足主教练",
+      "link": "http://baijiahao.baidu.com/s?id=1842408279691857755&wfr=spider&for=pc",
+      "time": "9月5日 15:30",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 02:30:35"
+}

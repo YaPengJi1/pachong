@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "智己LS6首发，20万价位市场",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:15:45"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "智己LS6全国发运中，9月10日上市预售20.99万起",
+      "link": "http://www.d1ev.com/newsflash/274126",
+      "time": "9月4日 13:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "新一代智己 LS6 车型 9 月 10 日上市",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b923a08e9f09418767b07b",
+      "time": "9月4日 13:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "智己LS6首发 450km续航",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4466671697034219111",
+      "time": "9月4日 11:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "曝全新智己LS6订单破5万:为保客户交付 内部已通知员工推迟提车日期",
+      "link": "http://finance.sina.com.cn/tech/roll/2025-09-03/doc-infpewap2870937.shtml",
+      "time": "9月3日 14:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "DoNews汽车直击2025成都车展-智己LS6展台",
+      "link": "http://www.donews.com/news/detail/7/6025634.html",
+      "time": "8月29日 17:12",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 02:15:59"
+}

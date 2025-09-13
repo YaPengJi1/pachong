@@ -1,0 +1,59 @@
+{
+  "core_event_name": "港股IPO申请超200宗",
+  "comments": [
+    {
+      "event_title": "港交所新股融资总额达1296亿港元",
+      "event_id": "event_1",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5213259888083658790",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:22:29",
+      "event_time": "9月8日 21:41"
+    },
+    {
+      "event_title": "香港交易所集团行政总裁:港股市场IPO热度仍将持续",
+      "event_id": "event_2",
+      "event_url": "http://finance.eastmoney.com/a/202509083506942981.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:22:31",
+      "event_time": "9月8日 02:22"
+    },
+    {
+      "event_title": "港交所行政总裁陈翊庭:港股IPO申请超200宗 近半为科技企业",
+      "event_id": "event_3",
+      "event_url": "http://www.cnstock.com/commonDetail/516270",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:22:33",
+      "event_time": "9月6日 07:36"
+    },
+    {
+      "event_title": "港交所前8个月IPO集资额激增579% “A+H”模式成新热潮",
+      "event_id": "event_4",
+      "event_url": "http://tv.cctv.com/2025/09/05/VIDELcifnUKWkFzGa3relGhL250905.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:22:35",
+      "event_time": "9月5日 21:03"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 12:22:35"
+}

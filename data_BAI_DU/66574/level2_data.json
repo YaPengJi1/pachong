@@ -1,0 +1,45 @@
+{
+  "core_event_name": "巴西总统卢拉表态加勒比地区存在紧张局势",
+  "comments": [
+    {
+      "event_title": "巴西总统卢拉:金砖国家可以引领多边贸易体系革新。",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-08/detail-infpvaxa5894232.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:19:43",
+      "event_time": "9月8日 22:25"
+    },
+    {
+      "event_title": "巴西总统卢拉:加勒比地区的武装部队存在是紧张局势的根源。",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-08/detail-infpvaxh1159648.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:19:45",
+      "event_time": "9月8日 22:22"
+    },
+    {
+      "event_title": "卢拉强硬表态",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842585866234034257&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "umxCdZTs",
+      "comment_time": "09-07 14:40",
+      "comment_content": "巴西人民当家做主，硬气！",
+      "user_location": "陕西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:20:03"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 12:20:03"
+}

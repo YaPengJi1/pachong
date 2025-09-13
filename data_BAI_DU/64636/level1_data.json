@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "纪念中国人民抗日战争暨世界反法西斯战争胜利",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:46:06"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "习近平总书记在纪念中国人民抗日战争暨世界反法西斯战争胜利",
+      "link": "http://weibo.com/tv/show/1034:5207279619211320",
+      "time": "9月4日 22:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "纪念中国人民抗日战争暨世界反法西斯战争胜利80周年",
+      "link": "http://weibo.com/1534691962/Q2YqneCgO",
+      "time": "9月4日 09:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "习近平在纪念反法西斯战争胜利大会上的讲话",
+      "link": "http://www.chinalaw.org.cn/index.php/portal/article/index/id/35795/cid/991061.html",
+      "time": "9月4日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "[纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会]分列式 联勤保障部队方队",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10111310231372140921",
+      "time": "9月3日 10:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "[纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会]分列式 民兵方队",
+      "link": "http://tv.cctv.com/2025/09/03/VIDEl3eJwBxa5WO4FxlQ3b5p250903.shtml",
+      "time": "9月3日 10:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "深刻铭记抗战历史 赓续正义和平薪火",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-13 01:46:21"
+}

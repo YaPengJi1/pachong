@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 15:00:46"
+  },
+  "core_event": {
+    "core_event_name": "日本首相石破茂下台",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:59:51"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "石破茂下台,日本再现“走马灯”换相 下一任首相会是谁?",
+      "link": "http://baijiahao.baidu.com/s?id=1842664992278213351&wfr=spider&for=pc",
+      "time": "9月8日 11:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "石破茂后,谁接任日本首相",
+      "link": "http://baijiahao.baidu.com/s?id=1842622525419820075&wfr=spider&for=pc",
+      "time": "9月8日 00:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "岌岌可危,日本首相石破茂进入“下台倒计时”",
+      "link": "http://www.163.com/dy/article/K8RJOPLC0556DXWD.html",
+      "time": "9月7日 10:21",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "石破茂下台,日本再现“走马灯”换相 下一任首相会是谁?",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842664992278213351&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:00:24",
+      "event_time": "9月8日 11:29"
+    },
+    {
+      "event_title": "石破茂后,谁接任日本首相",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842622525419820075&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:00:40",
+      "event_time": "9月8日 00:14"
+    },
+    {
+      "event_title": "岌岌可危,日本首相石破茂进入“下台倒计时”",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8RJOPLC0556DXWD.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:00:42",
+      "event_time": "9月7日 10:21"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 15:00:05",
+    "level2_scrape_time": "2025-09-12 15:00:42"
+  }
+}

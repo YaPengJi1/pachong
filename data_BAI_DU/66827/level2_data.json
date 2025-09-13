@@ -1,0 +1,59 @@
+{
+  "core_event_name": "特朗普政府关税案",
+  "comments": [
+    {
+      "event_title": "美国最高法院加快审理“特朗普政府关税案”",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.cn/2025-09-10/detail-infpzkvf9313279.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:09:42",
+      "event_time": "9月10日 20:40"
+    },
+    {
+      "event_title": "美国法院裁定“特朗普关税”违法,特朗普扬言“美国将陷入灾难”",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5855587855203525122",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:09:44",
+      "event_time": "9月7日 06:02"
+    },
+    {
+      "event_title": "特朗普：坚决上诉，美国输不起",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11095310344958438002",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:09:46",
+      "event_time": "9月4日 16:48"
+    },
+    {
+      "event_title": "法院裁定关税违法!特朗普:美国将走向毁灭 军事力量会荡然无存",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=16940197513719639019",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:09:48",
+      "event_time": "9月1日 16:04"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 10:09:48"
+}

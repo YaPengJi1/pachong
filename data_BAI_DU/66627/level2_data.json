@@ -1,0 +1,45 @@
+{
+  "core_event_name": "申花九月魔鬼赛程",
+  "comments": [
+    {
+      "event_title": "成都蓉城才是魔鬼赛程2主3客",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/2478495117/93bad58d0010155iy",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:12:58",
+      "event_time": "9月8日 21:37"
+    },
+    {
+      "event_title": "申花九月魔鬼赛程 联赛跟亚冠总得选择一个 如全要可能就四大皆空",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/2478495117/93bad58d0010153ly",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:13:00",
+      "event_time": "9月6日 22:02"
+    },
+    {
+      "event_title": "9月魔鬼赛程 申花战山东好消息吴曦是带球训练 坏消息天意缺席",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842437514998342418&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "千舟游泳课",
+      "comment_time": "09-05 23:44",
+      "comment_content": "吴曦训练回归好消息，申花进攻有盼头了。高天意缺席小遗憾，相信球队能顶住魔鬼赛程挑战。",
+      "user_location": "安徽",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 10:13:17"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 10:13:17"
+}

@@ -1,0 +1,59 @@
+{
+  "core_event_name": "iPhone 17 Air国行曝光",
+  "comments": [
+    {
+      "event_title": "iPhone 17终极爆料",
+      "event_id": "event_1",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1757174418&pk=68bc59d98e9f09117a2ee56b",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:29:30",
+      "event_time": "9月6日 23:30"
+    },
+    {
+      "event_title": "因国内eSIM应用受阻,iPhone 17 Air首发或无国行版",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842516404487559236&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "Uzi在朗读",
+      "comment_time": "09-06 23:24",
+      "comment_content": "希望eSIM问题尽快解决，iPhone 17 Air的轻薄设计很赞。耐心等它上市吧。",
+      "user_location": "吉林",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:29:46",
+      "event_time": "9月6日 20:09"
+    },
+    {
+      "event_title": "iPhone 17 Air国行曝光",
+      "event_id": "event_3",
+      "event_url": "http://mobile.zol.com.cn/1041/10413274_all.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:29:48",
+      "event_time": "9月4日 17:38"
+    },
+    {
+      "event_title": "曝中国联通已下发通知 对苹果eSIM进行业务支撑",
+      "event_id": "event_4",
+      "event_url": "http://news.mydrivers.com/1/1072/1072093.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:29:50",
+      "event_time": "9月3日 00:25"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 22:29:50"
+}

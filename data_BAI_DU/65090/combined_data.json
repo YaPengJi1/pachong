@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:07:33"
+  },
+  "core_event": {
+    "core_event_name": "券商半年报投行格局",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:07:03"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "券商半年报投行格局:中信证券收入领跑,国泰海通承销额登顶",
+      "link": "http://www.sohu.com/a/932217652_161795",
+      "time": "9月5日 16:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "上半年业绩亮眼 机构看好券商板块长期投资价值",
+      "link": "http://www.cs.com.cn/tzjj/etf/202509/t20250904_6510857.html",
+      "time": "9月4日 18:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "券商上半年度利润超过1122亿元",
+      "link": "http://www.163.com/dy/article/K8ILUI8I0556FZU3.html",
+      "time": "9月3日 23:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "机构称A股下一阶段或震荡上行,券商ETF规模再创历史新高",
+      "link": "http://www.163.com/dy/article/K8EM2RAU0512B07B.html",
+      "time": "9月2日 09:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "上市券商半年业绩“超预期”",
+      "link": "http://cj.sina.com.cn/articles/view/5182171545/134e1a999020027l3u",
+      "time": "9月1日 13:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "多家券商上半年业绩亮眼!券商ETF一度涨近1%,本月吸金逾12亿元",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "券商半年报投行格局:中信证券收入领跑,国泰海通承销额登顶",
+      "event_id": "event_1",
+      "event_url": "http://www.sohu.com/a/932217652_161795",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:07:18",
+      "event_time": "9月5日 16:40"
+    },
+    {
+      "event_title": "上半年业绩亮眼 机构看好券商板块长期投资价值",
+      "event_id": "event_2",
+      "event_url": "http://www.cs.com.cn/tzjj/etf/202509/t20250904_6510857.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:07:20",
+      "event_time": "9月4日 18:27"
+    },
+    {
+      "event_title": "券商上半年度利润超过1122亿元",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8ILUI8I0556FZU3.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:07:22",
+      "event_time": "9月3日 23:01"
+    },
+    {
+      "event_title": "机构称A股下一阶段或震荡上行,券商ETF规模再创历史新高",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8EM2RAU0512B07B.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:07:24",
+      "event_time": "9月2日 09:47"
+    },
+    {
+      "event_title": "上市券商半年业绩“超预期”",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/5182171545/134e1a999020027l3u",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:07:26",
+      "event_time": "9月1日 13:54"
+    },
+    {
+      "event_title": "多家券商上半年业绩亮眼!券商ETF一度涨近1%,本月吸金逾12亿元",
+      "event_id": "event_6",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:07:28",
+      "event_time": "1970年"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 18:07:17",
+    "level2_scrape_time": "2025-09-12 18:07:28"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "梅西追平C罗，世预赛第36球",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:30:48"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "梅西世界杯预选赛个人表现:72场比赛贡献36球14次助攻",
+      "link": "http://www.dongqiudi.com/articles/5359025.html",
+      "time": "9月7日 11:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "梅西世预赛36球分布:玻利维亚7球+委内瑞拉6球 仅剩巴西还没攻破",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hkae",
+      "time": "9月7日 09:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "足球——世预赛:阿根廷队胜委内瑞拉队",
+      "link": "http://www.xinhuanet.com/sports/20250906/6ca096bb89fd443e83617b7d618cb463/c.html",
+      "time": "9月6日 08:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "梅西打入生涯世预赛第36球,追平C罗成历史第二",
+      "link": "http://weibo.com/6076885743/Q3aXlzxDB",
+      "time": "9月5日 17:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "小蜘蛛谈助攻梅西:我本想射门,看到他过来就传给了他",
+      "link": "http://www.dongqiudi.com/articles/5355476.html",
+      "time": "9月5日 12:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "劳塔罗:我非常感谢梅西为阿根廷国家队和足球所做的一切",
+      "link": "http://m.dongqiudi.com/article/5355247.html",
+      "time": "9月5日 10:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "梅开二度!梅西世预赛最后一个主场,阿根廷大胜委内瑞拉",
+      "link": "http://baijiahao.baidu.com/s?id=1842386628739462098&wfr=spider&for=pc",
+      "time": "9月5日 09:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "南美世预赛实时射手榜:梅西7球与迪亚斯并列第一",
+      "link": "http://news.sohu.com/a/932027440_362070",
+      "time": "9月5日 08:38",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-13 00:31:02"
+}

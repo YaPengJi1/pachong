@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:38:05"
+  },
+  "core_event": {
+    "core_event_name": "澳洲7月贸易顺差飙升",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:37:13"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "澳洲7月贸易顺差飙至18个月新高",
+      "link": "http://baijiahao.baidu.com/s?id=1842378421061845699&wfr=spider&for=pc",
+      "time": "9月5日 07:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "7月澳大利亚外贸顺差增加19.44亿澳元",
+      "link": "http://baijiahao.baidu.com/s?id=1842302886869101100&wfr=spider&for=pc",
+      "time": "9月4日 11:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "2025年7月澳大利亚外贸顺差增加19.44亿澳元",
+      "link": "http://finance.sina.com.cn/money/bond/2025-09-04/doc-infphutr2000876.shtml",
+      "time": "9月4日 10:16",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "澳洲7月贸易顺差飙至18个月新高",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842378421061845699&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:37:43",
+      "event_time": "9月5日 07:36"
+    },
+    {
+      "event_title": "7月澳大利亚外贸顺差增加19.44亿澳元",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842302886869101100&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "法师小熏熏",
+      "comment_time": "09-04 11:41",
+      "comment_content": "澳大利亚这顺差涨19亿，但矿价波动大就惨了。出口靠铁矿石支撑太重，全球需求一降顺差就得凉，数据看着美实际不稳当。",
+      "user_location": "湖南",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:37:59",
+      "event_time": "9月4日 11:33"
+    },
+    {
+      "event_title": "2025年7月澳大利亚外贸顺差增加19.44亿澳元",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.com.cn/money/bond/2025-09-04/doc-infphutr2000876.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:38:01",
+      "event_time": "9月4日 10:16"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-13 02:37:27",
+    "level2_scrape_time": "2025-09-13 02:38:01"
+  }
+}

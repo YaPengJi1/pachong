@@ -1,0 +1,100 @@
+{
+  "core_info": {
+    "core_event_name": "零跑汽车连续6个月稳坐新势力第一",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:13:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "新势力8月销量出炉 零跑卫冕销量冠军",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9974909143588477618",
+      "time": "9月6日 10:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "零跑B01万台交付 B10新色登场",
+      "link": "http://www.pcauto.com.cn/ask/3886592.html",
+      "time": "9月6日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "8月造车新势力榜:零跑上位 小鹏渐进 蔚来爆单 理想转型",
+      "link": "http://www.163.com/dy/article/K8K67R4B0527EF7D.html",
+      "time": "9月4日 13:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "造车新势力8月成绩单出炉 零跑汽车“拔得头筹”",
+      "link": "http://finance.eastmoney.com/a/202509043503870059.html",
+      "time": "9月4日 03:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "新造车8月成绩单:零跑继续领跑",
+      "link": "http://finance.sina.cn/2025-09-03/detail-infpcuqy5051363.d.html",
+      "time": "9月3日 00:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "零跑B10&B01双星闪耀成都车展",
+      "link": "http://www.pcauto.com.cn/hj/article/3046658.html",
+      "time": "9月2日 20:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "“半价理想”零跑持续霸榜",
+      "link": "http://k.sina.cn/article_5633622886_14fca4366027011vci.html",
+      "time": "9月2日 12:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "零跑汽车再次遥遥领先，新势力8月销量成绩出炉",
+      "link": "http://baijiahao.baidu.com/s?id=1842119641085654690&wfr=spider&for=pc",
+      "time": "9月2日 11:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "新势力8月成绩单“新鲜出炉”:零跑5.7万辆登顶,创历史新高!小鹏、蔚来、小米激战“3万辆俱乐部”",
+      "link": "http://m.nbd.com.cn/articles/2025-09-01/4045446.html",
+      "time": "9月1日 23:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "月销逼近六万,零跑还要加码,官宣新车不到10万买激光雷达",
+      "link": "http://baijiahao.baidu.com/s?id=1842048615697310111&wfr=spider&for=pc",
+      "time": "9月1日 16:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "零跑8月交付57066辆再创新高",
+      "link": "http://baijiahao.baidu.com/s?id=1842044400881680700&wfr=spider&for=pc",
+      "time": "9月1日 10:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 11,
+  "scrape_time": "2025-09-12 18:13:44"
+}

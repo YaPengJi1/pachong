@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "萨巴伦卡连胜晋级美网四强",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:40:20"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美网疯狂逆转!卫冕亚军1:2被淘汰,黑马勇闯决赛,萨巴伦卡惊险",
+      "link": "http://baijiahao.baidu.com/s?id=1842419531949835968&wfr=spider&for=pc",
+      "time": "9月5日 18:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美网女单四强出炉:卫冕冠军萨巴伦卡领衔,大坂直美重回巅峰",
+      "link": "http://cj.sina.com.cn/articles/view/7880068727/1d5b04e7702002ef0a",
+      "time": "9月4日 09:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "万卓索娃退赛 萨巴伦卡进美网四强",
+      "link": "http://www.titan24.com/literalLive/2025/09/03/567867/os_quick.html",
+      "time": "9月3日 08:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美网赛场冷门频出:两位大满贯得主与四名种子选手遭淘汰,萨巴伦卡艰难过关",
+      "link": "http://baijiahao.baidu.com/s?id=1841897109039188122&wfr=spider&for=pc",
+      "time": "8月31日 00:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美网:世界第一萨巴伦卡2-0复仇前赛会亚军 十连胜连5年进16强",
+      "link": "http://k.sina.com.cn/article_5664305023_1519e6f7f00101tm40.html",
+      "time": "8月30日 14:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "萨巴伦卡创纪录,抢七18连胜,连续三场2-0,冠军稳了",
+      "link": "http://www.sohu.com/a/930092296_100205777",
+      "time": "8月30日 09:44",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 17:40:34"
+}

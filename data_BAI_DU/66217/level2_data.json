@@ -1,0 +1,85 @@
+{
+  "core_event_name": "姚明中国篮协主席郭振明",
+  "comments": [
+    {
+      "event_title": "篮协主席:姚明之前做了大量扎实基础工作,到我接手已问题不大",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842639627243647330&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "北极以北818",
+      "comment_time": "09-08 11:50",
+      "comment_content": "姚明不会为了钱当篮协主席",
+      "user_location": "北京",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:40:28",
+      "event_time": "9月8日 04:48"
+    },
+    {
+      "event_title": "篮协主席:姚明之前做了大量扎实基础工作,到我接手已问题不大",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842639627243647330&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "龙立马",
+      "comment_time": "09-08 20:31",
+      "comment_content": "姚明不缺钱，所以做的工作都是纯粹的为了篮球，为了中国篮球的现在以及未来！",
+      "user_location": "江苏",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:40:28",
+      "event_time": "9月8日 04:48"
+    },
+    {
+      "event_title": "中国篮协主席郭振明接受央视专访",
+      "event_id": "event_2",
+      "event_url": "http://weibo.com/1870056321/Q3st6vpFx",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:40:31",
+      "event_time": "9月7日 14:14"
+    },
+    {
+      "event_title": "篮协主席郭振明：我和姚明一直保持联系，他为中国篮球发展做了基础性工作",
+      "event_id": "event_3",
+      "event_url": "http://m.dongqiudi.com/article/5359179.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:40:33",
+      "event_time": "9月7日 13:39"
+    },
+    {
+      "event_title": "郭振明：国家队在国际赛场表现 是衡量中国篮协重要维度但非全部",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8Q0GN9U0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:40:35",
+      "event_time": "9月6日 19:21"
+    },
+    {
+      "event_title": "郭振明：我现在跟姚明仍保持联系，部分重要决策也会咨询他的意见",
+      "event_id": "event_5",
+      "event_url": "http://k.sina.com.cn/article_7880068681_1d5b04e4902001tbwy.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:40:37",
+      "event_time": "9月6日 19:02"
+    }
+  ],
+  "total_comments": 6,
+  "scrape_time": "2025-09-12 14:40:37"
+}

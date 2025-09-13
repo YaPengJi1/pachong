@@ -1,0 +1,46 @@
+{
+  "core_event_name": "石破茂首相政治生涯终结",
+  "comments": [
+    {
+      "event_title": "石破茂面临空前重压,政治生涯恐将终结",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=1277334868815079989",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:48:32",
+      "event_time": "9月9日 14:25"
+    },
+    {
+      "event_title": "日本首相石破茂:令人遗憾的是,自民党仍未消除民众的疑虑",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-07/detail-infpsiaf5326651.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:48:34",
+      "event_time": "9月7日 17:23"
+    },
+    {
+      "event_title": "石破茂在退意中观望,自民党继任者未出现",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842410741236153382&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:48:50",
+      "event_time": "9月5日 16:09"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 09:48:50"
+}

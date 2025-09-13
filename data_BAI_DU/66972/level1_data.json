@@ -1,0 +1,116 @@
+{
+  "core_info": {
+    "core_event_name": "WTT澳门冠军赛林诗栋、王楚钦晋级",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:55:28"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国乒首位世界冠军爆冷出局，对方跪地庆祝，如同夺冠",
+      "link": "http://cj.sina.com.cn/articles/view/2834321443/a8f0502300101mmu8",
+      "time": "昨天 20:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "WTT澳门站第二日:国乒男队警报拉响!2大将先后出局,世界第9爆冷淘汰",
+      "link": "http://new.qq.com/rain/a/20250911A01GLM00",
+      "time": "昨天 07:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "澳门冠军赛冷门!世界冠军0-3淘汰,日韩遭遇滑铁卢",
+      "link": "http://new.qq.com/omn/20250910/20250910A08EIR00.html",
+      "time": "9月10日 20:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "世乒联冠军赛澳门站 林诗栋晋级男单16强",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7450525105845167382",
+      "time": "9月10日 15:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "9月10日澳门冠军赛丹麦猛将淘汰日本名将",
+      "link": "http://new.qq.com/rain/a/20250910A04U1Z00",
+      "time": "9月10日 14:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "WTT澳门冠军赛林诗栋、王楚钦晋级,王艺迪速胜",
+      "link": "http://baijiahao.baidu.com/s?id=1842849123506814501&wfr=spider&for=pc",
+      "time": "9月10日 09:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "国际乒联第37周男单世界排名:林诗栋榜首,周启豪上升六位",
+      "link": "http://new.qq.com/rain/a/20250909V09GMG00",
+      "time": "9月9日 23:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "WTT澳门冠军赛:王楚钦、林诗栋晋级16强",
+      "link": "http://www.ctdsb.net/c1476_202509/2532449.html",
+      "time": "9月9日 21:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "世乒联冠军赛澳门站开赛 林诗栋首轮轻松过关",
+      "link": "http://tv.cctv.com/2025/09/09/VIDEb68EjaUi3NNFv5snQJco250909.shtml",
+      "time": "9月9日 18:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "林诗栋3-0轻取高承睿,澳门冠军赛迎开门红",
+      "link": "http://baijiahao.baidu.com/s?id=1842771424373371774&wfr=spider&for=pc",
+      "time": "9月9日 15:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "林诗栋出席WTT澳门抽签，孙颖莎缺席，国乒阵容再受考验",
+      "link": "http://www.163.com/dy/article/K8U7SJ7S0556DPI3.html",
+      "time": "9月8日 10:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "WTT澳门冠军赛签表出炉，孙颖莎对战赫尔希，王楚钦独守下半区",
+      "link": "http://baijiahao.baidu.com/s?id=1842597992958490868&wfr=spider&for=pc",
+      "time": "9月7日 17:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "林诗栋王楚钦澳门冠军赛会师",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16991639009609723529",
+      "time": "9月5日 15:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 13,
+  "scrape_time": "2025-09-12 10:55:42"
+}

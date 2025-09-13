@@ -1,0 +1,446 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:34:05"
+  },
+  "core_event": {
+    "core_event_name": "罕见月全食将上演",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:31:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "“红月亮”现身 全球多地上演月全食景观",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8566720350479522866",
+      "time": "9月8日 14:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "全球多地天宇上演壮观月全食",
+      "link": "http://baijiahao.baidu.com/s?id=1842656497678129584&wfr=spider&for=pc",
+      "time": "9月8日 09:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "魔都眼|东方明珠 X 血月:月全食惊艳登场",
+      "link": "http://baijiahao.baidu.com/s?id=1842653383481926850&wfr=spider&for=pc",
+      "time": "9月8日 08:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "今晚月全食上演,红月闪耀夜空",
+      "link": "http://cj.sina.com.cn/articles/view/2327169883/p8ab5cb5b02701guym",
+      "time": "9月8日 02:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "月全食+“红月亮”记录月亮“变脸”全过程",
+      "link": "http://baijiahao.baidu.com/s?id=1842623813699624744&wfr=spider&for=pc",
+      "time": "9月8日 00:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "罕见天象“月全食”即将上演 时隔三年再现夜空",
+      "link": "http://news.china.com/socialgd/10000169/20250907/48798488.html",
+      "time": "9月7日 19:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "我国今年境内唯一全程肉眼可见的月全食",
+      "link": "http://www.ithome.com/0/881/082.htm",
+      "time": "9月7日 19:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "错过今晚夜空将现“红月亮”",
+      "link": "http://baijiahao.baidu.com/s?id=1842613260750589496&wfr=spider&for=pc",
+      "time": "9月7日 19:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "专家:俗称“血月”易引误解,系月全食",
+      "link": "http://baijiahao.baidu.com/s?id=1842603336616532165&wfr=spider&for=pc",
+      "time": "9月7日 19:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "月全食将现身天宇",
+      "link": "http://tv.cctv.com/2025/09/07/VIDELjTlt7dNxSNoJjzTDonm250907.shtml",
+      "time": "9月7日 17:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "月全食奇观今夜上演",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31559227",
+      "time": "9月7日 15:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "罕见月全食将现身",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31566623",
+      "time": "9月7日 14:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "年度重磅天象“红月亮”今晚上演:肉眼、手机都能观测",
+      "link": "http://news.mydrivers.com/1/1072/1072955.htm",
+      "time": "9月7日 10:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "9月 7 日至 8 日将迎来“血月”月全食，地球把月亮染红 82 分钟",
+      "link": "http://app.myzaker.com/news/article.php?v=1.0&pk=68bc0df88e9f0927a42afdec",
+      "time": "9月6日 18:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "今年最重磅天象月全食将于9月7日午夜至8日凌晨上演",
+      "link": "http://baijiahao.baidu.com/s?id=1842556258738638991&wfr=spider&for=pc",
+      "time": "9月6日 17:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "浙江人这天一定要抬头看!将持续82分钟",
+      "link": "http://m.gmw.cn/toutiao/2025-09/06/content_1304137541.htm",
+      "time": "9月6日 14:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "我国今年境内唯一一次全程肉眼可见的月全食 9 月 8 日凌晨上演",
+      "link": "http://baijiahao.baidu.com/s?id=1842053612865333093&wfr=spider&for=pc",
+      "time": "9月1日 17:33",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "“红月亮”现身 全球多地上演月全食景观",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8566720350479522866",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:31:48",
+      "event_time": "9月8日 14:04"
+    },
+    {
+      "event_title": "全球多地天宇上演壮观月全食",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842656497678129584&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "小爱爱吃冰淇淋",
+      "comment_time": "09-08 09:32",
+      "comment_content": "这个视角很独特👍",
+      "user_location": "内蒙古",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:32:05",
+      "event_time": "9月8日 09:15"
+    },
+    {
+      "event_title": "魔都眼|东方明珠 X 血月:月全食惊艳登场",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842653383481926850&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "深蓝不吃西红柿",
+      "comment_time": "09-09 14:23",
+      "comment_content": "血月掠过东方明珠真惊艳，爱好者们执着捕捉，画面太珍贵了。",
+      "user_location": "吉林",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:32:24",
+      "event_time": "9月8日 08:25"
+    },
+    {
+      "event_title": "今晚月全食上演,红月闪耀夜空",
+      "event_id": "event_4",
+      "event_url": "http://cj.sina.com.cn/articles/view/2327169883/p8ab5cb5b02701guym",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:32:26",
+      "event_time": "9月8日 02:14"
+    },
+    {
+      "event_title": "月全食+“红月亮”记录月亮“变脸”全过程",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842623813699624744&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "红外加热",
+      "comment_time": "09-08 08:27",
+      "comment_content": "刚好台风下雨，看不到，可惜了",
+      "user_location": "广东",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 14:32:42",
+      "event_time": "9月8日 00:36"
+    },
+    {
+      "event_title": "月全食+“红月亮”记录月亮“变脸”全过程",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842623813699624744&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "泡泡喜欢唱Song",
+      "comment_time": "09-08 01:01",
+      "comment_content": "拍红月亮太难了，月球公转速度快，手动跟踪必模糊。专业赤道仪才能定格细节。",
+      "user_location": "浙江",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 14:32:42",
+      "event_time": "9月8日 00:36"
+    },
+    {
+      "event_title": "月全食+“红月亮”记录月亮“变脸”全过程",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842623813699624744&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "分生的爱",
+      "comment_time": "09-08 11:17",
+      "comment_content": "不可惜，我们能看得到的半夜不想等",
+      "user_location": "上海",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:32:42",
+      "event_time": "9月8日 00:36"
+    },
+    {
+      "event_title": "罕见天象“月全食”即将上演 时隔三年再现夜空",
+      "event_id": "event_6",
+      "event_url": "http://news.china.com/socialgd/10000169/20250907/48798488.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:32:44",
+      "event_time": "9月7日 19:57"
+    },
+    {
+      "event_title": "我国今年境内唯一全程肉眼可见的月全食",
+      "event_id": "event_7",
+      "event_url": "http://www.ithome.com/0/881/082.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:32:46",
+      "event_time": "9月7日 19:41"
+    },
+    {
+      "event_title": "错过今晚夜空将现“红月亮”",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842613260750589496&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "菲菲讨厌搭讪",
+      "comment_time": "09-07 22:24",
+      "comment_content": "光污染太严重了吧，城里基本看不到红月亮，得去郊区才行。这反映出城市化让天文观测越来越难。",
+      "user_location": "重庆",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:33:02",
+      "event_time": "9月7日 19:14"
+    },
+    {
+      "event_title": "专家:俗称“血月”易引误解,系月全食",
+      "event_id": "event_9",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842603336616532165&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "百度网友beb79df",
+      "comment_time": "09-07 22:32",
+      "comment_content": "哎呀，明天得上学熬不了那么晚。",
+      "user_location": "北京",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:33:17",
+      "event_time": "9月7日 19:10"
+    },
+    {
+      "event_title": "专家:俗称“血月”易引误解,系月全食",
+      "event_id": "event_9",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842603336616532165&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "兰溪小妞",
+      "comment_time": "09-07 20:13",
+      "comment_content": "完了，明天上学熬不了那么晚",
+      "user_location": "北京",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:33:17",
+      "event_time": "9月7日 19:10"
+    },
+    {
+      "event_title": "专家:俗称“血月”易引误解,系月全食",
+      "event_id": "event_9",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842603336616532165&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "ghfchem",
+      "comment_time": "09-07 20:30",
+      "comment_content": "乌云满天看个球！",
+      "user_location": "四川",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:33:17",
+      "event_time": "9月7日 19:10"
+    },
+    {
+      "event_title": "专家:俗称“血月”易引误解,系月全食",
+      "event_id": "event_9",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842603336616532165&wfr=spider&for=pc",
+      "comment_index": 4,
+      "user_id": "是你Mariam呀",
+      "comment_time": "09-07 19:20",
+      "comment_content": "作者用心了，点个赞👍",
+      "user_location": "江西",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 14:33:17",
+      "event_time": "9月7日 19:10"
+    },
+    {
+      "event_title": "月全食将现身天宇",
+      "event_id": "event_10",
+      "event_url": "http://tv.cctv.com/2025/09/07/VIDELjTlt7dNxSNoJjzTDonm250907.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:33:19",
+      "event_time": "9月7日 17:55"
+    },
+    {
+      "event_title": "月全食奇观今夜上演",
+      "event_id": "event_11",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31559227",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:33:21",
+      "event_time": "9月7日 15:53"
+    },
+    {
+      "event_title": "罕见月全食将现身",
+      "event_id": "event_12",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31566623",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:33:24",
+      "event_time": "9月7日 14:38"
+    },
+    {
+      "event_title": "年度重磅天象“红月亮”今晚上演:肉眼、手机都能观测",
+      "event_id": "event_13",
+      "event_url": "http://news.mydrivers.com/1/1072/1072955.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:33:26",
+      "event_time": "9月7日 10:10"
+    },
+    {
+      "event_title": "9月 7 日至 8 日将迎来“血月”月全食，地球把月亮染红 82 分钟",
+      "event_id": "event_14",
+      "event_url": "http://app.myzaker.com/news/article.php?v=1.0&pk=68bc0df88e9f0927a42afdec",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:33:28",
+      "event_time": "9月6日 18:21"
+    },
+    {
+      "event_title": "今年最重磅天象月全食将于9月7日午夜至8日凌晨上演",
+      "event_id": "event_15",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842556258738638991&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "畅游小Fairy",
+      "comment_time": "09-07 06:52",
+      "comment_content": "时隔三年月全食再现，9月7日午夜全国可观，带上相机记录血月美景吧。",
+      "user_location": "宁夏",
+      "like_count": 10,
+      "scrape_time": "2025-09-12 14:33:43",
+      "event_time": "9月6日 17:53"
+    },
+    {
+      "event_title": "浙江人这天一定要抬头看!将持续82分钟",
+      "event_id": "event_16",
+      "event_url": "http://m.gmw.cn/toutiao/2025-09/06/content_1304137541.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:33:45",
+      "event_time": "9月6日 14:30"
+    },
+    {
+      "event_title": "我国今年境内唯一一次全程肉眼可见的月全食 9 月 8 日凌晨上演",
+      "event_id": "event_17",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842053612865333093&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "小艺提0m",
+      "comment_time": "09-02 02:29",
+      "comment_content": "光污染严重的城里可能看不见，凌晨月亮被灯光淹没。建议早点开车去郊区，不然白等一场。",
+      "user_location": "广东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:34:01"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 17,
+    "total_comments": 22,
+    "events_with_comments": 17,
+    "level1_scrape_time": "2025-09-12 14:31:46",
+    "level2_scrape_time": "2025-09-12 14:34:01"
+  }
+}

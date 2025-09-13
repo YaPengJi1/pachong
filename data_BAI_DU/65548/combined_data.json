@@ -1,0 +1,193 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:45:29"
+  },
+  "core_event": {
+    "core_event_name": "安徽将迎大雨暴雨",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:44:27"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "安徽预计连下10天雨",
+      "link": "http://baijiahao.baidu.com/s?id=1842601149227497167&wfr=spider&for=pc",
+      "time": "9月7日 18:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "安徽暴雨最低温跌至1字头",
+      "link": "http://baijiahao.baidu.com/s?id=1842597044998346180&wfr=spider&for=pc",
+      "time": "9月7日 17:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "台风“杜苏芮”影响安徽",
+      "link": "http://m.gmw.cn/toutiao/2025-09/07/content_1304138624.htm",
+      "time": "9月7日 15:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "最低19℃?大雨暴雨,抵达安徽!真降温了",
+      "link": "http://m.gmw.cn/2025-09/07/content_1304138185.htm",
+      "time": "9月7日 09:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "大雨暴雨大暴雨!安徽将连下7天",
+      "link": "http://m.gmw.cn/2025-09/07/content_1304138179.htm",
+      "time": "9月7日 09:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "安徽将连下几天雨!多地最高温将降至“2字头”",
+      "link": "http://m.gmw.cn/2025-09/06/content_1304137900.htm",
+      "time": "9月6日 20:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "安徽将迎大雨暴雨、8级雷暴大风",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmkhp7811317.d.html",
+      "time": "9月5日 11:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "大雨、暴雨!安徽多地受影响",
+      "link": "http://m.gmw.cn/2025-09/01/content_1304132789.htm",
+      "time": "9月1日 20:28",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "安徽预计连下10天雨",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842601149227497167&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:44:57",
+      "event_time": "9月7日 18:36"
+    },
+    {
+      "event_title": "安徽暴雨最低温跌至1字头",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842597044998346180&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "通融还伟大的小工匠1",
+      "comment_time": "09-07 17:44",
+      "comment_content": "安徽要下大雨了，气温降到19℃，出门记得带伞添衣。",
+      "user_location": "福建",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:45:13",
+      "event_time": "9月7日 17:24"
+    },
+    {
+      "event_title": "台风“杜苏芮”影响安徽",
+      "event_id": "event_3",
+      "event_url": "http://m.gmw.cn/toutiao/2025-09/07/content_1304138624.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:45:15",
+      "event_time": "9月7日 15:47"
+    },
+    {
+      "event_title": "最低19℃?大雨暴雨,抵达安徽!真降温了",
+      "event_id": "event_4",
+      "event_url": "http://m.gmw.cn/2025-09/07/content_1304138185.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:45:17",
+      "event_time": "9月7日 09:23"
+    },
+    {
+      "event_title": "大雨暴雨大暴雨!安徽将连下7天",
+      "event_id": "event_5",
+      "event_url": "http://m.gmw.cn/2025-09/07/content_1304138179.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:45:19",
+      "event_time": "9月7日 09:21"
+    },
+    {
+      "event_title": "安徽将连下几天雨!多地最高温将降至“2字头”",
+      "event_id": "event_6",
+      "event_url": "http://m.gmw.cn/2025-09/06/content_1304137900.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:45:21",
+      "event_time": "9月6日 20:04"
+    },
+    {
+      "event_title": "安徽将迎大雨暴雨、8级雷暴大风",
+      "event_id": "event_7",
+      "event_url": "http://finance.sina.cn/2025-09-05/detail-infpmkhp7811317.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:45:23",
+      "event_time": "9月5日 11:36"
+    },
+    {
+      "event_title": "大雨、暴雨!安徽多地受影响",
+      "event_id": "event_8",
+      "event_url": "http://m.gmw.cn/2025-09/01/content_1304132789.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:45:25",
+      "event_time": "9月1日 20:28"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 8,
+    "total_comments": 8,
+    "events_with_comments": 8,
+    "level1_scrape_time": "2025-09-13 01:44:41",
+    "level2_scrape_time": "2025-09-13 01:45:25"
+  }
+}

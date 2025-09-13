@@ -1,0 +1,59 @@
+{
+  "core_event_name": "法国政府被推翻",
+  "comments": [
+    {
+      "event_title": "法国政坛地震!总理遭364票碾压式罢免,马克龙被直接逼宫,议员喊话“终结第五共和国”",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842840506103149772&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:18:07",
+      "event_time": "昨天 03:03"
+    },
+    {
+      "event_title": "法国左右翼合流抗议",
+      "event_id": "event_2",
+      "event_url": "http://www.jfdaily.com/news/detail?id=980548",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:18:09",
+      "event_time": "昨天 01:46"
+    },
+    {
+      "event_title": "一夜之间，法国政府被推翻，反对派围攻马克龙，中国接到特殊求助",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K93DA26O0553E8Q8.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:18:11",
+      "event_time": "9月10日 10:57"
+    },
+    {
+      "event_title": "法国政府“垮台” 总理将辞职",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4459389519764051795",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:18:13",
+      "event_time": "9月9日 10:02"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 11:18:13"
+}

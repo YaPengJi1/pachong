@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "华为在2025智博会亮相，赋能千行万业数智化转型",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:30:33"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "华为助力重庆打造“数智引擎”",
+      "link": "http://news.zol.com.cn/1044/10448599.html",
+      "time": "昨天 09:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "从2025全球工业互联网大会看数智赋能制造升级",
+      "link": "http://baijiahao.baidu.com/s?id=1842794053331146114&wfr=spider&for=pc",
+      "time": "9月9日 21:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "华为亮相2025全球工业互联网大会",
+      "link": "http://m.dbw.cn/minsheng/system/2025/09/09/059478116.shtml",
+      "time": "9月9日 10:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "华为亮相2025智博会 赋能千行万业数智化转型",
+      "link": "http://baijiahao.baidu.com/s?id=1842520257879005321&wfr=spider&for=pc",
+      "time": "9月6日 21:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "华为中国行2025落地重庆",
+      "link": "http://baijiahao.baidu.com/s?id=1842508899520603687&wfr=spider&for=pc",
+      "time": "9月6日 17:45",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 10:30:47"
+}

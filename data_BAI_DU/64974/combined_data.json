@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:23:59"
+  },
+  "core_event": {
+    "core_event_name": "中际旭创市值首超东方财富",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:23:03"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中际旭创涨10.26%,易方达创业板ETF基金重仓该股",
+      "link": "http://app.myzaker.com/news/article.php?m=1757063296&pk=68baa1f58e9f09087c7e9ad3",
+      "time": "9月5日 16:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中际旭创成交额达200亿元",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15300408359484433148",
+      "time": "9月5日 11:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中际旭创市值排创业板第二",
+      "link": "http://baijiahao.baidu.com/s?id=1842332835220717960&wfr=spider&for=pc",
+      "time": "9月4日 19:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中际旭创市值首超东方财富,排名创业板第二位",
+      "link": "http://baijiahao.baidu.com/s?id=1842227956769322341&wfr=spider&for=pc",
+      "time": "9月3日 15:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中际旭创股价创新高",
+      "link": "http://m.yicai.com/brief/102799961.html",
+      "time": "8月29日 10:47",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "中际旭创涨10.26%,易方达创业板ETF基金重仓该股",
+      "event_id": "event_1",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1757063296&pk=68baa1f58e9f09087c7e9ad3",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:23:18",
+      "event_time": "9月5日 16:38"
+    },
+    {
+      "event_title": "中际旭创成交额达200亿元",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=15300408359484433148",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:23:20",
+      "event_time": "9月5日 11:37"
+    },
+    {
+      "event_title": "中际旭创市值排创业板第二",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842332835220717960&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "池水丹ZN",
+      "comment_time": "09-05 06:05",
+      "comment_content": "中际旭创不是369吗，怎么又到426啦？股市上的黑嘴太多！",
+      "user_location": "黑龙江",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:23:37",
+      "event_time": "9月4日 19:30"
+    },
+    {
+      "event_title": "中际旭创市值首超东方财富,排名创业板第二位",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842227956769322341&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:23:53",
+      "event_time": "9月3日 15:42"
+    },
+    {
+      "event_title": "中际旭创股价创新高",
+      "event_id": "event_5",
+      "event_url": "http://m.yicai.com/brief/102799961.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:23:55",
+      "event_time": "8月29日 10:47"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 18:23:17",
+    "level2_scrape_time": "2025-09-12 18:23:55"
+  }
+}

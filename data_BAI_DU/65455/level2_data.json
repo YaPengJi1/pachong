@@ -1,0 +1,46 @@
+{
+  "core_event_name": "女排世锦赛半决赛",
+  "comments": [
+    {
+      "event_title": "2025女排世锦赛半决赛今日开战，日本土耳其、意大利巴西对决",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/2636766700/p9d29ddec02701by5s",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:15:19",
+      "event_time": "9月6日 08:00"
+    },
+    {
+      "event_title": "女排世锦赛四强对阵:日本vs土耳其、意大利vs巴西",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842381183286623969&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "欧美的Nana公主",
+      "comment_time": "09-05 11:44",
+      "comment_content": "半决赛对阵出炉，日本战土耳其、意大利拼巴西，精彩对决不容错过。",
+      "user_location": "重庆",
+      "like_count": 5,
+      "scrape_time": "2025-09-13 00:15:35",
+      "event_time": "9月5日 08:17"
+    },
+    {
+      "event_title": "女排世锦赛半决赛:日本VS土耳其 意大利VS巴西!5-32排名已确定",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/2289815244/887bcecc02002n57c",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:15:37",
+      "event_time": "9月5日 07:51"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-13 00:15:37"
+}

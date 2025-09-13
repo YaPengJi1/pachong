@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:52:58"
+  },
+  "core_event": {
+    "core_event_name": "AC米兰夏季转会",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:52:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "5名沙特联球星进入合同年，明夏有望免签意甲，AC米兰关注其二",
+      "link": "http://new.qq.com/rain/a/20250910A038MU00",
+      "time": "9月10日 10:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "AC米兰夏季转会:签下恩昆库、亚沙里,免费引进魔笛,斥资巨额",
+      "link": "http://m.sohu.com/a/931666512_121926262/",
+      "time": "9月4日 07:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "AC米兰签下前德甲金靴",
+      "link": "http://www.sohu.com/a/930098952_121960852",
+      "time": "8月30日 10:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "恩昆库已经抵达AC米兰总部,即将完成签约",
+      "link": "http://www.163.com/dy/article/K863VI650529AQIE.html",
+      "time": "8月30日 01:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "迪马:恩昆库已与米兰签署完合同,双方合同将持续至2030年",
+      "link": "http://www.dongqiudi.com/articles/5340299.html",
+      "time": "8月30日 01:44",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "5名沙特联球星进入合同年，明夏有望免签意甲，AC米兰关注其二",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250910A038MU00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:52:46",
+      "event_time": "9月10日 10:51"
+    },
+    {
+      "event_title": "AC米兰夏季转会:签下恩昆库、亚沙里,免费引进魔笛,斥资巨额",
+      "event_id": "event_2",
+      "event_url": "http://m.sohu.com/a/931666512_121926262/",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:52:48",
+      "event_time": "9月4日 07:45"
+    },
+    {
+      "event_title": "AC米兰签下前德甲金靴",
+      "event_id": "event_3",
+      "event_url": "http://www.sohu.com/a/930098952_121960852",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:52:50",
+      "event_time": "8月30日 10:01"
+    },
+    {
+      "event_title": "恩昆库已经抵达AC米兰总部,即将完成签约",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K863VI650529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:52:52",
+      "event_time": "8月30日 01:56"
+    },
+    {
+      "event_title": "迪马:恩昆库已与米兰签署完合同,双方合同将持续至2030年",
+      "event_id": "event_5",
+      "event_url": "http://www.dongqiudi.com/articles/5340299.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:52:54",
+      "event_time": "8月30日 01:44"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-13 01:52:44",
+    "level2_scrape_time": "2025-09-13 01:52:54"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "core_event_name": "华为发布首款8.8英寸旗舰小平板",
+  "comments": [
+    {
+      "event_title": "华为阅读眼动翻页功能新增适配 MatePad Mini、Mate X6 系列设备",
+      "event_id": "event_1",
+      "event_url": "http://www.ithome.com/0/881/043.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:37:21",
+      "event_time": "9月7日 16:01"
+    },
+    {
+      "event_title": "华为MatePad Mini 8.8英寸正式发布",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8P90VGI0545AO7A.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:37:23",
+      "event_time": "9月6日 12:30"
+    },
+    {
+      "event_title": "华为MatePad Mini细节公开",
+      "event_id": "event_3",
+      "event_url": "http://it.sohu.com/a/932274660_122464496",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:37:25",
+      "event_time": "9月5日 20:57"
+    },
+    {
+      "event_title": "华为发布首款8.8英寸旗舰小平板",
+      "event_id": "event_4",
+      "event_url": "http://weibo.com/1642632024/Q3baG33kj",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:37:27",
+      "event_time": "9月5日 18:12"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 10:37:27"
+}

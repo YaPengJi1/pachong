@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "博通获新客户，AI芯片订单超预期",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:36:16"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "宣布将与OpenAI合作批量生产自研AI芯片,博通股价创新高",
+      "link": "http://finance.sina.cn/stock/jdts/2025-09-06/detail-infpphxp0007826.d.html",
+      "time": "9月6日 08:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "博通斩获百亿美元AI芯片订单",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31546768",
+      "time": "9月6日 08:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "获新客户超100亿美元AI芯片订单,博通开盘涨超14%",
+      "link": "http://news.sina.cn/2025-09-05/detail-infpnfmy2235538.d.html",
+      "time": "9月5日 22:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "博通一己之力重振“AI信仰”! AI ASIC需求迈向“英伟达式猛增轨迹”",
+      "link": "http://fund.eastmoney.com/a/202509053505412439.html",
+      "time": "9月5日 08:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "博通第四财季AI芯片收入展望超预期",
+      "link": "http://cj.sina.com.cn/articles/view/5115326071/130e5ae7702002n54c",
+      "time": "9月5日 06:46",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 14:36:31"
+}

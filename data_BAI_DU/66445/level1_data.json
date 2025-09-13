@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "南京队对战徐州队，苏超重塑区域认同",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:55:49"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "9月6日晚南京队对战徐州队比赛的“第二现场”，由南京市文明办组织的“三进城”文明实践活动火热上演",
+      "link": "http://weibo.com/1807431510/Q3m3ka77w",
+      "time": "9月6日 21:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "南京一球胜徐州，苏超重塑区域认同引爆“进化论”",
+      "link": "http://baijiahao.baidu.com/s?id=1842520735385871355&wfr=spider&for=pc",
+      "time": "9月6日 21:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "南京VS徐州球迷齐唱老男孩破防了 苏超现场老男孩的青春DNA动了",
+      "link": "http://finance.sina.cn/2025-09-06/detail-infpqkmf1646017.d.html",
+      "time": "9月6日 19:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "这一刻梦回舜天辉煌年代!南京球迷谈“苏超”南京队VS徐州队",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 14:56:04"
+}

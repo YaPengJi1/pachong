@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "河南暴雨预警及防范措施",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:52:46"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "河南多地出现大暴雨",
+      "link": "http://baijiahao.baidu.com/s?id=1842943169910995149&wfr=spider&for=pc",
+      "time": "9月11日 13:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "河南多地发布暴雨红色、黄色预警 高速多个路段禁行",
+      "link": "http://baijiahao.baidu.com/s?id=1842931844810932520&wfr=spider&for=pc",
+      "time": "9月11日 10:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "河南这些地区中到大雨局部暴雨",
+      "link": "http://m.gmw.cn/2025-09/05/content_1304136422.htm",
+      "time": "9月5日 15:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "一地出现大暴雨,河南多家景区临时闭园",
+      "link": "http://baijiahao.baidu.com/s?id=1842322234148648599&wfr=spider&for=pc",
+      "time": "9月4日 16:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "河南多地发布暴雨预警信号",
+      "link": "http://weibo.com/1924558143/Q30Fq7X9P",
+      "time": "9月4日 15:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "河南发布地质灾害气象风险预警",
+      "link": "http://baijiahao.baidu.com/s?id=1842314276375211061&wfr=spider&for=pc",
+      "time": "9月4日 11:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "河南多地暴雨预警!9月2日至3日,这些城市需警惕!",
+      "link": "http://www.sohu.com/a/930616204_121976704",
+      "time": "9月1日 09:38",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-13 00:53:00"
+}

@@ -1,0 +1,591 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:57:41"
+  },
+  "core_event": {
+    "core_event_name": "易会满被查事件",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:54:59"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "金融反腐深水区，易会满被查震动金融圈",
+      "link": "http://finance.sina.cn/2025-09-08/detail-infpuftn6258949.d.html",
+      "time": "9月8日 13:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "从易会满任期内上市,到易会满落马后退市",
+      "link": "http://k.sina.cn/article_5170894003_1343594b3001016g8m.html",
+      "time": "9月8日 11:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "易会满被查会不会影响上市公司",
+      "link": "http://baijiahao.baidu.com/s?id=1842607809098765306&wfr=spider&for=pc",
+      "time": "9月7日 20:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "大老虎易会满卷入三次风暴",
+      "link": "http://k.sina.com.cn/article_5953190046_162d6789e067020t4a.html",
+      "time": "9月7日 13:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "易会满被查曝 A 股荒诞事:融资比美股猛,退市比蜗牛慢",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4376496447803641674",
+      "time": "9月7日 10:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "易会满被查,董少鹏发文痛斥",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4070358099515864850",
+      "time": "9月7日 09:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "4个月内“双高层”被查，证监会主席、副主席“前后脚”落马",
+      "link": "http://finance.sina.com.cn/roll/2025-09-07/doc-infprfqv1186969.shtml",
+      "time": "9月7日 06:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "正部级易会满被查,任上落马,曾执掌证监会5年",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1202057166105740868",
+      "time": "9月6日 23:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "离开证监会后，易会满曾挣扎着亮相",
+      "link": "http://finance.sina.cn/2025-09-06/detail-infprmwt1072639.d.html?froms=bdmp",
+      "time": "9月6日 20:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "正部级易会满,被查!曾执掌中国证监会5年,任期内A股共20次跌破3000点",
+      "link": "http://baijiahao.baidu.com/s?id=1842524383951787096&wfr=spider&for=pc",
+      "time": "9月6日 14:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "易会满落马:在任五年1700家IPO上证仅上涨190点",
+      "link": "http://k.sina.cn/article_1841812881_6dc7d59102001jn7k.html",
+      "time": "9月6日 13:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "涉嫌严重违纪违法,证监会原主席易会满被查",
+      "link": "http://baijiahao.baidu.com/s?id=1842491852947814551&wfr=spider&for=pc",
+      "time": "9月6日 13:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "【侠客岛】易会满被查",
+      "link": "http://cj.sina.com.cn/articles/view/3057540037/b63e5bc502001seak",
+      "time": "9月6日 13:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "易会满被查 执掌证监会5年 沪指20次失守3000点 曾屡提金融反腐",
+      "link": "http://baijiahao.baidu.com/s?id=1842488360267000260&wfr=spider&for=pc",
+      "time": "9月6日 12:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "原证监会主席、30余载工行老将易会满被查",
+      "link": "http://cj.sina.com.cn/articles/view/1641561812/61d83ed400101alki",
+      "time": "9月6日 12:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "易会满落马背后:8月末已有消息称“其家人已被限制出境”",
+      "link": "http://cj.sina.com.cn/articles/view/5952915720/162d2490806702ew9y",
+      "time": "9月6日 12:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "全国政协经济委员会副主任易会满被查",
+      "link": "http://news.bjd.com.cn/2025/09/06/11297674.shtml",
+      "time": "9月6日 11:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "十四届全国政协经济委员会副主任易会满被查",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31552294",
+      "time": "9月6日 11:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "易会满被查",
+      "link": "http://finance.eastmoney.com/a/202509063506781565.html",
+      "time": "9月6日 11:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "中国证监会原主席易会满被查",
+      "link": "http://baijiahao.baidu.com/s?id=1842487294853069691&wfr=spider&for=pc",
+      "time": "9月6日 11:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_21",
+      "title": "打虎!易会满被查",
+      "link": "http://baijiahao.baidu.com/s?id=1842486419025945036&wfr=spider&for=pc",
+      "time": "9月6日 11:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_22",
+      "title": "周末打虎!易会满被查",
+      "link": "http://baijiahao.baidu.com/s?id=1842486239037577512&wfr=spider&for=pc",
+      "time": "9月6日 11:04",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "金融反腐深水区，易会满被查震动金融圈",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.cn/2025-09-08/detail-infpuftn6258949.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:55:16",
+      "event_time": "9月8日 13:57"
+    },
+    {
+      "event_title": "从易会满任期内上市,到易会满落马后退市",
+      "event_id": "event_2",
+      "event_url": "http://k.sina.cn/article_5170894003_1343594b3001016g8m.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:55:18",
+      "event_time": "9月8日 11:19"
+    },
+    {
+      "event_title": "易会满被查会不会影响上市公司",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842607809098765306&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:55:35",
+      "event_time": "9月7日 20:24"
+    },
+    {
+      "event_title": "大老虎易会满卷入三次风暴",
+      "event_id": "event_4",
+      "event_url": "http://k.sina.com.cn/article_5953190046_162d6789e067020t4a.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:55:37",
+      "event_time": "9月7日 13:14"
+    },
+    {
+      "event_title": "易会满被查曝 A 股荒诞事:融资比美股猛,退市比蜗牛慢",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4376496447803641674",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:55:39",
+      "event_time": "9月7日 10:42"
+    },
+    {
+      "event_title": "易会满被查,董少鹏发文痛斥",
+      "event_id": "event_6",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4070358099515864850",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:55:41",
+      "event_time": "9月7日 09:38"
+    },
+    {
+      "event_title": "4个月内“双高层”被查，证监会主席、副主席“前后脚”落马",
+      "event_id": "event_7",
+      "event_url": "http://finance.sina.com.cn/roll/2025-09-07/doc-infprfqv1186969.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:55:43",
+      "event_time": "9月7日 06:54"
+    },
+    {
+      "event_title": "正部级易会满被查,任上落马,曾执掌证监会5年",
+      "event_id": "event_8",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=1202057166105740868",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:55:45",
+      "event_time": "9月6日 23:32"
+    },
+    {
+      "event_title": "离开证监会后，易会满曾挣扎着亮相",
+      "event_id": "event_9",
+      "event_url": "http://finance.sina.cn/2025-09-06/detail-infprmwt1072639.d.html?froms=bdmp",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:55:47",
+      "event_time": "9月6日 20:40"
+    },
+    {
+      "event_title": "正部级易会满,被查!曾执掌中国证监会5年,任期内A股共20次跌破3000点",
+      "event_id": "event_10",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842524383951787096&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "浦平文3",
+      "comment_time": "09-06 22:54",
+      "comment_content": "咎由自取，罪有应得，罄竹难书",
+      "user_location": "河北",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 14:56:03",
+      "event_time": "9月6日 14:42"
+    },
+    {
+      "event_title": "易会满落马:在任五年1700家IPO上证仅上涨190点",
+      "event_id": "event_11",
+      "event_url": "http://k.sina.cn/article_1841812881_6dc7d59102001jn7k.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:56:05",
+      "event_time": "9月6日 13:52"
+    },
+    {
+      "event_title": "涉嫌严重违纪违法,证监会原主席易会满被查",
+      "event_id": "event_12",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842491852947814551&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "九阳居士18",
+      "comment_time": "09-06 20:16",
+      "comment_content": "早该严惩了。",
+      "user_location": "浙江",
+      "like_count": 27,
+      "scrape_time": "2025-09-12 14:56:21",
+      "event_time": "9月6日 13:39"
+    },
+    {
+      "event_title": "涉嫌严重违纪违法,证监会原主席易会满被查",
+      "event_id": "event_12",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842491852947814551&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "官情h4",
+      "comment_time": "09-06 20:27",
+      "comment_content": "股民深受其害！大快人心！早应严惩！",
+      "user_location": "湖南",
+      "like_count": 3,
+      "scrape_time": "2025-09-12 14:56:21",
+      "event_time": "9月6日 13:39"
+    },
+    {
+      "event_title": "涉嫌严重违纪违法,证监会原主席易会满被查",
+      "event_id": "event_12",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842491852947814551&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "日月与我同辉",
+      "comment_time": "09-06 15:06",
+      "comment_content": "罪有应得",
+      "user_location": "辽宁",
+      "like_count": 57,
+      "scrape_time": "2025-09-12 14:56:21",
+      "event_time": "9月6日 13:39"
+    },
+    {
+      "event_title": "【侠客岛】易会满被查",
+      "event_id": "event_13",
+      "event_url": "http://cj.sina.com.cn/articles/view/3057540037/b63e5bc502001seak",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:56:23",
+      "event_time": "9月6日 13:34"
+    },
+    {
+      "event_title": "易会满被查 执掌证监会5年 沪指20次失守3000点 曾屡提金融反腐",
+      "event_id": "event_14",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842488360267000260&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "丶小小逗7J",
+      "comment_time": "09-10 12:16",
+      "comment_content": "希望国家判易会满死 刑，立即执行。",
+      "user_location": "广东",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 14:56:39",
+      "event_time": "9月6日 12:42"
+    },
+    {
+      "event_title": "易会满被查 执掌证监会5年 沪指20次失守3000点 曾屡提金融反腐",
+      "event_id": "event_14",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842488360267000260&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "古月古来香H",
+      "comment_time": "09-07 12:58",
+      "comment_content": "易会满早就该服刑。",
+      "user_location": "山东",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 14:56:39",
+      "event_time": "9月6日 12:42"
+    },
+    {
+      "event_title": "易会满被查 执掌证监会5年 沪指20次失守3000点 曾屡提金融反腐",
+      "event_id": "event_14",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842488360267000260&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "仰胤雅58",
+      "comment_time": "09-06 16:15",
+      "comment_content": "该千刀万剐",
+      "user_location": "浙江",
+      "like_count": 85,
+      "scrape_time": "2025-09-12 14:56:39",
+      "event_time": "9月6日 12:42"
+    },
+    {
+      "event_title": "易会满被查 执掌证监会5年 沪指20次失守3000点 曾屡提金融反腐",
+      "event_id": "event_14",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842488360267000260&wfr=spider&for=pc",
+      "comment_index": 4,
+      "user_id": "言牛午",
+      "comment_time": "09-06 17:18",
+      "comment_content": "言牛午09-06 17:18江苏举报回复3",
+      "user_location": "江苏",
+      "like_count": 3,
+      "scrape_time": "2025-09-12 14:56:39",
+      "event_time": "9月6日 12:42"
+    },
+    {
+      "event_title": "易会满被查 执掌证监会5年 沪指20次失守3000点 曾屡提金融反腐",
+      "event_id": "event_14",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842488360267000260&wfr=spider&for=pc",
+      "comment_index": 5,
+      "user_id": "石匠实打实",
+      "comment_time": "09-07 07:06",
+      "comment_content": "都一样",
+      "user_location": "河北",
+      "like_count": 3,
+      "scrape_time": "2025-09-12 14:56:39",
+      "event_time": "9月6日 12:42"
+    },
+    {
+      "event_title": "原证监会主席、30余载工行老将易会满被查",
+      "event_id": "event_15",
+      "event_url": "http://cj.sina.com.cn/articles/view/1641561812/61d83ed400101alki",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:56:41",
+      "event_time": "9月6日 12:19"
+    },
+    {
+      "event_title": "易会满落马背后:8月末已有消息称“其家人已被限制出境”",
+      "event_id": "event_16",
+      "event_url": "http://cj.sina.com.cn/articles/view/5952915720/162d2490806702ew9y",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:56:43",
+      "event_time": "9月6日 12:04"
+    },
+    {
+      "event_title": "全国政协经济委员会副主任易会满被查",
+      "event_id": "event_17",
+      "event_url": "http://news.bjd.com.cn/2025/09/06/11297674.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:56:45",
+      "event_time": "9月6日 11:25"
+    },
+    {
+      "event_title": "十四届全国政协经济委员会副主任易会满被查",
+      "event_id": "event_18",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31552294",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:56:47",
+      "event_time": "9月6日 11:23"
+    },
+    {
+      "event_title": "易会满被查",
+      "event_id": "event_19",
+      "event_url": "http://finance.eastmoney.com/a/202509063506781565.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:56:49",
+      "event_time": "9月6日 11:18"
+    },
+    {
+      "event_title": "中国证监会原主席易会满被查",
+      "event_id": "event_20",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842487294853069691&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "百度网友5cd1d610",
+      "comment_time": "09-06 13:05",
+      "comment_content": "法纪面前没有例外，正义从不缺席。",
+      "user_location": "山西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:57:05",
+      "event_time": "9月6日 11:10"
+    },
+    {
+      "event_title": "中国证监会原主席易会满被查",
+      "event_id": "event_20",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842487294853069691&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "昵哈昵昵",
+      "comment_time": "09-06 13:10",
+      "comment_content": "严查违纪违法行为，才能换来政治生态的海晏河清。",
+      "user_location": "陕西",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 14:57:05",
+      "event_time": "9月6日 11:10"
+    },
+    {
+      "event_title": "中国证监会原主席易会满被查",
+      "event_id": "event_20",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842487294853069691&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "云很高天很近",
+      "comment_time": "09-06 13:07",
+      "comment_content": "铁腕反腐，彰显制度优势和治理效能。",
+      "user_location": "宁夏",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 14:57:05",
+      "event_time": "9月6日 11:10"
+    },
+    {
+      "event_title": "打虎!易会满被查",
+      "event_id": "event_21",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842486419025945036&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:57:21",
+      "event_time": "9月6日 11:07"
+    },
+    {
+      "event_title": "周末打虎!易会满被查",
+      "event_id": "event_22",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842486239037577512&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:57:37",
+      "event_time": "9月6日 11:04"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 22,
+    "total_comments": 30,
+    "events_with_comments": 22,
+    "level1_scrape_time": "2025-09-12 14:55:15",
+    "level2_scrape_time": "2025-09-12 14:57:37"
+  }
+}

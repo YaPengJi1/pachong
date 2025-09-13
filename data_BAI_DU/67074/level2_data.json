@@ -1,0 +1,46 @@
+{
+  "core_event_name": "国足新帅招聘及候选人",
+  "comments": [
+    {
+      "event_title": "卡纳瓦罗乔迪有意,国足新帅会是中超故人吗?",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842845242372142955&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "矮矮fattie",
+      "comment_time": "09-10 11:36",
+      "comment_content": "卡帅和乔帅熟悉中国足球，上手快，很期待他们带国足走出低谷。",
+      "user_location": "四川",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:10:32",
+      "event_time": "9月10日 11:11"
+    },
+    {
+      "event_title": "足协官宣再次招聘国足主帅",
+      "event_id": "event_2",
+      "event_url": "http://news.sohu.com/a/932569943_122287319",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:10:35",
+      "event_time": "9月7日 09:27"
+    },
+    {
+      "event_title": "国足或1个月敲定新帅!已有5大候选,卡纳瓦罗自荐,2人已退出",
+      "event_id": "event_3",
+      "event_url": "http://k.sina.com.cn/article_7880068820_1d5b04ed402001ddsk.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:10:37",
+      "event_time": "9月5日 18:19"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 11:10:37"
+}

@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "重庆智博会助力西部数字经济发展",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:42:56"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "重庆 2025世界智能产业博览会开幕",
+      "link": "http://tv.cctv.com/2025/09/06/VIDENVIk7CJjOwiyKoVWVvSe250906.shtml",
+      "time": "9月6日 05:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "腾讯携多项AI应用“首发”重庆智博会 助力西部数字经济发展",
+      "link": "http://www.donews.com/news/detail/4/6078172.html",
+      "time": "9月5日 17:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "2025重庆智博会:2000 亿签约背后的“西部智慧”",
+      "link": "http://dy.163.com/article/K8N1QDFF05258O4E.html",
+      "time": "9月5日 15:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国移动“AI+”智慧应用亮相2025智博会",
+      "link": "http://cq.people.com.cn/BIG5/n2/2025/0905/c365407-41342857.html",
+      "time": "9月5日 13:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "2025世界智能产业博览会开幕",
+      "link": "http://energy.cctv.com/2025/09/05/ARTIUMOYOv9RuQ894H6Wrua8250905.shtml",
+      "time": "9月5日 06:32",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 00:43:10"
+}

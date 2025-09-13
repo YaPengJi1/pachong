@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:29:08"
+  },
+  "core_event": {
+    "core_event_name": "普京访华收获超预期",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:27:50"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "普京待了4天,不该说的事一句没跟中国提,临走前对美乌下达通牒",
+      "link": "http://baijiahao.baidu.com/s?id=1842321339830381759&wfr=spider&for=pc",
+      "time": "9月7日 16:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "普京开启4天访华行,中俄关系如何在新阶段实现战略升级",
+      "link": "http://baijiahao.baidu.com/s?id=1842589959614506112&wfr=spider&for=pc",
+      "time": "9月7日 15:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "20份中俄协议震撼落地,普京来华收获超预期",
+      "link": "http://cj.sina.com.cn/articles/view/7295052889/1b2d1ac5902001891w",
+      "time": "9月6日 22:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "普京凌晨离开北京后马不停蹄赶往远东地区",
+      "link": "http://baijiahao.baidu.com/s?id=1842491593870106256&wfr=spider&for=pc",
+      "time": "9月6日 13:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "普京与蔡英文会晤",
+      "link": "http://www.163.com/dy/article/K8NAVQQH05567BZI.html",
+      "time": "9月5日 18:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "普京访华惊呆众人!两个细节太罕见,俄媒:从未见过如此阵仗",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5665838068152262990",
+      "time": "9月5日 07:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "普京访华收获四大消息",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=803104334865981743",
+      "time": "9月4日 17:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "普京访华有看点,“1 + 4”会谈揭秘,多方会晤引关注",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6512394065105081290",
+      "time": "9月1日 22:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "普京携13名高官抵华，莫迪临行接泽连斯基电话，上合迎关键重塑期",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=29215967640111079",
+      "time": "9月1日 17:37",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "普京待了4天,不该说的事一句没跟中国提,临走前对美乌下达通牒",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842321339830381759&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:28:20",
+      "event_time": "9月7日 16:35"
+    },
+    {
+      "event_title": "普京开启4天访华行,中俄关系如何在新阶段实现战略升级",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842589959614506112&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:28:36",
+      "event_time": "9月7日 15:52"
+    },
+    {
+      "event_title": "20份中俄协议震撼落地,普京来华收获超预期",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/7295052889/1b2d1ac5902001891w",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:28:38",
+      "event_time": "9月6日 22:59"
+    },
+    {
+      "event_title": "普京凌晨离开北京后马不停蹄赶往远东地区",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842491593870106256&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:28:54",
+      "event_time": "9月6日 13:35"
+    },
+    {
+      "event_title": "普京与蔡英文会晤",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8NAVQQH05567BZI.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:28:56",
+      "event_time": "9月5日 18:26"
+    },
+    {
+      "event_title": "普京访华惊呆众人!两个细节太罕见,俄媒:从未见过如此阵仗",
+      "event_id": "event_6",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5665838068152262990",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:28:58",
+      "event_time": "9月5日 07:40"
+    },
+    {
+      "event_title": "普京访华收获四大消息",
+      "event_id": "event_7",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=803104334865981743",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:29:00",
+      "event_time": "9月4日 17:51"
+    },
+    {
+      "event_title": "普京访华有看点,“1 + 4”会谈揭秘,多方会晤引关注",
+      "event_id": "event_8",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6512394065105081290",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:29:02",
+      "event_time": "9月1日 22:39"
+    },
+    {
+      "event_title": "普京携13名高官抵华，莫迪临行接泽连斯基电话，上合迎关键重塑期",
+      "event_id": "event_9",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=29215967640111079",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:29:04",
+      "event_time": "9月1日 17:37"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 9,
+    "total_comments": 9,
+    "events_with_comments": 9,
+    "level1_scrape_time": "2025-09-13 01:28:04",
+    "level2_scrape_time": "2025-09-13 01:29:04"
+  }
+}

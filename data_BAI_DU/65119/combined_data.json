@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:36:54"
+  },
+  "core_event": {
+    "core_event_name": "利物浦报价格伊引热议",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:36:10"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "巴萨有意水晶宫中卫格伊,将面临皇马、利物浦竞争",
+      "link": "http://www.sohu.com/a/932331262_362070",
+      "time": "9月6日 06:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "诚意!绿帽哥:红军对水晶宫很不满!但仍愿花2500万冬窗买格伊",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hdrg",
+      "time": "9月2日 16:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "利物浦报价3500万英镑",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002h9hw",
+      "time": "8月31日 11:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "利物浦报价4000万镑才出售格伊",
+      "link": "http://baijiahao.baidu.com/s?id=1841906051826693843&wfr=spider&for=pc",
+      "time": "8月31日 02:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "利物浦对格伊的报价满足水晶宫，只等后者拍板放人",
+      "link": "http://www.163.com/dy/article/K88MECTT0529DS7F.html",
+      "time": "8月31日 01:57",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "巴萨有意水晶宫中卫格伊,将面临皇马、利物浦竞争",
+      "event_id": "event_1",
+      "event_url": "http://www.sohu.com/a/932331262_362070",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:36:26",
+      "event_time": "9月6日 06:46"
+    },
+    {
+      "event_title": "诚意!绿帽哥:红军对水晶宫很不满!但仍愿花2500万冬窗买格伊",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hdrg",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:36:28",
+      "event_time": "9月2日 16:45"
+    },
+    {
+      "event_title": "利物浦报价3500万英镑",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002h9hw",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:36:30",
+      "event_time": "8月31日 11:20"
+    },
+    {
+      "event_title": "利物浦报价4000万镑才出售格伊",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841906051826693843&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "山海经里的YoYo",
+      "comment_time": "09-07 13:12",
+      "comment_content": "这个作者有点东西哦～",
+      "user_location": "北京",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:36:47",
+      "event_time": "8月31日 02:26"
+    },
+    {
+      "event_title": "利物浦对格伊的报价满足水晶宫，只等后者拍板放人",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K88MECTT0529DS7F.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:36:49",
+      "event_time": "8月31日 01:57"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 18:36:25",
+    "level2_scrape_time": "2025-09-12 18:36:49"
+  }
+}

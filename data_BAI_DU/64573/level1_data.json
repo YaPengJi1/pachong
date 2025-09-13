@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "美联储降息和宽松环境延续",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:24:34"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美联储沃勒力推本月启动降息，释放9月首降+连续宽松信号",
+      "link": "http://baijiahao.baidu.com/s?id=1842334156115946594&wfr=spider&for=pc",
+      "time": "9月4日 19:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美联储理事沃勒力推9月降息 其他官员仍持谨慎态度",
+      "link": "http://finance.sina.cn/hkstock/gsxw/2025-09-03/detail-infpfxpz2397055.d.html",
+      "time": "9月3日 23:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美联储仍有望在9月开启降息，宽松环境或能延续",
+      "link": "http://finance.sina.com.cn/money/fund/jjh/2025-09-03/doc-infpfakp9774089.shtml?froms=bdmp",
+      "time": "9月3日 16:30",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-13 02:24:49"
+}

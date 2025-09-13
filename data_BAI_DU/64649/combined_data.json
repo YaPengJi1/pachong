@@ -1,0 +1,248 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:01:30"
+  },
+  "core_event": {
+    "core_event_name": "U22国足首开纪录，亚洲杯前景几何",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:00:24"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U22国足2-1险胜东帝汶",
+      "link": "http://baijiahao.baidu.com/s?id=1842285152940565968&wfr=spider&for=pc",
+      "time": "9月4日 06:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "拜合拉木、王钰栋进球，中国U22队2-1东帝汶U22队",
+      "link": "http://www.dongqiudi.com/articles/5353012.html",
+      "time": "9月3日 23:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U22国足表现不及格!U23亚预赛首轮2比1小胜东帝汶",
+      "link": "http://news.hnr.cn/shxw/article/1/1963240553950556162",
+      "time": "9月3日 21:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22国足苦战1小时仅进1球",
+      "link": "http://baijiahao.baidu.com/s?id=1842251562248759019&wfr=spider&for=pc",
+      "time": "9月3日 21:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "U23亚预赛:U22国足主场2-1险胜东帝汶 拜合拉木、王钰栋破门",
+      "link": "http://cj.sina.com.cn/articles/view/7880068820/1d5b04ed402001dcfu",
+      "time": "9月3日 21:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "U22国足2-1东帝汶 王钰栋破门 向余望失空门+失单刀+中横梁",
+      "link": "http://news.sina.cn/gn/2025-09-03/detail-infpftfy7570898.d.html",
+      "time": "9月3日 21:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "U22国足首开纪录:拜合拉木后点扛开对手 面对门将冷静施射破门",
+      "link": "http://www.bilibili.com/video/BV1BwazzTEex",
+      "time": "9月3日 21:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "U22国足首战亚预赛揭幕，安东尼战术革新，球队状态正佳待爆发",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5569421934997515081",
+      "time": "9月3日 20:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "U22国足1-0险胜东帝汶!拜合拉木破门,亚洲杯前景几何?",
+      "link": "http://www.sohu.com/a/931587393_121976701",
+      "time": "9月3日 20:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "U23亚预赛首秀 中国战东帝汶 王钰栋领衔出征",
+      "link": "http://www.163.com/dy/article/K8HGH24M0530UTM3.html",
+      "time": "9月3日 12:07",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "U22国足2-1险胜东帝汶",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842285152940565968&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "凝思破晓1q",
+      "comment_time": "09-04 10:54",
+      "comment_content": "这还叫超常发挥呀，险胜可以理解为几乎不胜，场地不好，双方都一样，究其原因：1.过于轻敌，这应和教练组灌输的指导思想有关。2.进攻不力，无章法， 无套路，白白浪费了全场的控球率占优。3.防御不抵对方的防守反击，对手打出的威胁球远胜于我方。",
+      "user_location": "河南",
+      "like_count": 2,
+      "scrape_time": "2025-09-13 02:00:54",
+      "event_time": "9月4日 06:53"
+    },
+    {
+      "event_title": "U22国足2-1险胜东帝汶",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842285152940565968&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "zhichengzhaxuyaoshi",
+      "comment_time": "09-04 07:21",
+      "comment_content": "国足超常发挥，险胜东南亚劲旅东帝汶。",
+      "user_location": "辽宁",
+      "like_count": 3,
+      "scrape_time": "2025-09-13 02:00:54",
+      "event_time": "9月4日 06:53"
+    },
+    {
+      "event_title": "拜合拉木、王钰栋进球，中国U22队2-1东帝汶U22队",
+      "event_id": "event_2",
+      "event_url": "http://www.dongqiudi.com/articles/5353012.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:00:56",
+      "event_time": "9月3日 23:30"
+    },
+    {
+      "event_title": "U22国足表现不及格!U23亚预赛首轮2比1小胜东帝汶",
+      "event_id": "event_3",
+      "event_url": "http://news.hnr.cn/shxw/article/1/1963240553950556162",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:00:58",
+      "event_time": "9月3日 21:59"
+    },
+    {
+      "event_title": "U22国足苦战1小时仅进1球",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842251562248759019&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:01:13",
+      "event_time": "9月3日 21:59"
+    },
+    {
+      "event_title": "U23亚预赛:U22国足主场2-1险胜东帝汶 拜合拉木、王钰栋破门",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/7880068820/1d5b04ed402001dcfu",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:01:15",
+      "event_time": "9月3日 21:32"
+    },
+    {
+      "event_title": "U22国足2-1东帝汶 王钰栋破门 向余望失空门+失单刀+中横梁",
+      "event_id": "event_6",
+      "event_url": "http://news.sina.cn/gn/2025-09-03/detail-infpftfy7570898.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:01:17",
+      "event_time": "9月3日 21:31"
+    },
+    {
+      "event_title": "U22国足首开纪录:拜合拉木后点扛开对手 面对门将冷静施射破门",
+      "event_id": "event_7",
+      "event_url": "http://www.bilibili.com/video/BV1BwazzTEex",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:01:19",
+      "event_time": "9月3日 21:16"
+    },
+    {
+      "event_title": "U22国足首战亚预赛揭幕，安东尼战术革新，球队状态正佳待爆发",
+      "event_id": "event_8",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5569421934997515081",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:01:21",
+      "event_time": "9月3日 20:34"
+    },
+    {
+      "event_title": "U22国足1-0险胜东帝汶!拜合拉木破门,亚洲杯前景几何?",
+      "event_id": "event_9",
+      "event_url": "http://www.sohu.com/a/931587393_121976701",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:01:23",
+      "event_time": "9月3日 20:28"
+    },
+    {
+      "event_title": "U23亚预赛首秀 中国战东帝汶 王钰栋领衔出征",
+      "event_id": "event_10",
+      "event_url": "http://www.163.com/dy/article/K8HGH24M0530UTM3.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:01:25",
+      "event_time": "9月3日 12:07"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 10,
+    "total_comments": 11,
+    "events_with_comments": 10,
+    "level1_scrape_time": "2025-09-13 02:00:38",
+    "level2_scrape_time": "2025-09-13 02:01:25"
+  }
+}

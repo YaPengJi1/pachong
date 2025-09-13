@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "普京对乌克兰军事行动的态度",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:04:17"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "普京:外国军队如在乌出现 将成俄军合法打击目标",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2830081753746756700",
+      "time": "9月8日 15:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "普京：出现在乌克兰的西方部队将成为俄军合法打击目标",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15487494351597025108",
+      "time": "9月6日 15:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "CNN:普京称,如果西方军队进入乌克兰,将成为“合法目标”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3090148616358757852",
+      "time": "9月6日 10:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "阅兵后普京发布重要声明:除非同意协议,否则军事打击更加猛烈",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6920065301014919916",
+      "time": "9月5日 14:38",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 15:04:31"
+}

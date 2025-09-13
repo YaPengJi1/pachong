@@ -1,0 +1,59 @@
+{
+  "core_event_name": "以色列加沙地带冲突",
+  "comments": [
+    {
+      "event_title": "以军持续袭击加沙城 民众艰难决定去留",
+      "event_id": "event_1",
+      "event_url": "http://news.yunnan.cn/system/2025/09/07/033628184.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:37:33",
+      "event_time": "9月7日 09:56"
+    },
+    {
+      "event_title": "以军袭击加沙地带多地 再袭高层建筑",
+      "event_id": "event_2",
+      "event_url": "http://tv.cctv.com/2025/09/07/VIDExKGIDvmntryn51U2pHlj250907.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:37:35",
+      "event_time": "9月7日 09:25"
+    },
+    {
+      "event_title": "以色列首都遇袭，加沙领土全面告急，中方锁定最终目标",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=3379629040013215882",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:37:38",
+      "event_time": "9月4日 20:04"
+    },
+    {
+      "event_title": "以色列总理证实以军袭击哈马斯军方代表",
+      "event_id": "event_4",
+      "event_url": "http://weibo.com/2181597154/Q2s87bvyQ",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:37:40",
+      "event_time": "8月31日 23:32"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-13 00:37:40"
+}

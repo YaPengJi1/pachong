@@ -1,0 +1,424 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:36:49"
+  },
+  "core_event": {
+    "core_event_name": "京多安转会加拉塔萨雷",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:35:10"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "加拉塔萨雷没放弃追20,冬窗可能再次行动",
+      "link": "http://www.dongqiudi.com/articles/5364218.html",
+      "time": "9月10日 09:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "加拉塔萨雷主帅:恰20想来我们这里,但国米要价4000万欧元",
+      "link": "http://www.dongqiudi.com/articles/5361466.html",
+      "time": "9月8日 19:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "加拉塔萨雷主帅:我们近期曾再次尝试引进恰20,但国米不放人",
+      "link": "http://www.dongqiudi.com/articles/5358813.html",
+      "time": "9月7日 08:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "曼城免费放走京多安",
+      "link": "http://baijiahao.baidu.com/s?id=1842197805314978511&wfr=spider&for=pc",
+      "time": "9月3日 07:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "京多安的转会没有任何费用,曼城省下他两个月的工资",
+      "link": "http://www.dongqiudi.com/articles/5351629.html",
+      "time": "9月3日 07:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "京多安:为加拉塔萨雷效力是儿时的梦想,此刻的喜悦无以言表",
+      "link": "http://baijiahao.baidu.com/s?id=1842190929918066948&wfr=spider&for=pc",
+      "time": "9月3日 05:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "加拉塔萨雷官方公告确认，京多安税后年薪将达到450万欧元",
+      "link": "http://baijiahao.baidu.com/s?id=1842178851337471174&wfr=spider&for=pc",
+      "time": "9月3日 02:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "34岁曼城中场京多安加盟加拉塔萨雷,双方签约两年",
+      "link": "http://m.dongqiudi.com/article/5351447.html",
+      "time": "9月3日 02:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "曼城中场京多安加盟加拉塔萨雷,双方签约两年",
+      "link": "http://www.dongqiudi.com/articles/5351447.html",
+      "time": "9月3日 02:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "京多安:穿上加拉塔萨雷球衣一直是我的愿望,没考虑其他报价",
+      "link": "http://m.dongqiudi.com/article.html?id=5351410",
+      "time": "9月3日 01:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "萨内社媒欢迎京多安加盟加拉塔萨雷",
+      "link": "http://m.dongqiudi.com/article/5351227.html",
+      "time": "9月2日 22:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "京多安晒儿时戴着加拉塔萨雷帽子的照片",
+      "link": "http://www.dongqiudi.com/articles/5351110.html",
+      "time": "9月2日 21:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "京多安将第二次离开曼城,加盟加拉塔萨雷",
+      "link": "http://www.dongqiudi.com/articles/5350843.html",
+      "time": "9月2日 19:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "京多安转会加拉塔萨雷已完成,将以自由身加盟",
+      "link": "http://www.dongqiudi.com/articles/5350730.html",
+      "time": "9月2日 18:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "法尔克:京多安预计周二抵达伊斯坦布尔",
+      "link": "http://www.dongqiudi.com/articles/5349559.html",
+      "time": "9月2日 03:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "加拉塔萨雷在探索引进恰20，京多安的转会即将完成",
+      "link": "http://www.dongqiudi.com/articles/5349378.html",
+      "time": "9月2日 01:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "加拉塔萨雷与曼城就京多安达成协议",
+      "link": "http://m.dongqiudi.com/article/5349201.html",
+      "time": "9月2日 00:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "ESPN:加拉塔萨雷对京多安感兴趣,球员想去土超感受一下",
+      "link": "http://m.dongqiudi.com/article/5349085.html",
+      "time": "9月1日 23:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "加拉塔萨雷向京多安开500万欧年薪",
+      "link": "http://m.dongqiudi.com/article/5349060.html",
+      "time": "9月1日 23:14",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "加拉塔萨雷没放弃追20,冬窗可能再次行动",
+      "event_id": "event_1",
+      "event_url": "http://www.dongqiudi.com/articles/5364218.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:35:26",
+      "event_time": "9月10日 09:27"
+    },
+    {
+      "event_title": "加拉塔萨雷主帅:恰20想来我们这里,但国米要价4000万欧元",
+      "event_id": "event_2",
+      "event_url": "http://www.dongqiudi.com/articles/5361466.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:35:28",
+      "event_time": "9月8日 19:29"
+    },
+    {
+      "event_title": "加拉塔萨雷主帅:我们近期曾再次尝试引进恰20,但国米不放人",
+      "event_id": "event_3",
+      "event_url": "http://www.dongqiudi.com/articles/5358813.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:35:30",
+      "event_time": "9月7日 08:25"
+    },
+    {
+      "event_title": "曼城免费放走京多安",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842197805314978511&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:35:47",
+      "event_time": "9月3日 07:17"
+    },
+    {
+      "event_title": "京多安的转会没有任何费用,曼城省下他两个月的工资",
+      "event_id": "event_5",
+      "event_url": "http://www.dongqiudi.com/articles/5351629.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:35:49",
+      "event_time": "9月3日 07:15"
+    },
+    {
+      "event_title": "京多安:为加拉塔萨雷效力是儿时的梦想,此刻的喜悦无以言表",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842190929918066948&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:36:05",
+      "event_time": "9月3日 05:55"
+    },
+    {
+      "event_title": "加拉塔萨雷官方公告确认，京多安税后年薪将达到450万欧元",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842178851337471174&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:36:21",
+      "event_time": "9月3日 02:43"
+    },
+    {
+      "event_title": "34岁曼城中场京多安加盟加拉塔萨雷,双方签约两年",
+      "event_id": "event_8",
+      "event_url": "http://m.dongqiudi.com/article/5351447.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:36:23",
+      "event_time": "9月3日 02:42"
+    },
+    {
+      "event_title": "曼城中场京多安加盟加拉塔萨雷,双方签约两年",
+      "event_id": "event_9",
+      "event_url": "http://www.dongqiudi.com/articles/5351447.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:36:25",
+      "event_time": "9月3日 02:42"
+    },
+    {
+      "event_title": "京多安:穿上加拉塔萨雷球衣一直是我的愿望,没考虑其他报价",
+      "event_id": "event_10",
+      "event_url": "http://m.dongqiudi.com/article.html?id=5351410",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:36:27",
+      "event_time": "9月3日 01:43"
+    },
+    {
+      "event_title": "萨内社媒欢迎京多安加盟加拉塔萨雷",
+      "event_id": "event_11",
+      "event_url": "http://m.dongqiudi.com/article/5351227.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:36:29",
+      "event_time": "9月2日 22:58"
+    },
+    {
+      "event_title": "京多安晒儿时戴着加拉塔萨雷帽子的照片",
+      "event_id": "event_12",
+      "event_url": "http://www.dongqiudi.com/articles/5351110.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:36:31",
+      "event_time": "9月2日 21:59"
+    },
+    {
+      "event_title": "京多安将第二次离开曼城,加盟加拉塔萨雷",
+      "event_id": "event_13",
+      "event_url": "http://www.dongqiudi.com/articles/5350843.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:36:33",
+      "event_time": "9月2日 19:09"
+    },
+    {
+      "event_title": "京多安转会加拉塔萨雷已完成,将以自由身加盟",
+      "event_id": "event_14",
+      "event_url": "http://www.dongqiudi.com/articles/5350730.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:36:35",
+      "event_time": "9月2日 18:00"
+    },
+    {
+      "event_title": "法尔克:京多安预计周二抵达伊斯坦布尔",
+      "event_id": "event_15",
+      "event_url": "http://www.dongqiudi.com/articles/5349559.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:36:37",
+      "event_time": "9月2日 03:55"
+    },
+    {
+      "event_title": "加拉塔萨雷在探索引进恰20，京多安的转会即将完成",
+      "event_id": "event_16",
+      "event_url": "http://www.dongqiudi.com/articles/5349378.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:36:39",
+      "event_time": "9月2日 01:35"
+    },
+    {
+      "event_title": "加拉塔萨雷与曼城就京多安达成协议",
+      "event_id": "event_17",
+      "event_url": "http://m.dongqiudi.com/article/5349201.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:36:41",
+      "event_time": "9月2日 00:07"
+    },
+    {
+      "event_title": "ESPN:加拉塔萨雷对京多安感兴趣,球员想去土超感受一下",
+      "event_id": "event_18",
+      "event_url": "http://m.dongqiudi.com/article/5349085.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:36:43",
+      "event_time": "9月1日 23:17"
+    },
+    {
+      "event_title": "加拉塔萨雷向京多安开500万欧年薪",
+      "event_id": "event_19",
+      "event_url": "http://m.dongqiudi.com/article/5349060.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:36:45",
+      "event_time": "9月1日 23:14"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 19,
+    "total_comments": 19,
+    "events_with_comments": 19,
+    "level1_scrape_time": "2025-09-12 17:35:25",
+    "level2_scrape_time": "2025-09-12 17:36:45"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:33:20"
+  },
+  "core_event": {
+    "core_event_name": "东契奇欧洲杯16强之旅",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:32:54"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "东契奇单节轰22分",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hlhu",
+      "time": "9月8日 07:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "均率队进8强!东契奇欧锦赛场均34分排名第一 字母哥30分居次!",
+      "link": "http://k.sina.com.cn/article_7880068820_1d5b04ed402001dfik.html",
+      "time": "9月8日 06:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "东契奇率队挺进16强,斯洛文尼亚胜以色列",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=64079012678001691",
+      "time": "9月5日 10:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "东契奇挺进欧洲杯16强",
+      "link": "http://cj.sina.com.cn/articles/view/5887996859/15ef3b3bb001014mns",
+      "time": "9月4日 17:41",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "东契奇单节轰22分",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hlhu",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:33:09",
+      "event_time": "9月8日 07:37"
+    },
+    {
+      "event_title": "均率队进8强!东契奇欧锦赛场均34分排名第一 字母哥30分居次!",
+      "event_id": "event_2",
+      "event_url": "http://k.sina.com.cn/article_7880068820_1d5b04ed402001dfik.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:33:11",
+      "event_time": "9月8日 06:02"
+    },
+    {
+      "event_title": "东契奇率队挺进16强,斯洛文尼亚胜以色列",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=64079012678001691",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:33:13",
+      "event_time": "9月5日 10:22"
+    },
+    {
+      "event_title": "东契奇挺进欧洲杯16强",
+      "event_id": "event_4",
+      "event_url": "http://cj.sina.com.cn/articles/view/5887996859/15ef3b3bb001014mns",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:33:15",
+      "event_time": "9月4日 17:41"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 14:33:08",
+    "level2_scrape_time": "2025-09-12 14:33:15"
+  }
+}

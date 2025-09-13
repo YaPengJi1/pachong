@@ -1,0 +1,100 @@
+{
+  "core_info": {
+    "core_event_name": "A股收评：沪指涨0.38%，创业板指跌0.84%",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:41:24"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "A股收评:放量大涨!创业板指、科创50指数涨超5%,CPO概念、PCB及半导体板块爆发",
+      "link": "http://hkstock.cnfol.com/shichangfenxi/20250911/31634183.shtml",
+      "time": "昨天 15:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "A股收评:创业板指、科创50指数涨超5%,CPO概念爆发",
+      "link": "http://3g.cnfol.com/hkstock/shichangfenxi/20250911/31634353.shtml",
+      "time": "昨天 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "A股尾盘回暖跌幅收窄，沪指3800点失而复得",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31578545",
+      "time": "9月9日 15:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "A股收评:沪指涨0.38%创业板指跌0.84%,北证50涨1.78%创新高,PEEK材料、机器人板块走强!超3900股上涨,成交2.46万亿放量1148亿",
+      "link": "http://baijiahao.baidu.com/s?id=1842678582053760518&wfr=spider&for=pc",
+      "time": "9月8日 15:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "大A再回3800点，4857家红盘",
+      "link": "http://weibo.com/7670371504/Q3bGMcqIe",
+      "time": "9月5日 19:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "A股突然爆发，超4800只个股上涨，创业板指飙升逾6%",
+      "link": "http://baijiahao.baidu.com/s?id=1842423968966012637&wfr=spider&for=pc",
+      "time": "9月5日 19:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "A股收评:创业板指大涨6.55% 固态电池概念股集体爆发",
+      "link": "http://www.163.com/dy/article/K8N1BK2805199NPP.html",
+      "time": "9月5日 15:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "沪指重回3800点,创业板指收涨6.55%",
+      "link": "http://baijiahao.baidu.com/s?id=1842419047415587412&wfr=spider&for=pc",
+      "time": "9月5日 15:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "A股单边上扬,午后直线拉升,沪指收复3800点",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31546080",
+      "time": "9月5日 15:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "A股走势分化 创业板指涨近1% 市场调整中建议优化持仓结构",
+      "link": "http://baijiahao.baidu.com/s?id=1842255403394714046&wfr=spider&for=pc",
+      "time": "9月3日 23:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "三大股指集体收涨 影视院线板块全天强势",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 11,
+  "scrape_time": "2025-09-12 14:41:38"
+}

@@ -1,0 +1,72 @@
+{
+  "core_event_name": "寒武纪股价飙涨5.01%",
+  "comments": [
+    {
+      "event_title": "寒武纪股价涨5.01%,农银汇理基金旗下6只基金重仓,合计持有23.89万股浮盈赚取1734.99万元",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842120543234165517&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:01:59",
+      "event_time": "9月2日 11:17"
+    },
+    {
+      "event_title": "寒武纪股价涨5.01%,景顺长城基金旗下12只基金重仓,合计持有39.3万股浮盈赚取2853.65万元",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.com.cn/money/fund/aiassistant/zcgyd/2025-09-02/doc-infpanvf8495020.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:02:01",
+      "event_time": "9月2日 11:17"
+    },
+    {
+      "event_title": "寒武纪股价涨5.01%,创金合信基金旗下3只基金重仓,合计持有4.59万股浮盈赚取333.32万元",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.cn/2025-09-02/detail-infpanvf8494436.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:02:03",
+      "event_time": "9月2日 11:16"
+    },
+    {
+      "event_title": "寒武纪股价涨5.01%,华泰资管旗下1只基金重仓,持有6077股浮盈赚取44.13万元",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.cn/2025-09-02/detail-infpanvi6983212.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:02:05",
+      "event_time": "9月2日 11:16"
+    },
+    {
+      "event_title": "寒武纪盘中涨超5%",
+      "event_id": "event_5",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:02:07",
+      "event_time": "1970年"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 17:02:07"
+}

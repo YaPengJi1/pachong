@@ -1,0 +1,382 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 19:08:52"
+  },
+  "core_event": {
+    "core_event_name": "IFA2025开幕在即，国产品牌“科技”大秀",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:07:03"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国家电军团成IFA主角,如何进一步抢占欧洲高端市场",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31587112",
+      "time": "9月10日 17:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "电视厂商狂卷IFA:中日韩RGB-MiniLED量产破局,AI将重塑家庭中枢",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31553462",
+      "time": "9月8日 14:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "海信U7S Pro即将量产上市",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12089980027623959107",
+      "time": "9月8日 11:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "德国:2025年柏林国际消费电子展开幕 聚焦人工智能等主题",
+      "link": "http://tv.cctv.com/2025/09/07/VIDE55pDVL7utc3LjjeSQCeo250907.shtml",
+      "time": "9月7日 08:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "“中国智造”闪耀2025柏林IFA展",
+      "link": "http://www.chinanews.com.cn/gj/2025/09-06/10477935.shtml",
+      "time": "9月6日 23:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "美的领先科技惊艳亮相IFA2025，为全球用户重构全屋智慧生活",
+      "link": "http://www.time-weekly.com/wap-article/323737",
+      "time": "9月6日 20:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "今年IFA的“视觉焦点”来自全球首次亮相的长虹熊猫主题家电",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4919927759085144758",
+      "time": "9月6日 18:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "IFA 2025:安克创新携品牌升级与 AI 新品矩阵成焦点",
+      "link": "http://baijiahao.baidu.com/s?id=1842494593892745006&wfr=spider&for=pc",
+      "time": "9月6日 14:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "联想多款新品亮相IFA2025",
+      "link": "http://tech.gmw.cn/2025-09/06/content_38268587.htm",
+      "time": "9月6日 13:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "中国品牌“挤爆”IFA 2025:以AI重构家电,征服欧洲市场",
+      "link": "http://baijiahao.baidu.com/s?id=1842479865745210834&wfr=spider&for=pc",
+      "time": "9月6日 10:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "暴走IFA展会带来八大看点",
+      "link": "http://baijiahao.baidu.com/s?id=1842479283034789234&wfr=spider&for=pc",
+      "time": "9月6日 10:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "IFA 2025:中国品牌集体“登陆”欧洲,全球消费电子格局加速重塑",
+      "link": "http://www.ebrun.com/20250906/598494.shtml",
+      "time": "9月6日 00:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "海信炸场 IFA 2025,全球显示进入RGB-Mini LED时刻",
+      "link": "http://www.leikeji.com/article/71532",
+      "time": "9月5日 21:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "IFA2025:AI家电开路、体育营销搭桥,“中国力量”爆发",
+      "link": "http://baijiahao.baidu.com/s?id=1842427048382311365&wfr=spider&for=pc",
+      "time": "9月5日 20:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "安克创新发布全球品牌升级",
+      "link": "http://news.sina.com.cn/sx/2025-09-05/detail-infpmqqi0867519.shtml",
+      "time": "9月5日 16:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "联想携多款新品亮相德国柏林IFA2025",
+      "link": "http://app.myzaker.com/news/article.php?m=1757101174&pk=68ba98618e9f0937825930dc",
+      "time": "9月5日 15:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "IFA2025开幕在即,国产品牌“科技”大秀期待值拉满!",
+      "link": "http://3g.cnfol.com/hy_stock/hangyejingcui/20250902/31607425.shtml",
+      "time": "9月2日 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "中国家电军团成IFA主角,如何进一步抢占欧洲高端市场",
+      "event_id": "event_1",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31587112",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:07:19",
+      "event_time": "9月10日 17:51"
+    },
+    {
+      "event_title": "电视厂商狂卷IFA:中日韩RGB-MiniLED量产破局,AI将重塑家庭中枢",
+      "event_id": "event_2",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31553462",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:07:21",
+      "event_time": "9月8日 14:24"
+    },
+    {
+      "event_title": "海信U7S Pro即将量产上市",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12089980027623959107",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:07:23",
+      "event_time": "9月8日 11:32"
+    },
+    {
+      "event_title": "德国:2025年柏林国际消费电子展开幕 聚焦人工智能等主题",
+      "event_id": "event_4",
+      "event_url": "http://tv.cctv.com/2025/09/07/VIDE55pDVL7utc3LjjeSQCeo250907.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:07:25",
+      "event_time": "9月7日 08:08"
+    },
+    {
+      "event_title": "“中国智造”闪耀2025柏林IFA展",
+      "event_id": "event_5",
+      "event_url": "http://www.chinanews.com.cn/gj/2025/09-06/10477935.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:07:27",
+      "event_time": "9月6日 23:52"
+    },
+    {
+      "event_title": "美的领先科技惊艳亮相IFA2025，为全球用户重构全屋智慧生活",
+      "event_id": "event_6",
+      "event_url": "http://www.time-weekly.com/wap-article/323737",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:07:29",
+      "event_time": "9月6日 20:24"
+    },
+    {
+      "event_title": "今年IFA的“视觉焦点”来自全球首次亮相的长虹熊猫主题家电",
+      "event_id": "event_7",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4919927759085144758",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:07:31",
+      "event_time": "9月6日 18:13"
+    },
+    {
+      "event_title": "IFA 2025:安克创新携品牌升级与 AI 新品矩阵成焦点",
+      "event_id": "event_8",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842494593892745006&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:07:48",
+      "event_time": "9月6日 14:22"
+    },
+    {
+      "event_title": "联想多款新品亮相IFA2025",
+      "event_id": "event_9",
+      "event_url": "http://tech.gmw.cn/2025-09/06/content_38268587.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:07:50",
+      "event_time": "9月6日 13:09"
+    },
+    {
+      "event_title": "中国品牌“挤爆”IFA 2025:以AI重构家电,征服欧洲市场",
+      "event_id": "event_10",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842479865745210834&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:08:06",
+      "event_time": "9月6日 10:19"
+    },
+    {
+      "event_title": "暴走IFA展会带来八大看点",
+      "event_id": "event_11",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842479283034789234&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:08:22",
+      "event_time": "9月6日 10:19"
+    },
+    {
+      "event_title": "IFA 2025:中国品牌集体“登陆”欧洲,全球消费电子格局加速重塑",
+      "event_id": "event_12",
+      "event_url": "http://www.ebrun.com/20250906/598494.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:08:24",
+      "event_time": "9月6日 00:17"
+    },
+    {
+      "event_title": "海信炸场 IFA 2025,全球显示进入RGB-Mini LED时刻",
+      "event_id": "event_13",
+      "event_url": "http://www.leikeji.com/article/71532",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:08:26",
+      "event_time": "9月5日 21:00"
+    },
+    {
+      "event_title": "IFA2025:AI家电开路、体育营销搭桥,“中国力量”爆发",
+      "event_id": "event_14",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842427048382311365&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:08:42",
+      "event_time": "9月5日 20:28"
+    },
+    {
+      "event_title": "安克创新发布全球品牌升级",
+      "event_id": "event_15",
+      "event_url": "http://news.sina.com.cn/sx/2025-09-05/detail-infpmqqi0867519.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:08:44",
+      "event_time": "9月5日 16:29"
+    },
+    {
+      "event_title": "联想携多款新品亮相德国柏林IFA2025",
+      "event_id": "event_16",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1757101174&pk=68ba98618e9f0937825930dc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:08:46",
+      "event_time": "9月5日 15:48"
+    },
+    {
+      "event_title": "IFA2025开幕在即,国产品牌“科技”大秀期待值拉满!",
+      "event_id": "event_17",
+      "event_url": "http://3g.cnfol.com/hy_stock/hangyejingcui/20250902/31607425.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:08:48",
+      "event_time": "9月2日 00:00"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 17,
+    "total_comments": 17,
+    "events_with_comments": 17,
+    "level1_scrape_time": "2025-09-12 19:07:18",
+    "level2_scrape_time": "2025-09-12 19:08:48"
+  }
+}

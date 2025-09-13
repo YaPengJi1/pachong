@@ -1,0 +1,269 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:59:13"
+  },
+  "core_event": {
+    "core_event_name": "王楚钦北大入学照",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:57:41"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "入学北大!王楚钦晒照发文:冬去秋来,又是一程",
+      "link": "http://baijiahao.baidu.com/s?id=1842513996326006898&wfr=spider&for=pc",
+      "time": "9月6日 19:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "王楚钦晒北大入学照，“冬去秋来，又是一程”",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31552397",
+      "time": "9月6日 13:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "王楚钦晒北大入学照:冬去秋来,又是一程",
+      "link": "http://finance.sina.com.cn/jjxw/2025-09-06/doc-infppart7044706.shtml",
+      "time": "9月6日 07:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "入学北大!王楚钦晒照发文",
+      "link": "http://news.cyol.com/gb/articles/2025-09/06/content_LgndmdhGKN.html",
+      "time": "9月6日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "王楚钦晒北大入学照，“冬去秋来，又是一程”，此前北大曾回应其考研，以奥运冠军身份申请，不占普通学生名额",
+      "link": "http://baijiahao.baidu.com/s?id=1842431326564358298&wfr=spider&for=pc",
+      "time": "9月5日 21:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "王楚钦晒北大入学照",
+      "link": "http://baijiahao.baidu.com/s?id=1842429855777169971&wfr=spider&for=pc",
+      "time": "9月5日 21:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "王楚钦入选北大",
+      "link": "http://baijiahao.baidu.com/s?id=1842303759172240496&wfr=spider&for=pc",
+      "time": "9月4日 11:49",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "入学北大!王楚钦晒照发文:冬去秋来,又是一程",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842513996326006898&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:58:14",
+      "event_time": "9月6日 19:31"
+    },
+    {
+      "event_title": "王楚钦晒北大入学照，“冬去秋来，又是一程”",
+      "event_id": "event_2",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31552397",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:58:16",
+      "event_time": "9月6日 13:11"
+    },
+    {
+      "event_title": "王楚钦晒北大入学照:冬去秋来,又是一程",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.com.cn/jjxw/2025-09-06/doc-infppart7044706.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:58:18",
+      "event_time": "9月6日 07:59"
+    },
+    {
+      "event_title": "入学北大!王楚钦晒照发文",
+      "event_id": "event_4",
+      "event_url": "http://news.cyol.com/gb/articles/2025-09/06/content_LgndmdhGKN.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:58:20",
+      "event_time": "9月6日 00:00"
+    },
+    {
+      "event_title": "王楚钦晒北大入学照，“冬去秋来，又是一程”，此前北大曾回应其考研，以奥运冠军身份申请，不占普通学生名额",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842431326564358298&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "玫瑰之约ZP",
+      "comment_time": "09-06 06:42",
+      "comment_content": "孙颖莎申请北大清华不更合格？",
+      "user_location": "山东",
+      "like_count": 41,
+      "scrape_time": "2025-09-12 18:58:36",
+      "event_time": "9月5日 21:28"
+    },
+    {
+      "event_title": "王楚钦晒北大入学照，“冬去秋来，又是一程”，此前北大曾回应其考研，以奥运冠军身份申请，不占普通学生名额",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842431326564358298&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "静好fuNLH",
+      "comment_time": "09-06 08:15",
+      "comment_content": "祖国的宠儿，为国争光，努力上进，祝福！",
+      "user_location": "河南",
+      "like_count": 39,
+      "scrape_time": "2025-09-12 18:58:36",
+      "event_time": "9月5日 21:28"
+    },
+    {
+      "event_title": "王楚钦晒北大入学照，“冬去秋来，又是一程”，此前北大曾回应其考研，以奥运冠军身份申请，不占普通学生名额",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842431326564358298&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "清晨梦见秋天",
+      "comment_time": "09-06 08:57",
+      "comment_content": "优秀的青年，腹有诗书气自华，心有家国安天下",
+      "user_location": "上海",
+      "like_count": 3,
+      "scrape_time": "2025-09-12 18:58:36",
+      "event_time": "9月5日 21:28"
+    },
+    {
+      "event_title": "王楚钦晒北大入学照",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842429855777169971&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:58:53",
+      "event_time": "9月5日 21:13"
+    },
+    {
+      "event_title": "王楚钦入选北大",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842303759172240496&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "折迎夏侯Sx",
+      "comment_time": "09-04 18:37",
+      "comment_content": "为丁宁高兴",
+      "user_location": "上海",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:59:09"
+    },
+    {
+      "event_title": "王楚钦入选北大",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842303759172240496&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "LHXtCTZL",
+      "comment_time": "09-04 13:39",
+      "comment_content": "世界冠军开大G很正常嘛，凭技术吃饭",
+      "user_location": "山东",
+      "like_count": 8,
+      "scrape_time": "2025-09-12 18:59:09"
+    },
+    {
+      "event_title": "王楚钦入选北大",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842303759172240496&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "Ghost爱吃cheeseburger",
+      "comment_time": "09-04 11:51",
+      "comment_content": "北大研究生王楚钦真牛，开车报到唱校歌，同学们热情欢迎，祝福学业顺利！",
+      "user_location": "湖北",
+      "like_count": 62,
+      "scrape_time": "2025-09-12 18:59:09"
+    },
+    {
+      "event_title": "王楚钦入选北大",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842303759172240496&wfr=spider&for=pc",
+      "comment_index": 4,
+      "user_id": "蘸酱vc",
+      "comment_time": "09-04 17:48",
+      "comment_content": "如果只是开到停车场而不是开进礼堂呢？所以不要见风就是雨。",
+      "user_location": "江苏",
+      "like_count": 16,
+      "scrape_time": "2025-09-12 18:59:09"
+    },
+    {
+      "event_title": "王楚钦入选北大",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842303759172240496&wfr=spider&for=pc",
+      "comment_index": 5,
+      "user_id": "盟陪p",
+      "comment_time": "09-06 09:27",
+      "comment_content": "王楚钦努力前行加油",
+      "user_location": "吉林",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:59:09"
+    },
+    {
+      "event_title": "王楚钦入选北大",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842303759172240496&wfr=spider&for=pc",
+      "comment_index": 6,
+      "user_id": "百度网友0f1f0b9",
+      "comment_time": "09-04 17:08",
+      "comment_content": "楚钦挺有排面。",
+      "user_location": "湖南",
+      "like_count": 8,
+      "scrape_time": "2025-09-12 18:59:09"
+    },
+    {
+      "event_title": "王楚钦入选北大",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842303759172240496&wfr=spider&for=pc",
+      "comment_index": 7,
+      "user_id": "锺翔Fm",
+      "comment_time": "09-04 17:23",
+      "comment_content": "我建议:各大学学生应该不能开车进入校门内！",
+      "user_location": "浙江",
+      "like_count": 8,
+      "scrape_time": "2025-09-12 18:59:09"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 15,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 18:57:56",
+    "level2_scrape_time": "2025-09-12 18:59:09"
+  }
+}

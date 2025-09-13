@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "以色列轰炸卡塔尔",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:52:13"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "以色列开挂了,刚打完卡塔尔,又扬言要打击土耳其境内目标",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5488357390918115708",
+      "time": "昨天 16:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "卡塔尔遭以色列突袭，美国“保护伞”成笑话",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11914984122072658195",
+      "time": "昨天 12:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普向卡塔尔承诺“轰炸不会重演”,卡塔尔指责美方撒谎",
+      "link": "http://www.163.com/dy/article/K94803160553EI3Z.html",
+      "time": "9月10日 18:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "以色列F-35I深夜突袭多哈,卡塔尔被轰十余次",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1700982001493397797",
+      "time": "9月10日 11:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "以色列不宣而战，15架战机轰炸卡塔尔首都，重要人物当场殒命",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7214685867455278186",
+      "time": "9月10日 09:57",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 10:52:28"
+}

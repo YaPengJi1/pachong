@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:19:58"
+  },
+  "core_event": {
+    "core_event_name": "梅西在阿根廷国家队告别",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:19:14"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "梅西：难忘主场最后一战，衷心感谢所有球迷的支持",
+      "link": "http://www.dongqiudi.com/articles/5356426.html",
+      "time": "9月5日 23:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "梅西的世预赛主场谢幕:在留白中远去,把未来交给时间",
+      "link": "http://baijiahao.baidu.com/s?id=1842409936566942170&wfr=spider&for=pc",
+      "time": "9月5日 15:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "梅西确认:这是正赛主场告别 已实现梦想",
+      "link": "http://cj.sina.com.cn/articles/view/6645066132/18c13a9940200181mg",
+      "time": "9月5日 10:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "梅西可能迎来阿根廷国家队主场最后一战",
+      "link": "http://www.dongqiudi.com/articles/5354940.html",
+      "time": "9月5日 06:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "阿根廷vs委内瑞拉:梅西领衔,马斯坦托诺、德保罗出战",
+      "link": "http://www.163.com/dy/article/K8M1I5RT0549BAP0.html",
+      "time": "9月5日 06:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "阿根廷队发布对阵委内瑞拉海报 队长梅西单人出镜",
+      "link": "http://www.163.com/dy/article/K8L0IU0N0529AQIE.html",
+      "time": "9月4日 20:46",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "梅西：难忘主场最后一战，衷心感谢所有球迷的支持",
+      "event_id": "event_1",
+      "event_url": "http://www.dongqiudi.com/articles/5356426.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:19:29",
+      "event_time": "9月5日 23:38"
+    },
+    {
+      "event_title": "梅西的世预赛主场谢幕:在留白中远去,把未来交给时间",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842409936566942170&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "z21Q0xfDq",
+      "comment_time": "09-05 16:55",
+      "comment_content": "梅西主场谢幕太感人了，两球助胜完美收官，未来无限美好。",
+      "user_location": "广西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:19:46",
+      "event_time": "9月5日 15:56"
+    },
+    {
+      "event_title": "梅西确认:这是正赛主场告别 已实现梦想",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/6645066132/18c13a9940200181mg",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:19:48",
+      "event_time": "9月5日 10:50"
+    },
+    {
+      "event_title": "梅西可能迎来阿根廷国家队主场最后一战",
+      "event_id": "event_4",
+      "event_url": "http://www.dongqiudi.com/articles/5354940.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:19:50",
+      "event_time": "9月5日 06:49"
+    },
+    {
+      "event_title": "阿根廷vs委内瑞拉:梅西领衔,马斯坦托诺、德保罗出战",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8M1I5RT0549BAP0.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:19:52",
+      "event_time": "9月5日 06:22"
+    },
+    {
+      "event_title": "阿根廷队发布对阵委内瑞拉海报 队长梅西单人出镜",
+      "event_id": "event_6",
+      "event_url": "http://www.163.com/dy/article/K8L0IU0N0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:19:54",
+      "event_time": "9月4日 20:46"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 18:19:28",
+    "level2_scrape_time": "2025-09-12 18:19:54"
+  }
+}

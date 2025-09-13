@@ -1,0 +1,72 @@
+{
+  "core_event_name": "蔚来融资成功",
+  "comments": [
+    {
+      "event_title": "蔚来今年募资已超100亿",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.com.cn/jjxw/2025-09-11/doc-infqawwh6823773.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:09:09",
+      "event_time": "昨天 11:27"
+    },
+    {
+      "event_title": "蔚来募资10亿美元助力保持竞争优势",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K95UV6C805386EN4.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:09:11",
+      "event_time": "昨天 10:50"
+    },
+    {
+      "event_title": "蔚来完成总额达10亿美元的股权增发融资",
+      "event_id": "event_3",
+      "event_url": "http://finance.eastmoney.com/a/202509103510146819.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:09:13",
+      "event_time": "9月10日 22:09"
+    },
+    {
+      "event_title": "蔚来融资正式开启，为长期发展提供资金支持",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842867196670234885&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:09:30",
+      "event_time": "9月10日 17:05"
+    },
+    {
+      "event_title": "蔚来成功完成10亿美元融资",
+      "event_id": "event_5",
+      "event_url": "http://m.jrj.com.cn/rss/yidianzixun/2025/9/10/53060002.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:09:32",
+      "event_time": "9月10日 00:00"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 10:09:32"
+}

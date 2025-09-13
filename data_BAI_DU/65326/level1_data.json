@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "A股大涨",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:15:57"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "A股全线大涨，创业板创今年最大单日涨幅",
+      "link": "http://www.bilibili.com/video/BV1yXabzHE5E",
+      "time": "9月5日 15:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "A股大盘整体走势要好于上周五",
+      "link": "http://weibo.com/1497821920/Q2yv2iwmD",
+      "time": "9月1日 15:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "A股指数涨跌不一:创业板指涨0.49%,体育产业、家居用品等板块涨幅居前",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 22:16:11"
+}

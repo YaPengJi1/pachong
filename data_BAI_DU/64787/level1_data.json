@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "胡塞武装袭击以色列机场",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:37:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "胡塞武装:出动无人机3次成功袭击以色列,实现既定打击目标;以方机场临时关闭",
+      "link": "http://www.163.com/dy/article/K90M9FHL0530JPVV.html",
+      "time": "9月9日 09:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "胡塞武装称三次袭击以色列 以方机场关闭、警报响起",
+      "link": "http://finance.sina.com.cn/roll/2025-09-08/doc-infpvaxc4324604.shtml",
+      "time": "9月8日 23:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "以色列以第二大机场遭也门胡塞武装无人机袭击",
+      "link": "http://tv.cctv.com/2025/09/08/VIDE8MWdYLOJ0wSWZKCI0BOe250908.shtml",
+      "time": "9月8日 07:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "胡塞武装导弹袭击以机场 称美以未能拦截",
+      "link": "http://tv.cctv.com/2025/09/05/VIDEf2ZHoqziowb0a5mJxlEj250905.shtml",
+      "time": "9月5日 07:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "以色列发布袭击哈马斯高官行动画面",
+      "link": "http://news.dayoo.com/world/202509/05/139998_54869068.htm",
+      "time": "9月5日 07:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "胡塞武装袭击以色列机场",
+      "link": "http://baijiahao.baidu.com/s?id=1842345024519935840&wfr=spider&for=pc",
+      "time": "9月4日 18:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "以军称试图袭击胡塞武装高层",
+      "link": "http://news.cnr.cn/sq/20250829/t20250829_527345692.shtml",
+      "time": "8月29日 23:10",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-13 02:38:06"
+}

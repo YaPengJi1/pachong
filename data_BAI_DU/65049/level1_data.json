@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "游戏板块短线拉升",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:27:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "游戏板块短线拉升,巨人网络涨超7%",
+      "link": "http://finance.sina.cn/7x24/2025-09-05/detail-infpmcyn2656281.d.html",
+      "time": "9月5日 11:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "巨人网络股价创年内新高",
+      "link": "http://baijiahao.baidu.com/s?id=1842305686755937677&wfr=spider&for=pc",
+      "time": "9月4日 12:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "游戏板块震荡走高 文投控股、巨人网络涨停",
+      "link": "http://baijiahao.baidu.com/s?id=1842219871589518536&wfr=spider&for=pc",
+      "time": "9月3日 13:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "游戏板块盘初走高,巨人网络冲击涨停",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11941736704386728976",
+      "time": "9月3日 09:55",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 17:27:46"
+}

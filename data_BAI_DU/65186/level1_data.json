@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "美联储理事提名人变动",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:56:09"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美联储理事提名人Miran:如果在美联储的任期超过4.5个月,我将因为这样的提名而辞去(在总统特朗普白宫的)职务",
+      "link": "http://baijiahao.baidu.com/s?id=1842350732703821407&wfr=spider&for=pc",
+      "time": "9月5日 00:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美联储理事提名人米兰:美联储在20世纪70年代合并了名义利率和实际利率。",
+      "link": "http://finance.sina.cn/7x24/2025-09-04/detail-infpkany3143044.d.html",
+      "time": "9月4日 23:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美联储理事提名人Miran:美联储主席(鲍威尔)曾说通胀是暂时的,那样做并不明智",
+      "link": "http://baijiahao.baidu.com/s?id=1842348562605574652&wfr=spider&for=pc",
+      "time": "9月4日 23:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美联储理事会提名人米兰:若获提名连任美联储职位,将辞去经济顾问委员会职务",
+      "link": "http://finance.sina.cn/7x24/2025-09-04/detail-infpkany3137400.d.html",
+      "time": "9月4日 23:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美联储理事提名人米兰:美联储的主要工作是防止萧条和通胀。",
+      "link": "http://finance.sina.cn/7x24/2025-09-04/detail-infpfxpy4087091.d.html",
+      "time": "9月4日 01:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "美联储理事提名人米兰听证会核心要点梳理",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 19:56:24"
+}

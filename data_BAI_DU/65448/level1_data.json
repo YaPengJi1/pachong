@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "中阿博览会气象高质量发展对接交流",
+    "update_time": "更新至20250901",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:06:47"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "第七届中阿博览会合作成果与发展新机亮点报道",
+      "link": "http://news.sohu.com/a/930809303_121117453",
+      "time": "9月1日 17:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "兵团25家企业亮相第七届中阿博览会",
+      "link": "http://finance.sina.cn/2025-08-31/detail-infnvcms4323003.d.html",
+      "time": "8月31日 02:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中阿博览会气象高质量发展对接交流举行",
+      "link": "http://www.cma.gov.cn/2011zwxx/2011zbmgk/2011zjld/2011zfjcxz/2011zzyhdzzq/202508/t20250828_7301841.html",
+      "time": "8月28日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "多国专家盛赞中阿气象合作共赢范式",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 00:07:01"
+}

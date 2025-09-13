@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "北京国安6-0泰山队，泰山队狂虐国安",
+    "update_time": "更新至20250831",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:49:10"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "北京国安一口气送6球",
+      "link": "http://baijiahao.baidu.com/s?id=1841984197536096573&wfr=spider&for=pc",
+      "time": "8月31日 23:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "疯狂6-0创纪录!泰山队暴揍国安,瓦科无敌大四喜挑射戏侯森",
+      "link": "http://baijiahao.baidu.com/s?id=1841977761908469183&wfr=spider&for=pc",
+      "time": "8月31日 21:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "泰山梦幻开局!瓦科6场连入8球,首破国安球门,冲击中超金靴",
+      "link": "http://baijiahao.baidu.com/s?id=1841971903928813349&wfr=spider&for=pc",
+      "time": "8月31日 19:54",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-13 01:49:24"
+}

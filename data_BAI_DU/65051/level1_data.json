@@ -1,0 +1,140 @@
+{
+  "core_info": {
+    "core_event_name": "海信冰箱成为2026世界杯全球官方指定冰箱",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:30:09"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "海信中央空调成为2026世界杯全球官方指定中央空调",
+      "link": "http://news.zol.com.cn/1043/10439684.html",
+      "time": "9月8日 14:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "海信官宣赞助 2026 世界杯",
+      "link": "http://www.ithome.com/0/881/124.htm",
+      "time": "9月8日 08:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "海信空调将上演“世界杯帽子戏法” 科技赋能足球盛宴",
+      "link": "http://www.donews.com/news/detail/4/6095261.html",
+      "time": "9月7日 19:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "海信中央空调三度携手世界杯",
+      "link": "http://baijiahao.baidu.com/s?id=1842604783652260131&wfr=spider&for=pc",
+      "time": "9月7日 19:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "海信冰箱IFA亮相",
+      "link": "http://baijiahao.baidu.com/s?id=1842584131318861767&wfr=spider&for=pc",
+      "time": "9月7日 14:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "海信璀璨真空头等舱冰箱IFA展斩获“年度产品创新成果”大奖",
+      "link": "http://news.bandao.cn/a/1757125474053259.html",
+      "time": "9月6日 10:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "中国企业海信成为2026世界杯赞助商",
+      "link": "http://baijiahao.baidu.com/s?id=1842436360199048149&wfr=spider&for=pc",
+      "time": "9月5日 22:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "海信官宣赞助2026FIFA世界杯，与国际足联全面普及RGB-Mini Led技术",
+      "link": "http://baijiahao.baidu.com/s?id=1842437618585706451&wfr=spider&for=pc",
+      "time": "9月5日 22:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "中国品牌海信第三次赞助足球世界杯",
+      "link": "http://baijiahao.baidu.com/s?id=1842434189222424345&wfr=spider&for=pc",
+      "time": "9月5日 22:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "海信冰箱成为2026世界杯全球官方指定冰箱",
+      "link": "http://www.cqn.com.cn/jiadian/content/2025-09/05/content_9122077.htm",
+      "time": "9月5日 21:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "亚洲首座“超级大冰箱”开机",
+      "link": "http://china.huanqiu.com/article/4OCe4Kn4z9Y",
+      "time": "9月5日 19:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "海信成为 2026 年世界杯全球官方赞助商",
+      "link": "http://baijiahao.baidu.com/s?id=1842421448995410403&wfr=spider&for=pc",
+      "time": "9月5日 18:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "海信冰箱持续叩响世界顶级体育营销大门",
+      "link": "http://finance.huanqiu.com/article/4OCZh2VhHAI",
+      "time": "9月5日 17:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "海信冰箱成为2026世界杯& 8482;全球官方指定冰箱",
+      "link": "http://baijiahao.baidu.com/s?id=1842419152054694921&wfr=spider&for=pc",
+      "time": "9月5日 10:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "海信冰箱即将亮相IFA 2025",
+      "link": "http://www.cqn.com.cn/jiadian/content/2025-09/04/content_9121711.htm",
+      "time": "9月4日 12:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "海信发布真空头等舱冰箱",
+      "link": "http://tech.huanqiu.com/article/4O9ApFmlEhl",
+      "time": "9月1日 15:22",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 16,
+  "scrape_time": "2025-09-12 17:30:23"
+}

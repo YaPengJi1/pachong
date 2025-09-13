@@ -1,0 +1,196 @@
+{
+  "core_info": {
+    "core_event_name": "日本首相石破茂辞职",
+    "update_time": "更新至20250912",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:08:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "石破茂同意离职，中国驻日使馆发文",
+      "link": "http://baijiahao.baidu.com/s?id=1843026278376015142&wfr=spider&for=pc",
+      "time": "昨天 11:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "石破茂确认辞职",
+      "link": "http://baijiahao.baidu.com/s?id=1842658002754801803&wfr=spider&for=pc",
+      "time": "9月11日 10:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "石破茂留下一个巨雷,日本几乎没人能解决",
+      "link": "http://www.163.com/dy/article/K948GQV20556561T.html",
+      "time": "9月10日 18:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "石破茂黯然离场,下一任日本首相会是谁?",
+      "link": "http://baijiahao.baidu.com/s?id=1842877477100167941&wfr=spider&for=pc",
+      "time": "9月10日 16:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "石破茂宣布辞职后笑容洋溢，但还要去美国一趟",
+      "link": "http://new.qq.com/rain/a/20250910A055SG00",
+      "time": "9月10日 14:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "日本首相要换人了?未能访华的石破茂,终于扛不住压力辞职了",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5435128379474251523",
+      "time": "9月9日 17:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "石破茂辞职不干了,日本陷入无解死局",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4071868509207620365",
+      "time": "9月9日 15:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "日本首相石破茂宣布辞去自民党总裁职务",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEne1KRfFgd6BJIRY7q9Vt250908.shtml",
+      "time": "9月8日 17:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "石破茂宣布辞去日本自民党总裁职务",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEg58YlxkINFYGxegCLkCD250908.shtml",
+      "time": "9月8日 15:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "石破茂辞任,日本自民党最快明天公布总裁选举日程",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6564075425020185982",
+      "time": "9月8日 10:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "日本首相石破茂召开记者会宣布辞职",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6877174753875141435",
+      "time": "9月8日 09:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "石破茂宣布决定辞去自民党总裁职务",
+      "link": "http://tv.cctv.com/2025/09/08/VIDE9N8XwX9ptXcZxy9NGB7j250908.shtml",
+      "time": "9月8日 07:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "石破茂宣布辞去自民党总裁职务",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEeYBDVF6KTvcz3rUFijBI250907.shtml",
+      "time": "9月7日 23:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "日本首相无奈辞职",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15146646296350952650",
+      "time": "9月7日 19:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "扛不住了,日本首相石破茂决定辞职",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15660339503479007304",
+      "time": "9月7日 16:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "石破茂决定辞去中共石破茂市人大常委会副主任职务",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8194782474448370886",
+      "time": "9月7日 15:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "日本政坛大地震，石破茂豪赌若失败，9月将被逼下台？特殊时刻，俄高官发出警告",
+      "link": "http://baijiahao.baidu.com/s?id=1842491294634910105&wfr=spider&for=pc",
+      "time": "9月6日 13:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "石破茂无意留任?事实并非如此,支持率反而明显回升",
+      "link": "http://baijiahao.baidu.com/s?id=1842159956536579950&wfr=spider&for=pc",
+      "time": "9月2日 21:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "石破茂改口称“不恋栈”",
+      "link": "http://www.jfdaily.com/news/detail?id=975584",
+      "time": "9月2日 19:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "石破茂表态“无意留任”",
+      "link": "http://k.sina.com.cn/article_1644114654_61ff32de019020try.html",
+      "time": "9月2日 18:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_21",
+      "title": "日本首相石破茂:将“适时”决定是否辞职",
+      "link": "http://baijiahao.baidu.com/s?id=1842135218337085520&wfr=spider&for=pc",
+      "time": "9月2日 14:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_22",
+      "title": "石破茂,改口了",
+      "link": "http://baijiahao.baidu.com/s?id=1842132798732019243&wfr=spider&for=pc",
+      "time": "9月2日 14:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_23",
+      "title": "要辞职?石破茂:将适时作出决定",
+      "link": "http://baijiahao.baidu.com/s?id=1842153765566530962&wfr=spider&for=pc",
+      "time": "9月2日 08:05",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 23,
+  "scrape_time": "2025-09-13 02:08:45"
+}

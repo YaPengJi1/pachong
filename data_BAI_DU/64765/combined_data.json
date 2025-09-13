@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:15:12"
+  },
+  "core_event": {
+    "core_event_name": "DF-5C首次亮相，东风-5C打击范围覆盖全球",
+    "update_time": "更新至20250903",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:14:49"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "“覆盖全球”的东风-5C有多大?网友:三辆军车才拉得下",
+      "link": "http://finance.sina.cn/2025-09-03/detail-infpfnye4295830.d.html",
+      "time": "9月3日 19:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "DF-5C首次亮相,五爷虽老,仍能一战定乾坤,打击范围覆盖全球!",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4393466083997184568",
+      "time": "9月3日 17:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "“东风-5C”打击范围覆盖全球",
+      "link": "http://app.myzaker.com/news/article.php?m=1756917462&pk=68b7ba718e9f0940700785dc",
+      "time": "9月3日 11:47",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "“覆盖全球”的东风-5C有多大?网友:三辆军车才拉得下",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.cn/2025-09-03/detail-infpfnye4295830.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:15:04",
+      "event_time": "9月3日 19:14"
+    },
+    {
+      "event_title": "DF-5C首次亮相,五爷虽老,仍能一战定乾坤,打击范围覆盖全球!",
+      "event_id": "event_2",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4393466083997184568",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:15:06",
+      "event_time": "9月3日 17:35"
+    },
+    {
+      "event_title": "“东风-5C”打击范围覆盖全球",
+      "event_id": "event_3",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1756917462&pk=68b7ba718e9f0940700785dc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:15:08",
+      "event_time": "9月3日 11:47"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-13 02:15:03",
+    "level2_scrape_time": "2025-09-13 02:15:08"
+  }
+}

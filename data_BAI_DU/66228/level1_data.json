@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "15号台风生成",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:50:21"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "台风“琵琶”生成",
+      "link": "http://www.sohu.com/a/931936103_121976704",
+      "time": "9月4日 21:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "15号台风生成",
+      "link": "http://www.jfdaily.com/news/detail?id=976597",
+      "time": "9月4日 12:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "台风“琵琶”生成!福建迎暴雨、雷阵雨!厦门未来几天",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31548967",
+      "time": "9月4日 12:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "今年第15号台风将生成,快速趋向日本",
+      "link": "http://baijiahao.baidu.com/s?id=1842195554299037922&wfr=spider&for=pc",
+      "time": "9月3日 07:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "15号台风“琵琶”酝酿中",
+      "link": "http://m.sohu.com/a/931198185_121117446",
+      "time": "9月2日 17:26",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 14:50:35"
+}

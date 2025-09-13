@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "2025年暑期档电影票房大放异彩",
+    "update_time": "更新至20250902",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:26:42"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "暑期档动画电影:24部新片近30亿票房,二维动画大放异彩",
+      "link": "http://www.sohu.com/a/931253949_161795",
+      "time": "9月2日 21:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "2025年暑期档票房超119亿元",
+      "link": "http://tv.cctv.com/2025/09/02/VIDEzGFAf2QbfD1pnkd5OgNK250902.shtml",
+      "time": "9月2日 18:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "我国2025年暑期档电影票房为119.66亿元",
+      "link": "http://finance.sina.cn/2025-09-01/detail-infnyunh9708165.d.html",
+      "time": "9月1日 17:20",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-13 02:26:57"
+}

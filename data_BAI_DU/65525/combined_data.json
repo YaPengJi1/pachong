@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:21:18"
+  },
+  "core_event": {
+    "core_event_name": "以色列袭击加沙地带",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:20:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "以军袭击加沙地带多地 再袭高层建筑",
+      "link": "http://tv.cctv.com/2025/09/07/VIDE1uKPoZwP1YM6365jygL8250907.shtml",
+      "time": "9月7日 08:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "以色列首都遇袭,加沙领土全面告急,中方锁定最终目标",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3379629040013215882",
+      "time": "9月4日 20:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "以色列总理证实以军袭击哈马斯军方代表",
+      "link": "http://weibo.com/2181597154/Q2s87bvyQ",
+      "time": "8月31日 23:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "以军继续袭击加沙城，巴武装人员袭击以军士兵和车辆",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7472018884723946848",
+      "time": "8月31日 07:24",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "以军袭击加沙地带多地 再袭高层建筑",
+      "event_id": "event_1",
+      "event_url": "http://tv.cctv.com/2025/09/07/VIDE1uKPoZwP1YM6365jygL8250907.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:21:07",
+      "event_time": "9月7日 08:10"
+    },
+    {
+      "event_title": "以色列首都遇袭,加沙领土全面告急,中方锁定最终目标",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=3379629040013215882",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:21:09",
+      "event_time": "9月4日 20:04"
+    },
+    {
+      "event_title": "以色列总理证实以军袭击哈马斯军方代表",
+      "event_id": "event_3",
+      "event_url": "http://weibo.com/2181597154/Q2s87bvyQ",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:21:11",
+      "event_time": "8月31日 23:32"
+    },
+    {
+      "event_title": "以军继续袭击加沙城，巴武装人员袭击以军士兵和车辆",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7472018884723946848",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:21:13",
+      "event_time": "8月31日 07:24"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-13 01:21:06",
+    "level2_scrape_time": "2025-09-13 01:21:13"
+  }
+}

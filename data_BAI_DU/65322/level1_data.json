@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "U22国足迎大胜，王钰栋一人造7球",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:12:49"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U22国足有没有王钰栋,完全是两支队",
+      "link": "http://baijiahao.baidu.com/s?id=1842571219690169712&wfr=spider&for=pc",
+      "time": "9月7日 10:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U22国足1-0战胜新西兰队",
+      "link": "http://www.jfdaily.com/news/detail?id=978120",
+      "time": "9月6日 23:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "王钰栋一人撑起国足未来",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5102181347114616918",
+      "time": "9月6日 23:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22国足10-0战胜北马里亚纳群岛队",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8513342972476643309",
+      "time": "9月6日 22:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中国U22男足10球大胜北马里亚纳",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31553080",
+      "time": "9月6日 21:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "U23男足亚预赛中国队2∶1胜东帝汶队",
+      "link": "http://baijiahao.baidu.com/s?id=1842256236875510685&wfr=spider&for=pc",
+      "time": "9月3日 23:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "国足五分钟连入两球，王钰栋天神下凡，全场沸腾",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5174325171860825041",
+      "time": "9月3日 20:35",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 22:13:04"
+}

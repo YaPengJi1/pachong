@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "美军打击“委内瑞拉运毒船”",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:17:42"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "4日两架委内瑞拉的F-16战机，飞近美军“杰森·邓纳姆”号驱逐舰",
+      "link": "http://cj.sina.com.cn/articles/view/7295511718/1b2d8aca602001er4c",
+      "time": "9月10日 18:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美海岸警卫队炸毁贩毒船,缴获毒品6吨,船被当场击沉",
+      "link": "http://www.163.com/dy/article/K93BLHBQ0534P59R.html",
+      "time": "9月10日 10:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "委内瑞拉搞不懂了,美国扫毒需要核潜艇吗?",
+      "link": "http://baijiahao.baidu.com/s?id=1842773533120609563&wfr=spider&for=pc",
+      "time": "9月9日 16:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美军公海击沉委船，委战机掠过美军舰以作回应？",
+      "link": "http://new.qq.com/rain/a/20250908A05F8I00",
+      "time": "9月8日 15:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "特朗普:若委内瑞拉战机危及美国则将被击落",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6544321138240887778",
+      "time": "9月8日 15:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "美军打响第一枪，猛烈扫射摧毁船只，委内瑞拉亮“中国王牌”迎战",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13573774216900049496",
+      "time": "9月7日 15:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "委内瑞拉:美打击“运毒船”视频疑为AI伪造",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6616733582627634927",
+      "time": "9月4日 12:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "出动8艘军舰跨洋打击“委内瑞拉运毒船”",
+      "link": "http://baijiahao.baidu.com/s?id=1842287727257300331&wfr=spider&for=pc",
+      "time": "9月4日 07:33",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-12 14:17:57"
+}

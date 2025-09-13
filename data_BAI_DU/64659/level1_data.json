@@ -1,0 +1,100 @@
+{
+  "core_info": {
+    "core_event_name": "河南暴雨",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:09:16"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "河南54个暴雨预警生效中",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31595056",
+      "time": "9月11日 17:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "河南启动重大气象灾害(暴雨)Ⅲ级应急响应",
+      "link": "http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/j3u3t6/stories/WS68c269f9a310f07257747df7.html",
+      "time": "9月11日 14:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "河南多地暴雨启动重大气象灾害应急响应",
+      "link": "http://baijiahao.baidu.com/s?id=1842939879204693861&wfr=spider&for=pc",
+      "time": "9月11日 12:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "河南发布暴雨黄色预警",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9835488285374123930",
+      "time": "9月11日 11:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "河南今日多地大到暴雨,局部大暴雨伴强对流",
+      "link": "http://baijiahao.baidu.com/s?id=1842920991168510344&wfr=spider&for=pc",
+      "time": "9月11日 07:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "郑州及周边将成暴雨核心区",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31587056",
+      "time": "9月10日 11:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "河南大暴雨真要来了:持续时间长、累计雨量大、小时雨强大",
+      "link": "http://baijiahao.baidu.com/s?id=1842831212505767247&wfr=spider&for=pc",
+      "time": "9月9日 16:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "河南发布地质灾害气象风险黄色预警",
+      "link": "http://tv.cctv.com/2025/09/05/VIDEqjojrBoCc6yKQqOkWCJe250905.shtml",
+      "time": "9月5日 11:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "河南多地中到大雨,局部暴雨!16个预警生效中",
+      "link": "http://www.163.com/dy/article/K8M3LAKP0550B6IS.html",
+      "time": "9月5日 06:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "河南连发27条暴雨预警,未来3小时局地仍有大雨,注意防范城市内涝",
+      "link": "http://china.huanqiu.com/article/4OBl6COGMt9",
+      "time": "9月4日 18:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "中到大雨,局部暴雨!河南大范围降水来了",
+      "link": "http://finance.sina.cn/2025-09-02/detail-infpatcf6895955.d.html",
+      "time": "9月2日 13:25",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 11,
+  "scrape_time": "2025-09-13 02:09:31"
+}

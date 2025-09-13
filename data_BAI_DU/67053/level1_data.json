@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "以色列突袭卡塔尔",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:46:19"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "以军秘密武器突袭卡塔尔，外形与鹰击-21高度相似",
+      "link": "http://cj.sina.com.cn/articles/view/7295511715/1b2d8aca302001hog4",
+      "time": "昨天 08:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "卡塔尔袭击造成6人死亡，哈马斯高层躲过一劫",
+      "link": "http://finance.sina.cn/2025-09-10/detail-infpzray3939826.d.html",
+      "time": "9月10日 21:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "以色列袭击卡塔尔首都多哈 中方严厉谴责",
+      "link": "http://baijiahao.baidu.com/s?id=1842863140956805058&wfr=spider&for=pc",
+      "time": "9月10日 15:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国网友急卡塔尔袭击事件",
+      "link": "http://news.sina.cn/gj/2025-09-10/detail-infpyyfe7674873.d.html",
+      "time": "9月10日 15:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "以色列突袭卡塔尔",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3731923716418125964",
+      "time": "9月10日 14:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "以色列空袭卡塔尔全程保密 美媒:美方直到导弹发射才知情",
+      "link": "http://new.qq.com/rain/a/20250910A04AXV00",
+      "time": "9月10日 12:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "以色列神秘导弹突袭多哈",
+      "link": "http://cj.sina.com.cn/articles/view/1403915120/53ae0b7002001e9my",
+      "time": "9月10日 11:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "以色列突袭卡塔尔首都",
+      "link": "http://baijiahao.baidu.com/s?id=1842835208137303885&wfr=spider&for=pc",
+      "time": "9月10日 08:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "以色列空袭卡塔尔首都多哈",
+      "link": "http://baijiahao.baidu.com/s?id=1842867262133573395&wfr=spider&for=pc",
+      "time": "9月9日 21:34",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 10:46:33"
+}

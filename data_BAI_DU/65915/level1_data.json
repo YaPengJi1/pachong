@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "中国U16男篮亚洲杯大胜新西兰",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:35:01"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "新西兰篮下打板绝杀日本",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-07/doc-infpsiaf5335195.shtml",
+      "time": "9月7日 18:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国U16男篮大胜新西兰 昂首挺进决赛",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=14419539472869438093",
+      "time": "9月6日 23:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "战胜新西兰晋级决赛!媒体人:冠军不是梦 中国U16男篮今年有机会",
+      "link": "http://sports.sina.cn/nba/other/2025-09-06/detail-infpqecf6491172.d.html",
+      "time": "9月6日 18:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U16亚洲杯半决赛中国VS新西兰 首节小冲突裁判吹争球",
+      "link": "http://sports.sina.cn/nba/other/2025-09-06/detail-infppxvm1884765.d.html",
+      "time": "9月6日 16:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中国U16男篮战胜巴林 锁定世界杯资格",
+      "link": "http://www.syd.com.cn/newscenter/content/2025-09/06/content_197641.html",
+      "time": "9月6日 09:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "U16男篮亚洲杯中国队闯入四强 获U17男篮世界杯入场券",
+      "link": "http://m.gmw.cn/toutiao/2025-09/05/content_1304136856.htm",
+      "time": "9月5日 20:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "U16男篮亚洲杯狂砍300分",
+      "link": "http://www.sohu.com/a/931388852_122437305",
+      "time": "9月3日 10:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "中国U16亚洲杯强势出线",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_3839394304648623197",
+      "time": "9月2日 16:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "中国男篮U16高低位配合 齐鹏帆接球转身上篮打停对手",
+      "link": "http://sports.sina.cn/nba/other/2025-09-01/detail-infnyunc7771628.d.html",
+      "time": "9月1日 17:04",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 14:35:15"
+}

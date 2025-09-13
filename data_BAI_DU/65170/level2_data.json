@@ -1,0 +1,85 @@
+{
+  "core_event_name": "美国就业市场走弱信号",
+  "comments": [
+    {
+      "event_title": "美就业数据恶化，美联储或开启新一轮降息",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842490987618348657&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:34:58",
+      "event_time": "9月6日 13:25"
+    },
+    {
+      "event_title": "美国新增就业岗位骤降至2.2万个",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.com.cn/stock/usstock/c/2025-09-05/doc-infpnfmz0571203.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:35:00",
+      "event_time": "9月5日 21:19"
+    },
+    {
+      "event_title": "美国就业市场频传走弱信号 美联储利率路径或更为曲折",
+      "event_id": "event_3",
+      "event_url": "http://finance.eastmoney.com/a/202509053506226329.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:35:02",
+      "event_time": "9月5日 17:50"
+    },
+    {
+      "event_title": "美国劳动力市场进入“失速时刻”",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.cn/2025-09-05/detail-infpmuwe2418544.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:35:05",
+      "event_time": "9月5日 17:21"
+    },
+    {
+      "event_title": "美国7月JOLTS职位空缺降至10个月低点",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842256391458366846&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:35:21",
+      "event_time": "9月3日 23:16"
+    },
+    {
+      "event_title": "全球经济展望:美联储会议前夕,预计美国就业增长将趋于平缓",
+      "event_id": "event_6",
+      "event_url": "http://finance.sina.com.cn/world/2025-08-31/doc-infnvitw2687290.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:35:23",
+      "event_time": "8月31日 04:50"
+    }
+  ],
+  "total_comments": 6,
+  "scrape_time": "2025-09-12 19:35:23"
+}

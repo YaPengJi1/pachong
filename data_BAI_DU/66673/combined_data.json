@@ -1,0 +1,164 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:56:20"
+  },
+  "core_event": {
+    "core_event_name": "U22国足生死战",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:55:19"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U22国足取胜才最稳",
+      "link": "http://baijiahao.baidu.com/s?id=1842774683577824093&wfr=spider&for=pc",
+      "time": "9月9日 15:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "国足出线生死战，打平=出线，0-1基本被淘汰",
+      "link": "http://baijiahao.baidu.com/s?id=1842740138934938717&wfr=spider&for=pc",
+      "time": "9月9日 07:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "净胜球劣势下 U22国足出线仍存希望",
+      "link": "http://www.163.com/dy/article/K8VNEVMU0552JHMJ.html",
+      "time": "9月9日 00:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "亚洲杯出线关键战,祝U22国足好运!",
+      "link": "http://www.sohu.com/a/932958892_121924582",
+      "time": "9月8日 18:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "国字号已12年不胜澳洲，U22国足2天后打平基本出线",
+      "link": "http://sports.sina.com.cn/china/2025-09-07/doc-infpsaue0169120.shtml",
+      "time": "9月7日 14:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "U22国足末仗再拿1分方可出线，若输球则要看其他小组结果",
+      "link": "http://k.sina.com.cn/article_2018499075_784fda0302002hkhi.html",
+      "time": "9月7日 12:30",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "U22国足取胜才最稳",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842774683577824093&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:55:52",
+      "event_time": "9月9日 15:43"
+    },
+    {
+      "event_title": "国足出线生死战，打平=出线，0-1基本被淘汰",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842740138934938717&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "貊永Oo",
+      "comment_time": "09-09 20:47",
+      "comment_content": "这个球场也太差了，而且中国队的水平更差，都是一些臭脚",
+      "user_location": "重庆",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:56:08",
+      "event_time": "9月9日 07:25"
+    },
+    {
+      "event_title": "国足出线生死战，打平=出线，0-1基本被淘汰",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842740138934938717&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "艾Ai读诗书",
+      "comment_time": "09-09 07:28",
+      "comment_content": "国足今晚生死战，赢球确保晋级，打平带着悬念，加油争取好结果！",
+      "user_location": "广东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:56:08",
+      "event_time": "9月9日 07:25"
+    },
+    {
+      "event_title": "净胜球劣势下 U22国足出线仍存希望",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8VNEVMU0552JHMJ.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:56:10",
+      "event_time": "9月9日 00:38"
+    },
+    {
+      "event_title": "亚洲杯出线关键战,祝U22国足好运!",
+      "event_id": "event_4",
+      "event_url": "http://www.sohu.com/a/932958892_121924582",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:56:12",
+      "event_time": "9月8日 18:32"
+    },
+    {
+      "event_title": "国字号已12年不胜澳洲，U22国足2天后打平基本出线",
+      "event_id": "event_5",
+      "event_url": "http://sports.sina.com.cn/china/2025-09-07/doc-infpsaue0169120.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:56:14",
+      "event_time": "9月7日 14:32"
+    },
+    {
+      "event_title": "U22国足末仗再拿1分方可出线，若输球则要看其他小组结果",
+      "event_id": "event_6",
+      "event_url": "http://k.sina.com.cn/article_2018499075_784fda0302002hkhi.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:56:16",
+      "event_time": "9月7日 12:30"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 7,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 10:55:34",
+    "level2_scrape_time": "2025-09-12 10:56:16"
+  }
+}

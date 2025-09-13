@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:58:52"
+  },
+  "core_event": {
+    "core_event_name": "阿富汗东部再次发生地震",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:58:10"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "“事发深夜,根本来不及逃!”阿富汗地震已致2205死!中国提供紧急救援",
+      "link": "http://baijiahao.baidu.com/s?id=1842387539794532322&wfr=spider&for=pc",
+      "time": "9月5日 10:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "阿富汗东部再次发生地震 喀布尔震感明显",
+      "link": "http://tv.cctv.com/2025/09/05/VIDEu6vzjpGWIXP2Ynh4tt8N250905.shtml",
+      "time": "9月5日 07:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "阿富汗东部发生地震",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=17861298724933005730",
+      "time": "9月4日 17:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "阿富汗突发大地震,中方第一时间作出回应,全球竟一国伸出援手?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6464810621074197666",
+      "time": "9月4日 11:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "外交部回应阿富汗地震",
+      "link": "http://weibo.com/5051077448/Q2yoqzj3b",
+      "time": "9月1日 15:28",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "“事发深夜,根本来不及逃!”阿富汗地震已致2205死!中国提供紧急救援",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842387539794532322&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:58:39",
+      "event_time": "9月5日 10:00"
+    },
+    {
+      "event_title": "阿富汗东部再次发生地震 喀布尔震感明显",
+      "event_id": "event_2",
+      "event_url": "http://tv.cctv.com/2025/09/05/VIDEu6vzjpGWIXP2Ynh4tt8N250905.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:58:41",
+      "event_time": "9月5日 07:56"
+    },
+    {
+      "event_title": "阿富汗东部发生地震",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=17861298724933005730",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:58:43",
+      "event_time": "9月4日 17:29"
+    },
+    {
+      "event_title": "阿富汗突发大地震,中方第一时间作出回应,全球竟一国伸出援手?",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6464810621074197666",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:58:45",
+      "event_time": "9月4日 11:50"
+    },
+    {
+      "event_title": "外交部回应阿富汗地震",
+      "event_id": "event_5",
+      "event_url": "http://weibo.com/5051077448/Q2yoqzj3b",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:58:47",
+      "event_time": "9月1日 15:28"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-13 01:58:24",
+    "level2_scrape_time": "2025-09-13 01:58:47"
+  }
+}

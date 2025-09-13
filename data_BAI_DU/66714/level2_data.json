@@ -1,0 +1,59 @@
+{
+  "core_event_name": "阿根廷vs委内瑞拉世预赛",
+  "comments": [
+    {
+      "event_title": "阿根廷vs委内瑞拉集锦",
+      "event_id": "event_1",
+      "event_url": "http://weibo.com/1275418863/Q3bqdmg60",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:02:19",
+      "event_time": "9月5日 18:49"
+    },
+    {
+      "event_title": "阿根廷3-0胜委内瑞拉，梅西梅开二度劳塔罗破门",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/5250260756/p138f09f1402702mo6q",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:02:21",
+      "event_time": "9月5日 09:30"
+    },
+    {
+      "event_title": "阿根廷vs委内瑞拉:梅西领衔,马斯坦托诺、德保罗出战",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8M1I5RT0549BAP0.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:02:24",
+      "event_time": "9月5日 06:22"
+    },
+    {
+      "event_title": "世预赛阿根廷主场碾压委内瑞拉",
+      "event_id": "event_4",
+      "event_url": "http://www.sohu.com/a/931822540_122496693",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:02:26",
+      "event_time": "9月4日 14:44"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 10:02:26"
+}

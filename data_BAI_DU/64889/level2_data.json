@@ -1,0 +1,85 @@
+{
+  "core_event_name": "特斯拉在韩国销量增长",
+  "comments": [
+    {
+      "event_title": "8月销量大幅增长,Model Y L日均订单近万,特斯拉又行了?",
+      "event_id": "event_1",
+      "event_url": "http://app.myzaker.com/news/article.php?pk=68b9ad588e9f095674332bdd",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:34:12",
+      "event_time": "9月4日 23:14"
+    },
+    {
+      "event_title": "特斯拉八月份销量超过8.3万辆，位列全国第三",
+      "event_id": "event_2",
+      "event_url": "http://weibo.com/2971069907/Q2ToTku94",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:34:14",
+      "event_time": "9月3日 20:57"
+    },
+    {
+      "event_title": "特斯拉电动汽车8月份在韩国销量同比大增 销量前3进口车型均来自他们",
+      "event_id": "event_3",
+      "event_url": "http://www.techweb.com.cn/ucweb/news/id/2965386",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:34:16",
+      "event_time": "9月3日 17:01"
+    },
+    {
+      "event_title": "乘联分会:特斯拉中国8月批发销量为83192辆",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842143083956752237&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "食安大家庭",
+      "comment_time": "09-04 11:57",
+      "comment_content": "哪个行业都是红海...",
+      "user_location": "广东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:34:33",
+      "event_time": "9月2日 17:14"
+    },
+    {
+      "event_title": "8月中国台湾电动车销量Top10:特斯拉占67% 排第一",
+      "event_id": "event_5",
+      "event_url": "http://finance.sina.com.cn/roll/2025-09-02/doc-infpanvn0327431.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:34:36",
+      "event_time": "9月2日 11:21"
+    },
+    {
+      "event_title": "韩国上半年电动汽车销量同比大增42%",
+      "event_id": "event_6",
+      "event_url": "http://auto.sina.cn/zz/hy/2025-09-01/detail-infnyyue0998005.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:34:38",
+      "event_time": "9月1日 22:49"
+    }
+  ],
+  "total_comments": 6,
+  "scrape_time": "2025-09-12 18:34:38"
+}

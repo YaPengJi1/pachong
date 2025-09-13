@@ -1,0 +1,59 @@
+{
+  "core_event_name": "国足U22亚洲杯预选赛表现",
+  "comments": [
+    {
+      "event_title": "U22国足:重压之下破局,晋级不是终点",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842837091783936187&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:04:26",
+      "event_time": "9月10日 09:06"
+    },
+    {
+      "event_title": "U22国足0比0暂平澳大利亚队",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842791199240270866&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "蜗牛写歌谣",
+      "comment_time": "09-09 21:02",
+      "comment_content": "这个视角很独特👍",
+      "user_location": "湖北",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:04:42",
+      "event_time": "9月9日 20:23"
+    },
+    {
+      "event_title": "国足10-0大胜，两连胜仍受质疑",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11026934801276575118",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:04:44",
+      "event_time": "9月8日 18:30"
+    },
+    {
+      "event_title": "U23国足2-1东帝汶",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8542999103687288348",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:04:46",
+      "event_time": "9月5日 15:02"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 10:04:46"
+}

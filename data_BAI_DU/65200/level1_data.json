@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "正部级易会满被查",
+    "update_time": "更新至2025年9月6日 21:02",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:13:08"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "易会满被查 中国证监会发声",
+      "link": "https://baijiahao.baidu.com/s?id=1842520382149374252&wfr=spider&for=pc",
+      "time": "9月6日 21:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "易会满被查 曾执掌中国证监会多年",
+      "link": "https://baijiahao.baidu.com/s?id=1842494713531460012&wfr=spider&for=pc",
+      "time": "9月6日 14:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "“IPO之王”易会满：募资2.22万亿元",
+      "link": "https://baijiahao.baidu.com/s?id=1842491221859715373",
+      "time": "9月6日 13:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国证监会原主席易会满被查其银行学校多名同学先期落马",
+      "link": "https://baijiahao.baidu.com/s?id=1842488017513722945&searchword=",
+      "time": "9月6日 12:38",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 20:13:23"
+}

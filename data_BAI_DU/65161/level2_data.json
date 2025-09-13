@@ -1,0 +1,111 @@
+{
+  "core_event_name": "16号台风即将生成",
+  "comments": [
+    {
+      "event_title": "第16号台风即将生成直奔广东",
+      "event_id": "event_1",
+      "event_url": "http://www.gxnews.com.cn/staticpages/20250906/newgx68bbc3bf-21841311.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:23:55",
+      "event_time": "9月6日 13:16"
+    },
+    {
+      "event_title": "今年第16号台风即将生成并趋向广东",
+      "event_id": "event_2",
+      "event_url": "http://tv.cctv.com/2025/09/06/VIDE9J5HJYq9i9hVoYEj0mOU250906.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:23:57",
+      "event_time": "9月6日 12:20"
+    },
+    {
+      "event_title": "16号台风即将生成!正面影响广东,深圳将迎大暴雨!",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8P7DTNC0553TF93.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:23:59",
+      "event_time": "9月6日 12:02"
+    },
+    {
+      "event_title": "今年第16号台风即将生成,将严重影响广东",
+      "event_id": "event_4",
+      "event_url": "http://news.sina.com.cn/o/2025-09-06/doc-infpppfk9912696.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:24:01",
+      "event_time": "9月6日 11:39"
+    },
+    {
+      "event_title": "第16号台风要来了?广东广西等地或将遭遇强降雨局地大暴雨",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842467489865153293&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:24:18",
+      "event_time": "9月5日 17:09"
+    },
+    {
+      "event_title": "广东将迎暴雨、大暴雨",
+      "event_id": "event_6",
+      "event_url": "http://www.sznews.com/news/content/2025-09/05/content_31683553.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:24:20",
+      "event_time": "9月5日 00:00"
+    },
+    {
+      "event_title": "广东台风大暴雨酝酿中 或发展为16号台风“塔巴”",
+      "event_id": "event_7",
+      "event_url": "http://news.ycwb.com/ikinvkbtko/content_53644059.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:24:22",
+      "event_time": "9月4日 17:19"
+    },
+    {
+      "event_title": "台风“塔巴”或生成又瞄向广东",
+      "event_id": "event_8",
+      "event_url": "http://it.sohu.com/a/931616720_210667",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:24:24",
+      "event_time": "9月3日 20:20"
+    }
+  ],
+  "total_comments": 8,
+  "scrape_time": "2025-09-12 19:24:24"
+}

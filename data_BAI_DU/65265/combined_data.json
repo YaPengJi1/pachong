@@ -1,0 +1,193 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 21:16:24"
+  },
+  "core_event": {
+    "core_event_name": "东风-61等战略核力量集中亮相",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:15:50"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "东风61震撼阅兵，撑起核保护伞，惊雷-1空射导弹颠覆反导规则",
+      "link": "http://www.163.com/dy/article/K8P61R1T0553RVN3.html",
+      "time": "9月6日 11:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "“惊雷1”全球唯一空基核导弹震撼亮相",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10674722821409259169",
+      "time": "9月4日 17:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "全球唯一空射高超音速核导弹震撼亮相",
+      "link": "http://cj.sina.com.cn/articles/view/7295052889/1b2d1ac590200187p6",
+      "time": "9月4日 10:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "打击范围覆盖全球!93阅兵突然冒出东风-61,网友",
+      "link": "http://www.163.com/dy/article/K8J36R7U0556DGRW.html",
+      "time": "9月4日 02:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "一文揭秘长剑-1000、巨浪-3、东风-61",
+      "link": "http://news.enorth.com.cn/system/2025/09/03/058697678.shtml",
+      "time": "9月3日 15:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "“东风-61”等战略核力量集中亮相!",
+      "link": "http://www.163.com/dy/article/K8HIP4DS0514EGPO.html",
+      "time": "9月3日 12:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "三大核导弹齐亮相,东风巨浪护家国",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12018477801547859462",
+      "time": "9月3日 11:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "核导弹第一方队震撼登场",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1383073342937910871",
+      "time": "9月3日 10:48",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "东风61震撼阅兵，撑起核保护伞，惊雷-1空射导弹颠覆反导规则",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8P61R1T0553RVN3.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:16:06",
+      "event_time": "9月6日 11:38"
+    },
+    {
+      "event_title": "“惊雷1”全球唯一空基核导弹震撼亮相",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10674722821409259169",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:16:08",
+      "event_time": "9月4日 17:33"
+    },
+    {
+      "event_title": "全球唯一空射高超音速核导弹震撼亮相",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/7295052889/1b2d1ac590200187p6",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:16:10",
+      "event_time": "9月4日 10:58"
+    },
+    {
+      "event_title": "打击范围覆盖全球!93阅兵突然冒出东风-61,网友",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8J36R7U0556DGRW.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:16:12",
+      "event_time": "9月4日 02:53"
+    },
+    {
+      "event_title": "一文揭秘长剑-1000、巨浪-3、东风-61",
+      "event_id": "event_5",
+      "event_url": "http://news.enorth.com.cn/system/2025/09/03/058697678.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:16:14",
+      "event_time": "9月3日 15:20"
+    },
+    {
+      "event_title": "“东风-61”等战略核力量集中亮相!",
+      "event_id": "event_6",
+      "event_url": "http://www.163.com/dy/article/K8HIP4DS0514EGPO.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:16:16",
+      "event_time": "9月3日 12:47"
+    },
+    {
+      "event_title": "三大核导弹齐亮相,东风巨浪护家国",
+      "event_id": "event_7",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12018477801547859462",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:16:18",
+      "event_time": "9月3日 11:24"
+    },
+    {
+      "event_title": "核导弹第一方队震撼登场",
+      "event_id": "event_8",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=1383073342937910871",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:16:20",
+      "event_time": "9月3日 10:48"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 8,
+    "total_comments": 8,
+    "events_with_comments": 8,
+    "level1_scrape_time": "2025-09-12 21:16:04",
+    "level2_scrape_time": "2025-09-12 21:16:20"
+  }
+}

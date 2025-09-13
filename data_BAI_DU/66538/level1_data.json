@@ -1,0 +1,140 @@
+{
+  "core_info": {
+    "core_event_name": "比亚迪方程豹钛7上市",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:44:16"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "方程豹钛7上市 17.98万元起售",
+      "link": "http://auto.ce.cn/auto/gundong/202509/t20250910_2471009.shtml",
+      "time": "9月10日 19:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "方程豹钛7上市，坦克、理想压力猛增",
+      "link": "http://www.leikeji.com/article/71633",
+      "time": "9月10日 09:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "方程豹钛7正式上市，17.98万起售",
+      "link": "http://baijiahao.baidu.com/s?id=1842838023742622752&wfr=spider&for=pc",
+      "time": "9月10日 09:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "方程豹钛7正式上市 17.98万元起 科技大空间SUV 方程豹钛7",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13914653686526180445",
+      "time": "9月9日 23:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "比亚迪方程豹钛7火爆上市,售价17.98万起",
+      "link": "http://www.pcauto.com.cn/hj/article/3054549.html",
+      "time": "9月9日 22:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "方程豹钛7上市发布会",
+      "link": "http://live.baidu.com/m/media/multipage/liveshow/index.html?room_id=10641340677&diff_type=review",
+      "time": "9月9日 20:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "比亚迪方程豹钛 7 上市",
+      "link": "http://baijiahao.baidu.com/s?id=1842790350207072495&wfr=spider&for=pc",
+      "time": "9月9日 20:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "方程豹钛7定价20万级9月9日上市",
+      "link": "http://k.sina.cn/article_2298836177_890574d104001dhw8.html",
+      "time": "9月8日 17:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "方程豹钛7入门版或20万起",
+      "link": "http://www.pcauto.com.cn/hj/article/3052095.html",
+      "time": "9月7日 23:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "25万级硬派SUV将上市",
+      "link": "http://www.163.com/dy/article/K8QPEQGU05566SHJ.html",
+      "time": "9月7日 02:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "方程豹钛7将于9月9日上市 展车已到店",
+      "link": "http://www.autohome.com.cn/dealer/202509/1415846182.html",
+      "time": "9月6日 10:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "比亚迪方程豹钛 7 新车 9 月9日上市",
+      "link": "http://www.ithome.com/0/880/413.htm",
+      "time": "9月4日 16:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "比亚迪方程豹钛 7 新车定档 9 月 9 日上市",
+      "link": "http://baijiahao.baidu.com/s?id=1842320418635083663&wfr=spider&for=pc",
+      "time": "9月4日 16:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "预计23万元起 方程豹钛7将于9月9日上市 中大型5座插混SUV",
+      "link": "http://baijiahao.baidu.com/s?id=1842343145000124988&wfr=spider&for=pc",
+      "time": "9月4日 15:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "方程豹钛7将于9月9日正式上市",
+      "link": "http://www.pcauto.com.cn/nation/4997/49972427.html",
+      "time": "9月4日 15:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "方程豹钛7预约试驾已开启,多重福利",
+      "link": "http://www.autohome.com.cn/dealer/202509/1414263438.html",
+      "time": "9月3日 09:08",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 16,
+  "scrape_time": "2025-09-12 11:44:31"
+}

@@ -1,0 +1,46 @@
+{
+  "core_event_name": "创业板指上涨，近4000只个股上涨",
+  "comments": [
+    {
+      "event_title": "创业板指突破3000点",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.cn/2025-09-11/detail-infqasqn3457740.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:54:31",
+      "event_time": "昨天 11:08"
+    },
+    {
+      "event_title": "创业板指上涨1.14%,卫星互联网、通信服务涨幅居前",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842853296668812223&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:54:49",
+      "event_time": "9月10日 13:23"
+    },
+    {
+      "event_title": "创业板指涨幅扩大至3%,全市场近4000只个股上涨",
+      "event_id": "event_3",
+      "event_url": "http://weibo.com/1864018530/Q38fgjHFl",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:54:51",
+      "event_time": "9月5日 10:45"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 10:54:51"
+}

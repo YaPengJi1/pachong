@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "广东宏远官宣崔永熙加盟",
+    "update_time": "更新至20250903",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:03:47"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "广东全运会16人出炉，崔永熙不打，3人离队，3小将加入",
+      "link": "http://baijiahao.baidu.com/s?id=1842217657100796608&wfr=spider&for=pc",
+      "time": "9月3日 13:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "崔永熙、焦泊乔加盟 广东队积极争取未来",
+      "link": "http://k.sina.cn/article_2018499075_784fda0302002h80w.html",
+      "time": "8月30日 16:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "官方公告 I 欢迎崔永熙加盟广东宏远!",
+      "link": "http://www.163.com/dy/article/K8796E480529C69L.html",
+      "time": "8月30日 12:47",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 20:04:01"
+}

@@ -1,0 +1,72 @@
+{
+  "core_event_name": "中国九三阅兵及石破茂辞职",
+  "comments": [
+    {
+      "event_title": "中国九三阅兵已至,石破茂终于投降!中美都惹不起,他将会辞职",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=15587930161494181463",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:29:57",
+      "event_time": "9月10日 01:58"
+    },
+    {
+      "event_title": "石破茂宣布辞职,中方回应",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842682795536924204&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:30:15",
+      "event_time": "9月8日 16:11"
+    },
+    {
+      "event_title": "石破茂宣布辞职,外交部表态",
+      "event_id": "event_3",
+      "event_url": "http://new.qq.com/rain/a/20250908V05IO700",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:30:17",
+      "event_time": "9月8日 15:39"
+    },
+    {
+      "event_title": "决意辞职后 日本首相石破茂召开紧急记者会",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8SC9U6T0514R9KQ.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:30:19",
+      "event_time": "9月7日 17:25"
+    },
+    {
+      "event_title": "石破茂决意辞职",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8194782474448370886",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:30:21",
+      "event_time": "9月7日 15:05"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 10:30:21"
+}

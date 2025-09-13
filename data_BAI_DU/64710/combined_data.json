@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:24:20"
+  },
+  "core_event": {
+    "core_event_name": "胡塞武装再袭以色列并命中目标",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:23:38"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "也门胡塞武装称击中以色列机场等目标",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEtZSocjO3C2Lm12bMJHaM250908.shtml",
+      "time": "9月8日 20:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "也门胡塞武装称打击以色列机场",
+      "link": "http://tv.cctv.com/2025/09/05/VIDE5heO3f8vhbp7pMTLlUP0250905.shtml",
+      "time": "9月5日 20:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "胡塞武装首袭以军总部!发电厂机场连环炸,红海油轮遭导弹锁喉",
+      "link": "http://k.sina.cn/article_2294586951_88c49e47001016wrq.html",
+      "time": "9月3日 20:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "胡塞武装称再袭以色列并命中目标",
+      "link": "http://baijiahao.baidu.com/s?id=1842167563125998404&wfr=spider&for=pc",
+      "time": "9月2日 23:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "胡塞导弹三连炸瘫痪以色列命脉",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10452584199889656166",
+      "time": "8月30日 16:59",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "也门胡塞武装称击中以色列机场等目标",
+      "event_id": "event_1",
+      "event_url": "http://tv.cctv.com/2025/09/08/VIDEtZSocjO3C2Lm12bMJHaM250908.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:23:54",
+      "event_time": "9月8日 20:12"
+    },
+    {
+      "event_title": "也门胡塞武装称打击以色列机场",
+      "event_id": "event_2",
+      "event_url": "http://tv.cctv.com/2025/09/05/VIDE5heO3f8vhbp7pMTLlUP0250905.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:23:56",
+      "event_time": "9月5日 20:21"
+    },
+    {
+      "event_title": "胡塞武装首袭以军总部!发电厂机场连环炸,红海油轮遭导弹锁喉",
+      "event_id": "event_3",
+      "event_url": "http://k.sina.cn/article_2294586951_88c49e47001016wrq.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:23:58",
+      "event_time": "9月3日 20:10"
+    },
+    {
+      "event_title": "胡塞武装称再袭以色列并命中目标",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842167563125998404&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "应静秀0HT",
+      "comment_time": "09-02 23:55",
+      "comment_content": "愿世界和平，共筑美好未来！",
+      "user_location": "福建",
+      "like_count": 1,
+      "scrape_time": "2025-09-13 01:24:14",
+      "event_time": "9月2日 23:44"
+    },
+    {
+      "event_title": "胡塞导弹三连炸瘫痪以色列命脉",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10452584199889656166",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:24:16",
+      "event_time": "8月30日 16:59"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-13 01:23:53",
+    "level2_scrape_time": "2025-09-13 01:24:16"
+  }
+}

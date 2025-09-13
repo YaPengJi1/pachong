@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 22:49:38"
+  },
+  "core_event": {
+    "core_event_name": "国羽世锦赛夺冠之路",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:49:14"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "羽毛球世锦赛落幕!国羽5项决赛夺2金",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7118785460588852245",
+      "time": "9月4日 16:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "世锦赛国羽2金3银收官",
+      "link": "http://k.sina.com.cn/article_1835372902_6d65916600101a7q2.html",
+      "time": "9月1日 22:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国羽新增3名世界冠军!石宇奇圆梦,女双登顶,陈雨菲带伤摘银!",
+      "link": "http://www.163.com/dy/article/K8BOMUUE0529NGL0.html",
+      "time": "9月1日 06:36",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "羽毛球世锦赛落幕!国羽5项决赛夺2金",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7118785460588852245",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:49:29",
+      "event_time": "9月4日 16:48"
+    },
+    {
+      "event_title": "世锦赛国羽2金3银收官",
+      "event_id": "event_2",
+      "event_url": "http://k.sina.com.cn/article_1835372902_6d65916600101a7q2.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:49:31",
+      "event_time": "9月1日 22:43"
+    },
+    {
+      "event_title": "国羽新增3名世界冠军!石宇奇圆梦,女双登顶,陈雨菲带伤摘银!",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8BOMUUE0529NGL0.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:49:33",
+      "event_time": "9月1日 06:36"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 22:49:28",
+    "level2_scrape_time": "2025-09-12 22:49:33"
+  }
+}

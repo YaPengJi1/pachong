@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:38:52"
+  },
+  "core_event": {
+    "core_event_name": "意大利女排险胜土耳其",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:38:11"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "意大利队苦战险胜土耳其,奇兵14分力挽狂澜",
+      "link": "http://www.163.com/dy/article/K90K1BMM0556DIQQ.html",
+      "time": "9月9日 08:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "土耳其瓦尔加斯获得最佳接应实至名归，卡拉库尔特不如对面赛拉",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4732656835366966983",
+      "time": "9月8日 07:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "2025女排世锦赛:意大利队和土耳其队会师决赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842565273091898101&wfr=spider&for=pc",
+      "time": "9月7日 09:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "土耳其女排战胜日本 晋级决赛",
+      "link": "http://sports.cctv.com/2025/09/06/VIDE8rtbnGPxSeIvIr2uu9Yc250906.shtml",
+      "time": "9月6日 18:42",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "意大利队苦战险胜土耳其,奇兵14分力挽狂澜",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K90K1BMM0556DIQQ.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:38:26",
+      "event_time": "9月9日 08:57"
+    },
+    {
+      "event_title": "土耳其瓦尔加斯获得最佳接应实至名归，卡拉库尔特不如对面赛拉",
+      "event_id": "event_2",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4732656835366966983",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:38:29",
+      "event_time": "9月8日 07:08"
+    },
+    {
+      "event_title": "2025女排世锦赛:意大利队和土耳其队会师决赛",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842565273091898101&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "闪电讨厌雷电",
+      "comment_time": "09-07 09:51",
+      "comment_content": "土耳其和意大利逆转太强了，决赛肯定精彩绝伦。",
+      "user_location": "江西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:38:46",
+      "event_time": "9月7日 09:01"
+    },
+    {
+      "event_title": "土耳其女排战胜日本 晋级决赛",
+      "event_id": "event_4",
+      "event_url": "http://sports.cctv.com/2025/09/06/VIDE8rtbnGPxSeIvIr2uu9Yc250906.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:38:48",
+      "event_time": "9月6日 18:42"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 11:38:25",
+    "level2_scrape_time": "2025-09-12 11:38:48"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "core_info": {
+    "core_event_name": "樊振东德甲首秀遭遇2连败",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:21:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "德甲首秀2连败，谁注意队友对樊振东称呼改变，爆冷原因找到了",
+      "link": "http://cj.sina.com.cn/articles/view/1340604587/4fe800ab001016fek",
+      "time": "9月4日 17:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "德甲首秀两连败，樊振东的输球，映射出国乒梯队建设的落后",
+      "link": "http://cj.sina.com.cn/articles/view/6579233538/18827230200102k7yg",
+      "time": "9月4日 17:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "樊振东德甲首秀失利，看到背后的多重意义",
+      "link": "http://cj.sina.com.cn/articles/view/6105713761/16bedcc6102001rxmg",
+      "time": "9月3日 14:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "樊振东德甲遭遇两连败",
+      "link": "http://cj.sina.com.cn/articles/view/6419730270/17ea54f5e00101jmqm",
+      "time": "9月3日 08:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "樊振东德甲连败2次后,糟心事来了!官方媒体也发声了!",
+      "link": "http://www.sohu.com/a/931318593_121144486",
+      "time": "9月3日 07:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "樊振东德甲首秀被爆冷 引发日媒关注，“德甲从开幕起就备受关注”",
+      "link": "http://cj.sina.com.cn/articles/view/7705509111/1cb48bcf700101eyfw",
+      "time": "9月2日 12:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "樊振东德甲联赛首秀失利",
+      "link": "http://www.hubeitoday.com.cn/post/23/220548",
+      "time": "9月2日 12:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "樊振东德甲两连败 主帅给出答案 队友:中国球迷太多了",
+      "link": "http://k.sina.com.cn/article_7880068727_1d5b04e7702002dy34.html",
+      "time": "9月2日 09:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "盘点樊振东德甲首秀遭遇2连败的各方反应",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4132684003497460710",
+      "time": "9月1日 15:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "樊振东德甲吞连败 时隔386天首次国际比赛",
+      "link": "http://sports.sina.com.cn/o/2025-09-01/doc-infnyiwe2757960.shtml",
+      "time": "9月1日 14:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "樊振东德甲首秀两连败后，挥手致谢现场球迷，好好休息",
+      "link": "http://quanmin.baidu.com/sv?source=share-h5&pd=qm_share_search&vid=2466605435229893834",
+      "time": "9月1日 11:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "樊振东德甲首秀两连败 2500名观众涌入对手:他需要时间",
+      "link": "http://baijiahao.baidu.com/s?id=1842028548250851026&wfr=spider&for=pc",
+      "time": "9月1日 10:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "樊振东德甲首秀 国乒一哥的海外新征程开启",
+      "link": "http://k.sina.cn/article_7636573901_1c72cdecd00101t6zg.html",
+      "time": "8月31日 19:53",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 13,
+  "scrape_time": "2025-09-13 02:21:46"
+}

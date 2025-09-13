@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "国补政策重启",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 21:44:39"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "第三批国补690亿启动申领，年底结束",
+      "link": "http://baijiahao.baidu.com/s?id=1842515310207865140&wfr=spider&for=pc",
+      "time": "9月6日 19:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "9月6日国补政策最新消息:9月国补恢复继续领取,国补第三批690亿补贴下达,2025年年底结束",
+      "link": "http://baijiahao.baidu.com/s?id=1842481691013568327&wfr=spider&for=pc",
+      "time": "9月6日 10:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国补政策9月5日最新消息：第三批690亿国补资金下达",
+      "link": "http://baijiahao.baidu.com/s?id=1842390635021776609&wfr=spider&for=pc",
+      "time": "9月5日 10:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "国补政策8月29日最新消息",
+      "link": "http://baijiahao.baidu.com/s?id=1841783937264015098&wfr=spider&for=pc",
+      "time": "8月29日 18:07",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 21:44:53"
+}

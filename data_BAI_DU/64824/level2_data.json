@@ -1,0 +1,85 @@
+{
+  "core_event_name": "极兔净利润暴增147%",
+  "comments": [
+    {
+      "event_title": "极兔上半年营收55亿美元 毛利率降1.2个百分点 经营利润1.25亿美元",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842698843134426879&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:31:16",
+      "event_time": "9月8日 20:23"
+    },
+    {
+      "event_title": "十周年极兔要构筑市场长期竞争壁垒",
+      "event_id": "event_2",
+      "event_url": "http://finance.eastmoney.com/a/202509043504700467.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:31:18",
+      "event_time": "9月4日 14:25"
+    },
+    {
+      "event_title": "极兔上半年净利猛增147%",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842134941084861559&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "着在高0",
+      "comment_time": "09-02 18:56",
+      "comment_content": "市场份额飙升是王道。利润猛增只是扩张见效，极兔烧钱抢市场后开始收割，行业竞争拼的是规模红利。",
+      "user_location": "浙江",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:31:34",
+      "event_time": "9月2日 15:06"
+    },
+    {
+      "event_title": "极兔净利润暴增147%",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842123234181151939&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:31:50",
+      "event_time": "9月2日 12:00"
+    },
+    {
+      "event_title": "极兔速递上半年收入55亿美元",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/5115326071/130e5ae7702002mzes",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:31:52",
+      "event_time": "9月1日 12:13"
+    },
+    {
+      "event_title": "上半年中国市场单票收入承压",
+      "event_id": "event_6",
+      "event_url": "http://m.nbd.com.cn/articles/2025-08-31/4043539.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:31:54",
+      "event_time": "8月31日 19:58"
+    }
+  ],
+  "total_comments": 6,
+  "scrape_time": "2025-09-12 17:31:54"
+}

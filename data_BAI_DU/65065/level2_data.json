@@ -1,0 +1,59 @@
+{
+  "core_event_name": "华为秋季发布会新品",
+  "comments": [
+    {
+      "event_title": "华为发布会又上新",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/1223849864/48f27788019018k80",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:45:26",
+      "event_time": "9月5日 18:05"
+    },
+    {
+      "event_title": "华为秋季发布会新品迭出,拓展智能终端版图",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842403340663568213&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "王晰酒吧的主唱",
+      "comment_time": "09-05 20:47",
+      "comment_content": "华为折叠屏新机真香，性能设计都升级，办公通信更高效。",
+      "user_location": "北京",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:45:43",
+      "event_time": "9月5日 14:12"
+    },
+    {
+      "event_title": "华为Mate XTs非凡大师搭载HarmonyOS 5.1正式发布",
+      "event_id": "event_3",
+      "event_url": "http://news.sina.cn/sx/2025-09-04/detail-infpirxa6748543.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:45:45",
+      "event_time": "9月4日 18:07"
+    },
+    {
+      "event_title": "华为发布会发布Mate XTs三折叠",
+      "event_id": "event_4",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5241536586816401295",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:45:47",
+      "event_time": "9月4日 08:19"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 17:45:47"
+}

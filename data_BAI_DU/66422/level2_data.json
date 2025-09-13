@@ -1,0 +1,59 @@
+{
+  "core_event_name": "美联储年内降息三次",
+  "comments": [
+    {
+      "event_title": "巴克莱上调美联储年内降息押注 预计年底前降息三次",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-06/detail-infpnwiq5292533.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:35:37",
+      "event_time": "9月6日 04:07"
+    },
+    {
+      "event_title": "美国银行预计美联储将分别降息25个基点",
+      "event_id": "event_2",
+      "event_url": "http://weibo.com/3031084391/Q3cKVbCyn",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:35:39",
+      "event_time": "9月5日 22:14"
+    },
+    {
+      "event_title": "非农公布前:美联储9月降息概率为97.3%",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-05/detail-infpmzcy5750280.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:35:41",
+      "event_time": "9月5日 20:16"
+    },
+    {
+      "event_title": "美联储今年降息三次可能性升至71%",
+      "event_id": "event_4",
+      "event_url": "http://flash.jin10.com/detail/20250905211023071800",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:35:43",
+      "event_time": "9月5日 00:00"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 14:35:43"
+}

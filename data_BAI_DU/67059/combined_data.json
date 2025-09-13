@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:52:06"
+  },
+  "core_event": {
+    "core_event_name": "三星Galaxy S26系列原型机曝光",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:51:07"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "三星Galaxy S26 Pro手机渲染图曝光",
+      "link": "http://baijiahao.baidu.com/s?id=1842879637128504319&wfr=spider&for=pc",
+      "time": "9月10日 20:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "确认了!Galaxy S26 Ultra完整泄露:S Pen插槽+相机大升级",
+      "link": "http://www.bilibili.com/video/BV1kBaRzoE6v",
+      "time": "9月8日 16:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "三星S26 Ultra全新爆料出炉",
+      "link": "http://mobile.zol.com.cn/1043/10437790.html",
+      "time": "9月8日 08:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "三星 Galaxy S26 Edge 机模曝光,Deco设计类似苹果iPhone 17 Pro",
+      "link": "http://baijiahao.baidu.com/s?id=1842413301513138916&wfr=spider&for=pc",
+      "time": "9月5日 16:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "三星Galaxy S26系列原型机曝光:撞脸iPhone 17 Pro",
+      "link": "http://news.pconline.com.cn/1974/19746214.html",
+      "time": "9月5日 08:03",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "三星Galaxy S26 Pro手机渲染图曝光",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842879637128504319&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:51:40",
+      "event_time": "9月10日 20:22"
+    },
+    {
+      "event_title": "确认了!Galaxy S26 Ultra完整泄露:S Pen插槽+相机大升级",
+      "event_id": "event_2",
+      "event_url": "http://www.bilibili.com/video/BV1kBaRzoE6v",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:51:42",
+      "event_time": "9月8日 16:50"
+    },
+    {
+      "event_title": "三星S26 Ultra全新爆料出炉",
+      "event_id": "event_3",
+      "event_url": "http://mobile.zol.com.cn/1043/10437790.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:51:44",
+      "event_time": "9月8日 08:26"
+    },
+    {
+      "event_title": "三星 Galaxy S26 Edge 机模曝光,Deco设计类似苹果iPhone 17 Pro",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842413301513138916&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:52:00",
+      "event_time": "9月5日 16:35"
+    },
+    {
+      "event_title": "三星Galaxy S26系列原型机曝光:撞脸iPhone 17 Pro",
+      "event_id": "event_5",
+      "event_url": "http://news.pconline.com.cn/1974/19746214.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:52:02",
+      "event_time": "9月5日 08:03"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 10:51:21",
+    "level2_scrape_time": "2025-09-12 10:52:02"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "中际旭创爆拉股价破400",
+    "update_time": "更新至20250903",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:33:31"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "CPO概念股午后拉升 中际旭创涨超10%",
+      "link": "http://finance.eastmoney.com/a/202509033503447771.html",
+      "time": "9月3日 14:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "CPO概念板块走强 中际旭创涨幅居前",
+      "link": "http://finance.sina.com.cn/stock/snipe/2025-09-03/doc-infpewar9835136.shtml",
+      "time": "9月3日 14:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中际旭创爆拉股价破400,创业板指新高",
+      "link": "http://baijiahao.baidu.com/s?id=1842052375092053551&wfr=spider&for=pc",
+      "time": "9月1日 17:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中际旭创首次突破400元关口",
+      "link": "http://finance.eastmoney.com/a/202509013500952217.html",
+      "time": "9月1日 13:31",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 18:33:45"
+}

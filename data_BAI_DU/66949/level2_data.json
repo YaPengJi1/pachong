@@ -1,0 +1,59 @@
+{
+  "core_event_name": "广东遭遇台风“塔巴”",
+  "comments": [
+    {
+      "event_title": "今年第16号台风“塔巴”今日将登陆广东",
+      "event_id": "event_1",
+      "event_url": "http://tv.cctv.com/2025/09/08/VIDEiofSsDOokCXYuALbJ2vj250908.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:35:21",
+      "event_time": "9月8日 05:34"
+    },
+    {
+      "event_title": "台风塔巴在江门台山沿海登陆 广东局部有特大暴雨",
+      "event_id": "event_2",
+      "event_url": "http://v.qq.com/x/page/k1226m7c6q5.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:35:23",
+      "event_time": "9月8日 00:00"
+    },
+    {
+      "event_title": "广东68个台风预警信号生效中,琼州海峡航线全线停运",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842575799192248692&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "气质女神plus",
+      "comment_time": "09-07 12:01",
+      "comment_content": "台风要来了，大家注意安全少出门。提前防范风雨，保护好自己。",
+      "user_location": "陕西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:35:40",
+      "event_time": "9月7日 11:53"
+    },
+    {
+      "event_title": "今年第16号台风“塔巴”生成 或将8日登陆广东沿海一带",
+      "event_id": "event_4",
+      "event_url": "http://www.cnr.cn/newscenter/native/gd/kx/20250906/t20250906_527353114.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:35:42",
+      "event_time": "9月6日 23:13"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 10:35:42"
+}

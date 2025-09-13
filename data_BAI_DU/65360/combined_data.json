@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 22:50:21"
+  },
+  "core_event": {
+    "core_event_name": "中国短道速滑国家集训队队内选拔赛",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:49:43"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国短道速滑国家集训队队内选拔赛第二阶段完赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842517153454734187&wfr=spider&for=pc",
+      "time": "9月6日 20:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国短道速滑剑指新赛季,名将悉数登场",
+      "link": "http://www.qlwb.com.cn/detail/26591163.html",
+      "time": "9月5日 22:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "林孝埈参加短道速滑国家集训队队内选拔赛",
+      "link": "http://www.163.com/dy/article/K8KEV0NF0529AQIE.html",
+      "time": "9月4日 15:38",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "中国短道速滑国家集训队队内选拔赛第二阶段完赛",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842517153454734187&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:50:13",
+      "event_time": "9月6日 20:21"
+    },
+    {
+      "event_title": "中国短道速滑剑指新赛季,名将悉数登场",
+      "event_id": "event_2",
+      "event_url": "http://www.qlwb.com.cn/detail/26591163.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:50:15",
+      "event_time": "9月5日 22:20"
+    },
+    {
+      "event_title": "林孝埈参加短道速滑国家集训队队内选拔赛",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8KEV0NF0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:50:17",
+      "event_time": "9月4日 15:38"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 22:49:57",
+    "level2_scrape_time": "2025-09-12 22:50:17"
+  }
+}

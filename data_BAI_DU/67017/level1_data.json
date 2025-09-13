@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "波兰领空遭遇无人机入侵",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:11:24"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "波兰称击落侵犯其领空的无人机 俄外交官:波兰关于俄无人机入侵其领空的指控“毫无根据”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16960815177454617896",
+      "time": "昨天 11:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "白俄罗斯通报:提前告知波兰",
+      "link": "http://cj.sina.com.cn/articles/view/1653603955/628ffe7302001t1ni",
+      "time": "昨天 10:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "波兰领空遭遇“前所未有的无人机入侵”",
+      "link": "http://baijiahao.baidu.com/s?id=1842866555902820980&wfr=spider&for=pc",
+      "time": "9月10日 16:55",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 10:11:39"
+}

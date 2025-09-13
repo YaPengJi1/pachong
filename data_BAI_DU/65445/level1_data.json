@@ -1,0 +1,92 @@
+{
+  "core_info": {
+    "core_event_name": "U23亚洲杯国足大胜，澳大利亚稳居榜首",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:03:49"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国队0-0战平澳大利亚，小组第二名积分榜更新",
+      "link": "http://baijiahao.baidu.com/s?id=1842803832637549527&wfr=spider&for=pc",
+      "time": "9月10日 00:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "澳大利亚7分20净胜球头名出线，中国第2晋级",
+      "link": "http://k.sina.cn/article_2018499075_784fda0302002hnru.html",
+      "time": "9月9日 21:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国U23队晋级形势严峻，末轮对阵澳大利亚是关键战",
+      "link": "http://www.163.com/dy/article/K8S6UN4805567NXO.html",
+      "time": "9月7日 15:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U23亚洲杯:国足大胜10-0,锁定出线,积分榜揭晓",
+      "link": "http://www.163.com/dy/article/K8RHF2K20556DISN.html",
+      "time": "9月7日 09:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中国队10-0胜澳大利亚",
+      "link": "http://www.163.com/dy/article/K8RDQU890556DIN5.html",
+      "time": "9月7日 08:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "U23亚洲杯积分榜:中国男足排名第二,澳大利亚第一",
+      "link": "http://www.163.com/dy/article/K8R95LI905568V3E.html",
+      "time": "9月7日 07:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "U23亚洲杯疯狂夜:国足大胜,澳大利亚稳居榜首",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11907751456733800138",
+      "time": "9月6日 22:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "U23国足净胜球落后9个，末轮只有赢球，才能直接晋级",
+      "link": "http://baijiahao.baidu.com/s?id=1842522854962247266&wfr=spider&for=pc",
+      "time": "9月6日 21:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "中国队10-0澳大利亚队，亚洲杯积分2队6分，末轮生死战",
+      "link": "http://baijiahao.baidu.com/s?id=1842522831443846158&wfr=spider&for=pc",
+      "time": "9月6日 21:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "亚洲杯一夜6场惨案，日韩澳伊全胜，中国男足形势不妙",
+      "link": "http://cj.sina.com.cn/articles/view/2834321443/a8f0502300101me1g",
+      "time": "9月4日 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 10,
+  "scrape_time": "2025-09-13 00:04:03"
+}

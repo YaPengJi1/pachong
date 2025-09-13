@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "美联储提名人米兰的特朗普政策争议",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 19:03:19"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美联储理事提名人Miran被“灵魂三问”",
+      "link": "http://baijiahao.baidu.com/s?id=1842398666759188999&wfr=spider&for=pc",
+      "time": "9月5日 11:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美联储理事提名人米兰:未就长期任职与白宫进行磋商",
+      "link": "http://baijiahao.baidu.com/s?id=1842377129232836322&wfr=spider&for=pc",
+      "time": "9月5日 07:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "斯蒂芬·米兰:若出任美联储理事,将从白宫职位上休无薪假",
+      "link": "http://finance.sina.cn/usstock/mggd/2025-09-05/detail-infpkpas6318968.d.html",
+      "time": "9月5日 04:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美联储提名人米兰:美联储主席称通胀只是暂时现象并不明智",
+      "link": "http://finance.sina.cn/7x24/2025-09-04/detail-infpkanz1494083.d.html",
+      "time": "9月4日 23:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美联储提名人米兰:特朗普总统的一系列政策“相当具有通货紧缩效应”。",
+      "link": "http://finance.sina.cn/7x24/2025-09-04/detail-infpkany3138893.d.html",
+      "time": "9月4日 23:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "美联储理事提名人米兰承诺维护央行独立性",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9845208904131960553",
+      "time": "9月4日 07:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "美联储理事会提名人斯蒂芬·米兰:美国劳工统计局各项指标的数据稳步恶化",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 19:03:33"
+}

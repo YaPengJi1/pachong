@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:06:25"
+  },
+  "core_event": {
+    "core_event_name": "A股跌破3800点",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:05:57"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "沪指收复3800点,科技大反攻,创业板怒涨",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8959055376996743628",
+      "time": "9月7日 08:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "大A再回3800点,4857家红盘",
+      "link": "http://weibo.com/7670371504/Q3bGMcqIe",
+      "time": "9月5日 19:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "创业板指反包大涨6.55%,电池、能源金属板块全线爆发",
+      "link": "http://stock.stockstar.com/IG2025090500025155.shtml",
+      "time": "9月5日 15:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "A股调整结束了吗?",
+      "link": "http://www.nbd.com.cn/articles/2025-09-05/4050280.html",
+      "time": "9月5日 15:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "A股缩量跌穿3800点,明日修复阳线可期",
+      "link": "http://weibo.com/7583382920/Q2RFIBFK5",
+      "time": "9月3日 16:33",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "沪指收复3800点,科技大反攻,创业板怒涨",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8959055376996743628",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:06:13",
+      "event_time": "9月7日 08:50"
+    },
+    {
+      "event_title": "大A再回3800点,4857家红盘",
+      "event_id": "event_2",
+      "event_url": "http://weibo.com/7670371504/Q3bGMcqIe",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:06:15",
+      "event_time": "9月5日 19:31"
+    },
+    {
+      "event_title": "创业板指反包大涨6.55%,电池、能源金属板块全线爆发",
+      "event_id": "event_3",
+      "event_url": "http://stock.stockstar.com/IG2025090500025155.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:06:17",
+      "event_time": "9月5日 15:39"
+    },
+    {
+      "event_title": "A股调整结束了吗?",
+      "event_id": "event_4",
+      "event_url": "http://www.nbd.com.cn/articles/2025-09-05/4050280.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:06:19",
+      "event_time": "9月5日 15:23"
+    },
+    {
+      "event_title": "A股缩量跌穿3800点,明日修复阳线可期",
+      "event_id": "event_5",
+      "event_url": "http://weibo.com/7583382920/Q2RFIBFK5",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:06:21",
+      "event_time": "9月3日 16:33"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-13 02:06:12",
+    "level2_scrape_time": "2025-09-13 02:06:21"
+  }
+}

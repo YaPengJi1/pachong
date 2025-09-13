@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:08:09"
+  },
+  "core_event": {
+    "core_event_name": "U22国足全胜，净胜球优势藏玄机",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:07:39"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U22国足满意0-0!3场7分出线,教练组激动庆祝,两队球员都笑了",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4353777558073624348",
+      "time": "9月9日 22:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U22赢球靠王玉栋,非教练战术,对手仅4.7万人口",
+      "link": "http://news.sohu.com/a/932652646_121683270",
+      "time": "9月7日 16:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国U22两战全胜，净胜球优势藏玄机，末轮生死战谁能全身而退？",
+      "link": "http://www.163.com/dy/article/K8RN9T580556B3RN.html",
+      "time": "9月7日 13:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国U23男足10比0战胜北马里亚纳群岛",
+      "link": "http://news.cnwest.com/bwyc/a/2025/09/06/23190545.html",
+      "time": "9月6日 23:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "U23亚洲杯预选赛中国队暂列小组次席",
+      "link": "http://news.cnr.cn/native/gd/kx/20250906/t20250906_527353113.shtml",
+      "time": "9月6日 23:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "U22国足1-0战胜新西兰队",
+      "link": "http://www.jfdaily.com/news/detail?id=978120",
+      "time": "9月6日 23:11",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "U22国足满意0-0!3场7分出线,教练组激动庆祝,两队球员都笑了",
+      "event_id": "event_1",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4353777558073624348",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:07:55",
+      "event_time": "9月9日 22:17"
+    },
+    {
+      "event_title": "U22赢球靠王玉栋,非教练战术,对手仅4.7万人口",
+      "event_id": "event_2",
+      "event_url": "http://news.sohu.com/a/932652646_121683270",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:07:57",
+      "event_time": "9月7日 16:11"
+    },
+    {
+      "event_title": "中国U22两战全胜，净胜球优势藏玄机，末轮生死战谁能全身而退？",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8RN9T580556B3RN.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:07:59",
+      "event_time": "9月7日 13:12"
+    },
+    {
+      "event_title": "中国U23男足10比0战胜北马里亚纳群岛",
+      "event_id": "event_4",
+      "event_url": "http://news.cnwest.com/bwyc/a/2025/09/06/23190545.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:08:01",
+      "event_time": "9月6日 23:16"
+    },
+    {
+      "event_title": "U23亚洲杯预选赛中国队暂列小组次席",
+      "event_id": "event_5",
+      "event_url": "http://news.cnr.cn/native/gd/kx/20250906/t20250906_527353113.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:08:03",
+      "event_time": "9月6日 23:13"
+    },
+    {
+      "event_title": "U22国足1-0战胜新西兰队",
+      "event_id": "event_6",
+      "event_url": "http://www.jfdaily.com/news/detail?id=978120",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:08:05",
+      "event_time": "9月6日 23:11"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 10:07:53",
+    "level2_scrape_time": "2025-09-12 10:08:05"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "萨巴伦卡美网13连胜",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 12:12:28"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "萨巴伦卡卫冕美网女单冠军",
+      "link": "http://www.titan24.com/literalLive/2025/09/07/568151/os_quick.html",
+      "time": "9月7日 09:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美网:萨巴伦卡获得女单冠军",
+      "link": "http://cj.sina.com.cn/articles/view/1699432410/654b47da02001k4sm",
+      "time": "9月7日 08:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "萨巴伦卡卫冕美网冠军获500万美元巨额奖金,今年大满贯成绩单一冠两亚",
+      "link": "http://baijiahao.baidu.com/s?id=1842567620760956234&wfr=spider&for=pc",
+      "time": "9月7日 08:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "萨巴伦卡美网卫冕解锁一系列新成就",
+      "link": "http://baijiahao.baidu.com/s?id=1842559550107281764&wfr=spider&for=pc",
+      "time": "9月7日 07:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "萨巴伦卡再进决赛，豪取美网13连胜，冠军稳了",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11766474933865881455",
+      "time": "9月5日 16:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "萨巴伦卡连续3年晋级美网决赛",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=14214276516197938982",
+      "time": "9月5日 10:47",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 12:12:42"
+}

@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "樊振东德甲首胜",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:47:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "樊振东德甲首胜!樊振东3比1泽利科!直接把对手打懵了",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=14870016610977390149",
+      "time": "9月7日 00:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "樊振东3比1战胜泽利科，迎德甲赛场首胜",
+      "link": "http://news.hnr.cn/shxw/article/1/1964331626932285442",
+      "time": "9月6日 22:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "德甲，樊振东vs泽利科，樊振东赢了第一局",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7878144861275394782",
+      "time": "9月6日 21:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "德甲击败樊振东的罗曼·鲁伊斯开通社交媒体账号",
+      "link": "http://baijiahao.baidu.com/s?id=1842121882950550408&wfr=spider&for=pc",
+      "time": "9月2日 11:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "樊振东德甲首秀2连败，后续赛程将检验调整效果",
+      "link": "http://baijiahao.baidu.com/s?id=1842020212720196834&wfr=spider&for=pc",
+      "time": "9月1日 08:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "樊振东德甲首秀憾负世排302名法国选手，2500 人见证“票房奇迹”",
+      "link": "http://baijiahao.baidu.com/s?id=1841978127888321256&wfr=spider&for=pc",
+      "time": "8月31日 21:33",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 22:47:44"
+}

@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "石破茂宣布辞职，外交部表态",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:51:24"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国九三阅兵已至,石破茂终于投降!中美都惹不起,他将会辞职",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15587930161494181463",
+      "time": "9月10日 01:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "石破茂面临空前重压,政治生涯恐将终结",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1277334868815079989",
+      "time": "9月9日 14:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "石破茂宣布辞职,中方回应",
+      "link": "http://baijiahao.baidu.com/s?id=1842682795536924204&wfr=spider&for=pc",
+      "time": "9月8日 16:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "石破茂宣布辞职,外交部表态",
+      "link": "http://new.qq.com/rain/a/20250908V05IO700",
+      "time": "9月8日 15:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "决意辞职后 日本首相石破茂召开紧急记者会",
+      "link": "http://www.163.com/dy/article/K8SC9U6T0514R9KQ.html",
+      "time": "9月7日 17:25",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 10:51:39"
+}

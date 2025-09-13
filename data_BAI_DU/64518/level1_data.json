@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普会晤波兰总统",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:28:57"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "特朗普会晤波兰总统 称将维持美在波兰驻军规模",
+      "link": "http://tv.cctv.com/2025/09/04/VIDEd9Jgv6i4gALcKlSxWei4250904.shtml",
+      "time": "9月4日 19:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特朗普会晤波兰总统 称美国将不会从波兰撤军 甚至可能增兵",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3075538296640064652",
+      "time": "9月4日 16:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "波兰新任总统到访美国 美F16和F35战机飞越白宫上空致意",
+      "link": "http://video.sina.cn/news/2025-09-04/detail-infphutt8907421.d.html",
+      "time": "9月4日 09:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普与波兰总统举行双边会谈。",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 01:29:11"
+}

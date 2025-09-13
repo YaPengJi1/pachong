@@ -1,0 +1,248 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 15:02:16"
+  },
+  "core_event": {
+    "core_event_name": "泰山队VS申花焦点战",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:01:09"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "4大主力缺战!山东泰山残阵出击上海,媒体人:明晚不一定输",
+      "link": "http://new.qq.com/rain/a/20250911A09A7E00",
+      "time": "昨天 23:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中超第24轮大战申花，泰山出征人员又惹争议",
+      "link": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001tfyc",
+      "time": "昨天 15:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "鲁申对决|泰山12日晚对阵申花,退国安后可否摘“花”?",
+      "link": "http://baijiahao.baidu.com/s?id=1842888844129043327&wfr=spider&for=pc",
+      "time": "9月10日 10:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "曝崔康熙9月回归，山东泰山客战申花韩鹏大概率仍带队",
+      "link": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001tdoe",
+      "time": "9月9日 09:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "韩鹏战申花一视同仁,马德鲁加对子特谢拉,泰山队新布局,青训一体化",
+      "link": "http://new.qq.com/rain/a/20250908A06QSP00",
+      "time": "9月8日 17:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "京鲁大战后再迎鲁沪之战,泰山的“可复制”和“无法复制”",
+      "link": "http://baijiahao.baidu.com/s?id=1842661981887547120&wfr=spider&for=pc",
+      "time": "9月8日 10:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "上海申花与泰山对决非赢不可",
+      "link": "http://cj.sina.com.cn/articles/view/7880068820/1d5b04ed402001dfs8",
+      "time": "9月8日 10:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "泰山队VS申花焦点战:重启之战球票售罄,关键球员缺席",
+      "link": "http://www.sohu.com/a/932474793_122387568",
+      "time": "9月6日 17:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "比赛还没开打,上海申花迎来三个好消息,主场战胜山东泰山有戏了",
+      "link": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001tamy",
+      "time": "9月4日 22:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "中超联赛第24轮，上海申花队主场迎战山东泰山队",
+      "link": "http://www.163.com/dy/article/K8EE296G0556DN16.html",
+      "time": "9月2日 07:27",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "4大主力缺战!山东泰山残阵出击上海,媒体人:明晚不一定输",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250911A09A7E00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:01:25",
+      "event_time": "昨天 23:18"
+    },
+    {
+      "event_title": "中超第24轮大战申花，泰山出征人员又惹争议",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001tfyc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:01:27",
+      "event_time": "昨天 15:30"
+    },
+    {
+      "event_title": "鲁申对决|泰山12日晚对阵申花,退国安后可否摘“花”?",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842888844129043327&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "炫酷小爱Charli",
+      "comment_time": "09-10 22:52",
+      "comment_content": "泰山客场挑战申花，战术体系稳，外援状态佳，期待精彩对决。",
+      "user_location": "湖北",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:01:44",
+      "event_time": "9月10日 10:49"
+    },
+    {
+      "event_title": "曝崔康熙9月回归，山东泰山客战申花韩鹏大概率仍带队",
+      "event_id": "event_4",
+      "event_url": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001tdoe",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:01:46",
+      "event_time": "9月9日 09:26"
+    },
+    {
+      "event_title": "韩鹏战申花一视同仁,马德鲁加对子特谢拉,泰山队新布局,青训一体化",
+      "event_id": "event_5",
+      "event_url": "http://new.qq.com/rain/a/20250908A06QSP00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:01:48",
+      "event_time": "9月8日 17:28"
+    },
+    {
+      "event_title": "京鲁大战后再迎鲁沪之战,泰山的“可复制”和“无法复制”",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842661981887547120&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "一生平安762de",
+      "comment_time": "09-08 12:20",
+      "comment_content": "这篇文章写的好，不是骗流量滴！",
+      "user_location": "山东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:02:04",
+      "event_time": "9月8日 10:43"
+    },
+    {
+      "event_title": "京鲁大战后再迎鲁沪之战,泰山的“可复制”和“无法复制”",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842661981887547120&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "小王讨厌Fishing",
+      "comment_time": "09-08 10:46",
+      "comment_content": "这个视角很独特👍",
+      "user_location": "湖北",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:02:04",
+      "event_time": "9月8日 10:43"
+    },
+    {
+      "event_title": "上海申花与泰山对决非赢不可",
+      "event_id": "event_7",
+      "event_url": "http://cj.sina.com.cn/articles/view/7880068820/1d5b04ed402001dfs8",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:02:06",
+      "event_time": "9月8日 10:23"
+    },
+    {
+      "event_title": "泰山队VS申花焦点战:重启之战球票售罄,关键球员缺席",
+      "event_id": "event_8",
+      "event_url": "http://www.sohu.com/a/932474793_122387568",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:02:08",
+      "event_time": "9月6日 17:51"
+    },
+    {
+      "event_title": "比赛还没开打,上海申花迎来三个好消息,主场战胜山东泰山有戏了",
+      "event_id": "event_9",
+      "event_url": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001tamy",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:02:10",
+      "event_time": "9月4日 22:28"
+    },
+    {
+      "event_title": "中超联赛第24轮，上海申花队主场迎战山东泰山队",
+      "event_id": "event_10",
+      "event_url": "http://www.163.com/dy/article/K8EE296G0556DN16.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:02:12",
+      "event_time": "9月2日 07:27"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 10,
+    "total_comments": 11,
+    "events_with_comments": 10,
+    "level1_scrape_time": "2025-09-12 15:01:23",
+    "level2_scrape_time": "2025-09-12 15:02:12"
+  }
+}

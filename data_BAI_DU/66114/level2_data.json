@@ -1,0 +1,59 @@
+{
+  "core_event_name": "美国8月非农数据大幅低于预期",
+  "comments": [
+    {
+      "event_title": "美国8月非农新增就业2.2万大幅低于预期",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842656010115107529&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "西藏的藏獒",
+      "comment_time": "09-08 14:10",
+      "comment_content": "工资涨太快了呗，企业招人缩手缩脚，成本高谁还扩大团队？非农数据扑街早有苗头。",
+      "user_location": "辽宁",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:28:59",
+      "event_time": "9月8日 09:08"
+    },
+    {
+      "event_title": "美国劳工统计局“大换血”后,就业数据为何更糟了?",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842519122854052880&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:29:15",
+      "event_time": "9月6日 20:52"
+    },
+    {
+      "event_title": "美国8月份非农就业人数新增2.2万人 低于预期",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.cn/2025-09-05/detail-infpnfmz0580357.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:29:17",
+      "event_time": "9月5日 20:36"
+    },
+    {
+      "event_title": "美国8月非农数据大幅低于预期 失业率创近4年来新高",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.com.cn/stock/usstock/c/2025-09-05/doc-infpmzcy5755999.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:29:19",
+      "event_time": "9月5日 20:35"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 14:29:19"
+}

@@ -1,0 +1,100 @@
+{
+  "core_info": {
+    "core_event_name": "俄罗斯总统普京对北约军队进入乌克兰的表态",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:19:10"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "普京对北约划出战争红线:部队进乌即成合法目标,绝无例外!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12644756673684760550",
+      "time": "9月7日 10:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "普京表态：若军队出现在乌克兰，将被俄合法打击",
+      "link": "http://www.163.com/dy/article/K8QUMG890556E06Y.html",
+      "time": "9月7日 04:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "普京：出现在乌克兰的西方部队将成为俄军合法打击目标",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15487494351597025108",
+      "time": "9月6日 15:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "俄罗斯总统普京：外国军队如在乌出现将成俄军合法打击目标",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16517601416650458856",
+      "time": "9月6日 14:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "普京:敢派兵,就打!",
+      "link": "http://finance.sina.com.cn/wm/2025-09-06/doc-infpptph9805928.shtml",
+      "time": "9月6日 13:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "普京:任何在乌西方军队将成合法攻击目标",
+      "link": "http://cj.sina.com.cn/articles/view/1643971635/61fd04330200152eg",
+      "time": "9月6日 12:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "CNN:普京称,如果西方军队进入乌克兰,将成为“合法目标”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3090148616358757852",
+      "time": "9月6日 10:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "普京:北约军队如在乌出现 将成俄军合法打击目标",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12347846276928304665",
+      "time": "9月6日 09:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "俄罗斯总统普京:目前还没有人认真讨论过俄罗斯的安全保障,我们已准",
+      "link": "http://baijiahao.baidu.com/s?id=1842403743698547165&wfr=spider&for=pc",
+      "time": "9月5日 14:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "普京在北京发表讲话,提及美国表示“肯定”",
+      "link": "http://cj.sina.com.cn/articles/view/7295511708/1b2d8ac9c0200168uy",
+      "time": "9月4日 19:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "普京表态：俄军重返基辅或已实现",
+      "link": "http://cj.sina.com.cn/articles/view/7295511718/v1b2d8aca602001eoqe",
+      "time": "9月4日 09:49",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 11,
+  "scrape_time": "2025-09-13 01:19:24"
+}

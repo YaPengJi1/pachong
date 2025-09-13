@@ -1,0 +1,59 @@
+{
+  "core_event_name": "泰国前总理他信离开泰国",
+  "comments": [
+    {
+      "event_title": "泰国前总理他信从迪拜返回以接收法院裁决",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/5953190001/162d6787102001xbgi",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:36:13",
+      "event_time": "9月9日 19:40"
+    },
+    {
+      "event_title": "泰国新总理选举当日,前总理他信发声:正前往迪拜",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842488390099257037&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:36:30",
+      "event_time": "9月6日 12:28"
+    },
+    {
+      "event_title": "他信在法院裁决前离开泰国",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9948002117729164807",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:36:32",
+      "event_time": "9月6日 10:43"
+    },
+    {
+      "event_title": "他信飞离泰国",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.cn/2025-09-05/detail-infpmkhm0899443.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:36:34",
+      "event_time": "9月5日 12:19"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 11:36:34"
+}

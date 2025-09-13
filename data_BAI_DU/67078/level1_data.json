@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "武汉大学杨景媛论文突然下架",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:13:27"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "杨某媛论文悄然下架,武大的通报或许已在路上",
+      "link": "http://baijiahao.baidu.com/s?id=1842941283561211229&wfr=spider&for=pc",
+      "time": "昨天 12:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "武汉大学杨某媛论文下架后再上架",
+      "link": "http://finance.sina.com.cn/roll/2025-09-11/doc-infqasqp1884285.shtml",
+      "time": "昨天 10:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "武大杨同学论文被再次上架:知网 “任性” 调整背后,原因何在",
+      "link": "http://cj.sina.com.cn/articles/view/5557976948/14b47ff7400101b3ci",
+      "time": "昨天 10:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "武大杨某媛论文下架后再上架,知网应公开说明",
+      "link": "http://baijiahao.baidu.com/s?id=1842931245191401928&wfr=spider&for=pc",
+      "time": "昨天 10:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "媒体:武大杨某媛论文下架后再上架,知网应公开说明",
+      "link": "http://news.sina.com.cn/c/2025-09-11/doc-infqanht8748485.shtml",
+      "time": "昨天 08:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "武大论文下架堪称学术之耻",
+      "link": "http://baijiahao.baidu.com/s?id=1842869817588697495&wfr=spider&for=pc",
+      "time": "9月10日 23:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "武汉大学杨景媛论文突然下架，最新回应来了",
+      "link": "http://www.163.com/dy/article/K94JLHFP05459BTA.html",
+      "time": "9月10日 22:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "杨景媛的论文突然被下架",
+      "link": "http://www.163.com/dy/article/K93N6LIQ05561940.html",
+      "time": "9月10日 13:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "武汉大学研究生院回应杨某媛论文知网下架:正在核实",
+      "link": "http://m.yicai.com/brief/102816903.html",
+      "time": "9月10日 10:17",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-12 11:13:41"
+}

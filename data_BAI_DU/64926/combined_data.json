@@ -1,0 +1,256 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:32:13"
+  },
+  "core_event": {
+    "core_event_name": "火车学生票优惠新规9月6日起实施",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:30:50"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "学生火车票优惠新规进入实施阶段 优惠票发售 动车组优惠票适用范围扩大 可享“折上折”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11566483020630373464",
+      "time": "9月7日 10:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "多项学生旅客铁路购票优惠新政实施",
+      "link": "http://www.taihainet.com/news/xmnews/shms/2025-09-07/2841838.html",
+      "time": "9月7日 08:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "学生火车票优惠新规今起实施",
+      "link": "http://news.cctv.com/2025/09/07/ARTIi4pudGVhan6VSHwfojwV250907.shtml",
+      "time": "9月6日 22:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "学生火车票优惠新规进入实施阶段 优惠票今起发售 动车组优惠票适用范围扩大 可享“折上折”",
+      "link": "http://tv.cctv.com/2025/09/06/VIDEKzJJdHUUx5XHWHDT4uuF250906.shtml",
+      "time": "9月6日 10:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "动车组车票优惠新政今起施行",
+      "link": "http://tv.cctv.com/2025/09/06/VIDEHfvjKWEXy71xY2NGQAkR250906.shtml",
+      "time": "9月6日 00:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "学生购票福利再升级 铁路护航学子求学之路",
+      "link": "http://baijiahao.baidu.com/s?id=1842393765295511670&wfr=spider&for=pc",
+      "time": "9月5日 11:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "国铁优化儿童及特殊旅客购票优惠,9月6日起实施",
+      "link": "http://cj.sina.com.cn/articles/view/1651428902/626ece2604001czr8",
+      "time": "9月5日 11:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "火车学生票优惠新规9月6日起实施",
+      "link": "http://video.sina.cn/finance/2025-09-04/detail-infpiwey6658911.d.html",
+      "time": "9月4日 20:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "火车学生票优惠新政,即将上线!",
+      "link": "http://news.fjsen.com/wap/2025-09/02/content_32030622.htm",
+      "time": "9月2日 11:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "这些城市火车票“折上折”活动9月6日起施行",
+      "link": "http://baijiahao.baidu.com/s?id=1842047423778902139&wfr=spider&for=pc",
+      "time": "9月1日 15:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "学生购票优惠新举措为青春出行添活力",
+      "link": "http://baijiahao.baidu.com/s?id=1842037544989149486&wfr=spider&for=pc",
+      "time": "9月1日 13:15",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "学生火车票优惠新规进入实施阶段 优惠票发售 动车组优惠票适用范围扩大 可享“折上折”",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11566483020630373464",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:31:05",
+      "event_time": "9月7日 10:35"
+    },
+    {
+      "event_title": "多项学生旅客铁路购票优惠新政实施",
+      "event_id": "event_2",
+      "event_url": "http://www.taihainet.com/news/xmnews/shms/2025-09-07/2841838.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:31:07",
+      "event_time": "9月7日 08:46"
+    },
+    {
+      "event_title": "学生火车票优惠新规今起实施",
+      "event_id": "event_3",
+      "event_url": "http://news.cctv.com/2025/09/07/ARTIi4pudGVhan6VSHwfojwV250907.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:31:09",
+      "event_time": "9月6日 22:24"
+    },
+    {
+      "event_title": "学生火车票优惠新规进入实施阶段 优惠票今起发售 动车组优惠票适用范围扩大 可享“折上折”",
+      "event_id": "event_4",
+      "event_url": "http://tv.cctv.com/2025/09/06/VIDEKzJJdHUUx5XHWHDT4uuF250906.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:31:11",
+      "event_time": "9月6日 10:58"
+    },
+    {
+      "event_title": "动车组车票优惠新政今起施行",
+      "event_id": "event_5",
+      "event_url": "http://tv.cctv.com/2025/09/06/VIDEHfvjKWEXy71xY2NGQAkR250906.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:31:13",
+      "event_time": "9月6日 00:21"
+    },
+    {
+      "event_title": "学生购票福利再升级 铁路护航学子求学之路",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842393765295511670&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:31:31",
+      "event_time": "9月5日 11:30"
+    },
+    {
+      "event_title": "国铁优化儿童及特殊旅客购票优惠,9月6日起实施",
+      "event_id": "event_7",
+      "event_url": "http://cj.sina.com.cn/articles/view/1651428902/626ece2604001czr8",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:31:33",
+      "event_time": "9月5日 11:29"
+    },
+    {
+      "event_title": "火车学生票优惠新规9月6日起实施",
+      "event_id": "event_8",
+      "event_url": "http://video.sina.cn/finance/2025-09-04/detail-infpiwey6658911.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:31:35",
+      "event_time": "9月4日 20:58"
+    },
+    {
+      "event_title": "火车学生票优惠新政,即将上线!",
+      "event_id": "event_9",
+      "event_url": "http://news.fjsen.com/wap/2025-09/02/content_32030622.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:31:37",
+      "event_time": "9月2日 11:03"
+    },
+    {
+      "event_title": "这些城市火车票“折上折”活动9月6日起施行",
+      "event_id": "event_10",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842047423778902139&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "健康革命者",
+      "comment_time": "09-03 23:17",
+      "comment_content": "学生党福利来啦！出行更灵活，钱包更开心！",
+      "user_location": "山东",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:31:53",
+      "event_time": "9月1日 15:46"
+    },
+    {
+      "event_title": "学生购票优惠新举措为青春出行添活力",
+      "event_id": "event_11",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842037544989149486&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:32:08",
+      "event_time": "9月1日 13:15"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 11,
+    "total_comments": 11,
+    "events_with_comments": 11,
+    "level1_scrape_time": "2025-09-12 17:31:04",
+    "level2_scrape_time": "2025-09-12 17:32:08"
+  }
+}

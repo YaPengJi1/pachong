@@ -1,0 +1,72 @@
+{
+  "core_event_name": "曼联大马丁转会传闻",
+  "comments": [
+    {
+      "event_title": "邮报:夏窗仅曼联一队报价大马丁",
+      "event_id": "event_1",
+      "event_url": "http://sports.sina.com.cn/g/2025-09-02/doc-infpatck8862721.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:07:16",
+      "event_time": "9月2日 14:48"
+    },
+    {
+      "event_title": "记者:曼联没有选择大马丁是因为桑乔不愿永久转会加盟维拉",
+      "event_id": "event_2",
+      "event_url": "http://m.dongqiudi.com/article/5349359.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:07:19",
+      "event_time": "9月2日 01:19"
+    },
+    {
+      "event_title": "放弃大马丁!记者:曼联评估大马丁,但最终认为拉门斯是正确选择",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8D4IVLB0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:07:21",
+      "event_time": "9月1日 19:22"
+    },
+    {
+      "event_title": "曼联救命稻草!大马丁或压哨驰援,红魔门将危机迎终极答案",
+      "event_id": "event_4",
+      "event_url": "http://www.sohu.com/a/930796915_121315928",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:07:23",
+      "event_time": "9月1日 17:36"
+    },
+    {
+      "event_title": "曼联暗度陈仓压哨签大马丁桑乔，奥纳纳要被发配",
+      "event_id": "event_5",
+      "event_url": "http://www.bilibili.com/video/BV1hAaHzkEoR",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:07:25",
+      "event_time": "9月1日 15:18"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 17:07:25"
+}

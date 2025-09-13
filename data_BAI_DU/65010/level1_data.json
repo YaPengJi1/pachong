@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "极氪车辆专利",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 16:54:37"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "吉利极氪申请车辆控制相关专利 避免车门关闭与座椅干涉",
+      "link": "http://finance.jrj.com.cn/2025/09/05161652948581.shtml",
+      "time": "9月5日 16:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "极氪取得车辆专利,改善提升车辆的NVH路噪性能",
+      "link": "http://m.jrj.com.cn/madapter/finance/2025/09/01164152847721.shtml",
+      "time": "9月1日 16:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "极氪取得排水总成及车辆专利",
+      "link": "http://m.jrj.com.cn/madapter/finance/2025/09/01162052846534.shtml",
+      "time": "9月1日 16:20",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 16:54:51"
+}

@@ -1,0 +1,59 @@
+{
+  "core_event_name": "中国U22男足对阵澳大利亚",
+  "comments": [
+    {
+      "event_title": "U22国足今晚对战澳大利亚",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842778080561306567&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "ty631119",
+      "comment_time": "09-09 21:25",
+      "comment_content": "解说  快快回去休息了嘛！",
+      "user_location": "重庆",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:00:02",
+      "event_time": "9月9日 17:28"
+    },
+    {
+      "event_title": "U22男足对澳大利亚拿分就出线，若负需半个亚洲帮忙",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K903V1MC05506BEH.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:00:04",
+      "event_time": "9月9日 04:16"
+    },
+    {
+      "event_title": "澳大利亚狂胜北马里亚纳,国足小胜东帝汶,亚预赛D组积分榜刷新",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=16830087503752234559",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:00:06",
+      "event_time": "9月7日 12:15"
+    },
+    {
+      "event_title": "U22国足将帅:全队状态良好,力争亚洲杯决赛圈席位",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11226820290328829982",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:00:08",
+      "event_time": "9月6日 00:16"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 11:00:08"
+}

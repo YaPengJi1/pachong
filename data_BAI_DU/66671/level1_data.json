@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "歼-35舰载机突破",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:53:26"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "官方突然确认歼35隐身舰载机能在辽宁舰滑跃起飞",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15193226332913666057",
+      "time": "9月9日 11:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "歼-35登机梯口盖严丝合缝",
+      "link": "http://www.163.com/dy/article/K8UEE6O5055616X1.html",
+      "time": "9月8日 12:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国首款歼-35舰载机配备折叠式登机梯",
+      "link": "http://www.163.com/dy/article/K8T52NOP0553TFC0.html",
+      "time": "9月8日 00:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "歼35公开可滑跃起飞 11架预警机已服役 辽宁舰战力将实现6倍跨越 中国航母进入全新时代",
+      "link": "http://baijiahao.baidu.com/s?id=1842539934031663787&wfr=spider&for=pc",
+      "time": "9月7日 02:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "央视实锤!歼-35内置弹舱可塞下6枚中距弹,战力碾压美军F-35C!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15338386057424607568",
+      "time": "9月6日 12:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "一机双型、经略海空!揭秘“歼-35家族”",
+      "link": "http://finance.sina.com.cn/jjxw/2025-09-05/doc-infpnfmy2221862.shtml",
+      "time": "9月5日 21:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "歼-35震撼亮相!有何特点?",
+      "link": "http://news.southcn.com/node_179d29f1ce/e38f9808e7.shtml",
+      "time": "9月4日 08:14",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 10:53:41"
+}

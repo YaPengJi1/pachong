@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "苹果推出首款eSIM手机",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:01:35"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "彻底抛弃实体SIM卡槽!iPhone Air全球统一搭载eSIM",
+      "link": "http://news.mydrivers.com/1/1073/1073534.htm",
+      "time": "9月10日 02:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "苹果官网:iPhone Air 手机当前仅支持中国联通 eSIM 服务",
+      "link": "http://www.ithome.com/0/881/687.htm",
+      "time": "9月10日 02:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国内首款 eSIM 手机,苹果 iPhone Air 确认支持中国联通 eSIM",
+      "link": "http://baijiahao.baidu.com/s?id=1842813091848562633&wfr=spider&for=pc",
+      "time": "9月10日 02:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "华为“跳票” iPhone 17将叩开我国eSIM手机时代大门?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4782394614583806693",
+      "time": "9月9日 17:37",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 10:01:49"
+}

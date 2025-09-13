@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "亚马尔官宣恋情及分手",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:07:29"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "娱记辟谣亚马尔女友出轨马斯坦托诺",
+      "link": "http://k.sina.com.cn/article_2018499075_784fda0302002hi38.html",
+      "time": "9月5日 18:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "亚马尔官宣恋情仅10天,女友移情别恋皇马新星",
+      "link": "http://www.163.com/dy/article/K8K34K1G0556BP41.html",
+      "time": "9月4日 12:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "相恋13天亚马尔闪电分手 女友疑与皇马新星擦出火花?",
+      "link": "http://www.sohu.com/a/931775043_121976701",
+      "time": "9月4日 11:34",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 11:07:43"
+}

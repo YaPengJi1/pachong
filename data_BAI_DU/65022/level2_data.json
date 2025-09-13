@@ -1,0 +1,72 @@
+{
+  "core_event_name": "美网女单八强半数出炉",
+  "comments": [
+    {
+      "event_title": "美网女单下半区阿尼西莫娃击败斯瓦泰克 大阪直美则两盘力克穆霍娃",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842298091746344410&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "杭州LeeSin",
+      "comment_time": "09-05 03:10",
+      "comment_content": "阿尼西莫娃挑落世界第一，大阪直美逆转太精彩了。两位选手太强了，半决赛值得期待。",
+      "user_location": "广东",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 17:06:55",
+      "event_time": "9月4日 10:21"
+    },
+    {
+      "event_title": "阿尼西莫娃击败玛雅，晋级美网八强",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=2493090110810535015",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:06:57",
+      "event_time": "9月2日 14:27"
+    },
+    {
+      "event_title": "阿尼西莫娃晋级美网八强",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4098737470533251529",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:06:59",
+      "event_time": "9月2日 12:33"
+    },
+    {
+      "event_title": "美网女单8强半数出炉，郑钦文坐享渔利",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8CTK7400556CHBA.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:07:01",
+      "event_time": "9月1日 17:20"
+    },
+    {
+      "event_title": "美网:萨巴伦卡晋级女单八强",
+      "event_id": "event_5",
+      "event_url": "http://news.yunnan.cn/system/2025/09/01/033619401.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:07:03",
+      "event_time": "9月1日 16:47"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 17:07:03"
+}

@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "美国执法人员突袭韩企工厂",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:38:34"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "超300名韩国公民在美被抓捕 韩媒:被捕公民最早将于10日乘包机返韩",
+      "link": "http://tv.cctv.com/2025/09/08/VIDElOX9oxws2ZMk06jIdlNd250908.shtml",
+      "time": "9月8日 17:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "300多名韩国工人在美被捕,韩方称将派包机接人回国",
+      "link": "http://weibo.com/2864717612/Q3BTLgrb6",
+      "time": "9月8日 14:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美执法局突袭韩企,475人被捕,美韩关系受考验",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6562976294631620711",
+      "time": "9月8日 14:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "现代LG电池厂被迫停工",
+      "link": "http://baijiahao.baidu.com/s?id=1842669706517153715&wfr=spider&for=pc",
+      "time": "9月8日 12:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美国移民执法部门抓捕475人 大多来自韩国",
+      "link": "http://tv.cctv.com/2025/09/06/VIDE5leSNbDPyazcdFtKiGKw250906.shtml",
+      "time": "9月6日 19:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "美国佐治亚州:韩国现代汽车工厂遭移民突查 475人被拘捕",
+      "link": "http://tv.cctv.com/2025/09/06/VIDEEyQb3gTiztv7EY3kSo38250906.shtml",
+      "time": "9月6日 12:44",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 14:38:49"
+}

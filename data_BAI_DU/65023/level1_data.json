@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "华为Mate XTs折叠屏手机发布",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:07:14"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "华为成业界唯一推进商用三折叠手机的品牌",
+      "link": "http://finance.sina.cn/tech/2025-09-05/detail-infpiwey6660579.d.html",
+      "time": "9月4日 20:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "华为新款三折叠手机起售价17999元 余承东:炒股神器",
+      "link": "http://news.hnr.cn/shxw/article/1/1963554566234718209",
+      "time": "9月4日 18:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "华为发布Mate XTs非凡大师折叠屏手机,17999元起售",
+      "link": "http://news.zol.com.cn/1041/10414973.html",
+      "time": "9月4日 18:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "华为Mate XTs预售不到一分钟即售罄 9月29日前发货",
+      "link": "http://app.myzaker.com/news/article.php?m=1756986391&pk=68b974b78e9f0960ac337616",
+      "time": "9月4日 18:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "华为 三折叠2代 Mate XTs 非凡大师 官宣上线",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6593367339442615261",
+      "time": "9月4日 15:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "华为Mate XTs 非凡大师,到底还藏着多少惊喜?",
+      "link": "http://www.163.com/dy/article/K8F73AMP05318PIH.html",
+      "time": "9月2日 14:48",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 17:07:28"
+}

@@ -1,0 +1,59 @@
+{
+  "core_event_name": "快船队调查伦纳德事件",
+  "comments": [
+    {
+      "event_title": "快船队因小卡遭遇法律和健康危机,NBA调查风波不断",
+      "event_id": "event_1",
+      "event_url": "http://m.sohu.com/a/932424248_121885030",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:09:26",
+      "event_time": "9月6日 12:48"
+    },
+    {
+      "event_title": "伦纳德引发全联盟愤怒,状元秀年纪轻轻,要被迫退役了",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/6013600985/1667044d900101dxue",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:09:28",
+      "event_time": "9月5日 11:01"
+    },
+    {
+      "event_title": "雅虎:对小卡事件的调查可能会影响明年在快船主场举办的全明星赛",
+      "event_id": "event_3",
+      "event_url": "http://sports.sina.com.cn/basketball/nba/2025-09-04/doc-infpkanw6556738.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:09:30",
+      "event_time": "9月4日 23:17"
+    },
+    {
+      "event_title": "快船伦纳德或成自由身,联盟“零容忍”处罚将至?",
+      "event_id": "event_4",
+      "event_url": "http://m.sohu.com/a/931934277_121683270",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:09:32",
+      "event_time": "9月4日 21:27"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 15:09:32"
+}

@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:02:18"
+  },
+  "core_event": {
+    "core_event_name": "东风-5C亮相九三阅兵",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:01:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "东风-61“巨浪-3”亮相!东风-5C打击范围覆盖全球!",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31546645",
+      "time": "9月5日 17:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "王黎明接受检阅",
+      "link": "http://www.0745news.cn/folder3287/folder2068/folder2/folder40/2025-09-05/1136984.html",
+      "time": "9月5日 15:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "“东风-5C”液体洲际战略核导弹亮相九三阅兵,打击范围覆盖全球",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4985626401556942336",
+      "time": "9月4日 21:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "打击范围覆盖全球,“东风-5C”亮相",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31534932",
+      "time": "9月4日 14:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "东风-5C有多强?官媒9年前披露过",
+      "link": "http://news.hnr.cn/shxw/article/1/1963392502769926146",
+      "time": "9月4日 08:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "打击范围覆盖全球!93阅兵突然冒出东风-61,网友",
+      "link": "http://www.163.com/dy/article/K8J36R7U0556DGRW.html",
+      "time": "9月4日 02:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "阅兵仪式上,东风5C亮相后,一句解说词让无数国人沸腾!",
+      "link": "http://baijiahao.baidu.com/s?id=1842219331560278513&wfr=spider&for=pc",
+      "time": "9月3日 13:27",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "东风-61“巨浪-3”亮相!东风-5C打击范围覆盖全球!",
+      "event_id": "event_1",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31546645",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:01:47",
+      "event_time": "9月5日 17:44"
+    },
+    {
+      "event_title": "王黎明接受检阅",
+      "event_id": "event_2",
+      "event_url": "http://www.0745news.cn/folder3287/folder2068/folder2/folder40/2025-09-05/1136984.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:01:49",
+      "event_time": "9月5日 15:52"
+    },
+    {
+      "event_title": "“东风-5C”液体洲际战略核导弹亮相九三阅兵,打击范围覆盖全球",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4985626401556942336",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:01:51",
+      "event_time": "9月4日 21:20"
+    },
+    {
+      "event_title": "打击范围覆盖全球,“东风-5C”亮相",
+      "event_id": "event_4",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31534932",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:01:53",
+      "event_time": "9月4日 14:33"
+    },
+    {
+      "event_title": "东风-5C有多强?官媒9年前披露过",
+      "event_id": "event_5",
+      "event_url": "http://news.hnr.cn/shxw/article/1/1963392502769926146",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:01:56",
+      "event_time": "9月4日 08:03"
+    },
+    {
+      "event_title": "打击范围覆盖全球!93阅兵突然冒出东风-61,网友",
+      "event_id": "event_6",
+      "event_url": "http://www.163.com/dy/article/K8J36R7U0556DGRW.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:01:58",
+      "event_time": "9月4日 02:53"
+    },
+    {
+      "event_title": "阅兵仪式上,东风5C亮相后,一句解说词让无数国人沸腾!",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842219331560278513&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:02:14",
+      "event_time": "9月3日 13:27"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-13 02:01:46",
+    "level2_scrape_time": "2025-09-13 02:02:14"
+  }
+}

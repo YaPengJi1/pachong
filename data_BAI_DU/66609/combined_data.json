@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 09:56:44"
+  },
+  "core_event": {
+    "core_event_name": "索尔纳伊萨克转会利物浦",
+    "update_time": "更新至20250903",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:56:18"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "伊萨克周薪高达28万镑",
+      "link": "http://www.sohu.com/a/931572402_362070",
+      "time": "9月3日 19:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "索尔纳将因伊萨克转会利物浦获得近240万英镑收益",
+      "link": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001t9jc",
+      "time": "9月3日 16:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "利物浦今夏引援规划曝光，维尔茨伊萨克成焦点",
+      "link": "http://k.sina.com.cn/article_7857263903_1d454551f04001d4pg.html",
+      "time": "9月3日 14:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "利物浦夏窗:豪掷4.83亿,标王伊萨克1.44亿压哨官宣",
+      "link": "http://news.sina.com.cn/o/2025-09-02/doc-infpatcc8446694.shtml",
+      "time": "9月2日 14:49",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "伊萨克周薪高达28万镑",
+      "event_id": "event_1",
+      "event_url": "http://www.sohu.com/a/931572402_362070",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:56:34",
+      "event_time": "9月3日 19:08"
+    },
+    {
+      "event_title": "索尔纳将因伊萨克转会利物浦获得近240万英镑收益",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001t9jc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:56:36",
+      "event_time": "9月3日 16:27"
+    },
+    {
+      "event_title": "利物浦今夏引援规划曝光，维尔茨伊萨克成焦点",
+      "event_id": "event_3",
+      "event_url": "http://k.sina.com.cn/article_7857263903_1d454551f04001d4pg.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:56:38",
+      "event_time": "9月3日 14:50"
+    },
+    {
+      "event_title": "利物浦夏窗:豪掷4.83亿,标王伊萨克1.44亿压哨官宣",
+      "event_id": "event_4",
+      "event_url": "http://news.sina.com.cn/o/2025-09-02/doc-infpatcc8446694.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:56:40",
+      "event_time": "9月2日 14:49"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 09:56:32",
+    "level2_scrape_time": "2025-09-12 09:56:40"
+  }
+}

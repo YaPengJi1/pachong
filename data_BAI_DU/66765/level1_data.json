@@ -1,0 +1,76 @@
+{
+  "core_info": {
+    "core_event_name": "中国足协公开选聘国足主帅",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:47:11"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国足选怎样的主帅?业内人士均表达不能“换汤不换药”",
+      "link": "http://news.sina.cn/gn/2025-09-10/detail-infpyyfi2625348.d.html",
+      "time": "9月10日 15:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国足协公开选聘男足主教练，目标参加2030年世界杯",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31548061",
+      "time": "9月7日 07:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国足选帅:年轻化+不再拘泥于亚洲经验",
+      "link": "http://baijiahao.baidu.com/s?id=1842482751280315579&wfr=spider&for=pc",
+      "time": "9月6日 11:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "国足选帅标准公布，谁能带队晋级世界杯?",
+      "link": "http://news.hnr.cn/shxw/article/1/1964099451899752450",
+      "time": "9月6日 06:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "我看中国足协发布选聘男足主帅公告:缺乏明确目标要求",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4372597052651680818",
+      "time": "9月5日 19:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "国足开启选帅，谁能带领国足冲击2030？",
+      "link": "http://cj.sina.com.cn/articles/view/1698513182/p653d411e02701n9xg",
+      "time": "9月5日 18:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "中国足协公开选聘国家男足主教练",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31548343",
+      "time": "9月5日 15:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "中国足协公开选聘国足主帅",
+      "link": "http://k.sina.com.cn/article_1680430844_642956fc01901jqx0.html",
+      "time": "9月5日 15:36",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 8,
+  "scrape_time": "2025-09-12 10:47:25"
+}

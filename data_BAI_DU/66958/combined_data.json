@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:46:33"
+  },
+  "core_event": {
+    "core_event_name": "石破茂辞职，日本下任首相锁定",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:46:07"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "石破茂辞职,日本下任首相是右翼高市早苗吗?中国公开反制汉奸",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12639815593325860827",
+      "time": "9月10日 12:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "石破茂终于卸任,下一任日本首相已经锁定?对华立场强硬",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9553704389933037534",
+      "time": "9月9日 11:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "日本首相石破茂宣布辞去自民党总裁职务",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEne1KRfFgd6BJIRY7q9Vt250908.shtml",
+      "time": "9月8日 17:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "石破茂宣布决定辞去自民党总裁职务",
+      "link": "http://tv.cctv.com/2025/09/08/VIDE9N8XwX9ptXcZxy9NGB7j250908.shtml",
+      "time": "9月8日 07:57",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "石破茂辞职,日本下任首相是右翼高市早苗吗?中国公开反制汉奸",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12639815593325860827",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:46:22",
+      "event_time": "9月10日 12:06"
+    },
+    {
+      "event_title": "石破茂终于卸任,下一任日本首相已经锁定?对华立场强硬",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9553704389933037534",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:46:24",
+      "event_time": "9月9日 11:43"
+    },
+    {
+      "event_title": "日本首相石破茂宣布辞去自民党总裁职务",
+      "event_id": "event_3",
+      "event_url": "http://tv.cctv.com/2025/09/08/VIDEne1KRfFgd6BJIRY7q9Vt250908.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:46:26",
+      "event_time": "9月8日 17:25"
+    },
+    {
+      "event_title": "石破茂宣布决定辞去自民党总裁职务",
+      "event_id": "event_4",
+      "event_url": "http://tv.cctv.com/2025/09/08/VIDE9N8XwX9ptXcZxy9NGB7j250908.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:46:28",
+      "event_time": "9月8日 07:57"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 10:46:21",
+    "level2_scrape_time": "2025-09-12 10:46:28"
+  }
+}

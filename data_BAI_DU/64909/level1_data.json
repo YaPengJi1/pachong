@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "中国民营企业500强榜单发布",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:15:44"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "太平鸟集团荣登“中国民营企业500强”榜单,排名双提升彰显强劲发展势头",
+      "link": "http://www.dzwww.com/xinwen/jishixinwen/202509/t20250911_16455311.htm",
+      "time": "昨天 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "民企500强榜单上,中国经济三个趋势清晰可见",
+      "link": "http://news.cnwest.com/szyw/a/2025/09/04/23188985.html",
+      "time": "9月4日 15:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "2025中国民营企业500强发布",
+      "link": "http://weibo.com/1732502241/Q2BAMaBtx",
+      "time": "9月1日 23:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国民企500强榜单:江浙沪占主导,新能源与高科技企业崛起",
+      "link": "http://www.sohu.com/a/930253328_362225",
+      "time": "8月30日 20:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "“2025中国民营企业500强”发布",
+      "link": "http://baijiahao.baidu.com/s?id=1841842102066878374&wfr=spider&for=pc",
+      "time": "8月30日 09:16",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 17:15:59"
+}

@@ -1,0 +1,59 @@
+{
+  "core_event_name": "比亚迪研发与市值双爆发",
+  "comments": [
+    {
+      "event_title": "比亚迪蝉联A股“研发之王”",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842343020448820517&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "沫晟哲峰Cj",
+      "comment_time": "09-05 20:49",
+      "comment_content": "比亚迪研发砸钱真猛，专利霸榜技术强，智能驾驶也冲在前头，不愧行业扛把子。",
+      "user_location": "湖北",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:40:10",
+      "event_time": "9月4日 22:13"
+    },
+    {
+      "event_title": "比亚迪8月销量373626台",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/2283833712/8820897002701x9o6",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:40:12",
+      "event_time": "9月4日 11:18"
+    },
+    {
+      "event_title": "A股“研发之王”诞生:营收3713亿,现金储备1561亿,纳税271亿",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=12563744803489208346",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:40:14",
+      "event_time": "9月1日 18:46"
+    },
+    {
+      "event_title": "比亚迪·新能源车崛起!凭这价格又是冠军",
+      "event_id": "event_4",
+      "event_url": "http://news.m.yiche.com/hao/wenzhang/103195850/",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:40:16",
+      "event_time": "8月29日 13:08"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-13 02:40:16"
+}

@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 09:48:38"
+  },
+  "core_event": {
+    "core_event_name": "U22国足10-0大胜，媒体人热议防守战术",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 09:47:38"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国队晋级U23亚洲杯正赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842838618946434235&wfr=spider&for=pc",
+      "time": "9月10日 07:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "守得好 没给对手多少机会 U22球员谈晋级秘诀",
+      "link": "http://baijiahao.baidu.com/s?id=1842831462989973305&wfr=spider&for=pc",
+      "time": "9月10日 07:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U22国足半场零封对手",
+      "link": "http://www.sohu.com/a/933368680_122078601",
+      "time": "9月9日 21:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "王钰栋半场7球，国足10-0大胜，两连胜仍受质疑",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11026934801276575118",
+      "time": "9月8日 18:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "U22国足冰火两重天:上半场低迷+下半场大胜,三大亮点与三大不足全解析",
+      "link": "http://www.sohu.com/a/932538160_122387568",
+      "time": "9月7日 05:06",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "中国队晋级U23亚洲杯正赛",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842838618946434235&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "芊与千寻le",
+      "comment_time": "09-10 11:45",
+      "comment_content": "足协快出来溜溜！",
+      "user_location": "重庆",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:48:12",
+      "event_time": "9月10日 07:31"
+    },
+    {
+      "event_title": "守得好 没给对手多少机会 U22球员谈晋级秘诀",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842831462989973305&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "侍芹0FM",
+      "comment_time": "09-10 07:45",
+      "comment_content": "防守真稳当，球员分享秘诀，恭喜晋级表现棒。",
+      "user_location": "江西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:48:27",
+      "event_time": "9月10日 07:24"
+    },
+    {
+      "event_title": "U22国足半场零封对手",
+      "event_id": "event_3",
+      "event_url": "http://www.sohu.com/a/933368680_122078601",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:48:29",
+      "event_time": "9月9日 21:40"
+    },
+    {
+      "event_title": "王钰栋半场7球，国足10-0大胜，两连胜仍受质疑",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11026934801276575118",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:48:31",
+      "event_time": "9月8日 18:30"
+    },
+    {
+      "event_title": "U22国足冰火两重天:上半场低迷+下半场大胜,三大亮点与三大不足全解析",
+      "event_id": "event_5",
+      "event_url": "http://www.sohu.com/a/932538160_122387568",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 09:48:33",
+      "event_time": "9月7日 05:06"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 5,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 09:47:53",
+    "level2_scrape_time": "2025-09-12 09:48:33"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "普京访华深化中俄合作",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:07:24"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "普京:俄罗斯将对中国免签,为两国商贸交流创造有利环境",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8750367998490559916",
+      "time": "9月5日 17:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "普京满载而归，临别前收到金正恩重要保证，俄军展开全线进攻",
+      "link": "http://www.163.com/dy/article/K8MSIKR0051486UA.html",
+      "time": "9月5日 14:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "朝韩会面,朝鲜领导人一点情面不留,转身给了普京“承诺”",
+      "link": "http://www.163.com/dy/article/K8MDLCIM0535I9G2.html",
+      "time": "9月5日 09:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "普京开启“罕见”四天访华行 深化中俄务实合作 开展同多国双边互动",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31515368",
+      "time": "9月1日 06:57",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 18:07:38"
+}

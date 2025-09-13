@@ -1,0 +1,59 @@
+{
+  "core_event_name": "蔚来ES8上市",
+  "comments": [
+    {
+      "event_title": "全新蔚来ES8上市定档9月20日 预售价41.68万元起",
+      "event_id": "event_1",
+      "event_url": "http://auto.cnfol.com/xincheshangshi/20250905/31617878.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:26:44",
+      "event_time": "9月5日 13:05"
+    },
+    {
+      "event_title": "蔚来全新ES8订单超预期",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8MDHCA205568E36.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:26:46",
+      "event_time": "9月5日 09:51"
+    },
+    {
+      "event_title": "蔚来全新ES8将于9月20日上市",
+      "event_id": "event_3",
+      "event_url": "http://www.zhev.com.cn/news/show-1657904031.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:26:48",
+      "event_time": "9月5日 00:00"
+    },
+    {
+      "event_title": "ES8发布引轰动!价格40万元起，性能绝了",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=3910579726403828324",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:26:50",
+      "event_time": "8月29日 21:18"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 17:26:50"
+}

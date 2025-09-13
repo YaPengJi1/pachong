@@ -1,0 +1,46 @@
+{
+  "core_event_name": "西班牙世界杯之路",
+  "comments": [
+    {
+      "event_title": "西班牙3-0大胜，罗德里、卡瓦哈尔复出助球队完美开局",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8N8M97305562G28.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:27:08",
+      "event_time": "9月5日 17:46"
+    },
+    {
+      "event_title": "西班牙世界杯之路并非坦途",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001tavy",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:27:10",
+      "event_time": "9月5日 10:39"
+    },
+    {
+      "event_title": "西班牙曾对阵保加利亚打入13球，创造国家队史最大比分胜利",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8LJF7GG0529DS7F.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 20:27:12",
+      "event_time": "9月5日 02:16"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 20:27:12"
+}

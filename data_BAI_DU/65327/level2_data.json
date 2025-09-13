@@ -1,0 +1,46 @@
+{
+  "core_event_name": "A股大涨，创业板创今年最大单日涨幅",
+  "comments": [
+    {
+      "event_title": "A股全线大涨，创业板创今年最大单日涨幅",
+      "event_id": "event_1",
+      "event_url": "http://www.bilibili.com/video/BV1yXabzHE5E",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:16:40",
+      "event_time": "9月5日 15:33"
+    },
+    {
+      "event_title": "A股大盘整体走势要好于上周五",
+      "event_id": "event_2",
+      "event_url": "http://weibo.com/1497821920/Q2yv2iwmD",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:16:42",
+      "event_time": "9月1日 15:45"
+    },
+    {
+      "event_title": "A股指数涨跌不一，创业板指涨0.49%，体育产业、家居用品等板块涨幅居前",
+      "event_id": "event_3",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:16:44",
+      "event_time": "1970年"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 22:16:44"
+}

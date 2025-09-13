@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:17:09"
+  },
+  "core_event": {
+    "core_event_name": "成都车展智慧出行展示",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:16:26"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "上汽奥迪全矩阵亮相成都车展 加速布局豪华车市场",
+      "link": "http://baijiahao.baidu.com/s?id=1842404451357069102&wfr=spider&for=pc",
+      "time": "9月5日 14:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "问界M9以全维创新诠释豪华新境界",
+      "link": "http://www.163.com/dy/article/K8CNVUKV05385PVI.html",
+      "time": "9月1日 15:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "银河M9携AI座舱首秀",
+      "link": "http://m.sohu.com/a/930187947_121138431",
+      "time": "8月30日 15:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国星全新东方曜系列亮相成都车展",
+      "link": "http://cj.sina.com.cn/articles/view/1461121753/5716f2d902701jkfq",
+      "time": "8月30日 13:11",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "上汽奥迪全矩阵亮相成都车展 加速布局豪华车市场",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842404451357069102&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:16:59",
+      "event_time": "9月5日 14:29"
+    },
+    {
+      "event_title": "问界M9以全维创新诠释豪华新境界",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8CNVUKV05385PVI.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:17:01",
+      "event_time": "9月1日 15:43"
+    },
+    {
+      "event_title": "银河M9携AI座舱首秀",
+      "event_id": "event_3",
+      "event_url": "http://m.sohu.com/a/930187947_121138431",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:17:03",
+      "event_time": "8月30日 15:04"
+    },
+    {
+      "event_title": "中国星全新东方曜系列亮相成都车展",
+      "event_id": "event_4",
+      "event_url": "http://cj.sina.com.cn/articles/view/1461121753/5716f2d902701jkfq",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:17:05",
+      "event_time": "8月30日 13:11"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 17:16:41",
+    "level2_scrape_time": "2025-09-12 17:17:05"
+  }
+}

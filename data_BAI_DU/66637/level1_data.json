@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "特朗普关税上诉",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:20:29"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美国最高法院加速审理特朗普在关税案中的上诉",
+      "link": "http://finance.sina.cn/7x24/2025-09-10/detail-infpxwtu4630175.d.html",
+      "time": "9月10日 04:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "特朗普或退税?千亿关税或退回,紧急上诉",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10800666977897399055",
+      "time": "9月8日 22:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "特朗普政府就关税违法裁决向美最高法院提出上诉",
+      "link": "http://news.cctv.com/2025/09/05/ARTICP6S2FewtzYOSKuMbR8Z250904.shtml",
+      "time": "9月4日 21:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "特朗普关税上诉",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15829014388153463238",
+      "time": "9月4日 16:36",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 10:20:43"
+}

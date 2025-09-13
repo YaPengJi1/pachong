@@ -1,0 +1,85 @@
+{
+  "core_event_name": "iPhone 17 Pro影像升级",
+  "comments": [
+    {
+      "event_title": "苹果iPhone 17系列推出珠光摄影风格,提升人像肤色与色彩表现",
+      "event_id": "event_1",
+      "event_url": "http://mobile.zol.com.cn/1045/10450236.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:26:49",
+      "event_time": "昨天 11:00"
+    },
+    {
+      "event_title": "苹果 iPhone 16/17 系列新增“珠光”摄影风格:提亮肤色",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842927734263225999&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "Funny布丁男",
+      "comment_time": "21小时前",
+      "comment_content": "这个珠光风格挺贴心，肤色拍得透亮自然，照片质感更出彩了。",
+      "user_location": "天津",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:27:06",
+      "event_time": "昨天 09:07"
+    },
+    {
+      "event_title": "iPhone 17全系发布",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842878344243672013&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "卡牌师傅谭三",
+      "comment_time": "09-10 20:05",
+      "comment_content": "苹果这次升级真贴心，日常用起来肯定更爽了。",
+      "user_location": "海南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:27:22",
+      "event_time": "9月10日 20:02"
+    },
+    {
+      "event_title": "iPhone 17全系发布",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842878344243672013&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "函代玉dS",
+      "comment_time": "09-10 23:33",
+      "comment_content": "没新鲜玩意了",
+      "user_location": "辽宁",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:27:22",
+      "event_time": "9月10日 20:02"
+    },
+    {
+      "event_title": "苹果发布iPhone 17标准版:120Hz屏、五彩外观、A19芯片性能跃升",
+      "event_id": "event_4",
+      "event_url": "http://mobile.zol.com.cn/1044/10447132.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:27:24",
+      "event_time": "9月10日 03:01"
+    },
+    {
+      "event_title": "iPhone 17 Pro 影像升级!SmallRig 斯莫格连续四年助力手机影像革命",
+      "event_id": "event_5",
+      "event_url": "http://www.geekpark.net/news/353786",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:27:26",
+      "event_time": "9月10日 00:00"
+    }
+  ],
+  "total_comments": 6,
+  "scrape_time": "2025-09-12 10:27:26"
+}

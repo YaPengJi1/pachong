@@ -1,0 +1,33 @@
+{
+  "core_event_name": "国足选帅风波",
+  "comments": [
+    {
+      "event_title": "61岁前浙江主帅乔迪都急不可耐了",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8USS3DC0537B2DW.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:09:18",
+      "event_time": "9月8日 16:53"
+    },
+    {
+      "event_title": "足协官宣再次招聘国足主帅",
+      "event_id": "event_2",
+      "event_url": "http://news.sohu.com/a/932569943_122287319",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:09:20",
+      "event_time": "9月7日 09:27"
+    }
+  ],
+  "total_comments": 2,
+  "scrape_time": "2025-09-12 15:09:20"
+}

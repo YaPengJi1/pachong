@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "沪深两市成交额连续突破2万亿",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:09:16"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "沪深两市成交额连续第18个交易日突破2万亿",
+      "link": "http://www.163.com/dy/article/K8MTOKJD05198CJN.html",
+      "time": "9月5日 14:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "沪深两市成交额连续第17个交易日突破2万亿",
+      "link": "http://cj.sina.com.cn/articles/view/2868676035/aafc85c302001ggfg",
+      "time": "9月4日 14:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "沪深两市成交额突破1万亿元",
+      "link": "http://m.yicai.com/brief/102804623.html",
+      "time": "9月2日 10:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "自成交量持续突破2w亿,赚钱效应迅速消退殆尽",
+      "link": "http://weibo.com/7890838568/Q25gDBq6h",
+      "time": "8月29日 13:19",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 17:09:30"
+}

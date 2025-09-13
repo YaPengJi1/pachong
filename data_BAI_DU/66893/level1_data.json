@@ -1,0 +1,100 @@
+{
+  "core_info": {
+    "core_event_name": "辛芷蕾获威尼斯电影节最佳女主角",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:10:39"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "辛芷蕾夺得威尼斯电影节最佳女演员奖",
+      "link": "http://baijiahao.baidu.com/s?id=1842763169625228960&wfr=spider&for=pc",
+      "time": "9月9日 13:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "辛芷蕾原名“冲上热搜”",
+      "link": "http://www.sohu.com/a/933126807_121895979",
+      "time": "9月9日 09:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "辛芷蕾获威尼斯电影节最佳女主角",
+      "link": "http://weibo.com/1014312143/Q3w5L70QB",
+      "time": "9月7日 23:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "广州出品电影!辛芷蕾获威尼斯“影后”",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31558970",
+      "time": "9月7日 16:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "辛芷蕾威尼斯封后",
+      "link": "http://baijiahao.baidu.com/s?id=1842590062670328232&wfr=spider&for=pc",
+      "time": "9月7日 15:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "辛芷蕾获影后 李冰冰、钟楚曦等众星发博祝贺",
+      "link": "http://cj.sina.com.cn/articles/view/6445229113/p1802a643902703573g",
+      "time": "9月7日 14:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "曝周迅推掉《日挂中天》邀约,辛芷蕾随后接演女主角",
+      "link": "http://cj.sina.com.cn/articles/view/3995444230/ee25a40600101ipd2",
+      "time": "9月7日 13:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "辛芷蕾影后得奖",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15824463596421796571",
+      "time": "9月7日 12:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "辛芷蕾获得威尼斯影后",
+      "link": "http://news.sina.com.cn/zx/2025-09-07/doc-infprsek0400928.shtml",
+      "time": "9月7日 10:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "已确认!是女演员辛芷蕾!",
+      "link": "http://m.gmw.cn/toutiao/2025-09/07/content_1304138188.htm",
+      "time": "9月7日 09:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "《日掛中天》摘得威尼斯国际电影节最佳女演员",
+      "link": "http://baijiahao.baidu.com/s?id=1842564264023319450&wfr=spider&for=pc",
+      "time": "9月7日 08:48",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 11,
+  "scrape_time": "2025-09-12 11:10:53"
+}

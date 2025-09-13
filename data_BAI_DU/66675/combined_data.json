@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:57:51"
+  },
+  "core_event": {
+    "core_event_name": "U22国足大胜，两连胜仍受质疑",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:57:25"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U22国足半场零封对手",
+      "link": "http://www.sohu.com/a/933368680_122078601",
+      "time": "9月9日 21:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "王钰栋半场7球，国足10-0大胜，两连胜仍受质疑",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11026934801276575118",
+      "time": "9月8日 18:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U22国足冰火两重天:上半场低迷+下半场大胜,三大亮点与三大不足全解析",
+      "link": "http://www.sohu.com/a/932538160_122387568",
+      "time": "9月7日 05:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22国足2比1险胜东帝汶，三个细节让球迷高兴不起来",
+      "link": "http://www.163.com/dy/article/K8MG3S8Q0556DQWX.html",
+      "time": "9月5日 10:36",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "U22国足半场零封对手",
+      "event_id": "event_1",
+      "event_url": "http://www.sohu.com/a/933368680_122078601",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:57:41",
+      "event_time": "9月9日 21:40"
+    },
+    {
+      "event_title": "王钰栋半场7球，国足10-0大胜，两连胜仍受质疑",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11026934801276575118",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:57:43",
+      "event_time": "9月8日 18:30"
+    },
+    {
+      "event_title": "U22国足冰火两重天:上半场低迷+下半场大胜,三大亮点与三大不足全解析",
+      "event_id": "event_3",
+      "event_url": "http://www.sohu.com/a/932538160_122387568",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:57:45",
+      "event_time": "9月7日 05:06"
+    },
+    {
+      "event_title": "U22国足2比1险胜东帝汶，三个细节让球迷高兴不起来",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8MG3S8Q0556DQWX.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:57:47",
+      "event_time": "9月5日 10:36"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 10:57:40",
+    "level2_scrape_time": "2025-09-12 10:57:47"
+  }
+}

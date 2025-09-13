@@ -1,0 +1,211 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:26:54"
+  },
+  "core_event": {
+    "core_event_name": "U22国足晋级U23亚洲杯正赛",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:25:37"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国足晋级U23亚洲杯正赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842872804733907254&wfr=spider&for=pc",
+      "time": "9月10日 16:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国队晋级U23亚洲杯正赛",
+      "link": "http://baijiahao.baidu.com/s?id=1842861222082002039&wfr=spider&for=pc",
+      "time": "9月10日 15:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国U22国家队晋级U23亚洲杯正赛",
+      "link": "http://www.163.com/dy/article/K928BOHR0549CSEX.html",
+      "time": "9月10日 00:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22国足顺利晋级!媒体人热议:一场默契球,安东尼奥从不失手",
+      "link": "http://cj.sina.com.cn/articles/view/3250957313/c1c5ac0102001cdce",
+      "time": "9月9日 21:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中澳之战前,关于U22国足的一次梳理",
+      "link": "http://baijiahao.baidu.com/s?id=1842658368687361531&wfr=spider&for=pc",
+      "time": "9月8日 09:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "U22国足10-0胜北马里亚纳群岛队",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8513342972476643309",
+      "time": "9月6日 22:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "U23亚洲杯疯狂夜:国足大胜,澳大利亚稳居榜首",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11907751456733800138",
+      "time": "9月6日 22:10",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "国足晋级U23亚洲杯正赛",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842872804733907254&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "乔苏卖art",
+      "comment_time": "09-11 07:04",
+      "comment_content": "国足小伙子们拼尽全力晋级了，教练赛后乐开花，期待沙特赛场再创佳绩。",
+      "user_location": "江西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:26:10",
+      "event_time": "9月10日 16:13"
+    },
+    {
+      "event_title": "中国队晋级U23亚洲杯正赛",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842861222082002039&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "萌萌爱吃栗子",
+      "comment_time": "09-10 15:56",
+      "comment_content": "很欣赏作者的观点！",
+      "user_location": "黑龙江",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:26:26",
+      "event_time": "9月10日 15:29"
+    },
+    {
+      "event_title": "中国U22国家队晋级U23亚洲杯正赛",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K928BOHR0549CSEX.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:26:28",
+      "event_time": "9月10日 00:12"
+    },
+    {
+      "event_title": "U22国足顺利晋级!媒体人热议:一场默契球,安东尼奥从不失手",
+      "event_id": "event_4",
+      "event_url": "http://cj.sina.com.cn/articles/view/3250957313/c1c5ac0102001cdce",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:26:30",
+      "event_time": "9月9日 21:41"
+    },
+    {
+      "event_title": "中澳之战前,关于U22国足的一次梳理",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842658368687361531&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "绿茵不负人生",
+      "comment_time": "09-08 10:15",
+      "comment_content": "队内氛围很差，从第二场可以看出来，下半场就一个王钰栋积极发挥，既然是队友，那上半场其他年轻人，代表国家比赛是躺平的态度吗？",
+      "user_location": "辽宁",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:26:46",
+      "event_time": "9月8日 09:46"
+    },
+    {
+      "event_title": "中澳之战前,关于U22国足的一次梳理",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842658368687361531&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "悟雅4D",
+      "comment_time": "09-09 12:35",
+      "comment_content": "后场球员漫不经心是最大问题，从传接球，跑姿都能看出，尤其是中后卫",
+      "user_location": "重庆",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:26:46",
+      "event_time": "9月8日 09:46"
+    },
+    {
+      "event_title": "中澳之战前,关于U22国足的一次梳理",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842658368687361531&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "不知火舞爱你",
+      "comment_time": "09-08 17:45",
+      "comment_content": "国内的联赛节奏慢，对进入联赛的王玉栋以及其它球员实际上是起到了消级的作用，05年的国青和后来的国少都是由日本籍主教练带，讲究的是脚下传控配合，可到了成年国家队却换了主教练，打法也变成了现在的样子，导致以前培养的技战素养无法发挥，使得实力受到了巨大的影响，要想彻底提高成年国家队的实力，国家队必须统一并坚持国青和国少队的技战术打法，并且继续聘请日本籍主教练，否则以前的努力都会半途而废。",
+      "user_location": "河北",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:26:46",
+      "event_time": "9月8日 09:46"
+    },
+    {
+      "event_title": "中澳之战前,关于U22国足的一次梳理",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842658368687361531&wfr=spider&for=pc",
+      "comment_index": 4,
+      "user_id": "石锋君子",
+      "comment_time": "09-10 11:19",
+      "comment_content": "其实三场比赛表现最好的应该是拜哈拉木，王玉栋只是偶尔闪光，白哈拉木可以说全场都在不停的威胁到对方，另外，应该让刘成宇回来，他最起码要比中甲的项玉旺强多了，有22进16强以后，希望刘成宇能回来，像欲望就算了，自己没有带球的能力，又没有中锋能站住的能力，他上场跟没上一样，还浪费一个队员指标",
+      "user_location": "陕西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:26:46",
+      "event_time": "9月8日 09:46"
+    },
+    {
+      "event_title": "U22国足10-0胜北马里亚纳群岛队",
+      "event_id": "event_6",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8513342972476643309",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:26:48",
+      "event_time": "9月6日 22:40"
+    },
+    {
+      "event_title": "U23亚洲杯疯狂夜:国足大胜,澳大利亚稳居榜首",
+      "event_id": "event_7",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=11907751456733800138",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:26:50",
+      "event_time": "9月6日 22:10"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 10,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 11:25:52",
+    "level2_scrape_time": "2025-09-12 11:26:50"
+  }
+}

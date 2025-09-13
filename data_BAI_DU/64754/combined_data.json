@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:06:05"
+  },
+  "core_event": {
+    "core_event_name": "中国U22男足对阵东帝汶",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:05:05"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国U22国家队提前出局",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4572350067323605493",
+      "time": "9月4日 14:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U23国足2-1险胜东帝汶",
+      "link": "http://baijiahao.baidu.com/s?id=1842252712141135090&wfr=spider&for=pc",
+      "time": "9月3日 22:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国男足U22vs东帝汶U23",
+      "link": "http://tieba.baidu.com/p/10006977603",
+      "time": "9月3日 17:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22男足亚预赛首战对阵东帝汶",
+      "link": "http://baijiahao.baidu.com/s?id=1842213571328181266&wfr=spider&for=pc",
+      "time": "9月3日 11:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中国U22男足名单调整",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5183046016955028477",
+      "time": "9月3日 09:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "U22国足战东帝汶：不仅要赢，还要完成这四大任务",
+      "link": "http://www.163.com/dy/article/K8H3DLEQ0556DLXG.html",
+      "time": "9月3日 08:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "中国U22国家队提前出局",
+      "event_id": "event_1",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4572350067323605493",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:05:20",
+      "event_time": "9月4日 14:43"
+    },
+    {
+      "event_title": "U23国足2-1险胜东帝汶",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842252712141135090&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "宇航员MonsterMike",
+      "comment_time": "09-03 22:28",
+      "comment_content": "这个视角很有趣哦👀",
+      "user_location": "广东",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:05:37",
+      "event_time": "9月3日 22:18"
+    },
+    {
+      "event_title": "中国男足U22vs东帝汶U23",
+      "event_id": "event_3",
+      "event_url": "http://tieba.baidu.com/p/10006977603",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:05:39",
+      "event_time": "9月3日 17:21"
+    },
+    {
+      "event_title": "U22男足亚预赛首战对阵东帝汶",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842213571328181266&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:05:57",
+      "event_time": "9月3日 11:56"
+    },
+    {
+      "event_title": "中国U22男足名单调整",
+      "event_id": "event_5",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5183046016955028477",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:05:59",
+      "event_time": "9月3日 09:32"
+    },
+    {
+      "event_title": "U22国足战东帝汶：不仅要赢，还要完成这四大任务",
+      "event_id": "event_6",
+      "event_url": "http://www.163.com/dy/article/K8H3DLEQ0556DLXG.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:06:01",
+      "event_time": "9月3日 08:18"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-13 02:05:19",
+    "level2_scrape_time": "2025-09-13 02:06:01"
+  }
+}

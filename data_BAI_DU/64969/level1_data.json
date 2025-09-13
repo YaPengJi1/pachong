@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "蔚来ES8上市定档9月20日",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:18:45"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "蔚来全新ES8全国试驾开启",
+      "link": "http://baijiahao.baidu.com/s?id=1842945528535076578&wfr=spider&for=pc",
+      "time": "昨天 13:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "全新蔚来ES8上市定档9月20日 预售价41.68万元起",
+      "link": "http://auto.cnfol.com/xincheshangshi/20250905/31617878.shtml",
+      "time": "9月5日 13:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "蔚来全新ES8订单超预期",
+      "link": "http://www.163.com/dy/article/K8MDHCA205568E36.html",
+      "time": "9月5日 09:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "蔚来ES8和ES6将推出豪华配置版本",
+      "link": "http://www.163.com/dy/article/K8KJCMIM0514C2C8.html",
+      "time": "9月4日 16:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "ES8发布引轰动",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3910579726403828324",
+      "time": "8月29日 21:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 18:19:00"
+}

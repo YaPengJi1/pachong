@@ -1,0 +1,235 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 12:16:49"
+  },
+  "core_event": {
+    "core_event_name": "国产最强舰载预警机空警-600",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 12:15:55"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "福建舰获千里眼,空警-600亮相",
+      "link": "http://www.163.com/dy/article/K93NPFKS0552EZ9J.html",
+      "time": "昨天 08:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "发动机功率不如E2D,空警600用上超临界机翼,多亏运20成功经验",
+      "link": "http://cj.sina.com.cn/articles/view/7879923848/1d5ae188802001jq5m",
+      "time": "9月9日 19:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "空警-600配超临界机翼,借力运20成功逆袭",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6326665524099076634",
+      "time": "9月9日 11:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中国舰载预警机空警600高调亮相",
+      "link": "http://new.qq.com/rain/a/20250908V06HBI00",
+      "time": "9月8日 17:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "空警600上超临界机翼,多亏了运20成功经验",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15949928228108176522",
+      "time": "9月8日 17:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "解码九三阅兵多个突破 突破四:航母战斗力的跃升",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEdzFu1jU7wkWSkX7rQ3mz250907.shtml",
+      "time": "9月7日 16:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "中国航母战斗群完全体亮相",
+      "link": "http://baijiahao.baidu.com/s?id=1842494098429345187&wfr=spider&for=pc",
+      "time": "9月6日 14:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "央视探访空警-600预警机",
+      "link": "http://v.cctv.com/2025/09/05/VIDE6PsFddmTDEtuyb3QcDgm250905.shtml",
+      "time": "9月5日 11:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "总台记者独家探访空警-600预警机",
+      "link": "http://tv.cctv.com/2025/09/05/VIDEXXPov5U9OlaJG4d1S7v1250905.shtml",
+      "time": "9月5日 10:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "国产最强舰载预警机空警-600实现平台雷达双超越",
+      "link": "http://mil.sohu.com/a/932068413_121645230",
+      "time": "9月5日 10:31",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "福建舰获千里眼,空警-600亮相",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K93NPFKS0552EZ9J.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:16:11",
+      "event_time": "昨天 08:00"
+    },
+    {
+      "event_title": "发动机功率不如E2D,空警600用上超临界机翼,多亏运20成功经验",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/7879923848/1d5ae188802001jq5m",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:16:13",
+      "event_time": "9月9日 19:04"
+    },
+    {
+      "event_title": "空警-600配超临界机翼,借力运20成功逆袭",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6326665524099076634",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:16:15",
+      "event_time": "9月9日 11:52"
+    },
+    {
+      "event_title": "中国舰载预警机空警600高调亮相",
+      "event_id": "event_4",
+      "event_url": "http://new.qq.com/rain/a/20250908V06HBI00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:16:17",
+      "event_time": "9月8日 17:09"
+    },
+    {
+      "event_title": "空警600上超临界机翼,多亏了运20成功经验",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=15949928228108176522",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:16:19",
+      "event_time": "9月8日 17:02"
+    },
+    {
+      "event_title": "解码九三阅兵多个突破 突破四:航母战斗力的跃升",
+      "event_id": "event_6",
+      "event_url": "http://tv.cctv.com/2025/09/07/VIDEdzFu1jU7wkWSkX7rQ3mz250907.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:16:21",
+      "event_time": "9月7日 16:28"
+    },
+    {
+      "event_title": "中国航母战斗群完全体亮相",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842494098429345187&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:16:38",
+      "event_time": "9月6日 14:14"
+    },
+    {
+      "event_title": "央视探访空警-600预警机",
+      "event_id": "event_8",
+      "event_url": "http://v.cctv.com/2025/09/05/VIDE6PsFddmTDEtuyb3QcDgm250905.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:16:40",
+      "event_time": "9月5日 11:47"
+    },
+    {
+      "event_title": "总台记者独家探访空警-600预警机",
+      "event_id": "event_9",
+      "event_url": "http://tv.cctv.com/2025/09/05/VIDEXXPov5U9OlaJG4d1S7v1250905.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:16:42",
+      "event_time": "9月5日 10:53"
+    },
+    {
+      "event_title": "国产最强舰载预警机空警-600实现平台雷达双超越",
+      "event_id": "event_10",
+      "event_url": "http://mil.sohu.com/a/932068413_121645230",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:16:44",
+      "event_time": "9月5日 10:31"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 10,
+    "total_comments": 10,
+    "events_with_comments": 10,
+    "level1_scrape_time": "2025-09-12 12:16:10",
+    "level2_scrape_time": "2025-09-12 12:16:44"
+  }
+}

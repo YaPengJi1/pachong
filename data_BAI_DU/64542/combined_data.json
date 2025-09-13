@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:52:35"
+  },
+  "core_event": {
+    "core_event_name": "泰山成功复仇国安，6-0大胜",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:51:41"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "申花海港爆冷,双双告负!泰山6-0国安,蓉城争冠“领先一分”",
+      "link": "http://cj.sina.com.cn/articles/view/1089020764/40e9235c0010176ry",
+      "time": "9月4日 19:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "为何泰山6:0国安这么上头?济南逆袭史诗解析!",
+      "link": "http://baijiahao.baidu.com/s?id=1842008622471350594&wfr=spider&for=pc",
+      "time": "9月1日 05:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "泰山海报神预言6-0，国安请好好学习",
+      "link": "http://baijiahao.baidu.com/s?id=1841988551307588779&wfr=spider&for=pc",
+      "time": "9月1日 00:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中超：泰山6-0大胜国安",
+      "link": "http://www.163.com/dy/article/K8APMPRN0529AQIE.html",
+      "time": "8月31日 21:33",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "申花海港爆冷,双双告负!泰山6-0国安,蓉城争冠“领先一分”",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/1089020764/40e9235c0010176ry",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:51:56",
+      "event_time": "9月4日 19:08"
+    },
+    {
+      "event_title": "为何泰山6:0国安这么上头?济南逆袭史诗解析!",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842008622471350594&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "烹饪chef蓝梦",
+      "comment_time": "09-01 06:24",
+      "comment_content": "泰山复仇战太燃了，6:0狂胜国安，瓦科四球封神。从低谷逆袭，团队精神无敌！",
+      "user_location": "辽宁",
+      "like_count": 1,
+      "scrape_time": "2025-09-13 01:52:13",
+      "event_time": "9月1日 05:38"
+    },
+    {
+      "event_title": "泰山海报神预言6-0，国安请好好学习",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841988551307588779&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "AndyRichard166",
+      "comment_time": "09-01 16:57",
+      "comment_content": "双黄蛋",
+      "user_location": "山东",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:52:29",
+      "event_time": "9月1日 00:19"
+    },
+    {
+      "event_title": "泰山海报神预言6-0，国安请好好学习",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1841988551307588779&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "你丑你先睡YoYo",
+      "comment_time": "09-01 05:13",
+      "comment_content": "泰山海报神准预言六分，三道杠三球细节亮眼。国安该好好学学了，泰山创意真牛。",
+      "user_location": "浙江",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:52:29",
+      "event_time": "9月1日 00:19"
+    },
+    {
+      "event_title": "中超：泰山6-0大胜国安",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8APMPRN0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:52:31",
+      "event_time": "8月31日 21:33"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 5,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-13 01:51:55",
+    "level2_scrape_time": "2025-09-13 01:52:31"
+  }
+}

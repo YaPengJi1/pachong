@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 23:14:57"
+  },
+  "core_event": {
+    "core_event_name": "周琦赵睿加盟北京男篮",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:14:31"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "北京首钢新赛季阵容再添顶级前锋",
+      "link": "http://www.sohu.com/a/931661023_121670096",
+      "time": "9月4日 07:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "赵睿加盟北京男篮,方硕为何最开心?背后的渊源令人感动!",
+      "link": "http://www.sohu.com/a/931665824_122387568",
+      "time": "9月4日 07:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "CBA官网更新北京男篮注册信息:赵睿三年C类合同已登记在列",
+      "link": "http://m.dongqiudi.com/article.html?id=5339470",
+      "time": "8月29日 19:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "周琦与赵睿同队!北京男篮组建顶尖阵容预定总冠军",
+      "link": "http://m.sohu.com/a/929686608_121953291",
+      "time": "8月29日 07:32",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "北京首钢新赛季阵容再添顶级前锋",
+      "event_id": "event_1",
+      "event_url": "http://www.sohu.com/a/931661023_121670096",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:14:46",
+      "event_time": "9月4日 07:13"
+    },
+    {
+      "event_title": "赵睿加盟北京男篮,方硕为何最开心?背后的渊源令人感动!",
+      "event_id": "event_2",
+      "event_url": "http://www.sohu.com/a/931665824_122387568",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:14:48",
+      "event_time": "9月4日 07:07"
+    },
+    {
+      "event_title": "CBA官网更新北京男篮注册信息:赵睿三年C类合同已登记在列",
+      "event_id": "event_3",
+      "event_url": "http://m.dongqiudi.com/article.html?id=5339470",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:14:50",
+      "event_time": "8月29日 19:08"
+    },
+    {
+      "event_title": "周琦与赵睿同队!北京男篮组建顶尖阵容预定总冠军",
+      "event_id": "event_4",
+      "event_url": "http://m.sohu.com/a/929686608_121953291",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 23:14:52",
+      "event_time": "8月29日 07:32"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 23:14:45",
+    "level2_scrape_time": "2025-09-12 23:14:52"
+  }
+}

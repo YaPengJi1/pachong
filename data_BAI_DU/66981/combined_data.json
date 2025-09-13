@@ -1,0 +1,279 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:05:43"
+  },
+  "core_event": {
+    "core_event_name": "日本参议员石平遭制裁",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:04:38"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国拉黑日本参议员石平!四川高知分子,为何成了当代汉奸?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5930768631709654770",
+      "time": "9月10日 21:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "外交部回应日本参议员石平",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4010100408345615870",
+      "time": "9月10日 19:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "日方要求中方撤销对石平的反制,外交部批驳",
+      "link": "http://baijiahao.baidu.com/s?id=1842870062801421885&wfr=spider&for=pc",
+      "time": "9月10日 17:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中方对日本参议员石平采取反制措施 中国外交部:这是正义之举",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2312107398355649360",
+      "time": "9月10日 16:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "日本反华教师变政客,石平太郎卖国嘴脸露,终遭制裁大快人心",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9149487402854442361",
+      "time": "9月10日 05:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "日本参议员被中方严厉制裁",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5357143806707118143",
+      "time": "9月9日 15:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "日本华裔参议员石平遭中日舆论谴责",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5131627978499128951",
+      "time": "9月9日 15:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "外交部宣布反制日本参议员石平",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6328823645848284925",
+      "time": "9月8日 16:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "外交部:石平曾拥有中国国籍,他赴日并取得日本国籍后,同日本反华势力沆瀣一气",
+      "link": "http://baijiahao.baidu.com/s?id=1842704288230873750&wfr=spider&for=pc",
+      "time": "9月8日 16:14",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "中国拉黑日本参议员石平!四川高知分子,为何成了当代汉奸?",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5930768631709654770",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:04:53",
+      "event_time": "9月10日 21:36"
+    },
+    {
+      "event_title": "外交部回应日本参议员石平",
+      "event_id": "event_2",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4010100408345615870",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:04:55",
+      "event_time": "9月10日 19:18"
+    },
+    {
+      "event_title": "日方要求中方撤销对石平的反制,外交部批驳",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842870062801421885&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "禾苗4h",
+      "comment_time": "09-11 09:57",
+      "comment_content": "对汉奸的惩罚，就是让他永远闭嘴！",
+      "user_location": "广西",
+      "like_count": 10,
+      "scrape_time": "2025-09-12 11:05:12",
+      "event_time": "9月10日 17:50"
+    },
+    {
+      "event_title": "日方要求中方撤销对石平的反制,外交部批驳",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842870062801421885&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "huanlaiwang",
+      "comment_time": "21小时前",
+      "comment_content": "倒打一耙是日本最擅长的",
+      "user_location": "北京",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 11:05:12",
+      "event_time": "9月10日 17:50"
+    },
+    {
+      "event_title": "日方要求中方撤销对石平的反制,外交部批驳",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842870062801421885&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "势欣悦b1",
+      "comment_time": "18小时前",
+      "comment_content": "日本有强烈反应，那就证明制裁是对的！",
+      "user_location": "北京",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:05:12",
+      "event_time": "9月10日 17:50"
+    },
+    {
+      "event_title": "日方要求中方撤销对石平的反制,外交部批驳",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842870062801421885&wfr=spider&for=pc",
+      "comment_index": 4,
+      "user_id": "baby123wch",
+      "comment_time": "09-11 01:23",
+      "comment_content": "建议把发表波伏娃言论的大学相关人士严肃处理，波伏娃思想就是早就石平这类卖国贼汉奸的。",
+      "user_location": "山西",
+      "like_count": 3,
+      "scrape_time": "2025-09-12 11:05:12",
+      "event_time": "9月10日 17:50"
+    },
+    {
+      "event_title": "日方要求中方撤销对石平的反制,外交部批驳",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842870062801421885&wfr=spider&for=pc",
+      "comment_index": 5,
+      "user_id": "百度网友95addd187",
+      "comment_time": "20小时前",
+      "comment_content": "应该株连它的九族，杀一儆亿",
+      "user_location": "安徽",
+      "like_count": 2,
+      "scrape_time": "2025-09-12 11:05:12",
+      "event_time": "9月10日 17:50"
+    },
+    {
+      "event_title": "日方要求中方撤销对石平的反制,外交部批驳",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842870062801421885&wfr=spider&for=pc",
+      "comment_index": 6,
+      "user_id": "美的一天开始了",
+      "comment_time": "09-10 19:13",
+      "comment_content": "作为一个中国人，加入日籍，还如此作为，实在令人很难把他和人联系起来",
+      "user_location": "陕西",
+      "like_count": 39,
+      "scrape_time": "2025-09-12 11:05:12",
+      "event_time": "9月10日 17:50"
+    },
+    {
+      "event_title": "中方对日本参议员石平采取反制措施 中国外交部:这是正义之举",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=2312107398355649360",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:05:15",
+      "event_time": "9月10日 16:48"
+    },
+    {
+      "event_title": "日本反华教师变政客,石平太郎卖国嘴脸露,终遭制裁大快人心",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9149487402854442361",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:05:17",
+      "event_time": "9月10日 05:15"
+    },
+    {
+      "event_title": "日本参议员被中方严厉制裁",
+      "event_id": "event_6",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5357143806707118143",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:05:19",
+      "event_time": "9月9日 15:36"
+    },
+    {
+      "event_title": "日本华裔参议员石平遭中日舆论谴责",
+      "event_id": "event_7",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5131627978499128951",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:05:21",
+      "event_time": "9月9日 15:12"
+    },
+    {
+      "event_title": "外交部宣布反制日本参议员石平",
+      "event_id": "event_8",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6328823645848284925",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:05:23",
+      "event_time": "9月8日 16:34"
+    },
+    {
+      "event_title": "外交部:石平曾拥有中国国籍,他赴日并取得日本国籍后,同日本反华势力沆瀣一气",
+      "event_id": "event_9",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842704288230873750&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:05:39",
+      "event_time": "9月8日 16:14"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 9,
+    "total_comments": 14,
+    "events_with_comments": 9,
+    "level1_scrape_time": "2025-09-12 11:04:52",
+    "level2_scrape_time": "2025-09-12 11:05:39"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:56:44"
+  },
+  "core_event": {
+    "core_event_name": "巴西世预赛表现惨淡",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:56:15"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "世预赛：巴西0-1客负玻利维亚",
+      "link": "http://weibo.com/7839127339/Q43dKp8br",
+      "time": "昨天 11:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "世预赛南美区大结局:6队直通,巴西史上最差",
+      "link": "http://finance.sina.cn/2025-09-10/detail-infpzepf2555137.d.html",
+      "time": "9月10日 17:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "巴西28分出线，世预赛南美区改制后球队最差成绩",
+      "link": "http://www.dongqiudi.com/articles/5364400.html",
+      "time": "9月10日 11:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "玻利维亚1-0巴西补时，场内3次出现2个皮球干扰比赛",
+      "link": "http://k.sina.com.cn/article_2018499075_784fda0302002hon6.html",
+      "time": "9月10日 10:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "拉菲尼亚:在4000米海拔比赛就不公平,裁判还判点那更难踢了",
+      "link": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hokg",
+      "time": "9月10日 10:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "巴西队世预赛惨遭重创:两负阿根廷,历史最差表现背后的真相",
+      "link": "http://www.sohu.com/a/933496324_121894857",
+      "time": "9月10日 10:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "世预赛：巴西0-1客负玻利维亚",
+      "event_id": "event_1",
+      "event_url": "http://weibo.com/7839127339/Q43dKp8br",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:56:30",
+      "event_time": "昨天 11:47"
+    },
+    {
+      "event_title": "世预赛南美区大结局:6队直通,巴西史上最差",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/2025-09-10/detail-infpzepf2555137.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:56:32",
+      "event_time": "9月10日 17:27"
+    },
+    {
+      "event_title": "巴西28分出线，世预赛南美区改制后球队最差成绩",
+      "event_id": "event_3",
+      "event_url": "http://www.dongqiudi.com/articles/5364400.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:56:34",
+      "event_time": "9月10日 11:30"
+    },
+    {
+      "event_title": "玻利维亚1-0巴西补时，场内3次出现2个皮球干扰比赛",
+      "event_id": "event_4",
+      "event_url": "http://k.sina.com.cn/article_2018499075_784fda0302002hon6.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:56:36",
+      "event_time": "9月10日 10:44"
+    },
+    {
+      "event_title": "拉菲尼亚:在4000米海拔比赛就不公平,裁判还判点那更难踢了",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/2018499075/784fda0302002hokg",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:56:38",
+      "event_time": "9月10日 10:09"
+    },
+    {
+      "event_title": "巴西队世预赛惨遭重创:两负阿根廷,历史最差表现背后的真相",
+      "event_id": "event_6",
+      "event_url": "http://www.sohu.com/a/933496324_121894857",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:56:40",
+      "event_time": "9月10日 10:00"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 10:56:29",
+    "level2_scrape_time": "2025-09-12 10:56:40"
+  }
+}

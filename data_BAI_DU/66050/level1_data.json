@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "U22国足亚洲杯决赛圈席位争夺",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:07:49"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "澳大利亚狂胜北马里亚纳,国足小胜东帝汶,亚预赛D组积分榜刷新",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16830087503752234559",
+      "time": "9月7日 12:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U22国足将帅:全队状态良好,力争亚洲杯决赛圈席位",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11226820290328829982",
+      "time": "9月6日 00:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U22激战澳大利亚,北马里亚纳惨败,国足同组对决",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6539935372563207524",
+      "time": "9月4日 23:24",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 15:08:04"
+}

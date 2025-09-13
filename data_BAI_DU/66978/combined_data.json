@@ -1,0 +1,193 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:01:39"
+  },
+  "core_event": {
+    "core_event_name": "中国对日本右翼分子石平采取反制措施",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:01:05"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "被中方制裁后,石平急了,24小时内连发11条帖文,自称只是闹剧",
+      "link": "http://www.163.com/dy/article/K960JUB6055616Z4.html",
+      "time": "昨天 11:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中方对日本参议员石平采取反制措施 中国外交部:这是正义之举",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=2312107398355649360",
+      "time": "9月10日 16:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "石平称被中国制裁是光荣,外交部:他是彻头彻尾的反华分子!",
+      "link": "http://k.sina.com.cn/article_1617264814_606580ae02002dqd2.html",
+      "time": "9月10日 16:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中方对日本参议员石平采取反制措施",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10327603911188033408",
+      "time": "9月9日 18:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "外交部正式通告全球:对日本参议员石平采取反制措施",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10157555398690186573",
+      "time": "9月9日 08:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "中方对日本参议员石平采取反制措施 这是对石平之流的强力惩戒和严厉警示",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6686113657169953472",
+      "time": "9月9日 08:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "揭底当代大汉奸石平,已被国家官宣制裁!",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16938284487936900373",
+      "time": "9月8日 12:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "石破茂被逼辞职，外交部等发文制裁日本右翼分子",
+      "link": "http://weibo.com/7859746604/Q3AuBrHny",
+      "time": "9月8日 10:39",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "被中方制裁后,石平急了,24小时内连发11条帖文,自称只是闹剧",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K960JUB6055616Z4.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:01:21",
+      "event_time": "昨天 11:13"
+    },
+    {
+      "event_title": "中方对日本参议员石平采取反制措施 中国外交部:这是正义之举",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=2312107398355649360",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:01:23",
+      "event_time": "9月10日 16:48"
+    },
+    {
+      "event_title": "石平称被中国制裁是光荣,外交部:他是彻头彻尾的反华分子!",
+      "event_id": "event_3",
+      "event_url": "http://k.sina.com.cn/article_1617264814_606580ae02002dqd2.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:01:25",
+      "event_time": "9月10日 16:25"
+    },
+    {
+      "event_title": "中方对日本参议员石平采取反制措施",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10327603911188033408",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:01:27",
+      "event_time": "9月9日 18:35"
+    },
+    {
+      "event_title": "外交部正式通告全球:对日本参议员石平采取反制措施",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=10157555398690186573",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:01:29",
+      "event_time": "9月9日 08:49"
+    },
+    {
+      "event_title": "中方对日本参议员石平采取反制措施 这是对石平之流的强力惩戒和严厉警示",
+      "event_id": "event_6",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6686113657169953472",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:01:31",
+      "event_time": "9月9日 08:17"
+    },
+    {
+      "event_title": "揭底当代大汉奸石平,已被国家官宣制裁!",
+      "event_id": "event_7",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=16938284487936900373",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:01:33",
+      "event_time": "9月8日 12:21"
+    },
+    {
+      "event_title": "石破茂被逼辞职，外交部等发文制裁日本右翼分子",
+      "event_id": "event_8",
+      "event_url": "http://weibo.com/7859746604/Q3AuBrHny",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:01:35",
+      "event_time": "9月8日 10:39"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 8,
+    "total_comments": 8,
+    "events_with_comments": 8,
+    "level1_scrape_time": "2025-09-12 11:01:19",
+    "level2_scrape_time": "2025-09-12 11:01:35"
+  }
+}

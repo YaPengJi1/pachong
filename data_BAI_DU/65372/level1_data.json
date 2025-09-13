@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "我省逐步推行免费学前教育",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:02:03"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "山西出台城乡义务教育补助经费管理办法",
+      "link": "http://baijiahao.baidu.com/s?id=1842955810936342285&wfr=spider&for=pc",
+      "time": "昨天 16:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "我省逐步推行免费学前教育",
+      "link": "http://finance.sina.cn/2025-09-07/detail-infpquyu0875878.d.html",
+      "time": "9月7日 01:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "内蒙古逐步推行免费学前教育政策 今年16.4万大班儿童受益",
+      "link": "http://szb.northnews.cn/bfxb/html/2025-09/05/content_53466_264795.htm",
+      "time": "9月5日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "逐步推行免费学前教育具有里程碑意义",
+      "link": "http://m.sohu.com/a/930993760_115495",
+      "time": "9月2日 09:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "免费学前教育今秋起逐步推行 部分幼儿园大班出现生源“回流”",
+      "link": "http://baijiahao.baidu.com/s?id=1841975039079991850&wfr=spider&for=pc",
+      "time": "8月31日 20:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "广东逐步推行免费学前教育",
+      "link": "http://china.huanqiu.com/article/4O7YgoEG3CC",
+      "time": "8月30日 16:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "本学期起逐步推行!山东免费学前教育方案来了",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 23:02:17"
+}

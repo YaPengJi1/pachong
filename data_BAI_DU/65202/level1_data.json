@@ -1,0 +1,92 @@
+{
+  "core_info": {
+    "core_event_name": "美联储9月降息几乎已成定局",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:15:04"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美联储9月降息已板上钉钉",
+      "link": "http://finance.eastmoney.com/a/202509113510648784.html",
+      "time": "昨天 09:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美联储降息已成定局",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10933094564282353416",
+      "time": "9月8日 09:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美国8月非农大幅低于预期，美联储降息板上有钉钉？A股固态电池火热，高手看好这些新热点",
+      "link": "http://finance.sina.cn/2025-09-07/detail-infprwnh0288153.d.html",
+      "time": "9月7日 12:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美联储9月降息,已成定局?",
+      "link": "http://cj.sina.com.cn/articles/view/7096020371/1a6f4ad9301901iqqo",
+      "time": "9月6日 07:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "美联储9月降息几乎已成定局",
+      "link": "http://guba.sina.com.cn/?s=thread&tid=10661&bid=9922",
+      "time": "9月5日 15:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "白宫今日开始面试美联储主席候选人",
+      "link": "http://baijiahao.baidu.com/s?id=1842399086872826914&wfr=spider&for=pc",
+      "time": "9月5日 13:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "美劳动力市场放缓 强化美联储9月降息预期",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16823866580794096792",
+      "time": "9月5日 12:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "美联储“三把手”:关税对通胀影响甚微,适时降息是合适之举",
+      "link": "http://app.myzaker.com/news/article.php?m=1757031642&pk=68ba2bf38e9f09251100ef1d",
+      "time": "9月5日 08:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "美联储9月降息板上钉钉?20年财经老炮教你抓住这波红利!",
+      "link": "http://cj.sina.com.cn/articles/view/1261340881/4b2e88d100101iqdm",
+      "time": "9月5日 08:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "美联储三号人物称逐步降息合适,明年票委重申不支持9月降息",
+      "link": "http://baijiahao.baidu.com/s?id=1842369052832873895&wfr=spider&for=pc",
+      "time": "9月5日 05:07",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 10,
+  "scrape_time": "2025-09-12 20:15:18"
+}

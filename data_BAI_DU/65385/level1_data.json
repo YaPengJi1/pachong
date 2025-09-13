@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "美国接管加沙计划曝光",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 23:11:45"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美国人的“伟大计划”爆光，托管加沙十年，拿5000美元打发当地人",
+      "link": "http://www.163.com/dy/article/K8MFD3IT0535I9CY.html",
+      "time": "9月5日 10:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "给5000美元离开加沙,特朗普“重建加沙”计划细节曝光",
+      "link": "http://www.jfdaily.com/news/detail?id=975414",
+      "time": "9月2日 20:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美国和以色列重建加沙计划:200万人面临强制迁移,每人发5000美元遣散费",
+      "link": "http://cj.sina.com.cn/articles/view/7295511718/1b2d8aca602001eocc",
+      "time": "9月2日 18:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美国不装了，要亲自下场接管加沙？百万巴勒斯坦人或无家可归",
+      "link": "http://k.sina.com.cn/article_6321657948_178ccd85c02001jnw6.html",
+      "time": "9月2日 14:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "哈马斯强烈谴责:加沙不是待售品",
+      "link": "http://tv.cctv.com/2025/09/02/VIDErY9XLINEHbhxpwgvyGHQ250902.shtml",
+      "time": "9月2日 12:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "美国接管加沙计划曝光 埃及方案遭拒",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12088281421800811860",
+      "time": "9月1日 17:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "美国将控制加沙，驱逐所有加沙人民",
+      "link": "http://weibo.com/1444313404/Q2u2OstJK",
+      "time": "9月1日 04:24",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 23:11:59"
+}

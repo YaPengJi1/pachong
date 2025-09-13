@@ -1,0 +1,361 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 22:59:28"
+  },
+  "core_event": {
+    "core_event_name": "博通业绩超预期，ASIC芯片迎来爆发",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:57:27"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "博通股价开盘再涨近4%",
+      "link": "http://finance.eastmoney.com/a/202509083507844137.html",
+      "time": "9月8日 21:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "博通获得100亿美元AI芯片新订单,股价创历史新高",
+      "link": "http://cj.sina.com.cn/articles/view/1686203097/64816ad90270196p4",
+      "time": "9月8日 15:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "宣布将与OpenAI合作批量生产自研AI芯片,博通股价创新高",
+      "link": "http://finance.sina.cn/stock/jdts/2025-09-06/detail-infpphxp0007826.d.html",
+      "time": "9月6日 08:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "博通斩获百亿美元AI芯片订单",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31546768",
+      "time": "9月6日 08:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "博通股价飙升 与OpenAI合作开发新的AI芯片",
+      "link": "http://finance.sina.com.cn/stock/usstock/c/2025-09-05/doc-infpnmtw2115433.shtml",
+      "time": "9月5日 23:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "博通业绩再超预期背后:ASIC定制芯片持续吸引买家入场",
+      "link": "http://finance.eastmoney.com/a/202509053506416122.html",
+      "time": "9月5日 23:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "获新客户超100亿美元AI芯片订单,博通开盘涨超14%",
+      "link": "http://news.sina.cn/2025-09-05/detail-infpnfmy2235538.d.html",
+      "time": "9月5日 22:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "博通业绩超预期,ASIC芯片迎来爆发",
+      "link": "http://weibo.com/7920289496/Q3cNNF8OK",
+      "time": "9月5日 22:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "ASIC要带动科技起飞了",
+      "link": "http://baijiahao.baidu.com/s?id=1842430343333068490&wfr=spider&for=pc",
+      "time": "9月5日 21:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "博通将与OpenAI合作开发AI芯片",
+      "link": "http://finance.sina.com.cn/roll/2025-09-05/doc-infpmkhm0902646.shtml",
+      "time": "9月5日 12:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "斩获百亿美元AI芯片新订单,大幅上调2026年增长预期",
+      "link": "http://baijiahao.baidu.com/s?id=1842393251526309082&wfr=spider&for=pc",
+      "time": "9月5日 11:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "博通第三季AI芯片营收暴涨63%",
+      "link": "http://baijiahao.baidu.com/s?id=1842389954560374122&wfr=spider&for=pc",
+      "time": "9月5日 10:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "英伟达、AMD 寡淡?博通霸气接棒 AI 扛旗手",
+      "link": "http://baijiahao.baidu.com/s?id=1842388979638025999&wfr=spider&for=pc",
+      "time": "9月5日 10:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "博通FY2025Q3营收同比增长22%,拿下新客户AI芯片大单",
+      "link": "http://www.ithome.com/0/880/568.htm",
+      "time": "9月5日 09:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "AI收入超预期!芯片巨头博通交出满分财报",
+      "link": "http://baijiahao.baidu.com/s?id=1842383700192495062&wfr=spider&for=pc",
+      "time": "9月5日 09:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "博通(AVGO.US)一己之力重振“AI信仰”! AI ASIC需求迈向“英伟达式猛增轨迹”",
+      "link": "http://cj.sina.com.cn/articles/view/5835524730/15bd30a7a0200203a2",
+      "time": "9月5日 08:17",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "博通股价开盘再涨近4%",
+      "event_id": "event_1",
+      "event_url": "http://finance.eastmoney.com/a/202509083507844137.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:57:42",
+      "event_time": "9月8日 21:46"
+    },
+    {
+      "event_title": "博通获得100亿美元AI芯片新订单,股价创历史新高",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/1686203097/64816ad90270196p4",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:57:44",
+      "event_time": "9月8日 15:29"
+    },
+    {
+      "event_title": "宣布将与OpenAI合作批量生产自研AI芯片,博通股价创新高",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.cn/stock/jdts/2025-09-06/detail-infpphxp0007826.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:57:46",
+      "event_time": "9月6日 08:34"
+    },
+    {
+      "event_title": "博通斩获百亿美元AI芯片订单",
+      "event_id": "event_4",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31546768",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:57:48",
+      "event_time": "9月6日 08:31"
+    },
+    {
+      "event_title": "博通股价飙升 与OpenAI合作开发新的AI芯片",
+      "event_id": "event_5",
+      "event_url": "http://finance.sina.com.cn/stock/usstock/c/2025-09-05/doc-infpnmtw2115433.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:57:50",
+      "event_time": "9月5日 23:58"
+    },
+    {
+      "event_title": "博通业绩再超预期背后:ASIC定制芯片持续吸引买家入场",
+      "event_id": "event_6",
+      "event_url": "http://finance.eastmoney.com/a/202509053506416122.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:57:52",
+      "event_time": "9月5日 23:12"
+    },
+    {
+      "event_title": "获新客户超100亿美元AI芯片订单,博通开盘涨超14%",
+      "event_id": "event_7",
+      "event_url": "http://news.sina.cn/2025-09-05/detail-infpnfmy2235538.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:57:54",
+      "event_time": "9月5日 22:38"
+    },
+    {
+      "event_title": "博通业绩超预期,ASIC芯片迎来爆发",
+      "event_id": "event_8",
+      "event_url": "http://weibo.com/7920289496/Q3cNNF8OK",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:57:56",
+      "event_time": "9月5日 22:21"
+    },
+    {
+      "event_title": "ASIC要带动科技起飞了",
+      "event_id": "event_9",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842430343333068490&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:58:14",
+      "event_time": "9月5日 21:21"
+    },
+    {
+      "event_title": "博通将与OpenAI合作开发AI芯片",
+      "event_id": "event_10",
+      "event_url": "http://finance.sina.com.cn/roll/2025-09-05/doc-infpmkhm0902646.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:58:16",
+      "event_time": "9月5日 12:15"
+    },
+    {
+      "event_title": "斩获百亿美元AI芯片新订单,大幅上调2026年增长预期",
+      "event_id": "event_11",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842393251526309082&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:58:32",
+      "event_time": "9月5日 11:32"
+    },
+    {
+      "event_title": "博通第三季AI芯片营收暴涨63%",
+      "event_id": "event_12",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842389954560374122&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "琴王子D",
+      "comment_time": "09-05 10:43",
+      "comment_content": "继续加油，期待更多🌼",
+      "user_location": "湖南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:58:48",
+      "event_time": "9月5日 10:39"
+    },
+    {
+      "event_title": "英伟达、AMD 寡淡?博通霸气接棒 AI 扛旗手",
+      "event_id": "event_13",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842388979638025999&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "顾顾舞蹈舞Queen",
+      "comment_time": "09-05 16:16",
+      "comment_content": "博通AI芯片研发慢，想想当年收购高通黄了转型难，现在爬坡期拉长，产能跟不上需求。",
+      "user_location": "湖南",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:59:04",
+      "event_time": "9月5日 10:24"
+    },
+    {
+      "event_title": "博通FY2025Q3营收同比增长22%,拿下新客户AI芯片大单",
+      "event_id": "event_14",
+      "event_url": "http://www.ithome.com/0/880/568.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:59:06",
+      "event_time": "9月5日 09:10"
+    },
+    {
+      "event_title": "AI收入超预期!芯片巨头博通交出满分财报",
+      "event_id": "event_15",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842383700192495062&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:59:22",
+      "event_time": "9月5日 09:00"
+    },
+    {
+      "event_title": "博通(AVGO.US)一己之力重振“AI信仰”! AI ASIC需求迈向“英伟达式猛增轨迹”",
+      "event_id": "event_16",
+      "event_url": "http://cj.sina.com.cn/articles/view/5835524730/15bd30a7a0200203a2",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:59:24",
+      "event_time": "9月5日 08:17"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 16,
+    "total_comments": 16,
+    "events_with_comments": 16,
+    "level1_scrape_time": "2025-09-12 22:57:41",
+    "level2_scrape_time": "2025-09-12 22:59:24"
+  }
+}

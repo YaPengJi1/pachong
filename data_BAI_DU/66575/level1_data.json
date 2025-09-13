@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "向余望遭队友公开质疑",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 12:20:14"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "媒体人:向余望能力绝对不垃圾,他纯是心态不好没见过大世面",
+      "link": "http://www.dongqiudi.com/articles/5362292.html",
+      "time": "9月9日 09:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "向余望两战鱼腩频频浪费机会,中甲球王沦为笑柄,队友忍不住怒斥",
+      "link": "http://app.myzaker.com/news/article.php?m=1757257436&pk=68bcfb7a8e9f0939ca715bf8",
+      "time": "9月7日 11:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "多次离谱失误!21岁向余望被网暴:退役吧 回应:我很自责但没哭",
+      "link": "http://www.sohu.com/a/932567118_121896609",
+      "time": "9月7日 09:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "向余望遭队友公开质疑!U23 名将:谁浪费机会?本该赢 4 球",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13503781794888506462",
+      "time": "9月6日 16:17",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 12:20:28"
+}

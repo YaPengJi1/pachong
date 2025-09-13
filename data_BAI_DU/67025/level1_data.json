@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "胡塞武装:以色列空袭也门",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:17:38"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "胡塞武装:以色列空袭也门致9死118伤",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15785958113465862483",
+      "time": "昨天 12:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "以军空袭也门萨那等地 针对三大目标",
+      "link": "http://baijiahao.baidu.com/s?id=1842933856781888843&wfr=spider&for=pc",
+      "time": "昨天 10:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "胡塞武装:以色列空袭也门致35死131伤!以总理:意在报复胡塞武装!卡塔尔遭袭击,安理会将举行紧急会议",
+      "link": "http://baijiahao.baidu.com/s?id=1842926291262980546&wfr=spider&for=pc",
+      "time": "昨天 08:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "以色列再次空袭也门萨那",
+      "link": "http://k.sina.com.cn/article_5675440730_152485a5a02001vm7e.html",
+      "time": "昨天 07:11",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 10:17:52"
+}

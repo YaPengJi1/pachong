@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "苹果iPhone17发布",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:08:49"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "最贵17999元,苹果发布iPhone17引热议!",
+      "link": "http://new.qq.com/rain/a/20250910A04N7R00",
+      "time": "9月10日 13:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "苹果iPhone17发布,中国依然扮演“果链”关键角色",
+      "link": "http://new.qq.com/rain/a/20250910A02LHG00",
+      "time": "9月10日 10:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "苹果公司发布iPhone 17,起售价799美元",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12002186879272083998",
+      "time": "9月10日 02:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "压力给到苹果 华为小米发布会前后夹击iPhone",
+      "link": "http://app.myzaker.com/news/article.php?m=1757339214&pk=68bda7128e9f09556442cabc",
+      "time": "9月8日 08:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 10:09:03"
+}

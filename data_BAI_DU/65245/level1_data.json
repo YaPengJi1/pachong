@@ -1,0 +1,108 @@
+{
+  "core_info": {
+    "core_event_name": "阿尔卡拉斯首胜德约科维奇，美网四强之争一触即发",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:55:33"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "阿卡硬地首胜德约，7进大满贯决赛，静候辛纳冲击第6冠",
+      "link": "http://www.163.com/dy/article/K8PQJBEV05567NVX.html",
+      "time": "9月6日 17:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "德约美网无缘个人大满贯第25冠 阿卡创纪录",
+      "link": "http://sports.sina.com.cn/o/2025-09-06/doc-infpptpe4875181.shtml",
+      "time": "9月6日 14:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "德约科维奇再度四强上步，坦承体能极限难抗",
+      "link": "http://baijiahao.baidu.com/s?id=1842490737759372081&wfr=spider&for=pc",
+      "time": "9月6日 13:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "阿尔卡拉斯硬地赛场首胜德约科维奇",
+      "link": "http://www.163.com/dy/article/K8OO08RB05539E3U.html",
+      "time": "9月6日 07:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "阿卡硬地首胜德约，7进大满贯决赛，冲第6冠，静候世界第1辛纳",
+      "link": "http://baijiahao.baidu.com/s?id=1842468541242206939&wfr=spider&for=pc",
+      "time": "9月6日 07:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "单打四强出炉:德约科维奇将再战阿尔卡拉斯",
+      "link": "http://baijiahao.baidu.com/s?id=1842310089369772288&wfr=spider&for=pc",
+      "time": "9月4日 13:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "德约科维奇希望打破“辛卡拉斯”会师决赛计划",
+      "link": "http://www.jfdaily.com/news/detail?id=976073",
+      "time": "9月3日 15:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "德约3-1力克上届亚军创6纪录 53次进大满贯四强",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b7d7468e9f0937281808ba",
+      "time": "9月3日 13:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "阿尔卡拉斯第九次晋级大满贯四强",
+      "link": "http://tv.cctv.com/2025/09/03/VIDEspptbWhxzJY0SZMqO3cR250903.shtml",
+      "time": "9月3日 12:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "德约科维奇与阿尔卡拉斯再度对决,美网四强之争一触即发!",
+      "link": "http://www.sohu.com/a/931446586_122001004",
+      "time": "9月3日 12:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "女单1/4决赛佩古拉VS克赖奇科娃",
+      "link": "http://sports.cctv.com/2025/09/03/VIDEUv621XQ78ltbw1GNhtak250903.shtml",
+      "time": "9月3日 07:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "德约3-0轻取施特鲁夫晋级美网8强 将战弗里茨",
+      "link": "http://www.163.com/dy/article/K8C441RT0529AQIE.html",
+      "time": "9月1日 09:54",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 12,
+  "scrape_time": "2025-09-12 20:55:47"
+}

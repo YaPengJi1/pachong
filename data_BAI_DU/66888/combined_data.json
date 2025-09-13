@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:07:22"
+  },
+  "core_event": {
+    "core_event_name": "马克龙执政危机",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:06:05"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "马克龙或已“无力回天”",
+      "link": "http://new.qq.com/rain/a/20250911A0663L00",
+      "time": "昨天 17:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "马克龙遭遇抗议",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31587783",
+      "time": "昨天 07:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "法国总统马克龙被要求“下台”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=926527936726393958",
+      "time": "9月10日 09:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "马克龙出兵乌克兰或沦为口号",
+      "link": "http://baijiahao.baidu.com/s?id=1842773639764201608&wfr=spider&for=pc",
+      "time": "9月9日 16:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "法总理“背水一战”失败 马克龙恐再陷执政危机",
+      "link": "http://baijiahao.baidu.com/s?id=1842744264818189669&wfr=spider&for=pc",
+      "time": "9月9日 08:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "法国议会进行信任投票，多党支持罢免政府，马克龙猜测新总理",
+      "link": "http://baijiahao.baidu.com/s?id=1842737090335086810&wfr=spider&for=pc",
+      "time": "9月9日 06:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "贝鲁下台,马克龙将任命其第二任期内的第五位总理",
+      "link": "http://cj.sina.com.cn/articles/view/7295052889/1b2d1ac59020018a7g",
+      "time": "9月9日 06:05",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "马克龙或已“无力回天”",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250911A0663L00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:06:21",
+      "event_time": "昨天 17:20"
+    },
+    {
+      "event_title": "马克龙遭遇抗议",
+      "event_id": "event_2",
+      "event_url": "http://www.thepaper.cn/newsDetail_forward_31587783",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:06:23",
+      "event_time": "昨天 07:18"
+    },
+    {
+      "event_title": "法国总统马克龙被要求“下台”",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=926527936726393958",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:06:25",
+      "event_time": "9月10日 09:11"
+    },
+    {
+      "event_title": "马克龙出兵乌克兰或沦为口号",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842773639764201608&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:06:42",
+      "event_time": "9月9日 16:17"
+    },
+    {
+      "event_title": "法总理“背水一战”失败 马克龙恐再陷执政危机",
+      "event_id": "event_5",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842744264818189669&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:07:00",
+      "event_time": "9月9日 08:30"
+    },
+    {
+      "event_title": "法国议会进行信任投票，多党支持罢免政府，马克龙猜测新总理",
+      "event_id": "event_6",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842737090335086810&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:07:16",
+      "event_time": "9月9日 06:33"
+    },
+    {
+      "event_title": "贝鲁下台,马克龙将任命其第二任期内的第五位总理",
+      "event_id": "event_7",
+      "event_url": "http://cj.sina.com.cn/articles/view/7295052889/1b2d1ac59020018a7g",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:07:18",
+      "event_time": "9月9日 06:05"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 11:06:20",
+    "level2_scrape_time": "2025-09-12 11:07:18"
+  }
+}

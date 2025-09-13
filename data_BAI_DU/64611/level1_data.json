@@ -1,0 +1,84 @@
+{
+  "core_info": {
+    "core_event_name": "美国拒签巴勒斯坦赴联大代表团",
+    "update_time": "更新至20250831",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:24:09"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "以色列将加沙城列为战区",
+      "link": "http://tv.cctv.com/2025/08/31/VIDER2ZgkkTwyoOf25yZg8ov250831.shtml",
+      "time": "8月31日 22:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "多方批评美对巴勒斯坦代表团拒发签证",
+      "link": "http://tv.cctv.com/2025/08/31/VIDEoGYesZcJDqDFWOVRcw07250831.shtml",
+      "time": "8月31日 19:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美国拒签巴勒斯坦代表团赴联大参会,欧盟国家谴责:不可接受",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31514018",
+      "time": "8月31日 13:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "阿拉伯—伊斯兰特别峰会发表声明 对美拒签巴勒斯坦赴联大代表团表示遗憾",
+      "link": "http://tv.cctv.com/2025/08/31/VIDEtk41zwAwCnrUJuqiLoiF250831.shtml",
+      "time": "8月31日 12:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "“不可接受” 盟友批美拒签巴勒斯坦赴联大代表团",
+      "link": "http://news.bjd.com.cn/2025/08/30/11290194.shtml",
+      "time": "8月30日 21:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "阿巴斯参加联大遭美国“拒签” 巴方:震惊!",
+      "link": "http://world.huanqiu.com/article/4O7av8SSQ93",
+      "time": "8月30日 17:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "美国不给出席联大的巴勒斯坦代表团发签证 巴方抗议 联合国过问",
+      "link": "http://cj.sina.com.cn/articles/view/1893892941/70e2834d02001tm6o",
+      "time": "8月30日 17:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "美国拒绝参加联合国第四轮对美人权审议",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4572393694538579647",
+      "time": "8月29日 07:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "美打算“刁难”更多国家",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 9,
+  "scrape_time": "2025-09-13 01:24:42"
+}

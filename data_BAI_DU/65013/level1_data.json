@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "步步高涨停",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 16:56:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "步步高涨停,深股通净买入6163.03万元",
+      "link": "http://baijiahao.baidu.com/s?id=1842328052340002091&wfr=spider&for=pc",
+      "time": "9月4日 18:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "龙虎榜|步步高涨停,北向资金净买入6163.03万元",
+      "link": "http://baijiahao.baidu.com/s?id=1842323299285045949&wfr=spider&for=pc",
+      "time": "9月4日 17:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "步步高涨停,三游资净买入2.04亿元",
+      "link": "http://cj.sina.com.cn/articles/view/5115326071/130e5ae7702002n4ey",
+      "time": "9月4日 16:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "步步高9月4日涨停",
+      "link": "http://app.myzaker.com/news/article.php?m=1756971031&pk=68b93f2eb15ec07af0538c07",
+      "time": "9月4日 15:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "步步高9月4日触及涨停板",
+      "link": "http://sc.stock.cnfol.com/gushiyaowen/20250904/31613662.shtml",
+      "time": "9月4日 10:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "步步高9月2日打开涨停",
+      "link": "http://finance.eastmoney.com/a/202509023501998384.html",
+      "time": "9月2日 09:57",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 16:56:46"
+}

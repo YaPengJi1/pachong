@@ -1,0 +1,180 @@
+{
+  "core_info": {
+    "core_event_name": "长安启源A06亮相",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:27:53"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "长安启源E07焕新上市",
+      "link": "http://www.qctt.cn/news/1820749",
+      "time": "9月10日 21:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "长安汽车SDA天枢架构诞生，首款车型长安启源A06新车型发布",
+      "link": "http://finance.eastmoney.com/a/202509083507443444.html",
+      "time": "9月8日 11:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "800V高压SiC碳化硅平台",
+      "link": "http://www.yescar.cn/kanche/20250908/905121_1.html",
+      "time": "9月8日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "长安启源A06首秀",
+      "link": "http://app.myzaker.com/news/article.php?pk=68bd0c768e9f09112942f09d",
+      "time": "9月7日 12:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "比迈巴赫多躺11.5°!长安启源A06让百万豪车瑟瑟发抖",
+      "link": "http://www.pcauto.com.cn/hj/article/3051226.html",
+      "time": "9月6日 21:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "长安起源A06亮相",
+      "link": "http://www.eeo.com.cn/2025/0906/751339.shtml",
+      "time": "9月6日 20:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "长安启源 A06 首秀,激光雷达+800V+6C 打造配置天花板",
+      "link": "http://news.sina.cn/ai/2025-09-06/detail-infpqkmf1651482.d.html",
+      "time": "9月6日 20:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "10-12万级纯电SUV价值新标杆 长安启源全新Q05亮相",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=13693522652058001324",
+      "time": "9月6日 19:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "长安启源A06用三大重构、四大超配定义新标准",
+      "link": "http://baijiahao.baidu.com/s?id=1842510693259312068&wfr=spider&for=pc",
+      "time": "9月6日 16:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "长安启源A06全球首秀:用20万级“超配实力”重新定义纯电家轿",
+      "link": "http://www.pcauto.com.cn/hj/article/3051231.html",
+      "time": "9月6日 15:37",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "长安汽车推出全新启源A06",
+      "link": "http://www.163.com/dy/article/K8PJ5IML0553W1VY.html",
+      "time": "9月6日 15:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "长安启源A06全球首秀",
+      "link": "http://baijiahao.baidu.com/s?id=1842486488625354561&wfr=spider&for=pc",
+      "time": "9月6日 12:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "长安启源全新Q05登场",
+      "link": "http://www.163.com/dy/article/K8P6CMKJ0547O71D.html",
+      "time": "9月6日 11:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "长安启源A06首发亮相",
+      "link": "http://baijiahao.baidu.com/s?id=1842466590308660143&wfr=spider&for=pc",
+      "time": "9月6日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "长安启源A06亮相 中型轿车/纯电增程动力 续航630km 预计15万以内",
+      "link": "http://baijiahao.baidu.com/s?id=1842466589392254904&wfr=spider&for=pc",
+      "time": "9月5日 23:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "长安天枢智能品牌全球发布 启源A06全球首秀",
+      "link": "http://auto.sina.cn/newcar/2025-09-05/detail-infpnfnc7501537.d.html",
+      "time": "9月5日 22:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "预计年内上市 长安启源A06正式亮相",
+      "link": "http://auto.sina.com.cn/newcar/2025-09-05/detail-infpmuwi7670580.shtml",
+      "time": "9月5日 21:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "长安启源 A06 车型全球首秀",
+      "link": "http://www.ithome.com/0/880/807.htm",
+      "time": "9月5日 21:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_19",
+      "title": "长安启源A06亮相,SDA平台首款轿车搭载激光雷达",
+      "link": "http://k.sina.cn/article_1912222221_71fa320d04001d8my.html",
+      "time": "9月5日 19:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_20",
+      "title": "启源引力两路欲出大单品,混动技术或成长安汽车“撒手锏”",
+      "link": "http://baijiahao.baidu.com/s?id=1842328523758032658&wfr=spider&for=pc",
+      "time": "9月4日 18:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_21",
+      "title": "全新长安启源Q05更多官图发布",
+      "link": "http://www.gfan.com/info/593373.html",
+      "time": "9月4日 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 21,
+  "scrape_time": "2025-09-12 20:28:27"
+}

@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "尤文图斯与伊尔迪兹续约谈判",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:41:28"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "尤文已视伊尔迪兹为未来绝对核心,准备围绕他打造球队",
+      "link": "http://www.dongqiudi.com/articles/5353253.html",
+      "time": "9月4日 07:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "尤文想尽快续约伊尔迪兹,基础年薪将从150万涨至350万欧",
+      "link": "http://www.163.com/dy/article/K8I2B8LA0529AQIE.html",
+      "time": "9月3日 17:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "尤文全力推进伊尔迪兹续约",
+      "link": "http://www.dongqiudi.com/articles/5352099.html",
+      "time": "9月3日 13:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "尤文与伊尔迪兹团队会面，商讨续约至2030年",
+      "link": "http://baijiahao.baidu.com/s?id=1842195962391926317&wfr=spider&for=pc",
+      "time": "9月3日 07:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "尤文预计将在未来几天与伊尔迪兹谈续约",
+      "link": "http://cj.sina.com.cn/articles/view/7880068681/1d5b04e4902001t976",
+      "time": "9月3日 06:57",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 17:41:42"
+}

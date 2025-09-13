@@ -1,0 +1,100 @@
+{
+  "core_info": {
+    "core_event_name": "U16男篮亚洲杯国青战胜韩国，晋级八强",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:21:06"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U16亚洲杯朴泰俊创抢断纪录成新星",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9114148013043839820",
+      "time": "9月8日 23:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U16澳大利亚101-36狂胜日本晋级决赛，汉密尔顿17+4",
+      "link": "http://www.dongqiudi.com/articles/5357887.html",
+      "time": "9月6日 20:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U16男篮亚洲杯小组赛，中国队三战全胜晋级八强，主教练原来是他",
+      "link": "http://baijiahao.baidu.com/s?id=1842502770734245020&wfr=spider&for=pc",
+      "time": "9月6日 16:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U16男篮亚洲杯中国小伙84-71掀翻巴林，半决赛再战新西兰",
+      "link": "http://www.sohu.com/a/932333915_121145570",
+      "time": "9月6日 07:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "中国U16逆转韩国展现硬核深度但问题仍在",
+      "link": "http://www.163.com/dy/article/K8K142A90556DPTI.html",
+      "time": "9月4日 11:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "U16中国队三战300分晋级 八强对手未定却已引发热议主帅",
+      "link": "http://www.163.com/dy/article/K8JV8TEV0556DPMD.html",
+      "time": "9月4日 11:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "U16男篮晋级亚洲杯八强，中国金花美网集体出局",
+      "link": "http://www.thepaper.cn/newsDetail_forward_31532431",
+      "time": "9月3日 07:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "中国男篮U16亚洲杯三连胜小组头名出线",
+      "link": "http://m.dongqiudi.com/article/5351011.html",
+      "time": "9月2日 20:58",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "中国男篮U16晋级八强",
+      "link": "http://m.gmw.cn/toutiao/2025-09/02/content_1304133774.htm",
+      "time": "9月2日 20:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "U16男篮亚洲杯国青战胜韩国,晋级八强",
+      "link": "http://weibo.com/tv/show/1034:5206501781340196",
+      "time": "9月2日 18:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "中国U16男篮连续2场打韩国，场均净胜57分",
+      "link": "http://www.163.com/dy/article/K8D19S270529DS7F.html",
+      "time": "9月1日 18:24",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 11,
+  "scrape_time": "2025-09-12 14:21:20"
+}

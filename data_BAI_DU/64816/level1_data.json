@@ -1,0 +1,108 @@
+{
+  "core_info": {
+    "core_event_name": "普京：中国对俄公民免签",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:24:39"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "回应中方友好政策,便利两国人员往来,普京:俄将对等实施对华免签",
+      "link": "http://world.huanqiu.com/article/4OCtgHGUMsy",
+      "time": "9月6日 06:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "普京:俄罗斯将对中国免签,为两国商贸交流创造有利环境",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8750367998490559916",
+      "time": "9月5日 17:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "普京:俄罗斯将对华免签",
+      "link": "http://baijiahao.baidu.com/s?id=1842424210836491228&wfr=spider&for=pc",
+      "time": "9月5日 14:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "普京:中国对俄公民免签是非常友好的举措",
+      "link": "http://baijiahao.baidu.com/s?id=1842404662135602718&wfr=spider&for=pc",
+      "time": "9月5日 14:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "普京:俄将对等实施对华免签政策",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31546013",
+      "time": "9月5日 14:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "普京说俄将对等实施对华免签",
+      "link": "http://news.hnr.cn/shxw/article/1/1963851998266470401",
+      "time": "9月5日 14:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "普京:感谢中国对俄试行免签,俄将采取对等措施",
+      "link": "http://www.jfdaily.com/news/detail?id=977246",
+      "time": "9月5日 11:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "普京称将回应中国对俄试行免签",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6440001362935134366",
+      "time": "9月5日 10:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "普京:将对中国试行免签政策进行回应",
+      "link": "http://news.hnr.cn/shxw/article/1/1963772192592637953",
+      "time": "9月5日 09:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "美日贸易协定正式实施",
+      "link": "http://www.huxiu.com/brief/291804.html",
+      "time": "9月5日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "中国对俄罗斯试行免签,边境小城想要接住流量",
+      "link": "http://www.163.com/dy/article/K8L57IB705199NPP.html",
+      "time": "9月4日 22:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "外交部:中国对俄罗斯持普通护照人员试行免签",
+      "link": "http://tv.cctv.com/2025/09/03/VIDEIRZcCJLYdi1iiycz2MY2250903.shtml",
+      "time": "9月3日 14:06",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 12,
+  "scrape_time": "2025-09-12 17:24:53"
+}

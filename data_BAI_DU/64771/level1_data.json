@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "集创北方:九三阅兵",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:19:12"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "集创北方以“自主芯”点亮阅兵大屏",
+      "link": "http://baijiahao.baidu.com/s?id=1842404683289132480&wfr=spider&for=pc",
+      "time": "9月5日 14:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "集创北方百万颗芯点亮九三阅兵现场高清大屏",
+      "link": "http://www.163.com/dy/article/K8K7K0EJ0552IBJ1.html",
+      "time": "9月4日 13:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "九三阅兵展现中国士兵风采",
+      "link": "http://k.sina.cn/article_1561015262_5d0b33de04001d7es.html",
+      "time": "9月3日 13:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "九三阅兵首次规模化搭建国产 8K 超高清转播系统,创两个历史之最",
+      "link": "http://www.163.com/dy/article/K8FQSBCP0511B8LM.html",
+      "time": "9月2日 20:30",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 02:19:26"
+}

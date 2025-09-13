@@ -1,0 +1,72 @@
+{
+  "core_event_name": "阿富汗发生强震",
+  "comments": [
+    {
+      "event_title": "阿富汗发生强震,因宗教教规规定男性不能触碰女性,致使阿富汗女性“被埋废墟等死”",
+      "event_id": "event_1",
+      "event_url": "http://cj.sina.com.cn/articles/view/7295511718/1b2d8aca602001epia",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:06:55",
+      "event_time": "9月6日 09:39"
+    },
+    {
+      "event_title": "中国向阿富汗提供地震救灾紧急人道援助",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=16637464865868294448",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:06:57",
+      "event_time": "9月5日 10:57"
+    },
+    {
+      "event_title": "阿富汗地震已致2205死 中国提供紧急救援",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842387539794532322&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:07:14",
+      "event_time": "9月5日 10:00"
+    },
+    {
+      "event_title": "阿富汗东部再次发生地震 喀布尔震感明显",
+      "event_id": "event_4",
+      "event_url": "http://tv.cctv.com/2025/09/05/VIDEu6vzjpGWIXP2Ynh4tt8N250905.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:07:16",
+      "event_time": "9月5日 07:56"
+    },
+    {
+      "event_title": "阿富汗东北部发生6.1级地震 已致至少250人死亡",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8CBAB8J0553RRE9.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 21:07:19",
+      "event_time": "9月1日 12:00"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 21:07:19"
+}

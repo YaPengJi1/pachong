@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "C罗梅开二度",
+    "update_time": "更新至20250907",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:55:54"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "C罗本赛季已打进13球 望冲击世预赛射手王",
+      "link": "http://baijiahao.baidu.com/s?id=1842569171764115452&wfr=spider&for=pc",
+      "time": "9月7日 10:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "C罗世预赛梅开二度，苏超上座率再破纪录",
+      "link": "http://cj.sina.com.cn/articles/view/5044281310/12ca99fde02002f4t4",
+      "time": "9月7日 08:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "C罗梅开二度+世界波，超越梅西冲击神迹，葡萄牙大胜而归",
+      "link": "http://baijiahao.baidu.com/s?id=1842541871667524155&wfr=spider&for=pc",
+      "time": "9月7日 02:54",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-13 01:56:08"
+}

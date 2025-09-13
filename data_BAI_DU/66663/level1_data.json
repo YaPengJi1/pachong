@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "U23国足10-0大胜，中国队晋级亚洲杯",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:44:00"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "黄博文徐彬助力U23国足晋级亚洲杯，第四档排名竟不如越南",
+      "link": "http://baijiahao.baidu.com/s?id=1842869021603424663&wfr=spider&for=pc",
+      "time": "9月10日 17:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "晋级亚洲杯后，U22中国男足还有更多工作要做",
+      "link": "http://baijiahao.baidu.com/s?id=1842866980481650967&wfr=spider&for=pc",
+      "time": "9月10日 04:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "U22国足0-0澳大利亚，晋级亚洲杯",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7631228490509089385",
+      "time": "9月9日 22:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "王钰栋半场7球，国足10-0大胜，两连胜仍受质疑",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11026934801276575118",
+      "time": "9月8日 18:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "王钰栋带伤硬撑，U23国足平局线考验安东尼奥",
+      "link": "http://www.163.com/dy/article/K8U7G0C60556DPBH.html",
+      "time": "9月8日 10:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "U23亚预赛:中国队10:0大胜北马里亚纳群岛队",
+      "link": "http://www.chinanews.com.cn/ty/2025/09-07/10477938.shtml",
+      "time": "9月7日 06:05",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 10:44:33"
+}

@@ -1,0 +1,169 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:16:25"
+  },
+  "core_event": {
+    "core_event_name": "泰国新总理揭晓，谁是热门人选？",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:15:16"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "泰国新总理揭晓，谁是热门人选？",
+      "link": "http://baijiahao.baidu.com/s?id=1842392031425931627&wfr=spider&for=pc",
+      "time": "9月5日 11:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "泰国国会今日投票选总理",
+      "link": "http://baijiahao.baidu.com/s?id=1842386836432828280&wfr=spider&for=pc",
+      "time": "9月5日 09:50",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "泰国国会下议院将于5日选举新一任总理",
+      "link": "http://baijiahao.baidu.com/s?id=1842314085900054604&wfr=spider&for=pc",
+      "time": "9月4日 13:59",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "泰国选情生变,新的造王者诞生,5人竞选新总理,他信成为关键?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7892358313784683407",
+      "time": "9月3日 17:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "角逐总理“宝座”,泰国各政党展开博弈",
+      "link": "http://news.bjd.com.cn/2025/09/02/11292289.shtml",
+      "time": "9月2日 08:05",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "泰国新总理揭晓，谁是热门人选？",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842392031425931627&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:15:46",
+      "event_time": "9月5日 11:12"
+    },
+    {
+      "event_title": "泰国国会今日投票选总理",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842386836432828280&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "丛丝柳A1",
+      "comment_time": "09-05 17:05",
+      "comment_content": "让泰国人民比较比较谁对老百信最好！",
+      "user_location": "天津",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:16:02",
+      "event_time": "9月5日 09:50"
+    },
+    {
+      "event_title": "泰国国会今日投票选总理",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842386836432828280&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "束采6D",
+      "comment_time": "09-05 12:25",
+      "comment_content": "L",
+      "user_location": "海南",
+      "like_count": 3,
+      "scrape_time": "2025-09-13 02:16:02",
+      "event_time": "9月5日 09:50"
+    },
+    {
+      "event_title": "泰国国会今日投票选总理",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842386836432828280&wfr=spider&for=pc",
+      "comment_index": 3,
+      "user_id": "我本善良uPKgV",
+      "comment_time": "09-05 15:16",
+      "comment_content": "泰国下1届总理绝对英拉是最佳候选人选",
+      "user_location": "安徽",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:16:02",
+      "event_time": "9月5日 09:50"
+    },
+    {
+      "event_title": "泰国国会今日投票选总理",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842386836432828280&wfr=spider&for=pc",
+      "comment_index": 4,
+      "user_id": "开方方Kb",
+      "comment_time": "09-05 18:35",
+      "comment_content": "泰国就王室不用选的。下面怎么乱，无关大局？",
+      "user_location": "江苏",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:16:02",
+      "event_time": "9月5日 09:50"
+    },
+    {
+      "event_title": "泰国国会下议院将于5日选举新一任总理",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842314085900054604&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:16:17",
+      "event_time": "9月4日 13:59"
+    },
+    {
+      "event_title": "泰国选情生变,新的造王者诞生,5人竞选新总理,他信成为关键?",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7892358313784683407",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:16:19",
+      "event_time": "9月3日 17:19"
+    },
+    {
+      "event_title": "角逐总理“宝座”,泰国各政党展开博弈",
+      "event_id": "event_5",
+      "event_url": "http://news.bjd.com.cn/2025/09/02/11292289.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:16:21",
+      "event_time": "9月2日 08:05"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 8,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-13 02:15:31",
+    "level2_scrape_time": "2025-09-13 02:16:21"
+  }
+}

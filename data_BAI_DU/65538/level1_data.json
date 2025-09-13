@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "9月5日能源金属板块出现大幅上行",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:30:27"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "光伏设备板块9月5日大涨超6%，中报业绩、产能政策全景剖析",
+      "link": "http://baijiahao.baidu.com/s?id=1842472379507095680&wfr=spider&for=pc",
+      "time": "9月6日 08:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "光伏板块走强 阳光电源涨超10%",
+      "link": "http://baijiahao.baidu.com/s?id=1842401440887439104&wfr=spider&for=pc",
+      "time": "9月5日 13:42",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "9月5日蓝宝石板块涨幅达5%",
+      "link": "http://finance.eastmoney.com/a/202509053505937030.html",
+      "time": "9月5日 13:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "9月5日固态电池板块涨幅达5%",
+      "link": "http://finance.eastmoney.com/a/202509053505797634.html",
+      "time": "9月5日 10:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "宁德时代9月5日盘中涨幅达5%",
+      "link": "http://finance.eastmoney.com/a/202509053505751793.html",
+      "time": "9月5日 09:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "能源金属板块出现大幅上行 赣锋锂业、中矿资源涨超4%",
+      "link": "http://stock.cngold.org/c/2025-09-05/c10063284.html",
+      "time": "9月5日 09:46",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "9月5日光伏设备板块涨幅达4%",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-13 01:30:41"
+}

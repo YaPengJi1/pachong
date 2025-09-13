@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "泰山成功复仇国安，6-0大胜",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:51:41"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "申花海港爆冷,双双告负!泰山6-0国安,蓉城争冠“领先一分”",
+      "link": "http://cj.sina.com.cn/articles/view/1089020764/40e9235c0010176ry",
+      "time": "9月4日 19:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "为何泰山6:0国安这么上头?济南逆袭史诗解析!",
+      "link": "http://baijiahao.baidu.com/s?id=1842008622471350594&wfr=spider&for=pc",
+      "time": "9月1日 05:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "泰山海报神预言6-0，国安请好好学习",
+      "link": "http://baijiahao.baidu.com/s?id=1841988551307588779&wfr=spider&for=pc",
+      "time": "9月1日 00:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中超：泰山6-0大胜国安",
+      "link": "http://www.163.com/dy/article/K8APMPRN0529AQIE.html",
+      "time": "8月31日 21:33",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 01:51:55"
+}

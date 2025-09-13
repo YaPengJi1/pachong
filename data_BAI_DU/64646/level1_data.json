@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "维拉承担桑乔80%薪水，曼联承担20%",
+    "update_time": "更新至20250902",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:58:22"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "维拉承担桑乔80%薪水 曼联承担20%，但有租借费和奖金条款",
+      "link": "http://k.sina.com.cn/article_2018499075_784fda0302002hd3k.html",
+      "time": "9月2日 07:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "维拉签下桑乔后，再追利物浦5000万新星",
+      "link": "http://cj.sina.com.cn/articles/view/3201407530/bed19a2a02701fo1o",
+      "time": "9月1日 21:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "天空:维拉正与曼联就租借桑乔进行谈判,目前尚未达成协议",
+      "link": "http://www.dongqiudi.com/articles/5348031.html",
+      "time": "9月1日 16:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "桑乔恐在曼联白混半年,2025年内没球可踢!维拉或成最后救命稻草",
+      "link": "http://cj.sina.com.cn/articles/view/7880068727/1d5b04e7702002dops",
+      "time": "9月1日 10:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "桑乔恐在曼联白混半年,2025年内没球踢!维拉或成双方最后救命稻草",
+      "link": "http://cj.sina.com.cn/articles/view/7880068727/1d5b04e7702002dopm",
+      "time": "9月1日 10:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "曼联与维拉转会谈判:马丁内斯 vs 拉门斯",
+      "link": "http://www.sohu.com/a/930502324_122387568",
+      "time": "8月31日 21:28",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-13 01:58:36"
+}

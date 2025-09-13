@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 17:33:41"
+  },
+  "core_event": {
+    "core_event_name": "北京男篮新外援斯佩尔曼加盟",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:32:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "北京首钢男篮签下杰曼、斯佩尔曼",
+      "link": "http://baijiahao.baidu.com/s?id=1842407828922391112&wfr=spider&for=pc",
+      "time": "9月5日 15:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "斯佩尔曼自宣加盟北京",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=14157055900636227852",
+      "time": "9月5日 08:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "北京男篮新外援已浮出水面,效力过金州勇士,许利民非常满意他",
+      "link": "http://cj.sina.com.cn/articles/view/6419730270/17ea54f5e00101jn38",
+      "time": "9月5日 08:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "大外援来了!前勇士内线斯佩尔曼自宣加盟北京首钢:🦆",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-03/doc-infpewap2858604.shtml",
+      "time": "9月3日 13:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "北京男篮已经与杰曼续约,确定将签下斯佩尔曼",
+      "link": "http://cj.sina.com.cn/articles/view/7096022664/1a6f4b68802001bbbc",
+      "time": "9月2日 14:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "CBA最新消息!北京首钢确定外援,皮特森或加盟辽宁,许钟豪告别",
+      "link": "http://www.sohu.com/a/930819416_121935301",
+      "time": "9月1日 18:18",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "李楠顾问+斯佩尔曼加盟，北京男篮谋新篇",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "北京首钢男篮签下杰曼、斯佩尔曼",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842407828922391112&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:33:24",
+      "event_time": "9月5日 15:23"
+    },
+    {
+      "event_title": "斯佩尔曼自宣加盟北京",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=14157055900636227852",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:33:26",
+      "event_time": "9月5日 08:52"
+    },
+    {
+      "event_title": "北京男篮新外援已浮出水面,效力过金州勇士,许利民非常满意他",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/6419730270/17ea54f5e00101jn38",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:33:28",
+      "event_time": "9月5日 08:29"
+    },
+    {
+      "event_title": "大外援来了!前勇士内线斯佩尔曼自宣加盟北京首钢:🦆",
+      "event_id": "event_4",
+      "event_url": "http://sports.sina.com.cn/basketball/nba/2025-09-03/doc-infpewap2858604.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:33:30",
+      "event_time": "9月3日 13:29"
+    },
+    {
+      "event_title": "北京男篮已经与杰曼续约,确定将签下斯佩尔曼",
+      "event_id": "event_5",
+      "event_url": "http://cj.sina.com.cn/articles/view/7096022664/1a6f4b68802001bbbc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:33:32",
+      "event_time": "9月2日 14:52"
+    },
+    {
+      "event_title": "CBA最新消息!北京首钢确定外援,皮特森或加盟辽宁,许钟豪告别",
+      "event_id": "event_6",
+      "event_url": "http://www.sohu.com/a/930819416_121935301",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:33:34",
+      "event_time": "9月1日 18:18"
+    },
+    {
+      "event_title": "李楠顾问+斯佩尔曼加盟，北京男篮谋新篇",
+      "event_id": "event_7",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:33:36",
+      "event_time": "1970年"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 17:33:06",
+    "level2_scrape_time": "2025-09-12 17:33:36"
+  }
+}

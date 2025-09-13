@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "焦泊乔14日热身赛首秀，广东男篮引进内线强援",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:29:30"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "焦泊乔:上一场热身赛准备好上,杜导担心脚有反应",
+      "link": "http://baijiahao.baidu.com/s?id=1842942393467984839&wfr=spider&for=pc",
+      "time": "昨天 13:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "焦泊乔或迎首秀 胡明轩缺阵 杜锋重用一人",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6425510741798302397",
+      "time": "9月9日 11:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "广东男篮拒绝爆冷!杜锋全力出击,焦泊乔上演首秀,新援确定出战",
+      "link": "http://cj.sina.com.cn/articles/view/5330749727/13dbcc91f00101i2he",
+      "time": "9月8日 00:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "广东男篮7分险胜,拒绝大逆转",
+      "link": "http://baijiahao.baidu.com/s?id=1842560465406209357&wfr=spider&for=pc",
+      "time": "9月7日 07:49",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 10:29:44"
+}

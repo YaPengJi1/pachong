@@ -1,0 +1,72 @@
+{
+  "core_event_name": "以军控制加沙城，巴以局势紧张",
+  "comments": [
+    {
+      "event_title": "以军称已控制加沙城40%区域",
+      "event_id": "event_1",
+      "event_url": "http://tv.cctv.com/2025/09/06/VIDEftMlTqSPISKrwxtBT7nV250906.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:10:39",
+      "event_time": "9月6日 05:34"
+    },
+    {
+      "event_title": "[午夜新闻]关注巴以局势 以军称已控制加沙城40%区域",
+      "event_id": "event_2",
+      "event_url": "http://tv.cctv.com/2025/09/06/VIDExrHgOmfjIxkfHurvTaAR250906.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:10:41",
+      "event_time": "9月6日 00:24"
+    },
+    {
+      "event_title": "以军称已控制加沙城四成区域 军事行动还将扩大",
+      "event_id": "event_3",
+      "event_url": "http://video.sina.cn/finance/2025-09-05/detail-infpnfmz0592088.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:10:43",
+      "event_time": "9月5日 22:52"
+    },
+    {
+      "event_title": "胡塞武装称再袭以色列并命中目标!以军:在加沙城军事行动推进至新区域!以总理:以军正为进攻加沙城做准备!",
+      "event_id": "event_4",
+      "event_url": "http://m.nbd.com.cn/articles/2025-09-03/4047027.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:10:45",
+      "event_time": "9月3日 07:52"
+    },
+    {
+      "event_title": "以军说正准备扩大在加沙城针对哈马斯的军事行动",
+      "event_id": "event_5",
+      "event_url": "http://m.online.sh.cn/news/content/2025-08/29/content_10375935.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:10:47",
+      "event_time": "8月29日 16:21"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 22:10:47"
+}

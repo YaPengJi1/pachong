@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:13:59"
+  },
+  "core_event": {
+    "core_event_name": "公募基金费率改革顺利收官",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:13:29"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "公募再降费,百亿让利投资者",
+      "link": "http://www.163.com/dy/article/K90NQQAS05199NPP.html",
+      "time": "9月9日 10:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "基金降费大礼包来了!每年省500亿,投资者迎来“省钱红利时代”",
+      "link": "http://cj.sina.com.cn/articles/view/2065357290/7b1ad9ea00102ecp6",
+      "time": "9月9日 10:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "公募降费迎收官战,招行背刺基民,费率高十倍",
+      "link": "http://finance.sina.com.cn/money/fund/2025-09-07/doc-infprsek0391950.shtml",
+      "time": "9月7日 09:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "费率改革进入第三阶段,多家机构发声",
+      "link": "http://finance.sina.cn/2025-09-06/detail-infpqeca1220638.d.html",
+      "time": "9月6日 18:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "公募基金费率改革顺利收官",
+      "link": "http://finance.eastmoney.com/a/202509053506346466.html",
+      "time": "9月5日 20:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "调降销售环节费率 公募基金费率改革顺利收官",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmzec0690077.d.html",
+      "time": "9月5日 20:22",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "公募再降费,百亿让利投资者",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K90NQQAS05199NPP.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:13:44",
+      "event_time": "9月9日 10:03"
+    },
+    {
+      "event_title": "基金降费大礼包来了!每年省500亿,投资者迎来“省钱红利时代”",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/2065357290/7b1ad9ea00102ecp6",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:13:46",
+      "event_time": "9月9日 10:00"
+    },
+    {
+      "event_title": "公募降费迎收官战,招行背刺基民,费率高十倍",
+      "event_id": "event_3",
+      "event_url": "http://finance.sina.com.cn/money/fund/2025-09-07/doc-infprsek0391950.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:13:48",
+      "event_time": "9月7日 09:30"
+    },
+    {
+      "event_title": "费率改革进入第三阶段,多家机构发声",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.cn/2025-09-06/detail-infpqeca1220638.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:13:50",
+      "event_time": "9月6日 18:56"
+    },
+    {
+      "event_title": "公募基金费率改革顺利收官",
+      "event_id": "event_5",
+      "event_url": "http://finance.eastmoney.com/a/202509053506346466.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:13:52",
+      "event_time": "9月5日 20:40"
+    },
+    {
+      "event_title": "调降销售环节费率 公募基金费率改革顺利收官",
+      "event_id": "event_6",
+      "event_url": "http://finance.sina.cn/2025-09-05/detail-infpmzec0690077.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:13:54",
+      "event_time": "9月5日 20:22"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 10:13:43",
+    "level2_scrape_time": "2025-09-12 10:13:54"
+  }
+}

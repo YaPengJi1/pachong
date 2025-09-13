@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "中兴通讯、中际旭创、北方稀土成交额超100亿",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:59:34"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中际旭创成交额达100亿元",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12358059287700367867",
+      "time": "9月5日 10:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "北方稀土成交额超100亿元",
+      "link": "http://finance.eastmoney.com/a/202509043504536156.html",
+      "time": "9月4日 11:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中际旭创成交额超120亿元",
+      "link": "http://www.cnstock.com/commonDetail/515071",
+      "time": "9月4日 09:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "中兴通讯成交额超100亿元",
+      "link": "http://finance.eastmoney.com/a/202509023502274333.html",
+      "time": "9月2日 13:35",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 22:59:48"
+}

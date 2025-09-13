@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "华南地区迎战台风“塔巴”",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 12:35:23"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "受台风“塔巴”影响 华南多地风雨增强",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10745911633731590135",
+      "time": "9月8日 21:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "台风“塔巴”向西北移动,广西进入应急待命状态",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15635006301103390436",
+      "time": "9月8日 11:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "台风“塔巴”中心或进入南宁",
+      "link": "http://finance.sina.com.cn/jjxw/2025-09-08/doc-infptqvr4632328.shtml",
+      "time": "9月8日 07:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "华南地区迎战台风“塔巴” 风雨加剧",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10625700839823917259",
+      "time": "9月7日 21:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "今年第16号台风“塔巴”生成",
+      "link": "http://video.sina.cn/finance/2025-09-07/detail-infpsiaf5336804.d.html",
+      "time": "9月7日 18:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "台风“塔巴”逐渐靠近·国家海洋预报台 发布海浪橙色警报和风暴潮黄色警报",
+      "link": "http://tv.cctv.com/2025/09/07/VIDE7aSJrcXiVtGrVKbN9Lka250907.shtml",
+      "time": "9月7日 10:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "台风“塔巴”直奔广东",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31572756",
+      "time": "9月7日 09:39",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 12:35:37"
+}

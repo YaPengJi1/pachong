@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "国足U22亚洲杯预选赛表现",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:03:52"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "U22国足:重压之下破局,晋级不是终点",
+      "link": "http://baijiahao.baidu.com/s?id=1842837091783936187&wfr=spider&for=pc",
+      "time": "9月10日 09:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "U22国足0比0暂平澳大利亚队",
+      "link": "http://baijiahao.baidu.com/s?id=1842791199240270866&wfr=spider&for=pc",
+      "time": "9月9日 20:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国足10-0大胜，两连胜仍受质疑",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=11026934801276575118",
+      "time": "9月8日 18:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U23国足2-1东帝汶",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8542999103687288348",
+      "time": "9月5日 15:02",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 10:04:06"
+}

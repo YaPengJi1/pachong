@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "冯绍峰景甜闪婚",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:19:39"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "冯绍峰景甜闪婚?双方最新回应",
+      "link": "http://www.163.com/dy/article/K8N0PIH805562NKW.html",
+      "time": "9月5日 15:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "冯绍峰否认与景甜闪婚",
+      "link": "http://baijiahao.baidu.com/s?id=1842394776053024369&wfr=spider&for=pc",
+      "time": "9月5日 11:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "“冯绍峰与景甜官宣闪婚”?冯绍峰工作室辟谣:假!无中生有",
+      "link": "http://baijiahao.baidu.com/s?id=1842323102341351592&wfr=spider&for=pc",
+      "time": "9月4日 16:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "景甜冯绍峰被曝闪婚",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5754146408587500615",
+      "time": "9月4日 12:20",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "演员冯绍峰方辟谣与景甜闪婚",
+      "link": "http://news.cnhubei.com/content/2025-09/04/content_19473695.html",
+      "time": "9月4日 11:16",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 17:19:53"
+}

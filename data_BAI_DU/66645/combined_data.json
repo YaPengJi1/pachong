@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 10:28:11"
+  },
+  "core_event": {
+    "core_event_name": "快船涉嫌阴阳合同风波",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:27:16"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "哈登回应伦纳德阴阳合同风波,快船面临困境",
+      "link": "http://www.sohu.com/a/932340523_121254033",
+      "time": "9月6日 07:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "莱昂纳德与快船有阴阳合同?NBA官方将展开调查",
+      "link": "http://baijiahao.baidu.com/s?id=1842304932024188137&wfr=spider&for=pc",
+      "time": "9月4日 12:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "NBA调查伦纳德“阴阳合同”,快船面临重罚",
+      "link": "http://baijiahao.baidu.com/s?id=1842265627484814850&wfr=spider&for=pc",
+      "time": "9月4日 10:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "曝小卡涉嫌签约阴阳合同，NBA介入调查恐抄没5年首轮签",
+      "link": "http://www.163.com/dy/article/K8ILCUHC0552NV18.html",
+      "time": "9月3日 22:53",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "哈登回应伦纳德阴阳合同风波,快船面临困境",
+      "event_id": "event_1",
+      "event_url": "http://www.sohu.com/a/932340523_121254033",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:27:32",
+      "event_time": "9月6日 07:45"
+    },
+    {
+      "event_title": "莱昂纳德与快船有阴阳合同?NBA官方将展开调查",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842304932024188137&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "围造地大王1",
+      "comment_time": "09-04 15:30",
+      "comment_content": "这事儿挺复杂的，官方调查下也好，希望真相能尽快水落石出。",
+      "user_location": "四川",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:27:49",
+      "event_time": "9月4日 12:06"
+    },
+    {
+      "event_title": "NBA调查伦纳德“阴阳合同”,快船面临重罚",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842265627484814850&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "长江中的Roses",
+      "comment_time": "09-04 10:15",
+      "comment_content": "合同风波真闹心，希望联盟查清还个公道。",
+      "user_location": "辽宁",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:28:05",
+      "event_time": "9月4日 10:00"
+    },
+    {
+      "event_title": "曝小卡涉嫌签约阴阳合同，NBA介入调查恐抄没5年首轮签",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8ILCUHC0552NV18.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:28:07",
+      "event_time": "9月3日 22:53"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 10:27:30",
+    "level2_scrape_time": "2025-09-12 10:28:07"
+  }
+}

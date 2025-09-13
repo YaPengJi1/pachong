@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "俄军袭击乌克兰政府大楼",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:08:50"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "800多架无人机直奔基辅，乌政府大楼首次遭袭，普京要放手大打?",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8163382784932598725",
+      "time": "9月9日 16:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "俄军一夜810架无人机斩首基辅，政府大楼首遭导弹焚毁，克留科夫铁路桥被精准斩断",
+      "link": "http://www.163.com/dy/article/K91CIM3U0556124I.html",
+      "time": "9月9日 16:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "810架无人机突袭乌克兰,基辅政府大楼被炸",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=18083067402653422783",
+      "time": "9月8日 15:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "俄乌冲突 乌克兰政府大楼遭袭引发大火 过火面积超千平米",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6448097438767437607",
+      "time": "9月8日 12:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "俄袭击乌内阁大楼后 乌克兰袭击德鲁日巴输油站和伊尔斯基炼油厂",
+      "link": "http://www.163.com/dy/article/K8U7ECSG05562QC9.html",
+      "time": "9月8日 10:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "乌克兰外长:乌政府大楼首次遭袭",
+      "link": "http://tv.cctv.com/2025/09/07/VIDE3qPR17zLIYMuGEAMuJRD250907.shtml",
+      "time": "9月7日 19:19",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 10:09:04"
+}

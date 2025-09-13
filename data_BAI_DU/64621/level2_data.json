@@ -1,0 +1,85 @@
+{
+  "core_event_name": "中兴通讯股价跌5.01%",
+  "comments": [
+    {
+      "event_title": "中兴通讯股价跌5.01%,富国基金旗下5只基金重仓,合计持有210万股浮亏损失462.01万元",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842299850271683689&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "巨鹰讨厌白酒",
+      "comment_time": "09-04 11:19",
+      "comment_content": "贸易战余波未平，中兴曾遭美制裁，股价本就脆弱。基金重仓踩雷，亏损放大不意外。",
+      "user_location": "福建",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:31:53",
+      "event_time": "9月4日 10:47"
+    },
+    {
+      "event_title": "中兴通讯股价跌5.01%,南方基金旗下7只基金重仓,合计持有67.68万股浮亏损失148.9万元",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842299844032762187&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "可可搞笑Standup",
+      "comment_time": "09-04 11:23",
+      "comment_content": "中兴大跌南基亏惨了。科技股政策敏感度高，国际摩擦加剧时波动大，分散持仓才是硬道理。（解释：中兴通讯受中美关系影响，股价易受政策冲击，基金集中投资放大风险。）",
+      "user_location": "甘肃",
+      "like_count": 1,
+      "scrape_time": "2025-09-13 01:32:09",
+      "event_time": "9月4日 10:47"
+    },
+    {
+      "event_title": "中兴通讯股价跌5.01%,兴业基金旗下4只基金重仓,合计持有205.31万股浮亏损失451.68万元",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842299837988054224&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "老牛工谎B7c2a",
+      "comment_time": "09-04 11:06",
+      "comment_content": "中兴通讯这波大跌，更多是市场情绪恐慌驱动，科技股近来整体低迷引发抛售潮，基金没及时对冲风险导致巨亏。",
+      "user_location": "北京",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:32:24",
+      "event_time": "9月4日 10:47"
+    },
+    {
+      "event_title": "中兴通讯股价跌5.01%,广发基金旗下3只基金重仓,合计持有22.94万股浮亏损失50.48万元",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842299833653710233&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "陆炫明MilkTea",
+      "comment_time": "09-04 11:29",
+      "comment_content": "广发基金这波亏麻了，风控明显拉胯。重仓中兴通讯一跌5%就损失50万，风险太集中根本没分散。",
+      "user_location": "云南",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:32:40",
+      "event_time": "9月4日 10:47"
+    },
+    {
+      "event_title": "中兴通讯股价跌5.01%,工银瑞信基金旗下2只基金重仓,合计持有872.68万股浮亏损失1919.9万元",
+      "event_id": "event_5",
+      "event_url": "http://news.sohu.com/a/931740568_122014422",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:32:42",
+      "event_time": "9月4日 10:47"
+    },
+    {
+      "event_title": "中兴通讯股价跌5.01%,西藏东财基金旗下1只基金重仓,持有81.11万股浮亏损失178.45万元",
+      "event_id": "event_6",
+      "event_url": "http://finance.sina.cn/2025-09-04/detail-infphutn7074316.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:32:44",
+      "event_time": "9月4日 10:46"
+    }
+  ],
+  "total_comments": 6,
+  "scrape_time": "2025-09-13 01:32:44"
+}

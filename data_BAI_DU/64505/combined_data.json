@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:17:25"
+  },
+  "core_event": {
+    "core_event_name": "川普提名米兰美联储理事",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:16:47"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美联储理事会提名人米兰:若获提名连任美联储职位,将辞去经济顾问委员会职务",
+      "link": "http://finance.sina.cn/7x24/2025-09-04/detail-infpkany3137400.d.html",
+      "time": "9月4日 23:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美联储理事提名人Miran:如果提名资格得到确认,将在担任联储理事期间退出美国总统特朗普的CEA",
+      "link": "http://baijiahao.baidu.com/s?id=1842346140285999915&wfr=spider&for=pc",
+      "time": "9月4日 23:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "川普提名斯蒂芬·米兰顶替库格勒辞职后的空缺",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4413903191998968336",
+      "time": "8月28日 23:02",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "美联储理事会提名人米兰:若获提名连任美联储职位,将辞去经济顾问委员会职务",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-04/detail-infpkany3137400.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:17:03",
+      "event_time": "9月4日 23:06"
+    },
+    {
+      "event_title": "美联储理事提名人Miran:如果提名资格得到确认,将在担任联储理事期间退出美国总统特朗普的CEA",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842346140285999915&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:17:19",
+      "event_time": "9月4日 23:03"
+    },
+    {
+      "event_title": "川普提名斯蒂芬·米兰顶替库格勒辞职后的空缺",
+      "event_id": "event_3",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4413903191998968336",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:17:21",
+      "event_time": "8月28日 23:02"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-13 01:17:02",
+    "level2_scrape_time": "2025-09-13 01:17:21"
+  }
+}

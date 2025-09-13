@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "大摩预测美联储9月降息",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:36:42"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "概率超95%,美联储9月降息板上钉钉?港股三大指数集体高开",
+      "link": "http://www.163.com/dy/article/K8JQLF8R0512B07B.html",
+      "time": "9月4日 09:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "大摩:美联储预计本月开始降息,但非农数据可能构成关键风险",
+      "link": "http://baijiahao.baidu.com/s?id=1842224215175624892&wfr=spider&for=pc",
+      "time": "9月3日 14:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美联储降息“板上钉钉”",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12291011249458528738",
+      "time": "8月31日 21:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "美联储9月降息25基点成定局?热门人选沃勒透露未来数月降息走向",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9028383502865397242",
+      "time": "8月29日 23:34",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 18:36:56"
+}

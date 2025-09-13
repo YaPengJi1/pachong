@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "小米16系列手机发布及市场竞争",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 17:12:04"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "小米16 Pro详细配置曝光 苹果旗舰机为新机让路价格滑铁卢!",
+      "link": "http://mobile.zol.com.cn/1045/10450724.html",
+      "time": "昨天 17:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "疑似小米16标准版细节曝光 苹果机皇价比百元机果粉心碎!",
+      "link": "http://mobile.zol.com.cn/1041/10414347_all.html",
+      "time": "9月5日 09:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "小米16全系曝光,苹果iPhone17迎来正面挑战",
+      "link": "http://baijiahao.baidu.com/s?id=1842310759054183927&wfr=spider&for=pc",
+      "time": "9月4日 13:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "小米16三箭齐发",
+      "link": "http://www.163.com/dy/article/K85LTFQH05567D0K.html",
+      "time": "9月2日 07:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "小米16首发黑科技亮相 苹果旗舰机现谷底价果粉乐翻天",
+      "link": "http://mobile.zol.com.cn/1040/10400171_all.html",
+      "time": "9月1日 08:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "小米13系列发布，7000mAh小直屏",
+      "link": "http://app.myzaker.com/news/article.php?pk=68b1cf1b8e9f090b312b3acb",
+      "time": "8月30日 08:02",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 17:12:18"
+}

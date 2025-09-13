@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "CBA国内球员注册截止，老将告别",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:05:02"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国篮协关于25-26赛季全国男子篮球联赛球队首次注册事宜的通知",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-09/doc-infpwekr3828138.shtml",
+      "time": "9月9日 11:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "CBA国内球员注册截止",
+      "link": "http://www.163.com/dy/article/K8CBEI8I0530WJIN.html",
+      "time": "9月1日 12:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "CBA注册更新！大韩二飞无缘，5海外预注册，辽宁仅15人，四川压哨",
+      "link": "http://baijiahao.baidu.com/s?id=1841971240108311775&wfr=spider&for=pc",
+      "time": "8月31日 19:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "CBA注册重大更新!韩德君任骏飞退役,五位海外球员预注册,辽宁仅15人,四川压哨完成",
+      "link": "http://www.sohu.com/a/930491601_122387568",
+      "time": "8月31日 19:44",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 20:05:16"
+}

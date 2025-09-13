@@ -1,0 +1,85 @@
+{
+  "core_event_name": "国足公开选帅",
+  "comments": [
+    {
+      "event_title": "国足公开选帅，明确新任主帅带队目标：完成2030年世界杯参赛目标任务",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842505966899223755&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "盈盈爱吃炸鸡",
+      "comment_time": "09-06 20:28",
+      "comment_content": "支持国足公开选帅，期待新主帅带队伍冲击世界杯。相信未来可期。",
+      "user_location": "重庆",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:43:08",
+      "event_time": "9月6日 17:23"
+    },
+    {
+      "event_title": "正式选帅!足协更新国足新帅标准,一堆名帅落选,施密特呼声最高",
+      "event_id": "event_2",
+      "event_url": "http://k.sina.cn/article_5850878694_15cbd52e6001016ffi.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:43:10",
+      "event_time": "9月6日 09:27"
+    },
+    {
+      "event_title": "国足公开选帅，吴金贵、谢晖、陈洋“自由身”",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8N4K3AS0529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:43:12",
+      "event_time": "9月5日 16:35"
+    },
+    {
+      "event_title": "国足帅位再掀波澜!选帅背后那些不为人知的故事与数据解析",
+      "event_id": "event_4",
+      "event_url": "http://www.sohu.com/a/932207004_121894857",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:43:14",
+      "event_time": "9月5日 16:10"
+    },
+    {
+      "event_title": "国足20多年已换帅16人，除里皮外几乎是下课",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8N1J3F20529AQIE.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:43:16",
+      "event_time": "9月5日 15:42"
+    },
+    {
+      "event_title": "足协公开选聘国足新帅，目标进下届世界杯",
+      "event_id": "event_6",
+      "event_url": "http://www.163.com/dy/article/K8MUF0DG0529CA1F.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:43:18",
+      "event_time": "9月5日 14:55"
+    }
+  ],
+  "total_comments": 6,
+  "scrape_time": "2025-09-13 02:43:18"
+}

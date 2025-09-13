@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:05:55"
+  },
+  "core_event": {
+    "core_event_name": "极氪X新款上市",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:05:25"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "甘肃张掖极氪7X落地价，豪华配置超值价来袭",
+      "link": "http://www.pcauto.com.cn/hq/783442.html",
+      "time": "9月6日 13:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "武威极氪X 2025新款价格,豪华配置超值价来袭",
+      "link": "http://www.pcauto.com.cn/hq/780221.html",
+      "time": "9月5日 15:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "极氪X新款上市接受预订 订金5000元",
+      "link": "http://www.autohome.com.cn/dealer/202509/1415021121.html",
+      "time": "9月4日 13:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "2025款极氪7X订金5000元 可接受预订",
+      "link": "http://www.autohome.com.cn/dealer/202509/1415019072.html",
+      "time": "9月4日 13:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "2025款极氪001订金5000元 接受预订",
+      "link": "http://www.autohome.com.cn/dealer/202509/1415018228.html",
+      "time": "9月4日 13:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "极氪001新款将首发 国庆西北自驾锁定提车",
+      "link": "http://www.163.com/dy/article/K8K18MDM05568MKN.html",
+      "time": "9月4日 11:41",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "甘肃张掖极氪7X落地价，豪华配置超值价来袭",
+      "event_id": "event_1",
+      "event_url": "http://www.pcauto.com.cn/hq/783442.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:05:41",
+      "event_time": "9月6日 13:30"
+    },
+    {
+      "event_title": "武威极氪X 2025新款价格,豪华配置超值价来袭",
+      "event_id": "event_2",
+      "event_url": "http://www.pcauto.com.cn/hq/780221.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:05:43",
+      "event_time": "9月5日 15:22"
+    },
+    {
+      "event_title": "极氪X新款上市接受预订 订金5000元",
+      "event_id": "event_3",
+      "event_url": "http://www.autohome.com.cn/dealer/202509/1415021121.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:05:45",
+      "event_time": "9月4日 13:55"
+    },
+    {
+      "event_title": "2025款极氪7X订金5000元 可接受预订",
+      "event_id": "event_4",
+      "event_url": "http://www.autohome.com.cn/dealer/202509/1415019072.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:05:47",
+      "event_time": "9月4日 13:45"
+    },
+    {
+      "event_title": "2025款极氪001订金5000元 接受预订",
+      "event_id": "event_5",
+      "event_url": "http://www.autohome.com.cn/dealer/202509/1415018228.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:05:49",
+      "event_time": "9月4日 13:40"
+    },
+    {
+      "event_title": "极氪001新款将首发 国庆西北自驾锁定提车",
+      "event_id": "event_6",
+      "event_url": "http://www.163.com/dy/article/K8K18MDM05568MKN.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:05:51",
+      "event_time": "9月4日 11:41"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-12 18:05:40",
+    "level2_scrape_time": "2025-09-12 18:05:51"
+  }
+}

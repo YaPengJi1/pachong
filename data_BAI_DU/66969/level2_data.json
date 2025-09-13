@@ -1,0 +1,59 @@
+{
+  "core_event_name": "多地学校停课应对台风塔巴",
+  "comments": [
+    {
+      "event_title": "台风塔巴升级10级强风 广东多地学校暂停授课",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=15876101360139639023",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:52:48",
+      "event_time": "9月9日 00:39"
+    },
+    {
+      "event_title": "多地紧急通知!停课一天!",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842687134906614226&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:53:06",
+      "event_time": "9月8日 17:23"
+    },
+    {
+      "event_title": "台风“塔巴”今天上午在广东台山沿海登陆 广东多地发布台风黄色预警 学校即日起停课",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6566508648447567663",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:53:08",
+      "event_time": "9月8日 15:54"
+    },
+    {
+      "event_title": "台风“塔巴”广东多地停课停学",
+      "event_id": "event_4",
+      "event_url": "http://tv.cctv.com/2025/09/08/VIDEh6fZDfHvxgAKCsnRA1Xa250908.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:53:10",
+      "event_time": "9月8日 12:24"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 10:53:10"
+}

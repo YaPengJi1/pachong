@@ -1,0 +1,46 @@
+{
+  "core_event_name": "以军控制加沙超80%领土",
+  "comments": [
+    {
+      "event_title": "以军持续扩大在加沙地带的军事行动",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842663669785889530&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:01:12",
+      "event_time": "9月8日 11:08"
+    },
+    {
+      "event_title": "以色列控制加沙超过80%的领土",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.com.cn/stock/bxjj/2025-09-06/doc-infpqqsw0989551.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:01:14",
+      "event_time": "9月6日 22:52"
+    },
+    {
+      "event_title": "以军称已控制加沙城40%区域 国际社会谴责升级",
+      "event_id": "event_3",
+      "event_url": "http://mil.huanqiu.com/article/4OCaOy0Cmt7",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 15:01:16",
+      "event_time": "9月5日 18:04"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 15:01:16"
+}

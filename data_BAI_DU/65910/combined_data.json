@@ -1,0 +1,172 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 14:30:15"
+  },
+  "core_event": {
+    "core_event_name": "中国全球治理倡议",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:29:27"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国四大倡议出击 破解全球乱局 再造安全、公平与发展新规则",
+      "link": "http://news.sohu.com/a/932410001_121142129",
+      "time": "9月6日 12:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "普京:此次中国之行成果积极,全球治理倡议正逢其时",
+      "link": "http://baijiahao.baidu.com/s?id=1842322771523436903&wfr=spider&for=pc",
+      "time": "9月4日 16:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国际社会的治理机制短板显现,中方提出全球治理新倡议",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4458921647693455985",
+      "time": "9月3日 11:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "“全球治理倡议”展现中国担当",
+      "link": "http://www.cnr.cn/newscenter/native/gd/20250902/t20250902_527350317.shtml",
+      "time": "9月2日 23:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "全球治理倡议，习近平主席这样阐释学习新语",
+      "link": "http://weibo.com/3991453297/Q2Fhqa3UA",
+      "time": "9月2日 09:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "外交部发布《全球治理倡议概念文件》",
+      "link": "http://finance.sina.cn/7x24/2025-09-01/detail-infnzmit8979326.d.html",
+      "time": "9月1日 23:55",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "国际人士热议全球治理倡议",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "中国四大倡议出击 破解全球乱局 再造安全、公平与发展新规则",
+      "event_id": "event_1",
+      "event_url": "http://news.sohu.com/a/932410001_121142129",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:29:43",
+      "event_time": "9月6日 12:15"
+    },
+    {
+      "event_title": "普京:此次中国之行成果积极,全球治理倡议正逢其时",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842322771523436903&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:30:00",
+      "event_time": "9月4日 16:49"
+    },
+    {
+      "event_title": "国际社会的治理机制短板显现,中方提出全球治理新倡议",
+      "event_id": "event_3",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4458921647693455985",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:30:02",
+      "event_time": "9月3日 11:10"
+    },
+    {
+      "event_title": "“全球治理倡议”展现中国担当",
+      "event_id": "event_4",
+      "event_url": "http://www.cnr.cn/newscenter/native/gd/20250902/t20250902_527350317.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:30:04",
+      "event_time": "9月2日 23:32"
+    },
+    {
+      "event_title": "全球治理倡议，习近平主席这样阐释学习新语",
+      "event_id": "event_5",
+      "event_url": "http://weibo.com/3991453297/Q2Fhqa3UA",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:30:06",
+      "event_time": "9月2日 09:00"
+    },
+    {
+      "event_title": "外交部发布《全球治理倡议概念文件》",
+      "event_id": "event_6",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-01/detail-infnzmit8979326.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:30:08",
+      "event_time": "9月1日 23:55"
+    },
+    {
+      "event_title": "国际人士热议全球治理倡议",
+      "event_id": "event_7",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:30:10",
+      "event_time": "1970年"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 7,
+    "total_comments": 7,
+    "events_with_comments": 7,
+    "level1_scrape_time": "2025-09-12 14:29:41",
+    "level2_scrape_time": "2025-09-12 14:30:10"
+  }
+}

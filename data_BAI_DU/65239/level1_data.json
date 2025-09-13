@@ -1,0 +1,100 @@
+{
+  "core_info": {
+    "core_event_name": "詹姆斯球迷追星事件",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 20:49:19"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "NBA球星排队来到中国，运动大牌瞄准“10后”",
+      "link": "http://baijiahao.baidu.com/s?id=1842844269429311182&wfr=spider&for=pc",
+      "time": "9月10日 10:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "耐克官方分享暖心球迷故事 聚光灯之外:詹姆斯中国行",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-09/doc-infpwkss0565993.shtml",
+      "time": "9月9日 12:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "詹姆斯:我很感谢那些一直支持我的球迷 希望他们能继续陪伴我",
+      "link": "http://www.163.com/dy/article/K8RV0HUB0529AQIE.html",
+      "time": "9月7日 13:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "冲詹姆斯喊“Who’s Your Daddy” 球迷表示自己喊完就被保镖带走",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-06/doc-infpppfk1550417.shtml",
+      "time": "9月6日 11:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "詹姆斯:中国球迷热情“不可思议” 愿激励下一代球员成长",
+      "link": "http://cj.sina.com.cn/articles/view/1699432410/654b47da02001k46s",
+      "time": "9月6日 10:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "詹姆斯:在上海看到孩子们穿我的球鞋打球 我从小就梦想有签名鞋",
+      "link": "http://baijiahao.baidu.com/s?id=1842467378115928446&wfr=spider&for=pc",
+      "time": "9月6日 07:08",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "老詹球迷疯狂追星，被詹姆斯保镖当街爆粗驱赶",
+      "link": "http://weibo.com/7855589411/Q3a6xeRcF",
+      "time": "9月5日 15:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "詹姆斯飞抵成都，大量球迷在机场外和酒店外坚定守候",
+      "link": "http://sports.sina.com.cn/basketball/nba/2025-09-05/doc-infpkhuw3026997.shtml",
+      "time": "9月5日 01:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "詹姆斯离开交大时，大批球迷追车，交警不断鸣哨阻止",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_3989508861986849409",
+      "time": "9月4日 19:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "詹姆斯交大行盛况:朱俊龙到场球迷喊GOAT 库里粉丝带头追车交警鸣哨",
+      "link": "http://cj.sina.com.cn/articles/view/7880068820/1d5b04ed402001dd2y",
+      "time": "9月4日 17:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "球迷在机场出口沿街追逐詹姆斯所乘车辆 部分冲击者被保安阻拦",
+      "link": "http://baijiahao.baidu.com/s?id=1842204267692372781&wfr=spider&for=pc",
+      "time": "9月3日 09:24",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 11,
+  "scrape_time": "2025-09-12 20:49:34"
+}

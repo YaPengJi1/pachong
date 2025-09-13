@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "险资系私募基金重仓ETF结构调整",
+    "update_time": "更新至20250911",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:53:26"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "险资上半年ETF持仓突破2800亿元",
+      "link": "http://baijiahao.baidu.com/s?id=1842955378244520104&wfr=spider&for=pc",
+      "time": "昨天 16:13",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "青睐红利股!千亿元险资私募基金持仓曝光",
+      "link": "http://baijiahao.baidu.com/s?id=1842346192353992638&wfr=spider&for=pc",
+      "time": "9月4日 23:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "险资系证券私募,持仓曝光",
+      "link": "http://finance.sina.com.cn/jjxw/2025-09-03/doc-infpewan4547127.shtml",
+      "time": "9月3日 12:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "2688亿元!险资重仓ETF结构调整",
+      "link": "http://finance.sina.cn/fund/jjgdxw/2025-09-02/detail-infpccte0120378.d.html?mon=$(mon)",
+      "time": "9月2日 19:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "险资系私募基金买了这些票股",
+      "link": "http://finance.sina.com.cn/stock/zqgd/2025-09-02/doc-infpatck0245647.shtml",
+      "time": "9月2日 14:48",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-12 14:53:40"
+}

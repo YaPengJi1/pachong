@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "中国女排1-3法国队",
+    "update_time": "更新至20250901",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:05:31"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "中国女排不敌法国队无缘世锦赛八强，世界排名也从第四掉到第七",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5527047501311426809",
+      "time": "9月1日 18:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "中国女排1-3法国创尴尬纪录",
+      "link": "http://www.163.com/dy/article/K8CA6TI50556D68O.html",
+      "time": "9月1日 11:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国女排在世界杯女排决赛中战胜法国队",
+      "link": "http://sports.sina.com.cn/o/2025-08-31/doc-infnwexe3764555.shtml",
+      "time": "8月31日 14:52",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-13 02:05:45"
+}

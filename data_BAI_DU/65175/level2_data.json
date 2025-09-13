@@ -1,0 +1,46 @@
+{
+  "core_event_name": "中超积分榜最新情况",
+  "comments": [
+    {
+      "event_title": "中超争冠战胜局白热化:榜首易主,前4仅相差2分",
+      "event_id": "event_1",
+      "event_url": "http://www.sohu.com/a/930640597_121927239",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:41:35",
+      "event_time": "9月1日 10:44"
+    },
+    {
+      "event_title": "中超最新积分榜大揭秘:成都蓉城惊现50分,保级战愈发激烈",
+      "event_id": "event_2",
+      "event_url": "http://news.sohu.com/a/930349766_121953830",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:41:38",
+      "event_time": "8月31日 09:20"
+    },
+    {
+      "event_title": "中超积分榜:争冠又乱了",
+      "event_id": "event_3",
+      "event_url": "http://k.sina.cn/article_2834321443_a8f0502300101m8um.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:41:40",
+      "event_time": "8月30日 22:08"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 19:41:40"
+}

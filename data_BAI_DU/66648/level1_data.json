@@ -1,0 +1,68 @@
+{
+  "core_info": {
+    "core_event_name": "“红月亮”即将登场",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:29:50"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "8日凌晨将出现“红月亮”奇观",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9977442714852401318",
+      "time": "9月8日 16:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "“红月亮”刷屏朋友圈,央视晒全国多地月全食高清大图",
+      "link": "http://baijiahao.baidu.com/s?id=1842654090599403775&wfr=spider&for=pc",
+      "time": "9月8日 08:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "“红月亮”即将登场 我国全境可见 全食阶段持续约82分钟",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=12375590248755157521",
+      "time": "9月7日 22:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "今晚再现“红月亮”,错过等三年!专家:俗称“血月”易引误解,系月全食",
+      "link": "http://baijiahao.baidu.com/s?id=1842603975446785694&wfr=spider&for=pc",
+      "time": "9月7日 19:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "罕见!红月亮将至,今晚至8日凌晨请抬头看看夜空",
+      "link": "http://news.dayoo.com/gzrbrmt/202509/07/170614_54869769.htm",
+      "time": "9月7日 17:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "“红月亮”即将登场!今晚记得抬头看",
+      "link": "http://baijiahao.baidu.com/s?id=1842609106071603834&wfr=spider&for=pc",
+      "time": "9月7日 14:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "“红月亮”现身",
+      "link": "http://news.sina.cn/zt_d/subject-1757165371",
+      "time": "9月7日 00:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 7,
+  "scrape_time": "2025-09-12 10:30:05"
+}

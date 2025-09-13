@@ -1,0 +1,92 @@
+{
+  "core_info": {
+    "core_event_name": "U23亚洲杯中国男足险胜东帝汶",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:20:08"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "媒体人深度解读东帝汶U22逆袭之路",
+      "link": "http://www.sohu.com/a/932011615_121179537",
+      "time": "9月5日 07:30",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "国足U22险胜东帝汶的原因，豁然开朗",
+      "link": "http://www.sohu.com/a/932000767_122237484",
+      "time": "9月5日 06:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "中国U22国家队提前出局",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4572350067323605493",
+      "time": "9月4日 14:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "U22国足2-1险胜东帝汶",
+      "link": "http://baijiahao.baidu.com/s?id=1842285152940565968&wfr=spider&for=pc",
+      "time": "9月4日 06:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "U23亚洲杯预选赛，中国队首战击败东帝汶队",
+      "link": "http://cj.sina.com.cn/articles/view/1699432410/654b47da02001k2he",
+      "time": "9月3日 23:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "U23亚洲杯中国男足2-1东帝汶 最后5分钟 国足狂轰乱炸 疯狂围攻",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7757536933312574782",
+      "time": "9月3日 21:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "U22国足2-1击败东帝汶队",
+      "link": "http://baijiahao.baidu.com/s?id=1842251138743810917&wfr=spider&for=pc",
+      "time": "9月3日 21:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "U22男足亚预赛首战对阵东帝汶，面临关键问题是磨合时间短",
+      "link": "http://baijiahao.baidu.com/s?id=1842213571328181266&wfr=spider&for=pc",
+      "time": "9月3日 11:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "中国U22男足名单调整",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_5183046016955028477",
+      "time": "9月3日 09:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "U22国足战东帝汶：不仅要赢，还要完成这四大任务",
+      "link": "http://www.163.com/dy/article/K8H3DLEQ0556DLXG.html",
+      "time": "9月3日 08:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 10,
+  "scrape_time": "2025-09-12 18:20:22"
+}

@@ -1,0 +1,52 @@
+{
+  "core_info": {
+    "core_event_name": "羽毛球世锦赛收官",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:07:45"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "巴黎羽毛球世锦赛多人取得历史性突破",
+      "link": "http://www.titan24.com/publish/app/data/2025/09/05/568042/os_news.html",
+      "time": "9月5日 15:51",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "羽毛球世锦赛收官，国羽获2金3银，石宇奇圆梦男单冠军",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6113254054573001791",
+      "time": "9月4日 19:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "羽毛球世锦赛落幕!国羽5项决赛夺2金",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7118785460588852245",
+      "time": "9月4日 16:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "羽毛球世锦赛收官 国羽收获2金3银",
+      "link": "http://tv.cctv.com/2025/09/01/VIDEIfi54k0lep6fS1S33Gx9250901.shtml",
+      "time": "9月1日 21:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "羽毛球世锦赛大结局，中国2冠3亚成最大赢家，石宇奇圆梦",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=10471007807100971781",
+      "time": "9月1日 15:49",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 5,
+  "scrape_time": "2025-09-13 02:07:59"
+}

@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 22:25:20"
+  },
+  "core_event": {
+    "core_event_name": "广东男篮新赛季阵容确定",
+    "update_time": "更新至20250903",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:24:57"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "广东全运会阵容确定，辽宁签21+11新星，上海接触欧锦赛28分外援",
+      "link": "http://www.163.com/dy/article/K8I19MMM05528SBU.html",
+      "time": "9月3日 17:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "广东男篮注册球员更新",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15176679770360450404",
+      "time": "8月31日 21:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "广东男篮更新注册名单，核心阵容清晰",
+      "link": "http://k.sina.com.cn/article_1340604587_4fe800ab001016ec6.html",
+      "time": "8月31日 15:30",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "广东全运会阵容确定，辽宁签21+11新星，上海接触欧锦赛28分外援",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8I19MMM05528SBU.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:25:12",
+      "event_time": "9月3日 17:04"
+    },
+    {
+      "event_title": "广东男篮注册球员更新",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=15176679770360450404",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:25:14",
+      "event_time": "8月31日 21:00"
+    },
+    {
+      "event_title": "广东男篮更新注册名单，核心阵容清晰",
+      "event_id": "event_3",
+      "event_url": "http://k.sina.com.cn/article_1340604587_4fe800ab001016ec6.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:25:16",
+      "event_time": "8月31日 15:30"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 3,
+    "total_comments": 3,
+    "events_with_comments": 3,
+    "level1_scrape_time": "2025-09-12 22:25:11",
+    "level2_scrape_time": "2025-09-12 22:25:16"
+  }
+}

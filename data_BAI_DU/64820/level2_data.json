@@ -1,0 +1,59 @@
+{
+  "core_event_name": "河南局部暴雨",
+  "comments": [
+    {
+      "event_title": "河南这些地区中到大雨!局部暴雨!警惕防范",
+      "event_id": "event_1",
+      "event_url": "http://m.gmw.cn/2025-09/05/content_1304136422.htm",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:27:47",
+      "event_time": "9月5日 15:53"
+    },
+    {
+      "event_title": "局部暴雨伴强对流 早晚20℃上下!河南阴雨在线 秋凉渐浓",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8M4Q02A0550B6IS.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:27:49",
+      "event_time": "9月5日 07:19"
+    },
+    {
+      "event_title": "河南23个预警信号生效中",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842313489055006457&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:28:06",
+      "event_time": "9月4日 14:22"
+    },
+    {
+      "event_title": "河南多地有中到大雨、局部暴雨等强对流天气",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8JL06DV0556DUEU.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 17:28:08",
+      "event_time": "9月4日 08:04"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 17:28:08"
+}

@@ -1,0 +1,72 @@
+{
+  "core_event_name": "九三阅兵空中梯队亮相",
+  "comments": [
+    {
+      "event_title": "九三阅兵空中梯队实现多个“首次”",
+      "event_id": "event_1",
+      "event_url": "http://www.cnr.cn/newscenter/native/gd/20250906/t20250906_527352600.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:35",
+      "event_time": "9月6日 08:46"
+    },
+    {
+      "event_title": "九三阅兵空军空中梯队火爆外网,法国网友:太炫酷了!",
+      "event_id": "event_2",
+      "event_url": "http://www.bilibili.com/video/BV1qoaszAE9A",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:37",
+      "event_time": "9月5日 09:43"
+    },
+    {
+      "event_title": "空中护旗梯队拉开分列式序幕",
+      "event_id": "event_3",
+      "event_url": "http://v.cctv.com/2025/09/03/VIDETIVbcHSHcWOKliNEbu6t250903.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:39",
+      "event_time": "9月3日 10:54"
+    },
+    {
+      "event_title": "歼-35A亮相吗?歼-20有啥变化?申进科谈阅兵空中梯队",
+      "event_id": "event_4",
+      "event_url": "http://www.163.com/dy/article/K8FFJK4P05129QAF.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:41",
+      "event_time": "9月2日 17:13"
+    },
+    {
+      "event_title": "新型装备亮相!九三阅兵将实现多个“首次”",
+      "event_id": "event_5",
+      "event_url": "http://m.thepaper.cn/newsDetail_forward_31535689",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:39:44",
+      "event_time": "9月2日 15:19"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 14:39:44"
+}

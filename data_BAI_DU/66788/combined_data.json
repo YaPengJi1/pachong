@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 11:06:47"
+  },
+  "core_event": {
+    "core_event_name": "广东遭受台风“塔巴”大暴雨",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 11:05:55"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "台风“塔巴”今天登陆广东台山 “塔巴”向西北移动 广西将有强风雨",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEn8lX0V0je8zNLAbDwPXc250908.shtml",
+      "time": "9月8日 20:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "台风“塔巴”今日将登陆广东 华南沿海暴雨大暴雨来袭",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=14424511944033477801",
+      "time": "9月8日 06:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "今年第16号台风“塔巴”今日将登陆广东",
+      "link": "http://tv.cctv.com/2025/09/08/VIDEiofSsDOokCXYuALbJ2vj250908.shtml",
+      "time": "9月8日 05:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "台风塔巴在江门台山沿海登陆 广东局部有特大暴雨",
+      "link": "http://v.qq.com/x/page/k1226m7c6q5.html",
+      "time": "9月8日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "台风“塔巴”逼近 今年第16号台风“塔巴”将于明天登陆广东",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEssTVqbZpswFG2hTd1HfX250907.shtml",
+      "time": "9月7日 21:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "台风“塔巴”携风雨直扑广东,港澳今晚同发8号风球",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=1323291226040159744",
+      "time": "9月7日 18:14",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "广东68个台风预警信号生效中,琼州海峡航线全线停运",
+      "link": "http://baijiahao.baidu.com/s?id=1842575799192248692&wfr=spider&for=pc",
+      "time": "9月7日 11:53",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "台风“塔巴”带来大暴雨",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8578834857346988910",
+      "time": "9月7日 08:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "今年第16号台风“塔巴”生成 或将8日登陆广东沿海一带",
+      "link": "http://www.cnr.cn/newscenter/native/gd/kx/20250906/t20250906_527353114.shtml",
+      "time": "9月6日 23:13",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "台风“塔巴”今天登陆广东台山 “塔巴”向西北移动 广西将有强风雨",
+      "event_id": "event_1",
+      "event_url": "http://tv.cctv.com/2025/09/08/VIDEn8lX0V0je8zNLAbDwPXc250908.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:06:11",
+      "event_time": "9月8日 20:40"
+    },
+    {
+      "event_title": "台风“塔巴”今日将登陆广东 华南沿海暴雨大暴雨来袭",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=14424511944033477801",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:06:13",
+      "event_time": "9月8日 06:31"
+    },
+    {
+      "event_title": "今年第16号台风“塔巴”今日将登陆广东",
+      "event_id": "event_3",
+      "event_url": "http://tv.cctv.com/2025/09/08/VIDEiofSsDOokCXYuALbJ2vj250908.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:06:15",
+      "event_time": "9月8日 05:34"
+    },
+    {
+      "event_title": "台风塔巴在江门台山沿海登陆 广东局部有特大暴雨",
+      "event_id": "event_4",
+      "event_url": "http://v.qq.com/x/page/k1226m7c6q5.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:06:17",
+      "event_time": "9月8日 00:00"
+    },
+    {
+      "event_title": "台风“塔巴”逼近 今年第16号台风“塔巴”将于明天登陆广东",
+      "event_id": "event_5",
+      "event_url": "http://tv.cctv.com/2025/09/07/VIDEssTVqbZpswFG2hTd1HfX250907.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:06:19",
+      "event_time": "9月7日 21:05"
+    },
+    {
+      "event_title": "台风“塔巴”携风雨直扑广东,港澳今晚同发8号风球",
+      "event_id": "event_6",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=1323291226040159744",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:06:21",
+      "event_time": "9月7日 18:14"
+    },
+    {
+      "event_title": "广东68个台风预警信号生效中,琼州海峡航线全线停运",
+      "event_id": "event_7",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842575799192248692&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "气质女神plus",
+      "comment_time": "09-07 12:01",
+      "comment_content": "台风要来了，大家注意安全少出门。提前防范风雨，保护好自己。",
+      "user_location": "陕西",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:06:38",
+      "event_time": "9月7日 11:53"
+    },
+    {
+      "event_title": "台风“塔巴”带来大暴雨",
+      "event_id": "event_8",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8578834857346988910",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:06:40",
+      "event_time": "9月7日 08:40"
+    },
+    {
+      "event_title": "今年第16号台风“塔巴”生成 或将8日登陆广东沿海一带",
+      "event_id": "event_9",
+      "event_url": "http://www.cnr.cn/newscenter/native/gd/kx/20250906/t20250906_527353114.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 11:06:42",
+      "event_time": "9月6日 23:13"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 9,
+    "total_comments": 9,
+    "events_with_comments": 9,
+    "level1_scrape_time": "2025-09-12 11:06:10",
+    "level2_scrape_time": "2025-09-12 11:06:42"
+  }
+}

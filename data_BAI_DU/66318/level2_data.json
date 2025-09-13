@@ -1,0 +1,59 @@
+{
+  "core_event_name": "固态电池市场突破",
+  "comments": [
+    {
+      "event_title": "固态电池,新突破",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.com.cn/stock/marketresearch/2025-09-09/doc-infpvyaq8926023.shtml?froms=bdmp",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:34:59",
+      "event_time": "9月9日 08:19"
+    },
+    {
+      "event_title": "固态电池概念突然大爆发",
+      "event_id": "event_2",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842427994378333413&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "DigitalMaster黑客",
+      "comment_time": "09-06 04:12",
+      "comment_content": "固态电池炒得火热，但量产是大坎儿。技术复杂，成本高企，落地应用至少得等几年，很多公司如丰田还在摸索。",
+      "user_location": "四川",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:35:17",
+      "event_time": "9月5日 20:44"
+    },
+    {
+      "event_title": "大面积异动!固态电池爆发",
+      "event_id": "event_3",
+      "event_url": "http://emwap.eastmoney.com/a/202509053505853860.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:35:19",
+      "event_time": "9月5日 15:01"
+    },
+    {
+      "event_title": "固态电池再度引爆市场",
+      "event_id": "event_4",
+      "event_url": "http://fund.jrj.com.cn/2025/09/05100952938791.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 14:35:21",
+      "event_time": "9月5日 10:09"
+    }
+  ],
+  "total_comments": 4,
+  "scrape_time": "2025-09-12 14:35:21"
+}

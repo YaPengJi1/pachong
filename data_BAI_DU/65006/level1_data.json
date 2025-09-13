@@ -1,0 +1,132 @@
+{
+  "core_info": {
+    "core_event_name": "京东热卖iPhone 16 Pro",
+    "update_time": "更新至20250909",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 16:51:11"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "京东热卖!苹果iPhone 16 512G直降500元",
+      "link": "http://mobile.zol.com.cn/1044/10444229.html",
+      "time": "9月9日 22:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "Apple iPhone 16 Pro 天猫促销直降900元",
+      "link": "http://mobile.zol.com.cn/1042/10421930.html",
+      "time": "9月7日 14:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "苹果iPhone 16 Plus 5G手机128GB黑色仅2735元",
+      "link": "http://mobile.zol.com.cn/1042/10420108.html",
+      "time": "9月7日 09:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "京东苹果iPhone 16 128G粉色款直降",
+      "link": "http://mobile.zol.com.cn/1041/10419155.html",
+      "time": "9月6日 14:44",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "京东苹果iPhone 16 Plus 128G直降500元",
+      "link": "http://mobile.zol.com.cn/1041/10416847.html",
+      "time": "9月5日 18:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "128/256G iPhone必备:苹果官方iCloud+至高立省81.6元 全家用",
+      "link": "http://news.mydrivers.com/1/1072/1072759.htm",
+      "time": "9月5日 16:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "iPhone 17 Pro版本惊艳曝光",
+      "link": "http://mobile.zol.com.cn/1041/10414100.html",
+      "time": "9月5日 09:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "京东热卖iPhone 16 Pro 256G直降500",
+      "link": "http://mobile.zol.com.cn/1041/10413736.html",
+      "time": "9月5日 03:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "Apple iPhone 16e 256GB白色手机特价来袭",
+      "link": "http://mobile.zol.com.cn/1041/10413470.html",
+      "time": "9月4日 18:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "iPhone 17 Pro全新消息曝光，iPhone 16现白菜价，果粉直呼按“打”买",
+      "link": "http://mobile.zol.com.cn/1041/10411097_all.html",
+      "time": "9月4日 10:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "曝苹果iPhone 16国内销量突破3300万",
+      "link": "http://app.myzaker.com/news/article.php?m=1756933421&pk=68b8385b8e9f095d4258f43f",
+      "time": "9月3日 19:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "京东PLUS获得iPhone优先选购权",
+      "link": "http://www.donews.com/news/detail/4/6043082.html",
+      "time": "9月2日 11:19",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "京东热卖苹果iPhone 16 Pro Max,低至5849元",
+      "link": "http://mobile.zol.com.cn/1040/10403143_all.html",
+      "time": "9月1日 19:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "京东苹果iPhone 16 128G白色款直降500",
+      "link": "http://mobile.zol.com.cn/1038/10385553.html",
+      "time": "8月31日 09:43",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "全新iPhone 16 Pro钛金属白亮相,轻薄机身,质感出众,日常使用更显高端。",
+      "link": "http://www.bilibili.com/video/BV1MHhYzKEEr",
+      "time": "8月30日 12:17",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 15,
+  "scrape_time": "2025-09-12 16:51:25"
+}

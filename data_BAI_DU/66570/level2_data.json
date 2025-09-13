@@ -1,0 +1,46 @@
+{
+  "core_event_name": "美联储降息概率波动",
+  "comments": [
+    {
+      "event_title": "美联储9月降息概率59.8%",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=5667892409008418523",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:17:11",
+      "event_time": "9月6日 23:34"
+    },
+    {
+      "event_title": "非农公布前:美联储9月降息概率97.3%",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-05/detail-infpmzcy5750280.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:17:13",
+      "event_time": "9月5日 20:16"
+    },
+    {
+      "event_title": "美国就业数据公布后，美联储9月降息概率再度升温",
+      "event_id": "event_3",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1756949471&pk=68b8e5c38e9f09244b13e162",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 12:17:15",
+      "event_time": "9月4日 09:03"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-12 12:17:15"
+}

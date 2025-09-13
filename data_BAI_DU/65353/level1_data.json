@@ -1,0 +1,156 @@
+{
+  "core_info": {
+    "core_event_name": "赛力斯股价大跌5.28%",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:40:08"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "赛力斯股价跌5.28%,信达澳亚基金旗下3只基金重仓,合计持有506.53万股浮亏损失3966.15万元",
+      "link": "http://baijiahao.baidu.com/s?id=1842387316310514282&wfr=spider&for=pc",
+      "time": "9月5日 09:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "赛力斯股价跌5.28%,广发基金旗下23只基金重仓,合计持有2216.86万股浮亏损失1.74亿元",
+      "link": "http://baijiahao.baidu.com/s?id=1842387315684148133&wfr=spider&for=pc",
+      "time": "9月5日 09:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "赛力斯股价跌5.28%,诺德基金旗下1只基金重仓,持有6.67万股浮亏损失52.22万元",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmcyp0957777.d.html",
+      "time": "9月5日 09:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "赛力斯股价跌5.28%,宏利基金旗下1只基金重仓,持有7.85万股浮亏损失61.47万元",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmcyk6021477.d.html",
+      "time": "9月5日 09:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "赛力斯股价跌5.28%,东方基金旗下1只基金重仓,持有1.88万股浮亏损失14.72万元",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmcyk6021460.d.html",
+      "time": "9月5日 09:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "赛力斯股价跌5.28%,国联基金旗下1只基金重仓,持有1.62万股浮亏损失12.68万元",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmcyp0957720.d.html",
+      "time": "9月5日 09:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "赛力斯股价跌5.28%,平安基金旗下1只基金重仓,持有38.42万股浮亏损失300.83万元",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmcyp0957710.d.html",
+      "time": "9月5日 09:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "赛力斯股价跌5.28%,中欧基金旗下3只基金重仓,合计持有57.95万股浮亏损失453.74万元",
+      "link": "http://baijiahao.baidu.com/s?id=1842387302894298824&wfr=spider&for=pc",
+      "time": "9月5日 09:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "赛力斯股价跌5.28%,海富通基金旗下7只基金重仓,合计持有195.65万股浮亏损失1531.94万元",
+      "link": "http://baijiahao.baidu.com/s?id=1842387300329536887&wfr=spider&for=pc",
+      "time": "9月5日 09:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "赛力斯股价跌5.28%,达诚基金旗下2只基金重仓,合计持有2.1万股浮亏损失16.44万元",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmcyk6021368.d.html",
+      "time": "9月5日 09:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "赛力斯股价跌5.28%,鑫元基金旗下1只基金重仓,持有4.52万股浮亏损失35.39万元",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmcyk6021266.d.html",
+      "time": "9月5日 09:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "赛力斯股价跌5.28%,工银瑞信基金旗下2只基金重仓,合计持有75.46万股浮亏损失590.82万元",
+      "link": "http://baijiahao.baidu.com/s?id=1842387290003071681&wfr=spider&for=pc",
+      "time": "9月5日 09:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "赛力斯股价跌5.28%,农银汇理基金旗下1只基金重仓,持有112万股浮亏损失876.96万元",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmcyp0957548.d.html",
+      "time": "9月5日 09:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_14",
+      "title": "赛力斯股价跌5.28%,国泰基金旗下3只基金重仓,合计持有121.4万股浮亏损失950.56万元",
+      "link": "http://baijiahao.baidu.com/s?id=1842387288017851634&wfr=spider&for=pc",
+      "time": "9月5日 09:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_15",
+      "title": "赛力斯股价跌5.28%,大成基金旗下2只基金重仓,合计持有39.91万股浮亏损失312.51万元",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmcyp0957372.d.html",
+      "time": "9月5日 09:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_16",
+      "title": "赛力斯股价跌5.28%,创金合信基金旗下2只基金重仓,合计持有21.45万股浮亏损失167.95万元",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmcyk6021043.d.html",
+      "time": "9月5日 09:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_17",
+      "title": "赛力斯股价跌5.28%,招商基金旗下2只基金重仓,合计持有95.73万股浮亏损失749.57万元",
+      "link": "http://finance.sina.com.cn/money/fund/aiassistant/zcgyd/2025-09-05/doc-infpmcyk6021279.shtml",
+      "time": "9月5日 09:57",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_18",
+      "title": "赛力斯股价跌5.28%,中加基金旗下1只基金重仓,持有2600股浮亏损失2.04万元",
+      "link": "https://",
+      "time": "1970年",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 18,
+  "scrape_time": "2025-09-12 22:40:22"
+}

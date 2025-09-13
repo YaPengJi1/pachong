@@ -1,0 +1,235 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 02:18:24"
+  },
+  "core_event": {
+    "core_event_name": "vivo X300系列手机曝光",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:17:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "vivoX300系列影像预热 前置全系升级为50MP",
+      "link": "http://finance.sina.cn/2025-09-04/detail-infpiwfa3247368.d.html",
+      "time": "9月4日 20:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "vivo X300系列预热：首次标准版升级 5000万蔡司 APO 潜望长焦",
+      "link": "http://weibo.com/1642632024/Q2ZQ41jmM",
+      "time": "9月4日 13:21",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "vivo X300 Pro影像细节公布",
+      "link": "http://m.techweb.com.cn/article/2025-09-04/2965401.shtml",
+      "time": "9月4日 10:47",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "vivo X3000系列手机曝光",
+      "link": "http://baijiahao.baidu.com/s?id=1842239469576152100&wfr=spider&for=pc",
+      "time": "9月3日 18:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "vivo X300系列被定义为同档最豪华的影像手机?",
+      "link": "http://www.163.com/dy/article/K8I52ML40530RMN7.html",
+      "time": "9月3日 18:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "vivo X300 Pro卫星通信版入网",
+      "link": "http://app.myzaker.com/news/article.php?m=1756872989&pk=68b7a72c8e9f090a416739f4",
+      "time": "9月3日 10:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "OriginOS 6 系统 UI 细节设计首曝",
+      "link": "http://finance.sina.cn/tech/2025-09-02/detail-infpatck8875418.d.html",
+      "time": "9月2日 14:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "vivo X300 Pro确认将搭载2亿HPB长焦",
+      "link": "http://www.163.com/dy/article/K8F24R3B055616Z4.html",
+      "time": "9月2日 13:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "全新vivo曝光",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=4278532858292652910",
+      "time": "9月2日 02:49",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "vivo X300官宣",
+      "link": "http://www.163.com/dy/article/K8DH3DO40511CQ7I.html",
+      "time": "9月1日 23:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "vivoX300系列影像预热 前置全系升级为50MP",
+      "event_id": "event_1",
+      "event_url": "http://finance.sina.cn/2025-09-04/detail-infpiwfa3247368.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:17:47",
+      "event_time": "9月4日 20:47"
+    },
+    {
+      "event_title": "vivo X300系列预热：首次标准版升级 5000万蔡司 APO 潜望长焦",
+      "event_id": "event_2",
+      "event_url": "http://weibo.com/1642632024/Q2ZQ41jmM",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:17:49",
+      "event_time": "9月4日 13:21"
+    },
+    {
+      "event_title": "vivo X300 Pro影像细节公布",
+      "event_id": "event_3",
+      "event_url": "http://m.techweb.com.cn/article/2025-09-04/2965401.shtml",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:17:51",
+      "event_time": "9月4日 10:47"
+    },
+    {
+      "event_title": "vivo X3000系列手机曝光",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842239469576152100&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "热爱电竞的王源",
+      "comment_time": "09-04 07:36",
+      "comment_content": "作者很用心哦，加油！",
+      "user_location": "湖北",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:18:07",
+      "event_time": "9月3日 18:45"
+    },
+    {
+      "event_title": "vivo X300系列被定义为同档最豪华的影像手机?",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8I52ML40530RMN7.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:18:09",
+      "event_time": "9月3日 18:06"
+    },
+    {
+      "event_title": "vivo X300 Pro卫星通信版入网",
+      "event_id": "event_6",
+      "event_url": "http://app.myzaker.com/news/article.php?m=1756872989&pk=68b7a72c8e9f090a416739f4",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:18:11",
+      "event_time": "9月3日 10:22"
+    },
+    {
+      "event_title": "OriginOS 6 系统 UI 细节设计首曝",
+      "event_id": "event_7",
+      "event_url": "http://finance.sina.cn/tech/2025-09-02/detail-infpatck8875418.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:18:13",
+      "event_time": "9月2日 14:52"
+    },
+    {
+      "event_title": "vivo X300 Pro确认将搭载2亿HPB长焦",
+      "event_id": "event_8",
+      "event_url": "http://www.163.com/dy/article/K8F24R3B055616Z4.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:18:15",
+      "event_time": "9月2日 13:17"
+    },
+    {
+      "event_title": "全新vivo曝光",
+      "event_id": "event_9",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=4278532858292652910",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:18:17",
+      "event_time": "9月2日 02:49"
+    },
+    {
+      "event_title": "vivo X300官宣",
+      "event_id": "event_10",
+      "event_url": "http://www.163.com/dy/article/K8DH3DO40511CQ7I.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 02:18:19",
+      "event_time": "9月1日 23:00"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 10,
+    "total_comments": 10,
+    "events_with_comments": 10,
+    "level1_scrape_time": "2025-09-13 02:17:46",
+    "level2_scrape_time": "2025-09-13 02:18:19"
+  }
+}

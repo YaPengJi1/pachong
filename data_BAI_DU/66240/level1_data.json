@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "张亮麻辣烫退出张亮直接股东",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 15:01:50"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "张亮麻辣烫没有“张亮” 或为上市做准备",
+      "link": "http://finance.eastmoney.com/a/202509083507549937.html",
+      "time": "9月8日 15:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "张亮麻辣烫重组架构,张亮通过香港公司间接控制",
+      "link": "http://finance.sina.com.cn/stock/stockzmt/2025-09-05/doc-infpmkhh5985801.shtml",
+      "time": "9月5日 13:31",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "张亮退出张亮麻辣烫直接股东",
+      "link": "http://finance.sina.cn/2025-09-05/detail-infpmcyr7885991.d.html",
+      "time": "9月5日 10:00",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 15:02:05"
+}

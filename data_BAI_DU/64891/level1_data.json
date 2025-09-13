@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "辛巴退网事件",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:35:23"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "曝辛巴被带走调查",
+      "link": "http://baijiahao.baidu.com/s?id=1842419102432932348&wfr=spider&for=pc",
+      "time": "9月5日 18:22",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "辛巴「带病退网」,老婆救场带货20亿",
+      "link": "http://cj.sina.com.cn/articles/view/7502880618/1bf34df6a020018hfk",
+      "time": "9月3日 08:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "辛巴退网变“电话操控”，初瑞雪崩溃：你再打我就下播",
+      "link": "http://baijiahao.baidu.com/s?id=1841887892844770566&wfr=spider&for=pc",
+      "time": "8月30日 21:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "辛巴妻子接手账号首播4小时销售额达10亿",
+      "link": "http://baijiahao.baidu.com/s?id=1841840360106717230&wfr=spider&for=pc",
+      "time": "8月30日 09:04",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 18:35:38"
+}

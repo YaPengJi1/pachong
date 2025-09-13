@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "亚马尔单挑保加利亚全队",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:52:44"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "西班牙3-0保加利亚",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=15056924069167573530",
+      "time": "9月5日 06:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "亚马尔单挑保加利亚全队!5射3正7次过人助西班牙完胜",
+      "link": "http://www.sohu.com/a/931996216_122066679",
+      "time": "9月5日 05:41",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "世预赛-西班牙3-0客胜保加利亚 梅里诺库库雷利亚破门亚马尔助攻",
+      "link": "http://baijiahao.baidu.com/s?id=1842371455346898096&wfr=spider&for=pc",
+      "time": "9月5日 04:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "保加利亚主帅:亚马尔未来不可限量",
+      "link": "http://m.dongqiudi.com/article/5350315.html",
+      "time": "9月2日 13:24",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 14:52:59"
+}

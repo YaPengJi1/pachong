@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-13 01:52:26"
+  },
+  "core_event": {
+    "core_event_name": "陈雨菲世锦赛遗憾出局",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:51:29"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "羽毛球世锦赛-陈雨菲带伤作战 惜败山口茜获亚军 憾失大满贯",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3733839057356338819",
+      "time": "9月5日 02:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "羽毛球世锦赛落幕!国羽5项决赛夺2金",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7118785460588852245",
+      "time": "9月4日 16:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "陈雨菲伤情出炉，将暂别赛场",
+      "link": "http://baijiahao.baidu.com/s?id=1842202920169472862&wfr=spider&for=pc",
+      "time": "9月3日 09:06",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "陈雨菲人民日报撰文:希望大家记住我们“决不放弃、永不认输”",
+      "link": "http://baijiahao.baidu.com/s?id=1842109581565142791&wfr=spider&for=pc",
+      "time": "9月2日 08:07",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "羽毛球世锦赛中国女单折戟，卫冕冠军惨遭淘汰",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8097782198259555088",
+      "time": "9月1日 12:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "陈雨菲3年前决赛负山口茜，个人大满贯只差世锦赛",
+      "link": "http://k.sina.com.cn/article_2018499075_784fda0302002h8jc.html",
+      "time": "8月30日 21:52",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "羽毛球世锦赛-陈雨菲带伤作战 惜败山口茜获亚军 憾失大满贯",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=3733839057356338819",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:51:44",
+      "event_time": "9月5日 02:36"
+    },
+    {
+      "event_title": "羽毛球世锦赛落幕!国羽5项决赛夺2金",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7118785460588852245",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:51:46",
+      "event_time": "9月4日 16:48"
+    },
+    {
+      "event_title": "陈雨菲伤情出炉，将暂别赛场",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842202920169472862&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "快手刷boss",
+      "comment_time": "09-03 09:13",
+      "comment_content": "陈雨菲带伤拼搏真坚韧，好好休养早日康复。等你归来再创佳绩。",
+      "user_location": "重庆",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:52:02",
+      "event_time": "9月3日 09:06"
+    },
+    {
+      "event_title": "陈雨菲人民日报撰文:希望大家记住我们“决不放弃、永不认输”",
+      "event_id": "event_4",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842109581565142791&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:52:18",
+      "event_time": "9月2日 08:07"
+    },
+    {
+      "event_title": "羽毛球世锦赛中国女单折戟，卫冕冠军惨遭淘汰",
+      "event_id": "event_5",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8097782198259555088",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:52:20",
+      "event_time": "9月1日 12:32"
+    },
+    {
+      "event_title": "陈雨菲3年前决赛负山口茜，个人大满贯只差世锦赛",
+      "event_id": "event_6",
+      "event_url": "http://k.sina.com.cn/article_2018499075_784fda0302002h8jc.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:52:22",
+      "event_time": "8月30日 21:52"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 6,
+    "total_comments": 6,
+    "events_with_comments": 6,
+    "level1_scrape_time": "2025-09-13 01:51:43",
+    "level2_scrape_time": "2025-09-13 01:52:22"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "core_info": {
+    "core_event_name": "江祖平性侵案",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:07:17"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "知名女星自曝被下药性侵并偷拍",
+      "link": "http://finance.sina.cn/2025-09-08/detail-infptzmr4765445.d.html",
+      "time": "9月8日 12:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "江祖平曝自己就是受害人!绿媒副总儿子下药性侵",
+      "link": "http://baijiahao.baidu.com/s?id=1842568699586453465&wfr=spider&for=pc",
+      "time": "9月7日 10:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "江祖平风波又扒出愤怒一幕:侵犯过程中不但被偷拍,男方还跟亲友视频",
+      "link": "http://www.163.com/dy/article/K8QLVSDM0556G922.html",
+      "time": "9月7日 01:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "47岁知名女星自曝遭25岁前男友下药性侵",
+      "link": "http://baijiahao.baidu.com/s?id=1842522027614080141&wfr=spider&for=pc",
+      "time": "9月6日 19:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "江祖平控诉被前男友下药性侵",
+      "link": "http://baijiahao.baidu.com/s?id=1842507899073116676&wfr=spider&for=pc",
+      "time": "9月6日 17:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "江祖平遭性侵事件后续",
+      "link": "http://cj.sina.com.cn/articles/view/1737018574/6788ccce0190159eq",
+      "time": "9月6日 17:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "警方介入调查江祖平遭性侵案",
+      "link": "http://baijiahao.baidu.com/s?id=1842504642495064498&wfr=spider&for=pc",
+      "time": "9月6日 17:02",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "江祖平遭性侵事件后续!女方被捂嘴,男方家中势力大无明星敢发声",
+      "link": "http://cj.sina.com.cn/articles/view/7879924010/1d5ae192a0200204gq",
+      "time": "9月6日 14:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "江祖平曝被电视台副总儿子性侵",
+      "link": "http://cj.sina.com.cn/articles/view/7879924010/1d5ae192a0200204em",
+      "time": "9月6日 13:11",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "江祖平控诉前男友性侵",
+      "link": "http://baijiahao.baidu.com/s?id=1842419324409358064&wfr=spider&for=pc",
+      "time": "9月5日 18:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "江祖平自曝被性侵细节",
+      "link": "http://cj.sina.com.cn/articles/view/1737018574/6788ccce01901598i",
+      "time": "9月5日 17:16",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_12",
+      "title": "江祖平承认被小22岁前男友性侵,案发过程曝光:遭尾随回家下迷药",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=5442521281650447640",
+      "time": "9月5日 16:15",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_13",
+      "title": "女星江祖平再爆料两位幕后女同事被骚扰",
+      "link": "http://cj.sina.com.cn/articles/view/7879924010/1d5ae192a0200202nw",
+      "time": "9月4日 15:53",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 13,
+  "scrape_time": "2025-09-13 00:07:31"
+}

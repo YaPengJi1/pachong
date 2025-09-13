@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "美联储理事库克被刑事调查",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:09:14"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "美联储理事库克遭刑事调查",
+      "link": "http://www.163.com/dy/article/K8PERKCI0514BQ68.html",
+      "time": "9月6日 14:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "美国司法部对美联储理事库克展开刑事调查 已发出传票",
+      "link": "http://cj.sina.com.cn/articles/view/1663309857/6324182102001alie",
+      "time": "9月5日 02:12",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "美司法部对美联储理事库克展开刑事调查",
+      "link": "http://baijiahao.baidu.com/s?id=1842345512006065468&wfr=spider&for=pc",
+      "time": "9月4日 22:51",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-13 00:09:29"
+}

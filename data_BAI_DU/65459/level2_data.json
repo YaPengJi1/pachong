@@ -1,0 +1,46 @@
+{
+  "core_event_name": "创业板指涨逾6%",
+  "comments": [
+    {
+      "event_title": "创业板大涨超6%",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=8750515370890431503",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:18:32",
+      "event_time": "9月5日 19:34"
+    },
+    {
+      "event_title": "创业板指涨幅扩大至6%",
+      "event_id": "event_2",
+      "event_url": "http://cj.sina.com.cn/articles/view/1702925432/65809478019016u2i",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:18:34",
+      "event_time": "9月5日 14:32"
+    },
+    {
+      "event_title": "创业板指涨逾6%",
+      "event_id": "event_3",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=9671709117352010201",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 00:18:36",
+      "event_time": "9月5日 14:28"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-13 00:18:36"
+}

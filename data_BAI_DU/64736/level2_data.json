@@ -1,0 +1,46 @@
+{
+  "core_event_name": "华为2025上半年财报",
+  "comments": [
+    {
+      "event_title": "华为果断放弃“高利润”,跌价5000元,三折叠屏售价再创新低",
+      "event_id": "event_1",
+      "event_url": "http://www.163.com/dy/article/K8FF8RML0553TAZH.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:46:46",
+      "event_time": "9月2日 17:07"
+    },
+    {
+      "event_title": "华为2025上半年财报:收入4270亿元 同比增长3.95%",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8CMPCMU055616YU.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:46:48",
+      "event_time": "9月1日 15:20"
+    },
+    {
+      "event_title": "华为上半年收入4270亿元，净利润371亿元",
+      "event_id": "event_3",
+      "event_url": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_4727184755149576768",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-13 01:46:50",
+      "event_time": "8月29日 16:27"
+    }
+  ],
+  "total_comments": 3,
+  "scrape_time": "2025-09-13 01:46:50"
+}

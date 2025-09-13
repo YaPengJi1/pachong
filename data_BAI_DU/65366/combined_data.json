@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 22:57:22"
+  },
+  "core_event": {
+    "core_event_name": "羽毛球世锦赛国羽夺五金",
+    "update_time": "更新至20250904",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 22:56:57"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "羽毛球世锦赛落幕，国羽5项决赛夺2金",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=7118785460588852245",
+      "time": "9月4日 16:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "世锦赛决赛国羽全力冲击5金，专家预测或将斩获3金",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=6545587231144099142",
+      "time": "9月3日 15:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国羽征战世锦赛表现亮眼",
+      "link": "http://www.163.com/dy/article/K8H80QQ30550TYQ0.html",
+      "time": "9月3日 09:39",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "羽毛球世锦赛决赛，国羽力争五金，预测夺三冠",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=16130127077905035521",
+      "time": "9月3日 09:01",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "羽毛球世锦赛落幕，国羽5项决赛夺2金",
+      "event_id": "event_1",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=7118785460588852245",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:57:12",
+      "event_time": "9月4日 16:48"
+    },
+    {
+      "event_title": "世锦赛决赛国羽全力冲击5金，专家预测或将斩获3金",
+      "event_id": "event_2",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=6545587231144099142",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:57:14",
+      "event_time": "9月3日 15:03"
+    },
+    {
+      "event_title": "国羽征战世锦赛表现亮眼",
+      "event_id": "event_3",
+      "event_url": "http://www.163.com/dy/article/K8H80QQ30550TYQ0.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:57:16",
+      "event_time": "9月3日 09:39"
+    },
+    {
+      "event_title": "羽毛球世锦赛决赛，国羽力争五金，预测夺三冠",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=16130127077905035521",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 22:57:18",
+      "event_time": "9月3日 09:01"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 4,
+    "total_comments": 4,
+    "events_with_comments": 4,
+    "level1_scrape_time": "2025-09-12 22:57:11",
+    "level2_scrape_time": "2025-09-12 22:57:18"
+  }
+}

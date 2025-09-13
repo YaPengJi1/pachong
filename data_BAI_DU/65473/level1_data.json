@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "创业板大涨超6%",
+    "update_time": "更新至20250905",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 00:31:39"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "创业板大涨超6%",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8750515370890431503",
+      "time": "9月5日 19:34",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "创业板指涨幅扩大至6%",
+      "link": "http://cj.sina.com.cn/articles/view/1702925432/65809478019016u2i",
+      "time": "9月5日 14:32",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "创业板指涨逾6%",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=9671709117352010201",
+      "time": "9月5日 14:28",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-13 00:31:54"
+}

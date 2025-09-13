@@ -1,0 +1,60 @@
+{
+  "core_info": {
+    "core_event_name": "华为麒麟芯片回归及新品发布",
+    "update_time": "更新至20250906",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:27:11"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "时隔四年,华为再次公布麒麟芯片",
+      "link": "http://m.thepaper.cn/newsDetail_forward_31546761",
+      "time": "9月6日 07:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "华为Mate XTs 非凡大师及全场景新品发布会召开",
+      "link": "http://baijiahao.baidu.com/s?id=1842420508070568523&wfr=spider&for=pc",
+      "time": "9月5日 17:24",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "时隔4 年!华为 Mate XTs 首次公开麒麟处理器型号",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=3946947165656421125",
+      "time": "9月5日 15:09",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "麒麟芯片时隔4年重现华为发布会",
+      "link": "http://baijiahao.baidu.com/s?id=1842328676978576373&wfr=spider&for=pc",
+      "time": "9月4日 18:25",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "华为公布芯片型号 代表国产芯片供应链已实现全链路自主可控",
+      "link": "http://baijiahao.baidu.com/s?id=1842318300048795851&wfr=spider&for=pc",
+      "time": "9月4日 15:38",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "华为发布会!余承东官宣麒麟9020",
+      "link": "http://app.myzaker.com/news/article.php?m=1756972510&pk=68b94470b15ec07bd16ab64b",
+      "time": "9月4日 14:47",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 6,
+  "scrape_time": "2025-09-12 18:27:25"
+}

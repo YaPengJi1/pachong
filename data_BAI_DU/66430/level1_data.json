@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "韩国人在美被拘事件",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 14:41:36"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "李在明就韩公民在美被拘事件作指示",
+      "link": "http://v.qq.com/x/page/m3170j32s6e.html",
+      "time": "9月8日 00:00",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "数百名韩国人在美国现代汽车工厂内被抓捕",
+      "link": "http://haokan.baidu.com/v?pd=wisenatural&vid=8206424327209088782",
+      "time": "9月7日 17:54",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "超300名韩国人在美被抓 盟友因何“翻脸”?",
+      "link": "http://baijiahao.baidu.com/s?id=1842563352186259259&wfr=spider&for=pc",
+      "time": "9月7日 08:33",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "300多名韩国人在美被捕 韩国政府紧急商讨对策",
+      "link": "http://tv.cctv.com/2025/09/07/VIDEUJIcb0XiPWQgzcEcvQVQ250907.shtml",
+      "time": "9月7日 07:22",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-12 14:41:51"
+}

@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "name": "百度事件评论爬虫",
+    "description": "爬取百度事件时间线页面及其子事件页面的评论数据",
+    "version": "2.0.0",
+    "create_time": "2025-09-12 18:39:55"
+  },
+  "core_event": {
+    "core_event_name": "景甜冯绍峰否认闪婚",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 18:39:12"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "景甜冯绍峰辟谣“闪婚”传闻",
+      "link": "http://new.qq.com/rain/a/20250907A03RXP00",
+      "time": "9月8日 19:45",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "冯绍峰景甜闪婚?双方最新回应",
+      "link": "http://www.163.com/dy/article/K8N0PIH805562NKW.html",
+      "time": "9月5日 15:28",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "冯绍峰否认与景甜闪婚",
+      "link": "http://baijiahao.baidu.com/s?id=1842394776053024369&wfr=spider&for=pc",
+      "time": "9月5日 11:56",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "冯绍峰景甜否认传闻,宣传新剧《灼灼风流》",
+      "link": "http://cj.sina.com.cn/articles/view/3103898980/pb901bd6402701dxja",
+      "time": "9月4日 09:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "37岁景甜与46岁冯绍峰被疯传已闪婚?景甜方澄清:她未婚单身",
+      "link": "http://www.163.com/dy/article/K8JNU1TR05565655.html",
+      "time": "9月4日 08:55",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "comments": [
+    {
+      "event_title": "景甜冯绍峰辟谣“闪婚”传闻",
+      "event_id": "event_1",
+      "event_url": "http://new.qq.com/rain/a/20250907A03RXP00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:39:27",
+      "event_time": "9月8日 19:45"
+    },
+    {
+      "event_title": "冯绍峰景甜闪婚?双方最新回应",
+      "event_id": "event_2",
+      "event_url": "http://www.163.com/dy/article/K8N0PIH805562NKW.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:39:29",
+      "event_time": "9月5日 15:28"
+    },
+    {
+      "event_title": "冯绍峰否认与景甜闪婚",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842394776053024369&wfr=spider&for=pc",
+      "comment_index": 1,
+      "user_id": "yveyou闲庭信步",
+      "comment_time": "09-05 18:08",
+      "comment_content": "都是皮囊在作怪",
+      "user_location": "辽宁",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:39:46",
+      "event_time": "9月5日 11:56"
+    },
+    {
+      "event_title": "冯绍峰否认与景甜闪婚",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842394776053024369&wfr=spider&for=pc",
+      "comment_index": 2,
+      "user_id": "软萌直播主播",
+      "comment_time": "09-05 12:33",
+      "comment_content": "内容不错，期待更多！",
+      "user_location": "上海",
+      "like_count": 1,
+      "scrape_time": "2025-09-12 18:39:46",
+      "event_time": "9月5日 11:56"
+    },
+    {
+      "event_title": "冯绍峰景甜否认传闻,宣传新剧《灼灼风流》",
+      "event_id": "event_4",
+      "event_url": "http://cj.sina.com.cn/articles/view/3103898980/pb901bd6402701dxja",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:39:48",
+      "event_time": "9月4日 09:10"
+    },
+    {
+      "event_title": "37岁景甜与46岁冯绍峰被疯传已闪婚?景甜方澄清:她未婚单身",
+      "event_id": "event_5",
+      "event_url": "http://www.163.com/dy/article/K8JNU1TR05565655.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 18:39:51",
+      "event_time": "9月4日 08:55"
+    }
+  ],
+  "statistics": {
+    "total_sub_events": 5,
+    "total_comments": 6,
+    "events_with_comments": 5,
+    "level1_scrape_time": "2025-09-12 18:39:26",
+    "level2_scrape_time": "2025-09-12 18:39:51"
+  }
+}

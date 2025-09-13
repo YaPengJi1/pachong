@@ -1,0 +1,85 @@
+{
+  "core_event_name": "美联储理事提名人变动",
+  "comments": [
+    {
+      "event_title": "美联储理事提名人Miran:如果在美联储的任期超过4.5个月,我将因为这样的提名而辞去(在总统特朗普白宫的)职务",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842350732703821407&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:56:42",
+      "event_time": "9月5日 00:16"
+    },
+    {
+      "event_title": "美联储理事提名人米兰:美联储在20世纪70年代合并了名义利率和实际利率。",
+      "event_id": "event_2",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-04/detail-infpkany3143044.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:56:44",
+      "event_time": "9月4日 23:50"
+    },
+    {
+      "event_title": "美联储理事提名人Miran:美联储主席(鲍威尔)曾说通胀是暂时的,那样做并不明智",
+      "event_id": "event_3",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842348562605574652&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:57:02",
+      "event_time": "9月4日 23:41"
+    },
+    {
+      "event_title": "美联储理事会提名人米兰:若获提名连任美联储职位,将辞去经济顾问委员会职务",
+      "event_id": "event_4",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-04/detail-infpkany3137400.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:57:04",
+      "event_time": "9月4日 23:06"
+    },
+    {
+      "event_title": "美联储理事提名人米兰:美联储的主要工作是防止萧条和通胀。",
+      "event_id": "event_5",
+      "event_url": "http://finance.sina.cn/7x24/2025-09-04/detail-infpfxpy4087091.d.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:57:06",
+      "event_time": "9月4日 01:07"
+    },
+    {
+      "event_title": "美联储理事提名人米兰听证会核心要点梳理",
+      "event_id": "event_6",
+      "event_url": "https://",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 19:57:08",
+      "event_time": "1970年"
+    }
+  ],
+  "total_comments": 6,
+  "scrape_time": "2025-09-12 19:57:08"
+}

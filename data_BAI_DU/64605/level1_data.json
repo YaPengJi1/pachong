@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "加拉塔萨雷想签大马丁，曼联暗度陈仓压哨签大马丁",
+    "update_time": "更新至20250903",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 01:19:37"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "英媒:加拉塔萨雷想签大马丁,维拉收到合适报价预计就会放人",
+      "link": "http://www.163.com/dy/article/K8G729I80529DS7F.html",
+      "time": "9月3日 00:03",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "邮报:夏窗仅曼联一队报价大马丁",
+      "link": "http://sports.sina.com.cn/g/2025-09-02/doc-infpatck8862721.shtml",
+      "time": "9月2日 14:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "曼联救命稻草!大马丁或压哨驰援,红魔门将危机迎终极答案",
+      "link": "http://www.sohu.com/a/930796915_121315928",
+      "time": "9月1日 17:36",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "曼联压哨签下大马丁，桑乔可能被交易",
+      "link": "http://www.bilibili.com/video/BV1hAaHzkEoR",
+      "time": "9月1日 15:18",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 01:19:52"
+}

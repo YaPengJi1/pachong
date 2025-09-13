@@ -1,0 +1,36 @@
+{
+  "core_info": {
+    "core_event_name": "苹果17Air系列手机发布",
+    "update_time": "更新至20250910",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-12 10:40:32"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "iPhone17Air亮相!首推纤薄款机型,起售价7999元",
+      "link": "http://baijiahao.baidu.com/s?id=1842836780452869033&wfr=spider&for=pc",
+      "time": "9月10日 09:01",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "苹果“史上最薄”iPhoneAir手机发布,厚度仅5.6mm",
+      "link": "http://baijiahao.baidu.com/s?id=1842835459501912523&wfr=spider&for=pc",
+      "time": "9月10日 08:40",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "iPhone17Air版是苹果公司全新设计的一款手机,新品通常会推迟发售",
+      "link": "http://mbd.baidu.com/newspage/data/dtlandingwise?sourceFrom=reyi&nid=dt_3723576774670883620",
+      "time": "9月10日 00:57",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 3,
+  "scrape_time": "2025-09-12 10:40:46"
+}

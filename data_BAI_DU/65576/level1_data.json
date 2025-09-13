@@ -1,0 +1,100 @@
+{
+  "core_info": {
+    "core_event_name": "国足选帅",
+    "update_time": "更新至20250908",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:13:14"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "国足选帅年轻化",
+      "link": "http://baijiahao.baidu.com/s?id=1842696574572074883&wfr=spider&for=pc",
+      "time": "9月8日 19:52",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "由足协把关 国足新帅3人最有可能 宋凯豪赌世界杯",
+      "link": "http://cj.sina.com.cn/articles/view/2834321443/a8f0502300101mi1e",
+      "time": "9月8日 00:04",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "国足公开选帅，明确新任主帅带队目标：完成2030年世界杯参赛目标任务",
+      "link": "http://baijiahao.baidu.com/s?id=1842505966899223755&wfr=spider&for=pc",
+      "time": "9月6日 17:23",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "正式选帅!足协更新国足新帅标准,一堆名帅落选,施密特呼声最高",
+      "link": "http://k.sina.cn/article_5850878694_15cbd52e6001016ffi.html",
+      "time": "9月6日 09:27",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_5",
+      "title": "国足选帅应拒绝关系户",
+      "link": "http://baijiahao.baidu.com/s?id=1842438743491175097&wfr=spider&for=pc",
+      "time": "9月5日 23:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_6",
+      "title": "国足选帅标准公布，谁能带队晋级世界杯?",
+      "link": "http://finance.sina.com.cn/roll/2025-09-05/doc-infpnfmz0590088.shtml",
+      "time": "9月5日 22:48",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_7",
+      "title": "15天火速敲定人选 冲2030世界杯国足又开始公开选帅了",
+      "link": "http://baijiahao.baidu.com/s?id=1842422557204208425&wfr=spider&for=pc",
+      "time": "9月5日 19:17",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_8",
+      "title": "国足公开选帅，目标打进2030世界杯",
+      "link": "http://baijiahao.baidu.com/s?id=1842433972155987792&wfr=spider&for=pc",
+      "time": "9月5日 18:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_9",
+      "title": "国足公开选帅，吴金贵、谢晖、陈洋“自由身”",
+      "link": "http://www.163.com/dy/article/K8N4K3AS0529AQIE.html",
+      "time": "9月5日 16:35",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_10",
+      "title": "国足帅位再掀波澜!选帅背后那些不为人知的故事与数据解析",
+      "link": "http://www.sohu.com/a/932207004_121894857",
+      "time": "9月5日 16:10",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_11",
+      "title": "国足20多年已换帅16人，除里皮外几乎是下课",
+      "link": "http://www.163.com/dy/article/K8N1J3F20529AQIE.html",
+      "time": "9月5日 15:42",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 11,
+  "scrape_time": "2025-09-13 02:13:28"
+}

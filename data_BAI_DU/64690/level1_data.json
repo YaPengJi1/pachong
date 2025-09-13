@@ -1,0 +1,44 @@
+{
+  "core_info": {
+    "core_event_name": "第15号台风“琵琶”",
+    "update_time": "更新至2025年9月5日 09:26",
+    "sub_event_count": 0,
+    "scrape_time": "2025-09-13 02:40:46"
+  },
+  "sub_events": [
+    {
+      "id": "event_1",
+      "title": "今年第15号台风“琵琶”再次登陆日本",
+      "link": "https://baijiahao.baidu.com/s?id=1842385371205612685&wfr=spider&for=pc",
+      "time": "9月5日 09:26",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_2",
+      "title": "台风“琵琶”向东北方向移动 趋向日本四国岛南部沿海",
+      "link": "https://baijiahao.baidu.com/s?id=1842331229542935708&wfr=spider&for=pc",
+      "time": "9月4日 19:05",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_3",
+      "title": "第15号台风“琵琶”生成，对上海无直接影响",
+      "link": "https://baijiahao.baidu.com/s?id=1842315155932786028&wfr=spider&for=pc",
+      "time": "9月4日 13:29",
+      "summary": "",
+      "author": ""
+    },
+    {
+      "id": "event_4",
+      "title": "第15号台风“琵琶”生成",
+      "link": "https://baijiahao.baidu.com/s?id=1842289203052853775&wfr=spider&for=pc",
+      "time": "9月4日 07:58",
+      "summary": "",
+      "author": ""
+    }
+  ],
+  "total_sub_events": 4,
+  "scrape_time": "2025-09-13 02:41:00"
+}

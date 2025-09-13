@@ -1,0 +1,72 @@
+{
+  "core_event_name": "委内瑞拉出动战机两次掠飞美军舰",
+  "comments": [
+    {
+      "event_title": "两架委内瑞拉空军的F-16战机超低空掠过美国军舰",
+      "event_id": "event_1",
+      "event_url": "http://baijiahao.baidu.com/s?id=1842763721148298354&wfr=spider&for=pc",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "无评论",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:11:32",
+      "event_time": "9月9日 13:40"
+    },
+    {
+      "event_title": "委内瑞拉出动战机两次挂弹低空掠飞美军舰",
+      "event_id": "event_2",
+      "event_url": "http://new.qq.com/rain/a/20250908A04S4K00",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:11:34",
+      "event_time": "9月8日 17:35"
+    },
+    {
+      "event_title": "美国增兵!“10架F-35已出动”",
+      "event_id": "event_3",
+      "event_url": "http://cj.sina.com.cn/articles/view/2137950223/7f6e880f01902d0ge",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:11:36",
+      "event_time": "9月7日 11:58"
+    },
+    {
+      "event_title": "委内瑞拉空军两架苏-30战机飞越美国海军舰群",
+      "event_id": "event_4",
+      "event_url": "http://haokan.baidu.com/v?pd=wisenatural&vid=17047496366357391716",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:11:38",
+      "event_time": "9月6日 19:42"
+    },
+    {
+      "event_title": "美将向波多黎各部署10架F35战机",
+      "event_id": "event_5",
+      "event_url": "http://m.yicai.com/brief/102811048.html",
+      "comment_index": 0,
+      "user_id": "",
+      "comment_time": "",
+      "comment_content": "非百家号页面，跳过评论爬取",
+      "user_location": "",
+      "like_count": 0,
+      "scrape_time": "2025-09-12 10:11:40",
+      "event_time": "9月5日 16:39"
+    }
+  ],
+  "total_comments": 5,
+  "scrape_time": "2025-09-12 10:11:40"
+}
